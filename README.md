@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to my HacktoberFest Starter Project
 
-You can use the [editor on GitHub](https://github.com/AliceWonderland/hacktoberfest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Celebrate HacktoberFest by contributing to this project! This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[https://alicewonderland.github.io/hacktoberfest/](https://alicewonderland.github.io/hacktoberfest/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is Hacktoberfest?
+A month-long celebration from October 1st - 31st to get people involved in [Open Source](https://github.com/open-source). Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
 
-```markdown
-Syntax highlighted code block
+Here's a HacktoberFest contest from DigitalOcean - [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### How Contribute
+Make your very first pull request to this project. Here are 3 quick and painless ways to contribute to this project:
 
-1. Numbered
-2. List
+* Add your name to the CONTRIBUTORS.md file
+* Add a Profile Page to the Contributors directory
+* Create a simple 'Hello, World' script in any other language of your choice
 
-**Bold** and _Italic_ and `Code` text
+Choose one or all 3, make Pull Requests for your work,
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### How to Make a Pull Request
+* Fork this repository
+* Clone your fork down to your local machine
+* Create a branch
+* Make your changes
+* Commit and Push
+* Wait for your PR review and merge approval!
+* __Star__ this repository if you had fun!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AliceWonderland/hacktoberfest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
