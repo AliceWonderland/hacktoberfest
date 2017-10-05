@@ -112,3 +112,8 @@
 - Place: Roorkee, Uttrakhand, India
 - Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
 - Github: [Ishan Jain](https://github.com/ishanjain28)
+
+#### Name: [Anupam Dagar](https://github.com/Anupam-dagar)
+- Place: Allahabad, India
+- Bio: I am like a code currently in development.
+- GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)
