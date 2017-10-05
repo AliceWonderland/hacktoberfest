@@ -42,3 +42,8 @@
 - Place: IL, USA
 - Bio: CS Grad Student
 - GitHub: [Amlaan Bhoi](https://github.com/amlaanb)
+
+#### Name: [Cecy Correa](https://github.com/cecyc)
+- Place: USA
+- Bio: Software Engineer at ReturnPath
+- Github: [cecyc](https://github.com/cecyc)
