@@ -108,3 +108,7 @@
 - Bio: I am a caffeine based artificial life form.
 - GitHub: [Brane](https://github.com/brane)
 
+#### Name: [Anupam Dagar](https://github.com/Anupam-dagar)
+- Place: Allahabad, India
+- Bio: I am like a code currently in development.
+- GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)
