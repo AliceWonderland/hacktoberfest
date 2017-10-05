@@ -19,6 +19,10 @@
 - Bio: Computer Science Major
 - GitHub: [Stephen Dzialo](https://github.com/dzials)
 
+#### Name: [Taf Meister](https://github.com/tashrafy)
+- Place: NYC
+- Bio: Developer =]
+
 #### Name: [RAFAEL MENEZES](https://github.com/RafaelSa94)
 - Place: Boa Vista, Roraima, Brazil
 - Bio: Computer Science Major
