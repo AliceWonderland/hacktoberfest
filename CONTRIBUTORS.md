@@ -87,3 +87,8 @@
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
 - GitHub: [Evan Culver](https://github.com/eculver)
+
+#### Name: [Karthick Thoppe](https://github.com/karthicktv)
+- Place: Dublin, Ireland
+- Bio: I am a Solution Architect and work for a large SaaS organization
+- GitHub: [Karthick Thoppe](https://github.com/karthicktv)
