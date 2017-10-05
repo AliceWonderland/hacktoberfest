@@ -45,7 +45,7 @@ git push origin branch-name
 ```
 * Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
 * Wait for your PR review and merge approval!
-* __Star__ this repository if you had fun!
+* __Star this repository__ if you had fun!
 
 ## Choose From These Tasks
 ### Add Your Name
@@ -101,6 +101,6 @@ console.log('Hello, World!');
 Here is a great tutorial for creating your first Pull Request by [Roshjan Jossey](https://github.com/Roshanjossey)
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
-Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) A curated list of awesome READMEs
+Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
