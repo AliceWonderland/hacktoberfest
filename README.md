@@ -33,7 +33,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 ```
 * Create a branch
 ```markdown
-git checkout -b add-your-name
+git checkout -b branch-name
 ```
 * Make your changes (Choose from any task below)
 * Merge the latest from Master, resolve any conflicts
