@@ -154,3 +154,8 @@
 - Place: Sweden
 - Bio: What happens in Git stays in Git
 - GitHub: [Anders Jürisoo](https://github.com/ajthinking)
+
+#### Name: [Søren Eriksen](https://github.com/soer7022)
+- Place: Denmark
+- Bio: Currently studying computerscience at Aarhus University
+- Github: [Søren Eriksen](https://github.com/soer7022)
