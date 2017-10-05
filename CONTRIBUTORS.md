@@ -53,4 +53,7 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-
+#### Name: [Leah Langfrod](https://github.com/leahlang4d2)
+- Place: CA, USA
+- Bio: Recent Bachelors in Computer Science
+- Github: [Leah Langford](https://github.com/leahlang4d2)
