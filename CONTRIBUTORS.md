@@ -87,3 +87,8 @@
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
 - GitHub: [Evan Culver](https://github.com/eculver)
+
+#### Name: [Franklyn Roth](https://github.com/far3)
+- Place: Boulder, CO, USA
+- Bio: I am a web developer working on finance sites. Specialize in accessibility.
+- GitHub: [Franklyn Roth](https://github.com/far3)
