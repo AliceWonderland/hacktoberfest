@@ -32,3 +32,8 @@
 - Place: USA
 - Bio: Professional Geek
 - GitHub: [Patrick S](https://github.com/patsteph)
+
+#### Name: [Michael Cao](https://github.com/mcao)
+- Place: PA, USA
+- Bio: Student
+- GitHub: [Michael Cao](https://github.com/mcao)
