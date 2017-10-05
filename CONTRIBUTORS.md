@@ -1,3 +1,5 @@
+
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
@@ -52,6 +54,11 @@
 - Place: WI, USA
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
+
+#### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
+- Place: Poland
+- Bio: second year Computer Science Student, in love with NYC <3
+- GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [Leah Langfrod](https://github.com/leahlang4d2)
 - Place: CA, USA
