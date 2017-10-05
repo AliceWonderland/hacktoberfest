@@ -36,12 +36,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 git checkout -b branch-name
 ```
 * Make your changes (Choose from any task below)
-* Merge the latest from Master, resolve any conflicts
-```markdown
-git remote add upstream https://github.com/AliceWonderland/hacktoberfest.git
-git fetch upstream
-git pull upstream master
-```
+* When changes are complete, sync your fork (See here for how-to - [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/))
 * Commit and Push
 ```markdown
 git add .
