@@ -199,3 +199,8 @@
 - Place: Denmark
 - Bio: Currently studying computerscience at Aarhus University
 - Github: [Søren Eriksen](https://github.com/soer7022)
+
+#### Name: [Cristiano Bianchi](https://github.com/crisbnk)
+- Place: Italy
+- Bio: Love to learn something new everyday
+- GitHub: [crisbnk](https://github.com/crisbnk)
