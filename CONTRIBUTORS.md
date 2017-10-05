@@ -130,7 +130,48 @@
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
 
+#### Name: [Jasdy Syarman](https://github.com/akutaktau)
+- Place: Malaysia
+- Bio: PHP Programmer
+- GitHub: [akutaktau](https://github.com/akutaktau)
+
+#### Name: [Rupesh Kumar](https://github.com/vmcniket)
+- Place: India
+- Bio: KIIT University IT student
+- GitHub: [vmcniket](https://github.com/vmcniket)
+
+#### Name: [Shelby Stanton](https://github.com/Minimilk93)
+- Place: Leeds, England
+- Bio: Front End Developer who loves cats and gaming!
+- GitHub: [Minimilk93](https://github.com/Minimilk93)
+
+#### Name: [Michael Nyamande](https://github.com/mikeyny)
+- Place: Harare ,Zimbabwe
+- Bio: Eat , ~~Sleep~~ , Code
+- GitHub: [Mikeyny](https://github.com/mikeyny)
+
+#### Name: [Anders Jürisoo](https://github.com/ajthinking)
+- Place: Sweden
+- Bio: What happens in Git stays in Git
+- GitHub: [Anders Jürisoo](https://github.com/ajthinking)
+
+#### Name: [Dvir](https://github.com/dvur12)
+- Place: Israel
+- Bio: \x90\x90\x90\x90
+- GitHub: [Dvir](https://github.com/dvur12)
+
+#### Name: [Xavier Marques](https://github.com/wolframtheta)
+- Place: Corbera de Llobregat, Barcelona, Catalonia
+- Bio: Computer Science Major
+- GitHub: [WolframTheta](https://github.com/wolframtheta)
+
+#### Name: [Vishal](https://dainvinc.github.io)
+- Place: New York
+- Bio: Software developer with a knack to learn things quickly.
+- GitHub: [dainvinc](https://github.com/dainvinc)
+
 ### Name: [Niall Cartwright](https://github.com/Nairu)
 - Place: Birmingham, UK
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
 - GitHub: [Niall Cartwright](https://github.com/Nairu)
+
