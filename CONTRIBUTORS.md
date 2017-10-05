@@ -159,3 +159,9 @@
 - Place: Israel
 - Bio: \x90\x90\x90\x90
 - GitHub: [Dvir](https://github.com/dvur12)
+
+#### Name: [Xavier Marques](https://github.com/wolframtheta)
+- Place: Corbera de Llobregat, Barcelona, Catalonia
+- Bio: Computer Science Major
+- GitHub: [WolframTheta](https://github.com/wolframtheta)
+
