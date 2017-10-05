@@ -175,3 +175,7 @@
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
 - GitHub: [Niall Cartwright](https://github.com/Nairu)
 
+#### Name: [Justin I] (https://github.com/Jish80)
+- Place: IL, USA
+- Bio: Work hard
+- GitHub: [Jish80] (https://github.com/Jish80)
