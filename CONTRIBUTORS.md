@@ -129,3 +129,9 @@
 - Place: South Africa
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
+
+#### Name: [Xavier Marques](https://github.com/wolframtheta)
+- Place: Corbera de Llobregat, Barcelona, Catalonia
+- Bio: Computer Science Major
+- GitHub: [WolframTheta](https://github.com/wolframtheta)
+
