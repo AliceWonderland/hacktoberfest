@@ -150,3 +150,7 @@
 - Bio: Eat , ~~Sleep~~ , Code
 - GitHub: [Mikeyny](https://github.com/mikeyny)
 
+#### Name: [Anders Jürisoo](https://github.com/ajthinking)
+- Place: Sweden
+- Bio: What happens in Git stays in Git
+- GitHub: [Anders Jürisoo](https://github.com/ajthinking)
