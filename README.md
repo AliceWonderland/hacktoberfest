@@ -108,9 +108,11 @@ If a file in the language of your choice already exists, create a new one with y
 Here is a great tutorial for creating your first Pull Request by [Roshan Jossey](https://github.com/Roshanjossey)
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
-Syncing a fork [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+Managing your Forked Repo [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
-Keep your fork up-to-date [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
+Syncing a Fork [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+
+Keep Your Fork Synced [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
 
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
