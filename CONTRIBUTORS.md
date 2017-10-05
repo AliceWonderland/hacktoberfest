@@ -38,6 +38,11 @@
 - Bio: Student
 - GitHub: [Michael Cao](https://github.com/mcao)
 
+#### Name: [Amlaan Bhoi](https://github.com/amlaanb)
+- Place: IL, USA
+- Bio: CS Grad Student
+- GitHub: [Amlaan Bhoi](https://github.com/amlaanb)
+
 #### Name: [Cecy Correa](https://github.com/cecyc)
 - Place: USA
 - Bio: Software Engineer at ReturnPath
