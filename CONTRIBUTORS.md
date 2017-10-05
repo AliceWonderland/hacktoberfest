@@ -175,6 +175,31 @@
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
 - GitHub: [Niall Cartwright](https://github.com/Nairu)
 
+#### Name: [Justin I](https://github.com/Jish80)
+- Place: IL, USA
+- Bio: Work hard
+- GitHub: [Jish80] (https://github.com/Jish80)
+
+#### Name: [APOORVA SHARMA](https://github.com/okatticus)
+- Place: Himachal Pradesh,India
+- Bio: A student happy to write code and poetry.
+- GitHub: [Apoorva Sharma](https://github.com/okatticus)
+
+#### Name: [Prateek Pandey](https://github.com/prateekpandey14)
+- Place: Bangalore, India
+- Bio: Opensource Enthusiast, Opensource Golang developer
+- GitHub: [Prateek Pandey](https://github.com/prateekpandey14)
+
+#### Name: [CodHeK](https://github.com/CodHeK)
+- Place: Mumbai, India
+- Bio: Cuber/Coder
+- GitHub: [CodHeK](https://github.com/CodHeK)
+
+#### Name: [Søren Eriksen](https://github.com/soer7022)
+- Place: Denmark
+- Bio: Currently studying computerscience at Aarhus University
+- Github: [Søren Eriksen](https://github.com/soer7022)
+
 #### Name: [Cristiano Bianchi](https://github.com/crisbnk)
 - Place: Italy
 - Bio: Love to learn something new everyday
