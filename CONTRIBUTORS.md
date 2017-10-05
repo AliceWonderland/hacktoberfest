@@ -129,3 +129,8 @@
 - Place: South Africa
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
+
+#### Name: [Dvir](https://github.com/dvur12)
+- Place: Israel
+- Bio: \x90\x90\x90\x90
+- GitHub: [Dvir](https://github.com/dvur12)
