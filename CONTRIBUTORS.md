@@ -154,3 +154,8 @@
 - Place: Sweden
 - Bio: What happens in Git stays in Git
 - GitHub: [Anders Jürisoo](https://github.com/ajthinking)
+
+#### Name: [Dvir](https://github.com/dvur12)
+- Place: Israel
+- Bio: \x90\x90\x90\x90
+- GitHub: [Dvir](https://github.com/dvur12)
