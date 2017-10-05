@@ -205,7 +205,14 @@
 - Bio: Love to learn something new everyday
 - GitHub: [crisbnk](https://github.com/crisbnk)
 
+
+#### Name: [Paulo Henrique Scherer](https://github.com/phscherer)
+- Place: Brazil
+- Bio: Student and newbie software developer
+- GitHub: [phscherer](https://github.com/phscherer)
+
 #### Name: [Aldo Cano](https://github.com/aldocano)
 - Place: Tirana, Albania
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
+
