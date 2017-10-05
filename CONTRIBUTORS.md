@@ -57,3 +57,8 @@
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
 - Github: [Leah Langford](https://github.com/leahlang4d2)
+
+#### Name: [Deepak Srivatsav](https://github.com/dvatsav)
+- Place: Delhi, India
+- Bio: Undergraduate
+- Github: [Deepak Srivatsav](https://github.com/dvatsav)
