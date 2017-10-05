@@ -72,3 +72,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: B.Tech Student in Information Technology
 - GitHub: [Niket Mishra](https://github.com/niketmishra)
+
+#### Name: [Michael Rodriguez](https://github.com/vinird)
+- Place: Alajuea, Alajuela, Costa Rica
+- Bio: Web dev adn graphic designer
+- GitHub: [vinird](https://github.com/vinird)
