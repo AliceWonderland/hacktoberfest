@@ -57,3 +57,8 @@
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
 - Github: [Leah Langford](https://github.com/leahlang4d2)
+
+#### Name: [Campion Fellin](https://github.com/campionfellin)
+- Place: Seattle, WA, USA
+- Bio: I love open source and coffee! New grad looking for work!
+- GitHub: [Campion Fellin](https://github.com/campionfellin)
