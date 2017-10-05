@@ -154,3 +154,10 @@
 - Place: Sweden
 - Bio: What happens in Git stays in Git
 - GitHub: [Anders Jürisoo](https://github.com/ajthinking)
+
+#### Name: [Prateek Pandey](https://github.com/prateekpandey14)
+- Place: Bangalore, India
+- Bio: Opensource Enthusiast, Opensource Golang developer
+- GitHub: [Prateek Pandey](https://github.com/prateekpandey14)
+
+
