@@ -130,6 +130,16 @@
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
 
+#### Name: [Jasdy Syarman](https://github.com/akutaktau)
+- Place: Malaysia
+- Bio: PHP Programmer
+- GitHub: [akutaktau](https://github.com/akutaktau)
+
+#### Name: [Rupesh Kumar](https://github.com/vmcniket)
+- Place: India
+- Bio: KIIT University IT student
+- GitHub: [vmcniket](https://github.com/vmcniket)
+
 #### Name: [Shelby Stanton](https://github.com/Minimilk93)
 - Place: Leeds, England
 - Bio: Front End Developer who loves cats and gaming!
