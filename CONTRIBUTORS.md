@@ -62,3 +62,8 @@
 - Place: Lake Forest, CA, USA
 - Bio: Multiple corgi owner and a Senior Software Developer
 - Github: [Eric Nord](https://github.com/thateric)
+
+#### Name: [Campion Fellin](https://github.com/campionfellin)
+- Place: Seattle, WA, USA
+- Bio: I love open source and coffee! New grad looking for work!
+- GitHub: [Campion Fellin](https://github.com/campionfellin)
