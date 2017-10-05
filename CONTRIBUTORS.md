@@ -134,3 +134,8 @@
 - Place: Malaysia
 - Bio: PHP Programmer
 - GitHub: [akutaktau](https://github.com/akutaktau)
+
+#### Name: [Rupesh Kumar](https://github.com/vmcniket)
+- Place: India
+- Bio: KIIT University IT student
+- GitHub: [vmcniket](https://github.com/vmcniket)
