@@ -144,3 +144,9 @@
 - Place: Leeds, England
 - Bio: Front End Developer who loves cats and gaming!
 - GitHub: [Minimilk93](https://github.com/Minimilk93)
+
+#### Name: [Michael Nyamande](https://github.com/mikeyny)
+- Place: Harare ,Zimbabwe
+- Bio: Eat , ~~Sleep~~ , Code
+- GitHub: [Mikeyny](https://github.com/mikeyny)
+
