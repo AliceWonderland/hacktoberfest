@@ -7,12 +7,13 @@
 // This hello world uses Javascript Objects and Classes.
 // Creates a Person object using the Constructor function and a method greeting() that logs out and returns a greeting string.
 // Written in ES5 and ES6 versions of Javascript. Comment out one of the versions before running.
+// Try it for yourself here, https://repl.it/MIOm/11
 
 
 // Javascript ES5
 var Person = function(name,location){
-  this.name = name;
-  this.place = location;
+  this.name = (name) ? name : "Anyonymous";
+  this.place = (location) ? location : "USA";
 }
 
 Person.prototype.greeting = function(name){
