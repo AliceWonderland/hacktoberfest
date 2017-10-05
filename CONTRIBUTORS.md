@@ -92,3 +92,8 @@
 - Place: Boulder, CO, USA
 - Bio: I am a web developer working on finance sites. Specialize in accessibility.
 - GitHub: [Franklyn Roth](https://github.com/far3)
+
+#### Name: [Karthick Thoppe](https://github.com/karthicktv)
+- Place: Dublin, Ireland
+- Bio: I am a Solution Architect and work for a large SaaS organization
+- GitHub: [Karthick Thoppe](https://github.com/karthicktv)
