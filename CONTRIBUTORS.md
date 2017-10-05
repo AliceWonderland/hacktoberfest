@@ -169,3 +169,9 @@
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
+
+### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
