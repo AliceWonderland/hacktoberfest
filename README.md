@@ -103,7 +103,7 @@ console.log('Hello, World!');
 
 If a file in the language of your choice already exists, create a new one with your github username appended. Here is an example: `hello_world_alicewonderland.js`
 
-Don't forget to include your comments as seen above. Feel free to include any additional information about the lanuage you chose in your comments too!
+Don't forget to include the comments as seen above. Feel free to include any additional information about the lanuage you chose in your comments too! Like a link to a helpful introduction or tutorial.
 
 ## Reference Links
 Here is a great tutorial for creating your first Pull Request by [Roshan Jossey](https://github.com/Roshanjossey)
