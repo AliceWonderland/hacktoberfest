@@ -165,3 +165,7 @@
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [Vishal](https://dainvinc.github.io)
+- Place: New York
+- Bio: Software developer with a knack to learn things quickly.
+- GitHub: [dainvinc](https://github.com/dainvinc)
