@@ -194,3 +194,8 @@
 - Place: Mumbai, India
 - Bio: Cuber/Coder
 - GitHub: [CodHeK](https://github.com/CodHeK)
+
+#### Name: [Søren Eriksen](https://github.com/soer7022)
+- Place: Denmark
+- Bio: Currently studying computerscience at Aarhus University
+- Github: [Søren Eriksen](https://github.com/soer7022)
