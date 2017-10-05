@@ -93,3 +93,8 @@
 - Bio: I'm Software Engineer at Dinosys
 - GitHub: [Ken Supermen](https://github.com/kensupermen)
 
+#### Name: [Franklyn Roth](https://github.com/far3)
+- Place: Boulder, CO, USA
+- Bio: I am a web developer working on finance sites. Specialize in accessibility.
+- GitHub: [Franklyn Roth](https://github.com/far3)
+
