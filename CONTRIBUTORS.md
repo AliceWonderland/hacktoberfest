@@ -18,3 +18,8 @@
 - Place: USA
 - Bio: Computer Science Major
 - GitHub: [Stephen Dzialo](https://github.com/dzials)
+
+#### Name: [Cecy Correa](https://github.com/cecyc)
+- Place: USA
+- Bio: Software Engineer at ReturnPath
+- Github: [cecyc](https://github.com/cecyc)
