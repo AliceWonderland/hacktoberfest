@@ -1,30 +1,21 @@
-# Alice Chuang
+# Your Name
 
 ### Academics
 
-Undergraduate in B.A. (Management Information Systems) from Babson College
+Your School
 
 ### Interests
 
-- User Interface and User Experience
-- Javascript-Based Technologies
-- Node, Express, React/Redux, Sequelize, Postgres
-- Sockets
-- Memes
-- I LOVE DOGS
+- Some Things You Like
 
 ### Development
 
-- Frontend UI Engineer, Fullstack Software Engineer
-
-
+- Inventor of the My Pillow
 
 ### Projects
 
-
-- [SLYDV](https://github.com/EvilDeds/slydv) A presentation slide-creation tool for Developers
-- [GIPHY Meme Generator](https://github.com/AliceWonderland/giphy-meme) A desktop app lets you create your own custom memes. Built using Electron and GIPHY API
+- [My Project](GitHub Link) Short Description
 
 ### Profile Link
 
-[Alice Chuang](https://github.com/AliceWonderland)
+[Your Name](GitHub Link)
