@@ -62,3 +62,8 @@
 - Place: Seattle, WA, USA
 - Bio: I love open source and coffee! New grad looking for work!
 - GitHub: [Campion Fellin](https://github.com/campionfellin)
+
+#### Name: [Shade Ruangwan](https://github.com/sruangwan)
+- Place: Nara, Japan
+- Bio: PhD student in Software Engineering
+- Github: [Shade Ruangwan](https://github.com/sruangwan)
