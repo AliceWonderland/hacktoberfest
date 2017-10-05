@@ -139,3 +139,8 @@
 - Place: India
 - Bio: KIIT University IT student
 - GitHub: [vmcniket](https://github.com/vmcniket)
+
+#### Name: [Shelby Stanton](https://github.com/Minimilk93)
+- Place: Leeds, England
+- Bio: Front End Developer who loves cats and gaming!
+- GitHub: [Minimilk93](https://github.com/Minimilk93)
