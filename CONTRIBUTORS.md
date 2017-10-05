@@ -129,3 +129,8 @@
 - Place: South Africa
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
+
+#### Name: [Rupesh Kumar](https://github.com/vmcniket)
+- Place: India
+- Bio: KIIT University IT student
+- GitHub: [vmcniket](https://github.com/vmcniket)
