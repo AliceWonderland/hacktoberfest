@@ -1,3 +1,5 @@
+
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! And Knitting, Sewing, Crochet, and Food!
@@ -53,4 +55,8 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-
+Add your name to the CONTRIBUTORS.md file using the below convention:
+#### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
+- Place: Poland
+- Bio: second year Computer Science Student, in love with NYC <3
+- GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
