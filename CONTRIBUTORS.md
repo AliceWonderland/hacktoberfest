@@ -129,3 +129,8 @@
 - Place: South Africa
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
+
+#### Name: [Anders Jürisoo](https://github.com/ajthinking)
+- Place: Sweden
+- Bio: What happens in Git stays in Git
+- GitHub: [Anders Jürisoo](https://github.com/ajthinking)
