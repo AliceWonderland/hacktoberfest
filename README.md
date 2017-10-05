@@ -36,7 +36,6 @@ git clone https://github.com/your-username/hacktoberfest.git
 git checkout -b branch-name
 ```
 * Make your changes (Choose from any task below)
-* When changes are complete, sync your fork ([https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/))
 * Commit and Push
 ```markdown
 git add .
