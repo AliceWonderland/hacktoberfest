@@ -184,3 +184,8 @@
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
+
+#### Name: [Prateek Pandey](https://github.com/prateekpandey14)
+- Place: Bangalore, India
+- Bio: Opensource Enthusiast, Opensource Golang developer
+- GitHub: [Prateek Pandey](https://github.com/prateekpandey14)
