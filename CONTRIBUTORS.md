@@ -72,3 +72,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: B.Tech Student in Information Technology
 - GitHub: [Niket Mishra](https://github.com/niketmishra)
+
+#### Name: [Evan Culver](https://github.com/eculver)
+- Place: San Francisco, CA, USA
+- Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
+- GitHub: [Evan Culver](https://github.com/eculver)
