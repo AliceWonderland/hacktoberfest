@@ -154,3 +154,8 @@
 - Place: Sweden
 - Bio: What happens in Git stays in Git
 - GitHub: [Anders Jürisoo](https://github.com/ajthinking)
+
+#### Name: [CodHeK](https://github.com/CodHeK)
+- Place: Mumbai, India
+- Bio: Cuber/Coder
+- GitHub: [CodHeK](https://github.com/CodHeK)
