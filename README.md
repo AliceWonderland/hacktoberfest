@@ -48,7 +48,7 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ## Choose From These Tasks
-### Add Your Name
+### 1. Add Your Name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
@@ -58,11 +58,15 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [Your Name](GitHub Link)
 ```
 
-### Add a Profile Page
+### 2. Add a Profile Page
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and markdown you'd like. Here is an example:
 
 ```markdown
 # Your Name
+
+### Location
+
+Your City/Country
 
 ### Academics
 
@@ -85,7 +89,7 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-### Create a `Hello, World!` Script
+### 3. Create a `Hello, World!` Script
 Add a script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
