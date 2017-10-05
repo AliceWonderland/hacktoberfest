@@ -36,6 +36,12 @@ git clone https://github.com/your-username/hacktoberfest.git
 git checkout -b add-your-name
 ```
 * Make your changes (Choose from any task below)
+* Merge the latest from Master, resolve any conflicts
+```markdown
+git remote add upstream https://github.com/AliceWonderland/hacktoberfest.git
+git fetch upstream
+git pull upstream master
+```
 * Commit and Push
 ```markdown
 git add .
