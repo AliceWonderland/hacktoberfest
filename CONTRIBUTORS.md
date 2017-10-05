@@ -1,6 +1,6 @@
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
-- Bio: I love DOGS! And Knitting, Sewing, Crochet, and Food!
+- Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [GABE DUNN](https://github.com/redxtech)
