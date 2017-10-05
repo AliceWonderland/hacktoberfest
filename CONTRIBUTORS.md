@@ -124,3 +124,8 @@
 - Place: Allahabad, India
 - Bio: I am like a code currently in development.
 - GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)
+
+#### Name: [Phil](https://github.com/bitbrain-za)
+- Place: South Africa
+- Bio: Avid Tinkerer
+- GitHub: [bitbrain-za](https://github.com/bitbrain-za)
