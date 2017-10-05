@@ -175,3 +175,7 @@
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
 - GitHub: [Niall Cartwright](https://github.com/Nairu)
 
+#### Name: [Cristiano Bianchi](https://github.com/crisbnk)
+- Place: Italy
+- Bio: Love to learn something new everyday
+- GitHub: [crisbnk](https://github.com/crisbnk)
