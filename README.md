@@ -35,7 +35,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 ```markdown
 git checkout -b add-your-name
 ```
-* Make your changes
+* Make your changes (Choose from any task below)
 * Commit and Push
 ```markdown
 git add .
@@ -99,6 +99,8 @@ console.log('Hello, World!');
 ## Reference Links
 Here is a great tutorial for creating your first Pull Request by [Roshjan Jossey](https://github.com/Roshanjossey)
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+
+Keep your fork up-to-date [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
 
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
