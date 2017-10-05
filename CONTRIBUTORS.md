@@ -58,8 +58,17 @@
 - Bio: Recent Bachelors in Computer Science
 - Github: [Leah Langford](https://github.com/leahlang4d2)
 
+#### Name: [Eric Nor](https://github.com/thateric)
+- Place: Lake Forest, CA, USA
+- Bio: Multiple corgi owner and a Senior Software Developer
+- Github: [Eric Nord](https://github.com/thateric)
+
+#### Name: [Campion Fellin](https://github.com/campionfellin)
+- Place: Seattle, WA, USA
+- Bio: I love open source and coffee! New grad looking for work!
+- GitHub: [Campion Fellin](https://github.com/campionfellin)
+
 #### Name: [Niket Mishra](https://github.com/niketmishra)
 - Place: New Delhi, Delhi, India
 - Bio: B.Tech Student in Information Technology
 - GitHub: [Niket Mishra](https://github.com/niketmishra)
-
