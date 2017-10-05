@@ -204,3 +204,8 @@
 - Place: Italy
 - Bio: Love to learn something new everyday
 - GitHub: [crisbnk](https://github.com/crisbnk)
+
+#### Name: [Aldo Cano](https://github.com/aldocano)
+- Place: Tirana, Albania
+- Bio: A bug is never just a mistake...
+- GitHub: [Aldo Cano](https://github.com/aldocano)
