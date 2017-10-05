@@ -204,3 +204,8 @@
 - Place: Italy
 - Bio: Love to learn something new everyday
 - GitHub: [crisbnk](https://github.com/crisbnk)
+
+#### Name: [Paulo Henrique Scherer](https://github.com/phscherer)
+- Place: Brazil
+- Bio: Student and newbie software developer
+- GitHub: [phscherer](https://github.com/phscherer)
