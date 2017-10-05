@@ -129,3 +129,8 @@
 - Place: South Africa
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
+
+#### Name: [Jasdy Syarman](https://github.com/akutaktau)
+- Place: Malaysia
+- Bio: PHP Programmer
+- GitHub: [akutaktau](https://github.com/akutaktau)
