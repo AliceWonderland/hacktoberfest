@@ -27,3 +27,8 @@
 - Place: Boa Vista, Roraima, Brazil
 - Bio: Computer Science Major
 - GitHub: [Rafael Sá](https://github.com/RafaelSa94)
+
+#### Name: [Patrick S](https://github.com/patsteph)
+- Place: USA
+- Bio: Professional Geek
+- GitHub: [Patrick S](https://github.com/patsteph)
