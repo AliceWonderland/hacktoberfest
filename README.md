@@ -13,7 +13,7 @@ This is a Public Repository open to all members of the GitHub Community. Any mem
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/).
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 
 ## How Contribute to This Project
