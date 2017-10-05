@@ -4,6 +4,8 @@
 
 Celebrate HacktoberFest by getting involved in the Open Source Community. Use this project to make your first contribution to an open source project on GitHub.
 
+Practice making your first Pull Request to a public repository before doing the real thing!
+
 This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
 
 
@@ -24,6 +26,28 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a Pull Request for your work, wait for it to be merged!
 
+## Getting Started
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone your fork down to your local machine
+```markdown
+git clone https://github.com/your-username/hacktoberfest.git
+```
+* Create a branch
+```markdown
+git checkout -b add-your-name
+```
+* Make your changes
+* Commit and Push
+```markdown
+git add .
+git commit -m 'commit message'
+git push origin branch-name
+```
+*
+* Wait for your PR review and merge approval!
+* __Star__ this repository if you had fun!
+
+## Choose ANY or ALL Tasks Listed Below
 ### Add Your Name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
@@ -73,15 +97,8 @@ Add a script to the `scripts` directory in any language of your choice! Here is 
 console.log('Hello, World!');
 ```
 
-
-### How to Make a Pull Request
-* Fork this repository
-* Clone your fork down to your local machine
-* Create a branch
-* Make your changes
-* Commit and Push
-* Wait for your PR review and merge approval!
-* __Star__ this repository if you had fun!
+## Reference Links
+Here is a great tutorial for creating your first Pull Request by [Roshjan Jossey](https://github.com/Roshanjossey) [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
 
 
