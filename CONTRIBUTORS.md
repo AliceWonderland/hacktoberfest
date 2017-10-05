@@ -18,3 +18,8 @@
 - Place: USA
 - Bio: Computer Science Major
 - GitHub: [Stephen Dzialo](https://github.com/dzials)
+
+#### Name: [RAFAEL MENEZES](https://github.com/RafaelSa94)
+- Place: Boa Vista, Roraima, Brazil
+- Bio: Computer Science Major
+- GitHub: [Rafael Sá](https://github.com/RafaelSa94)
