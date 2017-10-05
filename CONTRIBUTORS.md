@@ -82,3 +82,8 @@
 - Place: Alajuea, Alajuela, Costa Rica
 - Bio: Web dev adn graphic designer
 - GitHub: [vinird](https://github.com/vinird)
+
+#### Name: [Evan Culver](https://github.com/eculver)
+- Place: San Francisco, CA, USA
+- Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
+- GitHub: [Evan Culver](https://github.com/eculver)
