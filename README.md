@@ -113,4 +113,4 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
-GitHub license explained [http://www.chooselicense.com](www.chooselicense.com)
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
