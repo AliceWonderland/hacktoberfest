@@ -129,3 +129,8 @@
 - Place: South Africa
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
+- 
+#### Name: [Vishal](https://dainvinc.github.io)
+- Place: New York
+- Bio: Software developer with a knack to learn things quickly.
+- GitHub: [dainvinc](https://github.com/dainvinc)
