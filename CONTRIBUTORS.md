@@ -87,3 +87,9 @@
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
 - GitHub: [Evan Culver](https://github.com/eculver)
+
+#### Name: [Vo Tan Tho](https://github.com/kensupermen)
+- Place: Ho Chi Minh City, VietNam
+- Bio: I'm Software Engineer at Dinosys
+- GitHub: [Ken Supermen](https://github.com/kensupermen)
+
