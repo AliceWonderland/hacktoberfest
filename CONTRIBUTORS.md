@@ -73,6 +73,16 @@
 - Bio: B.Tech Student in Information Technology
 - GitHub: [Niket Mishra](https://github.com/niketmishra)
 
+#### Name: [Shade Ruangwan](https://github.com/sruangwan)
+- Place: Nara, Japan
+- Bio: PhD student in Software Engineering
+- Github: [Shade Ruangwan](https://github.com/sruangwan)
+
+#### Name: [Michael Rodriguez](https://github.com/vinird)
+- Place: Alajuea, Alajuela, Costa Rica
+- Bio: Web dev adn graphic designer
+- GitHub: [vinird](https://github.com/vinird)
+
 #### Name: [Evan Culver](https://github.com/eculver)
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
