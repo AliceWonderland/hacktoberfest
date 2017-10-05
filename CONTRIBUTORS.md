@@ -1,6 +1,6 @@
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
-- Bio: I love DOGS!
+- Bio: I love DOGS! And Knitting, Sewing, Crochet, and Food!
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [GABE DUNN](https://github.com/redxtech)
@@ -53,4 +53,7 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-
+#### Name: [Leah Langfrod](https://github.com/leahlang4d2)
+- Place: CA, USA
+- Bio: Recent Bachelors in Computer Science
+- Github: [Leah Langford](https://github.com/leahlang4d2)
