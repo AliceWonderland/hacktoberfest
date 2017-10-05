@@ -3,3 +3,7 @@
 - Bio: I love DOGS!
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Taf Meister](https://github.com/tashrafy)
+- Place: NYC
+- Bio: Developer =]
+
