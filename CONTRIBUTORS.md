@@ -57,3 +57,9 @@
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
 - Github: [Leah Langford](https://github.com/leahlang4d2)
+
+#### Name: [Niket Mishra](https://github.com/niketmishra)
+- Place: New Delhi, Delhi, India
+- Bio: B.Tech Student in Information Technology
+- GitHub: [Niket Mishra](https://github.com/niketmishra)
+
