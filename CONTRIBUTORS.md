@@ -77,3 +77,8 @@
 - Place: Nara, Japan
 - Bio: PhD student in Software Engineering
 - Github: [Shade Ruangwan](https://github.com/sruangwan)
+
+#### Name: [Michael Rodriguez](https://github.com/vinird)
+- Place: Alajuea, Alajuela, Costa Rica
+- Bio: Web dev adn graphic designer
+- GitHub: [vinird](https://github.com/vinird)
