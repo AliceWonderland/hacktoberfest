@@ -1,10 +1,10 @@
-# HacktoberFest Starter Project
+# HacktoberFest Starter Project :beers:
 
 [https://alicewonderland.github.io/hacktoberfest/](https://alicewonderland.github.io/hacktoberfest/)
 
-Celebrate HacktoberFest by getting involved in the Open Source Community. Use this project to make your first contribution to an open source project on GitHub.
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first Pull Request to a public repository before doing the real thing!
 
-Practice making your first Pull Request to a public repository before doing the real thing!
+Celebrate HacktoberFest by getting involved in the Open Source Community by completing some simple tasks in this project.
 
 This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
 
@@ -43,11 +43,11 @@ git add .
 git commit -m 'commit message'
 git push origin branch-name
 ```
-*
+* Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star__ this repository if you had fun!
 
-## Choose ANY or ALL Tasks Listed Below
+## Choose From These Tasks
 ### Add Your Name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
@@ -98,7 +98,9 @@ console.log('Hello, World!');
 ```
 
 ## Reference Links
-Here is a great tutorial for creating your first Pull Request by [Roshjan Jossey](https://github.com/Roshanjossey) [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+Here is a great tutorial for creating your first Pull Request by [Roshjan Jossey](https://github.com/Roshanjossey)
+[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
+Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) A curated list of awesome READMEs
 
-
+Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
