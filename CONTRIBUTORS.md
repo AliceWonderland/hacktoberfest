@@ -18,3 +18,8 @@
 - Place: USA
 - Bio: Computer Science Major
 - GitHub: [Stephen Dzialo](https://github.com/dzials)
+
+#### Name: [Taf Meister](https://github.com/tashrafy)
+- Place: NYC
+- Bio: Developer =]
+
