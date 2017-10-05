@@ -103,3 +103,8 @@
 - Bio: I am a Solution Architect and work for a large SaaS organization
 - GitHub: [Karthick Thoppe](https://github.com/karthicktv)
 
+#### Name: [Brane](https://github.com/brane)
+- Place: Turkey
+- Bio: I am a caffeine based artificial life form.
+- GitHub: [Brane](https://github.com/brane)
+
