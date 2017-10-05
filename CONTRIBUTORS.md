@@ -72,3 +72,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: B.Tech Student in Information Technology
 - GitHub: [Niket Mishra](https://github.com/niketmishra)
+
+#### Name: [Shade Ruangwan](https://github.com/sruangwan)
+- Place: Nara, Japan
+- Bio: PhD student in Software Engineering
+- Github: [Shade Ruangwan](https://github.com/sruangwan)
