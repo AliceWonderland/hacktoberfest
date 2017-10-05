@@ -129,3 +129,8 @@
 - Place: South Africa
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
+
+#### Name: [Michael Nyamande](https://github.com/mikeyny)
+- Place: Harare ,Zimbabwe
+- Bio: Eat , ~~Sleep~~ , Code
+- GitHub: [Mikeyny](https://github.com/mikeyny)
