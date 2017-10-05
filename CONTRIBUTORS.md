@@ -154,3 +154,8 @@
 - Place: Sweden
 - Bio: What happens in Git stays in Git
 - GitHub: [Anders Jürisoo](https://github.com/ajthinking)
+
+#### Name: [Justin I] (https://github.com/Jish80)
+- Place: IL, USA
+- Bio: Work hard
+- GitHub: [Jish80] (https://github.com/Jish80)
