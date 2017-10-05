@@ -102,7 +102,7 @@ Add a script to the `scripts` directory in any language of your choice! Here is 
 console.log('Hello, World!');
 ```
 
-If someone has already created a `hello_world` file in the language of your choice, append your github username to the filename. Here is an example: `hello_world_alicewonderland.js`
+If someone has already created a file in the language of your choice, append your github username to the filename. Here is an example: `hello_world_alicewonderland.js`
 
 ## Reference Links
 Here is a great tutorial for creating your first Pull Request by [Roshjan Jossey](https://github.com/Roshanjossey)
