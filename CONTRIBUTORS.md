@@ -108,3 +108,7 @@
 - Bio: I am a caffeine based artificial life form.
 - GitHub: [Brane](https://github.com/brane)
 
+#### Name: [Ishan Jain](https://github.com/ishanjain28)
+- Place: Roorkee, Uttrakhand, India
+- Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
+- Github: [Ishan Jain](https://github.com/ishanjain28)
