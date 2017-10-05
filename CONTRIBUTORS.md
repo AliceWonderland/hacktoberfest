@@ -9,3 +9,7 @@
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
+- Place: Patras, Achaia, Greece
+- Bio: Technology Enthusiast
+- GitHub: [George Fotopoulos](https://github.com/xorz57)
