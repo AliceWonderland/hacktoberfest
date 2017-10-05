@@ -175,10 +175,15 @@
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
 - GitHub: [Niall Cartwright](https://github.com/Nairu)
 
-#### Name: [Justin I] (https://github.com/Jish80)
+#### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
 - GitHub: [Jish80] (https://github.com/Jish80)
+
+#### Name: [APOORVA SHARMA](https://github.com/okatticus)
+- Place: Himachal Pradesh,India
+- Bio: A student happy to write code and poetry.
+- GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
 #### Name: [Prateek Pandey](https://github.com/prateekpandey14)
 - Place: Bangalore, India
