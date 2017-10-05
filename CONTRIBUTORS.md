@@ -23,3 +23,7 @@
 - Place: NYC
 - Bio: Developer =]
 
+#### Name: [Patrick S](https://github.com/patsteph)
+- Place: USA
+- Bio: Professional Geek
+- GitHub: [Patrick S](https://github.com/patsteph)
