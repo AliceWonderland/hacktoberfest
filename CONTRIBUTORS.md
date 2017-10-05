@@ -13,3 +13,8 @@
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
 - GitHub: [George Fotopoulos](https://github.com/xorz57)
+
+#### Name: [Stephen Dzialo](https://github.com/dzials)
+- Place: USA
+- Bio: Computer Science Major
+- GitHub: [Stephen Dzialo](https://github.com/dzials)
