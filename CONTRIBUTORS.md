@@ -23,3 +23,7 @@
 - Place: NYC
 - Bio: Developer =]
 
+#### Name: [RAFAEL MENEZES](https://github.com/RafaelSa94)
+- Place: Boa Vista, Roraima, Brazil
+- Bio: Computer Science Major
+- GitHub: [Rafael Sá](https://github.com/RafaelSa94)
