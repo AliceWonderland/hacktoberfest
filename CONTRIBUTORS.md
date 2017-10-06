@@ -240,3 +240,8 @@
 - Place: Dayton,OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
+
+#### Name: [S Stewart](https://github.com/tilda)
+- Place: Denton, Texas, US
+- Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
+- GitHub: [tilda](https://github.com/tilda)
