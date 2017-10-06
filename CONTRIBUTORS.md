@@ -216,3 +216,7 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [Jose Gomera](https://github.com/josegomera)
+- Place: Dominican Republic
+- Bio: I'm web developer that love somehow to help.
+- Github: [josegomera](https://github.com/josegomera) 
