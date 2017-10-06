@@ -235,3 +235,8 @@
 - Place: Canada
 - Bio: Student
 - GitHub: [githubbbbbbbbbbbbb](https://github.com/githubbbbbbbbbbbbb)
+
+#### Name: [Ren Cummings](https://github.com/nrenc027)
+- Place: Dayton,OH, USA
+- Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
+- GitHub: [Ren Cummings](https://github.com/nrenc027)
