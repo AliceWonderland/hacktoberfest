@@ -255,3 +255,8 @@
 - Place: Huntington Beach, CA
 - Bio: Games and things!
 - GitHub: [Stephen Abrahim](https://github.com/lepah)
+- 
+### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
