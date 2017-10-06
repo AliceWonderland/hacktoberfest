@@ -285,3 +285,10 @@
 - Place: São Paulo, SP, BR
 - Bio: Developer, I really like!
 - GitHub: [Henrique Duarte](https://github.com/mustorze)
+
+#### Name: [JoeBanks13](https://github.com/JoeBanks13)
+- Place: York, United Kingdom
+- Bio: Backend web developer
+- GitHub: [JoeBanks13](https://github.com/JoeBanks13)
+- Webpage: [josephbanks.me](https://josephbanks.me)
+- GitLab Server: [GitLab](https://gitlab.josephbanks.me/JoeBanks13)
