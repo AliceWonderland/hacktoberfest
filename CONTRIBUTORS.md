@@ -260,3 +260,9 @@
 - Place: Gandhinagar,Gujrat, IN
 - Bio: Games and music!
 - GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+
+### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
