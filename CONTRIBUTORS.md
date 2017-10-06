@@ -240,3 +240,8 @@
 - Place: Dayton,OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
+
+#### Name: [Stephen Abrahim](https://github.com/lepah)
+- Place: Huntington Beach, CA
+- Bio: Games and things!
+- GitHub: [Stephen Abrahim](https://github.com/lepah)
