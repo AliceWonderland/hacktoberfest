@@ -255,3 +255,8 @@
 - Place: Huntington Beach, CA
 - Bio: Games and things!
 - GitHub: [Stephen Abrahim](https://github.com/lepah)
+
+#### Name: [Caio Perdona](https://github.com/perdona)
+- Place: Ribeirao Preto, SP, Brazil
+- Bio: Web and Mobile Engineer
+- GitHub: [Caio Perdona](https://github.com/perdona)
