@@ -216,3 +216,7 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [S Stewart](https://github.com/tilda)
+- Place: Denton, Texas, US
+- Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
+- GitHub: [tilda](https://github.com/tilda)
