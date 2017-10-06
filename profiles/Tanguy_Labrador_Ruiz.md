@@ -30,3 +30,4 @@ Two years of Computer Science at ESI.
 ### Profile Link
 
 [Tanguy Labrador Ruiz aka TheMyopist](https://github.com/TheMyopist)
+If you're near Brussels area, I'm looking for a job! Please check my [Linkedin page](https://www.linkedin.com/in/tanguy-labrador-ruiz-aa9757b7/).
