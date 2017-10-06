@@ -281,3 +281,7 @@
 - Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
 - Github: [Shankhalika Sarkar](https://github.com/Shankhalika)
 
+#### Name: [Henrique Duarte](https://github.com/mustorze)
+- Place: São Paulo, SP, BR
+- Bio: Developer, I really like!
+- GitHub: [Henrique Duarte](https://github.com/mustorze)
