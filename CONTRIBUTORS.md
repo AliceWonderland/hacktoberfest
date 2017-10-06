@@ -255,3 +255,8 @@
 - Place: Huntington Beach, CA
 - Bio: Games and things!
 - GitHub: [Stephen Abrahim](https://github.com/lepah)
+
+#### Name: [Henrique Duarte](https://github.com/mustorze)
+- Place: São Paulo, SP, BR
+- Bio: Developer, I really like!
+- GitHub: [Henrique Duarte](https://github.com/mustorze)
