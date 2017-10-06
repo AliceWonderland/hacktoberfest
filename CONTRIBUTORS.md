@@ -1,4 +1,4 @@
-
+﻿
 
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
@@ -230,3 +230,8 @@
 - Place: Québec, Canada
 - Bio: CompSci from ULaval reporting in
 - GitHub: [aiglebleu](https://github.com/aiglebleu)
+
+#### Name: [Jon Lee](https://github.com/githubbbbbbbbbbbbb)
+- Place: Canada
+- Bio: Student
+- GitHub: [githubbbbbbbbbbbbb](https://github.com/githubbbbbbbbbbbbb)
