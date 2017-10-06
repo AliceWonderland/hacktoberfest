@@ -245,3 +245,8 @@
 - Place: Denton, Texas, US
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
 - GitHub: [tilda](https://github.com/tilda)
+
+#### Name: [Jose Gomera](https://github.com/josegomera)
+- Place: Dominican Republic
+- Bio: I'm web developer that love somehow to help.
+- Github: [josegomera](https://github.com/josegomera) 
