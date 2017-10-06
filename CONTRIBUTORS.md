@@ -216,3 +216,7 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [Nefari0uss](https://github.com/nefari0uss)
+- Place: USA
+- Bio: Gamer, developer, and open source enthusiast!
+- Github: [Nefari0uss](https://github.com/nefari0uss)
