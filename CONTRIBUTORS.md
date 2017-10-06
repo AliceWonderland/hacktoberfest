@@ -266,3 +266,8 @@
 - Bio: Devops, Gamer and fun
 - GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
 
+#### Name: [Matthew Burke](https://github.com/MatthewBurke1995)
+- Place: Sydney, Australia
+- Bio: Big fan of Python + Data
+- GitHub: [Matthew Burke](https://github.com/MatthewBurke1995)
+
