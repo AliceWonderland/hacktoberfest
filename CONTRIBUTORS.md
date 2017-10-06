@@ -250,3 +250,8 @@
 - Place: Dominican Republic
 - Bio: I'm web developer that love somehow to help.
 - Github: [josegomera](https://github.com/josegomera) 
+
+#### Name: [Stephen Abrahim](https://github.com/lepah)
+- Place: Huntington Beach, CA
+- Bio: Games and things!
+- GitHub: [Stephen Abrahim](https://github.com/lepah)
