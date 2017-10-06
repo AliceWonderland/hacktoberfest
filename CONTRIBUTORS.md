@@ -255,3 +255,8 @@
 - Place: Huntington Beach, CA
 - Bio: Games and things!
 - GitHub: [Stephen Abrahim](https://github.com/lepah)
+
+#### Name: [Matthew Burke](https://github.com/MatthewBurke1995)
+- Place: Sydney, Australia
+- Bio: Big fan of Python + Data
+- GitHub: [Matthew Burke](https://github.com/MatthewBurke1995)
