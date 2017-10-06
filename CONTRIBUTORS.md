@@ -216,6 +216,11 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [Timea Deák](https://github.com/DTimi)
+- Place: Dublin, Ireland
+- Bio: Molecular biologist
+- GitHub: [Timea Deák](https://github.com/DTimi)
+
 #### Name: [Christian Skala](https://github.com/chrishiggins29)
 - Place: New York, USA
 - Bio: Hire me! Need a VP of Engineering, Director of Software, CTO?
