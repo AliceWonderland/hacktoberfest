@@ -2,7 +2,7 @@
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first Pull Request to a public repository before doing the real thing!
 
-Celebrate HacktoberFest by getting involved in the Open Source Community by completing some simple tasks in this project.
+Celebrate [HacktoberFest](https://hacktoberfest.digitalocean.com/) by getting involved in the Open Source Community by completing some simple tasks in this project.
 
 This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
 
@@ -11,9 +11,9 @@ This is a Public Repository open to all members of the GitHub Community. Any mem
 
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st to get people involved in [Open Source](https://github.com/open-source). Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
 
-Here is an example of a HacktoberFest contest from DigitalOcean - [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/).
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 
 ## How Contribute to This Project
@@ -33,15 +33,9 @@ git clone https://github.com/your-username/hacktoberfest.git
 ```
 * Create a branch
 ```markdown
-git checkout -b add-your-name
+git checkout -b branch-name
 ```
 * Make your changes (Choose from any task below)
-* Merge the latest from Master, resolve any conflicts
-```markdown
-git remote add upstream https://github.com/AliceWonderland/hacktoberfest.git
-git fetch upstream
-git pull upstream master
-```
 * Commit and Push
 ```markdown
 git add .
@@ -53,7 +47,7 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ## Choose From These Tasks
-### Add Your Name
+### 1. Add Your Name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
@@ -63,11 +57,15 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [Your Name](GitHub Link)
 ```
 
-### Add a Profile Page
+### 2. Add a Profile Page
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and markdown you'd like. Here is an example:
 
 ```markdown
 # Your Name
+
+### Location
+
+Your City/Country
 
 ### Academics
 
@@ -90,8 +88,8 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-### Create a `Hello, World!` Script
-Add a script to the `scripts` directory in any language of your choice! Here is an example:
+### 3. Create a `Hello, World!` Script
+Add a `hello_world.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
 // LANGUAGE: Javascript
@@ -101,15 +99,25 @@ Add a script to the `scripts` directory in any language of your choice! Here is 
 
 console.log('Hello, World!');
 ```
+Name the file `hello_world.xx`. If a file in the language of your choice already exists, create a new one with your github username appended. Here is an example: If `hello_world.js` exists, name yours `hello_world_alicewonderland.js`.
 
-If someone has already created a file in the language of your choice, append your github username to the filename. Here is an example: `hello_world_alicewonderland.js`
+Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you chose in your comments too! Like a link to a helpful introduction or tutorial.
+
+[hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
 
 ## Reference Links
-Here is a great tutorial for creating your first Pull Request by [Roshjan Jossey](https://github.com/Roshanjossey)
+Here is a great tutorial for creating your first Pull Request by [Roshan Jossey](https://github.com/Roshanjossey)
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
-Keep your fork up-to-date [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
+Managing your Forked Repo [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+
+Syncing a Fork [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+
+Keep Your Fork Synced [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
 
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+
+## Additional References Added By Contributors
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
