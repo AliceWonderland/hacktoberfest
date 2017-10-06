@@ -216,3 +216,8 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [Ren Cummings](https://github.com/nrenc027)
+- Place: Dayton,OH, USA
+- Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
+- GitHub: [Ren Cummings](https://github.com/nrenc027)
+
