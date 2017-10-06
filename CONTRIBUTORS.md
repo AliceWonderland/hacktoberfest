@@ -1,4 +1,4 @@
-
+﻿
 
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
@@ -215,6 +215,31 @@
 - Place: Tirana, Albania
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
+
+#### Name: [Timea Deák](https://github.com/DTimi)
+- Place: Dublin, Ireland
+- Bio: Molecular biologist
+- GitHub: [Timea Deák](https://github.com/DTimi)
+
+#### Name: [Christian Skala](https://github.com/chrishiggins29)
+- Place: New York, USA
+- Bio: Hire me! Need a VP of Engineering, Director of Software, CTO?
+- GitHub: [Christian Skala](https://github.com/chrishiggins29)
+
+#### Name: [filedesless](https://hightechlowlife.info)
+- Place: Québec, Canada
+- Bio: CompSci from ULaval reporting in
+- GitHub: [aiglebleu](https://github.com/aiglebleu)
+
+#### Name: [Jon Lee](https://github.com/githubbbbbbbbbbbbb)
+- Place: Canada
+- Bio: Student
+- GitHub: [githubbbbbbbbbbbbb](https://github.com/githubbbbbbbbbbbbb)
+
+#### Name: [Ren Cummings](https://github.com/nrenc027)
+- Place: Dayton,OH, USA
+- Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
+- GitHub: [Ren Cummings](https://github.com/nrenc027)
 
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
