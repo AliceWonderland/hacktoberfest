@@ -225,3 +225,8 @@
 - Place: New York, USA
 - Bio: Hire me! Need a VP of Engineering, Director of Software, CTO?
 - GitHub: [Christian Skala](https://github.com/chrishiggins29)
+
+#### Name: [filedesless](https://hightechlowlife.info)
+- Place: Québec, Canada
+- Bio: CompSci from ULaval reporting in
+- GitHub: [aiglebleu](https://github.com/aiglebleu)
