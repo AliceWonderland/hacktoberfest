@@ -53,4 +53,9 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Shankhalika Sarkar](https://github.com/Shankhalika)
+- Place: Karnataka, India
+- Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
+- Github: [Shankhalika Sarkar](https://github.com/Shankhalika)
+
 
