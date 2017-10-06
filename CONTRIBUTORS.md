@@ -216,3 +216,8 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [Stephen Abrahim](https://github.com/lepah)
+- Place: Huntington Beach, CA
+- Bio: Games and things!
+- GitHub: [Stephen Abrahim](https://github.com/lepah)
+
