@@ -256,6 +256,31 @@
 - Bio: Games and things!
 - GitHub: [Stephen Abrahim](https://github.com/lepah)
 
+#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+- Place: Gandhinagar,Gujrat, IN
+- Bio: Games and music!
+- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+
+### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Matthew Burke](https://github.com/MatthewBurke1995)
+- Place: Sydney, Australia
+- Bio: Big fan of Python + Data
+- GitHub: [Matthew Burke](https://github.com/MatthewBurke1995)
+
+#### Name: [Caio Perdona](https://github.com/perdona)
+- Place: Ribeirao Preto, SP, Brazil
+- Bio: Web and Mobile Engineer
+- GitHub: [Caio Perdona](https://github.com/perdona)
+
+#### Name: [Shankhalika Sarkar](https://github.com/Shankhalika)
+- Place: Karnataka, India
+- Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
+- Github: [Shankhalika Sarkar](https://github.com/Shankhalika)
+
 #### Name: [Henrique Duarte](https://github.com/mustorze)
 - Place: São Paulo, SP, BR
 - Bio: Developer, I really like!
