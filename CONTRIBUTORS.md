@@ -216,3 +216,7 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [Timea Deák](https://github.com/DTimi)
+- Place: Dublin, Ireland
+- Bio: Molecular biologist
+- GitHub: [Timea Deák](https://github.com/DTimi)
