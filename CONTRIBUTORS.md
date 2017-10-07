@@ -301,6 +301,11 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
 #### Name: [Chris Sullivan](https://github.com/codemastermd)
 - Place: College Park, Maryland
 - Bio: Comp Sci student at the University of Maryland
@@ -315,4 +320,3 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
-
