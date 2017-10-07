@@ -286,6 +286,11 @@
 - Bio: Developer, I really like!
 - GitHub: [Henrique Duarte](https://github.com/mustorze)
 
+#### Name: [Akshit Kharbanda](https://github.com/akshit04)
+- Place: Delhi, India
+- Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
+- GitHub: [Akshit Kharbanda](https://github.com/akshit04)
+
 #### Name:[Avinash Jaiswal](https://github.com/littlestar642)
 - Place:Surat,Gujarat,India.
 - Bio:In love with the WEB,from age of 5!
