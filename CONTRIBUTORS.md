@@ -295,3 +295,9 @@
 - Place:Surat,Gujarat,India.
 - Bio:In love with the WEB,from age of 5!
 - Github:[Avinash Jaiswal](https://github.com/littlestar642)
+
+#### Name: [Alisson Vargas](https://github.com/alisson-mich)
+- Place: Torres, RS, Brazil
+- Bio: A guy who loves IT :D
+- GitHub: [Alisson Vargas](https://github.com/alisson-mich)
+
