@@ -285,3 +285,8 @@
 - Place: São Paulo, SP, BR
 - Bio: Developer, I really like!
 - GitHub: [Henrique Duarte](https://github.com/mustorze)
+
+#### Name: [Akshit Kharbanda](https://github.com/akshit04)
+- Place: Delhi, India
+- Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
+- GitHub: [Akshit Kharbanda](https://github.com/akshit04)
