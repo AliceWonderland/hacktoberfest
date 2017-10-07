@@ -305,3 +305,24 @@
 - Place: Jakarta, Indonesia
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
+
+### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Chris Sullivan](https://github.com/codemastermd)
+- Place: College Park, Maryland
+- Bio: Comp Sci student at the University of Maryland
+- GitHub: [Chris Sullivan](https://github.com/codemastermd)
+
+### Name: [Owen Mitchell] (https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Sravya Pullagura](https://github.com/sravya96)
+- Place: Vijayawada, Andhra Pradesh, India
+- Bio: Love learning, coding and sketching!!
+- Github [Sravya Pullagura](https://github.com/sravya96)
+
