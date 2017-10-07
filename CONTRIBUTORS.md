@@ -301,6 +301,11 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Vishaal Udandarao](https://github.com/vishaal27)
+- Place: New Delhi, India
+- Bio: Professional Geek | Developer
+- GitHub: [Vishaal Udandarao](https://github.com/vishaal27)
+
 #### Name: [Sparsh Garg](https://github.com/sparsh789)
 - Place: Hyderabad, Telangana, India
 - Bio: Student@IIIT,Hyderabad
@@ -330,5 +335,3 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
-
-
