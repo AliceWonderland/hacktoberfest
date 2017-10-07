@@ -301,3 +301,7 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Vishaal Udandarao](https://github.com/vishaal27)
+- Place: New Delhi, India
+- Bio: Professional Geek | Developer
+- GitHub: [Vishaal Udandarao](https://github.com/vishaal27)
