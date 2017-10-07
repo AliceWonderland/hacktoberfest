@@ -301,6 +301,11 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Sparsh Garg](https://github.com/sparsh789)
+- Place: Hyderabad, Telangana, India
+- Bio: Student@IIIT,Hyderabad
+- GitHub: [sparsh789](https://github.com/sparsh789)
+
 #### Name: [Zaki Akhmad](https://github.com/za)
 - Place: Jakarta, Indonesia
 - Bio: Python enthusiasts
@@ -325,4 +330,5 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
 
