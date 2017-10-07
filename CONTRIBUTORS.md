@@ -301,6 +301,11 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Chris Sullivan](https://github.com/codemastermd)
+- Place: College Park, Maryland
+- Bio: Comp Sci student at the University of Maryland
+- GitHub: [Chris Sullivan](https://github.com/codemastermd)
+
 ### Name: [Owen Mitchell] (https://github.com/ultimatezenzar)
 - Place: Edmond, OK, United States
 - Bio: Programmer for a high school robotics team
