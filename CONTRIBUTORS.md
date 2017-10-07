@@ -249,7 +249,7 @@
 #### Name: [Jose Gomera](https://github.com/josegomera)
 - Place: Dominican Republic
 - Bio: I'm web developer that love somehow to help.
-- Github: [josegomera](https://github.com/josegomera) 
+- Github: [josegomera](https://github.com/josegomera)
 
 #### Name: [Stephen Abrahim](https://github.com/lepah)
 - Place: Huntington Beach, CA
@@ -286,7 +286,18 @@
 - Bio: Developer, I really like!
 - GitHub: [Henrique Duarte](https://github.com/mustorze)
 
+#### Name: [Akshit Kharbanda](https://github.com/akshit04)
+- Place: Delhi, India
+- Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
+- GitHub: [Akshit Kharbanda](https://github.com/akshit04)
+
+#### Name:[Avinash Jaiswal](https://github.com/littlestar642)
+- Place:Surat,Gujarat,India.
+- Bio:In love with the WEB,from age of 5!
+- Github:[Avinash Jaiswal](https://github.com/littlestar642)
+
 #### Name: [Alisson Vargas](https://github.com/alisson-mich)
 - Place: Torres, RS, Brazil
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
+
