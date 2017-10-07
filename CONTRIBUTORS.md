@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Rafael Lima](https://github.com/rafaelkalan)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Youger software engineer
+- GitHub: [Rafael Lima](https://github.com/rafaelkalan)
