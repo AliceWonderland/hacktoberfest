@@ -301,3 +301,7 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Zaki Akhmad](https://github.com/za)
+- Place: Jakarta, Indonesia
+- Bio: Python enthusiasts
+- GitHub: [za](https://github.com/za)
