@@ -285,3 +285,8 @@
 - Place: São Paulo, SP, BR
 - Bio: Developer, I really like!
 - GitHub: [Henrique Duarte](https://github.com/mustorze)
+
+#### Name: [Alisson Vargas](https://github.com/alisson-mich)
+- Place: Torres, RS, Brazil
+- Bio: A guy who loves IT :D
+- GitHub: [Alisson Vargas](https://github.com/alisson-mich)
