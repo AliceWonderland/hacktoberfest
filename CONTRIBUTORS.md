@@ -310,3 +310,9 @@
 - Place: Edmond, OK, United States
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Sravya Pullagura](https://github.com/sravya96)
+- Place: Vijayawada, Andhra Pradesh, India
+- Bio: Love learning, coding and sketching!!
+- Github [Sravya Pullagura](https://github.com/sravya96)
+
