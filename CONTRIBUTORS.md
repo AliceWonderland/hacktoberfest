@@ -301,7 +301,18 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Chris Sullivan](https://github.com/codemastermd)
+- Place: College Park, Maryland
+- Bio: Comp Sci student at the University of Maryland
+- GitHub: [Chris Sullivan](https://github.com/codemastermd)
+
+### Name: [Owen Mitchell] (https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
 #### Name: [Sravya Pullagura](https://github.com/sravya96)
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
