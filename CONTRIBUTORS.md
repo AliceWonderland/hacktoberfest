@@ -301,3 +301,7 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Sravya Pullagura](https://github.com/sravya96)
+- Place: Vijayawada, Andhra Pradesh, India
+- Bio: Love learning, coding and sketching!!
+- Github [Sravya Pullagura](https://github.com/sravya96)
