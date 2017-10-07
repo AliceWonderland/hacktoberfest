@@ -301,6 +301,11 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Adiyat Mubarak](https://github.com/Keda87)
+- Place: Jakarta, ID, Indonesia
+- Bio: Technology Agnostic
+- GitHub: [Adiyat Mubarak](https://github.com/Keda87)
+
 #### Name: [Vishaal Udandarao](https://github.com/vishaal27)
 - Place: New Delhi, India
 - Bio: Professional Geek | Developer
