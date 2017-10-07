@@ -301,3 +301,8 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Sparsh Garg](https://github.com/sparsh789)
+- Place: Hyderabad, Telangana, India
+- Bio: Student@IIIT,Hyderabad
+- GitHub: [sparsh789](https://github.com/sparsh789)
+
