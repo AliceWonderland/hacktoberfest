@@ -301,3 +301,7 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
