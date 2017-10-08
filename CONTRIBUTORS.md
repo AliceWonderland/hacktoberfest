@@ -367,3 +367,8 @@
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: Someone who's intresting about web devlopment / Programming
 - GitHub: [Ginanjar S.B | egin10](https://github.com/egin10)
+
+#### Name: [Fush Chups](https://github.com/fushandchups)
+- Place: Christchurch, Canterbury, New Zealand
+- Bio: Earhquake enthusiast
+- GitHub:[fushandchups] (https://github.com/fushandchups) 
