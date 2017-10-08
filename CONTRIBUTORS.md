@@ -357,3 +357,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
 - GitHub: [mittrayash](https://github.com/mittrayash)
+
+#### Name: [Dustin Woods](https://github.com/dustinywoods)
+- Place: MN, USA
+- Bio: Software Developer
+- GitHub: [Dustin Woods](https://github.com/dustinywoods)
