@@ -341,6 +341,33 @@
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
+#### Name: [Rafael Lima](https://github.com/rafaelkalan)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Youger software engineer
+- GitHub: [Rafael Lima](https://github.com/rafaelkalan)
+
+#### Name: [Saif Rehman Nasir](https://github.com/shyshin)
+- Place: New Delhi, India
+- Bio: Techie with a lot of horizontals but a low verticality :(
+- Github: [Saif Rehman Nasir](https://github.com/shyshin)
+
+- Github [Sravya Pullagura](https://github.com/sravya96)  
+
+#### Name: [Yash Mittra](https://github.com/mittrayash)
+- Place: New Delhi, Delhi, India
+- Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
+- GitHub: [mittrayash](https://github.com/mittrayash)
+
+#### Name: [Dustin Woods](https://github.com/dustinywoods)
+- Place: MN, USA
+- Bio: Software Developer
+- GitHub: [Dustin Woods](https://github.com/dustinywoods)
+
+#### Name: [Ginanjar S.B](https://github.com/egin10)
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: Someone who's intresting about web devlopment / Programming
+- GitHub: [Ginanjar S.B | egin10](https://github.com/egin10)
+
 #### Name: [Fush Chups](https://github.com/fushandchups)
 - Place: Christchurch, Canterbury, New Zealand
 - Bio: Earhquake enthusiast
