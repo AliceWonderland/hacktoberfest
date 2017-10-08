@@ -299,6 +299,11 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [BrunoSXS](https://github.com/brunosxs)
+- Brazil
+- Bio: I like turtules.
+- Github [BrunoSXS](https://github.com/brunosxs)
+
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
