@@ -462,3 +462,7 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+#### Name: [Harshil Agrawal](https://github.com/harshil1712)
+-Place: Vadodara, India
+-Bio: Student,Web Developer
+-GitHub: [harshil1712](https://github.com/harshil1712)
