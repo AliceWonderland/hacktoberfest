@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Dustin Woods](https://github.com/dustinywoods)
+- Place: MN, USA
+- Bio: Software Developer
+- GitHub: [Dustin Woods](https://github.com/dustinywoods)
