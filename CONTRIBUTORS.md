@@ -362,3 +362,8 @@
 - Place: MN, USA
 - Bio: Software Developer
 - GitHub: [Dustin Woods](https://github.com/dustinywoods)
+
+#### Name: [Ginanjar S.B](https://github.com/egin10)
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: Someone who's intresting about web devlopment / Programming
+- GitHub: [Ginanjar S.B | egin10](https://github.com/egin10)
