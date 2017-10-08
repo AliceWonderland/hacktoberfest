@@ -400,3 +400,8 @@
 - Place: Mandi, Himachal Pradesh, India
 - Bio: A passionate programmer and a beginner in Open Source
 - Github [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
+
+#### Name: [Arpit Gogia](https://github.com/arpitgogia)
+- Place: Delhi, India
+- Bio: Python Developer
+- Github [Arpit Gogia](https://github.com/arpitgogia)
