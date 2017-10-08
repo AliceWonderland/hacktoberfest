@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Jose Morales](https://github.com/castro732)
+- Place: Buenos Aires, Argentina
+- Bio: Developer
+- GitHub: [castro732](https://github.com/castro732)
