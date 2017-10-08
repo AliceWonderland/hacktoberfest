@@ -444,3 +444,8 @@
 - Place: Fairfax, Virginia, USA
 - Bio: Web Developer
 - GitHub: [shmickle](https://github.com/shmickle)
+
+#### Name: [Alexander Miller](https://github.com/allesmi)
+- Place: Salzburg, Austria
+- Bio: Student/Web Developer
+- GitHub: [allesmi](https://github.com/allesmi)
