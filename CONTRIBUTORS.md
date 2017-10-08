@@ -3,11 +3,6 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
-#### Name: [Emmanuel Akinde](https://github.com/harkindey)
-- Place: Lagos, Nigeria
-- Bio: Lets Code and Chill
-- Github: [Harkindey](https://github.com/harkindey)
-
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
@@ -334,7 +329,7 @@
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
-### Name: [Owen Mitchell] (https://github.com/ultimatezenzar)
+### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
 - Place: Edmond, OK, United States
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
@@ -343,6 +338,11 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
+- Place: Kuala Belait, Brunei Darussalam
+- Bio: Mechanical engineer
+- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
 #### Name: [Rafael Lima](https://github.com/rafaelkalan)
 - Place: Belo Horizonte, Minas Gerais, Brazil
@@ -353,8 +353,6 @@
 - Place: New Delhi, India
 - Bio: Techie with a lot of horizontals but a low verticality :(
 - Github: [Saif Rehman Nasir](https://github.com/shyshin)
-
-- Github [Sravya Pullagura](https://github.com/sravya96)  
 
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
@@ -421,12 +419,22 @@
 - Bio: Inquisitive, Loves coding, also vegan
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
-
 #### Name: [Loreleen Mae Sablot](https://github.com/loreleensablot)
 - Place: Daet, Camarines Norte, Philippines
 - Bio: I love designing beautiful websites. I also bike.
 - Github [Loreleen Mae Sablot] (https://github.com/loreleensablot)
+
+#### Name: [Ben Smith](https://github.com/ben-w-smith)
+- Place: Salt Lake City, UT, USA
+- Bio: A guy that loves writing bots and automation.
+- GitHub: [Ben Smith](https://github.com/ben-w-smith)
+
+#### Name: [Eric Bryant](https://github.com/shmickle)
+- Place: Fairfax, Virginia, USA
+- Bio: Web Developer
+- GitHub: [shmickle](https://github.com/shmickle)
+
+#### Name: [Emmanuel Akinde](https://github.com/harkindey)
+- Place: Lagos, Nigeria
+- Bio: Lets Code and Chill
+- Github: [Harkindey](https://github.com/harkindey)
