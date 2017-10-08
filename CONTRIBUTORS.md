@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Snehil Verma](https://github.com/vsnehil92)
+- Place: Delhi, India
+- Bio: Love to learn new technologies
+- GitHub: [vsnehil92](https://github.com/vsnehil92)
