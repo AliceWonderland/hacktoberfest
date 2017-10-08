@@ -438,3 +438,8 @@
 - Place: Lagos, Nigeria
 - Bio: Lets Code and Chill
 - Github: [Harkindey](https://github.com/harkindey)
+
+#### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
+- Place: India
+- Bio: Computer Science Major / UI/UX Designer
+- GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
