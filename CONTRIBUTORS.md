@@ -344,10 +344,6 @@
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 #### Name: [Rafael Lima](https://github.com/rafaelkalan)
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Youger software engineer
@@ -434,8 +430,3 @@
 - Place: Daet, Camarines Norte, Philippines
 - Bio: I love designing beautiful websites. I also bike.
 - Github [Loreleen Mae Sablot] (https://github.com/loreleensablot)
-
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
