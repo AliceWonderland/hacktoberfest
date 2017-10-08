@@ -338,8 +338,13 @@
 
 #### Name: [Sravya Pullagura](https://github.com/sravya96)
 - Place: Vijayawada, Andhra Pradesh, India
+- Bio: Love learning, coding and sketching!!
+- Github [Sravya Pullagura](https://github.com/sravya96)
 
-- Github: [Sravya Pullagura](https://github.com/sravya96)
+#### Name: [Rafael Lima](https://github.com/rafaelkalan)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Youger software engineer
+- GitHub: [Rafael Lima](https://github.com/rafaelkalan)
 
 #### Name: [Saif Rehman Nasir](https://github.com/shyshin)
 - Place: New Delhi, India
@@ -352,4 +357,3 @@
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
 - GitHub: [mittrayash](https://github.com/mittrayash)
-
