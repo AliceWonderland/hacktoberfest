@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
+- Place: Hyderabad, Telangana, India
+- Bio: Trying to fit in coding society.
+- GitHub: [Pranav Bhasin](https://github.com/pranavbhasin96)
