@@ -410,3 +410,8 @@
 - Place: Southend-On-Sea, England
 - Bio: JavaScript Tinkerer, Lover of Vim
 - Github [Charlie Stanton](https://github.com/shtanton)
+
+#### Name: [James Henderson](https://github.com/prohunt)
+- Place: Raleigh, NC, United States
+- Bio: Inquisitive, Loves coding, also vegan
+- Github [Sravya Pullagura](https://github.com/sravya96)
