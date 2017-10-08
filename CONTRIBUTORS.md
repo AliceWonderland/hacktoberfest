@@ -433,3 +433,8 @@
 - Place: Fairfax, Virginia, USA
 - Bio: Web Developer
 - GitHub: [shmickle](https://github.com/shmickle)
+
+#### Name: [Emmanuel Akinde](https://github.com/harkindey)
+- Place: Lagos, Nigeria
+- Bio: Lets Code and Chill
+- Github: [Harkindey](https://github.com/harkindey)
