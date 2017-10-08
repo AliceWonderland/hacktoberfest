@@ -1,4 +1,4 @@
-#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
@@ -434,3 +434,8 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
+- Place: India
+- Bio: Computer Science Major / UI/UX Designer
+- GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
