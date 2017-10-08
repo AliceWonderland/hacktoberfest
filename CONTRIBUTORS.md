@@ -50,7 +50,11 @@
 
 #### Name: [Billy Lee](https://github.com/leebilly0)
 - Place: WI, USA
-- Bio: Software Developer, Bachelors in Computer Science
+- Bio: Software Developer, Bache
+
+
+
+s in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -419,16 +423,6 @@
 - Bio: Inquisitive, Loves coding, also vegan
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
-
-#### Name: [Katherine S](https://github.com/kms6bn)
-- Place: San Francisco
-- Bio: Data Scientist
-- Github: [kms6bn](https://github.com/kms6bn)
-
 #### Name: [Loreleen Mae Sablot](https://github.com/loreleensablot)
 - Place: Daet, Camarines Norte, Philippines
 - Bio: I love designing beautiful websites. I also bike.
@@ -453,3 +447,8 @@
 - Place: India
 - Bio: Computer Science Major / UI/UX Designer
 - GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
+
+#### Name: [Katherine S](https://github.com/kms6bn)
+- Place: San Francisco
+- Bio: Data Scientist
+- Github: [kms6bn](https://github.com/kms6bn)
