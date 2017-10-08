@@ -458,3 +458,7 @@ s in Computer Science
 - Bio: I like turtules.
 - Github [BrunoSXS](https://github.com/brunosxs)
 
+#### Name: [Alexander Miller](https://github.com/allesmi)
+- Place: Salzburg, Austria
+- Bio: Student/Web Developer
+- GitHub: [allesmi](https://github.com/allesmi)
