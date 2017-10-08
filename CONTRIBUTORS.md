@@ -390,3 +390,8 @@
 - Place: Seattle, WA, USA
 - Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
 - Github: Wow isn't this right up there ^ [Dennis Orzikh](https://github.com/orzikhd)
+
+#### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
+- Place: Hyderabad, Telangana, India
+- Bio: Trying to fit in coding society.
+- GitHub: [Pranav Bhasin](https://github.com/pranavbhasin96)
