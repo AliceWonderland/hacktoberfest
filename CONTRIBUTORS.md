@@ -50,7 +50,11 @@
 
 #### Name: [Billy Lee](https://github.com/leebilly0)
 - Place: WI, USA
-- Bio: Software Developer, Bachelors in Computer Science
+- Bio: Software Developer, Bache
+
+
+
+s in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -443,3 +447,8 @@
 - Place: India
 - Bio: Computer Science Major / UI/UX Designer
 - GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
+
+#### Name: [Katherine S](https://github.com/kms6bn)
+- Place: San Francisco
+- Bio: Data Scientist
+- Github: [kms6bn](https://github.com/kms6bn)
