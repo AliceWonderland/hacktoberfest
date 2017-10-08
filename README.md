@@ -89,7 +89,7 @@ Your School
 ```
 
 ### 3. Create a `Hello, World!` Script
-Add a `hello_world.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
 // LANGUAGE: Javascript
@@ -99,7 +99,7 @@ Add a `hello_world.xx` script to the `scripts` directory in any language of your
 
 console.log('Hello, World!');
 ```
-Name the file `hello_world.xx`. If a file in the language of your choice already exists, create a new one with your github username appended. Here is an example: If `hello_world.js` exists, name yours `hello_world_alicewonderland.js`.
+Name the file `hello_world_yourusername.xx`. For example, `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you chose in your comments too! Like a link to a helpful introduction or tutorial.
 
