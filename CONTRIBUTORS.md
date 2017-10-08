@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Bryan Wigianto](https://github.com/bwigianto)
+- Place: USA 
+- Bio: Engineer
+- GitHub: [bwigianto](https://github.com/bwigianto)
