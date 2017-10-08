@@ -439,3 +439,8 @@
 - Place: Salt Lake City, UT, USA
 - Bio: A guy that loves writing bots and automation.
 - GitHub: [Ben Smith](https://github.com/ben-w-smith)
+
+#### Name: [Eric Bryant](https://github.com/shmickle)
+- Place: Fairfax, Virginia, USA
+- Bio: Web Developer
+- GitHub: [shmickle](https://github.com/shmickle)
