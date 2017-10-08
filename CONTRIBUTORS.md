@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
+- Place: São Paulo, Brazil
+- Bio: Associate Degree analysis and systems development
+- GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
