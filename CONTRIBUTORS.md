@@ -463,7 +463,7 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
-#### Name: [Alexander Miller](https://github.com/lullabies)
+#### Name: [Ratchapol Tengrumpong](https://github.com/lullabies)
 - Place: Bangkok, Thailand
 - Bio: Programmer Analyst
 - GitHub: [lullabies](https://github.com/lullabies)
