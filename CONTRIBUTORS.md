@@ -452,3 +452,9 @@ s in Computer Science
 - Place: San Francisco
 - Bio: Data Scientist
 - Github: [kms6bn](https://github.com/kms6bn)
+
+#### Name: [BrunoSXS](https://github.com/brunosxs)
+- Brazil
+- Bio: I like turtules.
+- Github [BrunoSXS](https://github.com/brunosxs)
+
