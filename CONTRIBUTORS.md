@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Vaibhaw Agrawal](https://github.com/vaibhaw2731)
+- Place: New Delhi, India
+- Bio: I am a Machine Learning enthusiast.
+- GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
