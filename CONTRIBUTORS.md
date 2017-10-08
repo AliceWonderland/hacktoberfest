@@ -434,3 +434,8 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Aleksandr Vorontsov](https://github.com/a-vorontsov)
+- Place: London, England
+- Bio: Student, Aspiring Front-end Web Dev
+- Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
