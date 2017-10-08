@@ -405,3 +405,8 @@
 - Place: Delhi, India
 - Bio: Python Developer
 - Github [Arpit Gogia](https://github.com/arpitgogia)
+
+#### Name: [Charlie Stanton](https://github.com/shtanton)
+- Place: Southend-On-Sea, England
+- Bio: JavaScript Tinkerer, Lover of Vim
+- Github [Charlie Stanton](https://github.com/shtanton)
