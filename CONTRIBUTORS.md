@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Fush Chups](https://github.com/fushandchups)
+- Place: Christchurch, Canterbury, New Zealand
+- Bio: Earhquake enthusiast
+- GitHub:[fushandchups] (https://github.com/fushandchups) 
