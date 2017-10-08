@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
+- Place: Kuala Belait, Brunei Darussalam
+- Bio: Mechanical engineer
+- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
