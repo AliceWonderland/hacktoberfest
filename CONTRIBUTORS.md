@@ -329,7 +329,7 @@
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
-### Name: [Owen Mitchell] (https://github.com/ultimatezenzar)
+### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
 - Place: Edmond, OK, United States
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
