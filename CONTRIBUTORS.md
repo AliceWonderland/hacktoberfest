@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Cameron Smith](https://github.com/cameronzsmith)
+- Place: Wichita, KS, USA
+- Bio: Student
+- GitHub: [cameronzsmith](https://github.com/cameronzsmith)
