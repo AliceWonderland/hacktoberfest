@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Ginanjar S.B](https://github.com/egin10)
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: Someone who's intresting about web devlopment / Programming
+- GitHub: [Ginanjar S.B | egin10](https://github.com/egin10)
