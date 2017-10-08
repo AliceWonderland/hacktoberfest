@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Akram Rameez](https://github.com/akram-rameez)
+- Place: Bengaluru, India
+- Bio: I like free T-shirts and I cannot lie.
+- GitHub: [allesmi](https://github.com/akram-rameez)
