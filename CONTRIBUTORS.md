@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [James Henderson](https://github.com/prohunt)
+- Place: Raleigh, NC, United States
+- Bio: Inquisitive, Loves coding, also vegan
+- Github [Sravya Pullagura](https://github.com/sravya96)
