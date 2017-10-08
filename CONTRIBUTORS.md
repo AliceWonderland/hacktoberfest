@@ -345,3 +345,15 @@
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Youger software engineer
 - GitHub: [Rafael Lima](https://github.com/rafaelkalan)
+
+#### Name: [Saif Rehman Nasir](https://github.com/shyshin)
+- Place: New Delhi, India
+- Bio: Techie with a lot of horizontals but a low verticality :(
+- Github: [Saif Rehman Nasir](https://github.com/shyshin)
+
+- Github [Sravya Pullagura](https://github.com/sravya96)  
+
+#### Name: [Yash Mittra](https://github.com/mittrayash)
+- Place: New Delhi, Delhi, India
+- Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
+- GitHub: [mittrayash](https://github.com/mittrayash)
