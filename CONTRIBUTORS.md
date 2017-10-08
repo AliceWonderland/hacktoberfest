@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Alexander Miller](https://github.com/lullabies)
+- Place: Bangkok, Thailand
+- Bio: Programmer Analyst
+- GitHub: [lullabies](https://github.com/lullabies)
