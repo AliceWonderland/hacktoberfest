@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Matthias Kraus](https://github.com/brotkiste)
+- Place: Munich, Germany
+- Bio: Automotive Computer Science
+- GitHub: [brotkiste](https://github.com/brotkiste)
