@@ -435,6 +435,11 @@
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
+#### Name: [Ben Smith](https://github.com/ben-w-smith)
+- Place: Salt Lake City, UT, USA
+- Bio: A guy that loves writing bots and automation.
+- GitHub: [Ben Smith](https://github.com/ben-w-smith)
+
 #### Name: [Eric Bryant](https://github.com/shmickle)
 - Place: Fairfax, Virginia, USA
 - Bio: Web Developer
