@@ -1,6 +1,5 @@
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
-
+// Language: Javascript
+// Env: Thanks, me too
+// Author: Dennis Orzikh
+// Github: https://github.com/orzikhd
 console.log('Hello, World!');
