@@ -377,3 +377,8 @@
 - Place: Montreal, Canada.
 - Bio: Developer by day, cat lover by night. Canadian tech enthusiast.
 - Github [Sravya Pullagura](https://github.com/NullSilence)
+
+#### Name: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
+- Place: São Paulo, Brazil
+- Bio: Associate Degree analysis and systems development
+- GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
