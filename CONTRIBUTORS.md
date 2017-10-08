@@ -434,3 +434,8 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Eric Bryant](https://github.com/shmickle)
+- Place: Fairfax, Virginia, USA
+- Bio: Web Developer
+- GitHub: [shmickle](https://github.com/shmickle)
