@@ -425,6 +425,11 @@
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
+#### Name: [Katherine S](https://github.com/kms6bn)
+- Place: San Francisco
+- Bio: Data Scientist
+- Github: [kms6bn](https://github.com/kms6bn)
+
 #### Name: [Loreleen Mae Sablot](https://github.com/loreleensablot)
 - Place: Daet, Camarines Norte, Philippines
 - Bio: I love designing beautiful websites. I also bike.
@@ -434,13 +439,3 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
-
-#### Name: [Ben Smith](https://github.com/ben-w-smith)
-- Place: Salt Lake City, UT, USA
-- Bio: A guy that loves writing bots and automation.
-- GitHub: [Ben Smith](https://github.com/ben-w-smith)
-
-#### Name: [Eric Bryant](https://github.com/shmickle)
-- Place: Fairfax, Virginia, USA
-- Bio: Web Developer
-- GitHub: [shmickle](https://github.com/shmickle)
