@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Ckpuna4](https://github.com/Ckpuna4)
+- Place: Saint-petersburg, Russia
+- Bio: Web Developer
+- GitHub: [Ckpuna4](https://github.com/Ckpuna4)
