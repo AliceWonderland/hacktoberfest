@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
