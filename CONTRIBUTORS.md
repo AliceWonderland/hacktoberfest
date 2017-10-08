@@ -395,3 +395,8 @@
 - Place: Hyderabad, Telangana, India
 - Bio: Trying to fit in coding society.
 - GitHub: [Pranav Bhasin](https://github.com/pranavbhasin96)
+
+#### Name: [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
+- Place: Mandi, Himachal Pradesh, India
+- Bio: A passionate programmer and a beginner in Open Source
+- Github [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
