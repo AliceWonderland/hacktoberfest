@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Noveen Sachdeva](https://github.com/noveens)
+- Place: Hyderabad, Telangana, India
+- Bio: 3rd Year CS undergrad at IIIT Hyderabad.
+- GitHub: [Noveen Sachdeva](https://github.com/noveens)
