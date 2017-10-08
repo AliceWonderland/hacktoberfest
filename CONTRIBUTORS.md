@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Dhevi Rajendran](https://github.com/dhevi)
+- Place: USA
+- Bio: Software Engineer
+- Github: [dhevi](https://github.com/dhevi)
