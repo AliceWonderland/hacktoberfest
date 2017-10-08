@@ -376,7 +376,7 @@ s in Computer Science
 #### Name: [Fush Chups](https://github.com/fushandchups)
 - Place: Christchurch, Canterbury, New Zealand
 - Bio: Earhquake enthusiast
-- GitHub:[fushandchups] (https://github.com/fushandchups) 
+- GitHub:[fushandchups] (https://github.com/fushandchups)
 
 #### Name: [Francis Venne](https://github.com/NullSilence)
 - Place: Montreal, Canada.
@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Luke Taylor](https://github.com/lmcjt37)
+- Place: Derby, UK
+- Bio: Senior Software Engineer, child at heart
+- GitHub: [Luke Taylor](https://github.com/lmcjt37)
