@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Arpit Gogia](https://github.com/arpitgogia)
+- Place: Delhi, India
+- Bio: Python Developer
+- Github [Arpit Gogia](https://github.com/arpitgogia)
