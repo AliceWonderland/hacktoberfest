@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Emmanuel Akinde](https://github.com/harkindey)
+- Place: Lagos, Nigeria
+- Bio: Lets Code and Chill
+- Github: [Harkindey](https://github.com/harkindey)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
