@@ -434,3 +434,8 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Ben Smith](https://github.com/ben-w-smith)
+- Place: Salt Lake City, UT, USA
+- Bio: A guy that loves writing bots and automation.
+- GitHub: [Ben Smith](https://github.com/ben-w-smith)
