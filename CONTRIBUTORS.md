@@ -1,8 +1,3 @@
-﻿#### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
-- Place: Seattle, WA, USA
-- Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
-- Github: Wow isn't this right up there ^ [Dennis Orzikh](https://github.com/orzikhd)
-
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
@@ -385,3 +380,13 @@
 - Place: São Paulo, Brazil
 - Bio: Associate Degree analysis and systems development
 - GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
+
+#### Name: [Noveen Sachdeva](https://github.com/noveens)
+- Place: Hyderabad, Telangana, India
+- Bio: 3rd Year CS undergrad at IIIT Hyderabad.
+- GitHub: [Noveen Sachdeva](https://github.com/noveens)
+
+#### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
+- Place: Seattle, WA, USA
+- Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
+- Github: Wow isn't this right up there ^ [Dennis Orzikh](https://github.com/orzikhd)
