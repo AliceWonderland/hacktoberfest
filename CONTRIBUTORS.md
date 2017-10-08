@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
+- Place: Lagos, Nigeria
+- Bio: JavaScript Developer
+- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
