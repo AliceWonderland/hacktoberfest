@@ -341,7 +341,7 @@
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
-####Name: [Charlie Stanton](https://github.com/shtanton)
+#### Name: [Charlie Stanton](https://github.com/shtanton)
 - Place: Southend-On-Sea, England
 - Bio: JavaScript Tinkerer, Lover of Vim
 - Github [Charlie Stanton](https://github.com/shtanton)
