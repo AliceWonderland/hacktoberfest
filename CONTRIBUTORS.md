@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Bennett Treptow](https://github.com/bennett-treptow)
+- Place: Milwaukee, WI, USA
+- Bio: Computer Science Major / Web Developer
+- Github: [bennett-treptow](https://github.com/bennett-treptow)
