@@ -340,3 +340,8 @@
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Francis Venne](https://github.com/NullSilence)
+- Place: Montreal, Canada.
+- Bio: Developer by day, cat lover by night. Canadian tech enthusiast.
+- Github [Sravya Pullagura](https://github.com/NullSilence)
