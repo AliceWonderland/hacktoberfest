@@ -343,6 +343,7 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
 #### Name: [Rafael Lima](https://github.com/rafaelkalan)
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Youger software engineer
@@ -352,8 +353,6 @@
 - Place: New Delhi, India
 - Bio: Techie with a lot of horizontals but a low verticality :(
 - Github: [Saif Rehman Nasir](https://github.com/shyshin)
-
-- Github [Sravya Pullagura](https://github.com/sravya96)  
 
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
@@ -420,20 +419,10 @@
 - Bio: Inquisitive, Loves coding, also vegan
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
-
 #### Name: [Loreleen Mae Sablot](https://github.com/loreleensablot)
 - Place: Daet, Camarines Norte, Philippines
 - Bio: I love designing beautiful websites. I also bike.
 - Github [Loreleen Mae Sablot] (https://github.com/loreleensablot)
-
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
 #### Name: [Ben Smith](https://github.com/ben-w-smith)
 - Place: Salt Lake City, UT, USA
