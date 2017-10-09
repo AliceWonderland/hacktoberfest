@@ -606,7 +606,7 @@ s in Computer Science
 - GitHub: [g33kcentric](https://github.com/g33kcentric)
 
 #### Name: [Andin FOKUNANG](https://github.com/switchgirl95)
-- Place: Yaounde , Cameroon 
+- Place: Yaounde , Cameroon
 - Bio: Student - Otaku - Geek
 - GitHub: [Switch](https://github.com/switchgirl95)
 
@@ -679,3 +679,8 @@ s in Computer Science
 - Place: India
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
+
+#### Name: [Jakub Bačo](https://github.com/vysocina)
+- Place: Slovakia
+- Bio: Student / Designer
+- GitHub: [Jakub Bačo](https://github.com/vysocina)
