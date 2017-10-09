@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Dhevi Rajendran](https://github.com/dhevi)
+- Place: USA
+- Bio: Software Engineer
+- Github: [dhevi](https://github.com/dhevi)
+
 #### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
 - Place: Lagos, Nigeria
 - Bio: JavaScript Developer
