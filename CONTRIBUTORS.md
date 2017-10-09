@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Harshil Agrawal](https://github.com/harshil1712)
+-Place: Vadodara, India
+-Bio: Student,Web Developer
+-GitHub: [harshil1712](https://github.com/harshil1712)
+
 #### Name: [Bennett Treptow](https://github.com/bennett-treptow)
 - Place: Milwaukee, WI, USA
 - Bio: Computer Science Major / Web Developer
@@ -481,6 +486,7 @@ s in Computer Science
 #### Name: [Hassan Sani](https://github.com/inidaname)
 - Place: Bida, Niger State, Nigeria
 - Bio: Web Developer at @ADPNigeria
+
 #### Name: [Philip Terzic](https://github.com/PhilTerz)
 - Place: Scottsdale, Arizona, USA
 - Bio: Aspiring OSS Contributer
@@ -500,3 +506,4 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
