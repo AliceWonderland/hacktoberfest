@@ -428,6 +428,15 @@ s in Computer Science
 - Bio: I love designing beautiful websites. I also bike.
 - Github [Loreleen Mae Sablot] (https://github.com/loreleensablot)
 
+#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
+- Place: Kuala Belait, Brunei Darussalam
+- Bio: Mechanical engineer
+- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Aleksandr Vorontsov](https://github.com/a-vorontsov)
+- Place: London, England
+- Bio: Student, Aspiring Front-end Web Dev
+- Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 #### Name: [Ben Smith](https://github.com/ben-w-smith)
 - Place: Salt Lake City, UT, USA
 - Bio: A guy that loves writing bots and automation.
@@ -463,6 +472,15 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Bryan Wigianto](https://github.com/bwigianto)
+- Place: USA 
+- Bio: Engineer
+- GitHub: [bwigianto](https://github.com/bwigianto)
+
+#### Name: [Ckpuna4](https://github.com/Ckpuna4)
+- Place: Saint-petersburg, Russia
+- Bio: Web Developer
+- GitHub: [Ckpuna4](https://github.com/Ckpuna4)
 
 #### Name: [Vaibhaw Agrawal](https://github.com/vaibhaw2731)
 - Place: New Delhi, India
@@ -561,3 +579,4 @@ s in Computer Science
 - Place: Bangkok, Thailand
 - Bio: Student / Junior Web Developer
 - GitHub: [peam1234](https://github.com/peam1234)
+=======
