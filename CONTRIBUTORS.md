@@ -463,6 +463,10 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Ckpuna4](https://github.com/Ckpuna4)
+- Place: Saint-petersburg, Russia
+- Bio: Web Developer
+- GitHub: [Ckpuna4](https://github.com/Ckpuna4)
 
 #### Name: [Vaibhaw Agrawal](https://github.com/vaibhaw2731)
 - Place: New Delhi, India
@@ -556,4 +560,3 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
-
