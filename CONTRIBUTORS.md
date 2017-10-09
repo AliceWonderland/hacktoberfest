@@ -376,7 +376,7 @@ s in Computer Science
 #### Name: [Fush Chups](https://github.com/fushandchups)
 - Place: Christchurch, Canterbury, New Zealand
 - Bio: Earhquake enthusiast
-- GitHub:[fushandchups] (https://github.com/fushandchups) 
+- GitHub:[fushandchups] (https://github.com/fushandchups)
 
 #### Name: [Francis Venne](https://github.com/NullSilence)
 - Place: Montreal, Canada.
@@ -467,3 +467,27 @@ s in Computer Science
 - Place: Buenos Aires, Argentina
 - Bio: Developer
 - GitHub: [castro732](https://github.com/castro732)
+
+#### Name: [Hassan Sani](https://github.com/inidaname)
+- Place: Bida, Niger State, Nigeria
+- Bio: Web Developer at @ADPNigeria
+#### Name: [Philip Terzic](https://github.com/PhilTerz)
+- Place: Scottsdale, Arizona, USA
+- Bio: Aspiring OSS Contributer
+- GitHub: [PhilTerz](https://github.com/PhilTerz)
+
+#### Name: [Gustavo Pacheco Ziaugra](https://github.com/GustavoZiaugra)
+- Place: São Paulo, Brazil.
+- Bio: Technology Guy / Student
+- GitHub: [Gustavo Ziaugra](https://github.com/GustavoZiaugra)
+
+#### Name: [Sarah Chen](https://github.com/sarovisk)
+- Place: Sao Paulo/ Brazil
+- Bio: Student
+- GitHub: [sarovisk](https://github.com/sarovisk)
+
+#### Name: [Jose David](https://github.com/jose4125)
+- Place: Bogotá, Colombia
+- Bio: Web Developer
+- GitHub: [jose4125](https://github.com/jose4125)
+
