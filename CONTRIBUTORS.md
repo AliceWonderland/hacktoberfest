@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
+- Place: Lagos, Nigeria
+- Bio: JavaScript Developer
+- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
+
 ### Name: [Trevor Meadows](https://github.com/tlm04070)
 - Place: Charlotte, North Carolina.
 - Bio: UNC Charlotte coding bootcamp student.
@@ -540,4 +545,3 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
-
