@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Jose Morales](https://github.com/castro732)
+- Place: Buenos Aires, Argentina
+- Bio: Developer
+- GitHub: [castro732](https://github.com/castro732)
+
 #### Name: [Hassan Sani](https://github.com/inidaname)
 - Place: Bida, Niger State, Nigeria
 - Bio: Web Developer at @ADPNigeria
@@ -485,3 +490,4 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
