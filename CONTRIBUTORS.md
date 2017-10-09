@@ -38,6 +38,11 @@
 - Bio: Student
 - GitHub: [Michael Cao](https://github.com/mcao)
 
+#### Name: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+- Place: Granada, Spain
+- Bio: IT Student at the University of Granada
+- GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
 #### Name: [Amlaan Bhoi](https://github.com/amlaanb)
 - Place: IL, USA
 - Bio: CS Grad Student
