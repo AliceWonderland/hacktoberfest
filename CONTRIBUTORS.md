@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Andin FOKUNANG](https://github.com/switchgirl95)
+- Place: Yaounde , Cameroon 
+- Bio: Student - Otaku - Geek
+- GitHub: [Switch](https://github.com/switchgirl95)
+
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
@@ -629,3 +634,4 @@ s in Computer Science
 - Place: London, UK
 - Bio: I love guitar!
 - GitHub: [JoeScho](https://github.com/JoeScho)
+
