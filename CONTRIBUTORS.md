@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Mitchell Haugen](https://github.com/haugenmitch)
+- Place: VA, USA
+- Bio: Programmer
+- GitHub: [haugenmitch](https://github.com/haugenmitch)
