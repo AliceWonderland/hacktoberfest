@@ -589,3 +589,10 @@ s in Computer Science
 - Place: Toronto, Canada
 - Bio: A guy who wants to improve the world through AI!
 - GitHub: [Will Barker](https://github.com/billwarker)
+
+#### Name: [Christopher Bradshaw](https://github.com/kitsune7)
+- Place: Provo, UT, USA
+- Bio: I love FOXES!!! :fox:
+- GitHub: [kitsune7](https://github.com/kitsune7)
+
+
