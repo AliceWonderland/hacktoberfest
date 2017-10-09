@@ -1,5 +1,3 @@
-﻿
-
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
@@ -52,7 +50,11 @@
 
 #### Name: [Billy Lee](https://github.com/leebilly0)
 - Place: WI, USA
-- Bio: Software Developer, Bachelors in Computer Science
+- Bio: Software Developer, Bache
+
+
+
+s in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -301,8 +303,284 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Adiyat Mubarak](https://github.com/Keda87)
+- Place: Jakarta, ID, Indonesia
+- Bio: Technology Agnostic
+- GitHub: [Adiyat Mubarak](https://github.com/Keda87)
+
+#### Name: [Vishaal Udandarao](https://github.com/vishaal27)
+- Place: New Delhi, India
+- Bio: Professional Geek | Developer
+- GitHub: [Vishaal Udandarao](https://github.com/vishaal27)
+
+#### Name: [Sparsh Garg](https://github.com/sparsh789)
+- Place: Hyderabad, Telangana, India
+- Bio: Student@IIIT,Hyderabad
+- GitHub: [sparsh789](https://github.com/sparsh789)
+
+#### Name: [Zaki Akhmad](https://github.com/za)
+- Place: Jakarta, Indonesia
+- Bio: Python enthusiasts
+- GitHub: [za](https://github.com/za)
+
+### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Chris Sullivan](https://github.com/codemastermd)
+- Place: College Park, Maryland
+- Bio: Comp Sci student at the University of Maryland
+- GitHub: [Chris Sullivan](https://github.com/codemastermd)
+
+### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Sravya Pullagura](https://github.com/sravya96)
+- Place: Vijayawada, Andhra Pradesh, India
+- Bio: Love learning, coding and sketching!!
+- Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
+- Place: Kuala Belait, Brunei Darussalam
+- Bio: Mechanical engineer
+- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Rafael Lima](https://github.com/rafaelkalan)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Youger software engineer
+- GitHub: [Rafael Lima](https://github.com/rafaelkalan)
+
+#### Name: [Saif Rehman Nasir](https://github.com/shyshin)
+- Place: New Delhi, India
+- Bio: Techie with a lot of horizontals but a low verticality :(
+- Github: [Saif Rehman Nasir](https://github.com/shyshin)
+
+#### Name: [Yash Mittra](https://github.com/mittrayash)
+- Place: New Delhi, Delhi, India
+- Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
+- GitHub: [mittrayash](https://github.com/mittrayash)
+
+#### Name: [Dustin Woods](https://github.com/dustinywoods)
+- Place: MN, USA
+- Bio: Software Developer
+- GitHub: [Dustin Woods](https://github.com/dustinywoods)
+
+#### Name: [Ginanjar S.B](https://github.com/egin10)
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: Someone who's intresting about web devlopment / Programming
+- GitHub: [Ginanjar S.B | egin10](https://github.com/egin10)
+
+#### Name: [Fush Chups](https://github.com/fushandchups)
+- Place: Christchurch, Canterbury, New Zealand
+- Bio: Earhquake enthusiast
+- GitHub:[fushandchups] (https://github.com/fushandchups)
+
+#### Name: [Francis Venne](https://github.com/NullSilence)
+- Place: Montreal, Canada.
+- Bio: Developer by day, cat lover by night. Canadian tech enthusiast.
+- Github [Sravya Pullagura](https://github.com/NullSilence)
+
+#### Name: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
+- Place: São Paulo, Brazil
+- Bio: Associate Degree analysis and systems development
+- GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
+
+#### Name: [Noveen Sachdeva](https://github.com/noveens)
+- Place: Hyderabad, Telangana, India
+- Bio: 3rd Year CS undergrad at IIIT Hyderabad.
+- GitHub: [Noveen Sachdeva](https://github.com/noveens)
+
+#### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
+- Place: Seattle, WA, USA
+- Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
+- Github: Wow isn't this right up there ^ [Dennis Orzikh](https://github.com/orzikhd)
+
+#### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
+- Place: Hyderabad, Telangana, India
+- Bio: Trying to fit in coding society.
+- GitHub: [Pranav Bhasin](https://github.com/pranavbhasin96)
+
+#### Name: [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
+- Place: Mandi, Himachal Pradesh, India
+- Bio: A passionate programmer and a beginner in Open Source
+- Github [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
+
+#### Name: [Arpit Gogia](https://github.com/arpitgogia)
+- Place: Delhi, India
+- Bio: Python Developer
+- Github [Arpit Gogia](https://github.com/arpitgogia)
+
+#### Name: [Charlie Stanton](https://github.com/shtanton)
+- Place: Southend-On-Sea, England
+- Bio: JavaScript Tinkerer, Lover of Vim
+- Github [Charlie Stanton](https://github.com/shtanton)
+
+#### Name: [James Henderson](https://github.com/prohunt)
+- Place: Raleigh, NC, United States
+- Bio: Inquisitive, Loves coding, also vegan
+- Github [Sravya Pullagura](https://github.com/sravya96)
+
+#### Name: [Loreleen Mae Sablot](https://github.com/loreleensablot)
+- Place: Daet, Camarines Norte, Philippines
+- Bio: I love designing beautiful websites. I also bike.
+- Github [Loreleen Mae Sablot] (https://github.com/loreleensablot)
+
+#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
+- Place: Kuala Belait, Brunei Darussalam
+- Bio: Mechanical engineer
+- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Aleksandr Vorontsov](https://github.com/a-vorontsov)
+- Place: London, England
+- Bio: Student, Aspiring Front-end Web Dev
+- Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
+#### Name: [Ben Smith](https://github.com/ben-w-smith)
+- Place: Salt Lake City, UT, USA
+- Bio: A guy that loves writing bots and automation.
+- GitHub: [Ben Smith](https://github.com/ben-w-smith)
+
+#### Name: [Eric Bryant](https://github.com/shmickle)
+- Place: Fairfax, Virginia, USA
+- Bio: Web Developer
+- GitHub: [shmickle](https://github.com/shmickle)
+
+#### Name: [Emmanuel Akinde](https://github.com/harkindey)
+- Place: Lagos, Nigeria
+- Bio: Lets Code and Chill
+- Github: [Harkindey](https://github.com/harkindey)
+
+#### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
+- Place: India
+- Bio: Computer Science Major / UI/UX Designer
+- GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
+
+#### Name: [Katherine S](https://github.com/kms6bn)
+- Place: San Francisco
+- Bio: Data Scientist
+- Github: [kms6bn](https://github.com/kms6bn)
+
+#### Name: [BrunoSXS](https://github.com/brunosxs)
+- Brazil
+- Bio: I like turtules.
+- Github [BrunoSXS](https://github.com/brunosxs)
+
+#### Name: [Alexander Miller](https://github.com/allesmi)
+- Place: Salzburg, Austria
+- Bio: Student/Web Developer
+- GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Bryan Wigianto](https://github.com/bwigianto)
+- Place: USA 
+- Bio: Engineer
+- GitHub: [bwigianto](https://github.com/bwigianto)
+
+#### Name: [Ckpuna4](https://github.com/Ckpuna4)
+- Place: Saint-petersburg, Russia
+- Bio: Web Developer
+- GitHub: [Ckpuna4](https://github.com/Ckpuna4)
+
+#### Name: [Vaibhaw Agrawal](https://github.com/vaibhaw2731)
+- Place: New Delhi, India
+- Bio: I am a Machine Learning enthusiast.
+- GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
+
+#### Name: [Dhevi Rajendran](https://github.com/dhevi)
+- Place: USA
+- Bio: Software Engineer
+- Github: [dhevi](https://github.com/dhevi)
+
+#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
+- Place: Lagos, Nigeria
+- Bio: JavaScript Developer
+- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
+
+### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Ratchapol Tengrumpong](https://github.com/lullabies)
+- Place: Bangkok, Thailand
+- Bio: Programmer Analyst
+- GitHub: [lullabies](https://github.com/lullabies)
+
+#### Name: [Luke Taylor](https://github.com/lmcjt37)
+- Place: Derby, UK
+- Bio: Senior Software Engineer, child at heart
+- GitHub: [Luke Taylor](https://github.com/lmcjt37)
+
+#### Name: [Snehil Verma](https://github.com/vsnehil92)
+- Place: Delhi, India
+- Bio: Love to learn new technologies
+- GitHub: [vsnehil92](https://github.com/vsnehil9
+
+#### Name: [Akram Rameez](https://github.com/akram-rameez)
+- Place: Bengaluru, India
+- Bio: I like free T-shirts and I cannot lie.
+- GitHub: [allesmi](https://github.com/akram-rameez)
+
+#### Name: [Bryan Tylor](https://github.com/bryantylor)
+- Place: Cincinnati, OH, USA
+- Bio: Elixir Dev / Nuclear Engineer
+- GitHub: [Bryan Tylor](https://github.com/bryantylor)
+
+#### Name: [Matthias Kraus](https://github.com/brotkiste)
+- Place: Munich, Germany
+- Bio: Automotive Computer Science
+
+#### Name: [Harshil Agrawal](https://github.com/harshil1712)
+-Place: Vadodara, India
+-Bio: Student,Web Developer
+-GitHub: [harshil1712](https://github.com/harshil1712)
+
+#### Name: [Bennett Treptow](https://github.com/bennett-treptow)
+- Place: Milwaukee, WI, USA
+- Bio: Computer Science Major / Web Developer
+- Github: [bennett-treptow](https://github.com/bennett-treptow)
+
+#### Name: [Cameron Smith](https://github.com/cameronzsmith)
+- Place: Wichita, KS, USA
+- Bio: Student
+- GitHub: [cameronzsmith](https://github.com/cameronzsmith)
+
+#### Name: [Jose Morales](https://github.com/castro732)
+- Place: Buenos Aires, Argentina
+- Bio: Developer
+- GitHub: [castro732](https://github.com/castro732)
+
+#### Name: [Hassan Sani](https://github.com/inidaname)
+- Place: Bida, Niger State, Nigeria
+- Bio: Web Developer at @ADPNigeria
+
+#### Name: [Philip Terzic](https://github.com/PhilTerz)
+- Place: Scottsdale, Arizona, USA
+- Bio: Aspiring OSS Contributer
+- GitHub: [PhilTerz](https://github.com/PhilTerz)
+
+#### Name: [Gustavo Pacheco Ziaugra](https://github.com/GustavoZiaugra)
+- Place: São Paulo, Brazil.
+- Bio: Technology Guy / Student
+- GitHub: [Gustavo Ziaugra](https://github.com/GustavoZiaugra)
+
+#### Name: [Sarah Chen](https://github.com/sarovisk)
+- Place: Sao Paulo/ Brazil
+- Bio: Student
+- GitHub: [sarovisk](https://github.com/sarovisk)
+
+#### Name: [Jose David](https://github.com/jose4125)
+- Place: Bogotá, Colombia
+- Bio: Web Developer
+- GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Shobhit Agarwal](https://github.com/shobhit1997)
+- Place: JSSATE, NOIDA ,INDIA
+- Bio: Student/Andriod Developer
+- GitHub: [shobhit1997](https://github.com/shobhit1997)
+
 #### Name: [Will Barker](https://github.com/billwarker)
 - Place: Toronto, Canada
 - Bio: A guy who wants to improve the world through AI!
 - GitHub: [Will Barker](https://github.com/billwarker)
-
