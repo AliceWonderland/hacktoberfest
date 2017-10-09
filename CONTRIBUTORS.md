@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Bryan Tylor](https://github.com/bryantylor)
+- Place: Cincinnati, OH, USA
+- Bio: Elixir Dev / Nuclear Engineer
+- GitHub: [Bryan Tylor](https://github.com/bryantylor)
+
 #### Name: [Matthias Kraus](https://github.com/brotkiste)
 - Place: Munich, Germany
 - Bio: Automotive Computer Scienc
@@ -509,3 +514,4 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
