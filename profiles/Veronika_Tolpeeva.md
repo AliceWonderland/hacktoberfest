@@ -24,4 +24,4 @@ Plekhanov Russian University of Economics
 
 ### Profile Link
 
-[Veronika Tolpeeva](https://github.com/ostyq)
+[Veronika Tolpeeva](https://github.com/ostyq) 
