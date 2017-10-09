@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+- Place: Norway
+- Bio: Reverse Engineer
+- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+
 #### Name: [George Hundmann](https://github.com/georgegsd)
 - Place: Mannheim, Baden-Württemberg, Germany
 - Bio: I'm a German Shepherd that likes eating
