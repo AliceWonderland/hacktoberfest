@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Marion Fioen](https://github.com/marion59000)
+- Place: Lille, France
+- Bio: Developer
+- GitHub: [marion59000](https://github.com/marion59000)
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
