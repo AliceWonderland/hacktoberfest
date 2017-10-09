@@ -464,6 +464,12 @@ s in Computer Science
 - GitHub: [allesmi](https://github.com/allesmi)
 
 
+#### Name: [Gustavo Pacheco Ziaugra](https://github.com/GustavoZiaugra)
+- Place: São Paulo, Brazil.
+- Bio: Technology Guy / Student
+- GitHub: [Gustavo Ziaugra](https://github.com/GustavoZiaugra)
+
+
 #### Name: [Sarah Chen](https://github.com/sarovisk)
 - Place: Sao Paulo/ Brazil
 - Bio: Student
@@ -473,4 +479,5 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
 
