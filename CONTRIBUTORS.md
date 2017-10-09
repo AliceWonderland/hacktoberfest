@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Cameron Smith](https://github.com/cameronzsmith)
+- Place: Wichita, KS, USA
+- Bio: Student
+- GitHub: [cameronzsmith](https://github.com/cameronzsmith)
+
 #### Name: [Jose Morales](https://github.com/castro732)
 - Place: Buenos Aires, Argentina
 - Bio: Developer
@@ -490,4 +495,5 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
 
