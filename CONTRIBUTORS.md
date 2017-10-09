@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Ratchapol Tengrumpong](https://github.com/lullabies)
+- Place: Bangkok, Thailand
+- Bio: Programmer Analyst
+- GitHub: [lullabies](https://github.com/lullabies)
+
 #### Name: [Luke Taylor](https://github.com/lmcjt37)
 - Place: Derby, UK
 - Bio: Senior Software Engineer, child at heart
@@ -472,6 +477,7 @@ s in Computer Science
 - Place: Delhi, India
 - Bio: Love to learn new technologies
 - GitHub: [vsnehil92](https://github.com/vsnehil9
+
 #### Name: [Akram Rameez](https://github.com/akram-rameez)
 - Place: Bengaluru, India
 - Bio: I like free T-shirts and I cannot lie.
@@ -484,7 +490,8 @@ s in Computer Science
 
 #### Name: [Matthias Kraus](https://github.com/brotkiste)
 - Place: Munich, Germany
-- Bio: Automotive Computer Scienc
+- Bio: Automotive Computer Science
+
 #### Name: [Harshil Agrawal](https://github.com/harshil1712)
 -Place: Vadodara, India
 -Bio: Student,Web Developer
@@ -528,4 +535,3 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
-
