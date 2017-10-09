@@ -579,3 +579,8 @@ s in Computer Science
 - Place: JSSATE, NOIDA ,INDIA
 - Bio: Student/Andriod Developer
 - GitHub: [shobhit1997](https://github.com/shobhit1997)
+
+#### Name: [Will Barker](https://github.com/billwarker)
+- Place: Toronto, Canada
+- Bio: A guy who wants to improve the world through AI!
+- GitHub: [Will Barker](https://github.com/billwarker)
