@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Bryan Wigianto](https://github.com/bwigianto)
+- Place: USA 
+- Bio: Engineer
+- GitHub: [bwigianto](https://github.com/bwigianto)
+
 #### Name: [Ckpuna4](https://github.com/Ckpuna4)
 - Place: Saint-petersburg, Russia
 - Bio: Web Developer
