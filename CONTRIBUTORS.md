@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Akma Adhwa](https://github.com/akmadhwa)
+- Place: Malaysia
+- Bio: Web Developer
+- GitHub: [akmadhwa](https://github.com/akmadhwa)
+
 #### Name: [Ian James](https://inj.ms)
 - Place: London, UK
 - Bio: Web... person?
