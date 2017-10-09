@@ -684,3 +684,9 @@ s in Computer Science
 - Place: Slovakia
 - Bio: Student / Designer
 - GitHub: [Jakub Bačo](https://github.com/vysocina)
+
+#### Name: [Gabriel Obaldia](https://github.com/gobaldia)
+- Place: Uruguay
+- Bio: Full Stack Developer
+- GitHub: [Gabriel Obaldia](https://github.com/gobaldia)
+
