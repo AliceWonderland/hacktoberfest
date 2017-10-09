@@ -50,7 +50,11 @@
 
 #### Name: [Billy Lee](https://github.com/leebilly0)
 - Place: WI, USA
-- Bio: Software Developer, Bachelors in Computer Science
+- Bio: Software Developer, Bache
+
+
+
+s in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -329,7 +333,7 @@
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
-### Name: [Owen Mitchell] (https://github.com/ultimatezenzar)
+### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
 - Place: Edmond, OK, United States
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
@@ -343,6 +347,7 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
 #### Name: [Rafael Lima](https://github.com/rafaelkalan)
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Youger software engineer
@@ -352,8 +357,6 @@
 - Place: New Delhi, India
 - Bio: Techie with a lot of horizontals but a low verticality :(
 - Github: [Saif Rehman Nasir](https://github.com/shyshin)
-
-- Github [Sravya Pullagura](https://github.com/sravya96)  
 
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
@@ -420,17 +423,42 @@
 - Bio: Inquisitive, Loves coding, also vegan
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
-
 #### Name: [Loreleen Mae Sablot](https://github.com/loreleensablot)
 - Place: Daet, Camarines Norte, Philippines
 - Bio: I love designing beautiful websites. I also bike.
 - Github [Loreleen Mae Sablot] (https://github.com/loreleensablot)
 
-#### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
-- Place: Kuala Belait, Brunei Darussalam
-- Bio: Mechanical engineer
-- Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+#### Name: [Ben Smith](https://github.com/ben-w-smith)
+- Place: Salt Lake City, UT, USA
+- Bio: A guy that loves writing bots and automation.
+- GitHub: [Ben Smith](https://github.com/ben-w-smith)
+
+#### Name: [Eric Bryant](https://github.com/shmickle)
+- Place: Fairfax, Virginia, USA
+- Bio: Web Developer
+- GitHub: [shmickle](https://github.com/shmickle)
+
+#### Name: [Emmanuel Akinde](https://github.com/harkindey)
+- Place: Lagos, Nigeria
+- Bio: Lets Code and Chill
+- Github: [Harkindey](https://github.com/harkindey)
+
+#### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
+- Place: India
+- Bio: Computer Science Major / UI/UX Designer
+- GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
+
+#### Name: [Katherine S](https://github.com/kms6bn)
+- Place: San Francisco
+- Bio: Data Scientist
+- Github: [kms6bn](https://github.com/kms6bn)
+
+#### Name: [BrunoSXS](https://github.com/brunosxs)
+- Brazil
+- Bio: I like turtules.
+- Github [BrunoSXS](https://github.com/brunosxs)
+
+#### Name: [Alexander Miller](https://github.com/allesmi)
+- Place: Salzburg, Austria
+- Bio: Student/Web Developer
+- GitHub: [allesmi](https://github.com/allesmi)
