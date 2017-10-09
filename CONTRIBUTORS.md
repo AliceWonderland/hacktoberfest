@@ -473,7 +473,7 @@ s in Computer Science
 - GitHub: [allesmi](https://github.com/allesmi)
 
 #### Name: [Bryan Wigianto](https://github.com/bwigianto)
-- Place: USA 
+- Place: USA
 - Bio: Engineer
 - GitHub: [bwigianto](https://github.com/bwigianto)
 
@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [K Foster](https://foster.im)
+- Place: West Sussex, UK
+- Bio: Web Developer
+- GitHub: [g33kcentric](https://github.com/g33kcentric)
+
 #### Name: [Andin FOKUNANG](https://github.com/switchgirl95)
 - Place: Yaounde , Cameroon 
 - Bio: Student - Otaku - Geek
@@ -634,4 +639,3 @@ s in Computer Science
 - Place: London, UK
 - Bio: I love guitar!
 - GitHub: [JoeScho](https://github.com/JoeScho)
-
