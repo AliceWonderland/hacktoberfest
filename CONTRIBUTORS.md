@@ -463,6 +463,9 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Hassan Sani](https://github.com/inidaname)
+- Place: Bida, Niger State, Nigeria
+- Bio: Web Developer at @ADPNigeria
 #### Name: [Philip Terzic](https://github.com/PhilTerz)
 - Place: Scottsdale, Arizona, USA
 - Bio: Aspiring OSS Contributer
@@ -482,4 +485,3 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
-
