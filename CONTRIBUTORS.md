@@ -575,10 +575,6 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
-#### Name: [Ben Edelson]
--Place: Newark NJ
--Bio: I.T
--GitHub: https://github.com/Bed31
 #### Name: [Musa Barighzaai](https://github.com/mbarighzaai)
 - Place: Toronto, Canada
 - Bio: Front End Developer
@@ -603,3 +599,8 @@ s in Computer Science
 - Place: Provo, UT, USA
 - Bio: I love FOXES!!! :fox:
 - GitHub: [kitsune7](https://github.com/kitsune7)
+
+#### Name: [Ben Edelson]
+-Place: Newark NJ
+-Bio: I.T
+-GitHub: https://github.com/Bed3150n
