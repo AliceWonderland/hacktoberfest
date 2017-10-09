@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [JOE SCHO](https://github.com/JoeScho)
+- Place: London, UK
+- Bio: I love guitar!
+- GitHub: [JoeScho](https://github.com/JoeScho)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
