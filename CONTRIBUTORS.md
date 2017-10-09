@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Luke Taylor](https://github.com/lmcjt37)
+- Place: Derby, UK
+- Bio: Senior Software Engineer, child at heart
+- GitHub: [Luke Taylor](https://github.com/lmcjt37)
+
 #### Name: [Snehil Verma](https://github.com/vsnehil92)
 - Place: Delhi, India
 - Bio: Love to learn new technologies
@@ -523,3 +528,4 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
