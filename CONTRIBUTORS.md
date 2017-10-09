@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
+- Place: Abuja, Nigeria
+- Bio: Web Developer
+- GitHub: [a-m-a-z](https://github.com/a-m-a-z)
+
 #### Name: [Allan Dorr](https://github.com/aldorr)
 - Place: Hamburg, Germany
 - Bio: Web Dev, Writer, Translator, Teacher
