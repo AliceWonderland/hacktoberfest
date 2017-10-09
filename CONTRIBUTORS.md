@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Musa Barighzaai](https://github.com/mbarighzaai)
+- Place: Toronto, Canada
+- Bio: Front End Developer
+- GitHub: [mbarighzaai](https://github.com/mbarighzaai)
