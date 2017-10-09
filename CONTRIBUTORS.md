@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Ian James](https://inj.ms)
+- Place: London, UK
+- Bio: Web... person?
+- GitHub: [injms](https://github.com/injms)
+
 #### Name: [K Foster](https://foster.im)
 - Place: West Sussex, UK
 - Bio: Web Developer
