@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Lakston](https://github.com/Lakston)
+- Place: Toulouse, France
+- Bio: Front-End Dev
+- GitHub: [Lakston](https://github.com/Lakston)
+
 #### Name: [Shobhit Agarwal](https://github.com/shobhit1997)
 - Place: JSSATE, NOIDA ,INDIA
 - Bio: Student/Andriod Developer
