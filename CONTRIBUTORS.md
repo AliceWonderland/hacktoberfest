@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [George Hundmann](https://github.com/georgegsd)
+- Place: Mannheim, Baden-Württemberg, Germany
+- Bio: I'm a German Shepherd that likes eating
+- GitHub: [georgegsd](https://github.com/georgegsd)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
@@ -612,7 +617,7 @@ s in Computer Science
 
 #### Name: [Ben Edelson]
 -Place: Newark NJ
--Bio: I.T
+-Bio: I.T.
 -GitHub: https://github.com/Bed3150n
 
 #### Name: [JOE SCHO](https://github.com/JoeScho)
