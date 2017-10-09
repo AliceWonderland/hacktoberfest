@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Akram Rameez](https://github.com/akram-rameez)
+- Place: Bengaluru, India
+- Bio: I like free T-shirts and I cannot lie.
+- GitHub: [allesmi](https://github.com/akram-rameez)
+
 #### Name: [Bryan Tylor](https://github.com/bryantylor)
 - Place: Cincinnati, OH, USA
 - Bio: Elixir Dev / Nuclear Engineer
@@ -514,4 +519,5 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
 
