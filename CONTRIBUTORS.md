@@ -679,3 +679,8 @@ s in Computer Science
 - Place: India
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
+
+#### Name: [Gabriel Obaldia](https://github.com/gobaldia)
+- Place: Uruguay
+- Bio: Full Stack Developer
+- GitHub: [Gabriel Obaldia](https://github.com/gobaldia)
