@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Allan Dorr](https://github.com/aldorr)
+- Place: Hamburg, Germany
+- Bio: Web Dev, Writer, Translator, Teacher
+- GitHub: [aldorr](https://github.com/aldorr)
+
 #### Name: [Musa Barighzaai](https://github.com/mbarighzaai)
 - Place: Toronto, Canada
 - Bio: Front End Developer
@@ -604,3 +609,4 @@ s in Computer Science
 -Place: Newark NJ
 -Bio: I.T
 -GitHub: https://github.com/Bed3150n
+
