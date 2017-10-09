@@ -575,11 +575,6 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
-#### Name: [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
-- Place: Mumbai, India
-- Bio: Student, System Administrator
-- GitHub: [TummanapallyAnuraag](https://github.com/TummanapallyAnuraag)
-
 #### Name: [Ian James](https://inj.ms)
 - Place: London, UK
 - Bio: Web... person?
@@ -649,3 +644,8 @@ s in Computer Science
 - Place: London, UK
 - Bio: I love guitar!
 - GitHub: [JoeScho](https://github.com/JoeScho)
+
+#### Name: [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
+- Place: Mumbai, India
+- Bio: Student, System Administrator
+- GitHub: [TummanapallyAnuraag](https://github.com/TummanapallyAnuraag)
