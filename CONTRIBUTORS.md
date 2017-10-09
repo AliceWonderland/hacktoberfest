@@ -463,6 +463,12 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+
+#### Name: [Vaibhaw Agrawal](https://github.com/vaibhaw2731)
+- Place: New Delhi, India
+- Bio: I am a Machine Learning enthusiast.
+- GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
+
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
@@ -550,3 +556,4 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
