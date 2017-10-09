@@ -472,6 +472,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Mitchell Haugen](https://github.com/haugenmitch)
+- Place: VA, USA
+- Bio: Programmer
+- GitHub: [haugenmitch](https://github.com/haugenmitch)
+
 #### Name: [Bryan Wigianto](https://github.com/bwigianto)
 - Place: USA
 - Bio: Engineer
