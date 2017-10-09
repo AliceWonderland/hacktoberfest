@@ -463,6 +463,11 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Bennett Treptow](https://github.com/bennett-treptow)
+- Place: Milwaukee, WI, USA
+- Bio: Computer Science Major / Web Developer
+- Github: [bennett-treptow](https://github.com/bennett-treptow)
+
 #### Name: [Cameron Smith](https://github.com/cameronzsmith)
 - Place: Wichita, KS, USA
 - Bio: Student
@@ -495,5 +500,3 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
-
-
