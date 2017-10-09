@@ -376,7 +376,7 @@ s in Computer Science
 #### Name: [Fush Chups](https://github.com/fushandchups)
 - Place: Christchurch, Canterbury, New Zealand
 - Bio: Earhquake enthusiast
-- GitHub:[fushandchups] (https://github.com/fushandchups) 
+- GitHub:[fushandchups] (https://github.com/fushandchups)
 
 #### Name: [Francis Venne](https://github.com/NullSilence)
 - Place: Montreal, Canada.
@@ -463,7 +463,14 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+
+#### Name: [Sarah Chen](https://github.com/sarovisk)
+- Place: Sao Paulo/ Brazil
+- Bio: Student
+- GitHub: [sarovisk](https://github.com/sarovisk)
+
 #### Name: [Jose David](https://github.com/jose4125)
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
