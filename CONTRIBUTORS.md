@@ -578,4 +578,28 @@ s in Computer Science
 #### Name: [Ben Edelson]
 -Place: Newark NJ
 -Bio: I.T
--GitHub: https://github.com/Bed3150n
+-GitHub: https://github.com/Bed31
+#### Name: [Musa Barighzaai](https://github.com/mbarighzaai)
+- Place: Toronto, Canada
+- Bio: Front End Developer
+- GitHub: [mbarighzaai](https://github.com/mbarighzaai)
+
+#### Name: [Lakston](https://github.com/Lakston)
+- Place: Toulouse, France
+- Bio: Front-End Dev
+- GitHub: [Lakston](https://github.com/Lakston)
+
+#### Name: [Shobhit Agarwal](https://github.com/shobhit1997)
+- Place: JSSATE, NOIDA ,INDIA
+- Bio: Student/Andriod Developer
+- GitHub: [shobhit1997](https://github.com/shobhit1997)
+
+#### Name: [Will Barker](https://github.com/billwarker)
+- Place: Toronto, Canada
+- Bio: A guy who wants to improve the world through AI!
+- GitHub: [Will Barker](https://github.com/billwarker)
+
+#### Name: [Christopher Bradshaw](https://github.com/kitsune7)
+- Place: Provo, UT, USA
+- Bio: I love FOXES!!! :fox:
+- GitHub: [kitsune7](https://github.com/kitsune7)
