@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [George Hundmann](https://github.com/georgegsd)
+- Place: Mannheim, Baden-Württemberg, Germany
+- Bio: I'm a German Shepherd that likes eating
+- GitHub: [georgegsd](https://github.com/georgegsd)
