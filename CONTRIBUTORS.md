@@ -3,11 +3,6 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
-#### Name: [Christopher Bradshaw](https://github.com/kitsune7)
-- Place: Provo, UT, USA
-- Bio: I love FOXES!!! :fox:
-- GitHub: [kitsune7](https://github.com/kitsune7)
-
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
@@ -579,3 +574,23 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Lakston](https://github.com/Lakston)
+- Place: Toulouse, France
+- Bio: Front-End Dev
+- GitHub: [Lakston](https://github.com/Lakston)
+
+#### Name: [Shobhit Agarwal](https://github.com/shobhit1997)
+- Place: JSSATE, NOIDA ,INDIA
+- Bio: Student/Andriod Developer
+- GitHub: [shobhit1997](https://github.com/shobhit1997)
+
+#### Name: [Will Barker](https://github.com/billwarker)
+- Place: Toronto, Canada
+- Bio: A guy who wants to improve the world through AI!
+- GitHub: [Will Barker](https://github.com/billwarker)
+
+#### Name: [Christopher Bradshaw](https://github.com/kitsune7)
+- Place: Provo, UT, USA
+- Bio: I love FOXES!!! :fox:
+- GitHub: [kitsune7](https://github.com/kitsune7)
