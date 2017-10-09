@@ -610,3 +610,7 @@ s in Computer Science
 -Bio: I.T
 -GitHub: https://github.com/Bed3150n
 
+#### Name: [JOE SCHO](https://github.com/JoeScho)
+- Place: London, UK
+- Bio: I love guitar!
+- GitHub: [JoeScho](https://github.com/JoeScho)
