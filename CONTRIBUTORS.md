@@ -462,3 +462,8 @@ s in Computer Science
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Philip Terzic](https://github.com/PhilTerz)
+- Place: Scottsdale, Arizona, USA
+- Bio: Aspiring OSS Contributer
+- GitHub: [PhilTerz](https://github.com/PhilTerz)
