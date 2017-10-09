@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Musa Barighzaai](https://github.com/mbarighzaai)
+- Place: Toronto, Canada
+- Bio: Front End Developer
+- GitHub: [mbarighzaai](https://github.com/mbarighzaai)
+
 #### Name: [Lakston](https://github.com/Lakston)
 - Place: Toulouse, France
 - Bio: Front-End Dev
@@ -594,5 +599,6 @@ s in Computer Science
 - Place: Provo, UT, USA
 - Bio: I love FOXES!!! :fox:
 - GitHub: [kitsune7](https://github.com/kitsune7)
+
 
 
