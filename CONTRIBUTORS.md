@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Christopher Bradshaw](https://github.com/kitsune7)
+- Place: Provo, UT, USA
+- Bio: I love FOXES!!! :fox:
+- GitHub: [kitsune7](https://github.com/kitsune7)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
@@ -574,8 +579,3 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
-
-### Name: [Christopher Bradshaw](https://github.com/kitsune7)
-- Place: Provo, Utah, USA
-- Bio: Computer Science Major / Web Developer / Dvorak Typist :P
-- Github: [kitsune7](https://github.com/kitsune7)
