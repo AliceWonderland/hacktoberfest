@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Ian James](https://inj.ms)
+- Place: London, UK
+- Bio: Web... person?
+- GitHub: [injms](https://github.com/injms)
