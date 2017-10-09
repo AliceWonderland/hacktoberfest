@@ -301,3 +301,8 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Will Barker](https://github.com/billwarker)
+- Place: Toronto, Canada
+- Bio: A guy who wants to improve the world through AI!
+- GitHub: [Will Barker](https://github.com/billwarker)
+
