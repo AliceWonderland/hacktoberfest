@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
+- Place: Abuja, Nigeria
+- Bio: Web Developer
+- GitHub: [a-m-a-z](https://github.com/a-m-a-z)
