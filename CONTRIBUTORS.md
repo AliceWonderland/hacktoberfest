@@ -463,7 +463,21 @@ s in Computer Science
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+
 #### Name: [Gustavo Pacheco Ziaugra](https://github.com/GustavoZiaugra)
 - Place: São Paulo, Brazil.
 - Bio: Technology Guy / Student
 - GitHub: [Gustavo Ziaugra](https://github.com/GustavoZiaugra)
+
+
+#### Name: [Sarah Chen](https://github.com/sarovisk)
+- Place: Sao Paulo/ Brazil
+- Bio: Student
+- GitHub: [sarovisk](https://github.com/sarovisk)
+
+#### Name: [Jose David](https://github.com/jose4125)
+- Place: Bogotá, Colombia
+- Bio: Web Developer
+- GitHub: [jose4125](https://github.com/jose4125)
+
+
