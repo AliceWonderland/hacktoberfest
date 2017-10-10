@@ -1,3 +1,8 @@
+#### Name: [Justin Oliver](https://github.com/justinoliver)
+- Place: Seattle, WA, USA, Earth!
+- Bio: Trying to learn cool new things!
+- GitHub: [Justin Oliver](https://github.com/justinoliver)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
