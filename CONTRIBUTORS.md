@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
