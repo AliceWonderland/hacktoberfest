@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Veronika Tolpeeva](https://github.com/ostyq)
+- Place: Moscow, Russia
+- Bio: Web developer
+- GitHub: [Veronika Tolpeeva](https://github.com/ostyq)
