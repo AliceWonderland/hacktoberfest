@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Michele Adduci](https://micheleadduci.net)
+- Place: Germany
+- Bio: Full Stack Developer, living on a CI/CD pipeline
+- GitHub: [madduci](https://github.com/madduci)
