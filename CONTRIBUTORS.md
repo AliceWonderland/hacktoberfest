@@ -238,6 +238,11 @@ s in Computer Science
 - Bio: Student
 - GitHub: [githubbbbbbbbbbbbb](https://github.com/githubbbbbbbbbbbbb)
 
+#### Name: [Jill Cates](https://github.com/topspinj)
+- Place: Canada
+- Bio: I love data visualization, tennis & coffee...in no particular order.
+- GitHub: [topspinj](https://github.com/topspinj)
+
 #### Name: [Ren Cummings](https://github.com/nrenc027)
 - Place: Dayton,OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
