@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
+- Place: Athens, Greece
+- Bio: Undergraduate CS student / Software Developer
+- GitHub: [PanosVl](https://github.com/PanosVl)
