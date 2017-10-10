@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Alvin Abia](https://github.com/twist295)
+- Place: NY, USA
+- Bio: Lead Mobile Developer
+- Github: [Alvin Abia](https://github.com/twist295)
