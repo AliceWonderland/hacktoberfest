@@ -679,3 +679,8 @@ s in Computer Science
 - Place: India
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
+
+#### Name: [Pratyum Jagannath](https://github.com/Pratyum)
+- Place: Singapore
+- Bio: I tell tales! 
+- GitHub: [Pratyum](https://github.com/Pratyum)
