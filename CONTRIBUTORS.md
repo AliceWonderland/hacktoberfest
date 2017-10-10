@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Juan Anaya Ortiz](https://github.com/JaoChaos)
+- Place: Granada, Spain
+- Bio: IT student at the University of Granada
+- GitHub: [Juan Anaya Ortiz](https://github.com/JaoChaos)
+
