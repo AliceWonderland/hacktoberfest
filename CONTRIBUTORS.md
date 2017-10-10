@@ -1,3 +1,9 @@
+#### Name: [RYAN R SMITH](https://github.com/devronsoft)
+- Place: Oxford, UK
+- Bio: Kiwi dev
+- GitHub: [Ryan Smith](https://github.com/devronsoft)
+- Website: [Blog](https://devronsoft.github.io/)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
