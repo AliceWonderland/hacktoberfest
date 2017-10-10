@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Lesyntheti](https://github.com/lesyntheti)
+- Place : Troyes, France
+- Bio : Network Engineer at University of Technology of Troyes
+- Github: [lesyntheti](https://gitbub.com/lesyntheti)
