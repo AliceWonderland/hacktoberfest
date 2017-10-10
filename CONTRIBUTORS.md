@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Aimee Tacchi](https://github.com/darkxangel84)
+- Place: England, UK
+- Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
+- GitHub: [darkxangel84](https://github.com/darkxangel84)
