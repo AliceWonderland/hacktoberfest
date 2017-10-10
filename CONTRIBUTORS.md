@@ -487,6 +487,11 @@ s in Computer Science
 - Bio: I am a Machine Learning enthusiast.
 - GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
 
+#### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+- Place: Kathmandu, Nepal
+- Bio: Open Data and Open Knowledge activist
+- GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
