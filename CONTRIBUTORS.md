@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Serhii Baraniuk](https://github.com/kenitive)
+- Place: Odessa, Ukraine
+- Bio: Web developer
+- GitHub: [Serhii Baraniuk](https://github.com/kenitive)
