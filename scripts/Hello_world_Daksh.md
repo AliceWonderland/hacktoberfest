@@ -1,4 +1,4 @@
-// LANGUAGE:Javascript
+// LANGUAGE:Python
 // AUTHOR: Daksh Chaturvedi
 // GITHUB: https://github.com/daksh249
-console.log('Hello, World!');
+print("Hello world")
