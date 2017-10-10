@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Rizki Ramadhana](https://github.com/rizkiprof)
+- Place: Yogyakarta, Indonesia
+- Bio: Student / Front-end Developer
+- GitHub: [Rizki Ramadhana](https://github.com/rizkiprof)
