@@ -13,4 +13,4 @@
 
 ### Github Profile
 
-[Schitte Industries](https://github.com/schitte)
+- [Schitte Industries](https://github.com/schitte)
