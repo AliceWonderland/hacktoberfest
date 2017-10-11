@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
+- Place: New Delhi, India
+- Bio: Computer Science Engineering student at Amity University 
+Noida
+-Github: [Manas kashyap](https://github.com/Manas-kashyap) 
