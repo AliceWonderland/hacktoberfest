@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
+- Place: Qom, Qom, Iran
+- Bio: back-end develoer and seo expert
+- GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
+- Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
