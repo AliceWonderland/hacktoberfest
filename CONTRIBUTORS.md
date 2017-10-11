@@ -33,6 +33,12 @@
 - Bio: Professional Geek
 - GitHub: [Patrick S](https://github.com/patsteph)
 
+#### Name: [Ayushverma8](https://github.com/Ayushverma8)
+- Place: Indore, TN, IN
+- Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads, invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
+- GitHub: [Ayush](https://github.com/Ayushverma8)
+
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: PA, USA
 - Bio: Student
