@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Arie Kurniawan](https://github.com/arkwrn)
+- Place: Jakarta, Indonesia
+- Bio: IT Student at Universiy of Muhammadiyah Jakarta
+- GitHub: [Arie Kurniawan](https://github.com/arkwrn)
