@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Ishaan Goyal](https://github.com/Ishaan0905)
+- Place: Chandigarh, India
+- Bio: ECE Student at Punjab University, Chandigarh
+- GitHub: [Ishaan Goyal](https://github.com/Ishaan0905)
