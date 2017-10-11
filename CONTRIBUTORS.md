@@ -50,11 +50,7 @@
 
 #### Name: [Billy Lee](https://github.com/leebilly0)
 - Place: WI, USA
-- Bio: Software Developer, Bache
-
-
-
-s in Computer Science
+- Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -694,3 +690,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Kyle Johnson] (https://github.com/johnson90512)
+- Place: United States
+- Bio: Information System Administrator, former Information Systems student
+- GitHub: [Kyle Johnson] (https://github.com/johnson90512)
