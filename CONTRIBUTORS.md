@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
+- Place: Paris, France
+- Bio: Solution Architect @ Eleven-Labs
+- GitHub: [VEBERArnaud](https://github.com/VEBERArnaud)
