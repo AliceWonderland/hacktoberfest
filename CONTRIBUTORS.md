@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Shaun Houck](https://github.com/houcks)
+- Place: Athens, West Virginia, USA
+- Bio: Computer Science student at Concord University
+- GitHub: [Shaun Houck](https://github.com/houcks)
