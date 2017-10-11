@@ -697,5 +697,5 @@ s in Computer Science
 
 #### Name: [Omar Mujahid](https://github.com/omarmjhd)
 - Place: Austin, Texas, USA
-- Bio: I write backend code, and play golf!
-- GitHub: [Antonio Jesus Pelaez](https://github.com/omarmjhd)
+- Bio: I write code, and play golf!
+- GitHub: [Omar Mujahid](https://github.com/omarmjhd)
