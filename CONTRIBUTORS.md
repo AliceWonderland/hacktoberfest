@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
