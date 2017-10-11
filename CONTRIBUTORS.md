@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Anuja Agarwal](https://github.com/anujagrazzel)
+- Place: Noida, India
+- Bio: Free Lancer
+- GitHub: [anujagrazzel](https://github.com/anujagrazzel)
