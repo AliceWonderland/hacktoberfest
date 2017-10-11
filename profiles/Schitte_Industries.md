@@ -11,6 +11,6 @@
 - [Hang out with us on Discord](https://discordapp.com/channels/274387509109325825/)
 - [See exclusive contents on Patreon](https://www.patreon.com/schitte)
 
-### Profile Link
+### Github Profile
 
 [Schitte Industries](https://github.com/schitte)
