@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Gilliano Menezes](https://github.com/gillianomenezes)
+- Place: Recife, Brazil
+- Bio: Software Engineer at www.neuroup.com.br
+- GitHub: [Gilliano Menezes](https://github.com/gillianomenezes)
