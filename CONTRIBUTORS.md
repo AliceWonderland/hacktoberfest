@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Attila Blascsak](https://github.com/blascsi)
+- Place: Hungary
+- Bio: Front-end dev. Love React!
+- GitHub: [Attila Blascsak](https://github.com/blascsi)
