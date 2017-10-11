@@ -1,5 +1,4 @@
-![Main Logo](https://schitte.github.io/Logo.png)
-# Schitte Industries
+![Schitte Industries](https://schitte.github.io/Logo.png)
 
 ### About
 
