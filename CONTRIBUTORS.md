@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
+- Place: London, United Kingdom
+- Bio: FrontEnd Developer
+- GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
