@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Rafael Copstein](https://github.com/rcopstein)
+- Place: Porto Alegre, Brazil
+- Bio: Computer Science Student at PUCRS
+- GitHub: [rcopstein](https://github.com/rcopstein)
