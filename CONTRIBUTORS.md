@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Siddhant Verma](https://github.com/siddver007)
+- Place: Delhi, India
+- Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
+- GitHub: [Siddhant Verma](https://github.com/siddver007)
