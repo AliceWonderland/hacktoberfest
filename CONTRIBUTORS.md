@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Yeshi Dorjee](https://github.com/yeshijinsel)
+- Place: Chandigarh, India
+- Bio: Love to explore the new places and coding
+- GitHub: [Yeshi Dorjee](https://github.com/yeshijinsel)
