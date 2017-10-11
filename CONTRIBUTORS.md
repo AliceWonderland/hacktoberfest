@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
+- Place: Goiânia, Brasil
+- Bio: Computer Science Student
+- GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
