@@ -1,3 +1,8 @@
+#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
+- Place: Sri Lanka
+- Bio: Undergraduate
+- GitHub: [Shanaka95](https://github.com/shanaka95)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
