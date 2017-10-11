@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
