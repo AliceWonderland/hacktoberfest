@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Michael Kaiser](https://github.com/patheticpat)
+- Place: Germany
+- Bio: Ooooooh, nooooooo, not tonight!!
+- GitHub: [Michael Kaiser](https://github.com/patheticpat)
