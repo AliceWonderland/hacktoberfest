@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+- Place: California
+- Bio: Software Developer
+- GitHub: [Alex Marrujo](https://github.com/marrujoalex)
