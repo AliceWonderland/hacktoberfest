@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Viktor Bakulin](https://github.com/btracer)
+- Place: Russia
+- Bio: Code addicted
+- GitHub: [Viktor Bakulin](https://github.com/btracer)
