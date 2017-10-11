@@ -1,6 +1,6 @@
-// LANGUAGE: Python
-// ENV: Python
-// AUTHOR: Arie Kurniawan
-// GITHUB: https://github.com/arkwrn
+# LANGUAGE: Python
+# ENV: Python
+# AUTHOR: Arie Kurniawan
+# GITHUB: https://github.com/arkwrn
 
 print ("Hello World!")
