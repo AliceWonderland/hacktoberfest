@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Ignas Maslinskas](https://github.com/hoffs-)
+- Place: Lithuania
+- Bio: Student
+- GitHub: [Ignas Maslinskas](https://github.com/hoffs-)
