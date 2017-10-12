@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name : [Pronomita Dey] (https://github.com/PronomitaDey)
+- Place : India
+- Bio : Front End Developer. Open Source Enthusiast. Learner.
+- GitHub : [Pronomita Dey] (https://github.com/PronomitaDey)
