@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Alex Petrovich](https://github.com/Cyrum)
+- Place: United States
+- Bio: Systems engineer expanding my skillset
+- GitHub: [Alex Petrovich](https://github.com/Cyrum)
