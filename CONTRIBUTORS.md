@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Ryan Torrance](https://github.com/torrance.jr)
+- Place: West Chester, Pa, USA
+- Bio: Full Stack Developer
+- GitHub: [Ryan Torrance](https://github.com/torrance.jr)
