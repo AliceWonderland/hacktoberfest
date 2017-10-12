@@ -1,5 +1,5 @@
 ﻿#### Name: [GITHAE KEVIN](https://github.com/Kevogich)
-- Place: Torino, Italy
+- Place: Torino, Italy 
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
 
