@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [BigWilie](https://github.com/BigWillie)
+- Place: United Kingdom
+- Bio: T-shirt collector
+- GitHub: [BigWilie](https://github.com/BigWillie)
