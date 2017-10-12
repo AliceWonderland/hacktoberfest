@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Santanaraj Esguerra](https://github.com/akiyamamio16)
+- Place: San Fernando City, Pampanga, Philippines 2000
+- Bio: I'm a 4th year Graduating I.T Student from Our Lady Of Fatima Univeristy Pampanga
+- GitHub: [Haruka Mayumi](https://github.com/akiyamamio16)
