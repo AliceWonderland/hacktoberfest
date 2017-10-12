@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [David Buckle](https://github.com/met3or)
+- Place: Manchester, UK
+- Bio: Linux System Administrator
+- GitHub: [met3or](https://github.com/met3or)
