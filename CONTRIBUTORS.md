@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+
+#### Name: [Muhammad Yasoob Ullah Khalid](http://yasoob.me)
+- Place: Lahore, Pakistan
+- Bio: Author, Blogger, OS speaker and Comp Sci student at Colgate University
+- GitHub: [Muhammad Yasoob Ullah Khalid](https://github.com/yasoob)
