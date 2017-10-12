@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Yuttasak Pannawat](https://github.com/yuttasakcom)
+- Place: Bangkok, Thailand
+- Bio: Full Stack Developer
+- GitHub: [Yuttasak Pannawat](https://github.com/yuttasakcom)
