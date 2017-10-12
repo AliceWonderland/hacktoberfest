@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Akash Goel] (https://github.com/akashgoel1197)
+-Place: India
+-Bio: Gamer
+-Github:[Akash Goel ] (https://github.com/akashgoel1197)
+
