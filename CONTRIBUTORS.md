@@ -388,6 +388,11 @@ s in Computer Science
 - Bio: Associate Degree analysis and systems development
 - GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
 
+#### Name: [Lucas Leandro](https://github.com/lucasleandro1204)
+- Place: Florianópos, SC, Brazil
+- Bio: Main Laravel & Vue Developer, working at Bulldesk
+- GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
 #### Name: [Noveen Sachdeva](https://github.com/noveens)
 - Place: Hyderabad, Telangana, India
 - Bio: 3rd Year CS undergrad at IIIT Hyderabad.
