@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Warrin Pipon](https://github.com/lgdroidz)
+- Place: Davao, Philippines
+- Bio: Web Developer
+- GitHub: [Warrin Pipon](https://github.com/lgdroidz)
