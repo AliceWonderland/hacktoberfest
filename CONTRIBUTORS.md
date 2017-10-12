@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Antonio Yee](https://github.com/antonioyee)
+- Place: Sinaloa, México
+- Bio: Software Engineer
+- GitHub: [Antonio Yee](https://github.com/antonioyee)
