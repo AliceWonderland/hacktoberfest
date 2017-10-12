@@ -1,4 +1,9 @@
-﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+﻿#### Name: [GITHAE KEVIN](https://github.com/Kevogich)
+- Place: Torino, Italy
+- Bio: Everything Data !
+- GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
+
+#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
