@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Beatriz Rezener](https://github.com/beatrizrezener)
+- Place: Brasília, DF, Brazil
+- Bio: Software Engineer
+- Github: [Beatriz Rezener](https://github.com/beatrizrezener)
