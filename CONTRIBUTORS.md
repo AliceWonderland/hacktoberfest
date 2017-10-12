@@ -1,3 +1,8 @@
+#### Name: [DEVIN ROCHE](https://github.com/devinroche)
+- Place: Portland, Oregon USA 
+- Bio: super expert pokemon master!
+- GitHub: [Devin](https://github.com/devinroche)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
