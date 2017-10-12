@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Leonardo Wajnsztok](https://github.com/leotok)
+- Place: Rio de Janeiro, Brazil
+- Bio: Computer Engineering student at PUC-Rio
+- GitHub: [Leonardo Wajnsztok](https://github.com/leotok)
