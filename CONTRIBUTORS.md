@@ -695,6 +695,11 @@ s in Computer Science
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Jason Green](https://jason.green)
+- Place: Seattle, WA
+- Bio: Student of code, eater of sustainable sushi
+- GitHub: [Jalence](https://github.com/jalence)
+
 #### Name: [Elan Ripley](https//github.com/tattarrattat)
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
