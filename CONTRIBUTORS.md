@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Kevin Chandler](https//github.com/kevinchandler)
+- Place: Somewhere, USA
+- Bio: Cat gif watcher
+- Github: [Kevin Chandler](https//github.com/kevinchandler)
