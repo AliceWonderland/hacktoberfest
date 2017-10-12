@@ -1,4 +1,4 @@
 
 
-
-print("Hello world")
+while 1 == 1: 
+	print("Hello world")
