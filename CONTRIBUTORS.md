@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Will Tan](https://github.com/twillzy)
+- Place: Sydney, Australia
+- Bio: 2/4 into getting a free Hacktoberfest T-Shirt
+- GitHub: [Antonio Jesus Pelaez](https://github.com/twillzy)
