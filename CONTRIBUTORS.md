@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Yash Krishan Verma](https://github.com/stupidly-logical)
+- Place: Indore, Madhya Pradesh, India
+- Bio: Undergrad student at Indian Institute of Technology Indore (IIT Indore). Android, Web, IoT and gaming enthusiast. A bit of a wanderer :).
+- GitHub: [Yash Krishan Verma](https://github.com/stupidly-logical)
