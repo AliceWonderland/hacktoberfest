@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Suryatej Reddy](https://github.com/suryatejreddy)
+- Place: New Delhi, India
+- Bio: CSE Student at IIITD
+- GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
