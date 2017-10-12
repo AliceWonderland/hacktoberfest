@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Chathumina Vimukthi](https://github.com/ChathuminaVimukthi )
+- Place: Bogotá, Colombia
+- Bio: Second year undergraduate(Computer Science)
+- GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
