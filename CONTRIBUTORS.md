@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Ronak Kumar](https://github.com/lifecoderonak)
+- Place: New Delhi, India
+- Bio: CSE UG Student at IIIT-Delhi | Polyglot Programmer | Loves Tinkering Tech Stuff
+- GitHub: [Ronak Kumar](https://github.com/lifecoderonak)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
