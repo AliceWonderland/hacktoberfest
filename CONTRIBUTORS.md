@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Aman Satnami](https//github.com/zzbazinga)
+- Place: Indore, Madhya Pradesh, India
+- Bio: Dreamer, achiever
+- Github: [Aman Satnami](https//github.com/zzbazinga)
