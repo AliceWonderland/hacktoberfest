@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Akshat Maheshwari](https://github.com/akshat14714)
+- Place: Hyderabad, India
+- Bio: CSE Undergrad in IIIT Hyderabad
+- Github: [akshat14714](https://github.com/akshat14714/)
