@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Bennie Mosher](https://github.com/benniemosher)
+- Place: Windsor, CO
+- Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
+- GitHub: [Bennie Mosher](https://github.com/benniemosher)
