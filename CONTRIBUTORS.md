@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Larizza Noelly Tueros Garcia](https://github.com/skayablars)
+- Place: Santiago de los Caballeros, República Dominicana
+- Bio: Software Engineer, Web Developer, Design unicorn
+- GitHub: [Larizza Tueros](https://github.com/skayablars)
+
