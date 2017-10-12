@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Roux Léon](https://github.com/Nurrl)
+- Place: Avignon, France
+- Bio: Interested in computer science and hacking.
+- GitHub: [Nurrl](https://github.com/Nurrl)
