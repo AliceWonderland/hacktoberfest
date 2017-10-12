@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Hoang Ha](https://github.com/halink0803)
+- Place: Hanoi, Vietnam
+- Bio: I love javascript! :cat:
+- GitHub: [Hoang Ha](https://github.com/halink0803)
