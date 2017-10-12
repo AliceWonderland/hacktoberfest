@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [PureHyd](https://github.com/PureHyd)
+- Place: Evanston, IL
+- Bio: EECS Student \@ NorthwesternU
+- GitHub: [PureHyd](https://github.com/PureHyd)
