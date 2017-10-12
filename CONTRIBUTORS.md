@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Worawat Chueajedton](https/https://github.com/WorawatCh)
+- Place: Thailand
+- Bio: Software Engineering Student, Nice to meet you.
+- Github: [WorawatCh](https://github.com/WorawatCh)
