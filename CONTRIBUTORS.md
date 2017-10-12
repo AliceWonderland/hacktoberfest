@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Vishal Prakash](https://github.com/vish21)
+- Place: Mumbai, India
+- Bio: Software Developer
+- GitHub: [Vishal Prakash](https://github.com/vish21)
