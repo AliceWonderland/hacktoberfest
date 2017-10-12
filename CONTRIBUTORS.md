@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+
+#### Name: [George Kunthara](https://github.com/gkunthara)
+- Place: Seattle, WA USA
+- Bio: Student at Gonzaga University
+- GitHub: [George Kunthara](https://github.com/gkunthara)
