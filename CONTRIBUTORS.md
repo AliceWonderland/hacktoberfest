@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Evan Teo](https://github.com/wlteo)
+- Place: Singapore
+- Bio: Web Developer/Marketer
+- GitHub: [Evan Teo](https://github.com/wlteo)
