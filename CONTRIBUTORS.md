@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [EMEHINOLA Idowu](https://github.com/hydeenoble)
+- Place: Osun, Nigeria
+- Bio: I love problem solving.
+- GitHub: [EMEHINOLA Idowu](https://github.com/hydeenoble)
