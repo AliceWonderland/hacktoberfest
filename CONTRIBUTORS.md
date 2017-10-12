@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Mark Carlson](https://github.com/electrek)
+- Place: Chicago, IL, USA
+- Bio: Escape room maker
+- GitHub: [Mark Carlson](https://github.com/electrek)
