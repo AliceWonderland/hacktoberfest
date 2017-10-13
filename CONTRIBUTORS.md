@@ -705,7 +705,7 @@ s in Computer Science
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
-#### Name: [Kris Weber](https//github.com/knweber)
+#### Name: [Kris Weber](https://github.com/knweber)
 - Place: Seattle, Washington, USA
 - Bio: Eternal student and full-stack dev. I owe my love of coding to _Mr. Robot_.
-- Github: [Kris Weber](https//github.com/knweber)
+- Github: [Kris Weber](https://github.com/knweber)
