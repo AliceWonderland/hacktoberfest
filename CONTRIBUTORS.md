@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Anamol Saxena](https//github.com/anamol-saxena)
+- Place: Bangalore, KA, India
+- Bio: Master's Student
+- Github: [Anamol Saxena](https//github.com/anamol-saxena)
