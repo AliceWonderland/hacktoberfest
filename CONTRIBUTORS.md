@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Deepak Raj](https://github.com/deep1234raj)
+- Place: Bangalore, India
+- Bio: Techno-Manager
+- Github: [Deepak Raj](https://github.com/deep1234raj)
