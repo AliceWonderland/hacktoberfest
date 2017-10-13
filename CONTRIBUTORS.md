@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Dustin Reese](https//github.com/basecamp-bandit)
+- Place: Hillsboro, OR, USA
+- Bio: Learning the Github
+- GitHub: [Dustin Reese](https//github.com/basecamp-bandit)
