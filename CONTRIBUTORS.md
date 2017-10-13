@@ -1,4 +1,9 @@
-﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+#### Name: [MANISH SHARMA](https://github.com/iammangod96)
+- Place: Pilani, Rajasthan, India
+- Bio: An average homo sapien
+- GitHub: [Manish Sharma](https://github.com/iammangod96/)
+
+#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
