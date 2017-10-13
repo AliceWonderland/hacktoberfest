@@ -1,4 +1,9 @@
-﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+#### Name: [LIAM REARDON](https://github.com/LiamDevJS)
+- Place: Council Bluffs, IA, USA
+- Bio: Teen, Coder, and Computer Fanatic
+- GitHub: [LiamDevJS](https://github.com/LiamDevJS)
+
+#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
