@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Sung Kim](https//github.com/dance2die)
+- Place: Flushing, New York, USA
+- Bio: Software Developer
+- Github: [Sung Kim](https//github.com/dance2die)
