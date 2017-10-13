@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [MRIDUL TUTEJA](https://github.com/mridultuteja)
+- Place: DELHI,INDIA
+- Bio: 	engineering student !!
+- GitHub: [mridul tuteja](https://github.com/mridultuteja)
