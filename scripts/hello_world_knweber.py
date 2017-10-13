@@ -3,6 +3,6 @@
 # GITHUB: https://github.com/knweber
 
 def greeting():
-    print "Hello, World!"
+    print "Hello, World! Don't forget to be awesome."
 
 greeting()
