@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Kevin Mora](https://github.com/kevinmora94)
+- Place: Alajuea, Alajuela, Costa Rica
+- Bio: Web dev and graphic designer
+- GitHub: [kevinmora94](https://github.com/kevinmora94)
