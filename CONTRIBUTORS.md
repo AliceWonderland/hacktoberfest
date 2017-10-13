@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Sifat Haque](https//github.com/sifat009)
+- Place: Dhaka, Bangladesh
+- Bio: Programmer, Web Developer
+- Github: [Sifat Haque](https//github.com/sifat009)
