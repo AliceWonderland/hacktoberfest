@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Renan Pessoa](https://github.com/renanpessoa)
+- Place: Florianópolis, Santa Catarina, Brazil
+- Bio: Monitoring Analyst
+- Github: [Renan Pessoa](https://github.com/renanpessoa)
