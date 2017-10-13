@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Marco Bakera](https//www.bakera.de)
+- Place: Bochum, Germany
+- Bio: Programmer, Teacher, Nerd
+- Github: [Elan Ripley](https//github.com/pintman)
