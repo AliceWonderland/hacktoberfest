@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Preshoth Paramalingam](https//github.com/pparamalingam)
+- Place: Mississauga, Ontario, Canada
+- Bio: Software Developer
+- Github: [Preshoth Paramalingam](https//github.com/pparamalingam)
