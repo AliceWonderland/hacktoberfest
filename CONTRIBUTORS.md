@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [André Carvalho](https://github.com/aoc85)
+- Place: Sao Paulo, SP, Brazil
+- Bio: Full Stack Web Developer
+- GitHub: [André Carvalho](https://github.com/aoc85)
