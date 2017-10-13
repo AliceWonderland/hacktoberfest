@@ -704,3 +704,10 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+
+#### Name: [Norman Santiago](https://github.com/nsantiago2719)
+- Place: Philippines
+- Bio: Web Developer
+- Github: [Norman Santiago](https://github.com/nsantiago2719)
+
