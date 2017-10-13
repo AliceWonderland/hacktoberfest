@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Alexandro Luongo](https://github.com/W00dL3cs)
+- Place: Naples, Italy
+- Bio: 
+- GitHub: [Alexandro Luongo](https://github.com/W00dL3cs)
