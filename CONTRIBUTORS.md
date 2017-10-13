@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Sid Pawa](https//github.com/SidDefinition)
+- Place: Bangkok Thailand
+- Bio: Web Developer
+- GitHub: [Sid Pawa](https//github.com/SidDefinition)
