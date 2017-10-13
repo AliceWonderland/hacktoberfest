@@ -708,4 +708,4 @@ s in Computer Science
 #### Name: [Marco Bakera](https://www.bakera.de)
 - Place: Bochum, Germany
 - Bio: Programmer, Teacher, Nerd
-- Github: [Elan Ripley](https//github.com/pintman)
+- Github: [Pintman](https://github.com/pintman)
