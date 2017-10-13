@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Marcin Andrzejewski](https://github.com/VessJS)
+- Place: Poznan, Wielkopolska, Poland
+- Bio: Programmer Newbie
+- Github: [Marcin Andrzejewski](https://github.com/VessJS)
