@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Christopher Mühl](https://github.com/padarom)
+- Place: Aschaffenburg, Germany
+- Bio: Programmer, maths student
+- GitHub: [Padarom](https://github.com/padarom)
+- Website: [padarom.io](https://padarom.io)
