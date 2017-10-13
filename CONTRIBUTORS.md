@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
+- Place: Lucknow, Uttar Pradesh, INDIA
+- Bio: Flirty Allrounder with a knack of Programming, Sports and Music
+- Github: [Neelansh Sahai](https://github.com/neelanshsahai)
