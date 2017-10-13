@@ -1,4 +1,4 @@
-#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
@@ -695,8 +695,18 @@ s in Computer Science
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Jason Green](https://jason.green)
+- Place: Seattle, WA
+- Bio: Student of code, eater of sustainable sushi
+- GitHub: [Jalence](https://github.com/jalence)
+
+#### Name: [Elan Ripley](https//github.com/tattarrattat)
+- Place: Raleigh, North Carolina, USA
+- Bio: Programmer
+- Github: [Elan Ripley](https//github.com/tattarrattat)
+
+
 #### Name: [Larizza Noelly Tueros Garcia](https://github.com/skayablars)
 - Place: Santiago de los Caballeros, República Dominicana
 - Bio: Software Engineer, Web Developer, Design unicorn
 - GitHub: [Larizza Tueros](https://github.com/skayablars)
-
