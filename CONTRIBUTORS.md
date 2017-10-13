@@ -706,4 +706,4 @@ s in Computer Science
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 #### Name: [Rodolphe Duterval](https://github.com/bu7ch)
 - Place: Paris, France
-- Bio: FullStack Developer
+- Bio: FullStack Developer, apprentice Security
