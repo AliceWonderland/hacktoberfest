@@ -704,3 +704,10 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+
+#### Name: [Amir Djema](https//github.com/nemfoz)
+- Place: Nicosia, Cyprus
+- Bio: Father, Husband, Geek
+- Github: [Amir Djema](https//github.com/nemfoz)
+
