@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Joscelyn James](https//github.com/joscelynjames)
+- Place: Denver, Colorado, USA
+- Bio: Software Developer 
+- Github: [Elan Ripley](https//github.com/joscelynjames)
