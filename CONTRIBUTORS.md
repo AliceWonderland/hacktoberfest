@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Dejan Popovic](https://github.com/pdejan)
+- Place: Doboj, Bosnia and Herzegovina
+- Bio: Developer
+- Github: [pdejan](https://github.com/pdejan)
