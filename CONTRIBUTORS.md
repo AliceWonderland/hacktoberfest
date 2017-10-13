@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Ryan Sullivan](http://ryansully.com)
+- Place: Los Angeles, CA
+- Bio: Code Alchemist
+- GitHub: [Ryan Sullivan](http://github.com/ryansully)
