@@ -1,5 +1,7 @@
 <?php
 
+echo "hello world";
+
 // run in terminal php 🚀_script.php
 
 print_text("Welcome to the rocket script\n");
