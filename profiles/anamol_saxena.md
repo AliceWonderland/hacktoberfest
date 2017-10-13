@@ -13,7 +13,6 @@ Master's Student @ IIIT, Bangalore KA
 - Programming
 - Playing Guitar
 - Trainning
-- Listening to music
 
 ### Development
 
