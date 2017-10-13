@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Kashif Rafique](https://github.com/logichub/)
+- Place: Karachi, Sindh, Pakistan
+- Bio: Web Developer, Learner, Father
+- GitHub: [Kashif Rafique](https://github.com/logichub/)
