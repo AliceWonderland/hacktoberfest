@@ -1,4 +1,9 @@
-﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+﻿#### Name: [Healy Dwyer](http://healydwyer.com)
+- Place: Jacksonville, FL
+- Bio: UX Developer & Transportation Lover!! 
+- GitHub: [Healy Dwyer](https://github.com/healydwya)
+
+#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
