@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Lee Ka Shun Katherine](https://github.com/ksklee)
+- Place: Hong Kong, China
+- Bio: Undergraduate student from HKU, majoring in Computer Engineering
+- GitHub: [Lee Ka Shun Katherine](https://github.com/ksklee)
