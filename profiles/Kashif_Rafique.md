@@ -17,6 +17,7 @@ University of Karachi
 ### Development
 
 - WordPress
+- HTML/CSS/JS
 
 ### Profile Link
 
