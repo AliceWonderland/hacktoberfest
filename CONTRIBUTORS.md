@@ -700,7 +700,12 @@ s in Computer Science
 - Bio: Student of code, eater of sustainable sushi
 - GitHub: [Jalence](https://github.com/jalence)
 
-#### Name: [Elan Ripley](https//github.com/tattarrattat)
+#### Name: [Elan Ripley](https://github.com/tattarrattat)
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
-- Github: [Elan Ripley](https//github.com/tattarrattat)
+- Github: [Elan Ripley](https://github.com/tattarrattat)
+
+#### Name: [Marco Bakera](https://www.bakera.de)
+- Place: Bochum, Germany
+- Bio: Programmer, Teacher, Nerd
+- Github: [Pintman](https://github.com/pintman)
