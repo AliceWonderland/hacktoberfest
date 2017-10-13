@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Mario Soprano](https//github.com/nemwiper)
+- Place: Velletri, Italy
+- Bio: Dev for passion
+- Github: [Mario Soprano](https//github.com/nemwiper)
