@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Harshendra Shah](https://github.com/hshah11)
+- Place: Bhavnagar, Gujarat, India
+- Bio: CSE Student at IIIT Vadodara
+- Github: [hshah11](https//github.com/hshah11)
