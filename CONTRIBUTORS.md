@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Matteo Biagetti](https//github.com/mbiagetti)
+- Place: Rome, Italy
+- Bio: Backend Developer
+- Github: [Matteo](https//github.com/mbiagetti)
