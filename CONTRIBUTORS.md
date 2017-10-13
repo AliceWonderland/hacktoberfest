@@ -22,6 +22,10 @@
 #### Name: [Taf Meister](https://github.com/tashrafy)
 - Place: NYC
 - Bio: Developer =]
+#### Name: [Rishabh Maurya](https://github.com/rishabh115)
+- Place: Kanpur, U.P, India
+- Bio: An avid Android enthusiast. 
+- GitHub: [rishabh115](https://github.com/rishabh115)
 
 #### Name: [RAFAEL MENEZES](https://github.com/RafaelSa94)
 - Place: Boa Vista, Roraima, Brazil
