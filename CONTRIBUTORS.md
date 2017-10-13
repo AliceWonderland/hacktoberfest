@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Siddharth Pawa](https//github.com/CodeBySid)
+- Place: Bangkok, Thailand
+- Bio: Ruby On Rails Developer
+- Github: [Siddharth Pawa]((https//github.com/CodeBySid)
