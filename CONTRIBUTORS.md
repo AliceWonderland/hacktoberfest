@@ -705,7 +705,7 @@ s in Computer Science
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
-#### Name: [Kao Jitprasong](https://github.com/enneakr)
+#### Name: [Worrachote Jitprasong](https://github.com/enneakr)
 - Place: Bangkok, Thailand
 - Bio: Rabbit
 - Github: [Ennea](https://github.com/enneakr)
