@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Michelle Ambrisco](https://github.com/MichelleGolle)
+- Place: Denver, CO, USA
+- Bio: Full stack dev
+- GitHub: [Michelle Ambrisco](https://github.com/MichelleGolle)
