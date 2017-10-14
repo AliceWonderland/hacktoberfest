@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Raptor Dragneel](https://github.com/RaptorDragneel)
+- Place: São Paulo, Brazil
+- Bio: IT Management student
+- GitHub: [Raptor Dragneel](https://github.com/RaptorDragneel)
