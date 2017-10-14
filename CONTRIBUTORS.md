@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Dmitrii Mukhin](https://github.com/demonsked)
+- Place: Saint-petersburg, Russia
+- Bio: Learning python.
+- Github: [Dmitrii Mukhin](https://github.com/demonsked)
