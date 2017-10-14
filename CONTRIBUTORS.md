@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Reginald Daniel](https://github.com/reggied924)
+- Place: Atlanta, Georgia, USA
+- Bio: Software Engineer, AI enthusiast, lover of all things Japanese
+- Github: [Reginald Daniel](https://github.com/reggied924)
