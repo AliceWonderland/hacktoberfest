@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Sofie Lindgren](https://github.com/sofiaml)
+- Place: Norway
+- Bio: Student
+- Github: [Sofie Lindgren](https://github.com/sofiaml)
