@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Rafał Wesołowski](https://github.com/wesolowski)
+- Place: Cologne, Germany
+- Bio: E-Commerce Software Engineer
+- Github: [Rafał Wesołowski](https://github.com/wesolowski)
