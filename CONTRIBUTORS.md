@@ -700,7 +700,12 @@ s in Computer Science
 - Bio: Student of code, eater of sustainable sushi
 - GitHub: [Jalence](https://github.com/jalence)
 
-#### Name: [Elan Ripley](https//github.com/tattarrattat)
+#### Name: [Elan Ripley](https://github.com/tattarrattat)
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
-- Github: [Elan Ripley](https//github.com/tattarrattat)
+- Github: [Elan Ripley](https://github.com/tattarrattat)
+
+#### Name: [Collin Clark](https://github.com/crclark96)
+- Place: Somewhere on earth
+- Bio: Student
+- [Github](https://github.com/crclark96)
