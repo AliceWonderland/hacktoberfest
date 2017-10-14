@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Colby Banbury](https://github.com/colbybanbury)
+- Place: Newark, De, USA
+- Bio: Computer engineering student at University of Delaware
+- GitHub: [Colby Banbury](https://github.com/colbybanbury)
