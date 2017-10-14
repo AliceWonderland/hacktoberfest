@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Min Hoo Lee](https://github.com/minhoolee)
+- Place: Cupertino, CA, USA
+- Bio: Student interested in robotics and AI
+- Github: [Min Hoo Lee](https://github.com/minhoolee)
