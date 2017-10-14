@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Coregame](https://github.com/coregameHD/)
+- Place: Bangkok, Thailand
+- Bio: It's the Only n00b Thing to Do
+- Github: [Coregame](https://github.com/coregameHD/)
