@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Paul McSpadden](https://github.com/fisch246)
+- Place: USA
+- Bio: Student
+- GitHub: [Paul McSpadden](https://github.com/fisch246)
