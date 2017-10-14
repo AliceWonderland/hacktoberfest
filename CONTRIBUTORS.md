@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Gabriele De Rosa](https://derogab.com)
+- Place: Milan, Italy
+- Bio: Dev =)
+- Github: [derogab](https://github.com/derogab)
