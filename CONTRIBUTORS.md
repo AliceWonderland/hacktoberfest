@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Philip Li](https//github.com/philipli1)
+- Place: Kamloops, British Columiba, CAN
+- Bio: Student at Thompson Rivers University
+- Github: [Philip Li](https//github.com/philipli1)
