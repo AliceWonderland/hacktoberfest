@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [James Hobo](https://github.com/thignus)
+- Place: Kansas City, Kansas, USA
+- Bio: Software Engineer
+- Guthub: [James Hobo](https://github.com/thignus)
