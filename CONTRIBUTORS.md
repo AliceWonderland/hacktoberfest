@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [SHIREEN GARCIA](https://github.com/AgentShir)
+- Place: Las Vegas, Nevada, USA
+- Bio: The Iron Yard Las Vegas, alumni
+- GitHub: [Shireen Garcia](https://github.com/AgentShir)
