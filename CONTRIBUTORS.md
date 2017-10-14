@@ -703,4 +703,9 @@ s in Computer Science
 #### Name: [Elan Ripley](https//github.com/tattarrattat)
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
-- Github: [Elan Ripley](https//github.com/tattarrattat)
+- Github: [Elan Ripley](https//com.github/tattarrattat)
+
+#### Name: [Phoebe Clarke](https://github.com/phoebeclarke)
+- Place: London, United Kingdom
+- Bio: Software Engineer Extraordinaire
+- GitHub: [Phoebe Clarke](https://github.com/phoebeclarke)
