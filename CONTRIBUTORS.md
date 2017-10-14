@@ -33,6 +33,11 @@
 - Bio: Professional Geek
 - GitHub: [Patrick S](https://github.com/patsteph)
 
+#### Name: [ROHIT JAKHMOLA](https://github.com/Rohit599)
+- Place: INDIA
+- Bio: A CS Technical Student
+- GitHub: [Rohit Jakhmola](https://github.com/Rohit599)
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: PA, USA
 - Bio: Student
