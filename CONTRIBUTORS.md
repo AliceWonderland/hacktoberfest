@@ -706,6 +706,6 @@ s in Computer Science
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
 #### Name: [Adam Mahood](https://github.com/TortleOG)
-- Place: Ontario, Canada
+- Place: Hamilton, Ontario, Canada
 - Bio: Student
 - Github: [Adam Mahood](https://github.com/TortleOG)
