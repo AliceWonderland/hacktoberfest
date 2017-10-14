@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Ishita Chourasia](https://github.com/ishitach)
+- Place: Bangalore, India
+- Bio: Programmer
+- Github: [Ishita Chourasia](https://github.com/ishitach)
