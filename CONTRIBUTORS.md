@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Adam Mahood](https://github.com/TortleOG)
+- Place: Ontario, Canada
+- Bio: Student
+- Github: [Adam Mahood](https://github.com/TortleOG)
