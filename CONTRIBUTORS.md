@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Allan David](http://allmonty.github.io/)
+- Place: Rio de Janeiro, RJ, Brasil
+- Bio: Developer and Agile enthusiast
+- Github: [Allan David](https://github.com/allmonty)
