@@ -704,3 +704,7 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+#### Name: [Lundin Matthews](https://github.com/hkd987)
+- Place: Tomball, Texas, USA
+- Bio: Just a guy trying to learn
+- GitHub: [hkd987](https://github.com/hkd987)
