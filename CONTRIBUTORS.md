@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Moji Tavoni](https://github.com/mojtabatmj)
+- Place: Milan, La, Italy
+- Bio: Student of discovering
+- GitHub: [Moji Tavoni](https://github.com/mojtabatmj)
