@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+### Name: [Luigi Rojas](https://github.com/LuigiR0jas)
+-Place: Maracaibo, Zulia, Venezuela
+-Bio: Computer Engineering student, Developer in Blackstorm Devs. Coffee adict.
+-Github: [LuigiR0jas](https://github.com/LuigiR0jas)
