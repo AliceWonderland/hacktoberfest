@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Patrick Martel](https://github.com/karlyn33)
+- Place: Québec, Québec, Canada
+- Bio: Web Programmer
+- Github: [Karlyn33](https://github.com/karlyn33)
