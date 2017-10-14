@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Ahmet Sina Ustem](https://github.com/ahmetsina)
+- Place: Istanbul, Turkey
+- Bio: Software Developer
+- GitHub: [Ahmet Sina Ustem](https://github.com/ahmetsina)
