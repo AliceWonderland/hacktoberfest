@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Moritz Jung](https://github.com/fetmo)
+- Place: Duesseldorf, Germany
+- Bio: E-Commerce Developer from Germany
+- GitHub: [Moritz Jung](https://github.com/fetmo)
+
