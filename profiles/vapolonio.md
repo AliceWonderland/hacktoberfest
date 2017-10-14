@@ -21,5 +21,5 @@ Student of Information System.
 
 ### Profile Link
 
-[GitHub](https://github.com/vapolonio)
-[Linkedin](https://www.linkedin.com/in/victorapolonio/)
+- [GitHub](https://github.com/vapolonio)
+- [Linkedin](https://www.linkedin.com/in/victorapolonio/)
