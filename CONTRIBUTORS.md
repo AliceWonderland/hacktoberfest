@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Victor Apolonio](https://github.com/vapolonio)
+- Place: Cotia, São Paulo, Brazil
+- Bio: Student, Full-Stack Developer and enthusiastic with many things.
+- Github: [Victor Apolonio](https://github.com/vapolonio)
