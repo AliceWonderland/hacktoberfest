@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Emina Zolota](https://github.com/eminazolota)
+- Place: Raleigh, North Carolina, USA
+- Bio: Programmer
+- Github: [Emina Zolota](https://github.com/eminazolota)
+
