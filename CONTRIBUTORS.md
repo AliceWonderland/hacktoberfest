@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Steven Petty](https://github.com/stevenp322)
+- Place: Dallas, Texas, USA
+- Bio: Business Analyst
+- Github: [Steven Petty](https://github.com/stevenp322)
