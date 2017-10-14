@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Tobias Theel](https://github.com/Nerzal)
+- Place: Kassel, Hessen, Germany
+- Bio: Programmer
+- Github: [Tobias Theel](https://github.com/Nerzal)
