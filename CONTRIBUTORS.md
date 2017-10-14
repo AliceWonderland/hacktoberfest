@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Phuwarin Janaporn](https://github.com/fuslonflare)
+- Place: Bangkok, Thailand
+- Bio: Graduate. Software Developer. Google Developer.
+- GitHub: [Phuwarin Janaporn](https://github.com/fuslonflare)
