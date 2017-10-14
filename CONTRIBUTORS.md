@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [YOUR NAME](GitHub Link)
+- Place: Navi Mumbai, India
+- Bio: Full Stack Web Developer
+- GitHub: [Raaj Nadar](https://github.com/raajnadar)
