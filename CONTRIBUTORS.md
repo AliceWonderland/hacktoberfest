@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Juraj Kulich](https://github.com/yuro8)
+- Place: Slovakia
+- Bio: Student
+- GitHub: [yuro8](https://github.com/yuro8)
