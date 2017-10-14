@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Havvy](https//github.com/test-user-havvy)
+- Place: Tupperware, USA
+- Bio: Havvy
+- Github: [Havvy](https//github.com/test-user-havvy)
