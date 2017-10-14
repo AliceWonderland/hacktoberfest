@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Soumitra Agarwal](http://www.github.com/SoumitraAgarwal)
+- Place: Guwahati, Assam, India
+- Bio: Aspiring data scientist
+- Github: [Soumitra Agarwal](http://www.github.com/SoumitraAgarwal)
+- Kaggle: [Soumitra Agarwal](https://www.kaggle.com/artimous)
