@@ -707,5 +707,5 @@ s in Computer Science
 
 #### Name: [saurabh kathar](https//github.com/saurabh19997)
 - Place: Aurangabad,Maharashtra,India
-- Bio: student/Android developer
+- Bio: student/Android developer/frontend developer
 - Github: [saurabh kathar](https//github.com/saurabh19997)
