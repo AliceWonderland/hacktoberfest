@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Suleka Helmini](https://github.com/suleka96)
+- Place: Kohuwala, Colombo, Sri Lanka
+- Bio: Programmer
+- Github: [Suleka Helmini](https://github.com/suleka96)
