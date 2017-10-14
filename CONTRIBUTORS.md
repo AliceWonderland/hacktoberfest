@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Chelcie Britt](https://github.com/chelciebritt)
+- Place: Denver, Colorado
+- Bio: Full Stack Developer + Designer
+- GitHub: [Chelcie Britt](https://github.com/chelciebritt)
