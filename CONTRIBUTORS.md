@@ -704,3 +704,10 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+
+
+#### Name: [Ahmet Sina Ustem](https://github.com/ahmetsina)
+- Place: Istanbul, Turkey
+- Bio: Software Developer
+- GitHub: [Ahmet Sina Ustem](https://github.com/ahmetsina)
