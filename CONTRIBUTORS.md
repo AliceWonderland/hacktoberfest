@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Daniel Weber](https://github.com/dafenix)
+- Place: Kassel, Hessen, Germany
+- Bio: Programmer
+- Github: [Daniel Weber](https://github.com/dafenix)
