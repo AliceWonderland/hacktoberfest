@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Supun Abeysinghe](https://github.com/smb564)
+- Place: Kandy, Sri Lanka
+- Bio: Loves algorithms, NLP researcher and loves coding.
+- Github: [Supun Abeysinghe](https://github.com/smb564)
