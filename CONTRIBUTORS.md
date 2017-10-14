@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Kasper Aaquist Johansen](https//github.com/kaaquist)
+- Place: Copenhagen, Denmark
+- Bio: Wizard / Developer 
+- Github: [Kasper Aaquist Johansen](https//github.com/kaaquist)
