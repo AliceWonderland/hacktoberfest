@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Winand Appels](https://github.com/winnie334)
+- Place: Leuven, Belgium
+- Bio: student starting in IT this year, trying to learn git :)
+- GitHub: [Winand Appels](https://github.com/winnie334)
+
