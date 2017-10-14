@@ -53,4 +53,7 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-
+#### Name: [Lexie Darling](https://github.com/lexiedarlingdoll)
+- Place: Albany, NY, USA
+- Bio: I am a gamer/computer/sci-fi/fantasy/comic nerd with ADHD currently attending my first year of college in the Computer Information Systems degree program. I have two daughters and I am engaged to an amazing man that works as a software engineer for multiple gaming companies. 
+- GitHub: [Lexie Darling](https://github.com/lexiedarlingdoll)
