@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Erwin Li](https//github.com/erwinli)
+- Place: Kamloops, BC, Canada
+- Bio: Web Developer
+- Github: [Erwin Li](https//github.com/erwinli)
