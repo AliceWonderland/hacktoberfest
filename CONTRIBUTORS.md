@@ -704,3 +704,13 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Elan Ripley](https//github.com/tattarrattat)
+- Place: Raleigh, North Carolina, USA
+- Bio: Programmer
+- Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Raneesh Gomez](https//github.com/codeSmart2307)
+- Place: Mutuwal, Colombo, Sri Lanka
+- Bio: Undergraduate following the BEng Software Engineering Degree at the University of Westminster
+- Github: [Raneesh Gomez](https//github.com/codeSmart2307)
