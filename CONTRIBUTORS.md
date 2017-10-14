@@ -575,6 +575,11 @@ s in Computer Science
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Jorge Londoño](https://github.com/jmlon)
+- Place: Medellín, Colombia
+- Bio: Professor at UPB
+- GitHub: [jmlon](https://github.com/jmlon)
+
 #### Name: [Mayank Saxena](https://github.com/mayank26saxena)
 - Place: New Delhi, India
 - Bio: Student
