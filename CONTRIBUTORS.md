@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Yen Hoang Le](https//github.com/LeHoangYen)
+- Place: California, USA
+- Bio: Studying C++ in University. Pretty new to everything.
+- GitHub: [Yen Hoang Le](https//github.com/LeHoangYen)
