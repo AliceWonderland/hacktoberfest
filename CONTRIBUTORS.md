@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Venkata Vineeth Gutta](https//github.com/vgutta)
+- Place: Newark, Delaware, USA
+- Bio: Programmer
+- Github: [Vineeth Gutta](https//github.com/vgutta)
