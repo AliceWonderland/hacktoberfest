@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Wiruj Suwanpramote](https//github.com/XtheWiz)
+- Place: Bangkok, Thailand
+- Bio: Developer
+- Github: [Wiruj Suwanpramote](https//github.com/XtheWiz)
