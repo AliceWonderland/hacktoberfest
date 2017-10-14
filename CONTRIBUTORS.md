@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Shaun O'Connor](https://github.com/shaunoc09)
+- Place: Galway, Ireland
+- Bio: Full Stack Developer
+- Github: [Shaun O'Connor](https//github.com/shaunoc09)
