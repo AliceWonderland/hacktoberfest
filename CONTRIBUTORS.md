@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [fromMaybe](https//github.com/fromMaybe)
+- Place: WORLD
+- Bio: Programmer
+- Github: [fromMaybe](https//github.com/fromMaybe)
