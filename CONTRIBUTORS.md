@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Wildcardjoker](https//github.com/wildcardjoker)
+- Place: Mandurah, WA, Australia
+- Bio: System administrator and in-house application developer.
+- Github: [Wildcardjoker](https//github.com/wildcardjoker)
