@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Rob Dominguez](https://github.com/robertjdominguez)
+- Place: Birmingham, Alabama, USA
+- Bio: Director of Education Technology
+- GitHub: [Rob Dominguez](https://github.com/robertjdominguez)
