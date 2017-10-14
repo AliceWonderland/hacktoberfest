@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Nate Denys](https//github.com/ndenys650)
+- Place: Belmont, California, USA
+- Bio: Front End Web Developer
+- Github: [Nate Denys](https//github.com/ndenys650)
