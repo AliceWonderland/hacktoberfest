@@ -1,4 +1,9 @@
-﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+#### Name: [ROBERT DEWITT](https://github.com/rtd62)
+- Place: Davenport, FL, USA
+- Bio: Technologies Programmer/Developer @ [Gayle Technologies](http://www.gayletechnologies.com)
+- Website: [Portfolio](https://www.rtd62.com)
+
+#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
