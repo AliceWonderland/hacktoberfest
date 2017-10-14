@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Rei H](https://github.com/reyahH)
+- Place: Metro Manila, Philippines
+- Bio: Web Developer
+- Github: [Rei H](https://github.com/reyahH)
