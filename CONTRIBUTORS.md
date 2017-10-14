@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Ajit Jain](https://github.com/ajit-999)
+- Place: Gandhinagar, Gujrat , India
+- Bio: I love working with Android Applications and Algortihm Desing and Work as a Android Developer in HealthGraph. Also, Love Rust!.
+- Github: [Ajit Jain](https://github.com/ajit-999)
