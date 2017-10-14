@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [PixeL](https://github.com/PixeLInc)
+- Place: Wisconsin, USA
+- Bio: Programmer, Student
+- Github: [PixeLInc](https://github.com/PixeLInc)
