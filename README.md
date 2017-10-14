@@ -91,8 +91,8 @@ Your School
 ### 3. Create a `Hello, World!` Script
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
-```Javascript
-// LANGUAGE: Javascript
+```JavaScript
+// LANGUAGE: JavaScript
 // ENV: Node.js
 // AUTHOR: Alice Chuang
 // GITHUB: https://github.com/AliceWonderland
@@ -109,7 +109,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 Here is a great tutorial for creating your first Pull Request by [Roshan Jossey](https://github.com/Roshanjossey)
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
-Managing your Forked Repo [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+Managing your Forked Repository [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
 Syncing a Fork [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 
