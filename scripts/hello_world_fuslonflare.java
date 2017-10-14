@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-public class Welcome {
+public class Hello_world_fuslonflare {
     public static void main(String[] args) {
         log("Hello World!")
     }
