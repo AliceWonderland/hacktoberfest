@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Fatima Mubeen](https://github.com/FatimaMubeen)
+- Place: Lahore, Punjab, Pakistan
+- Bio: Computer Science Student
+- GitHub: [Fatima Mubeen](https://github.com/FatimaMubeen)
