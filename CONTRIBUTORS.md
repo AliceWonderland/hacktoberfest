@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Roberto Martinez](https://github.com/yamishi13)
+- Place: Zapopan, Jalisco, MX
+- Bio: software geek
+- GitHub: [yamishi13](https://github.com/yamishi13)
