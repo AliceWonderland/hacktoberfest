@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Garrett](https://github.com/nova4005)
+- Place: Atlanta, Georgia, USA
+- Bio: Full Stack Developer
+- GitHub: [Garrett](https://github.com/nova4005)
