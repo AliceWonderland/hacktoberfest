@@ -9,6 +9,11 @@
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+### Name: [Anmol Mishra](https://github.com/octamois)
+-Place: India
+-Bio: Web Developer and FOSS Enthusiast
+-Github: [octamois](https://github.com/octamois)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
