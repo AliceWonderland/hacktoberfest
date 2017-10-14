@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Debajyoti Halder] (https://github.com/ron-debajyoti)
+- Place: Kharagpur, West Bengal, India
+- Bio: Computer Science Student at IIT Kharagpur, India
+- Github: [Debajyoti Halder] (https://github.com/ron-debajyoti)
