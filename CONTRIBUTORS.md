@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Paul Nalley](https//github.com/nalleypa)
+- Place: Seneca, South Carolina, USA
+- Bio: Programmer
+- Github: [Paul Nalley](https//github.com/nalleypa)
