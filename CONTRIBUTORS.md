@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Sumit Madhwani](https//github.com/malverick)
+- Place: Jaipur, India
+- Bio: API Developer
+- Github: [Sumit Madhwani](https//github.com/malverick)
