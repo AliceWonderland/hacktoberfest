@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Angel Gonzalez](https//github.com/kant003)
+- Place: España
+- Bio: Programmer
+- Github: [kant003](https//github.com/kant003)
