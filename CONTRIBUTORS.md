@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Gregory MArchese](https://github.com/gregorymarchese)
+- Place: California, USA
+- Bio: Engineer
+- GitHub: [here](https://github.com/gregorymarchese)
