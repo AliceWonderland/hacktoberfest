@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Boris Sarkisov](https://github.com/nupogodi1989)
+- Place: Denver, CO
+- Bio: Working remotely as a full stack dev
+- Github: [Boris Sarkisov](https://github.com/nupogodi1989)
