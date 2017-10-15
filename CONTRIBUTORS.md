@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Daniel Tudares](https://github.com/dan1eltudares)
+- Place: Ottawa, Ontario, Canada
+- Bio: Network specialist, code n00b
+- Github: [Daniel Tudares](https://github.com/dan1eltudares)
