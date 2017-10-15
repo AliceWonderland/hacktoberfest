@@ -1,0 +1,12 @@
+// Gradle Hello World example
+// Author: Ruben Anders
+// Github: https://github.com/RAnders00
+
+// run this file like this:
+// gradle -b hello-world.gradle hello
+
+task hello {
+    doLast {
+        println 'Hello World!'
+    }
+}
