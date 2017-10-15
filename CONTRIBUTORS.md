@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Michael Pollind](https://github.com/pollend)
+- Place: Brea, California, USA
+- Bio: Programmer
+- Github: [Michael Pollind](https://github.com/pollend)
