@@ -1,0 +1,5 @@
+// LANGUAGE: Falcon 0.9.6.8 (Chimera)
+// AUTHOR: Simon W.
+// GITHUB: https://github.com/b30bd351371c686298d32281b337e8e9
+
+printl('Hello World!')

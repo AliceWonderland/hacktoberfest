@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Simon W.](https//github.com/b30bd351371c686298d32281b337e8e9)
+- Place: Lubbock, Texas, USA
+- Bio: Just a memer
+- Github: [Simon W.](https//github.com/b30bd351371c686298d32281b337e8e9)
