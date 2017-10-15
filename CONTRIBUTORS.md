@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Tom Anderson](https://github.com/tom-ando)
+- Place: Melbourne, Victoria, Australia
+- Bio: Aspiring isolated sheep herder
+- GitHub: [Tom Anderson](https://github.com/tom-ando)
