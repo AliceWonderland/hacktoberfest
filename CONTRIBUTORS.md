@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Shawn Leberknight](https//github.com/shawnlknight)
+- Place: Charleston, SC, USA
+- Bio: Software Engineer, Bourbon drinker
+- Github: [Shawn Leberknight](https//github.com/shawnlknight)
