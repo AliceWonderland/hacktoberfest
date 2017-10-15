@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Renae Meines](http://renaemeines.com)
+- Place: Des Moines, IA, USA
+- Bio: Front-end Developer & Designer for Shift Interactive
+- Github: [Renae Meines](https://github.com/renaem)
