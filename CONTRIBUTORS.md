@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Udit Mittal](https://github.com/udit-001)
+- Place: New Delhi, India
+- Bio: Programmer
+- Github: [Udit Mittal](https://github.com/udit-001)
