@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Ed Boal](https//github.com/edwork)
+- Place: Sunnyvale, California, USA
+- Bio: SysAdmin
+- Github: [edwork](https//github.com/edwork)
