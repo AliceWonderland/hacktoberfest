@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Miro Koczka](https://github.com/mkoczka)
+- Place: Bratislava, Slovakia
+- Bio: Frontend Developer
+- Github: [Miro Koczka](https://github.com/mkoczka)
