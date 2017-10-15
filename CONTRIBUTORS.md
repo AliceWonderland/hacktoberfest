@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Wathin Sonnukij](https//github.com/iamwee)
+- Place: Bangkok, Thailand
+- Bio: Software Engineer
+- Github: [Wathin Sonnukij](https//github.com/iamwee)
