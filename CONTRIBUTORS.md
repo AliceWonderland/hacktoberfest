@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Anam Raihan](https//github.com/iamar7)
+- Place: Hyderabad, Telangana, India
+- Bio: Researcher | Programmer | Gamer
+- Github: [iamar7](https//github.com/iamar7)
