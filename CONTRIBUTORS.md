@@ -704,3 +704,10 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Neil Hickey](https//github.com/neil-hickey)
+- Place: Dublin, Ireland
+- Bio: Software Engineer, Avid overwatch player
+- Github: [Neil Hickey](https//github.com/neil-hickey)
+
+
