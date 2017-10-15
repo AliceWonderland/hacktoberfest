@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Märt Mäemees](https://github.com/martmaemees)
+- Place: Estonia
+- Bio: IT Student and hobbyist game designer
+- Github: [Märt Mäemees](https://github.com/martmaemees)
