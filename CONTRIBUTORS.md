@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Nathaniel Finger](https//github.com/nfinger)
+- Place: Manchester, New Hampshire, USA
+- Bio: Programmer, Mathematician
+- Github: [Nathaniel Finger](https//github.com/nfinger)
