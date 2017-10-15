@@ -9,6 +9,9 @@
  * and printing them on the console as a big HELLO to the open source world (:
  *
  * Hacktoberfest OpenSource Starter Project at https://github.com/AliceWonderland/hacktoberfest
+ *
+ * Java Classes used: String, Scanner, File, FileNotFoundException.
+ * Try it on https://repl.it
 */
 
 import java.util.Scanner;
