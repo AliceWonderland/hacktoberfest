@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [J A Gaeta Mendes](https://github.com/ja-gaeta)
+- Place: Taubaté, SP, Brazil
+- Bio: Web Developer, Writer, Economist
+- GitHub: [J A Gaeta Mendes](https://github.com/ja-gaeta)
