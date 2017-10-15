@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Kevin Riesen](https://github.com/8BitStone)
+- Place: Thun, Bern, Switzerland
+- Bio: Programmer, Gamer, Nerd
+- GitHub: [Kevin Riesen](https://github.com/8BitStone)
