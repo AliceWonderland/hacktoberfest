@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Ecem Kuşculu](https://github.com/ecemkusculu)
+- Place: İstanbul, Turkey
+- Bio: Student
+- GitHub: [Ecem Kuşculu](https://github.com/ecemkusculu)
