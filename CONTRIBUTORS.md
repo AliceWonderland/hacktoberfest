@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Anurag Tiwari](https//github.com/t2013anurag)
+- Place: Bangalore, India
+- Bio: Programmer
+- Github: [Anurag Tiwari](https//github.com/t2013anurag)
+
