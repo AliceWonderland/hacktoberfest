@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Lucas Ferreira](https://github.com/ferrelucas)
+- Place: São Paulo, Brazil
+- Bio: Developer, traveler, food and language enthusiast (:
+- GitHub: [Lucas Ferreira](https://github.com/ferrelucas)
