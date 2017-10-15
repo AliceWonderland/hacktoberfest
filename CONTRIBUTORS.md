@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+
+#### Name: [Rannie Ollit](https//github.com/einnar82)
+- Place: Calizon, Calumpit, Bulacan, Philippines
+- Bio: Student
+- Github: [Rannie Ollit](https//github.com/einnar82)
