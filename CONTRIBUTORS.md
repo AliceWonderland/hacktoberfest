@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Sarthak Thakur](https://github.com/sarthakthakur24)
+- Place: India
+- Bio: Noob and Learner !!
+- GitHub: [Sarthak Thakur](https://github.com/sarthakthakur24)
