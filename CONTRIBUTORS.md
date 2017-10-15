@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Sunil Jain](https://github.com/sunilsj99)
+-Place: Jaipur, Rajasthan, India
+-Bio: CSE undergrad and a python lover
+-Github: [Sunil Jain](https://github.com/sunilsj99)
