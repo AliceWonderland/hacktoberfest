@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Shahzad Mirza](https//github.com/shhzdmrz)
+- Place: Multan, Punjab, Pakistan
+- Bio: Software Engineer?
+- GitHub: [Shahzad Mirza](https//github.com/shhzdmrz)
