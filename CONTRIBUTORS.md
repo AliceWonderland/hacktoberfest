@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Rahil Hastu](https://github.com/rahilhastu)
+- Place: Bengaluru, Karnataka, IN
+- Bio: pythonist
+- GitHub: [Alice Chuang](https://github.com/rahilhastu)
