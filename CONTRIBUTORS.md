@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Mio Diaz](https://github.com/miablo)
+- Place: Sunnyvale, California, USA
+- Bio: Engineer
+- GitHub: [Mio Diaz](https://github.com/miablo)
