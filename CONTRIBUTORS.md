@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Shivam](https//github.com/code-note)
+- Place: India
+- Bio: Programmer
+- Github: [Shivam](https//github.com/code-note)
