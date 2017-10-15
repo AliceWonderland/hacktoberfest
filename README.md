@@ -38,7 +38,7 @@ git checkout -b branch-name
 * Make your changes (Choose from any task below)
 * Commit and Push
 ```markdown
-git add .
+git add -A
 git commit -m 'commit message'
 git push origin branch-name
 ```
