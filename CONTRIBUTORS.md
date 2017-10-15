@@ -704,3 +704,9 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [0x00secJinx](https://github.com/0x00secJinx)
+- Place: United States of America
+- Bio: Young student of code
+- Github: [0x00secJinx](https://githhub.com/0x00secJinx)
+
