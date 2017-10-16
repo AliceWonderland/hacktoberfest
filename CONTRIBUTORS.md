@@ -777,3 +777,9 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [HO XUAN VINH](https://github.com/hovinh)
+- Place: Kent Ridge, Singapore
+- Bio: Student
+- GitHub: [Ho Xuan Vinh](https://github.com/hovinh)
+- Website: [Blog](https://hoxuanvinh.wordpress.com/)
