@@ -680,6 +680,11 @@ s in Computer Science
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
 
+#### Name: [Pratyum Jagannath](https://github.com/Pratyum)
+- Place: Singapore
+- Bio: I tell tales! 
+- GitHub: [Pratyum](https://github.com/Pratyum)
+
 #### Name: [Jakub Bačo](https://github.com/vysocina)
 - Place: Slovakia
 - Bio: Student / Designer
@@ -749,4 +754,3 @@ s in Computer Science
 - Place: Seattle, WA, USA, Earth!
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
-
