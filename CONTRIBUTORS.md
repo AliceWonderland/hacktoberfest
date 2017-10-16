@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Jeroen](https://github.com/jpabeem)
+- Place: Amersfoort, Utrecht, The Netherlands
+- Bio: Computer Science student, love building web apps.
+- GitHub: [jpabeem](https://github.com/jpabeem)
