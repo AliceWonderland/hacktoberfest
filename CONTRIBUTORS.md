@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Darren Lew](https://github.com/DarrenZLew)
+- Place: Madison, Wisconsin
+- Bio: Learning web development
+- Github: [Darren Lew](https://github.com/DarrenZLew)
