@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [coastalchief](https://github.com/coastalchief)
+- Place: Germany
+- Bio: dev
+- GitHub: [coastalchief](https://github.com/coastalchief)
+
 #### Name: [Furkan Arabaci](https://github.com/illegaldisease)
 - Place: Turkey
 - Bio: Computer Science student
