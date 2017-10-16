@@ -530,6 +530,7 @@ s in Computer Science
 #### Name: [Matthias Kraus](https://github.com/brotkiste)
 - Place: Munich, Germany
 - Bio: Automotive Computer Science
+- GitHub: [brotkiste](https://github.com/brotkiste)
 
 #### Name: [Harshil Agrawal](https://github.com/harshil1712)
 -Place: Vadodara, India
