@@ -804,4 +804,4 @@
 - Place: Columbia, SC
 - Bio: I'm a web developer, gamer, and general problem solver (occasional problem maker)
 - Github: [Jonathan Fitzgibbon](https://github.com/true14)
-- Website: [Portfolio](https://www.jonnyfitzgibbon.com)
+- Website: [Portfolio](http://jonnyfitzgibbon.com)
