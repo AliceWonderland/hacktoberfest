@@ -767,8 +767,14 @@
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
 
+#### Name: [Ng Wei Shyang](https://github.com/gaara4896)
+- Place: Balakong, Selangor, Malaysia
+- Bio: Trying to make my home smart! 
+- GitHub: [Ng Wei Shyang](https://github.com/gaara4896)
+
 #### Name: [RYAN R SMITH](https://github.com/devronsoft)
 - Place: Oxford, UK
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
