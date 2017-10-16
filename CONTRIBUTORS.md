@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Ivan Chuang](https//github.com/fiskiry)
+- Place: Singapore, Singapore
+- Bio: Budding Coding Artist
+- Github: [Ivan Chuang](https//github.com/fiskiry)
