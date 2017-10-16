@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Amit Karsale](https://github.com/amitkarsale)
+- Place: India, Pune
+- Bio: Developer
+- Github: [amitkarsale](https://github.com/amitkarsale)
