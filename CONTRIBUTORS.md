@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Sahapol Kaewyoo](https://github.com/stonenots)
+- Place: Bangkok, Thailand
+- Bio: Software Engineer
+- GitHub: [Stone Man](https://github.com/stonenots)
