@@ -679,7 +679,7 @@
 
 #### Name: [Pratyum Jagannath](https://github.com/Pratyum)
 - Place: Singapore
-- Bio: I tell tales! 
+- Bio: I tell tales!
 - GitHub: [Pratyum](https://github.com/Pratyum)
 
 #### Name: [Jakub Bačo](https://github.com/vysocina)
@@ -777,3 +777,9 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Lorenzo Pieri](https://github.com/LRNZ09)
+- Place: Florence, Italy
+- Bio: Pythonista
+- GitHub: [LRNZ09](https://github.com/LRNZ09)
+- Website: [Blog](https://lrnz09.me/)
