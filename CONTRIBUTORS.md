@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Logan Saso](https://github.com/HazardDev)
+- Place: Corvallis, Oregon, USA
+- Bio: Student looking for internships :)
+- GitHub: [HazardDev](https://github.com/HazardDev)
