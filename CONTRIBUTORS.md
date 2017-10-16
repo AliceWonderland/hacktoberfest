@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [BAHRI Aimene](https://github.com/Aimene-BAHRI)
+- Place: BirElDjir, Oran, Algeria
+- Bio: informatic master student 
+- GitHub: [Aimene BAHRI](https://github.com/Aimene-BAHRI)
