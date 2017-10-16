@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Matt Neighbour](https//github.com/Yelk11)
+- Place: Detroit, Michigan, USA
+- Bio: Programmer 4 lyfe
+- Github: [Matt Neighbour](https//github.com/Yelk11)
