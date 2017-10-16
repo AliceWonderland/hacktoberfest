@@ -784,3 +784,7 @@
 - GitHub: [Igor Rzegocki](https://github.com/ajgon)
 - Website: [Online Portfolio](https://rzegocki.pl/)
 
+#### Name: [JULIE QIU](https://github.com/julieqiu)
+- Place: New York City, NY, USA
+- Bio: Software Engineer; Loves iced coffee
+- GitHub: [Julie Qiu](https://github.com/julieqiu)
