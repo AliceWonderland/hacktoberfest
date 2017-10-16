@@ -777,3 +777,9 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Muhammad Yasoob Ullah Khalid](http://yasoob.me)
+- Place: Lahore, Pakistan
+- Bio: Author, Blogger, OS speaker and Comp Sci student at Colgate University
+- GitHub: [Muhammad Yasoob Ullah Khalid](https://github.com/yasoob)
+
