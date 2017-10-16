@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [CLEBER DOMINGOS ARRUDA](https://github.com/cleberar38)
+- Place: Lund, Sweden
+- Bio: IT/GIS Engineer and System Developer
+- GitHub: [Cleber Domingos Arruda](https://github.com/cleberar38)
