@@ -695,6 +695,11 @@ s in Computer Science
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Lee Magbanua](https://github.com/leesenpai)
+- Place: Philippines
+- Bio: Student / Front-end Web Developer
+- GitHub: [leesenpai](https://github.com/leesenpai)
+
 #### Name: [Damodar Lohani](https://github.com/lohanidamodar)
 - Place: Kathmandu, Nepal
 - Bio: Technology Consultant at [LohaniTech](https://lohanitech.com)
@@ -724,5 +729,3 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
-
-
