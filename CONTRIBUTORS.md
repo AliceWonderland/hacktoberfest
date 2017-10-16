@@ -788,3 +788,20 @@
 - Place: Växjö, Sweden
 - Bio: System developer, like to lab with code, hiking, beer brewing
 - Github: [Pontus Nyberg](https://github.com/PontusNyberg)
+
+#### Name: [JULIE QIU](https://github.com/julieqiu)
+- Place: New York City, NY, USA
+- Bio: Software Engineer; Loves iced coffee
+- GitHub: [Julie Qiu](https://github.com/julieqiu)
+
+#### Name: [Luis Alducin](https://linkedin.com/luisalduucin)
+- Place: Mexico City
+- Bio: Software Engineer
+- GitHub: [Luis Alducin](https://github.com/luisalduucin)
+
+#### Name: [Hannah Zulueta](https://github.com/hanapotski)
+- Place: North Hollywood, CA
+- Bio: Web developer, Calligrapher, Musician, Entrepreneur
+- GitHub: [Ryan Smith](https://github.com/hanapotski)
+- Website: [Blog](https://homemadecoder.wordpress.com)
+
