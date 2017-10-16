@@ -784,3 +784,7 @@
 - GitHub: [Igor Rzegocki](https://github.com/ajgon)
 - Website: [Online Portfolio](https://rzegocki.pl/)
 
+#### Name: [Pontus Nyberg](https://github.com/PontusNyberg)
+- Place: Växjö, Sweden
+- Bio: System developer, like to lab with code, hiking, beer brewing
+- Github: [Pontus Nyberg](https://github.com/PontusNyberg)
