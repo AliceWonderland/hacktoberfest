@@ -778,6 +778,12 @@
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
 
+#### Name: [Igor Rzegocki](https://github.com/ajgon)
+- Place: Kraków, PL
+- Bio: I do Ruby for living, and hacking for fun
+- GitHub: [Igor Rzegocki](https://github.com/ajgon)
+- Website: [Online Portfolio](https://rzegocki.pl/)
+
 #### Name: [JULIE QIU](https://github.com/julieqiu)
 - Place: New York City, NY, USA
 - Bio: Software Engineer; Loves iced coffee
