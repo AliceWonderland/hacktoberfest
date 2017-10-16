@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Erlend Ellingsen](https://github.com/ErlendEllingsen)
+- Place: Oslo, Norway
+- Bio: Full Stack Developer
+- Github: [Erlend Ellingsen](https://github.com/ErlendEllingsen)
