@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Vikranth Udandarao](https://github.com/vikurao)
+- Place: Muscat, Oman
+- Bio: Grade 8 Student
+- GitHub: [Vikranth Udandarao](https://github.com/vikurao)
