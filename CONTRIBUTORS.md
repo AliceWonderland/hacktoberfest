@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [AMIT CHAMBIAL](https://github.com/devaman)
+- Place: PUNJAB,INDIA
+- Bio: COMPUTER GEEK
+- GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
