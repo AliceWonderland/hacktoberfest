@@ -824,3 +824,8 @@
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
+
+#### Name: [Michele Adduci](https://micheleadduci.net)
+- Place: Germany
+- Bio: Full Stack Developer, living on a CI/CD pipeline
+- GitHub: [madduci](https://github.com/madduci)
