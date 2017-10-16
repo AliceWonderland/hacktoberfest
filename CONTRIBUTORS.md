@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Kevin Kerr](https:github.com/Kevek)
+- Place: New York City, NY, USA
+- Bio: Software Developer
+- Github: [Kevek](https:github.com/Kevek)
