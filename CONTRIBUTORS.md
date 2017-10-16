@@ -704,3 +704,7 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: sublistic
+- Place: New Zealand - Bio: Codemonkey
+- GitHub: [sublistic](https://github.com/sublistic)
