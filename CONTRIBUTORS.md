@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Aakanksha Jain](https//github.com/accakks)
+- Place: Jaipur, Rajasthan, India
+- Bio: CSE undergrad, programmer, reader!
+- GitHub: [Aakanksha Jain](https//github.com/accakks)
