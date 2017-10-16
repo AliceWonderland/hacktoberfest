@@ -799,3 +799,8 @@
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
+
+#### Name: [Bogdan Manole](https://github.com/BogdanManole)
+- Place: Brasov, RO
+- Bio: Wannabe codemonkey
+- GitHub: [Bogdan Manole](https://github.com/BogdanManole)
