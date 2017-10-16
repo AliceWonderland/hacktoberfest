@@ -777,3 +777,9 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Aaditya Menon](https://sparker0i.me)
+- Place: Palakkad, IND!
+- Bio: Android and UWP app developer
+- GitHub: [Aaditya Menon](https://github.com/Sparker0i)
+- Blog: [Blog](https://blog.sparker0i.me/)
