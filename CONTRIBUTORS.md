@@ -829,3 +829,8 @@
 - Place: Germany
 - Bio: Full Stack Developer, living on a CI/CD pipeline
 - GitHub: [madduci](https://github.com/madduci)
+
+#### Name: [Alexander Korn][https://blog.lxnd.me)
+- Place: Germany
+- Bio: Developer, Student
+- GitHub: [lxndio](https://github.com/lxndio)
