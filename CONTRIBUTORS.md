@@ -229,6 +229,11 @@
 - Bio: CompSci from ULaval reporting in
 - GitHub: [aiglebleu](https://github.com/aiglebleu)
 
+#### Name: [Tom Ato](https://github.com/ishanjain28)
+- Place: Durban, South Africa
+- Bio: Living person
+- GitHub: [Hmmmmm](https://github.com/ishanjain28)
+
 #### Name: [Jon Lee](https://github.com/githubbbbbbbbbbbbb)
 - Place: Canada
 - Bio: Student
