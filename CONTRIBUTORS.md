@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Benjamin Faguer](https://github.com/bfaguer/)
+ - Place: Japan
+ - Bio: Not a developer, just learning Python.
+ - Github: [BFaguer](https://github.com/bfaguer/)
