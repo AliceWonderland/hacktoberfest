@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Nadia Rodriguez](https://github.com/nadsr2)
+- Place: San Diego, CA
+- Bio: Learning every single day :computer: :books:
+- Github: [Nadia Rodriguez](https://github.com/nadsr2)
