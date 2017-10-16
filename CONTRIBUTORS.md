@@ -793,3 +793,9 @@
 - Place: Mexico City
 - Bio: Software Engineer
 - GitHub: [Luis Alducin](https://github.com/luisalduucin)
+
+#### Name: [Hannah Zulueta](https://github.com/hanapotski)
+- Place: North Hollywood, CA
+- Bio: Web developer, Calligrapher, Musician, Entrepreneur
+- GitHub: [Ryan Smith](https://github.com/hanapotski)
+- Website: [Blog](https://homemadecoder.wordpress.com)
