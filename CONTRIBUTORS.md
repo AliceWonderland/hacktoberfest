@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Andy Gunnerson] (https://github.com/TheGunder)
+- Place: Salt Lake City, UT
+- 'Beginner' programmer for too long, trying to change that.
+- GitHub: [TheGunder](https://github.com/TheGunder)
