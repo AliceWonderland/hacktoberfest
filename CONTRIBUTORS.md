@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Kyle O'Hehir](https://github.com/kohehir)
+- Place: Greenwich, CT
+- Bio: Research Analyst
+- Github: [Kyle O'Hehir](https://github.com/kohehir)
