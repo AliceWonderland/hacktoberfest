@@ -788,3 +788,8 @@
 - Place: New York City, NY, USA
 - Bio: Software Engineer; Loves iced coffee
 - GitHub: [Julie Qiu](https://github.com/julieqiu)
+
+#### Name: [Luis Alducin](https://linkedin.com/luisalduucin)
+- Place: Mexico City
+- Bio: Software Engineer
+- GitHub: [Luis Alducin](https://github.com/luisalduucin)
