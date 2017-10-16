@@ -760,3 +760,8 @@ s in Computer Science
 - Place: Seattle, WA, USA, Earth!
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
+
+#### Name: [Naren Surampudi](https://github.com/nsurampu)
+- Place: Hyderabad, India
+- Bio: Electronics & Communications Major
+- Github: [Naren Surampudi](https://github.com/nsurampu)
