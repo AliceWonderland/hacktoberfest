@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Cory Carlson](https//github.com/tattarrattat)
+- Place: Texas, USA
+- Bio: Programmer
+- Github: [CooRay](https//github.com/cooray)
