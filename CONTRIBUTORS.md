@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Henry Darnell](http://github.com/hjdarnel)
+- Place: Fayetteville, AR, USA
+- Bio: Junior full stack engineer
+- GitHub: [Henry Darnell](http://github.com/hjdarnel)
