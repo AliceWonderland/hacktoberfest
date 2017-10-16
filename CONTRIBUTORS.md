@@ -793,3 +793,8 @@
 - Place: Mexico City
 - Bio: Software Engineer
 - GitHub: [Luis Alducin](https://github.com/luisalduucin)
+
+#### Name: [Hunter Mcnulty](https://github.com/heckerman100)
+- Place: United States
+- Bio: Student; Python programmer
+- Github: [heckerman100](https://github.com/heckerman100)
