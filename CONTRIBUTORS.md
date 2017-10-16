@@ -760,3 +760,8 @@ s in Computer Science
 - Place: Seattle, WA, USA, Earth!
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
+
+#### Name: [Ng Wei Shyang](https://github.com/gaara4896)
+- Place: Balakong, Selangor, Malaysia
+- Bio: Trying to make my home smart! 
+- GitHub: [Ng Wei Shyang](https://github.com/gaara4896)
