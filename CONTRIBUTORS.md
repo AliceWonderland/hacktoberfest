@@ -606,7 +606,7 @@ s in Computer Science
 - GitHub: [g33kcentric](https://github.com/g33kcentric)
 
 #### Name: [Andin FOKUNANG](https://github.com/switchgirl95)
-- Place: Yaounde , Cameroon 
+- Place: Yaounde , Cameroon
 - Bio: Student - Otaku - Geek
 - GitHub: [Switch](https://github.com/switchgirl95)
 
@@ -684,3 +684,73 @@ s in Computer Science
 - Place: Singapore
 - Bio: I tell tales! 
 - GitHub: [Pratyum](https://github.com/Pratyum)
+
+#### Name: [Jakub Bačo](https://github.com/vysocina)
+- Place: Slovakia
+- Bio: Student / Designer
+- GitHub: [Jakub Bačo](https://github.com/vysocina)
+
+#### Name: [Gabriel Obaldia](https://github.com/gobaldia)
+- Place: Uruguay
+- Bio: Full Stack Developer
+- GitHub: [Gabriel Obaldia](https://github.com/gobaldia)
+
+#### Name: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+- Place: Granada, Spain
+- Bio: IT Student at the University of Granada
+- GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Juan Anaya Ortiz](https://github.com/JaoChaos)
+- Place: Granada, Spain
+- Bio: IT student at the University of Granada
+- GitHub: [Juan Anaya Ortiz](https://github.com/JaoChaos)
+
+#### Name: [Alexander Voigt](https://github.com/alexandvoigt)
+- Place: San Francisco, CA, USA
+- Bio: Software Engineer
+- GitHub: [Alexander Voigt](https://github.com/alexandvoigt)
+
+#### Name: [Michael Greene] (https://github.com/Greeneink4)
+- Place: UT, USA
+- Bio: Web Dev Student
+- Github: [Michael Greene] (https://github.com/Greeneink4)
+
+#### Name: [Lee Magbanua](https://github.com/leesenpai)
+- Place: Philippines
+- Bio: Student / Front-end Web Developer
+- GitHub: [leesenpai](https://github.com/leesenpai)
+
+#### Name: [Damodar Lohani](https://github.com/lohanidamodar)
+- Place: Kathmandu, Nepal
+- Bio: Technology Consultant at [LohaniTech](https://lohanitech.com)
+- GitHub: [Damodar Lohani](https://github.com/lohanidamodar)
+
+#### Name: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
+- Place: Hafnarfjörður, Iceland
+- Bio: Computer Scientist
+- GitHub: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
+
+#### Name: [Mitchell Haugen](https://github.com/haugenmitch)
+- Place: VA, USA
+- Bio: Programmer
+- GitHub: [haugenmitch](https://github.com/haugenmitch)
+
+#### Name: [Felipe Do Espirito Santo](https://github.com/felipez3r0)
+- Place: Jaboticabal, SP, Brazil
+- Bio: Professor at Fatec, Faculdade São Luís, and Mozilla Volunteer
+- GitHub: [Felipe Do E. Santo](https://github.com/felipez3r0)
+
+#### Name: [Jason Green](https://jason.green)
+- Place: Seattle, WA
+- Bio: Student of code, eater of sustainable sushi
+- GitHub: [Jalence](https://github.com/jalence)
+
+#### Name: [Elan Ripley](https//github.com/tattarrattat)
+- Place: Raleigh, North Carolina, USA
+- Bio: Programmer
+- Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Justin Oliver](https://github.com/justinoliver)
+- Place: Seattle, WA, USA, Earth!
+- Bio: Trying to learn cool new things!
+- GitHub: [Justin Oliver](https://github.com/justinoliver)
