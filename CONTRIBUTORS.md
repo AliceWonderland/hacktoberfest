@@ -729,3 +729,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Kris Hoja](https://github.com/krzysiekh)
+- Place: Olesno, Poland
+- Bio: WordPress geek 
+- Github: [Kris Hoja](https://github.com/krzysiekh)
