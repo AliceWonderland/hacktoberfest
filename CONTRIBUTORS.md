@@ -799,3 +799,9 @@
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
+
+#### Name: [Logan](https://github.com/lwagf)
+- Place: Manchester, UK
+- Bio: Advocator of the glorious JS master race
+- GitHub: [lwagf](https://github.com/lwagf)
+- Website: [Cool site](http://logan.cool/)
