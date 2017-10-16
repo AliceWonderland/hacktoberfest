@@ -1,6 +1,6 @@
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
-- Bio: I love DOGS! :dog:
+- Bio: I love DOGS! And Knitting, Sewing, Crochet, and Food!
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [GABE DUNN](https://github.com/redxtech)
@@ -53,6 +53,16 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Michael Greene](https://github.com/Greeneink4)
+- Place: UT, USA
+- Bio: Web Dev Student
+- Github: [Michael Greene](https://github.com/Greeneink4)
+
+#### Name: [BRIAN GREENE](https://github.com/shadeofgreene)
+- Place: UT, USA
+- Bio: Software Engineer at Superior Drilling Products
+- GitHub: [Brian Greene](https://github.com/shadeofgreene)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -62,6 +72,7 @@
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
 - Github: [Leah Langford](https://github.com/leahlang4d2)
+- Bio: Web Dev Student
 
 #### Name: [Eric Nor](https://github.com/thateric)
 - Place: Lake Forest, CA, USA
