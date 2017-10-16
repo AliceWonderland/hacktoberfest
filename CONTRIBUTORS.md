@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Kartikay Singh](https//github.com/alphaguy4)
+- Place: Allahabad , INDIA
+- Bio: Programmer
+- Github: [alphaguy4](https//github.com/alphaguy4)
