@@ -772,3 +772,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Ridho Pratama](https://github.com/ridho9)
+- Place: Indonesia
+- Bio: Just starting
+- GitHub: [Ridho Pratama](https://github.com/ridho9)
