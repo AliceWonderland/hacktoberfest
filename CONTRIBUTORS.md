@@ -679,7 +679,7 @@
 
 #### Name: [Pratyum Jagannath](https://github.com/Pratyum)
 - Place: Singapore
-- Bio: I tell tales! 
+- Bio: I tell tales!
 - GitHub: [Pratyum](https://github.com/Pratyum)
 
 #### Name: [Jakub Bačo](https://github.com/vysocina)
@@ -777,3 +777,10 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Igor Rzegocki](https://github.com/ajgon)
+- Place: Kraków, PL
+- Bio: I do Ruby for living, and hacking for fun
+- GitHub: [Igor Rzegocki](https://github.com/ajgon)
+- Website: [Online Portfolio](https://rzegocki.pl/)
+
