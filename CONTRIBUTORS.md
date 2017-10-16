@@ -1,8 +1,3 @@
-#### Name: [Justin Oliver](https://github.com/justinoliver)
-- Place: Seattle, WA, USA, Earth!
-- Bio: Trying to learn cool new things!
-- GitHub: [Justin Oliver](https://github.com/justinoliver)
-
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
@@ -699,3 +694,43 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Lee Magbanua](https://github.com/leesenpai)
+- Place: Philippines
+- Bio: Student / Front-end Web Developer
+- GitHub: [leesenpai](https://github.com/leesenpai)
+
+#### Name: [Damodar Lohani](https://github.com/lohanidamodar)
+- Place: Kathmandu, Nepal
+- Bio: Technology Consultant at [LohaniTech](https://lohanitech.com)
+- GitHub: [Damodar Lohani](https://github.com/lohanidamodar)
+
+#### Name: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
+- Place: Hafnarfjörður, Iceland
+- Bio: Computer Scientist
+- GitHub: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
+
+#### Name: [Mitchell Haugen](https://github.com/haugenmitch)
+- Place: VA, USA
+- Bio: Programmer
+- GitHub: [haugenmitch](https://github.com/haugenmitch)
+
+#### Name: [Felipe Do Espirito Santo](https://github.com/felipez3r0)
+- Place: Jaboticabal, SP, Brazil
+- Bio: Professor at Fatec, Faculdade São Luís, and Mozilla Volunteer
+- GitHub: [Felipe Do E. Santo](https://github.com/felipez3r0)
+
+#### Name: [Jason Green](https://jason.green)
+- Place: Seattle, WA
+- Bio: Student of code, eater of sustainable sushi
+- GitHub: [Jalence](https://github.com/jalence)
+
+#### Name: [Elan Ripley](https//github.com/tattarrattat)
+- Place: Raleigh, North Carolina, USA
+- Bio: Programmer
+- Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Justin Oliver](https://github.com/justinoliver)
+- Place: Seattle, WA, USA, Earth!
+- Bio: Trying to learn cool new things!
+- GitHub: [Justin Oliver](https://github.com/justinoliver)
