@@ -698,4 +698,4 @@ s in Computer Science
 #### Name: [Yeshi Dorjee](https://github.com/yeshijinsel)
 - Place: Chandigarh, India
 - Bio: Love to explore the new places and coding
-- GitHub: [Yeshi Dorjee](https://github.com/yeshijinsel)
+- GitHub: [Yeshijinsel](https://github.com/yeshijinsel)
