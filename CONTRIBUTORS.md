@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+### Name: [Matthew Helmer](https://github.com/matthewhelmer)
+- Place: Wolfville, NS, Canada
+- Bio: A computer science student at Acadia University.
+- Github: [Matthew Helmer](https://github.com/matthewhelmer)
