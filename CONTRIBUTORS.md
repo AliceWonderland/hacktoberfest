@@ -53,4 +53,7 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-
+#### Name: [Will Beshore](https://github.com/wjbeshore)
+- Place: St. Louis, Missouri, USA
+- Bio: 26 year old interested in learning to do some web development.
+- GitHub: [Wjbeshore](https://github.com/wjbeshore)
