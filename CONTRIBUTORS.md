@@ -695,6 +695,11 @@ s in Computer Science
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Juan Anaya Ortiz](https://github.com/JaoChaos)
+- Place: Granada, Spain
+- Bio: IT student at the University of Granada
+- GitHub: [Juan Anaya Ortiz](https://github.com/JaoChaos)
+
 #### Name: [Alexander Voigt](https://github.com/alexandvoigt)
 - Place: San Francisco, CA, USA
 - Bio: Software Engineer
