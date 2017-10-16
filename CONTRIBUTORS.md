@@ -825,7 +825,7 @@
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
 
-#### Name: [Michele Adduci](https://micheleadduci.net)
-- Place: Germany
-- Bio: Full Stack Developer, living on a CI/CD pipeline
-- GitHub: [madduci](https://github.com/madduci)
+#### Name: [Tom Stein](https://github.com/ScholliYT)
+- Place: north rhine westphalia, DE
+- Bio: Student c++/c & Java
+- Website: [Blog](http://scholli.xyz/new.html)
