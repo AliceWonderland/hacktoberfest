@@ -777,3 +777,9 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Lorenzo Farinelli](https://github.com/lorenzofar)
+- Place: Milan, IT
+- Bio: Computer science & engineering student @ PoliMi
+- GitHub: [Lorenzo Farinelli](https://github.com/lorenzofar)
+- Website: [NUMB3RS project](http://numb3.rs)
