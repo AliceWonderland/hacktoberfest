@@ -777,3 +777,9 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Hannah Zulueta](https://github.com/hanapotski)
+- Place: North Hollywood, CA
+- Bio: Web developer, Calligrapher, Musician, Entrepreneur
+- GitHub: [Ryan Smith](https://github.com/hanapotski)
+- Website: [Blog](https://homemadecoder.wordpress.com)
