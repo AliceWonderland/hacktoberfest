@@ -700,6 +700,11 @@ s in Computer Science
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Abdullateef](https://github.com/abdullateef97)
+- Place: Lagos Island, Lagos State, Nigeria
+- Bio: Student Developer
+- GitHub: [Abdullateef](https://github.com/abdullateef97)
+
 #### Name: [Juan Anaya Ortiz](https://github.com/JaoChaos)
 - Place: Granada, Spain
 - Bio: IT student at the University of Granada
