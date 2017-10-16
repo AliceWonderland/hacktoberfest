@@ -1,3 +1,8 @@
+﻿#### Name: [Elaine Akemi](https://github.com/elaineakemi)
+- Place: Dublin, Ireland
+- Bio: Software Developer
+- GitHub: [Elaine Akemi](https://github.com/elaineakemi)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
