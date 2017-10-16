@@ -784,6 +784,11 @@
 - GitHub: [Igor Rzegocki](https://github.com/ajgon)
 - Website: [Online Portfolio](https://rzegocki.pl/)
 
+#### Name: [Pontus Nyberg](https://github.com/PontusNyberg)
+- Place: Växjö, Sweden
+- Bio: System developer, like to lab with code, hiking, beer brewing
+- Github: [Pontus Nyberg](https://github.com/PontusNyberg)
+
 #### Name: [JULIE QIU](https://github.com/julieqiu)
 - Place: New York City, NY, USA
 - Bio: Software Engineer; Loves iced coffee
@@ -799,3 +804,4 @@
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
+
