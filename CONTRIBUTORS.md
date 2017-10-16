@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Will Beshore](https://github.com/wjbeshore)
+- Place: St. Louis, Missouri, USA
+- Bio: 26 year old interested in learning to do some web development.
+- GitHub: [Wjbeshore](https://github.com/wjbeshore)
