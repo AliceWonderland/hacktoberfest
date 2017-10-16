@@ -799,3 +799,9 @@
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
+
+#### Name: [Jonathan Fitzgibbon](https://github.com/true14)
+- Place: Columbia, SC
+- Bio: I'm a web developer, gamer, and general problem solver (occasional problem maker)
+- Github: [Jonathan Fitzgibbon](https://github.com/true14)
+- Website: [Portfolio](https://www.jonnyfitzgibbon.com)
