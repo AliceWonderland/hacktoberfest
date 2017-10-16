@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Edder Rojas](https//github.com/edderrd)
+- Place: San Jose, Costa Rica
+- Bio: Full Stack Developer
+- Github: [Edder Rojas](https//github.com/edderrd)
