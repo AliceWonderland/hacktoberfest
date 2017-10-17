@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Mia Kathage](https://github.com/spreadLink)
+- Place: Oberhausen, NRW, Germany
+- Bio: Student
+- Github: [Mia Kathage](https://github.com/spreadLink)
