@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Martin McLaughlin](https://github.com/martinmcl)
+- Place: Sligo, Ireland
+- Bio: Software Developer and Student.
+- GitHub: [MartinMcL](https://github.com/martinmcl)
