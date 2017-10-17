@@ -1,3 +1,8 @@
+﻿#### Name: [Igor Souza](https://github.com/igfasouza)
+- Place: Dublin, Ireland
+- Bio: Software Developer
+- GitHub: [Igor Souza](https://github.com/igfasouza)
+
 ﻿#### Name: [Elaine Akemi](https://github.com/elaineakemi)
 - Place: Dublin, Ireland
 - Bio: Software Developer
