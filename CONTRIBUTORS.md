@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [HayateLaTech](https://github.com/HayateLaTech)
+- Place: Schwerin, Germany
+- Bio: Student
+- Github: [HayateLaTech](https://github.com/HayateLaTech)
