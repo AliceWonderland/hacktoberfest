@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Juli Cheng](https://github.com/julicheng)
+- Place: United Kingdom
+- Bio: I like potatoes!
+- GitHub: [Juli Cheng](https://github.com/julicheng)
