@@ -9,6 +9,11 @@
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [Vihanga Bandara](https://github.com/vihanga-bandara)
+- Place: Colombo, Sri Lanka
+- Bio: Developer / Geek
+- GitHub: [Vihanga Bandara](https://github.com/vihanga-bandara)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
