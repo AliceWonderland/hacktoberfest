@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Billy Wong](https://github.com/billywongstuy)
+- Place: New York, NY
+- Bio: Student
+- Github: [billywongstuy](https://github.com/billywongstuy)
