@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Roberto Torella](https://github.com/ganglio)
+- Place: London, UK
+- Bio: Software Architect
+- Github: [ganglio](https://github.com/ganglio)
