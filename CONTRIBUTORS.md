@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Lucas Monteiro](https://github.com/LucasHMonteiro)
+- Place: Niterói, RJ, Brazil
+- Bio: Computer Science student
+- GitHub: [Lucas Monteiro](https://github.com/LucasHMonteiro)
