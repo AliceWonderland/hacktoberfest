@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Jasneet Singh Sawhney](https://github.com/InnovativeCoder)
+- Place: New Delhi, India
+- Bio: Data Science Undergraduate Student
+- Github: [Innovative Coder](https://github.com/InnovativeCoder)
