@@ -1,4 +1,4 @@
-#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Akshit Mittal](https://github.com/akshit3797)
+- Place: Bhubaneswar , Odisha , India
+- Bio: Student , Data Analytics Enthusiast
+- GitHub: [akshit3797](https://github.com/akshit3797)
