@@ -7,11 +7,11 @@ United States
 
 ## Academics
 
-# Webb Institute
+### Webb Institute
 BS, Naval Architecture and Marine Engineering
 Glen Cove, NY, USA
 
-# University of California at Irvine
+### University of California at Irvine
 BA, Comparative Literature
 Irvine, CA, USA
 
