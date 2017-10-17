@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Arnab Dutta](https://github.com/arnabdutta97)
+- Place: New Delhi, India
+- Bio: B.Tech Student in Computer Science
+- Github: [Arnab Dutta](https://github.com/arnabdutta97)
