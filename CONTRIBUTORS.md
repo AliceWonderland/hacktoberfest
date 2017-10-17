@@ -1,3 +1,7 @@
+#### Name: [SAI SRI VATHSA](https://github.com/saisrivathsa)
+- Place: Roorkee, India
+- GitHub: [saisrivathsa](https://github.com/saisrivathsa)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
