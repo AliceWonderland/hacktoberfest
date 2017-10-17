@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Poul Wittig](https://github.com/amivit)
+- Place: Vejle, Jylland, Denmark
+- Bio: Developer intern @ LEGO
+- GitHub: [Amivit](https://github.com/amivit)
