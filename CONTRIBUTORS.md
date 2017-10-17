@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [OLIVIER LEPLUS](https://github.com/tagazok)
+- Place: Paris, France
+- Bio: Technology Enthusiast, Speaker, Community driver
+- GitHub: [Olivier Leplus](https://github.com/tagazok)
