@@ -849,3 +849,9 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Roy Verrips a.k.a. rverrips](https://github.com/rverrips)
+- Place: Chicago, IL
+- Bio: Intranet Systems Manager
+- Github: [Roy Verrips a.k.a. rverrips](https://github.com/rverrips)
+
