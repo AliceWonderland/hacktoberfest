@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Felipe Scrochio Custódio](https://github.com/felipecustodio)
+- Place: São Carlos, São Paulo, Brazil
+- Bio: Computer Science student @ USP - Brazil! Cheers! 
+- GitHub: [felipecustodio](https://github.com/felipecustodio)
