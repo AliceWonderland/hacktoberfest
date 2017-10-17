@@ -849,3 +849,9 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [EDIE BLU](https://github.com/edieblu)
+- Place: MK, GB
+- Bio: Student
+- Github: [edieblu](https://github.com/edieblu)
+
