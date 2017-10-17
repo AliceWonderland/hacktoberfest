@@ -797,6 +797,7 @@
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
 
+
 #### Name: [RYAN R SMITH](https://github.com/devronsoft)
 - Place: Oxford, UK
 - Bio: Kiwi dev
@@ -849,3 +850,7 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+#### Name:[Alvaro Poyatos](https://github.com/alvaro511)
+- Place: Madrid, Spain
+- Bio: Student
+- Github:[alvaro511](https://github.com/alvaro511)
