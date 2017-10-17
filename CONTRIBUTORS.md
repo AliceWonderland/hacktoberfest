@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Anand](https://github.com/anand8)
+- Place: Delhi, India
+- Bio: Student
+- Github: [anand8](https://github.com/anand8)
