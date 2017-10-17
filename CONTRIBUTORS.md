@@ -840,6 +840,11 @@
 - Bio: Full Stack Developer
 - Github: [John Rexter Flores](https://github.com/alldeads)
 
+#### Name: [Luciano Santana dos Santos](https://github.com/lucianosds)
+- Place: Ponta Grossa, PR, Brasil
+- Bio: Computer Network Professional
+- Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
+
 #### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
 - Bio: Student
