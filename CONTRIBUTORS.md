@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Neil Kakkar](https://github.com/neilkakkar)
+- Place: New Delhi, India
+- Bio: Code.Create.Recurse.
+- GitHub: [Neil Kakkar](https://github.com/neilkakkar)
