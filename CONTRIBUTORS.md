@@ -834,3 +834,8 @@
 - Place: Austin, TX, USA
 - Bio: Jr Full Stack Developer making my first contribution.
 - GitHub: [apcatx](https://github.com/apcatx)
+
+#### Name: [Mikki Mesfin](https://github.com/mikkimesfin)
+- Place: Denver, CO, USA
+- Bio: Full Stack Developer
+- GitHub: [mikkimesfin](github.com/mikkimesfin)
