@@ -834,3 +834,8 @@
 - Place: Austin, TX, USA
 - Bio: Jr Full Stack Developer making my first contribution.
 - GitHub: [apcatx](https://github.com/apcatx)
+
+#### Name: [John Rexter Flores](https://github.com/alldeads)
+- Place: Cebu, Philippines
+- Bio: Full Stack Developer
+- Github: [John Rexter Flores](https://github.com/alldeads)
