@@ -839,3 +839,8 @@
 - Place: Cebu, Philippines
 - Bio: Full Stack Developer
 - Github: [John Rexter Flores](https://github.com/alldeads)
+
+#### Name: [Gabriel Wong](https://github.com/gabrielwong159)
+- Place: Singapore
+- Bio: University Student
+- GitHub: [Gabriel Wong](https://github.com/gabrielwong159)
