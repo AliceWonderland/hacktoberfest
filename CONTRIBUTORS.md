@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Roman Kuzkokov](https://github.com/kuzkokov)
+- Place: Athens, GA
+- Bio: Frontend Developer
+- Github: [kuzkokov](https://github.com/kuzkokov)
