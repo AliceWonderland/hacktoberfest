@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Luong Vo](https://github.com/LewisVo)
+- Place: Ho Chi Minh city, Vietnam
+- Bio: CS Undergrad Student
+- GitHub: [Luong Vo](https://github.com/LewisVo)
