@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Gus Gamble](https://github.com/gusgamble/)
+- Place: Washington DC
+- Bio: Student learing how to computer!
+- GitHub: [gusgamble](https://github.com/gusgamble/)
