@@ -3,10 +3,10 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
-#### Name: [GABE DUNN](https://github.com/redxtech)
+#### Name: [BJÖRN HJORTH](https://github.com/redxtech)
 - Place: Sweden
 - Bio: Pickel Rick
-- GitHub: [Gabe Dunn](https://github.com/kaffesumpen)
+- GitHub: [Björn Hjorth](https://github.com/kaffesumpen)
 
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
