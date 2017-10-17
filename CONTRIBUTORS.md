@@ -849,3 +849,10 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Sebastian Schreck](https://schreck.berlin)
+- Place: Berlin, Germany
+- Bio: Software Engineer
+- Github: [StegSchreck](https://github.com/StegSchreck)
+
+
