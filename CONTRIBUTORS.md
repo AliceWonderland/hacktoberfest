@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [odzeno](https://github.com/odzeno)
+- Place: Beograd, Srbija
+- Bio: CS Student
+- Github: [odzeno](https://github.com/odzeno)
