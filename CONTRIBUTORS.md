@@ -4,6 +4,11 @@
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [GABE DUNN](https://github.com/redxtech)
+- Place: Sweden
+- Bio: Pickel Rick
+- GitHub: [Gabe Dunn](https://github.com/kaffesumpen)
+
+#### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
