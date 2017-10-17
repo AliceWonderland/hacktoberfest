@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Loris Piana](https://github.com/PianaLoris)
+- Place: Genoa, Italy
+- Bio: Student
+- Github: [running-cool](https://github.com/PianaLoris)
