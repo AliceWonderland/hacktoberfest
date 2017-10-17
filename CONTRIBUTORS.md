@@ -849,3 +849,9 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Alex Frith](https://github.com/Firthir)
+- Place: Gold Coast, OZ
+- Bio: Front end dev
+- GitHub: [[Alex Frith](https://github.com/Firthir)
+- Website: [frithir](https://frithir.com)
