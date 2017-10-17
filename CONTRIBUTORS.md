@@ -53,4 +53,7 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-
+#### Name: [Jacob Burrows](https://github.com/jacobthecool)
+- Place: IL, USA
+- Bio: Student master of the world
+- Github: [Jacob Burrows](https://github.com/jacobthecool)
