@@ -849,3 +849,9 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Rohan Lekhwani](https://github.com/RonLek)
+- Place: Pune, Maharashtra, India.
+- Bio: Student, Learner.
+- Github: [RonLek](https://github.com/Ronlek)
+
