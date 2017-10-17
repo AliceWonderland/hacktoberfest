@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Roopansh Bansal](https://github.com/roopansh)
+- Place: Delhi, IN
+- Bio: Computer Science Undergraduate at Indian Institute of Technology.
+- Github: [roopansh](https://github.com/roopansh)
