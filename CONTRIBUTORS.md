@@ -849,3 +849,14 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Shikhar Pahadia](https://github.com/shikharp16)
+- Place: Delhi, India
+- Bio: Student
+- Github: [Shikhar Pahadia](https://github.com/shikharp16)
+
+
+#### Name: [Shikhar Pahadia](https://github.com/running-cool)
+- Place: Athens, GA
+- Bio: Student
+- Github: [running-cool](https://github.com/running-cool)
