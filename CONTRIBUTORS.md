@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Ian Brom](https://github.com/brumgb)
+- Place: Birmingham, UK
+- Bio: Web Developer
+- Github: [brumgb](https://github.com/brumgb)
