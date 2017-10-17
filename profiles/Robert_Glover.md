@@ -21,15 +21,15 @@ Writing, climbing, hiking, martial arts
 
 ### Development
 
-Interested in web and app development
+Interested in web design and app development
 
 ### Projects
 
-[Hoppy-Beaver][https://github.com/robertfg/Hoppy-Beaver]
+Hoppy-Beaver[https://github.com/robertfg/Hoppy-Beaver]
 
-[Memory-Game][https://github.com/robertfg/Memory-Game]
+Memory-Game[https://github.com/robertfg/Memory-Game]
 
 ### Profile Link
 
-[Robert Glover][https://github.com/robertfghttps://github.com/robertfg/Memory-Game]
+Robert Glover[https://github.com/robertfg]
 
