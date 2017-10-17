@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Arathi Nair](https://github.com/arti97)
+- Place: New Delhi, India
+- Bio: B.Tech C.S.E. Undergrad
+- GitHub: [Arathi Nair](https://github.com/arti97)
