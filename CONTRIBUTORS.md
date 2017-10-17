@@ -845,6 +845,11 @@
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
+#### Name: [Alex Choi](https://github.com/running-cool)
+- Place: Athens, GA
+- Bio: Student
+- Github: [running-cool](https://github.com/running-cool)
+
 #### Name: [Gabriel Wong](https://github.com/gabrielwong159)
 - Place: Singapore
 - Bio: University Student
