@@ -1,3 +1,9 @@
+/*
+LANGUAGE: C
+AUTHOR: Roopansh Bansal
+GITHUB: https://github.com/roopansh
+*/
+
 #include<stdio.h>
 
 int main()

@@ -1,3 +1,9 @@
+/*
+LANGUAGE: C++
+AUTHOR: Roopansh Bansal
+GITHUB: https://github.com/roopansh
+*/
+
 #include<iostream>
 
 using namespace std;
