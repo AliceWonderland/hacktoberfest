@@ -1,3 +1,8 @@
+#### Name: [SRIERIC](https://github.com/srieric)
+- Place: India
+- Bio: I love DOGS! :dog:
+- GitHub: [srieric](https://github.com/srieric)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
