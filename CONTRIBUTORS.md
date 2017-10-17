@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Gabriel Wong](https://github.com/gabrielwong159)
+- Place: Singapore
+- Bio: University Student
+- GitHub: [Gabriel Wong](https://github.com/gabrielwong159)
