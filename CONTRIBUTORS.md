@@ -1,3 +1,6 @@
+#### Name: [ASHUTOSH PARIJA](https://github.com/ashutoshparija)
+- Place: Roorkee, India
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
