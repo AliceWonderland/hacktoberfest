@@ -849,3 +849,9 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Adrian BG](https://github.com/bgadrian)
+- Place: Romania
+- Bio: Full Stack & Game developer
+- [Github](https://github.com/bgadrian)
+- [Website](https://coder.today)
