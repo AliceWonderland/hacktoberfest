@@ -8,12 +8,10 @@ United States
 ## Academics
 
 ### Webb Institute
-BS, Naval Architecture and Marine Engineering
-Glen Cove, NY, USA
+BS, Naval Architecture and Marine Engineering - Glen Cove, NY, USA
 
 ### University of California at Irvine
-BA, Comparative Literature
-Irvine, CA, USA
+BA, Comparative Literature - Irvine, CA, USA
 
 ## Interests
 
