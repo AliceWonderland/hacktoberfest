@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Anna Ronacher](https://github.com/ronachera)
+- Place: Germany
+- Bio: Student
+- Github: [ronachera](https://github.com/ronachera)
