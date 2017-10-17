@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Chris Clifton](https://github.com/cclifton2)
+- Place: New Braunfels, TX
+- Bio: Automation Engineer
+- Github: [cclifton2](https://github.com/cclifton2)
