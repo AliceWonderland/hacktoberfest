@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Dmitry Gaynullin](https://github.com/GaynullinDima)
+- Place: Moscow, Russia
+- Bio: Student
+- GitHub: [GaynullinDima](https://github.com/GaynullinDima)
