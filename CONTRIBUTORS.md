@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Nishant Rodrigues](https://github.com/nishnash54)
+- Place: Bangalore, India
+- Bio: Student
+- Github: [nishnash54](https://github.com/nishnash54)
