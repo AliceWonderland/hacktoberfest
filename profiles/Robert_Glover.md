@@ -1,35 +1,37 @@
 # Robert Glover
 
-### Location
+## Location
 
 Louisville, KY
 United States
 
-### Academics
+## Academics
 
+# Webb Institute
 BS, Naval Architecture and Marine Engineering
-Webb Institute
 Glen Cove, NY, USA
 
+# University of California at Irvine
 BA, Comparative Literature
-University of California at Irvine
 Irvine, CA, USA
 
-### Interests
+## Interests
 
-Writing, climbing, hiking, martial arts
+* Writing
+* Climbing
+* Hiking
+* Martial arts
 
-### Development
+## Development
 
 Interested in web design and app development
 
-### Projects
+## Projects
 
-Hoppy-Beaver[https://github.com/robertfg/Hoppy-Beaver]
+* [Hoppy-Beaver](https://github.com/robertfg/Hoppy-Beaver)
+* [Memory-Game](https://github.com/robertfg/Memory-Game)
 
-Memory-Game[https://github.com/robertfg/Memory-Game]
+## Profile Link
 
-### Profile Link
-
-Robert Glover[https://github.com/robertfg]
+[Robert Glover](https://github.com/robertfg)
 
