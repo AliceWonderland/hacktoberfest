@@ -1,3 +1,8 @@
+#### Name: [HARSHINI PUTTA](https://github.com/Harshini973)
+- Place: Kurukshetra, India
+- Bio: I love DOGS! :dog:
+- GitHub: [harshini](https://github.com/Harshini973)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
