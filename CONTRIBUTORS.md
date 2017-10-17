@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Abizer Lokhandwala](https://github.com/abizerlokhandwala)
+- Place: Pune, Maharashtra, India
+- Bio: Computer Student
+- GitHub: [Abizer Lokhandwala](https://github.com/abizerlokhandwala)
