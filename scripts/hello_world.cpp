@@ -1,10 +1,12 @@
 // LANGUAGE: C++
-// AUTHOR: George Fotopoulos
-// GITHUB: https://github.com/xorz57
+// AUTHOR: Abhishek Suryavanshi
+// GITHUB: https://github.com/abhisheksuryavanshi
 
 #include <iostream>
 
+using namespace std;
+
 int main() {
-	std::cout << "Hello, World!" << std::endl;
+	cout<<"Hello, World!"<<endl;
 	return 0;
 }
