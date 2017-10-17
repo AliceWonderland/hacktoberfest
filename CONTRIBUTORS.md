@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Maks Skorokhod](https://maks.live)
+- Place: Moscow, Russia
+- Bio: Software Engineer
+- Github: [samael500](https://github.com/samael500)
