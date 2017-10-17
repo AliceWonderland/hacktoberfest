@@ -849,3 +849,10 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+
+#### Name: [Bobby Ung](https://github.com/shunxing)
+- Place: Paris, France
+- Bio: Frontend developper
+- Github: [shunxing](https://github.com/shunxing)
+
