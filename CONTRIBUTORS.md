@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Keith Lamprecht](https://github.com/Nixon506E)
+- Place: Cleveland, OH
+- Bio: iOS Developer
+- Github: [Nixon506E](https://github.com/Nixon506E)
