@@ -9,6 +9,11 @@
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [Vincent D Cosomano](https://github.com/HeavyVin)
+- Place: Miami, FL, USA
+- Bio: I am human.
+- GitHub: [Vincent D Cosomano](https://github.com/HeavyVin)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
