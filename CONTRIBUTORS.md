@@ -1,3 +1,8 @@
+#### Name: [JATIN RUNGTA](https://github.com/urdarinda)
+- Place: Allahabad, UP, India
+- Bio: I love gaming! 
+- GitHub: [Jatin Rungta](https://github.com/urdarinda)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
