@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Shuyue Wang](https://github.com/k1631111)
+- Place: Hangzhou, Zhejiang, China
+- Bio: BSc Computer Science with a year in industry
+- GitHub: [Shuyue Wang](https://github.com/k1631111)
