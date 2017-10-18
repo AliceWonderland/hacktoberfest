@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Rishabh Bansal](https://github.com/rishabh-bansal)
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [Rishabh Bansal](https://github.com/rishabh-bansal)
