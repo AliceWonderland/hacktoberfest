@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Michael Riesberg-Timmer](https://github.com/michohl)
+- Place: La Porte City, Iowa, United States
+- Bio: Computer Science student at the University of Northern Iowa
+- Github: [michohl](https://github.com/michohl)
