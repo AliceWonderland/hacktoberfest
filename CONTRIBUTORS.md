@@ -934,3 +934,8 @@
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
+#### Name: [Jhonatan Casale](https://github.com/jhonatancasale)
+- Place: São Carlos, São Paulo, Brazil!
+- Bio: A System Mover and a DevOps enthusiast
+- GitHub: [jhonatancasale](https://github.com/jhonatancasale)
