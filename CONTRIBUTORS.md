@@ -1024,6 +1024,11 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
+
+#### Name: [Andres Vargas](https://jaavargasar.github.io/)
+- Place: Bogotá, Bogotá D.C, Colombia
+- Bio: Computer engineering student at the National University from Colombia.
+- GitHub: [Andres Vargas](https://github.com/jaavargasar)
