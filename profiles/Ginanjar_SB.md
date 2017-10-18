@@ -11,7 +11,7 @@ Samarinda State Polytechnic
 ### Interests
 
 - Wall Climbing
-- Web Devlopment / Programming
+- Web Development / Programming
 - Games
 - Movies
 
