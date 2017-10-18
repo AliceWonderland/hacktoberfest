@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Veronika Tolpeeva](https://github.com/ostyq)
+- Place: Moscow, Russia
+- Bio: Web developer
+- GitHub: [Veronika Tolpeeva](https://github.com/ostyq)
+
 #### Name: [Dzmitry Kasinets](https://github.com/dkasinets)
 - Place: Brooklyn, NY, USA
 - Bio: CS student at Brooklyn College, and The Game of Thrones fan :3
