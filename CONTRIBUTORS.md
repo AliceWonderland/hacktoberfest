@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [A-J Roos](https://asjasroos.co.za)
+- Place: Bloemfontein, South Africa
+- Bio: Linux and FLOSS enthusiast. Self-learning Web Development.
+- Github: [A-J Roos](https://github.com/Asjas)
