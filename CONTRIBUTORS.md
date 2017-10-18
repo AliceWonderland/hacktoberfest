@@ -3,6 +3,12 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Gaege Root](https://www.gaege.xyz)
+- Place: San Diego, CA, USA
+- Bio: 👶 Father of 1 | 💻 Web Developer | 🐶 Dog Lover | 👾 Tech Educator | 🏎️ Car Enthusiast
+- Homepage: [gaege.xyz](https://www.gaege.xyz)
+- GitHub: [GaegeRoot](https://github.com/GaegeRoot)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
