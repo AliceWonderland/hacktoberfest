@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Andrés Escobar](https://github.com/handrezescobar94)
+- Place: León, Guanajuato, México
+- Bio: HipstaCoder :100:
+- GitHub: [handrezescobar94](https://github.com/handrezescobar94)
