@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Stuart Wares](https://github.com/StuWares)
+- Place: Tamworth, United Kingdom
+- Bio: Learning web development to help with a career change!
+- GitHub: [Stu Wares](https://github.com/StuWares)
+
 #### Name: [Aitor Alonso](https://github.com/tairosonloa)
 - Place: Madrid, Spain
 - Bio: Computer Science and Engineering BSc student at Carlos III University of Madrid
