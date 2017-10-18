@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Patrick Sedlacek](https://github.com/dunkhelExploit)
+- Place: Iowa
+- Bio: Student
+- GitHub: [dunkhelExploit] (https://github.com/dunkhelExploit)
