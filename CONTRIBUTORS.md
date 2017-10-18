@@ -1027,3 +1027,8 @@
 - Bio: Computer Science Engineering student at Amity University 
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
+
+#### Name: [Daksh Chaturvedi](https://github.com/daksh249)
+- Place: New Delhi, India
+- Bio: ECE Undergraduate at IIIT-Delhi
+- GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
