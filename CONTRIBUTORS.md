@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Kyle Pu](https://github.com/Kyle-P)
+- Place: USA
+- Bio: I love open source!!!
+- GitHub: [Kyle-P](https://github.com/Kyle-P)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!

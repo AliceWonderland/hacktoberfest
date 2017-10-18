@@ -1,0 +1,17 @@
+/* Language: Java 
+   Hello World Script!
+   Profile: https://github.com/Kyle-P
+   Why: Celebrating Hacktoberfest, learning how to user GitHub
+*/
+
+
+public class Main {
+
+	public static void main(String[] args) {
+	    
+      System.out.println("Hello World!");
+      System.out.println("Happy Hacktoberfest! Celebrating open source!");
+      
+		}
+		
+	} 
