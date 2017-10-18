@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Edwin S](https://github.com/olback)
+- Place: Skåne, Sweden
+- Bio: Going to High School studying Programming/IT
+- GitHub: [olback](https://github.com/olback)
