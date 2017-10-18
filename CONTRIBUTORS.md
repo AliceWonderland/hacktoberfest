@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Lee Nielsen](https://github.com/fishmad)
+- Place: NSW, Australia
+- Bio: Loving open source 
+- GitHub: [Fishmad](https://github.com/fishmad)
