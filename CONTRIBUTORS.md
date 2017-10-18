@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Seamus Woods](https://github.com/Woodse07)
+- Place: Dublin, Ireland
+- Bio: Computer Science TCD
+- GitHub: [Seamus Woods](https://github.com/Woodse07)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
