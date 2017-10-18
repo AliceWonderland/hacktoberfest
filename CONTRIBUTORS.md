@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Ayush Agarwal](https://github.com/thisisayaush)
+- Place: Noida, India
+- Bio: CSE Student at the Amity University
+- GitHub: [Ayush Agarwal](https://github.com/thisisayush)
+
 #### Name: [Arie Kurniawan](https://github.com/arkwrn)
 - Place: Jakarta, Indonesia
 - Bio: IT Student at Universiy of Muhammadiyah Jakarta
