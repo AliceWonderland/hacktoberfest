@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Anthony Mineo](https://github.com/amineo)
+- Place: New Jersey, USA
+- Bio: Web Design & Development
+- GitHub: [Anthony Mineo](https://github.com/amineo)
+
 #### Name: [Brent Scheppmann](https://github.com/bareon)
 - Place: Garden Grove, CA, US
 - Bio: Student, Geophysicist
@@ -854,4 +859,3 @@
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
-
