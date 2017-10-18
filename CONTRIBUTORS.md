@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Gianluca Trimarchi] (https://github.com/gtrimarchi)
+- Place: Trieste, Italy
+- Bio: None of your business
+- GitHub: [Gianluca Trimarchi](https://github.com/gtrimarchi)
