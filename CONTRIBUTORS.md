@@ -1032,3 +1032,8 @@ Noida
 - Place: New Delhi, India
 - Bio: ECE Undergraduate at IIIT-Delhi
 - GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
+
+#### Name: [Will Coughlin](https://github.com/willcoughlin)
+- Place: Auburn, AL
+- Bio: CS Student/Full-stack dev at Auburn University
+- GitHub: [Will Coughlin](https://github.com/willcoughlin)
