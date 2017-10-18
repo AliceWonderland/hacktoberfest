@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Arie Kurniawan](https://github.com/arkwrn)
+- Place: Jakarta, Indonesia
+- Bio: IT Student at Universiy of Muhammadiyah Jakarta
+- GitHub: [Arie Kurniawan](https://github.com/arkwrn)
+
 #### Name: [Ramón Didier Valdez Yocupicio](https://github.com/xDidier901)
 - Place: Hermosillo, Sonora, México
 - Bio: Software Developer / Student
