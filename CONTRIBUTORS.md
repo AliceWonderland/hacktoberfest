@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Marco Braga](https://github.com/marcorcb)
+- Place: Belo Horizonte, MG, Brasil
+- Bio: Computer Science student and iOS developer
+- Github: [marcorcb](https://github.com/marcorcb)
