@@ -1,6 +1,6 @@
 // LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Alice Chuang
+// ENV:
+// AUTHOR: Sarah Chen
 // GITHUB: https://github.com/AliceWonderland
 
-console.log('Hello, World!');
+alert("Hello World!");
