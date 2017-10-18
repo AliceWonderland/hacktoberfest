@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Nick Mertin](https://github.com/magikm18)
+- Place: Ontario, Canada
+- Bio: Student/programmer
+- GitHub: [Nick Mertin](https://github.com/magikm18)
