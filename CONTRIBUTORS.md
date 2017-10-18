@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Jasper Haasdijk](https://github.com/jhaasdijk)
+- Place: Nijmegen, NL
+- Bio: Student
+- GitHub: [jhaasdijk](https://github.com/jhaasdijk)
