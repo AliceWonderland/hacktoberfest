@@ -1017,6 +1017,11 @@
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Alex Choi](https://github.com/ivansiacho)
+- Place: Bogota, CO
+- Bio: Front End developer
+- Github: [running-cool](https://github.com/ivansiacho)
+
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
