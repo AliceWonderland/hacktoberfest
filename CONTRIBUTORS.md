@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Chenggang Wang](https://seewang.me)
+- Place: Sydney, Australia
+- Bio: Web Developer, 
+- GitHub: [cwang22](https://github.com/cwang22)
