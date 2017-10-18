@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+### Name: [KEN SUONG](https://github.com/suoken)
+- Place: Toronto, Ontario, Canada
+- Bio: Student studying computer science
+- Github: [suoken](https://github.com/suoken)
