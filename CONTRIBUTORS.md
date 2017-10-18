@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Jan Zimolka](https://github.com/Zimi14)
+- Place: Prague, Czech Republic
+- Bio: Computer Science student
+- GitHub: [Jan Zimolka](https://github.com/Zimi14)
