@@ -533,6 +533,11 @@
 -Bio: Student,Web Developer
 -GitHub: [harshil1712](https://github.com/harshil1712)
 
+#### Name: [Neil Stewart](https://github.com/nmyster)
+- Place: Edinburgh, Scotland, UK
+- Bio: Cloud Systems Developer
+- Github: [nmyster](https://github.com/nmyster)
+
 #### Name: [Bennett Treptow](https://github.com/bennett-treptow)
 - Place: Milwaukee, WI, USA
 - Bio: Computer Science Major / Web Developer
