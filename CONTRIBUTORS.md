@@ -239,6 +239,11 @@
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
 
+#### Name: [Nefari0uss](https://github.com/nefari0uss)
+- Place: USA
+- Bio: Gamer, developer, and open source enthusiast!
+- Github: [Nefari0uss](https://github.com/nefari0uss)
+
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
@@ -293,6 +298,13 @@
 - Place:Surat,Gujarat,India.
 - Bio:In love with the WEB,from age of 5!
 - Github:[Avinash Jaiswal](https://github.com/littlestar642)
+
+#### Name: [JoeBanks13](https://github.com/JoeBanks13)
+- Place: York, United Kingdom
+- Bio: Backend web developer
+- GitHub: [JoeBanks13](https://github.com/JoeBanks13)
+- Webpage: [josephbanks.me](https://josephbanks.me)
+- GitLab Server: [GitLab](https://gitlab.josephbanks.me/JoeBanks13)
 
 #### Name: [Alisson Vargas](https://github.com/alisson-mich)
 - Place: Torres, RS, Brazil
@@ -701,6 +713,36 @@
 - Place: Recife, Brazil
 - Bio: Software Engineer at www.neuroup.com.br
 - GitHub: [Gilliano Menezes](https://github.com/gillianomenezes)
+
+#### Name: [Luís Antonio Prado Lança](https://github.com/luisslanca)
+- Place: Jundiaí, São Paulo, Brazil
+- Bio: I'm a student in Fatec Jundiaí and Web Developer.
+- GitHub: [Luís Antonio Prado Lança](https://github.com/luisslanca)
+
+#### Name: [Anish Bhardwaj](https://github.com/bhardwajanish)
+- Place: New Delhi, India
+- Bio: CSD IIITD
+- GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
+
+#### Name: [Ankur Sharma](https://github.com/ankurs287)
+- Place: New Delhi, India
+- Bio: CSAM, IIITD
+- GitHub: [Ankur Sharma](https://github.com/ankurs287)
+
+#### Name: [Siddhant Verma](https://github.com/siddver007)
+- Place: Delhi, India
+- Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
+- GitHub: [Siddhant Verma](https://github.com/siddver007)
+
+#### Name: [Cody Williams](https://github.com/codyw9524)
+- Place: Dallas, Texas, USA
+- Bio: Web Nerd
+- GitHub: [Cody Williams](https://github.com/codyw9524)
+
+#### Name: [Aayush Sharma](https://github.com/aayusharma)
+- Place: Mandi, Himachal Pradesh, India
+- Bio: IITian
+- GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
 #### Name: [Jonas Fabisiak](https://github.com/RenCloud)
 - Place: Hanover, Germany
