@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Anish Bhardwaj](https://github.com/bhardwajanish)
+- Place: New Delhi, India
+- Bio: CSD IIITD
+- GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
+
 #### Name: [Ankur Sharma](https://github.com/ankurs287)
 - Place: New Delhi, India
 - Bio: CSAM, IIITD
