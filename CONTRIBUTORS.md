@@ -702,6 +702,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Luís Antonio Prado Lança](https://github.com/luisslanca)
+- Place: Jundiaí, São Paulo, Brazil
+- Bio: I'm a student in Fatec Jundiaí and Web Developer.
+- GitHub: [Luís Antonio Prado Lança](https://github.com/luisslanca)
+
 #### Name: [Anish Bhardwaj](https://github.com/bhardwajanish)
 - Place: New Delhi, India
 - Bio: CSD IIITD
