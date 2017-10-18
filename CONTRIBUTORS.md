@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Adil Mahmood](https://github.com/AdilMah)
+- Place: Kolkata, West Bengal, India
+- Bio: IT undergraduate at IIESTS.
+- GitHub: [Adil Mahmood](https://github.com/AdilMah)
