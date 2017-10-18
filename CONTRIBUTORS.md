@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Victor](https://github.com/VictorDragnea)
+- Place: bucharest, Bucharest, Romania
+- Bio: junior front end dev
+- GitHub: [VictorDragnea](https://github.com/VictorDragnea)
