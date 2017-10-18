@@ -1033,6 +1033,11 @@ Noida
 - Bio: ECE Undergraduate at IIIT-Delhi
 - GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
 
+#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
+- Place: Sri Lanka
+- Bio: Undergraduate
+- GitHub: [Shanaka95](https://github.com/shanaka95)
+
 ### Name: [Brandon Fadairo](https://github.com/BFadairo)
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
