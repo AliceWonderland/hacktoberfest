@@ -1,4 +1,4 @@
-#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+﻿#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Luiz Henrique Velloso](https://github.com/Yke222)
+- Place: Campinas, Brasil
+- Bio: Software Engineer
+- GitHub: [Yke222](https://github.com/Yke222)
