@@ -849,3 +849,9 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+- Place: Kathmandu, Nepal
+- Bio: Open Data and Open Knowledge activist
+- GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
