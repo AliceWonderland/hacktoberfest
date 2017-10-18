@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [ALEXEY LARIONOV](https://github.com/lari4)
+- Place: Moscow, Russia
+- Bio: Data Scientist
+- GitHub: [Alexey Larionov](https://github.com/lari4)
