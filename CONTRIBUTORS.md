@@ -988,7 +988,7 @@
 
 #### Name: [Joan Papajani](https://joan.crustadurus.com)
 - Place: Tirana, Albania
-- Bio: In the quest for the cleanest code.
+- Bio: On the quest for the cleanest code.
 - GitHub: [Joan Papajani](https://github.com/dubkrapht)
 
 #### Name: [Hannah Zulueta](https://github.com/hanapotski)
