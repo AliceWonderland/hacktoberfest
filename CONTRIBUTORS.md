@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Anand](https://github.com/anand8)
+- Place: Delhi, India
+- Bio: Student
+- Github: [anand8](https://github.com/anand8)
