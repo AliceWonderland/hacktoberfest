@@ -1042,3 +1042,13 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Lukas A](https://github.com/lukbukkit)
+- Place: Kassel, Hesse, Germany
+- Bio: Student on his way to the Abitur
+- GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Hamza Hamidi](https://github.com/hamzahamidi)
+- Place: France
+- Bio: Js Full Stack Developer
+- GitHub: [Hamza](https://github.com/hamzahamidi)
