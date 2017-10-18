@@ -1028,6 +1028,11 @@
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
+#### Name: [Daksh Chaturvedi](https://github.com/daksh249)
+- Place: New Delhi, India
+- Bio: ECE Undergraduate at IIIT-Delhi
+- GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
+
 #### Name: [Andres Vargas](https://jaavargasar.github.io/)
 - Place: Bogotá, Bogotá D.C, Colombia
 - Bio: Computer engineering student at the National University from Colombia.
