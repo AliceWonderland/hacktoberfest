@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Simonarde Lima](https://github.com/simonardejr)
+- Place: Brasília, Brazil
+- Bio: Full Stack Developer
+- GitHub: [Simonarde Lima](https://github.com/simonardejr)
