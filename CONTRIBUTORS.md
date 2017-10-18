@@ -975,8 +975,13 @@
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 
+#### Name: [Andrew Tang](https://github.com/tangandrew)
+- Place: San Diego, CA, USA
+- Bio: Computer Science student
+- GitHub: [tangandrew](https://github.com/tangandrew)
+
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
