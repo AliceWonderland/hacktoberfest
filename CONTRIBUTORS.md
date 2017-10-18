@@ -874,3 +874,8 @@
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
+#### Name: [Kik Tachanok](https://github.com/tachanokkik)
+- Place: Bangkok, Thailand
+- Bio: Junior Web Developer
+- GitHub: [tachanokkik](https://github.com/tachanokkik)
