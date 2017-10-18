@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Jazmin Andrade](https://github.com/jazmina47)
+- Place: IL, USA
+- Bio: CS graduate, artist, and focus on web development & design
+- GitHub: [jazmina47](https://github.com/jazmina47)
