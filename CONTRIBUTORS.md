@@ -959,3 +959,9 @@
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
+#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
+- Place: New Delhi, India
+- Bio: Computer Science Engineering student at Amity University 
+Noida
+-Github: [Manas kashyap](https://github.com/Manas-kashyap)
