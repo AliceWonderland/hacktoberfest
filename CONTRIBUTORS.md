@@ -1,3 +1,8 @@
+#### Name: [Oliver Miller](https://github.com/AliceWonderland)
+- Place: Dallas, TX, USA
+- Bio: Coding & Cats!
+- GitHub: [Oliver Miller](https://github.com/Oliver-H-Miller)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
