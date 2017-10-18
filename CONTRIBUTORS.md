@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Drewi Kindwall](https://github.com/andrekindwall)
+- Place: Lund, Sweden
+- Bio: Android developer
+- GitHub: [drewi](https://github.com/andrekindwall)
