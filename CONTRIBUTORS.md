@@ -697,11 +697,10 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
-#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
-- Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
-Noida
--Github: [Manas kashyap](https://github.com/Manas-kashyap) 
+#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
+- Place: Chicoutimi, QC, Canada
+- Bio: Full Stack Developer
+- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
 ### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
 - Place: León, Mexico
@@ -960,3 +959,9 @@ Noida
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
+#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
+- Place: New Delhi, India
+- Bio: Computer Science Engineering student at Amity University 
+Noida
+-Github: [Manas kashyap](https://github.com/Manas-kashyap)
