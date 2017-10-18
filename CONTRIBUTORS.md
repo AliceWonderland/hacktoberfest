@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Tanya Vedi](https://github.com/tanya-vedi)
+- Place: Delhi, India
+- Bio: Web developer, Undergraduate at IGDTUW
+- GitHub: [Tanya Vedi](https://github.com/tanya-vedi)
