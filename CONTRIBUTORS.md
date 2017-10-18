@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Fabrício Cunha](https://github.com/baricio)
+- Place: Belo Horizonte, BR
+- Bio: Full Stack Developer
+- Github: [baricio](https://github.com/baricio)
