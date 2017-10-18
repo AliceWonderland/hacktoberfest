@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Victor Chavez](https://github.com/vrchavez)
+- Place: Los Angeles, Ca, USA
+- Bio: Footballer Turned Developer.
+- GitHub: [Victor Chavez](https://github.com/vrchavez)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
