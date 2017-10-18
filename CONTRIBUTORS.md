@@ -854,3 +854,4 @@
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
