@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Daphnie Donnell](https://github.com/daphnied)
+- Place: North Carolina, USA
+- Bio: Full time Quality Specialist and part time Front End Developer
+- Github: [Daphnie Donnell](https://github.com/daphnied)
