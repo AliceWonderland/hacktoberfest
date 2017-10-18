@@ -1047,3 +1047,9 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+
+#### Name: [Faisal Hassan](https://github.com/faisalhassanx)
+- Place: Washington, DC, USA
+- Bio: Software Engineer
+- GitHub: [Faisal Hassan](https://github.com/faisalhassanx)
