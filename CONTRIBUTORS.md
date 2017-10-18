@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Tai Le](https//github.com/lptai)
+- Place: Ho Chi Minh, Vietnam
+- Bio: Fronend developer
+- Github: [Tai Le](https//github.com/lptai)
