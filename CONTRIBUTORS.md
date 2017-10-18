@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Ricardo Naranjo](https://github.com/gramo44)
+- Place: Bogota, CO
+- Bio: Senior Developer
+- Github: [gramo44](https://github.com/gramo44)
