@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Kazi Jawad](https://github.com/kazijawad)
+- Place: New York, New York, United States
+- Bio: High School Student
+- GitHub: [kazijawad](https://github.com/kazijawad)
