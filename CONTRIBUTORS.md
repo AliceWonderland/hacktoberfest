@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Claudio Ikeda](https://github.com/claudiosikeda)
+- Place: São Paulo Brazil
+- Bio: Developer
+- Github: [Claudio Ikeda](https://github.com/claudiosikeda)
