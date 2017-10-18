@@ -1047,3 +1047,9 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Jonathan Arredondo](https://github.com/angelyonas)
+- Place: León, Guanajuato, México
+- Bio: Web developer
+- GitHub: [angelyonas](https://github.com/angelyonas)
+
