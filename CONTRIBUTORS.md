@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Samyak Jain](https://github.com/samyak-jain)
+- Place: Chennai, India
+- Bio: CSE Undergraduate
+- Github: [Samyak Jain](https://github.com/samyak-jain)
