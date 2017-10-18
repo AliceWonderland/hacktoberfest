@@ -14,6 +14,11 @@
 - Bio: Technology Enthusiast
 - GitHub: [George Fotopoulos](https://github.com/xorz57)
 
+#### Name: [PALASH GOEL](https://github.com/palashgoel7)
+- Place: Bangalore, India
+- Bio: Love to automate tasks. Loves python.
+- GitHub: [Palash Goel](https://github.com/palashg)
+
 #### Name: [Stephen Dzialo](https://github.com/dzials)
 - Place: USA
 - Bio: Computer Science Major
