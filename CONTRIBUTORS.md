@@ -441,6 +441,11 @@
 - Bio: I love designing beautiful websites. I also bike.
 - Github [Loreleen Mae Sablot] (https://github.com/loreleensablot)
 
+#### Name: [Glen Johnson](https://github.com/johnsonglent)
+- Place: Spokane, Washington, USA
+- Bio: Freedom Enthusist and open soure fan
+- GitHub: [GlenJohnson](https://github.com/johnsonglent)
+
 #### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
