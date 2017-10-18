@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [daniel-enriquez](https://github.com/daniel-enriquez)
+- Place: Leon, Guanajuato, Mexico
+- Bio: Software Engineer
+- GitHub: [daniel-enriquez](https://github.com/daniel-enriquez)
