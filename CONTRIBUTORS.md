@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [George Katsogiannis](https://github.com/Geokats)
+- Place: Athens, Greece
+- Bio: CS student / kinda weird-kinda interesting
+- GitHub: [Geokats](https://github.com/Geokats)
