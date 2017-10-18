@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Luke Taylor](https://github.com/Luke-Taylor)
+- Place: Manchester, England, UK
+- Bio: Drummer and Apprentice Software Developer
+- GitHub: [Luke Taylor](https://github.com/Luke-Taylor)
