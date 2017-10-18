@@ -6,7 +6,7 @@ Italy
 
 ### Academics
 
-I.T.I.S. Gerolamo Gatta, Campania, Italy
+I.T.I.S. Gerolamo Gatta, Campania, Italy  
 University soon...
 
 ### Interests
