@@ -38,6 +38,11 @@
 - Bio: Student
 - GitHub: [Michael Cao](https://github.com/mcao)
 
+#### Name: [Luis Villalba](https://github.com/mcao)
+- Place: Bogota, CO
+- Bio: Front End Engineer
+- GitHub: [Luis Villalba](https://github.com/luisvillalba)
+
 #### Name: [Amlaan Bhoi](https://github.com/amlaanb)
 - Place: IL, USA
 - Bio: CS Grad Student
