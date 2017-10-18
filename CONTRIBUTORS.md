@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Hamza Hamidi](https://github.com/hamzahamidi)
+- Place: France
+- Bio: Js Full Stack Developer
+- GitHub: [Hamza](https://github.com/hamzahamidi)
