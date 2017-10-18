@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Saad Syed Adeeb](https://github.com/saad1504)
+- Place: Karnataka,India
+- Bio: Computer Science Engineering student at HKBKCE
+- GitHub: [saad1504](https://github.com/saad1504)
