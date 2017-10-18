@@ -1042,3 +1042,9 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+
+### Name:  [Maxime Chareyron](https://github.com/[maximechareyron]
+- Place: Bordeaux, France
+- Bio: Engineering student in IT.
+- GitHub: [Maxime CHAREYRON](https://github.com/maximechareyron)
