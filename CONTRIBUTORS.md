@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Mark Schultz](https://github.com/zynk)
+- Place: Calgary, Alberta
+- Bio: IT Student at SAIT
+- GitHub: [Mark Schultz](https://github.com/zynk)
+
 #### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 - Place: Chicoutimi, QC, Canada
 - Bio: Full Stack Developer
