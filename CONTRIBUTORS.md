@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Felipe Pfeifer Rubin](https://github.com/felipe-rubin)
+- Place: Porto Alegre, Rio Grande do Sul, Brazil
+- Bio: Student of Computer Science from PUCRS
+- Github: [Felipe-Rubin](https://github.com/felipe-rubin)
