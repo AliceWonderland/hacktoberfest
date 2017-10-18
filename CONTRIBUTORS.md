@@ -1037,3 +1037,8 @@ Noida
 - Place: Sri Lanka
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
+
+### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
