@@ -1,8 +1,3 @@
-#### Name: [Calvin Cox](https://github.com/Aolyf)
-- Place: Conyers, GA, USA
-- Bio: google 'satyr atlanta'
-- GitHub: [aolyf](https://github.com/Aolyf)
-
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
@@ -243,6 +238,11 @@
 - Place: Dayton,OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
+
+#### Name: [Nefari0uss](https://github.com/nefari0uss)
+- Place: USA
+- Bio: Gamer, developer, and open source enthusiast!
+- Github: [Nefari0uss](https://github.com/nefari0uss)
 
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
