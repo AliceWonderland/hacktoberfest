@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Abdo Daoud](https://github.com/abdodaoud)
+- Place: Beirut, Lebanon
+- Bio: Android developer and stuff
+- GitHub: [Abdo Daoud](https://github.com/abdodaoud)
