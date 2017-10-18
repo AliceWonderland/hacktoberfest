@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [chickenjieb](https://github.com/chickenjieb)
+- Place: Bangkok, Thailand
+- Bio: Developer
+- Github: [chickenjieb](https://github.com/chickenjieb)
