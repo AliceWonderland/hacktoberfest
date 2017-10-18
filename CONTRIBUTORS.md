@@ -697,6 +697,36 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Alvin Abia](https://github.com/twist295)
+- Place: NY, USA
+- Bio: Lead Mobile Developer
+- Github: [Alvin Abia](https://github.com/twist295)
+
+### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Caio Calderari](https://github.com/caiocall)
+- Place: Campinas, São Paulo, Brazil
+- Bio: Designer
+- GitHub: [Caio Calderari](https://github.com/caiocall)
+
+#### Name: [Chashmeet Singh](https://github.com/chashmeetsingh)
+- Place: New Delhi, India
+- Bio: CS Student
+- GitHub: [Chashmeet Singh](https://github.com/chashmeetsingh)
+
+#### Name: [Aimee Tacchi](https://github.com/darkxangel84)
+- Place: England, UK
+- Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
+- GitHub: [darkxangel84](https://github.com/darkxangel84)
+
+#### Name: [Stuart Wares](https://github.com/StuWares)
+- Place: Tamworth, United Kingdom
+- Bio: Learning web development to help with a career change!
+- GitHub: [Stu Wares](https://github.com/StuWares)
+
 #### Name: [Aitor Alonso](https://github.com/tairosonloa)
 - Place: Madrid, Spain
 - Bio: Computer Science and Engineering BSc student at Carlos III University of Madrid
