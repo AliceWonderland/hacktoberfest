@@ -1024,7 +1024,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Andrea Colombo](https://github.com/acolombo25)
+- Place: Cesena, Italy
+- Bio: Computer Science and Software Engineering student at Università di Bologna
+- GitHub: [acolombo25](https://github.com/acolombo25)
