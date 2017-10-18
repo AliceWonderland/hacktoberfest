@@ -1,3 +1,8 @@
+#### Name: [Henri Idrovo](https://github.com/henriguy1210)
+- Place: Chicago, Illinois, USA
+- Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
+- Github: [Henri Idrovo](https://github.com/henriguy1210)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
