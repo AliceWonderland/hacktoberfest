@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Amandeep Singh](https://github.com/thisissingh)
+- Place:New Delhi, India
+- Bio: Computer Science Major
+- Github: [Amandeep Singh](https://github.com/thisissingh)
