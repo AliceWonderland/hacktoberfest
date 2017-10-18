@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Jill Cates](https://github.com/topspinj)
+ - Place: Canada
+ - Bio: I love data visualization, tennis & coffee...in no particular order.
+ - GitHub: [topspinj](https://github.com/topspinj)
