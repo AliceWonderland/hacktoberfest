@@ -1032,3 +1032,8 @@ Noida
 - Place: New Delhi, India
 - Bio: ECE Undergraduate at IIIT-Delhi
 - GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
+
+### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
