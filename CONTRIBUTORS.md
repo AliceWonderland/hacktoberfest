@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Harshit Sinha](https://github.com/sinhov)
+- Place: Pune, Maharashtra, India
+- Bio: A sith Lord.
+- GitHub: [Harshit Sinha](https://github.com/sinhov)
