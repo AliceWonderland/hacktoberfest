@@ -894,3 +894,8 @@
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
+### Name: [Arnav Kumar](https://github.com/arnavpisces)
+- Place: New Delhi, India
+- Bio: Computer Science Major
+- GitHub: [arnavpisces](https://github.com/arnavpisces)
