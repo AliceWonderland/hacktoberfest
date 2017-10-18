@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Klaudia K.](https://github.com/KalpiKK)
+- Place: Poland
+- Bio: IT Student at the University of Wroclaw
+- GitHub: [Klaudia K.](https://github.com/KalpiKK)
+
 #### Name: [Luiz Gustavo Mattos](https://github.com/mano0012)
 - Place: Brasil
 - Bio: Computer Science Student
