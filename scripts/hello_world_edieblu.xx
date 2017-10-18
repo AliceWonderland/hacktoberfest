@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Jvascript
+// AUTHOR: Edie Blu
+// GITHUB: https://github.com/edieblu/FreeCodeCamp
+
+console.log("Hello world!");
