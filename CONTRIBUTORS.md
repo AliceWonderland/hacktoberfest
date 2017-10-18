@@ -697,6 +697,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Aayush Sharma](https://github.com/aayusharma)
+- Place: Mandi, Himachal Pradesh, India
+- Bio: IITian
+- GitHub: [Aayush Sharma](https://github.com/aayusharma)
+
 #### Name: [Jonas Fabisiak](https://github.com/RenCloud)
 - Place: Hanover, Germany
 - Bio: IT Student
