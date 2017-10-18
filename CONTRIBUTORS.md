@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Jimmy Burgess](https://github.com/James-Burgess)
+- Place: Cape Town, South Africa
+- Bio: Self-Taught master of the universe
+- GitHub: [James-Burgess](https://github.com/James-Burgess)
