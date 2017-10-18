@@ -88,6 +88,11 @@
 - Bio: Web dev adn graphic designer
 - GitHub: [vinird](https://github.com/vinird)
 
+#### Name: [Greta Krafsig](https://github.com/design1online)
+- Place: Washington, DC
+- Bio: CEO of a game company that makes online games for girls
+- GitHub: [Design1Online](https://github.com/design1online)
+
 #### Name: [Evan Culver](https://github.com/eculver)
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
