@@ -849,3 +849,10 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Jacob Burrows](https://github.com/jacobthecool)
+- Place: Carbondale, IL
+- Bio: Student
+- Github: [jacobthecool](https://github.com/jacobthecool)
+
+
