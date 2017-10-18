@@ -1,3 +1,8 @@
+#### Name: [Gaege Root](https://gaege.xyz)
+- Place: San Diego, CA, USA
+- Bio: 👶 Father of 1 | 💻 Web Developer | 🐶 Dog Lover | 👾 Tech Educator | 🏎️ Car Enthusiast
+- GitHub: [GaegeRoot](https://github.com/GaegeRoot)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
