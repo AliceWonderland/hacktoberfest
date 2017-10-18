@@ -299,6 +299,13 @@
 - Bio:In love with the WEB,from age of 5!
 - Github:[Avinash Jaiswal](https://github.com/littlestar642)
 
+#### Name: [JoeBanks13](https://github.com/JoeBanks13)
+- Place: York, United Kingdom
+- Bio: Backend web developer
+- GitHub: [JoeBanks13](https://github.com/JoeBanks13)
+- Webpage: [josephbanks.me](https://josephbanks.me)
+- GitLab Server: [GitLab](https://gitlab.josephbanks.me/JoeBanks13)
+
 #### Name: [Alisson Vargas](https://github.com/alisson-mich)
 - Place: Torres, RS, Brazil
 - Bio: A guy who loves IT :D
