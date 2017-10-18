@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Ivan Shen](https://github.com/ivanshen)
+- Place: Toronto, Ontario
+- Bio: Student
+- GitHub: [ivanshen](https://github.com/ivanshen)
