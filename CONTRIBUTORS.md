@@ -389,6 +389,11 @@
 - Bio: 3rd Year CS undergrad at IIIT Hyderabad.
 - GitHub: [Noveen Sachdeva](https://github.com/noveens)
 
+#### Name: [Andres Vargas](https://jaavargasar.github.io/)
+- Place: Bogotá, Bogotá D.C, Colombia
+- Bio: Computer engineering student at the National University from Colombia.
+- GitHub: [Andres Vargas](https://github.com/jaavargasar)
+
 #### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
 - Place: Seattle, WA, USA
 - Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
