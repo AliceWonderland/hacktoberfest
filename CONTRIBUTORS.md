@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Patrick R](https://github.com/rotterp)
+- Place: Ulm, Baden Wuerttemberg, Germany
+- Bio: One month short to finish his thesis
+- GitHub: [rotterp](https://github.com/rotterp)
