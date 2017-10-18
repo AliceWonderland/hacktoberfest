@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [rhost](https://github.com/hostel)
+- Place: Tolyatti, Russia
+- Bio: Web Developer
+- GitHub: [hostel](https://github.com/hostel)
