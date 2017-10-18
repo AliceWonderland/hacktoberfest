@@ -1042,3 +1042,8 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+### Name: [Vladislav Srd](https://github.com/VladislavSrd)
+- Place: Ukraine
+- Bio: Full-Stack Web Developer
+- GitHub: [Vladislav Srd](https://github.com/VladislavSrd)
