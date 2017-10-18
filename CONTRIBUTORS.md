@@ -1047,3 +1047,9 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Stefan Niculae](https://github.com/stefan-niculae)
+- Place: Bucharest, Romania
+- Bio: Artificial Intelligence student and junior Data Scientist
+- GitHub: [Stefan Niculae](https://github.com/stefan-niculae)
+
