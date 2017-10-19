@@ -1,3 +1,8 @@
+#### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
+- Place: Kolea, Tipaza, Algeria
+- Bio: Fullstack Web developer, Computer Engineering Master student
+- GitHub: [faouziamrouche](https://github.com/faouziamrouche)
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
