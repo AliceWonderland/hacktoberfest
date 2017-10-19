@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Alisha Sonawalla](https://github.com/alishasonawalla)
+- Place: New York, USA
+- Bio: Just a student fascinated by technology
+- GitHub: [LukBukkit](https://github.com/alishasonawalla)
