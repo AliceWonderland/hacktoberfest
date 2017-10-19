@@ -14,6 +14,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
+-Place: New Haven, CT, USA
+-Bio: Web Developer
+-GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
