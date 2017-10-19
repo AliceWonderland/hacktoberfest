@@ -1049,7 +1049,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Nicolas Martinho](https://github.com/NicolasMartinho)
+- Place: Paris, France
+- Bio: Consultant @ OCTO
+- GitHub: [Nicolas Martinho](https://github.com/NicolasMartinho)
