@@ -1340,3 +1340,8 @@ Noida
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
+
+#### Name: [Ayush Aggarwal](https://github.com/aggarwal125ayush)
+- Place: Delhi, India
+- Bio: Data Scientist , Android Developer
+- Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
