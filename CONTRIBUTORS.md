@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Luis Manuel Jaquez Peña](https://github.com/LuisJaquez)
+- Place: Santiago de los Caballeros, Dominican Republic
+- Bio: Front-end dev.
+- GitHub: [LuisJaquez](https://github.com/LuisJaquez)
