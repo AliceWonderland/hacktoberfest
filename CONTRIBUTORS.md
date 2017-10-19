@@ -1108,10 +1108,10 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Sam S](https://github.com/samseah)
+#### Name: [Weilun](https://github.com/holah)
 - Place: Singapore
-- Bio: Computer Science Student
-- GitHub: [5am](https://github.com/samseah)
+- Bio: Engineer
+- GitHub: [Weilun](https://github.com/holah)
 
 #### Name: [Matteo Mensi](https://github.com/Snatched)
 - Place: Italy
