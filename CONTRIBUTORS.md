@@ -1,3 +1,8 @@
+#### Name: [AKOS KOVACS](https://github.com/plaidshirtakos)
+- Place: Budapest, Hungary
+- Bio: Computer Science Engineer
+- GitHub: [Akos Kovacs](https://github.com/plaidshirtakos)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
