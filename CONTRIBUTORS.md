@@ -1,3 +1,7 @@
+#### Name: [Dalton](https://github.com/stormBandit)
+- Place: Ontario, Canada
+- Bio: Software Engineer
+- GitHun: [Dalton](https://github.com/stormBandit)
 
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
