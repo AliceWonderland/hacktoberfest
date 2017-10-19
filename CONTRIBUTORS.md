@@ -1166,3 +1166,8 @@ Noida
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
+
+#### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
+- Place: Sao Bernardo do Campo, Sao Paulo, Brazil
+- Bio: loves computer+science , Full Stack Developer
+- GitHub: [Ocean](https://github.com/rafaelmilanibarbosa)
