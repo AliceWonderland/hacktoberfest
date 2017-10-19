@@ -1345,3 +1345,8 @@ Noida
 - Place: Delhi, India
 - Bio: Data Scientist , Android Developer
 - Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
+
+#### Name: [Margaret Kelley](https://github.com/mlouisekelley)
+- Place: USA
+- Bio: Cat lover
+- GitHub: [mlouisekelley](https://github.com/mlouisekelley)
