@@ -1108,10 +1108,10 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Carlos Lima](https://github.com/kakamg0)
-- Place: Belo Horizonte, Brasil
-- Bio: Full stack dev
-- GitHub: [Carlos Lima](https://github.com/kakamg0)
+#### Name: [Tomas Alejandro V. Falgui III](https://github.com/tomy8910)
+- Place: General Santos City, Philippines
+- Bio: High School Student / Developer
+- GitHub: [Tomas Alejandro V. Falgui III](https://github.com/tomy8910)
 
 #### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
 - place:pune , India
