@@ -714,6 +714,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Omar Mujahid](https://github.com/omarmjhd)
+- Place: Austin, Texas, USA
+- Bio: I write code, and play golf!
+- GitHub: [Omar Mujahid](https://github.com/omarmjhd)
+
 #### Name: [Kyle Johnson] (https://github.com/johnson90512)
 - Place: United States
 - Bio: Information System Administrator, former Information Systems student
