@@ -1112,3 +1112,37 @@ Noida
 - Place: Greater Noida, Uttar Pradesh, India
 - Bio: A high functioning geek, et cetera.
 - GitHub: [ankitrai96](https://github.com/ankitrai96)
+
+#### Name: [KUMAR AKSHAY](https://github.com/kakshay21)
+- Place: Indore, Madhya Pradesh, India
+- Bio: Electronics and Communication student.
+- GitHub: [Kumar Akshay](https://github.com/kakshay21)
+
+#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
+- Place: Mumbai, India
+- Bio: Full-Stack Development, Machine Learning and Having Fun!.
+- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
+
+### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [CAPS Padilla](https://github.com/CarlosPadilla)
+- Place: Jalisco, Mexico
+- Bio: A handsome guy with the best work ever
+
+#### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
+- Place: Hyderabad, India
+- Bio: iOS Developer
+- GitHub: [Aiman Abdullah Anees](https://github.com/aimananees)
+
+#### Name: [Andrea Zanin](https://github.com/ZaninAndrea)
+- Place: Trento, Italy
+- Bio: High School Student, passionate about math, coding and open source
+- Github: [ZaninAndrea](https://github.com/ZaninAndrea)
+
+#### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
+- place:pune , India
+- bio : loves computer+science , student
+- github: [venketsh bellale] (http://github.com/venkateshbellale)
