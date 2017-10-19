@@ -1149,6 +1149,12 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+
+#### Name: [Uğur Atmaca](https://github.com/uguratmaca)
+- Place: Ankara, Turkey
+- Bio: Fullstack Developer
+- GitHub: [Uğur Atmaca](https://github.com/uguratmaca)
+
 #### Name: [Konstantin](https://github.com/Kola50011)
 - Place: Wiener Neustadt, Austria
 - Bio: Computer Science Student
