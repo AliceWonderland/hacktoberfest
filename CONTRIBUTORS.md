@@ -1177,6 +1177,11 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
+#### Name: [Rohit Motwani](https://github.com/rohittm)
+- Place: Kanpur, India
+- Bio: Frontend Developer
+- GitHub: [rohittm](https://github.com/rohittm)
+
 #### Name: [Piotr](https://github.com/khorne55)
 - Place: Limerick, Ireland
 - Bio: Computer Engineering Student :) 
