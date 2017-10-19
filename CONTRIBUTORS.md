@@ -714,6 +714,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Pedro Mietto Bruini](https://github.com/bruini)
+- Place: Jundiaí, São Paulo, Brazil
+- Bio: Analyst/Developer Student at Fatec-Jd
+- GitHub: [Pedro Mietto Bruini](https://github.com/bruini)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
