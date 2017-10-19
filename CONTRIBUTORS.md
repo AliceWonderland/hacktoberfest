@@ -1,4 +1,4 @@
-#### Name: [Rene Israel](https://github.com/reneisrael)
+﻿#### Name: [Rene Israel](https://github.com/reneisrael)
 - Place: Mexico
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
@@ -1445,3 +1445,8 @@ Noida
 - Place: Singapore, Singapore
 - Bio: Young software developer.
 - GitHub: [techtide](https://github.com/techtide/)
+
+#### Name: [Tanner Lund](https://github.com/nylan17/)
+- Place: Seattle
+- Bio: Developer
+- GitHub: [Nylan17](https://github.com/nylan17/)
