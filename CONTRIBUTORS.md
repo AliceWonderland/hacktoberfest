@@ -714,6 +714,31 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
+- Place: Qom, Qom, Iran
+- Bio: back-end develoer and seo expert
+- GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
+- Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
+
+#### Name: [Pedro Mietto Bruini](https://github.com/bruini)
+- Place: Jundiaí, São Paulo, Brazil
+- Bio: Analyst/Developer Student at Fatec-Jd
+- GitHub: [Pedro Mietto Bruini](https://github.com/bruini)
+
+#### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
+- Place: Debrecen, Hungary
+- Bio: I'm a Developer / Music geek / Nature enthusiast
+- GitHub: [Nikolett Hegedüs](https://github.com/henikolett)
+
+#### Name: [Omar Mujahid](https://github.com/omarmjhd)
+- Place: Austin, Texas, USA
+- Bio: I write code, and play golf!
+- GitHub: [Omar Mujahid](https://github.com/omarmjhd)
+
+#### Name: [Kyle Johnson] (https://github.com/johnson90512)
+- Place: United States
+- Bio: Information System Administrator, former Information Systems student
+- GitHub: [Kyle Johnson] (https://github.com/johnson90512)
 #### Name: [Gilliano Menezes](https://github.com/gillianomenezes)
 - Place: Recife, Brazil
 - Bio: Software Engineer at www.neuroup.com.br
@@ -1052,3 +1077,34 @@ Noida
 - Place: Tampa, FL, USA
 - Bio: Scrum Master and passionate technologist.
 - GitHub: [kashura](https://github.com/kashura)
+
+#### Name: [Eric Briese](https://github.com/Atrolantra)
+- Place: Brisbane, Australia
+- Bio: Student studying LAw and IT. Currently working as a software engineer.
+- GitHub: [Atrolantra](https://github.com/Atrolantra)
+
+#### Name: [Ayushverma8](https://github.com/Ayushverma8)
+- Place: Indore, TN, IN
+- Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads, invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
+- GitHub: [Ayush](https://github.com/Ayushverma8)
+
+#### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
+- Place: Paris, France
+- Bio: Solution Architect @ Eleven-Labs
+- GitHub: [VEBERArnaud](https://github.com/VEBERArnaud)
+
+#### Name: [Dushyant Rathore](https://github.com/dushyantRathore)
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [dushyantRathore](https://github.com/dushyantRathore)
+
+#### Name: [Attila Blascsak](https://github.com/blascsi)
+- Place: Hungary
+- Bio: Front-end dev. Love React!
+- GitHub: [Attila Blascsak](https://github.com/blascsi)
+
+#### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
+- Place: Goiânia, Brasil
+- Bio: Computer Science Student
+- GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
