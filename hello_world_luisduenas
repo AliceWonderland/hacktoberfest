@@ -1,0 +1,7 @@
+// LANGUAGE: C#
+// ENV: .NET Core
+// AUTHOR: lduenas 
+// GITHUB: https://github.com/luisduenas
+
+
+Console.WriteLine("Hello World");

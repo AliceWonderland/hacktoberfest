@@ -1385,3 +1385,8 @@ Noida
 - Place: Dublin, Ireland
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
+
+#### Name: [Luis Duenas](https://github.com/LuisDuenas)
+- Place: Mexicali, Mexico
+- Bio: Software Developer, free shirts lover
+- GitHub: [Luis Duenas](https://github.com/LuisDuenas)
