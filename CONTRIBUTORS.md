@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [AMEH SAMUEL](https://github.com/propersam)
+- Place: Surulere, Lagos, Nigeria
+- Bio: I'm a graphics modeller and a programmer. I'm also a cisco certified Networker.
+- GitHub: [Ameh Samuel](https://github.com/propersam)
