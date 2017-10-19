@@ -8,6 +8,11 @@
 - Bio: Budding software developer, studying MSc Computing
 - GitHub: [thomas-booker](https://github.com/thomas-booker)
 
+#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)		
+ - Place: Tekirdağ, Turkey		
+ - Bio: Literally gamer, geek and viking.		
+ - GitHub: [turkerdotpy](https://github.com/turkerdotpy)		
+
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
 - Bio: Format atilir
