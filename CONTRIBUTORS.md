@@ -533,7 +533,7 @@
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
-- Github: [dhevi](https://github.com/dhevi) 
+- Github: [dhevi](https://github.com/dhevi)
 
 #### Name: [Martns90](https://github.com/martns90)
 - Place: The Gym
@@ -1385,3 +1385,8 @@ Noida
 - Place: Dublin, Ireland
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
+
+#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)
+- Place: Tekirdağ, Turkey
+- Bio: Literally gamer, geek and viking.
+- GitHub: [turkerdotpy](https://github.com/turkerdotpy)
