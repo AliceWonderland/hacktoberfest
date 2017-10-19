@@ -1,3 +1,8 @@
+#### Name: [ROB MUNN](https://github.com/Yossarian-nz)
+- Place: Menlo Park, CA
+- Bio: Neuroscience Postdoc
+- GitHub: [Robert Munn](https://github.com/Yossarian-nz)
+
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
 - Bio: Format atilir
