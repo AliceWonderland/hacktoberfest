@@ -1385,3 +1385,8 @@ Noida
 - Place: Dublin, Ireland
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
+
+#### Name: [Ana Perez](https://github.com/anacperez)
+- Place: King City, California, United States
+- Bio: Full-Stack developer, hiking, travel, art, photography
+- GitHub: [Ana Perez](https://github.com/anacperez)
