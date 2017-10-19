@@ -1,3 +1,8 @@
+#### Name: [VICTOR PIOLIN](https://github.com/vico1993)
+- Place: FRANCE
+- Bio: Open Source Lover, and trying some go :p 
+- GitHub: [Victor Piolin](https://github.com/vico1993)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
@@ -714,6 +719,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Lokesh Raj Arora](https://github.com/lokiiarora)
+- Place: Darjeeling, India
+- Bio: CS Student at SRM University, Full Stack Developer
+- Github: [Lokesh Raj Arora](https://github.com/lokiiarora)
+
 #### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Place: Qom, Qom, Iran
 - Bio: back-end develoer and seo expert
@@ -1162,10 +1172,30 @@ Noida
 - bio : loves computer+science , student
 - github: [venketsh bellale] (http://github.com/venkateshbellale)
 
+#### Name: [Keith VenHuizen](https://github.com/keithvenh/)
+- Place: Sioux Falls, South Dakota
+- Bio: Hi, I'm Keith. I love my family, playing board games, Chicago sports and problem solving!
+- GitHub: [Keith VenHuizen](https://github.com/keithvenh)
+
+#### Name：[ Eason Xuan ](https://github.com/timemahcine)
+- Place: City:Shao Xing, State:Zhe Jiang, Country:China
+- Bio: computer science student,front-end developer 
+- GitHub: [ Eason Xuan](https://github.com/timemahcine)
+
 #### Name: [Ocean](https://github.com/ocean0212)
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
+
+#### Name: [Rohit Motwani](https://github.com/rohittm)
+- Place: Kanpur, India
+- Bio: Frontend Developer
+- GitHub: [rohittm](https://github.com/rohittm)
+
+#### Name: [Piotr](https://github.com/khorne55)
+- Place: Limerick, Ireland
+- Bio: Computer Engineering Student :) 
+- GitHub: [khorne55](https://github.com/khorne55)
 
 #### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
 - Place: Sao Bernardo do Campo, Sao Paulo, Brazil
@@ -1200,3 +1230,12 @@ Noida
 - Place: Houston, TX, USA
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
+
+#### Name: [Skyler](https://github.com/huntleyreep)
+- Place: South Carolina
+- Bio: Computer Science Student / Free Code Camper
+- GitHub: [huntleyreep](https://github.com/huntleyreep)
+
+#### Name: [Steve K]
+- Place: Philadelphia, PA
+- Bio: Security Analyst
