@@ -1102,3 +1102,8 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Jesse Lyon](https://github.com/ProfessorNudelz)
+- Place: Melbourne, Australia
+- Bio: A student who enjoys writing code!
+- GitHub: [ProfessorNudelz](https://github.com/ProfessorNudelz)
