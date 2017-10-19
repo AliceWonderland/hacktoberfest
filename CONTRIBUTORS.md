@@ -1052,3 +1052,9 @@ Noida
 - Place: Brisbane, Australia
 - Bio: Student studying LAw and IT. Currently working as a software engineer.
 - GitHub: [Atrolantra](https://github.com/Atrolantra)
+
+#### Name: [Ayushverma8](https://github.com/Ayushverma8)
+- Place: Indore, TN, IN
+- Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads, invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
+- GitHub: [Ayush](https://github.com/Ayushverma8)
+
