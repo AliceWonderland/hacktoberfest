@@ -1,3 +1,8 @@
+#### Name: [Rene Israel](https://github.com/reneisrael)
+- Place: Mexico
+- Bio: En decadencia
+- GitHub: [Rene Israel](https://github.com/reneisrael)
+
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
 - Bio: Format atilir
@@ -533,7 +538,7 @@
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
-- Github: [dhevi](https://github.com/dhevi)
+- Github: [dhevi](https://github.com/dhevi) 
 
 #### Name: [Martns90](https://github.com/martns90)
 - Place: The Gym
@@ -1390,16 +1395,6 @@ Noida
 - Place: Dublin, Ireland
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
-
-### Name: [Peter Squicciarini](https://github.com/stripedpajamas)
-- Place: Charlotte, NC
-- Bio: Backend Engineer
-- Github: [Peter Squicciarini](https://github.com/stripedpajamas)
-
-#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)
-- Place: Tekirdağ, Turkey
-- Bio: Literally gamer, geek and viking.
-- GitHub: [turkerdotpy](https://github.com/turkerdotpy)
 
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
