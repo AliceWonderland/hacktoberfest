@@ -1,3 +1,7 @@
+#### Name: [Rubén Ortiz](https://github.com/rubenortiz)
+- Place: Asuncion, Paraguay
+- Bio: Web Developer, Bachelors in Computer Science
+- GitHub: [Rubén Ortiz](https://github.com/rubenortiz)
 
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
