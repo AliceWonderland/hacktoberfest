@@ -1385,3 +1385,8 @@ Noida
 - Place: Dublin, Ireland
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
+
+#### Name: [Tyler Williams](https://github.com/Tyler-Williams)
+- Place: Henderson, NV, USA
+- Bio: Front-end Developer
+- GitHub: [Tyler-Williams](https://github.com/Tyler-Williams)
