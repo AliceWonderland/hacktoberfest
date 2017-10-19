@@ -1113,3 +1113,26 @@ Noida
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
 - GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
+### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [CAPS Padilla](https://github.com/CarlosPadilla)
+- Place: Jalisco, Mexico
+- Bio: A handsome guy with the best work ever
+
+#### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
+- Place: Hyderabad, India
+- Bio: iOS Developer
+- GitHub: [Aiman Abdullah Anees](https://github.com/aimananees)
+
+#### Name: [Andrea Zanin](https://github.com/ZaninAndrea)
+- Place: Trento, Italy
+- Bio: High School Student, passionate about math, coding and open source
+- Github: [ZaninAndrea](https://github.com/ZaninAndrea)
+
+#### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
+- place:pune , India
+- bio : loves computer+science , student
+- github: [venketsh bellale] (http://github.com/venkateshbellale)
