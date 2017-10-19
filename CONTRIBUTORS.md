@@ -1108,3 +1108,8 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
+- Place: Vienna, Austria
+- Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games. 
+- GitHub: [flipace](https://github.com/flipace)
+
