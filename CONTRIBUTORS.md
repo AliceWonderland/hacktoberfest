@@ -1049,7 +1049,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1108,6 +1108,26 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Weilun](https://github.com/holah)
+- Place: Singapore
+- Bio: Engineer
+- GitHub: [Weilun](https://github.com/holah)
+
+#### Name: [Matteo Mensi](https://github.com/Snatched)
+- Place: Italy
+- Bio: Chemical Engineering student. C++ developer. I (try to) make high-performance computational programs to help with scientific research.
+- GitHub: [Snatched](https://github.com/Snatched)
+
+#### Name: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
+- Place: Kyiv, Ukraine
+- Bio: Python Dev
+- GitHub: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
+
+#### Name: [Jeremy](https://github.com/jremeh)
+- Place: KL, Malaysia
+- Bio: Applied Math with Computing Student
+- GitHub: [Jeremy](https://github.com/jremeh)
+
 #### Name: [KUMAR AKSHAY](https://github.com/kakshay21)
 - Place: Indore, Madhya Pradesh, India
 - Bio: Electronics and Communication student.
@@ -1146,3 +1166,47 @@ Noida
 - Place: Sioux Falls, South Dakota
 - Bio: Hi, I'm Keith. I love my family, playing board games, Chicago sports and problem solving!
 - GitHub: [Keith VenHuizen](https://github.com/keithvenh)
+
+#### Name：[ Eason Xuan ](https://github.com/timemahcine)
+- Place: City:Shao Xing, State:Zhe Jiang, Country:China
+- Bio: computer science student,front-end developer 
+- GitHub: [ Eason Xuan](https://github.com/timemahcine)
+
+#### Name: [Ocean](https://github.com/ocean0212)
+- Place: Henan, China
+- Bio: Chinese food :heart_eyes:
+- GitHub: [Ocean](https://github.com/ocean0212)
+
+#### Name: [Piotr](https://github.com/khorne55)
+- Place: Limerick, Ireland
+- Bio: Computer Engineering Student :) 
+- GitHub: [khorne55](https://github.com/khorne55)
+
+#### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
+- Place: Sao Bernardo do Campo, Sao Paulo, Brazil
+- Bio: loves computer+science , Full Stack Developer
+- GitHub: [Ocean](https://github.com/rafaelmilanibarbosa)
+
+#### Name: [Eric Wolfe](https://github.com/erwolfe)
+- Place: Edwardsville, IL, USA
+- Bio: Programmer, Audiophile, Gamer
+- GitHub: [Eric Wolfe](https://github.com/erwolfe)
+
+#### Name: [Francis](https://github.com/borbefg)
+- Place: Quezon City, PH
+- Bio: Fueled by :coffee:
+- GitHub: [Francis](https://github.com/borbefg)
+
+#### Name: [Gowtham](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Loves Data science
+
+### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Hussain Calcuttawala](https://github.com/hussainbadri21)
+- Place: Bengaluru, India
+- Bio: Android Developer, Student, Foodie
+- GitHub: [hussainbadri21](https://github.com/hussainbadri21)
