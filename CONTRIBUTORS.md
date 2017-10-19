@@ -8,10 +8,11 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
-#### Name: [Dalton](https://github.com/stormBandit)		
- - Place: Ontario, Canada		
- - Bio: Software Engineer		
- - GitHun: [Dalton](https://github.com/stormBandit)		
+#### Name: [Dalton](https://github.com/stormBandit)
+ - Place: Ontario, Canada
+ - Bio: Software Engineer
+ - GitHun: [Dalton](https://github.com/stormBandit)
+
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -1149,12 +1150,6 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-
-#### Name: [Uğur Atmaca](https://github.com/uguratmaca)
-- Place: Ankara, Turkey
-- Bio: Fullstack Developer
-- GitHub: [Uğur Atmaca](https://github.com/uguratmaca)
-
 #### Name: [Konstantin](https://github.com/Kola50011)
 - Place: Wiener Neustadt, Austria
 - Bio: Computer Science Student
@@ -1346,11 +1341,6 @@ Noida
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
-#### Name: [Ryan Sperzel](https://github.com/ryansperzel)
-- Place: NYC, New York, USA
-- Bio: Recent college grad attending Flatiron School coding bootcamp
-- GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
-
 #### Name: [Thomas Lee](https://github.com/pbzweihander)
 - Place: Seoul, Republic of Korea
 - Bio: College student
@@ -1365,3 +1355,8 @@ Noida
 - Place: USA
 - Bio: Cat lover
 - GitHub: [mlouisekelley](https://github.com/mlouisekelley)
+
+#### Name: [Alfred Richards](https://github.com/alfredrichards)
+- Place: India
+- Bio: I love computers <3
+- GitHub: [alfredrichards](https://github.com/alfredrichards)
