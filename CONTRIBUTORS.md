@@ -1445,3 +1445,8 @@ Noida
 - Place: Singapore, Singapore
 - Bio: Young software developer.
 - GitHub: [techtide](https://github.com/techtide/)
+
+#### Name: [Raymond Duckworth](https://github.com/raymondxduckworth/)
+- Place: California, USA
+- Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
+- GitHub: [Raymond Duckworth](https://github.com/raymondxduckworth/)
