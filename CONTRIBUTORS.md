@@ -1239,3 +1239,8 @@ Noida
 #### Name: [Steve K]
 - Place: Philadelphia, PA
 - Bio: Security Analyst
+
+#### Name: [Luiz Devitte](https://github.com/LuizDevitte)
+- Place: Sao Paulo, Brazil
+- Bio: BSc in Medical Physics in the world of Programming
+- GitHub: [LuizDevitte](https://github.com/LuizDevitte)
