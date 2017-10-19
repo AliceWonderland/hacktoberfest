@@ -1049,7 +1049,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1171,3 +1171,8 @@ Noida
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
 - GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Hussain Calcuttawala](https://github.com/hussainbadri21)
+- Place: Bengaluru, India
+- Bio: Android Developer, Student, Foodie
+- GitHub: [hussainbadri21](https://github.com/hussainbadri21)
