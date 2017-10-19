@@ -1,3 +1,8 @@
+#### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
+- Place: Kolea, Tipaza, Algeria
+- Bio: Fullstack Web developer, Computer Engineering Master student
+- GitHub: [faouziamrouche](https://github.com/faouziamrouche)
+
 ﻿#### Name: [Rene Israel](https://github.com/reneisrael)
 - Place: Mexico
 - Bio: En decadencia
