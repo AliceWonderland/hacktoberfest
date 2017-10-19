@@ -8,11 +8,11 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
-#### Name: [Dalton](https://github.com/stormBandit)		
- - Place: Ontario, Canada		
- - Bio: Software Engineer		
- - GitHun: [Dalton](https://github.com/stormBandit)		
-  
+#### Name: [Dalton](https://github.com/stormBandit)
+ - Place: Ontario, Canada
+ - Bio: Software Engineer
+ - GitHun: [Dalton](https://github.com/stormBandit)
+
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -1167,7 +1167,7 @@ Noida
 
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
-- Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games. 
+- Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
 - GitHub: [flipace](https://github.com/flipace)
 
 #### Name: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
@@ -1340,6 +1340,11 @@ Noida
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
+
+#### Name: [Thomas Lee](https://github.com/pbzweihander)
+- Place: Seoul, Republic of Korea
+- Bio: College student
+- GitHub: [Thomas Lee](https://github.com/pbzweihander)
 
 #### Name: [Ayush Aggarwal](https://github.com/aggarwal125ayush)
 - Place: Delhi, India
