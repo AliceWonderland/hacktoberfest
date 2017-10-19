@@ -239,6 +239,11 @@
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
 
+#### Name: [Nefari0uss](https://github.com/nefari0uss)
+- Place: USA
+- Bio: Gamer, developer, and open source enthusiast!
+- Github: [Nefari0uss](https://github.com/nefari0uss)
+
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
@@ -294,10 +299,22 @@
 - Bio:In love with the WEB,from age of 5!
 - Github:[Avinash Jaiswal](https://github.com/littlestar642)
 
+#### Name: [JoeBanks13](https://github.com/JoeBanks13)
+- Place: York, United Kingdom
+- Bio: Backend web developer
+- GitHub: [JoeBanks13](https://github.com/JoeBanks13)
+- Webpage: [josephbanks.me](https://josephbanks.me)
+- GitLab Server: [GitLab](https://gitlab.josephbanks.me/JoeBanks13)
+
 #### Name: [Alisson Vargas](https://github.com/alisson-mich)
 - Place: Torres, RS, Brazil
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
+
+#### Name: [Mat.](https://github.com/pudkipz)
+- Place: Stockholm, Sweden
+- Bio: Random Swedish student.
+- GitHub: [Mat.](https://github.com/pudkipz)
 
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
@@ -697,10 +714,75 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
-#### Name: [Dushyant Rathore](https://github.com/dushyantRathore)
+#### Name: [Gilliano Menezes](https://github.com/gillianomenezes)
+- Place: Recife, Brazil
+- Bio: Software Engineer at www.neuroup.com.br
+- GitHub: [Gilliano Menezes](https://github.com/gillianomenezes)
+
+#### Name: [Luís Antonio Prado Lança](https://github.com/luisslanca)
+- Place: Jundiaí, São Paulo, Brazil
+- Bio: I'm a student in Fatec Jundiaí and Web Developer.
+- GitHub: [Luís Antonio Prado Lança](https://github.com/luisslanca)
+
+#### Name: [Anish Bhardwaj](https://github.com/bhardwajanish)
 - Place: New Delhi, India
-- Bio: Student
-- GitHub: [dushyantRathore](https://github.com/dushyantRathore)
+- Bio: CSD IIITD
+- GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
+
+#### Name: [Ankur Sharma](https://github.com/ankurs287)
+- Place: New Delhi, India
+- Bio: CSAM, IIITD
+- GitHub: [Ankur Sharma](https://github.com/ankurs287)
+
+#### Name: [Siddhant Verma](https://github.com/siddver007)
+- Place: Delhi, India
+- Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
+- GitHub: [Siddhant Verma](https://github.com/siddver007)
+
+#### Name: [Cody Williams](https://github.com/codyw9524)
+- Place: Dallas, Texas, USA
+- Bio: Web Nerd
+- GitHub: [Cody Williams](https://github.com/codyw9524)
+
+#### Name: [Aayush Sharma](https://github.com/aayusharma)
+- Place: Mandi, Himachal Pradesh, India
+- Bio: IITian
+- GitHub: [Aayush Sharma](https://github.com/aayusharma)
+
+#### Name: [Jonas Fabisiak](https://github.com/RenCloud)
+- Place: Hanover, Germany
+- Bio: IT Student
+- GitHub: [Jonas Fabisiak](https://github.com/RenCloud)
+
+#### Name: [Mark Schultz](https://github.com/zynk)
+- Place: Calgary, Alberta
+- Bio: IT Student at SAIT
+- GitHub: [Mark Schultz](https://github.com/zynk)
+
+#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
+- Place: Chicoutimi, QC, Canada
+- Bio: Full Stack Developer
+- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
+
+### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Klaudia K.](https://github.com/KalpiKK)
+- Place: Poland
+- Bio: IT Student at the University of Wroclaw
+- GitHub: [Klaudia K.](https://github.com/KalpiKK)
+
+#### Name: [Luiz Gustavo Mattos](https://github.com/mano0012)
+- Place: Brasil
+- Bio: Computer Science Student
+- Github: [Luiz Matos](https://github.com/mano0012)
+
+#### Name: [Jeppe Ernst](https://github.com/Ern-st)
+- Place: 🇩🇰
+- Bio: fullstack/devops/security unicorn 🦄
+- GitHub: [Jeppe Ernst](https://github.com/Ern-st)
 
 #### Name: [Sergey Gorky](https://github.com/sergeygorky)
 - Place: Ukraine
@@ -939,3 +1021,49 @@
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
+
+#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
+- Place: New Delhi, India
+- Bio: Computer Science Engineering student at Amity University 
+Noida
+-Github: [Manas kashyap](https://github.com/Manas-kashyap)
+
+#### Name: [Daksh Chaturvedi](https://github.com/daksh249)
+- Place: New Delhi, India
+- Bio: ECE Undergraduate at IIIT-Delhi
+- GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
+
+#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
+- Place: Sri Lanka
+- Bio: Undergraduate
+- GitHub: [Shanaka95](https://github.com/shanaka95)
+
+### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Lukas A](https://github.com/lukbukkit)
+- Place: Kassel, Hesse, Germany
+- Bio: Student on his way to the Abitur
+- GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Eric Briese](https://github.com/Atrolantra)
+- Place: Brisbane, Australia
+- Bio: Student studying LAw and IT. Currently working as a software engineer.
+- GitHub: [Atrolantra](https://github.com/Atrolantra)
+
+#### Name: [Ayushverma8](https://github.com/Ayushverma8)
+- Place: Indore, TN, IN
+- Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads, invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
+- GitHub: [Ayush](https://github.com/Ayushverma8)
+
+#### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
+- Place: Paris, France
+- Bio: Solution Architect @ Eleven-Labs
+- GitHub: [VEBERArnaud](https://github.com/VEBERArnaud)
+
+#### Name: [Dushyant Rathore](https://github.com/dushyantRathore)
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [dushyantRathore](https://github.com/dushyantRathore)
