@@ -1102,3 +1102,8 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Martin Vandersteen](https://github.com/MartinVandersteen)
+- Place: Mont-Saint-Guibert, Belgium
+- Bio: Backend developer (Laravel/NodeJS) at Koalect
+- GitHub: [Martin Vandersteen](https://github.com/MartinVandersteen)
