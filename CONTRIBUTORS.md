@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Mark John C. Moreno](https://github.com/phakk)
+- Place: Makati City, Philippines
+- Bio: Java Software Engineer, aspiring Data Scientist
+- GitHub: [Mark John C. Moreno](https://github.com/phakk)
