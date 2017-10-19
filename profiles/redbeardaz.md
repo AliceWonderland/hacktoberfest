@@ -1,6 +1,22 @@
-RedbeardAZ (Branden)
+# Your Name
+Branden (RedbeardAZ)
+
+### Location
+
+Arizona/United States
+
+### Academics
+
+Arizona State
+
+### Interests
+
+Excited for Halloween! Love decorating.
+
+### Profession
 
 Customer Success Manager @ Spreedly
 
-Living in Phoenix, AZ hoping to make the move to Durham, NC.
+### Profile Link
 
+[RedbeardAZ] (https://github.com/redbeardaz)
