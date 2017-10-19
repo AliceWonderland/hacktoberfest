@@ -719,6 +719,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Lokesh Raj Arora](https://github.com/lokiiarora)
+- Place: Darjeeling, India
+- Bio: CS Student at SRM University, Full Stack Developer
+- Github: [Lokesh Raj Arora](https://github.com/lokiiarora)
+
 #### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Place: Qom, Qom, Iran
 - Bio: back-end develoer and seo expert
@@ -1225,3 +1230,7 @@ Noida
 - Place: South Carolina
 - Bio: Computer Science Student / Free Code Camper
 - GitHub: [huntleyreep](https://github.com/huntleyreep)
+
+#### Name: [Steve K]
+- Place: Philadelphia, PA
+- Bio: Security Analyst
