@@ -1167,6 +1167,11 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
+### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
 #### Name: [Hussain Calcuttawala](https://github.com/hussainbadri21)
 - Place: Bengaluru, India
 - Bio: Android Developer, Student, Foodie
