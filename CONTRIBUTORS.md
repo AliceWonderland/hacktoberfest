@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Rune Moskvil Lyngås](https://github.com/runely)
+- Place: Norway
+- Bio: IT consultant
+- GitHub: [Rune Moskvil Lyngås](https://github.com/runely)
