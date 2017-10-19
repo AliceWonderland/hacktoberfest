@@ -4,6 +4,12 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
+#### Name: [Dalton](https://github.com/stormBandit)		
+ - Place: Ontario, Canada		
+ - Bio: Software Engineer		
+ - GitHun: [Dalton](https://github.com/stormBandit)		
+  
+
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
 - Bio: Open Source Lover, and trying some go :p
