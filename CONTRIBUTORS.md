@@ -1102,3 +1102,8 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Jonathan Mendoza](GitHub Link)
+- Place: Edinburgh UK
+- Bio: Undergraduate Computer Science student at Heriot-Watt University.
+- GitHub: [ichbinjon](https://github.com/ichbinjon)
