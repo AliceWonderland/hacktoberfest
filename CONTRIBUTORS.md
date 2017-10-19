@@ -1078,6 +1078,12 @@
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Pablo Andrés Dorado Suárez](https://github.com/pandres95)
+- Place: Bogotá, CO
+- Bio: Systems Eng. Student at UN Colombia / Software Developer
+- Github: [pandres95](https://github.com/pandres95)
+- Website: [Personal Website](https://pandres95.me) / [Blog](https://pandres95.me/blog)
+
 #### Name: [Fernando Contreras](https://github.com/fercreek)
 - Place: Nuevo Leon, Mexico
 - Bio: Software Engineer
