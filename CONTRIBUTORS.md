@@ -1167,10 +1167,10 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
-#### Name: [Michael Pimentel Jr](https://github.com/mtpjr88)
-- Place: Ripon, California, US
-- Bio: Web Developer.
-- GitHub: [Michael Pimentel Jr](https://github.com/mtpjr88)
+#### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
+- Place: Sao Bernardo do Campo, Sao Paulo, Brazil
+- Bio: loves computer+science , Full Stack Developer
+- GitHub: [Ocean](https://github.com/rafaelmilanibarbosa)
 
 #### Name: [Eric Wolfe](https://github.com/erwolfe)
 - Place: Edwardsville, IL, USA
@@ -1195,4 +1195,3 @@ Noida
 - Place: Bengaluru, India
 - Bio: Android Developer, Student, Foodie
 - GitHub: [hussainbadri21](https://github.com/hussainbadri21)
-
