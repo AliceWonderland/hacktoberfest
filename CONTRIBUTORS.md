@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Gilda Griffon](https://github.com/GildaGriffon)
+- Place: Barcelona, Spain
+- Bio: Cybersecurity Manager
+- GitHub: [GildaGriffon](https://github.com/GildaGriffon)
