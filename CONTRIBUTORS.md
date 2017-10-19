@@ -1322,3 +1322,8 @@ Noida
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
+
+#### Name: [Zoe Kafkes](https://github.com/zkafkes)
+- Place: Atlanta, Georgia USA
+- Bio: caffeinated and curious
+- GitHub: [zkafkes](https://github.com/zkafkes)
