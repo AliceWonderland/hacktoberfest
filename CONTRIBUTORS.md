@@ -1167,6 +1167,6 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
-#### Name: [Gowtham R](https://github.com/gowtham1997)
+#### Name: [Gowtham](https://github.com/gowtham1997)
 - Place: Chennai
-- Bio: Love Data science and Web development
+- Bio: Loves Data science
