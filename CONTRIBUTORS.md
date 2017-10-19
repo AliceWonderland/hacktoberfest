@@ -1195,3 +1195,8 @@ Noida
 - Place: Bengaluru, India
 - Bio: Android Developer, Student, Foodie
 - GitHub: [hussainbadri21](https://github.com/hussainbadri21)
+
+#### Name: [Ahmad Thames](https://github.com/ahmadthames)
+- Place: Houston, TX, USA
+- Bio: UX Engineer, Traveler, Plant-Based Foodie
+- GitHub: [ahmadthames](https://github.com/ahmadthames)
