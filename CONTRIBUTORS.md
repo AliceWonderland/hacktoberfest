@@ -1430,3 +1430,8 @@ Noida
 - Place: Ica, Perú
 - Bio: Software developer and musician
 - GitHub: [Moisés Ñañez](https://github.com/moisesnandres)
+
+#### Name: [Joe Hanson](https://github.com/jahanson)
+- Place: San Antonio, TX, United States
+- Bio: Front-End Developer
+- GitHub: [Joe Hanson](https://github.com/jahanson)
