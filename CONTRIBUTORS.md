@@ -4,6 +4,12 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
+#### Name: [Dalton](https://github.com/stormBandit)		
+ - Place: Ontario, Canada		
+ - Bio: Software Engineer		
+ - GitHun: [Dalton](https://github.com/stormBandit)		
+  
+
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
 - Bio: Open Source Lover, and trying some go :p
@@ -1145,6 +1151,16 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Ankit Rai](https://github.com/ankitrai96)
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: A high functioning geek, et cetera.
+- GitHub: [ankitrai96](https://github.com/ankitrai96)
+
+#### Name: [Tiago Severino](https://github.com/TiagoSeverino)
+- Place: Lisbon, Portugal
+- Bio: I code for fun!
+- GitHub: [TiagoSeverino](https://github.com/TiagoSeverino)
 
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
