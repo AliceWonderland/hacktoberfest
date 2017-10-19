@@ -1391,6 +1391,11 @@ Noida
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
 
+### Name: [Peter Squicciarini](https://github.com/stripedpajamas)
+- Place: Charlotte, NC
+- Bio: Backend Engineer
+- Github: [Peter Squicciarini](https://github.com/stripedpajamas)
+
 #### Name: [Türker Yıldırım](https://github.com/turkerdotpy)
 - Place: Tekirdağ, Turkey
 - Bio: Literally gamer, geek and viking.
