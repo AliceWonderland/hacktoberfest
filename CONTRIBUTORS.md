@@ -1312,6 +1312,16 @@ Noida
 - Bio: I'm a german developer who loves to create things :)
 - GitHub: [iamchrishckns](https://github.com/iamchrishckns)
 
+#### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
+- Place: Pune, India
+- Bio: Metalhead law student who loves hardware and code
+- GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
+
+#### Name: [Claire Tan](https://github.com/tab8748)
+- Place: Vancouver, British Columbia, Canada
+- Bio: Senior Business student. Coding freshman.
+- GitHub: [tab8748](https://github.com/tab8748)
+
 #### Name: [Gareth Davies](https://github.com/gareth-d85)
 - Place: UK
 - Bio: Future Developer and Free code camp local group leader
@@ -1321,4 +1331,3 @@ Noida
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
-
