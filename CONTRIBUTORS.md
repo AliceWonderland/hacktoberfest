@@ -1,8 +1,3 @@
-#### Name: [Zak Lezaja](https://github.com/zaklezaja)
-- Place: UK
-- Bio: Computer science undergraduate 
-- Github: [Zak Lezaja](https://github.com/zaklezaja)
-
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
 - Bio: Format atilir
@@ -13,11 +8,10 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
-#### Name: [Dalton](https://github.com/stormBandit)
- - Place: Ontario, Canada
- - Bio: Software Engineer
- - GitHun: [Dalton](https://github.com/stormBandit)
-
+#### Name: [Dalton](https://github.com/stormBandit)		
+ - Place: Ontario, Canada		
+ - Bio: Software Engineer		
+ - GitHun: [Dalton](https://github.com/stormBandit)		
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -1346,6 +1340,11 @@ Noida
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
+#### Name: [Ryan Sperzel](https://github.com/ryansperzel)
+- Place: NYC, New York, USA
+- Bio: Recent college grad attending Flatiron School coding bootcamp
+- GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
+
 #### Name: [Thomas Lee](https://github.com/pbzweihander)
 - Place: Seoul, Republic of Korea
 - Bio: College student
@@ -1361,7 +1360,7 @@ Noida
 - Bio: Cat lover
 - GitHub: [mlouisekelley](https://github.com/mlouisekelley)
 
-#### Name: [Alfred Richards](https://github.com/alfredrichards)
-- Place: India
-- Bio: I love computers <3
-- GitHub: [alfredrichards](https://github.com/alfredrichards)
+#### Name: [Simon Volpert](https://github.com/vol-pi)
+- Place: Ulm, Germany
+- Bio: DevOps, Hiking, Photography
+- GitHub: [vol-pi](https://github.com/vol-pi)
