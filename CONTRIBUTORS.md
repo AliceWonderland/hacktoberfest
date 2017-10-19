@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Dario Durando](https://github.com/ddurando)
+- Place: Padua, Italy
+- Bio: AV analyst
+- GitHub: [ddurando](https://github.com/ddurando)
