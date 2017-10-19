@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Andrea Zanin](https://github.com/ZaninAndrea)
+- Place: Trento, Italy
+- Bio: High School Student, passionate about math, coding and open source
+- Github: [ZaninAndrea](https://github.com/ZaninAndrea)
