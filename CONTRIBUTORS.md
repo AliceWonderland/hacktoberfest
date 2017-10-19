@@ -1072,3 +1072,8 @@ Noida
 - Place: Hungary
 - Bio: Front-end dev. Love React!
 - GitHub: [Attila Blascsak](https://github.com/blascsi)
+
+#### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
+- Place: Goiânia, Brasil
+- Bio: Computer Science Student
+- GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
