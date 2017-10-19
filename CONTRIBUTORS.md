@@ -12,7 +12,7 @@
  - Place: Ontario, Canada		
  - Bio: Software Engineer		
  - GitHun: [Dalton](https://github.com/stormBandit)		
-  
+
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -1167,7 +1167,7 @@ Noida
 
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
-- Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games. 
+- Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
 - GitHub: [flipace](https://github.com/flipace)
 
 #### Name: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
@@ -1340,3 +1340,8 @@ Noida
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
+
+#### Name: [Ryan Sperzel](https://github.com/ryansperzel)
+- Place: NYC, New York, USA
+- Bio: Recent college grad attending Flatiron School coding bootcamp
+- GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
