@@ -1,5 +1,5 @@
 // LANGUAGE: C#
-// AUTHOR: [skyrol](https://github.com/skyrol)
+// AUTHOR: Francisc Furdui (https://github.com/skyrol)
  
 using System; 
 namespace HelloWorld 
