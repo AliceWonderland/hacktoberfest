@@ -10,7 +10,7 @@ I published some modules to work with React and Electron:
 - [yeoman generator react electron](https://github.com/ZaninAndrea/generator-react-electron): fully fledged yeoman generator to create an electron+react app with automatic update delivery, sass, hot reloading,...
 
 ## Peer-teaching you say?
-I only recently started publishing tutorials online, also because of a bit of self-consciousness about my english (I am from Italy <3). Still I have created a minicourse on [functional programming in JS](https://tech.io/playgrounds/2980/practical-introduction-to-functional-programming-with-js/pure-functions).
+I only recently started publishing tutorials online, also because of a bit of self-consciousness about my english (I am from Italy <3). Still I have created a minicourse on [functional programming in JS](https://tech.io/playgrounds/2980/practical-introduction-to-functional-programming-with-js/pure-functions).  
 More stuff coming soon on Medium ;)
 
 ## Contact me
