@@ -533,7 +533,7 @@
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
-- Github: [dhevi](https://github.com/dhevi) 
+- Github: [dhevi](https://github.com/dhevi)
 
 #### Name: [Martns90](https://github.com/martns90)
 - Place: The Gym
@@ -1160,6 +1160,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name:[Roi Ben - Shaul](https://github.com/rughciatuk)
+- Place: israel
+- Bio: Android developer
+- GitHub: [Roi Ben - Shaul](https://github.com/rughciatuk)
+
 #### Name: [Konstantin](https://github.com/Kola50011)
 - Place: Wiener Neustadt, Austria
 - Bio: Computer Science Student
@@ -1391,3 +1396,27 @@ Noida
 - Bio: Backend Engineer
 - Github: [Peter Squicciarini](https://github.com/stripedpajamas)
 
+#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)
+- Place: Tekirdağ, Turkey
+- Bio: Literally gamer, geek and viking.
+- GitHub: [turkerdotpy](https://github.com/turkerdotpy)
+
+#### Name: [Tyler Williams](https://github.com/Tyler-Williams)
+- Place: Henderson, NV, USA
+- Bio: Front-end Developer
+- GitHub: [Tyler-Williams](https://github.com/Tyler-Williams)
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/itepifanio) 
+
+#### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Computer Science student at Puc-Mg ,Music lover
+- GitHub: [OttoWBitt] (https://github.com/OttoWBitt)
+
+#### Name: [Ana Perez](https://github.com/anacperez)
+- Place: King City, California, United States
+- Bio: Full-Stack developer, hiking, travel, art, photography
+- GitHub: [Ana Perez](https://github.com/anacperez)
