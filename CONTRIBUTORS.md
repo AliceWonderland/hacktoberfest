@@ -1102,3 +1102,8 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Ankit Chhetri](https://github.com/ankitch)
+- Place: Kathmandu, Nepal
+- Bio: Backend Developement | Snake Charmer | Student
+- GitHub: [Ankit Chhetri](https://github.com/ankitch)
