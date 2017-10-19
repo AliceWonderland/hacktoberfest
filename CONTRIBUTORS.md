@@ -1108,6 +1108,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [KUMAR AKSHAY](https://github.com/kakshay21)
+- Place: Indore, Madhya Pradesh, India
+- Bio: Electronics and Communication student.
+- GitHub: [Kumar Akshay](https://github.com/kakshay21)
+
 #### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 - Place: Mumbai, India
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
