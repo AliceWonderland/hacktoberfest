@@ -1,4 +1,4 @@
-#### Name: [Rene Israel](https://github.com/reneisrael)
+﻿#### Name: [Rene Israel](https://github.com/reneisrael)
 - Place: Mexico
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
@@ -1450,3 +1450,8 @@ Noida
 - Place: California, USA
 - Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
 - GitHub: [Raymond Duckworth](https://github.com/raymondxduckworth/)
+
+#### Name: [Tanner Lund](https://github.com/nylan17/)
+- Place: Seattle
+- Bio: Developer
+- GitHub: [Nylan17](https://github.com/nylan17/)
