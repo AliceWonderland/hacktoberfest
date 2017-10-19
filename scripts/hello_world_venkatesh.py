@@ -12,4 +12,8 @@
 """
 #hello world
 
-print "hello world"
+def hello():
+    say = "hello,world"
+    print say
+
+print hello()
