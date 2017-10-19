@@ -1,3 +1,7 @@
+#### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
+- Place: Ankara
+- Bio: Format atilir
+- GitHub: [Oguzcan Emegil](https://github.com/oemegil)
 
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
@@ -1146,6 +1150,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Konstantin](https://github.com/Kola50011)
+- Place: Wiener Neustadt, Austria
+- Bio: Computer Science Student
+- GitHub: [Konstantin](https://github.com/Kola50011)
+
 #### Name: [Ankit Rai](https://github.com/ankitrai96)
 - Place: Greater Noida, Uttar Pradesh, India
 - Bio: A high functioning geek, et cetera.
@@ -1337,3 +1346,7 @@ Noida
 - Bio: College student
 - GitHub: [Thomas Lee](https://github.com/pbzweihander)
 
+#### Name: [Ayush Aggarwal](https://github.com/aggarwal125ayush)
+- Place: Delhi, India
+- Bio: Data Scientist , Android Developer
+- Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
