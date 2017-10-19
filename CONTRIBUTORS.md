@@ -1108,3 +1108,8 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Ariaseta Setia Alam](https://github.com/ariaseta)
+- Place: Semarang, Indonesia
+- Bio: Programming Instructor & Entrepreneur
+- GitHub: [Ariaseta Setia Alam](https://github.com/ariaseta)
+
