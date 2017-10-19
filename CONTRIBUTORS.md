@@ -1162,6 +1162,11 @@ Noida
 - bio : loves computer+science , student
 - github: [venketsh bellale] (http://github.com/venkateshbellale)
 
+#### Name：[ Eason Xuan ](https://github.com/timemahcine)
+- Place: City:Shao Xing, State:Zhe Jiang, Country:China
+- Bio: computer science student,front-end developer 
+- GitHub: [ Eason Xuan](https://github.com/timemahcine)
+
 #### Name: [Ocean](https://github.com/ocean0212)
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
