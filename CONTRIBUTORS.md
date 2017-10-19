@@ -1167,6 +1167,11 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
+#### Name: [Francis](https://github.com/borbefg)
+- Place: Quezon City, PH
+- Bio: Fueled by :coffee:
+- GitHub: [Francis](https://github.com/borbefg)
+
 #### Name: [Gowtham](https://github.com/gowtham1997)
 - Place: Chennai
 - Bio: Loves Data science
