@@ -1386,6 +1386,11 @@ Noida
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
 
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/itepifanio) 
+
 #### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Computer Science student at Puc-Mg ,Music lover
