@@ -1141,3 +1141,8 @@ Noida
 - place:pune , India
 - bio : loves computer+science , student
 - github: [venketsh bellale] (http://github.com/venkateshbellale)
+
+#### Name: [Ocean](https://github.com/ocean0212)
+- Place: Henan, China
+- Bio: Chinese food :heart_eyes:
+- GitHub: [Ocean](https://github.com/ocean0212)
