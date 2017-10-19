@@ -1375,3 +1375,8 @@ Noida
 - Place: Milan, Italy
 - Bio: Design&Arts
 - GitHub: [maojh](https://github.com/maojh)
+
+#### Name: [Lisa Nguyen](https://github.com/LisaNguyen)
+- Place: Dublin, Ireland
+- Bio: Front-end developer
+- GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
