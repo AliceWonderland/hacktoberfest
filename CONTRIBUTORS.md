@@ -1063,6 +1063,12 @@
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Fernando Contreras](https://github.com/fercreek)
+- Place: Nuevo Leon, Mexico
+- Bio: Software Engineer
+- Github: [fercreek](https://github.com/fercreek)
+- Website: [Blog](https://fercontreras.com/)
+
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
