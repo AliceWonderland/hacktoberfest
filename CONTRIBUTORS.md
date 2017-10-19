@@ -534,7 +534,12 @@
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
-- Github: [dhevi](https://github.com/dhevi)
+- Github: [dhevi](https://github.com/dhevi) 
+
+#### Name: [Martns90](https://github.com/martns90)
+- Place: The Gym
+- Bio: enthusiast
+- Github: [martns90](https:github.com/martns90)
 
 #### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
 - Place: Lagos, Nigeria
