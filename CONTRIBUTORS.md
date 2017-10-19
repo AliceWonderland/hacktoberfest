@@ -1101,4 +1101,8 @@ Noida
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
-- GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Vishal Raj Shukla](https://github.com/vrs-git)
+- Place: New Delhi,India
+- Bio: Pursuing bachelor's in Computer Science,currently in love with React 
+- GitHub: [Vishal Raj Shukla](https://github.com/vrs-git)
