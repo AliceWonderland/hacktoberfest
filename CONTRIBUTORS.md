@@ -714,6 +714,10 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Kyle Johnson] (https://github.com/johnson90512)
+- Place: United States
+- Bio: Information System Administrator, former Information Systems student
+- GitHub: [Kyle Johnson] (https://github.com/johnson90512)
 #### Name: [Gilliano Menezes](https://github.com/gillianomenezes)
 - Place: Recife, Brazil
 - Bio: Software Engineer at www.neuroup.com.br
