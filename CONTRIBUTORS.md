@@ -1166,3 +1166,8 @@ Noida
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
+
+#### Name: [Michael Pimentel Jr](https://github.com/mtpjr88)
+- Place: Ripon, California, US
+- Bio: Web Developer.
+- GitHub: [Michael Pimentel Jr](https://github.com/mtpjr88)
