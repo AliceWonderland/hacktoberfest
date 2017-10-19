@@ -1,6 +1,6 @@
 # Andrea Zanin
 ## Who am I?
-I am an high school student passionate about math, programming, open source and peer-teaching. After playing around with many different languages I settled with JavaScript, as I find it to be one of the most flexible languages out there: you can do functional, object oriented, reactive (ReactJS), front-end, back-end (node), native (electron, React Native) programming. I find that to be extremely useful in developing side-projects, that often require you to be full stack.
+I am an italian high school student passionate about math, programming, open source and peer-teaching. After playing around with many different languages I settled with JavaScript, as I find it to be one of the most flexible languages out there: you can do functional, object oriented, reactive (ReactJS), front-end, back-end (node), native (electron, React Native) programming. I find that to be extremely useful in developing side-projects, that often require you to be full stack.
 
 ## Open Source you say?
 I published some modules to work with React and Electron:
