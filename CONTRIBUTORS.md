@@ -1049,7 +1049,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1171,3 +1171,27 @@ Noida
 - Place: Sao Bernardo do Campo, Sao Paulo, Brazil
 - Bio: loves computer+science , Full Stack Developer
 - GitHub: [Ocean](https://github.com/rafaelmilanibarbosa)
+
+#### Name: [Eric Wolfe](https://github.com/erwolfe)
+- Place: Edwardsville, IL, USA
+- Bio: Programmer, Audiophile, Gamer
+- GitHub: [Eric Wolfe](https://github.com/erwolfe)
+
+#### Name: [Francis](https://github.com/borbefg)
+- Place: Quezon City, PH
+- Bio: Fueled by :coffee:
+- GitHub: [Francis](https://github.com/borbefg)
+
+#### Name: [Gowtham](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Loves Data science
+
+### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Hussain Calcuttawala](https://github.com/hussainbadri21)
+- Place: Bengaluru, India
+- Bio: Android Developer, Student, Foodie
+- GitHub: [hussainbadri21](https://github.com/hussainbadri21)
