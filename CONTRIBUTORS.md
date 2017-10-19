@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [George Raymond](https://github.com/Tekon)
+- Place: Bournemouth, England
+- Bio: Media Production Student who also has a strong passion for technology and writing/learning code.
+- GitHub: [Tekon](https://github.com/Tekon)
