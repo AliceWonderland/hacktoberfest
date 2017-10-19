@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Gaurav Lalchandani](https://github.com/return007)
+- Place: India
+- Bio: Computer Science Student, Eat, code and sleep :P
+- GitHub: [return007](https://github.com/return007)
