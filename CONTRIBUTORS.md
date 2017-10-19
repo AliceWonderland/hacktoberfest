@@ -1118,6 +1118,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Bikibi](https://github.com/Bikibi)
+- Place: Toulouse, France
+- Bio: Front-end dev
+- GitHub: [Bikibi](https://github.com/Bikibi)
+
 #### Name: [Weilun](https://github.com/holah)
 - Place: Singapore
 - Bio: Engineer
