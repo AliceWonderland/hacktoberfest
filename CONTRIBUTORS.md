@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Jasen Wyatt](https://github.com/jasenwyatt)
+- Place: Detroit, Michigan, USA
+- Bio: Director UX & Development; music-lover; father;
+- GitHub: [Jasen Wyatt](https://github.com/jasenwyatt)
