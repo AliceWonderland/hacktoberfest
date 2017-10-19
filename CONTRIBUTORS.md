@@ -1118,11 +1118,6 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Guy Livni](https://github.com/GuyLivni)
-- Place: Tel-Aviv, Israel
-- Bio: Full stack developer @ RapidAPI
-- GitHub: [Guy Livni](https://github.com/GuyLivni)
-
 #### Name: [Weilun](https://github.com/holah)
 - Place: Singapore
 - Bio: Engineer
@@ -1231,6 +1226,11 @@ Noida
 - Bio: Android Developer, Student, Foodie
 - GitHub: [hussainbadri21](https://github.com/hussainbadri21)
 
- #### Name: [Steve K]		
- - Place: Philadelphia, PA		
- - Bio: Security Analyst
+#### Name: [Skyler](https://github.com/huntleyreep)
+- Place: South Carolina
+- Bio: Computer Science Student / Free Code Camper
+- GitHub: [huntleyreep](https://github.com/huntleyreep)
+
+#### Name: [Steve K]
+- Place: Philadelphia, PA
+- Bio: Security Analyst
