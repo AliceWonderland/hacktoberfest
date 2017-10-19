@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Jeremy](https://github.com/jremeh)
+- Place: KL, Malaysia
+- Bio: Applied Math with Computing Student
+- GitHub: [Jeremy](https://github.com/jremeh)
