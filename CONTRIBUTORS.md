@@ -1,3 +1,8 @@
+#### Name: [Zak Lezaja](https://github.com/zaklezaja)
+- Place: UK
+- Bio: Computer science undergraduate 
+- Github: [Zak Lezaja](https://github.com/zaklezaja)
+
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
 - Bio: Format atilir
