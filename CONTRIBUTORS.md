@@ -1460,3 +1460,8 @@ Noida
 - Place: Seattle
 - Bio: Developer
 - GitHub: [Nylan17](https://github.com/nylan17/)
+
+#### Name: [Jeffrey Ng](GitHub Link)
+- Place: California, United States
+- Bio: Student
+- GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
