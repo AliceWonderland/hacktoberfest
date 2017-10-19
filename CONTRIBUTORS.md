@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Gehazi Bispo](https://github.com/gehazibispo)
+- Plance: São Cristóvão, SE, Brasil
+- Bio: Science Geek, Sci-fi Fan, and Software Engineering N00b!
+- GitHub: [Gehazi Bispo](https://github.com/gehazibispo)
