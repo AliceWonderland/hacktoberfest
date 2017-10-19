@@ -1073,6 +1073,11 @@ Noida
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
 
+#### Name: [Valera Kushnir](https://github.com/kashura)
+- Place: Tampa, FL, USA
+- Bio: Scrum Master and passionate technologist.
+- GitHub: [kashura](https://github.com/kashura)
+
 #### Name: [Eric Briese](https://github.com/Atrolantra)
 - Place: Brisbane, Australia
 - Bio: Student studying LAw and IT. Currently working as a software engineer.
@@ -1103,7 +1108,3 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Jesse Lyon](https://github.com/ProfessorNudelz)
-- Place: Melbourne, Australia
-- Bio: A student who enjoys writing code!
-- GitHub: [ProfessorNudelz](https://github.com/ProfessorNudelz)
