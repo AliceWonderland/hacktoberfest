@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Gilad Bar](https://github.com/GomuGilad6) 
+- Place: Tel Aviv, Israel
+ - Bio: Full Stack Engineer @ RapidAPI 
+- GitHub: [Gilad Bar](https://github.com/GomuGilad6)
