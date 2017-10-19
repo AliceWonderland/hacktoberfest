@@ -1322,3 +1322,8 @@ Noida
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
+
+#### Name: [Claire Tan](https://github.com/tab8748)
+- Place: Vancouver, British Columbia, Canada
+- Bio: Senior Business student. Coding freshman.
+- GitHub: [tab8748](https://github.com/tab8748)
