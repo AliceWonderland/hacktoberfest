@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Barış İNANÇ](https://github.com/barisinanc)
+- Place: İstanbul, Turkey
+- Bio: Senior Software Engineer
+- GitHub: [Barış İNANÇ](https://github.com/barisinanc)
