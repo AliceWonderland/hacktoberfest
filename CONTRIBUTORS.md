@@ -1425,3 +1425,8 @@ Noida
 - Place: King City, California, United States
 - Bio: Full-Stack developer, hiking, travel, art, photography
 - GitHub: [Ana Perez](https://github.com/anacperez)
+
+#### Name: [Moisés Ñañez](https://github.com/moisesnandres)
+- Place: Ica, Perú
+- Bio: Software developer and musician
+- GitHub: [Moisés Ñañez](https://github.com/moisesnandres)
