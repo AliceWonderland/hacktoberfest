@@ -1052,3 +1052,8 @@ Noida
 - Place: Brisbane, Australia
 - Bio: Student studying LAw and IT. Currently working as a software engineer.
 - GitHub: [Atrolantra](https://github.com/Atrolantra)
+
+#### Name: [Jeevan Chapagain](https://github.com/jeevanc)
+- Place: Kathmandu, Nepal
+- Bio: Student studying BSc(CSIT).Currently working as a software engineer intern.
+- GitHub: [Jeevan Chapagain](https://github.com/jeevanc)
