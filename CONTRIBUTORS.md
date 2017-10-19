@@ -1052,3 +1052,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Eric Briese](https://github.com/Atrolantra)
+- Place: Brisbane, Australia
+- Bio: Student studying LAw and IT. Currently working as a software engineer.
+- GitHub: [Atrolantra](https://github.com/Atrolantra)
