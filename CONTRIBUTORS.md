@@ -1024,7 +1024,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1042,6 +1042,11 @@ Noida
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Ngo Manh Cuong](https://github.com/cuongnm265)
+- Place: Ho Chi Minh, Vietnam
+- Bio: Software Engineer
+- GitHub: [Ngo Manh Cuong](https://github.com/cuongnm265)
 
 #### Name: [Lukas A](https://github.com/lukbukkit)
 - Place: Kassel, Hesse, Germany
