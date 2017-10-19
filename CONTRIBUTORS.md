@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Caio W](https://github.com/CaioWzy)
+- Place: Teresina, Piauí, Brazil
+- Bio: Python Developer
+- GitHub: [CaioWzy](https://github.com/CaioWzy)
