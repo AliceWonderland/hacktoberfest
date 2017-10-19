@@ -1,3 +1,9 @@
+
+#### Name: [Petar Popovic](https://github.com/Petar-np)
+- Place: Nova Pazova, Serbia
+- Bio: Blockchain and Fullstack Web Developer
+- GitHub: [Petar-np](https://github.com/Petar-np)
+
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
 - Bio: Open Source Lover, and trying some go :p 
@@ -1118,6 +1124,16 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Mathias Pihl](https://github.com/newspaperman57)
+- Place: Aalborg, Denmark
+- Bio: Software Engineering Student
+- GitHub: [Newspaperman57](https://github.com/newspaperman57)
+
+#### Name: [Bikibi](https://github.com/Bikibi)
+- Place: Toulouse, France
+- Bio: Front-end dev
+- GitHub: [Bikibi](https://github.com/Bikibi)
+
 #### Name: [Weilun](https://github.com/holah)
 - Place: Singapore
 - Bio: Engineer
@@ -1229,3 +1245,22 @@ Noida
 #### Name: [M K]
 - Place: Ko Tao, Thailand
 - Bio: I love code, coffee and the beach
+
+#### Name: [Ahmad Thames](https://github.com/ahmadthames)
+- Place: Houston, TX, USA
+- Bio: UX Engineer, Traveler, Plant-Based Foodie
+- GitHub: [ahmadthames](https://github.com/ahmadthames)
+
+#### Name: [Skyler](https://github.com/huntleyreep)
+- Place: South Carolina
+- Bio: Computer Science Student / Free Code Camper
+- GitHub: [huntleyreep](https://github.com/huntleyreep)
+
+#### Name: [Steve K]
+- Place: Philadelphia, PA
+- Bio: Security Analyst
+
+#### Name: [Siddharth Tankariya](https://github.com/siddharthtankariya/)
+- Place: Mumbai, India
+- Bio: Java Developer, Foodie
+- GitHub: [siddharthtankariya](https://github.com/siddharthtankariya/)
