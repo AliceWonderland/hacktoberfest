@@ -1440,3 +1440,8 @@ Noida
 - Place: San Antonio, TX, United States
 - Bio: Front-End Developer
 - GitHub: [Joe Hanson](https://github.com/jahanson)
+
+#### Name: [Tech Tide](https://github.com/techtide/)
+- Place: Singapore, Singapore
+- Bio: Young software developer.
+- GitHub: [techtide](https://github.com/techtide/)
