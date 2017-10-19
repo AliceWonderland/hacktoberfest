@@ -1146,11 +1146,6 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Tiago Severino](https://github.com/TiagoSeverino)
-- Place: Lisbon, Portugal
-- Bio: I code for fun!
-- GitHub: [TiagoSeverino](https://github.com/TiagoSeverino)
-
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
 - Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games. 
@@ -1297,11 +1292,6 @@ Noida
 - Place: Philadelphia, PA
 - Bio: Security Analyst
 
-#### Name: [Luiz Devitte](https://github.com/LuizDevitte)
-- Place: Sao Paulo, Brazil
-- Bio: BSc in Medical Physics in the world of Programming
-- GitHub: [LuizDevitte](https://github.com/LuizDevitte)
-
 #### Name: [Siddharth Tankariya](https://github.com/siddharthtankariya/)
 - Place: Mumbai, India
 - Bio: Java Developer, Foodie
@@ -1311,3 +1301,8 @@ Noida
 - Place: Germany
 - Bio: I'm a german developer who loves to create things :)
 - GitHub: [iamchrishckns](https://github.com/iamchrishckns)
+
+#### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
+- Place: Pune, India
+- Bio: Metalhead law student who loves hardware and code
+- GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
