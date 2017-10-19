@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Francisc Furdui](https://github.com/skyrol)
+- Place: Dublin, Ireland
+- Bio: EC student at Dublin City University
+- Github: [skyrol](https://github.com/skyrol)
