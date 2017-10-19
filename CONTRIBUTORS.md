@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
+- Place: Agadir, Morocco
+- Bio: Student
+- GitHub: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
