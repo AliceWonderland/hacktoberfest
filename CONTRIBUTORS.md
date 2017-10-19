@@ -1146,6 +1146,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Tiago Severino](https://github.com/TiagoSeverino)
+- Place: Lisbon, Portugal
+- Bio: I code for fun!
+- GitHub: [TiagoSeverino](https://github.com/TiagoSeverino)
+
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
 - Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games. 
