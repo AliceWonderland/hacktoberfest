@@ -3,6 +3,11 @@
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+#### Name: [Thomas Booker](https://github.com/thomas-booker)
+- Place: Stockport, Cheshire, England
+- Bio: Budding software developer, studying MSc Computing
+- GitHub: [thomas-booker](https://github.com/thomas-booker)
+
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
 - Bio: Format atilir
