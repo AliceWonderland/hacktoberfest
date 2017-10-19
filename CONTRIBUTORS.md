@@ -1102,3 +1102,8 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Chris Tong](https://github.com/clerity85)
+- Place: Singapore
+- Bio: Dev
+- GitHub: [Chris Tong](https://github.com/clerity85)
