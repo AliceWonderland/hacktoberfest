@@ -1162,6 +1162,11 @@ Noida
 - bio : loves computer+science , student
 - github: [venketsh bellale] (http://github.com/venkateshbellale)
 
+#### Name: [Keith VenHuizen](https://github.com/keithvenh/)
+- Place: Sioux Falls, South Dakota
+- Bio: Hi, I'm Keith. I love my family, playing board games, Chicago sports and problem solving!
+- GitHub: [Keith VenHuizen](https://github.com/keithvenh)
+
 #### Name：[ Eason Xuan ](https://github.com/timemahcine)
 - Place: City:Shao Xing, State:Zhe Jiang, Country:China
 - Bio: computer science student,front-end developer 
