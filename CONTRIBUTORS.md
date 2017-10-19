@@ -1234,3 +1234,8 @@ Noida
 #### Name: [Steve K]
 - Place: Philadelphia, PA
 - Bio: Security Analyst
+
+#### Name: [Siddharth Tankariya](https://github.com/siddharthtankariya/)
+- Place: Mumbai, India
+- Bio: Java Developer, Foodie
+- GitHub: [siddharthtankariya](https://github.com/siddharthtankariya/)
