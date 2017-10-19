@@ -1124,6 +1124,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
+- Place: Agadir, Morocco
+- Bio: Student
+- GitHub: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
+
 #### Name: [Mathias Pihl](https://github.com/newspaperman57)
 - Place: Aalborg, Denmark
 - Bio: Software Engineering Student
