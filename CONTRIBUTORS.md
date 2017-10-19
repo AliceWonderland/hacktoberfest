@@ -1108,6 +1108,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
+- Place: Kyiv, Ukraine
+- Bio: Python Dev
+- GitHub: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
+
 #### Name: [Jeremy](https://github.com/jremeh)
 - Place: KL, Malaysia
 - Bio: Applied Math with Computing Student
