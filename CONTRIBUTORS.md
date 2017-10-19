@@ -1146,6 +1146,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Konstantin](https://github.com/Kola50011)
+- Place: Wiener Neustadt, Austria
+- Bio: Computer Science Student
+- GitHub: [Konstantin](https://github.com/Kola50011)
+
 #### Name: [Ankit Rai](https://github.com/ankitrai96)
 - Place: Greater Noida, Uttar Pradesh, India
 - Bio: A high functioning geek, et cetera.
