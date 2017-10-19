@@ -1470,3 +1470,8 @@ Noida
 - Place: UK
 - Bio: Learning to code through freeCodeCamp
 - GitHub: [Peter Walsh](https://github.com/ddddamian/)
+
+#### Name: [Michelle Uy](GitHub Link)
+- Place: NYC
+- Bio: CS student aspiring to become a better coder
+- GitHub: [Michelle Uy](https://github.com/breindy/)
