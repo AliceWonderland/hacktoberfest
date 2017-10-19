@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Mats Andreassen](https://github.com/MatsAnd)
+- Place: Norway
+- Bio: IT Apprentice
+- GitHub: [Mats Andreassen](https://github.com/MatsAnd)
