@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Marlene Oliveira](https://github.com/m-oliv)
+- Place: Évora, Portugal
+- Bio: Software Engineer
+- GitHub: [m-oliv](https://github.com/m-oliv)
