@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Valera Kushnir](https://github.com/kashura)
+- Place: Tampa, FL, USA
+- Bio: Scrum Master and passionate technologist.
+- GitHub: [kashura](https://github.com/kashura)
