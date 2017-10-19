@@ -1108,12 +1108,13 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Tomas Alejandro V. Falgui III](https://github.com/tomy8910)
-- Place: General Santos City, Philippines
-- Bio: High School Student / Developer
-- GitHub: [Tomas Alejandro V. Falgui III](https://github.com/tomy8910)
+#### Name: [Andrea Zanin](https://github.com/ZaninAndrea)
+- Place: Trento, Italy
+- Bio: High School Student, passionate about math, coding and open source
+- Github: [ZaninAndrea](https://github.com/ZaninAndrea)
 
 #### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
 - place:pune , India
 - bio : loves computer+science , student
 - github: [venketsh bellale] (http://github.com/venkateshbellale)
+
