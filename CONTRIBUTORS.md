@@ -1,3 +1,8 @@
+#### Name: [Petar Popovic](https://github.com/Petar-np)
+- Place: Nova Pazova, Serbia
+- Bio: Blockchain and Fullstack Web Developer
+- GitHub: [Petar-np](https://github.com/Petar-np)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
