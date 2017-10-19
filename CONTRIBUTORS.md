@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Shadab Khan](https://github.com/shadabk96)
+- Place: Pune, Maharashtra, India
+- Bio: Computer Engineering student
+- GitHub: [Shadab Khan](https://github.com/shadabk96)
