@@ -1108,6 +1108,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
+- Place: Mumbai, India
+- Bio: Full-Stack Development, Machine Learning and Having Fun!.
+- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
+
 ### Name: [Matei David](https://github.com/Matei207)
 - Place: Birmingham, UK
 - Bio: BSc Student at University of Birmingham
