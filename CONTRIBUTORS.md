@@ -1102,3 +1102,8 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [James Francis]
+- Place: Surulere, Lagos, Nigeria
+- Bio: Code hobbyist
+- GitHub: [James Francis](https://github.com/greengory)
