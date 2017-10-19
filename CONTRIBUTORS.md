@@ -1062,3 +1062,8 @@ Noida
 - Place: Paris, France
 - Bio: Solution Architect @ Eleven-Labs
 - GitHub: [VEBERArnaud](https://github.com/VEBERArnaud)
+
+#### Name: [Dushyant Rathore](https://github.com/dushyantRathore)
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [dushyantRathore](https://github.com/dushyantRathore)
