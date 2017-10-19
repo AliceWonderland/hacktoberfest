@@ -1390,3 +1390,13 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio) 
+
+#### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Computer Science student at Puc-Mg ,Music lover
+- GitHub: [OttoWBitt] (https://github.com/OttoWBitt)
+
+#### Name: [Ana Perez](https://github.com/anacperez)
+- Place: King City, California, United States
+- Bio: Full-Stack developer, hiking, travel, art, photography
+- GitHub: [Ana Perez](https://github.com/anacperez)
