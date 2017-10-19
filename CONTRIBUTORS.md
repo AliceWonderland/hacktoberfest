@@ -1108,3 +1108,8 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Julian aposfr](https://github.com/ApoStFr)
+- Place: Troyes, France
+- Bio: Network ant telecommunication Student
+- WhatElse ? : Nexpresso !
+
