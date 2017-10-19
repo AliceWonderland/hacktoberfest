@@ -1230,3 +1230,7 @@ Noida
 - Place: Bengaluru, India
 - Bio: Android Developer, Student, Foodie
 - GitHub: [hussainbadri21](https://github.com/hussainbadri21)
+
+ #### Name: [Steve K]		
+ - Place: Philadelphia, PA		
+ - Bio: Security Analyst
