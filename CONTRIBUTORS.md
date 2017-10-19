@@ -1,6 +1,6 @@
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
-- Bio: Open Source Lover, and trying some go :p 
+- Bio: Open Source Lover, and trying some go :p
 - GitHub: [Victor Piolin](https://github.com/vico1993)
 
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
@@ -1189,7 +1189,7 @@ Noida
 
 #### Name：[ Eason Xuan ](https://github.com/timemahcine)
 - Place: City:Shao Xing, State:Zhe Jiang, Country:China
-- Bio: computer science student,front-end developer 
+- Bio: computer science student,front-end developer
 - GitHub: [ Eason Xuan](https://github.com/timemahcine)
 
 #### Name: [Ocean](https://github.com/ocean0212)
@@ -1204,7 +1204,7 @@ Noida
 
 #### Name: [Piotr](https://github.com/khorne55)
 - Place: Limerick, Ireland
-- Bio: Computer Engineering Student :) 
+- Bio: Computer Engineering Student :)
 - GitHub: [khorne55](https://github.com/khorne55)
 
 #### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
@@ -1254,3 +1254,8 @@ Noida
 - Place: Mumbai, India
 - Bio: Java Developer, Foodie
 - GitHub: [siddharthtankariya](https://github.com/siddharthtankariya/)
+
+#### Name: [Christoph](https://github.com/iamchrishckns)
+- Place: Germany
+- Bio: I'm a german developer who loves to create things :)
+- GitHub: [iamchrishckns](https://github.com/iamchrishckns)
