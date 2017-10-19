@@ -1386,6 +1386,11 @@ Noida
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
 
+#### Name: [Tyler Williams](https://github.com/Tyler-Williams)
+- Place: Henderson, NV, USA
+- Bio: Front-end Developer
+- GitHub: [Tyler-Williams](https://github.com/Tyler-Williams)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
