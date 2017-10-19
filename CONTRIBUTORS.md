@@ -719,6 +719,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Lokesh Raj Arora](https://github.com/lokiiarora)
+- Place: Darjeeling, India
+- Bio: CS Student at SRM University, Full Stack Developer
+- Github: [Lokesh Raj Arora](https://github.com/lokiiarora)
+
 #### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Place: Qom, Qom, Iran
 - Bio: back-end develoer and seo expert
@@ -1113,11 +1118,6 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [AMEH SAMUEL](https://github.com/propersam)
-- Place: Surulere, Lagos, Nigeria
-- Bio: I'm a graphics modeller and a programmer. I'm also a cisco certified Networker.
-- GitHub: [Ameh Samuel](https://github.com/propersam)
-
 #### Name: [Weilun](https://github.com/holah)
 - Place: Singapore
 - Bio: Engineer
@@ -1225,4 +1225,3 @@ Noida
 - Place: Bengaluru, India
 - Bio: Android Developer, Student, Foodie
 - GitHub: [hussainbadri21](https://github.com/hussainbadri21)
-
