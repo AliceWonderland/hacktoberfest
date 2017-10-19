@@ -55,6 +55,6 @@
 
 #### Name: [Nabil Ibtehaz](https://github.com/robin-0)
 - Place: Dhaka, Bangladesh
-- Bio: Software Engineer, Computerphile 
+- Bio: Software Engineer, Computerphile
 - Github: [Nabil Ibtehaz](https://github.com/robin-0)
 
