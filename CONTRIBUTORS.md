@@ -1,3 +1,8 @@
+#### Name: [Zak Lezaja](https://github.com/zaklezaja)
+- Place: UK
+- Bio: Computer science undergraduate 
+- Github: [Zak Lezaja](https://github.com/zaklezaja)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
