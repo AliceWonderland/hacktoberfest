@@ -1006,15 +1006,9 @@
 - Bio: Student of code, eater of sustainable sushi
 - GitHub: [Jalence](https://github.com/jalence)
 
-#### Name: [Elan Ripley](https://github.com/tattarrattat)
+#### Name: [Elan Ripley](https//github.com/tattarrattat)
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
-- Github: [Elan Ripley](https://github.com/tattarrattat)
-
-#### Name: [Rishabh Rawat](https://github.com/Rishabh570)
-- Place: New Delhi, India
-- Bio: Student of Technology 
-- Github: [Rishabh570](https://github.com/Rishabh570)
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
 #### Name: [Justin Oliver](https://github.com/justinoliver)
@@ -1327,3 +1321,13 @@ Noida
 - Place: Vancouver, British Columbia, Canada
 - Bio: Senior Business student. Coding freshman.
 - GitHub: [tab8748](https://github.com/tab8748)
+
+#### Name: [Gareth Davies](https://github.com/gareth-d85)
+- Place: UK
+- Bio: Future Developer and Free code camp local group leader
+- GitHub: [Gareth Davies](https://github.com/gareth-d85)
+
+#### Name: [Daniel Tudares](https://github.com/dan1eltudares)
+- Place: Ottawa, Ontario, Canada
+- Bio: Network specialist, code n00b
+- Github: [Daniel Tudares](https://github.com/dan1eltudares)
