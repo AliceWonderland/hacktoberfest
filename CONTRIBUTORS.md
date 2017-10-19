@@ -1167,6 +1167,11 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
+#### Name: [Piotr](https://github.com/khorne55)
+- Place: Limerick, Ireland
+- Bio: Computer Engineering Student :) 
+- GitHub: [khorne55](https://github.com/khorne55)
+
 #### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
 - Place: Sao Bernardo do Campo, Sao Paulo, Brazil
 - Bio: loves computer+science , Full Stack Developer
