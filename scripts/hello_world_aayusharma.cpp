@@ -5,7 +5,7 @@
 // GITHUB: https://github.com/aayusharma
 
 #include <bits/stdc++.h>
-using namesapce std;
+using namespace std;
 int main()
 {
     cout<<"Hello World"<<endl;
