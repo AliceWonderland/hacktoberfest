@@ -1113,3 +1113,7 @@ Noida
 - Bio: Full stack dev
 - GitHub: [Carlos Lima](https://github.com/kakamg0)
 
+#### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
+- place:pune , India
+- bio : loves computer+science , student
+- github: [venketsh bellale] (http://github.com/venkateshbellale)
