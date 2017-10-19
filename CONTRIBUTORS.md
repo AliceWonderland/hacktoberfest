@@ -13,7 +13,6 @@
  - Bio: Software Engineer		
  - GitHun: [Dalton](https://github.com/stormBandit)		
 
-
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
 - Bio: Open Source Lover, and trying some go :p
@@ -1345,3 +1344,18 @@ Noida
 - Place: NYC, New York, USA
 - Bio: Recent college grad attending Flatiron School coding bootcamp
 - GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
+
+#### Name: [Thomas Lee](https://github.com/pbzweihander)
+- Place: Seoul, Republic of Korea
+- Bio: College student
+- GitHub: [Thomas Lee](https://github.com/pbzweihander)
+
+#### Name: [Ayush Aggarwal](https://github.com/aggarwal125ayush)
+- Place: Delhi, India
+- Bio: Data Scientist , Android Developer
+- Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
+
+#### Name: [Margaret Kelley](https://github.com/mlouisekelley)
+- Place: USA
+- Bio: Cat lover
+- GitHub: [mlouisekelley](https://github.com/mlouisekelley)
