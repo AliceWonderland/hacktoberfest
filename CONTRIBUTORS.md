@@ -1112,3 +1112,8 @@ Noida
 - Place: General Santos City, Philippines
 - Bio: High School Student / Developer
 - GitHub: [Tomas Alejandro V. Falgui III](https://github.com/tomy8910)
+
+#### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
+- place:pune , India
+- bio : loves computer+science , student
+- github: [venketsh bellale] (http://github.com/venkateshbellale)
