@@ -1112,3 +1112,9 @@ Noida
 - Place: Trento, Italy
 - Bio: High School Student, passionate about math, coding and open source
 - Github: [ZaninAndrea](https://github.com/ZaninAndrea)
+
+#### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
+- place:pune , India
+- bio : loves computer+science , student
+- github: [venketsh bellale] (http://github.com/venkateshbellale)
+
