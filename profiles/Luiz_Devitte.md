@@ -20,5 +20,3 @@ Ribeirão Preto, SP, Brazil
 ### Profile Link
 
 [LuizDevitte](https://github.com/LuizDevitte)
-<a href ='https://github.com/LuizDevitte'>LuizDevitte</a>
-
