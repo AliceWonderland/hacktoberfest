@@ -1,3 +1,7 @@
+#### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
+- Place: Ankara
+- Bio: Format atilir
+- GitHub: [Oguzcan Emegil](https://github.com/oemegil)
 
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
