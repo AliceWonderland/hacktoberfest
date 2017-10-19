@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Konstantin](https://github.com/Kola50011)
+- Place: Wiener Neustadt, Austria
+- Bio: Computer Science Student
+- GitHub: [Konstantin](https://github.com/Kola50011)
