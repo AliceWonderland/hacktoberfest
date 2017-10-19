@@ -1067,3 +1067,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Student
 - GitHub: [dushyantRathore](https://github.com/dushyantRathore)
+
+#### Name: [Attila Blascsak](https://github.com/blascsi)
+- Place: Hungary
+- Bio: Front-end dev. Love React!
+- GitHub: [Attila Blascsak](https://github.com/blascsi)
