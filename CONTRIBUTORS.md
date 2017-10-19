@@ -1166,3 +1166,8 @@ Noida
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
+
+#### Name: [Piotr](https://github.com/khorne55)
+- Place: Limerick, Ireland
+- Bio: Computer Engineering Student :) 
+- GitHub: [khorne55](https://github.com/khorne55)
