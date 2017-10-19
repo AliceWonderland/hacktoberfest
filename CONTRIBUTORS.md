@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Prajwal K Patil](https://github.com/Prajwalpatill)
+- Place: Gulbarga, Karnataka, India
+- Bio: Geek , love computers ... !
+- GitHub: [Prajwalpatill](https://github.com/Prajwalpatill)
