@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Tiago Severino](https://github.com/TiagoSeverino)
+- Place: Lisbon, Portugal
+- Bio: I code for fun!
+- GitHub: [TiagoSeverino](https://github.com/TiagoSeverino)
