@@ -1385,3 +1385,8 @@ Noida
 - Place: Dublin, Ireland
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
+
+#### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Computer Science student at Puc-Mg ,Music lover
+- GitHub: [OttoWBitt] (https://github.com/OttoWBitt)
