@@ -1171,3 +1171,17 @@ Noida
 - Place: Quezon City, PH
 - Bio: Fueled by :coffee:
 - GitHub: [Francis](https://github.com/borbefg)
+
+#### Name: [Gowtham](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Loves Data science
+
+### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Hussain Calcuttawala](https://github.com/hussainbadri21)
+- Place: Bengaluru, India
+- Bio: Android Developer, Student, Foodie
+- GitHub: [hussainbadri21](https://github.com/hussainbadri21)
