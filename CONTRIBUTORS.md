@@ -8,11 +8,10 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
-#### Name: [Dalton](https://github.com/stormBandit)
- - Place: Ontario, Canada
- - Bio: Software Engineer
- - GitHun: [Dalton](https://github.com/stormBandit)
-
+#### Name: [Dalton](https://github.com/stormBandit)		
+ - Place: Ontario, Canada		
+ - Bio: Software Engineer		
+ - GitHun: [Dalton](https://github.com/stormBandit)		
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -1078,12 +1077,6 @@
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
-#### Name: [Pablo Andrés Dorado Suárez](https://github.com/pandres95)
-- Place: Bogotá, CO
-- Bio: Systems Eng. Student at UN Colombia / Software Developer
-- Github: [pandres95](https://github.com/pandres95)
-- Website: [Personal Website](https://pandres95.me) / [Blog](https://pandres95.me/blog)
-
 #### Name: [Fernando Contreras](https://github.com/fercreek)
 - Place: Nuevo Leon, Mexico
 - Bio: Software Engineer
@@ -1346,6 +1339,11 @@ Noida
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
+
+#### Name: [Ryan Sperzel](https://github.com/ryansperzel)
+- Place: NYC, New York, USA
+- Bio: Recent college grad attending Flatiron School coding bootcamp
+- GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
 
 #### Name: [Thomas Lee](https://github.com/pbzweihander)
 - Place: Seoul, Republic of Korea
