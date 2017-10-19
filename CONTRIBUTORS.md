@@ -1385,3 +1385,9 @@ Noida
 - Place: Dublin, Ireland
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
+
+### Name: [Peter Squicciarini](https://github.com/stripedpajamas)
+- Place: Charlotte, NC
+- Bio: Backend Engineer
+- Github: [Peter Squicciarini](https://github.com/stripedpajamas)
+
