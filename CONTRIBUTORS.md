@@ -1108,6 +1108,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Sam S](https://github.com/samseah)
+- Place: Singapore
+- Bio: Computer Science Student
+- GitHub: [5am](https://github.com/samseah)
+
 #### Name: [Matteo Mensi](https://github.com/Snatched)
 - Place: Italy
 - Bio: Chemical Engineering student. C++ developer. I (try to) make high-performance computational programs to help with scientific research.
