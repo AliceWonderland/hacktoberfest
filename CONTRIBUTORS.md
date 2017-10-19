@@ -1470,3 +1470,8 @@ Noida
 - Bio: Data Scientist
 - GitHub: [tjboller](https://github.com/tjboller/)
 - GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
+
+#### Name: [Peter Walsh](GitHub Link)
+- Place: UK
+- Bio: Learning to code through freeCodeCamp
+- GitHub: [Peter Walsh](https://github.com/ddddamian/)
