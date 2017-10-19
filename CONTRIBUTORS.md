@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name:[Roi Ben - Shaul](https://github.com/rughciatuk)
+- Place: israel
+- Bio: Android developer
+- GitHub: [Roi Ben - Shaul](https://github.com/rughciatuk)
