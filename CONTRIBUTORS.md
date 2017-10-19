@@ -1,7 +1,3 @@
-#### Name: [Rubén Ortiz](https://github.com/rubenortiz)
-- Place: Asuncion, Paraguay
-- Bio: Web Developer, Bachelors in Computer Science
-- GitHub: [Rubén Ortiz](https://github.com/rubenortiz)
 
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
@@ -1321,10 +1317,10 @@ Noida
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
-#### Name: [Claire Tan](https://github.com/tab8748)
-- Place: Vancouver, British Columbia, Canada
-- Bio: Senior Business student. Coding freshman.
-- GitHub: [tab8748](https://github.com/tab8748)
+#### Name: [Zoe Kafkes](https://github.com/zkafkes)
+- Place: Atlanta, Georgia USA
+- Bio: caffeinated and curious
+- GitHub: [zkafkes](https://github.com/zkafkes)
 
 #### Name: [Gareth Davies](https://github.com/gareth-d85)
 - Place: UK
