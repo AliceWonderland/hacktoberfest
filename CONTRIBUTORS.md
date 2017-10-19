@@ -1,3 +1,9 @@
+
+#### Name: [Petar Popovic](https://github.com/Petar-np)
+- Place: Nova Pazova, Serbia
+- Bio: Blockchain and Fullstack Web Developer
+- GitHub: [Petar-np](https://github.com/Petar-np)
+
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
 - Bio: Open Source Lover, and trying some go :p
@@ -7,6 +13,11 @@
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
+
+#### Name: [AP PRANAV](https://github.com/pranav-cs)
+- Place: India
+- Bio: I like to code
+- GitHub: [AP Pranav](https://github.com/pranav-cs)
 
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
@@ -1052,6 +1063,12 @@
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Fernando Contreras](https://github.com/fercreek)
+- Place: Nuevo Leon, Mexico
+- Bio: Software Engineer
+- Github: [fercreek](https://github.com/fercreek)
+- Website: [Blog](https://fercontreras.com/)
+
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
@@ -1117,6 +1134,11 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
+- Place: Agadir, Morocco
+- Bio: Student
+- GitHub: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 
 #### Name: [Mathias Pihl](https://github.com/newspaperman57)
 - Place: Aalborg, Denmark
@@ -1235,6 +1257,10 @@ Noida
 - Place: Bengaluru, India
 - Bio: Android Developer, Student, Foodie
 - GitHub: [hussainbadri21](https://github.com/hussainbadri21)
+
+#### Name: [M K]
+- Place: Ko Tao, Thailand
+- Bio: I love code, coffee and the beach
 
 #### Name: [Ahmad Thames](https://github.com/ahmadthames)
 - Place: Houston, TX, USA
