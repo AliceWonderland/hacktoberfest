@@ -1108,3 +1108,7 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Guy Livni](https://github.com/GuyLivni)
+- Place: Tel-Aviv, Israel
+- Bio: Full stack developer @ RapidAPI
+- GitHub: [Guy Livni](https://github.com/GuyLivni)
