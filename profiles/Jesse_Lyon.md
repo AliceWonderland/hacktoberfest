@@ -14,7 +14,7 @@ Point Cook P-9 College
 - Computer Science
 - Cooking
 - Sport
-- Movies
+- Movies and TV Shows
 
 ### Development
 
