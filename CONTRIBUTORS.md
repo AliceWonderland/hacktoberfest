@@ -1108,6 +1108,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Matteo Mensi](https://github.com/Snatched)
+- Place: Italy
+- Bio: Chemical Engineering student. C++ developer. I (try to) make high-performance computational programs to help with scientific research.
+- GitHub: [Snatched](https://github.com/Snatched)
+
 #### Name: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
 - Place: Kyiv, Ukraine
 - Bio: Python Dev
