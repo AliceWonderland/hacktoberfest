@@ -1047,3 +1047,8 @@ Noida
 - Place: Ho Chi Minh, Vietnam
 - Bio: Software Engineer
 - GitHub: [Ngo Manh Cuong](https://github.com/cuongnm265)
+
+#### Name: [Lukas A](https://github.com/lukbukkit)
+- Place: Kassel, Hesse, Germany
+- Bio: Student on his way to the Abitur
+- GitHub: [LukBukkit](https://github.com/lukbukkit)
