@@ -1049,7 +1049,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1166,3 +1166,7 @@ Noida
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
+
+#### Name: [Gowtham R](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Love Data science and Web development
