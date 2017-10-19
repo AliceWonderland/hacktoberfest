@@ -1425,3 +1425,18 @@ Noida
 - Place: King City, California, United States
 - Bio: Full-Stack developer, hiking, travel, art, photography
 - GitHub: [Ana Perez](https://github.com/anacperez)
+
+#### Name: [Matan](https://github.com/matan188)
+- Place: TLV, IL
+- Bio: Programmer
+- GitHub: [Matan](https://github.com/matan188)
+
+#### Name: [Moisés Ñañez](https://github.com/moisesnandres)
+- Place: Ica, Perú
+- Bio: Software developer and musician
+- GitHub: [Moisés Ñañez](https://github.com/moisesnandres)
+
+#### Name: [Joe Hanson](https://github.com/jahanson)
+- Place: San Antonio, TX, United States
+- Bio: Front-End Developer
+- GitHub: [Joe Hanson](https://github.com/jahanson)
