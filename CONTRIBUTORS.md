@@ -1118,6 +1118,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Mathias Pihl](https://github.com/newspaperman57)
+- Place: Aalborg, Denmark
+- Bio: Software Engineering Student
+- GitHub: [Newspaperman57](https://github.com/newspaperman57)
+
 #### Name: [Bikibi](https://github.com/Bikibi)
 - Place: Toulouse, France
 - Bio: Front-end dev
