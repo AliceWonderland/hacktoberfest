@@ -1108,6 +1108,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
 #### Name: [CAPS Padilla](https://github.com/CarlosPadilla)
 - Place: Jalisco, Mexico
 - Bio: A handsome guy with the best work ever
