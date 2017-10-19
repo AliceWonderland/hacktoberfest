@@ -3,10 +3,20 @@
 - Bio: Fullstack Web developer, Computer Engineering Master student
 - GitHub: [faouziamrouche](https://github.com/faouziamrouche)
 
+﻿#### Name: [Rene Israel](https://github.com/reneisrael)
+- Place: Mexico
+- Bio: En decadencia
+- GitHub: [Rene Israel](https://github.com/reneisrael)
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
 - GitHub: [thomas-booker](https://github.com/thomas-booker)
+
+#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)		
+ - Place: Tekirdağ, Turkey		
+ - Bio: Literally gamer, geek and viking.		
+ - GitHub: [turkerdotpy](https://github.com/turkerdotpy)		
 
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
@@ -543,7 +553,7 @@
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
-- Github: [dhevi](https://github.com/dhevi)
+- Github: [dhevi](https://github.com/dhevi) 
 
 #### Name: [Martns90](https://github.com/martns90)
 - Place: The Gym
@@ -1401,16 +1411,6 @@ Noida
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
 
-### Name: [Peter Squicciarini](https://github.com/stripedpajamas)
-- Place: Charlotte, NC
-- Bio: Backend Engineer
-- Github: [Peter Squicciarini](https://github.com/stripedpajamas)
-
-#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)
-- Place: Tekirdağ, Turkey
-- Bio: Literally gamer, geek and viking.
-- GitHub: [turkerdotpy](https://github.com/turkerdotpy)
-
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
 - Bio: Front-end Developer
@@ -1445,3 +1445,18 @@ Noida
 - Place: San Antonio, TX, United States
 - Bio: Front-End Developer
 - GitHub: [Joe Hanson](https://github.com/jahanson)
+
+#### Name: [Tech Tide](https://github.com/techtide/)
+- Place: Singapore, Singapore
+- Bio: Young software developer.
+- GitHub: [techtide](https://github.com/techtide/)
+
+#### Name: [Raymond Duckworth](https://github.com/raymondxduckworth/)
+- Place: California, USA
+- Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
+- GitHub: [Raymond Duckworth](https://github.com/raymondxduckworth/)
+
+#### Name: [Tanner Lund](https://github.com/nylan17/)
+- Place: Seattle
+- Bio: Developer
+- GitHub: [Nylan17](https://github.com/nylan17/)
