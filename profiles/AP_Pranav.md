@@ -2,11 +2,11 @@
 
 ### Location
 
-India, chennai
+India
 
 ### Academics
 
-Asam Memorial Senior Secondary School
+XYZ High School
 
 ### Interests
 
