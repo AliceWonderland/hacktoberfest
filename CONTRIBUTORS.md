@@ -1465,3 +1465,8 @@ Noida
 - Place: California, United States
 - Bio: Student
 - GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
+
+#### Name: [Peter Walsh](GitHub Link)
+- Place: UK
+- Bio: Learning to code through freeCodeCamp
+- GitHub: [Peter Walsh](https://github.com/ddddamian/)
