@@ -1167,6 +1167,10 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
+#### Name: [Gowtham](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Loves Data science
+
 ### Name: [Branden] (https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
