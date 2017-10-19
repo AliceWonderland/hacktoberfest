@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Shawn Hwei](https://github.com/shawnhwei)
+- Place: Hong Kong, China
+- Bio: Full stack developer from USA
+- GitHub: [shawnhwei](https://github.com/shawnhwei)
