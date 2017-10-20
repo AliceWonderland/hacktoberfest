@@ -1904,6 +1904,11 @@ Noida
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
 - GitHub: [Mateo Pool](https://github.com/IAmMyself)
 
+#### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
+- Place: Santa Catarina, Brazil
+- Bio: Front end web developer.
+- GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
+
 #### Name: [Kyle Lawson](https://github.com/KyleLawson16/)
 - Place: Merrimack, New Hampshire, USA
 - Bio: Business Student/Entrepreneur/Self-taught Developer
