@@ -1669,3 +1669,8 @@ Noida
 - Place: London, England
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Kutsoragi](https://github.com/Kutsoragi)
+- Place: Madrid, Spain
+- Bio: Software Student
+- Github: [Kutsoragi] (https://github.com/Kutsoragi)
