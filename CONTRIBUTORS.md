@@ -1171,6 +1171,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
+#### Name: [Naman Doshi] (https://github.com/warmachine0609)
+-Place: Chennai,India
+-Bio: ML developer
+-Github: [Naman Doshi] (https://github.com/warmachine0609)
 #### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
 - Bio: Student
