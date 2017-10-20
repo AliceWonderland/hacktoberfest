@@ -1605,6 +1605,11 @@ Noida
 - Bio: student :)
 - GitHub: [leaous](https://github.com/leaous/)
 
+#### Name: [Danny M.](https://github.com/DannyDanielsan/)
+- Place: Kansas City, Missouri, United States
+- Bio: .NET Developer
+- GitHub: [DannyDanielsan](https://github.com/DannyDanielsan/)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
