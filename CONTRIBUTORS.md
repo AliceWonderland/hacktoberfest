@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Puugu](https://github.com/Puugu)
+- Place: Biloxi, Mississippi, USA
+- Bio: New grad software engineer as of Dec '17
+- GitHub: [Puugu](https://github.com/Puugu)
