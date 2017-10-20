@@ -1500,3 +1500,23 @@ Noida
 - Place: California
 - Bio: Developer
 - GitHub: [taylorlee1](https://github.com/taylorlee1/)
+
+#### Name: [José](https://github.com/JJPO96/)
+- Place: Porto, Portugal
+- Bio: Informatics Student
+- GitHub: [JJPO96](https://github.com/JJPO96/)
+
+#### Name: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
+- Place: Sergipe, Brasil
+- Bio: Web Developer
+- GitHub: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
+
+#### Name: [Eric](https://github.com/Eric-Tadeja/)
+- Place: Redmond, Washington
+- Bio: service engineer
+- GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
+
+#### Name: [Spencer](https://github.com/leaous/)
+- Place: Pittsburgh, Pennsylvania
+- Bio: student :)
+- GitHub: [leaous](https://github.com/leaous/)
