@@ -705,7 +705,6 @@ s in Computer Science
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
-
 #### Name: [Gui An Lee](https//github.com/piroton)
 - Place: Singapore, Singapore
 - Bio: Student
