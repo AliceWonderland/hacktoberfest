@@ -816,6 +816,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Edwin Chui](https://github.com/Fly1nP4nda)
+- Place: Georgia, United States
+- Bio: Fulltime / Fullstack Web Developer
+- GitHub: [Fly1nP4nda](https://github.com/Fly1nP4nda)
+
 #### Name: [Mark Carlson](https://github.com/electrek)
 - Place: Chicago, IL, USA
 - Bio: Escape room maker
