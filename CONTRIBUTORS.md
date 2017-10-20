@@ -1,3 +1,9 @@
+#### Name: [Darsh Naik](https://github.com/DarshNaik)
+- Place: India
+- Bio: Computer Engineering student
+- GitHub: [DarshNaik](https://github.com/DarshNaik)
+
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
