@@ -1,13 +1,12 @@
-# HacktoberFest Starter Project :beers:
+# 🎃 HacktoberFest Starter Project 🎃
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first Pull Request to a public repository before doing the real thing!
 
 Celebrate [HacktoberFest](https://hacktoberfest.digitalocean.com/) by getting involved in the Open Source Community by completing some simple tasks in this project.
 
-This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
+This repository is open to all members of the GitHub Community. Any member may contribute to this project without being a collaborator.
 
 [https://alicewonderland.github.io/hacktoberfest/](https://alicewonderland.github.io/hacktoberfest/)
-
 
 
 ## What is Hacktoberfest?
@@ -104,6 +103,11 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.
 Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you chose in your comments too! Like a link to a helpful introduction or tutorial.
 
 [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+
+## BONUS!
+* See profiles submitted by fellow coders from around the globe. From Kathmandu to Copenhagen.
+* Discover some obscure to new and trending languages. From BrainFuck to Groovy.
+* Check out very creative ways to print out a Hello, World!
 
 ## Reference Links
 Here is a great tutorial for creating your first Pull Request by [Roshan Jossey](https://github.com/Roshanjossey)
