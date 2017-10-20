@@ -1838,3 +1838,8 @@ Noida
 - Place: Chicago, IL, USA
 - Bio: Softweare Engineer for SteelSeries
 - Github: [Matt Wszolek](https://github.com/mattwszolek)
+
+#### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
+- Place: Patrocínio, MG, BRA
+- Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
+- Github: [Mateus Machado](https://github.com/mateusfmachado)
