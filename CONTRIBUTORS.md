@@ -1,3 +1,8 @@
+#### Name: [Evgeniy Telegin](https://github.com/teleginzhenya)
+- Place: Almaty, Kazakhstan :squirrel:
+- Bio: Student, Web developer, Mobile developer, love React and React Native :)
+- GitHub: [teleginzhenya](https://github.com/teleginzhenya)
+
 ### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
 - Bio: Creator of Alexa Skills and Lex based chatbots
@@ -1633,11 +1638,6 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
-
-#### Name: [Aniket](https://github.com/AniketRoy)
-- Place: New Delhi, India
-- Bio: Computer Science Under Graduate, Open Source Lover
-- GitHub: [Aniket](https://github.com/AniketRoy)
 
 #### Name: [Nelson Estevão](https://github.com/nelsonmestevao)
 - Place: Braga, Portugal
