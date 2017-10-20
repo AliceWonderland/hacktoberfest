@@ -1453,6 +1453,11 @@ Noida
 - Bio: Data Scientist , Android Developer
 - Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
 
+#### Name: [Taylor Hudson](https://github.com/AllenCompSci)
+- Place: Allen, Texas, USA
+- Bio: Computer Scientist , C++ Developer, Java Developer, NodeJS, High School Computer Science Teacher, Math Teacher, Mathematicain
+- Github: [Allen Comp Sci](https://github.com/AllenCompSci)
+
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
 - Bio: Cat lover
