@@ -1903,3 +1903,8 @@ Noida
 - Place: Chattanooga, Tennesse, USA
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
 - GitHub: [Mateo Pool](https://github.com/IAmMyself)
+
+#### Name: [John "JB" Brock](https://github.com/peppertech)
+- Place: Seattle, Washington, USA
+- Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
+- GitHub: [Peppertech](https://github.com/peppertech)
