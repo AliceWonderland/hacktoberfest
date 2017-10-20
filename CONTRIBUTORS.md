@@ -830,6 +830,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [PureHyd](https://github.com/PureHyd)
+- Place: Evanston, IL
+- Bio: EECS Student \@ NorthwesternU
+- GitHub: [PureHyd](https://github.com/PureHyd)
+
 #### Name: [Hoang Ha](https://github.com/halink0803)
 - Place: Hanoi, Vietnam
 - Bio: I love javascript! :cat:
