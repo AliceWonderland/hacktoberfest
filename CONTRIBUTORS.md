@@ -1207,6 +1207,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
+#### Name: [Aman Satnami](https//github.com/zzbazinga)
+- Place: Indore, Madhya Pradesh, India
+- Bio: Dreamer, achiever
+- Github: [Aman Satnami](https//github.com/zzbazinga)
+
 #### Name: [Akshat Maheshwari](https://github.com/akshat14714)		
  - Place: Hyderabad, India		
  - Bio: CSE Undergrad in IIIT Hyderabad		
