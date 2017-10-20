@@ -5,6 +5,11 @@
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
 - Starup: [EndorseU](http://www.endorseu.com)
 
+#### Name: [Egi Nugraha](https://github.com/eginugraha)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I Love Code and Design. 
+- GitHub: [Egi Nugraha](https://github.com/eginugraha)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
@@ -1460,6 +1465,11 @@ Noida
 - Bio: Data Scientist , Android Developer
 - Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
 
+#### Name: [Taylor Hudson](https://github.com/AllenCompSci)
+- Place: Allen, Texas, USA
+- Bio: Computer Scientist , C++ Developer, Java Developer, NodeJS, High School Computer Science Teacher, Math Teacher, Mathematicain
+- Github: [Allen Comp Sci](https://github.com/AllenCompSci)
+
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
 - Bio: Cat lover
@@ -1589,3 +1599,13 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Ayushman KB](https://github.com/namhsuya/)
+- Place: Calcutta, India
+- Bio: Life sciences student|Dev|Linux enthusiast
+- GitHub: [namhsuya](https://github.com/namhsuya/)
+
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
