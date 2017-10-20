@@ -1839,6 +1839,11 @@ Noida
 - Bio: Softweare Engineer for SteelSeries
 - Github: [Matt Wszolek](https://github.com/mattwszolek)
 
+#### Name: [Henri Idrovo](https://github.com/henriguy1210)
+- Place: Chicago, Illinois, USA
+- Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
+- Github: [Henri Idrovo](https://github.com/henriguy1210)
+
 #### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
 - Place: Patrocínio, MG, BRA
 - Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
