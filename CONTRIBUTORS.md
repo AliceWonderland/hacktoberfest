@@ -769,10 +769,10 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
-#### Name: [Casper Freksen](https://github.com/cfreksen)
-- Place: Aarhus, Denmark
-- Bio: PhD student at Aarhus University
-- GitHub: [Casper Freksen](https://github.com/cfreksen)
+#### Name: [David Buckle](https://github.com/met3or)
+- Place: Manchester, UK
+- Bio: Linux System Administrator
+- GitHub: [met3or](https://github.com/met3or)
 
 #### Name: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - Place: Gurugram, India
@@ -1080,11 +1080,6 @@ to explore life. Also, Python and Django Developer
 - Place: Seattle, WA, USA, Earth!
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
-
-#### Name: [Naren Surampudi](https://github.com/nsurampu)
-- Place: Hyderabad, India
-- Bio: Electronics & Communications Major
-- Github: [Naren Surampudi](https://github.com/nsurampu)
 
 #### Name: [RYAN R SMITH](https://github.com/devronsoft)
 - Place: Oxford, UK
