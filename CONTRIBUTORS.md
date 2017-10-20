@@ -816,6 +816,16 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Santanaraj Esguerra](https://github.com/akiyamamio16)
+- Place: San Fernando City, Pampanga, Philippines 2000
+- Bio: I'm a 4th year Graduating I.T Student from Our Lady Of Fatima Univeristy Pampanga
+- GitHub: [Haruka Mayumi](https://github.com/akiyamamio16)
+
+#### Name: [Edwin Chui](https://github.com/Fly1nP4nda)
+- Place: Georgia, United States
+- Bio: Fulltime / Fullstack Web Developer
+- GitHub: [Fly1nP4nda](https://github.com/Fly1nP4nda)
+
 #### Name: [Mark Carlson](https://github.com/electrek)
 - Place: Chicago, IL, USA
 - Bio: Escape room maker
@@ -1654,6 +1664,11 @@ Noida
 - Bio: student :)
 - GitHub: [leaous](https://github.com/leaous/)
 
+#### Name：[Akani] (htpps://github.com/akanijade/)
+- Place: Jakarta, Indonesia
+- Bio: Student
+- GitHub: [akanijade] (https://github.com/akanijade/)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
@@ -1759,3 +1774,13 @@ Noida
  - Place: Louisville, Kentucky USA
  - Bio: Full Stack JavaScript/WoW - Hyjal(Horde)
  - GitHub: [mckenzieja](https://github.com/mckenzieja)]
+ 
+ #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
+ - Place: Kolkata, India
+ - Bio: Electronics Undergrad @Jadavpur University 
+ - Github [sanjeevbitx](https://github.com/sanjeevbitx)
+
+#### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
+- Place: Lucknow, Uttar Pradesh, INDIA
+- Bio: Flirty Allrounder with a knack of Programming, Sports and Music
+- Github: [Neelansh Sahai](https://github.com/neelanshsahai)
