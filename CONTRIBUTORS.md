@@ -1464,6 +1464,11 @@ Noida
 #### Name: [Jeffrey Ng](GitHub Link)
 - Place: California, United States
 - Bio: Student
+
+#### Name: [TJ Bollerman](https://github.com/tjboller/)
+- Place: New York, New York
+- Bio: Data Scientist
+- GitHub: [tjboller](https://github.com/tjboller/)
 - GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
 
 #### Name: [Peter Walsh](GitHub Link)
