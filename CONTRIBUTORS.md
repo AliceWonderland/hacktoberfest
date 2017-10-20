@@ -1789,3 +1789,8 @@ Noida
 - Place: Lucknow, Uttar Pradesh, INDIA
 - Bio: Flirty Allrounder with a knack of Programming, Sports and Music
 - Github: [Neelansh Sahai](https://github.com/neelanshsahai)
+
+#### Name: [Bryen Vieira](https://www.linkedin.com/in/bryen95/)
+- Place: London, UK
+- Bio: Android development and a sprinkle of back end web!
+- Github: [Bryen V](https://github.com/bryen95)
