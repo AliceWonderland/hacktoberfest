@@ -1144,6 +1144,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Sebastian Schreck](https://schreck.berlin)
+- Place: Berlin, Germany
+- Bio: Software Engineer
+- Github: [StegSchreck](https://github.com/StegSchreck)
+
 #### Name: [Fernando Contreras](https://github.com/fercreek)
 - Place: Nuevo Leon, Mexico
 - Bio: Software Engineer
