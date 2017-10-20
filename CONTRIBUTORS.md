@@ -54,3 +54,7 @@
 - Github: [Billy Lee](https://github.com/leebilly0)
 
 
+#### Name: [Audrey Delgado](https://github.com/AudreyLin)
+-Place: CA, USA
+-Bio: It Network & Security graduate turned newb developer...lol.  
+-Github: [AudreyLin](https://github.com/AudreyLin)
