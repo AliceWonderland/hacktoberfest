@@ -1,3 +1,15 @@
+#### Name: [Ruta Puodziunaite](https://github.com/rutuke)
+- Place: Dublin, Ireland
+- Bio: Fullstack Web developer and a chemical sciences graduate.
+- GitHub: [rutuke](https://github.com/rutuke)
+- Website: [https://www.rutap.tech](https://www.rutap.tech)
+- Starup: [EndorseU](http://www.endorseu.com)
+
+#### Name: [Egi Nugraha](https://github.com/eginugraha)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I Love Code and Design. 
+- GitHub: [Egi Nugraha](https://github.com/eginugraha)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
@@ -22,6 +34,11 @@
 - Place: Ankara
 - Bio: Format atilir
 - GitHub: [Oguzcan Emegil](https://github.com/oemegil)
+
+#### Name: [Colin Zhang](http://linkedin.com/in/colinzhang95)		
+ - Place: Philadelphia, PA, USA		
+ - Bio: Entrepreneur, product manager, traveller		 
+ - Github: [colinzhang](https://github.com/colinzhang)		
 
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
@@ -1453,6 +1470,11 @@ Noida
 - Bio: Data Scientist , Android Developer
 - Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
 
+#### Name: [Taylor Hudson](https://github.com/AllenCompSci)
+- Place: Allen, Texas, USA
+- Bio: Computer Scientist , C++ Developer, Java Developer, NodeJS, High School Computer Science Teacher, Math Teacher, Mathematicain
+- Github: [Allen Comp Sci](https://github.com/AllenCompSci)
+
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
 - Bio: Cat lover
@@ -1467,6 +1489,11 @@ Noida
 - Place: Milan, Italy
 - Bio: Design&Arts
 - GitHub: [maojh](https://github.com/maojh)
+
+#### Name: [SAIDEEP DICHOLKAR](https://github.com/saideepd)
+- Place: Mumbai, India
+- Bio: Computer Science Engineering Student & Tech Enthusiast
+- GitHub: [Saideep Dicholkar](https://github.com/saideepd)
 
 #### Name: [Lisa Nguyen](https://github.com/LisaNguyen)
 - Place: Dublin, Ireland
@@ -1573,6 +1600,11 @@ Noida
 - Bio: service engineer
 - GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
 
+#### Name: [Grégoire](https://github.com/navispeed/)
+- Place: Quebec, Canada
+- Bio: Scala developer 
+- GitHub: [navispeed](https://github.com/navispeed/)
+
 #### Name: [Spencer](https://github.com/leaous/)
 - Place: Pittsburgh, Pennsylvania
 - Bio: student :)
@@ -1587,3 +1619,23 @@ Noida
 - Place: Singapore, Singapore
 - Bio: Student
 - Github: [Gui An Lee](https://github.com/piroton)
+
+#### Name: [Hardik Surana](https://github.com/hardiksurana)
+- Place: Bangalore, India
+- Bio: Programmer, Student
+- Github: [Hardik Surana](https://github.com/hardiksurana)
+
+#### Name: [Curian lee Zhen Jie](https://github.com/finalight)		
+ - Place: Singapore	
+ - Bio: Fullstack, devops practitioner
+ - GitHub: [turkerdotpy](https://github.com/finalight)	
+
+#### Name: [Ayushman KB](https://github.com/namhsuya/)
+- Place: Calcutta, India
+- Bio: Life sciences student|Dev|Linux enthusiast
+- GitHub: [namhsuya](https://github.com/namhsuya/)
+
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
