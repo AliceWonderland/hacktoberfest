@@ -816,6 +816,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Will Tan](https://github.com/twillzy)
+- Place: Sydney, Australia
+- Bio: 2/4 into getting a free Hacktoberfest T-Shirt
+- GitHub: [Antonio Jesus Pelaez](https://github.com/twillzy)
+
 #### Name: [Santanaraj Esguerra](https://github.com/akiyamamio16)
 - Place: San Fernando City, Pampanga, Philippines 2000
 - Bio: I'm a 4th year Graduating I.T Student from Our Lady Of Fatima Univeristy Pampanga
