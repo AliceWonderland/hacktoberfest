@@ -1,3 +1,13 @@
+#### Name: [Sam Flores](https://github.com/samflores23)		
+ - Place: Chicago, IL, USA		
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
+ - GitHub: [samflores23](https://github.com/samflores23)
+ 
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
+  - Place: Indore, India 
+  - Bio: Engineering Student @ IET DAVV Indore 
+  - Github: [deepikasunhare](https://github.com/deepikasunhare)
+ 
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
@@ -850,6 +860,21 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
+- Place: Emmen, the Netherlands
+- Bio: Game design studen & Hobbyist programmer
+- GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
+
+#### Name: [Joshua Dennis Blackman](https://github.com/JDBlackman)
+- Place: London, United Kingdom
+- Bio: Computer Science Student at Swansea University
+- GitHub: [Joshua Dennis Blackman](https://github.com/JDBlackman)
+
+#### Name: [Suryatej Reddy](https://github.com/suryatejreddy)
+- Place: New Delhi, India
+- Bio: CSE Student at IIITD
+- GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
+
 #### Name: [Jerry Chong](https://github.com/zanglang)
 - Place: Johor Bahru, Malaysia
 - Bio: Software Engineer
@@ -1325,6 +1350,11 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Leticiafatimaa](https://github.com/leticiafatimaa)
+- Place: Florianopolis, SC, Brazil
+- Bio: I have 19 years, course Analysis and Development System.
+- GitHub: [LeticiaFatimaa](https://github.com/leticiafatimaa)
 
 #### Name: [Dale Noe](https://github.com/dalenoe)
 - Place: Fairbury, Illinois, US
@@ -1958,3 +1988,12 @@ Noida
 - Bio: Love to Code. Competetive Programming. Web Developer. OpenSource Lover. Data Mining.
 - Github: [npcoder2k14](https://github.com/npcoder2k14)
 
+#### Name: [Alistair](https://github.com/aowongster)		 
+- Place: San Diego, CA
+- Bio: love to read, learn, and code
+- GitHub: [Alistair](https://github.com/aowongster)
+
+#### Name: [Rishabh Thaney](https://github.com/Rishabh42)
+- Place: New Delhi,India
+- Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
+- GitHub: [Rishabh42](https://github.com/Rishabh42)
