@@ -1754,3 +1754,8 @@ Noida
  - Place: Kassel, Germany
  - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
+
+#### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
+- Place: Lucknow, Uttar Pradesh, INDIA
+- Bio: Flirty Allrounder with a knack of Programming, Sports and Music
+- Github: [Neelansh Sahai](https://github.com/neelanshsahai)
