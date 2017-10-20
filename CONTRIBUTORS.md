@@ -1,3 +1,8 @@
+#### Name: [Chong Jia Wei](https://github.com/heyjiawei)
+- Place: Singapore
+- Bio: Transformer in disguise
+- GitHub: [heyjiawei](https://github.com/heyjiawei)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
