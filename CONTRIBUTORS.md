@@ -1577,3 +1577,8 @@ Noida
 - Place: Pittsburgh, Pennsylvania
 - Bio: student :)
 - GitHub: [leaous](https://github.com/leaous/)
+
+#### Name: [Udit Mittal](https://github.com/udit-001)
+- Place: New Delhi, India
+- Bio: Programmer
+- Github: [Udit Mittal](https://github.com/udit-001)
