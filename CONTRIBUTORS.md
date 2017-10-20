@@ -9,12 +9,12 @@
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
 #### Name: [Mintoo Kumar](https://github.com/mintoo511)
-- Place: New Delhi, India 
+- Place: New Delhi, India
 - Bio: Software Engineer
 - GitHub: [mintoo511](https://github.com/mintoo511)
 
 #### Name: [GITHAE KEVIN](https://github.com/Kevogich)
-- Place: Torino, Italy 
+- Place: Torino, Italy
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
 
@@ -1871,7 +1871,7 @@ Noida
 
 #### Name: [Henri Idrovo](https://github.com/henriguy1210)
 - Place: Chicago, Illinois, USA
-- Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
+- Bio: Java Software Engineer. Illinois Institute of Technology graduate.
 - Github: [Henri Idrovo](https://github.com/henriguy1210)
 
 #### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
@@ -1908,3 +1908,22 @@ Noida
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
 - GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
+
+#### Name: [Kyle Lawson](https://github.com/KyleLawson16/)
+- Place: Merrimack, New Hampshire, USA
+- Bio: Business Student/Entrepreneur/Self-taught Developer
+- Github: [KyleLawson16](https://github.com/KyleLawson16/)
+
+#### Name: [V3NG](https://github.com/ianklemm)
+- Place: Germany
+- Bio: Webdeveloper, Sysadmin
+
+#### Name: [John "JB" Brock](https://github.com/peppertech)
+- Place: Seattle, Washington, USA
+- Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
+- GitHub: [Peppertech](https://github.com/peppertech)
+
+#### Name: [Mark](https://github.com/Mxrk)		 
+ - Place: /
+ - Bio: love informatics		 
+ - GitHub: [Mark](https://github.com/Mxrk)
