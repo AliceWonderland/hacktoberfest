@@ -1595,6 +1595,11 @@ Noida
 - Bio: service engineer
 - GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
 
+#### Name: [Grégoire](https://github.com/navispeed/)
+- Place: Quebec, Canada
+- Bio: Scala developer 
+- GitHub: [navispeed](https://github.com/navispeed/)
+
 #### Name: [Spencer](https://github.com/leaous/)
 - Place: Pittsburgh, Pennsylvania
 - Bio: student :)
