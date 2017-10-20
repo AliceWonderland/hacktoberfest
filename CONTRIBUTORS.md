@@ -1,3 +1,8 @@
+#### Name: [Vieko Franetovic](https://github.com/vieko)
+- Calgary, Alberta Canada
+- Bio: Developer / WebOps
+- GitHub: [vieko](https://github.com/vieko)
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
@@ -25,10 +30,10 @@
 - Bio: Budding software developer, studying MSc Computing
 - GitHub: [thomas-booker](https://github.com/thomas-booker)
 
-#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)		
- - Place: Tekirdağ, Turkey		
- - Bio: Literally gamer, geek and viking.		
- - GitHub: [turkerdotpy](https://github.com/turkerdotpy)		
+#### Name: [Türker Yıldırım](https://github.com/turkerdotpy)
+ - Place: Tekirdağ, Turkey
+ - Bio: Literally gamer, geek and viking.
+ - GitHub: [turkerdotpy](https://github.com/turkerdotpy)
 
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
@@ -45,10 +50,10 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
-#### Name: [Dalton](https://github.com/stormBandit)		
- - Place: Ontario, Canada		
- - Bio: Software Engineer		
- - GitHun: [Dalton](https://github.com/stormBandit)		
+#### Name: [Dalton](https://github.com/stormBandit)
+ - Place: Ontario, Canada
+ - Bio: Software Engineer
+ - GitHun: [Dalton](https://github.com/stormBandit)
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -1614,11 +1619,6 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
-
-#### Name: [syamkumar](https://github.com/syam3526)
-- Place:kerala,india
-- Bio: data scientist
-- Github: [syamkumar](https://github.com/syam3526)
 
 #### Name: [Gui An Lee](https://github.com/piroton)
 - Place: Singapore, Singapore
