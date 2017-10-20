@@ -1605,15 +1605,15 @@ Noida
 - Bio: student :)
 - GitHub: [leaous](https://github.com/leaous/)
 
-#### Name: [Danny M.](https://github.com/DannyDanielsan/)
-- Place: Kansas City, Missouri, United States
-- Bio: .NET Developer
-- GitHub: [DannyDanielsan](https://github.com/DannyDanielsan/)
-
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Curian lee Zhen Jie](https://github.com/finalight)		
+ - Place: Singapore	
+ - Bio: Fullstack, devops practitioner
+ - GitHub: [turkerdotpy](https://github.com/finalight)	
 
 #### Name: [Ayushman KB](https://github.com/namhsuya/)
 - Place: Calcutta, India
