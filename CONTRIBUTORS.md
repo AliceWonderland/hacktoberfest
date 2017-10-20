@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Nelson Estevão](https://github.com/nelsonmestevao)
+- Place: Braga, Portugal
+- Bio: Student of Software Engineering who likes puzzles.
+- GitHub: [nelsonmestevao](https://github.com/nelsonmestevao)
