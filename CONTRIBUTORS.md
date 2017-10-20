@@ -1838,3 +1838,8 @@ Noida
 - Place: Chicago, IL, USA
 - Bio: Softweare Engineer for SteelSeries
 - Github: [Matt Wszolek](https://github.com/mattwszolek)
+
+#### Name: [Wan Wan](https://github.com/lf2com)
+- Place: Taipei, Taiwan
+- Bio: Front-end Developer
+- GitHub: [Wan Wan](https://github.com/lf2com)
