@@ -1,5 +1,3 @@
-# same literals as run first time in C by Sir Dennis Ritchie and Brian 
-Kernighan
+#!/usr/bin/env python3
 
 print("Hello, World!")
-
