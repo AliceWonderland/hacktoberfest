@@ -1664,6 +1664,11 @@ Noida
 - Bio: student :)
 - GitHub: [leaous](https://github.com/leaous/)
 
+#### Name：[Akani] (htpps://github.com/akanijade/)
+- Place: Jakarta, Indonesia
+- Bio: Student
+- GitHub: [akanijade] (https://github.com/akanijade/)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
