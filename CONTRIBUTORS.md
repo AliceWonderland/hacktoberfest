@@ -1898,3 +1898,8 @@ Noida
 - Place: Chattanooga, Tennesse, USA
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
 - GitHub: [Mateo Pool](https://github.com/IAmMyself)
+
+#### Name: [sevskii](https://github.com/sevskii)
+- Place: st. Pittsburgh, Russia
+- Bio: Student
+- GitHub: [sevskii](https://github.com/sevskii)
