@@ -1754,3 +1754,8 @@ Noida
  - Place: Kassel, Germany
  - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
+
+#### Name: [Josh McKenzie](https://github.com/mckenzieja)
+ - Place: Louisville, Kentucky USA
+ - Bio: Full Stack JavaScript/WoW - Hyjal(Horde)
+ - GitHub: [mckenzieja](https://github.com/mckenzieja)]
