@@ -1684,6 +1684,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Sai Praneeth](https://github.com/saip009)
+- Place: Mumbai, India
+- Bio: Programmer
+- Github: [Sai Praneeth](https://github.com/saip009)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)		
  - Place: New Delhi, India		
  - Bio: Software developer, studying B.Tech CSE		
@@ -1799,3 +1804,4 @@ Noida
 - Place: London, UK
 - Bio: Android development and a sprinkle of back end web!
 - Github: [Bryen V](https://github.com/bryen95)
+
