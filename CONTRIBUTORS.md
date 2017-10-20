@@ -1515,3 +1515,8 @@ Noida
 - Place: Redmond, Washington
 - Bio: service engineer
 - GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
+
+#### Name: [Spencer](https://github.com/leaous/)
+- Place: Pittsburgh, Pennsylvania
+- Bio: student :)
+- GitHub: [leaous](https://github.com/leaous/)
