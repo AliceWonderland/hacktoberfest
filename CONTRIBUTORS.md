@@ -1500,3 +1500,8 @@ Noida
 - Place: California
 - Bio: Developer
 - GitHub: [taylorlee1](https://github.com/taylorlee1/)
+
+#### Name: [José](https://github.com/JJPO96/)
+- Place: Porto, Portugal
+- Bio: Informatics Student
+- GitHub: [JJPO96](https://github.com/JJPO96/)
