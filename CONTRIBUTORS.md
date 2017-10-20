@@ -1185,6 +1185,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Jianhao Tan](https://github.com/jaanhio)
+- Place: Singapore
+- Bio: I like spending time in chlorinated water and spitting out codes.
+- GitHub: [Jianhao Tan](https://github.com/jaanhio)
+
 #### Name:[Roi Ben - Shaul](https://github.com/rughciatuk)
 - Place: israel
 - Bio: Android developer
