@@ -1,3 +1,9 @@
+#### Name: [Andrew Battisson](https://github.com/abattisson)
+- Place: Lichfield, United Kingdom
+- Bio: Front End Developer
+- GitHub: [Abattisson](https://github.com/abattisson)
+
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
