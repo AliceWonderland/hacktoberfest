@@ -1,3 +1,8 @@
+﻿#### Name: [GITHAE KEVIN](https://github.com/Kevogich)
+- Place: Torino, Italy 
+- Bio: Everything Data !
+- GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
+
 #### Name: [Sourav Verma](https://github.com/SrGrace)
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
