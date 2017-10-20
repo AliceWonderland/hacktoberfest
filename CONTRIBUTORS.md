@@ -3,7 +3,7 @@
 - Bio: Fullstack Web developer, Computer Engineering Master student
 - GitHub: [faouziamrouche](https://github.com/faouziamrouche)
 
-﻿#### Name: [Rene Israel](https://github.com/reneisrael)
+#### Name: [Rene Israel](https://github.com/reneisrael)
 - Place: Mexico
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
@@ -1466,17 +1466,17 @@ Noida
 - Bio: Student-developer, fond of JAva, Web etc.
 - GitHub: [Ermolaeff](https://github.com/ermoalaeff)
 
-#### Name: [Jeffrey Ng](GitHub Link)
+#### Name: [Jeffrey Ng](https://github.com/NgJeffrey/)
 - Place: California, United States
 - Bio: Student
 - GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
 
-#### Name: [Peter Walsh](GitHub Link)
+#### Name: [Peter Walsh](https://github.com/ddddamian/)
 - Place: UK
 - Bio: Learning to code through freeCodeCamp
 - GitHub: [Peter Walsh](https://github.com/ddddamian/)
 
-#### Name: [Michelle Uy](GitHub Link)
+#### Name: [Michelle Uy](https://github.com/breindy/)
 - Place: NYC
 - Bio: CS student aspiring to become a better coder
 - GitHub: [Michelle Uy](https://github.com/breindy/)
