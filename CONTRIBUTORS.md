@@ -1,8 +1,3 @@
-#### Name: [Darsh Naik](https://github.com/DarshNaik)
-- Place: India
-- Bio: Computer Engineering student
-- GitHub: [DarshNaik](https://github.com/DarshNaik)
-
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
@@ -1620,11 +1615,6 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
-#### Name: [DAVE HOWSON](https://github.com/davehowson)
-- Place: Kandy, Sri Lanka
-- Bio: Software Engineering Student/ Web Developer
-- GitHub: [davehowson](https://github.com/davehowson)
-
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
@@ -1659,3 +1649,8 @@ Noida
 - Place: London, England
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Kutsoragi](https://github.com/Kutsoragi)
+- Place: Madrid, Spain
+- Bio: Software Student
+- Github: [Kutsoragi] (https://github.com/Kutsoragi)
