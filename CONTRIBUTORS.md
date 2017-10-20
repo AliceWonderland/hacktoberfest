@@ -1,3 +1,8 @@
+#### Name: [Evgeniy Telegin](https://github.com/teleginzhenya)
+- Place: Almaty, Kazakhstan :squirrel:
+- Bio: Student, Web developer, Mobile developer, love React and React Native :)
+- GitHub: [teleginzhenya](https://github.com/teleginzhenya)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
