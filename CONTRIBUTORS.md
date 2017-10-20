@@ -1992,3 +1992,8 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+
+#### Name: [Dallas Rhoades](https://github.com/dallasrhoades)
+- Place: College Park, Maryland, USA
+- Bio: Undergraduate
+- GitHub: [Dallas Rhoades](https://github.com/dallasrhoades)
