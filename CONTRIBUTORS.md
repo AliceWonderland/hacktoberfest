@@ -1718,3 +1718,8 @@ Noida
 - Place: Madrid, Spain
 - Bio: Software Student
 - Github: [Kutsoragi] (https://github.com/Kutsoragi)
+
+#### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Undergrad at IIITA
+- Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
