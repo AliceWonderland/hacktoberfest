@@ -1783,6 +1783,12 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+
+#### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
+- Place: Illinois
+- Bio: Student
+- Github: [noradiegwu](https://github.com/noradiegwu)
+
 #### Name: [Sai Praneeth](https://github.com/saip009)
 - Place: Mumbai, India
 - Bio: Programmer
@@ -1983,6 +1989,11 @@ Noida
  - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
 
+ #### Name: [Narendra Pal](https://github.com/npcoder2k14)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Love to Code. Competetive Programming. Web Developer. OpenSource Lover. Data Mining.
+- Github: [npcoder2k14](https://github.com/npcoder2k14)
+
 #### Name: [Alistair](https://github.com/aowongster)		 
 - Place: San Diego, CA
 - Bio: love to read, learn, and code
@@ -1997,3 +2008,13 @@ Noida
 - Place: Olympia, WA, USA
 - Bio: I am an artist, programmer. I make robots, I crochet, etc. artmew.com
 - GitHub: [ironsketch](https://github.com/ironsketch)
+
+#### Name: [Daniel Baker](https://github.com/djbaker)
+- Place: New Orleans, LA
+- Bio: Software Engineer
+- GitHub: [djbaker](https://github.com/djbaker)
+
+#### Name: [Jenn Chu](https://github.com/jquinnie)		 
+- Place: Houston, TX
+- Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
+- GitHub: [JQuinnie](https://github.com/jquinnie)
