@@ -1883,3 +1883,9 @@ Noida
 - Place: Pune, Maharashtra, India
 - Bio: Full Stack developer and Tech enthusiast
 - Github: [shpulak](https://github.com/shpulak)
+
+#### Name: [Joel Vilanilam Zachariah](https://github.com/JoelVZachariah)
+- Place: Ernakulam, Kerala, India
+- Bio: Sophomore CS undergraduate, MUNner,  programmer
+- Github : [Joel V Zachariah](https://github.com/JoelVZachariah)
+
