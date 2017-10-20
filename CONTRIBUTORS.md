@@ -1987,3 +1987,8 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+
+#### Name: [Daniel Baker](https://github.com/djbaker)
+- Place: New Orleans, LA
+- Bio: Software Engineer
+- GitHub: [djbaker](https://github.com/djbaker)
