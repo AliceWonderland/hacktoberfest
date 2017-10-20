@@ -1485,6 +1485,11 @@ Noida
 - Bio: Design&Arts
 - GitHub: [maojh](https://github.com/maojh)
 
+#### Name: [SAIDEEP DICHOLKAR](https://github.com/saideepd)
+- Place: Mumbai, India
+- Bio: Computer Science Engineering Student & Tech Enthusiast
+- GitHub: [Saideep Dicholkar](https://github.com/saideepd)
+
 #### Name: [Lisa Nguyen](https://github.com/LisaNguyen)
 - Place: Dublin, Ireland
 - Bio: Front-end developer
