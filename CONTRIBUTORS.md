@@ -1843,3 +1843,8 @@ Noida
 - Place: Chicago, Illinois, USA
 - Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
 - Github: [Henri Idrovo](https://github.com/henriguy1210)
+
+#### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
+- Place: Patrocínio, MG, BRA
+- Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
+- Github: [Mateus Machado](https://github.com/mateusfmachado)
