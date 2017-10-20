@@ -1754,6 +1754,11 @@ Noida
  - Place: Kassel, Germany
  - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
+ 
+ #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
+ - Place: Kolkata, India
+ - Bio: Electronics Undergrad @Jadavpur University 
+ - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
 - Place: Lucknow, Uttar Pradesh, INDIA
