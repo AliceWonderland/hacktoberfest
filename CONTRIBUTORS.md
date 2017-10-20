@@ -1,4 +1,9 @@
-﻿#### Name: [GITHAE KEVIN](https://github.com/Kevogich)
+#### Name: [Clark Weckmann](https://github.com/clarkhacks)
+- Place: Illinois, USA
+- Bio: Design, Develop, Produce!
+- GitHub: [ClarkHacks](https://github.com/clarkhacks)
+
+#### Name: [GITHAE KEVIN](https://github.com/Kevogich)
 - Place: Torino, Italy 
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
