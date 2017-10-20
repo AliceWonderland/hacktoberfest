@@ -1670,6 +1670,11 @@ Noida
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
 
+#### Name: [Ipaye Alameen](https://github.com/ipaye)
+- Place: Lagos, Nigeria
+- Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
+- Github: [ipaye] (https://github.com/ipaye)
+
 #### Name: [Kutsoragi](https://github.com/Kutsoragi)
 - Place: Madrid, Spain
 - Bio: Software Student
