@@ -1187,10 +1187,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
-#### Name: [Akshat Maheshwari](https://github.com/akshat14714)
-- Place: Hyderabad, India
-- Bio: CSE Undergrad in IIIT Hyderabad
-- Github: [akshat14714](https://github.com/akshat14714/)
+#### Name: [Akshat Maheshwari](https://github.com/akshat14714)		
+ - Place: Hyderabad, India		
+ - Bio: CSE Undergrad in IIIT Hyderabad		
+ - Github: [akshat14714](https://github.com/akshat14714/)
 
 #### Name: [Bennie Mosher](https://github.com/benniemosher)		
  - Place: Windsor, CO		
@@ -1888,6 +1888,11 @@ Noida
 - Place: Pune, Maharashtra, India
 - Bio: Full Stack developer and Tech enthusiast
 - Github: [shpulak](https://github.com/shpulak)
+
+#### Name: [Joel Vilanilam Zachariah](https://github.com/JoelVZachariah)
+- Place: Ernakulam, Kerala, India
+- Bio: Sophomore CS undergraduate, MUNner,  programmer
+- Github : [Joel V Zachariah](https://github.com/JoelVZachariah)
 
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
