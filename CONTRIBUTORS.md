@@ -1283,6 +1283,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Larizza Noelly Tueros Garcia](https://github.com/skayablars)
+- Place: Santiago de los Caballeros, República Dominicana
+- Bio: Software Engineer, Web Developer, Design unicorn
+- GitHub: [Larizza Tueros](https://github.com/skayablars)
+
 #### Name: [Gaurav Lalchandani](https://github.com/return007)
 - Place: India
 - Bio: Computer Science Student, Eat, code and sleep :P
