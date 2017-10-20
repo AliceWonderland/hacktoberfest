@@ -1139,6 +1139,11 @@ Noida
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
 
+#### Name: [Dale Noe](https://github.com/dalenoe)
+- Place: Fairbury, Illinois, US
+- Bio: System administrator by day, devops by hobby.
+- GitHub: [Dale Noe](https://github.com/dalenoe)
+
 #### Name: [Valera Kushnir](https://github.com/kashura)
 - Place: Tampa, FL, USA
 - Bio: Scrum Master and passionate technologist.
@@ -1486,3 +1491,7 @@ Noida
 - Bio: Love stuff
 - GitHub: [Bruno](https://github.com/bbarao/)
 
+#### Name: [Taylor Lee](https://github.com/taylorlee1/)
+- Place: California
+- Bio: Developer
+- GitHub: [taylorlee1](https://github.com/taylorlee1/)
