@@ -3,10 +3,20 @@
 - Bio: Transformer in disguise
 - GitHub: [heyjiawei](https://github.com/heyjiawei)
 
+#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
+- Place: Semarang, Indonesia
+- Bio: ♥ opensource ♥
+- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
+
 ### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
@@ -1176,6 +1186,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
+#### Name: [Naman Doshi] (https://github.com/warmachine0609)
+-Place: Chennai,India
+-Bio: ML developer
+-Github: [Naman Doshi] (https://github.com/warmachine0609)
 #### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
 - Bio: Student
@@ -1640,6 +1654,26 @@ Noida
  - Bio: Software developer, studying B.Tech CSE		
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Aniket](https://github.com/AniketRoy)
+- Place: New Delhi, India
+- Bio: Computer Science Under Graduate, Open Source Lover
+- GitHub: [Aniket](https://github.com/AniketRoy)
+
+#### Name: [Nelson Estevão](https://github.com/nelsonmestevao)
+- Place: Braga, Portugal
+- Bio: Student of Software Engineering who likes puzzles.
+- GitHub: [nelsonmestevao](https://github.com/nelsonmestevao)
+
+#### Name: [Tom Michel](https://github.com/tomichel)
+- Place: Berlin, Germany
+- Bio: Developer
+- Github: [Tom Michel](https://github.com/tomichel)
+
+#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
+- Place: New Delhi, India
+- Bio: Software developer, studying B.Tech CSE
+- GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+
 #### Name: [Rohit Mathew](https://github.com/rohitjmathew)
 - Place: Bangalore, Karnataka, India
 - Bio: Android Developer, Freelancer and Tech Enthusiast
@@ -1685,7 +1719,23 @@ Noida
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
 - Github: [ipaye] (https://github.com/ipaye)
 
+#### Name: [Audrey Delgado](https://github.com/AudreyLin)
+- Place: CA, USA
+- Bio: It Network & Security graduate turned newb developer...lol.  
+- Github: [AudreyLin](https://github.com/AudreyLin)
+
 #### Name: [Kutsoragi](https://github.com/Kutsoragi)
 - Place: Madrid, Spain
 - Bio: Software Student
 - Github: [Kutsoragi] (https://github.com/Kutsoragi)
+
+#### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
+- Place: Mauritius
+- Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
+- GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
+- Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
+
+#### Name: [Paul Schmidt](https://github.com/pschmidt88)
+ - Place: Kassel, Germany
+ - Bio: Software Engineer @ plentymarkets
+ - Github [pschmidt88](https://github.com/pschmidt88)
