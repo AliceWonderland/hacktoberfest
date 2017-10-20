@@ -1568,11 +1568,6 @@ Noida
 - Bio: Web Developer
 - GitHub: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
 
-#### Nme: [Rajat Singhal](https://github.com/rajat2797)
-- Place: New Delhi, India
-- Bio: Programmer
-- Github: [Rajat Singhal](https://github.com/rajat2797)
-
 Name: [Eric](https://github.com/Eric-Tadeja/)
 - Place: Redmond, Washington
 - Bio: service engineer
@@ -1587,3 +1582,8 @@ Name: [Eric](https://github.com/Eric-Tadeja/)
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Nme: [Rajat Singhal](https://github.com/rajat2797)
+- Place: New Delhi, India
+- Bio: Programmer
+- Github: [Rajat Singhal](https://github.com/rajat2797)
