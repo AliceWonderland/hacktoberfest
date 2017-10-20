@@ -2004,6 +2004,11 @@ Noida
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
 
+#### Name: [Daniel Baker](https://github.com/djbaker)
+- Place: New Orleans, LA
+- Bio: Software Engineer
+- GitHub: [djbaker](https://github.com/djbaker)
+
 #### Name: [Jenn Chu](https://github.com/jquinnie)		 
 - Place: Houston, TX
 - Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
