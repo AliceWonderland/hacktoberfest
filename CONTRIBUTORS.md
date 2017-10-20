@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Joseph Musembi](https://github.com/musemby)
+- Place: Nairobi, Kenya
+- Bio: Software engineer
+- Github: [Joseph Musembi](https://github.com/musemby)
