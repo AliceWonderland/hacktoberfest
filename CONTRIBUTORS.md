@@ -769,6 +769,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Jamie Taylor](https://github.com/GaProgMan)
+- Place: Leeds, UK
+- Bio: Full stack .NET developer (and .NET Core blogger)
+- GitHub: [GaProgMan](https://github.com/GaProgMan)
+
 #### Name: [Lokesh Raj Arora](https://github.com/lokiiarora)
 - Place: Darjeeling, India
 - Bio: CS Student at SRM University, Full Stack Developer
