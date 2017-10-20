@@ -35,6 +35,11 @@
 - Bio: Format atilir
 - GitHub: [Oguzcan Emegil](https://github.com/oemegil)
 
+#### Name: [Colin Zhang](http://linkedin.com/in/colinzhang95)		
+ - Place: Philadelphia, PA, USA		
+ - Bio: Entrepreneur, product manager, traveller		 
+ - Github: [colinzhang](https://github.com/colinzhang)		
+
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
 - Bio: Blockchain and Fullstack Web Developer
@@ -1610,10 +1615,20 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
-#### Name: [Colin Zhang](http://linkedin.com/in/colinzhang95)
-- Place: Philadelphia, PA, USA
-- Bio: Entrepreneur, product manager, traveller
-- Github: [colinzhang](https://github.com/colinzhang)
+#### Name: [syamkumar](https://github.com/syam3526)
+- Place:kerala,india
+- Bio: data scientist
+- Github: [syamkumar](https://github.com/syam3526)
+
+#### Name: [Gui An Lee](https://github.com/piroton)
+- Place: Singapore, Singapore
+- Bio: Student
+- Github: [Gui An Lee](https://github.com/piroton)
+
+#### Name: [Hardik Surana](https://github.com/hardiksurana)
+- Place: Bangalore, India
+- Bio: Programmer, Student
+- Github: [Hardik Surana](https://github.com/hardiksurana)
 
 #### Name: [Curian lee Zhen Jie](https://github.com/finalight)		
  - Place: Singapore	
