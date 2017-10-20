@@ -1699,6 +1699,11 @@ Noida
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
 - Github: [ipaye] (https://github.com/ipaye)
 
+#### Name: [Audrey Delgado](https://github.com/AudreyLin)
+- Place: CA, USA
+- Bio: It Network & Security graduate turned newb developer...lol.  
+- Github: [AudreyLin](https://github.com/AudreyLin)
+
 #### Name: [Kutsoragi](https://github.com/Kutsoragi)
 - Place: Madrid, Spain
 - Bio: Software Student
