@@ -1081,6 +1081,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
+#### Name: [Anurag Tiwari](https//github.com/t2013anurag)
+- Place: Bangalore, India
+- Bio: Programmer
+- Github: [Anurag Tiwari](https//github.com/t2013anurag)
+
+=======
 #### Name: [Justin Oliver](https://github.com/justinoliver)
 - Place: Seattle, WA, USA, Earth!
 - Bio: Trying to learn cool new things!
