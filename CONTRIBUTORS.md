@@ -1873,3 +1873,8 @@ Noida
 - Place: Long Island, New York, USA
 - Bio: Professional Web Developer since 1995
 - Github: [Glen J Fergo](https://github.com/gfergo)
+
+#### Name: [Shashwat Pulak](https://github.com/shpulak)
+- Place: Pune, Maharashtra, India
+- Bio: Full Stack developer and Tech enthusiast
+- Github: [shpulak](https://github.com/shpulak)
