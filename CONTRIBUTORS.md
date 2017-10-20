@@ -1,3 +1,13 @@
+#### Name: [Sam Flores](https://github.com/samflores23)		
+ - Place: Chicago, IL, USA		
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
+ - GitHub: [samflores23](https://github.com/samflores23)
+ 
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
+  - Place: Indore, India 
+  - Bio: Engineering Student @ IET DAVV Indore 
+  - Github: [deepikasunhare](https://github.com/deepikasunhare)
+ 
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
@@ -1325,6 +1335,11 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Leticiafatimaa](https://github.com/leticiafatimaa)
+- Place: Florianopolis, SC, Brazil
+- Bio: I have 19 years, course Analysis and Development System.
+- GitHub: [LeticiaFatimaa](https://github.com/leticiafatimaa)
 
 #### Name: [Dale Noe](https://github.com/dalenoe)
 - Place: Fairbury, Illinois, US
