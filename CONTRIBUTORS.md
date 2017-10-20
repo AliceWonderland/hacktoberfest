@@ -860,6 +860,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
+- Place: Emmen, the Netherlands
+- Bio: Game design studen & Hobbyist programmer
+- GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
+
 #### Name: [Joshua Dennis Blackman](https://github.com/JDBlackman)
 - Place: London, United Kingdom
 - Bio: Computer Science Student at Swansea University
