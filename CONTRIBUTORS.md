@@ -1952,3 +1952,8 @@ Noida
  - Place: /
  - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
+
+#### Name: [Alistair](https://github.com/aowongster)		 
+- Place: San Diego, CA
+- Bio: love to read, learn, and code
+- GitHub: [Alistair](https://github.com/aowongster)
