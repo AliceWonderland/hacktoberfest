@@ -1,3 +1,8 @@
+#### Name: [Shubham Chauhan](https://github.com/ShubhamSinghChauhan)
+- Place: New Delhi, India
+- Bio: Coder | Gamer | Procrastinator
+- GitHub: [ShubhamSinghChauhan](https://github.com/ShubhamSinghChauhan)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
