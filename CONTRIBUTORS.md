@@ -1610,6 +1610,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Colin Zhang](http://linkedin.com/in/colinzhang95)
+- Place: Philadelphia, PA, USA
+- Bio: Entrepreneur, product manager, traveller
+- Github: [colinzhang](https://github.com/colinzhang)
+
 #### Name: [Curian lee Zhen Jie](https://github.com/finalight)		
  - Place: Singapore	
  - Bio: Fullstack, devops practitioner
