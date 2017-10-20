@@ -769,6 +769,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Warrin Pipon](https://github.com/lgdroidz)
+- Place: Davao, Philippines
+- Bio: Web Developer
+- GitHub: [Warrin Pipon](https://github.com/lgdroidz)
+
 #### Name: [David Buckle](https://github.com/met3or)
 - Place: Manchester, UK
 - Bio: Linux System Administrator
