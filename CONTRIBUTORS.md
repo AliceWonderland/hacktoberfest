@@ -1805,3 +1805,7 @@ Noida
 - Bio: Android development and a sprinkle of back end web!
 - Github: [Bryen V](https://github.com/bryen95)
 
+#### Name: [Matt Wszolek](https://github.com/mattwszolek)
+- Place: Chicago, IL, USA
+- Bio: Softweare Engineer for SteelSeries
+- Github: [Matt Wszolek](https://github.com/mattwszolek)
