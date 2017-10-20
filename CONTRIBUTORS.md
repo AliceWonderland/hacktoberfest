@@ -1,3 +1,12 @@
+﻿#### Name: [GITHAE KEVIN](https://github.com/Kevogich)
+- Place: Torino, Italy 
+- Bio: Everything Data !
+- GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
+
+#### Name: [Sourav Verma](https://github.com/SrGrace)
+- Place: Gwalior, Madhya Pradesh, India
+- Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
+- GitHub: [SrGrace](https://github.com/SrGrace)
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
@@ -821,6 +830,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [PureHyd](https://github.com/PureHyd)
+- Place: Evanston, IL
+- Bio: EECS Student \@ NorthwesternU
+- GitHub: [PureHyd](https://github.com/PureHyd)
+
 #### Name: [Hoang Ha](https://github.com/halink0803)
 - Place: Hanoi, Vietnam
 - Bio: I love javascript! :cat:
@@ -1157,6 +1171,11 @@ to explore life. Also, Python and Django Developer
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Bennie Mosher](https://github.com/benniemosher)		
+ - Place: Windsor, CO		
+ - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal		
+ - GitHub: [Bennie Mosher](https://github.com/benniemosher)		
 
 #### Name: [Justin Oliver](https://github.com/justinoliver)
 - Place: Seattle, WA, USA, Earth!
@@ -1824,3 +1843,13 @@ Noida
 - Place: Bhubaneswar, Odisha, India
 - Bio: Sophomore IT undergraduate, tech enthusiast, programmer and quizzer.
 - GitHub: [Nawed Imroze](https://github.com/nawedx)
+
+#### Name: [Henri Idrovo](https://github.com/henriguy1210)
+- Place: Chicago, Illinois, USA
+- Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
+- Github: [Henri Idrovo](https://github.com/henriguy1210)
+
+#### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
+- Place: Patrocínio, MG, BRA
+- Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
+- Github: [Mateus Machado](https://github.com/mateusfmachado)
