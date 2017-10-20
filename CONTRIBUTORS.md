@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Colin Zhang](http://linkedin.com/in/colinzhang95)
+- Place: Philadelphia, PA, USA
+- Bio: Entrepreneur, product manager, traveller
+- Github: [colinzhang](https://github.com/colinzhang)
