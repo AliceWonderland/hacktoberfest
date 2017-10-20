@@ -1,3 +1,10 @@
+#### Name: [Ruta Puodziunaite](https://github.com/rutuke)
+- Place: Dublin, Ireland
+- Bio: Fullstack Web developer and a chemical sciences graduate.
+- GitHub: [rutuke](https://github.com/rutuke)
+- Website: [https://www.rutap.tech](https://www.rutap.tech)
+- Starup: [EndorseU](http://www.endorseu.com)
+
 #### Name: [Egi Nugraha](https://github.com/eginugraha)
 - Place: Bandung, Jawa Barat, Indonesia
 - Bio: I Love Code and Design. 
