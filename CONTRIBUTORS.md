@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Rohit Mathew](https://github.com/rohitjmathew)
+- Place: Bangalore, Karnataka, India
+- Bio: Android Developer, Freelancer and Tech Enthusiast
+- GitHub: [Rohit Mathew](https://github.com/rohitjmathew)
