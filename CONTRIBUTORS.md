@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
+- Place: Illinois
+- Bio: Student
+- Github: [noradiegwu](https://github.com/noradiegwu)
