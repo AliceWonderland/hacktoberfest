@@ -1,5 +1,5 @@
 #### Name: [Sourav Verma](https://github.com/SrGrace)
-- Place: Gwalior, Madhya Pradesh, Gwalior
+- Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
 - GitHub: [SrGrace](https://github.com/SrGrace)
 
