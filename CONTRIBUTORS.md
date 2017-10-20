@@ -1759,3 +1759,8 @@ Noida
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
+
+#### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
+- Place: Lucknow, Uttar Pradesh, INDIA
+- Bio: Flirty Allrounder with a knack of Programming, Sports and Music
+- Github: [Neelansh Sahai](https://github.com/neelanshsahai)
