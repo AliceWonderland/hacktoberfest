@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Sai Praneeth](https://github.com/saip009)
+- Place: Mumbai, India
+- Bio: Programmer
+- Github: [Sai Praneeth](https://github.com/saip009)
