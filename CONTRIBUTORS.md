@@ -1729,6 +1729,11 @@ Noida
 - Bio: Software Student
 - Github: [Kutsoragi] (https://github.com/Kutsoragi)
 
+#### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Undergrad at IIITA
+- Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
+
 #### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
 - Place: Mauritius
 - Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
