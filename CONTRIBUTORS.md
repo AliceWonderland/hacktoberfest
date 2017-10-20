@@ -1,9 +1,24 @@
+### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Darsh Naik](https://github.com/DarshNaik)
+- Place: India
+- Bio: Computer Engineering student
+- GitHub: [DarshNaik](https://github.com/DarshNaik)
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
 - GitHub: [rutuke](https://github.com/rutuke)
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
 - Starup: [EndorseU](http://www.endorseu.com)
+
+#### Name: [DAVE HOWSON](https://github.com/davehowson)		
+ - Place: Kandy, Sri Lanka		 
+ - Bio: Software Engineering Student/ Web Developer		 
+ - GitHub: [davehowson](https://github.com/davehowson)
 
 #### Name: [Egi Nugraha](https://github.com/eginugraha)
 - Place: Bandung, Jawa Barat, Indonesia
@@ -1615,6 +1630,16 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Rohit Mathew](https://github.com/rohitjmathew)
+- Place: Bangalore, Karnataka, India
+- Bio: Android Developer, Freelancer and Tech Enthusiast
+- GitHub: [Rohit Mathew](https://github.com/rohitjmathew)
+
+#### Name: [Aditya Giri](https://github.com/BrainBuzzer)
+- Place: Latur, India
+- Bio: Student
+- Github: [Udit Mittal](https://github.com/BrainBuzzer)
+
 #### Name: [syamkumar](https://github.com/syam3526)
 - Place:kerala,india
 - Bio: data scientist
@@ -1645,8 +1670,12 @@ Noida
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
 
-
 #### Name: [Ipaye Alameen](https://github.com/ipaye)
 - Place: Lagos, Nigeria
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
 - Github: [ipaye] (https://github.com/ipaye)
+
+#### Name: [Kutsoragi](https://github.com/Kutsoragi)
+- Place: Madrid, Spain
+- Bio: Software Student
+- Github: [Kutsoragi] (https://github.com/Kutsoragi)
