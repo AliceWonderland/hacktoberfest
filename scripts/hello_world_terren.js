@@ -1,6 +1,6 @@
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Alice Chuang
+// AUTHOR: Terren Peterson
 // GITHUB: https://github.com/AliceWonderland
 
 console.log('Hello, World!');
