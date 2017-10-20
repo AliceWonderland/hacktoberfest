@@ -774,6 +774,11 @@
 - Bio: Student at Gonzaga University
 - GitHub: [George Kunthara](https://github.com/gkunthara)
 
+#### Name: [Jamie Taylor](https://github.com/GaProgMan)
+- Place: Leeds, UK
+- Bio: Full stack .NET developer (and .NET Core blogger)
+- GitHub: [GaProgMan](https://github.com/GaProgMan)
+
 #### Name: [Lokesh Raj Arora](https://github.com/lokiiarora)
 - Place: Darjeeling, India
 - Bio: CS Student at SRM University, Full Stack Developer
