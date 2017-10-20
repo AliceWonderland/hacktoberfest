@@ -1630,6 +1630,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
+- Place: New Delhi, India
+- Bio: Software developer, studying B.Tech CSE
+- GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+
 #### Name: [Rohit Mathew](https://github.com/rohitjmathew)
 - Place: Bangalore, Karnataka, India
 - Bio: Android Developer, Freelancer and Tech Enthusiast
