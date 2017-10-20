@@ -1,5 +1,10 @@
+#### Name: [Daniel Hernandez](https://github.com/DHDaniel)
+- Place: Caracas, Venezuela
+- Bio: IB Diploma high school student.
+- GitHub: [DHDaniel](https://github.com/DHDaniel)
+
 ﻿#### Name: [GITHAE KEVIN](https://github.com/Kevogich)
-- Place: Torino, Italy 
+- Place: Torino, Italy
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
 
@@ -51,7 +56,7 @@
 
 #### Name: [Egi Nugraha](https://github.com/eginugraha)
 - Place: Bandung, Jawa Barat, Indonesia
-- Bio: I Love Code and Design. 
+- Bio: I Love Code and Design.
 - GitHub: [Egi Nugraha](https://github.com/eginugraha)
 
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
@@ -1695,7 +1700,7 @@ Noida
 
 #### Name: [Grégoire](https://github.com/navispeed/)
 - Place: Quebec, Canada
-- Bio: Scala developer 
+- Bio: Scala developer
 - GitHub: [navispeed](https://github.com/navispeed/)
 
 #### Name: [Spencer](https://github.com/leaous/)
@@ -1769,9 +1774,9 @@ Noida
 - Github: [Hardik Surana](https://github.com/hardiksurana)
 
 #### Name: [Curian lee Zhen Jie](https://github.com/finalight)		
- - Place: Singapore	
+ - Place: Singapore
  - Bio: Fullstack, devops practitioner
- - GitHub: [turkerdotpy](https://github.com/finalight)	
+ - GitHub: [turkerdotpy](https://github.com/finalight)
 
 #### Name: [Ayushman KB](https://github.com/namhsuya/)
 - Place: Calcutta, India
@@ -1818,7 +1823,7 @@ Noida
  - Place: Louisville, Kentucky USA
  - Bio: Full Stack JavaScript/WoW - Hyjal(Horde)
  - GitHub: [mckenzieja](https://github.com/mckenzieja)]
- 
+
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
