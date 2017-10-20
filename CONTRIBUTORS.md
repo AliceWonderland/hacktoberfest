@@ -821,6 +821,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Hoang Ha](https://github.com/halink0803)
+- Place: Hanoi, Vietnam
+- Bio: I love javascript! :cat:
+- GitHub: [Hoang Ha](https://github.com/halink0803)
+
 #### Name: [Will Tan](https://github.com/twillzy)
 - Place: Sydney, Australia
 - Bio: 2/4 into getting a free Hacktoberfest T-Shirt
