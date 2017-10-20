@@ -3,6 +3,11 @@
 - Bio: Design, Develop, Produce!
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
+#### Name: [Mintoo Kumar](https://github.com/mintoo511)
+- Place: New Delhi, India 
+- Bio: Software Engineer
+- GitHub: [mintoo511](https://github.com/mintoo511)
+
 #### Name: [GITHAE KEVIN](https://github.com/Kevogich)
 - Place: Torino, Italy 
 - Bio: Everything Data !
@@ -1843,3 +1848,18 @@ Noida
 - Place: Chicago, IL, USA
 - Bio: Softweare Engineer for SteelSeries
 - Github: [Matt Wszolek](https://github.com/mattwszolek)
+
+#### Name: [Nawed Imroze](https://github.com/nawedx)
+- Place: Bhubaneswar, Odisha, India
+- Bio: Sophomore IT undergraduate, tech enthusiast, programmer and quizzer.
+- GitHub: [Nawed Imroze](https://github.com/nawedx)
+
+#### Name: [Henri Idrovo](https://github.com/henriguy1210)
+- Place: Chicago, Illinois, USA
+- Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
+- Github: [Henri Idrovo](https://github.com/henriguy1210)
+
+#### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
+- Place: Patrocínio, MG, BRA
+- Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
+- Github: [Mateus Machado](https://github.com/mateusfmachado)
