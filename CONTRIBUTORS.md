@@ -1884,6 +1884,11 @@ Noida
 - Bio: Full Stack developer and Tech enthusiast
 - Github: [shpulak](https://github.com/shpulak)
 
+#### Name: [tbdees](https://github.com/tbdees/)
+- Place: Laguna Beach, CA
+- Bio: financial software consultant
+- Github: [tbdees](https://github.com/tbdees/)
+
 #### Name: [Mateo Pool](https://github.com/IAmMyself)
 - Place: Chattanooga, Tennesse, USA
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
