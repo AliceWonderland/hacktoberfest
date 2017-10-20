@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Rohit Patil](https://github.com/rohts-patil)
+- Place: Pune, India
+- Bio: Deep Learning and Self-Driving Car Enthusiast.
+- Github: [Udit Mittal](https://github.com/rohts-patil)
