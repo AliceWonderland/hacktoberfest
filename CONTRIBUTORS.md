@@ -1783,6 +1783,12 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+
+#### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
+- Place: Illinois
+- Bio: Student
+- Github: [noradiegwu](https://github.com/noradiegwu)
+
 #### Name: [Sai Praneeth](https://github.com/saip009)
 - Place: Mumbai, India
 - Bio: Programmer
