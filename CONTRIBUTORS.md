@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Curian lee Zhen Jie](https://github.com/finalight)		
+ - Place: Singapore	
+ - Bio: Fullstack, devops practitioner
+ - GitHub: [turkerdotpy](https://github.com/finalight)	
