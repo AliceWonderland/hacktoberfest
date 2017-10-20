@@ -1630,6 +1630,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Tom Michel](https://github.com/tomichel)
+- Place: Berlin, Germany
+- Bio: Developer
+- Github: [Tom Michel](https://github.com/tomichel)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
 - Bio: Software developer, studying B.Tech CSE
