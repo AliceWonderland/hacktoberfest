@@ -1158,6 +1158,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
+#### Name: [Bennie Mosher](https://github.com/benniemosher)
+- Place: Windsor, CO
+- Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
+- GitHub: [Bennie Mosher](https://github.com/benniemosher)
+
 #### Name: [Justin Oliver](https://github.com/justinoliver)
 - Place: Seattle, WA, USA, Earth!
 - Bio: Trying to learn cool new things!
