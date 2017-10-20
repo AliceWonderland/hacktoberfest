@@ -1,3 +1,8 @@
+#### Name: [Egi Nugraha](https://github.com/eginugraha)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I Love Code and Design. 
+- GitHub: [Egi Nugraha](https://github.com/eginugraha)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
