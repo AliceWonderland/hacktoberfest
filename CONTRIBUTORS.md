@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Hardik Surana](https://github.com/hardiksurana)
+- Place: Bangalore, India
+- Bio: Programmer, Student
+- Github: [Hardik Surana](https://github.com/hardiksurana)
