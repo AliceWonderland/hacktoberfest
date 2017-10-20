@@ -1615,6 +1615,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Aditya Giri](https://github.com/BrainBuzzer)
+- Place: Latur, India
+- Bio: Student
+- Github: [Udit Mittal](https://github.com/BrainBuzzer)
+
 #### Name: [syamkumar](https://github.com/syam3526)
 - Place:kerala,india
 - Bio: data scientist
