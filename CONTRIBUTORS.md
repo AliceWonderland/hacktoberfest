@@ -850,6 +850,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Jerry Chong](https://github.com/zanglang)
+- Place: Johor Bahru, Malaysia
+- Bio: Software Engineer
+- GitHub: [Jerry Chong](https://github.com/zanglang)
+
 #### Name : [Pronomita Dey] (https://github.com/PronomitaDey)
 - Place : India
 - Bio : Front End Developer. Open Source Enthusiast. Learner.
