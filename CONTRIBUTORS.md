@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Ayushman KB](https://github.com/namhsuya/)
+- Place: Calcutta, India
+- Bio: Life sciences student|Dev|Linux enthusiast
+- GitHub: [namhsuya](https://github.com/namhsuya/)
