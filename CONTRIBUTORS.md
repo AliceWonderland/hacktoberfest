@@ -1864,8 +1864,7 @@ Noida
 - Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
 - Github: [Mateus Machado](https://github.com/mateusfmachado)
 
-#### Name: [Glen J Ferg](https://github.com/gfergo)
+#### Name: [Glen J Fergo](https://github.com/gfergo)
 - Place: Long Island, New York, USA
-- Bio: Web Developer since 1995
-- Github: [Glen J Ferg](https://github.com/gfergo)
-
+- Bio: Professional Web Developer since 1995
+- Github: [Glen J Fergo](https://github.com/gfergo)
