@@ -1968,6 +1968,11 @@ Noida
  - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
 
+#### Name: [Alistair](https://github.com/aowongster)		 
+- Place: San Diego, CA
+- Bio: love to read, learn, and code
+- GitHub: [Alistair](https://github.com/aowongster)
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
