@@ -1249,11 +1249,6 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Barış İNANÇ](https://github.com/barisinanc)
-- Place: İstanbul, Turkey
-- Bio: Senior Software Engineer
-- GitHub: [Barış İNANÇ](https://github.com/barisinanc)
-
 #### Name: [Gaurav Lalchandani](https://github.com/return007)
 - Place: India
 - Bio: Computer Science Student, Eat, code and sleep :P
@@ -1619,6 +1614,11 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Gui An Lee](https://github.com/piroton)
+- Place: Singapore, Singapore
+- Bio: Student
+- Github: [Gui An Lee](https://github.com/piroton)
 
 #### Name: [Hardik Surana](https://github.com/hardiksurana)
 - Place: Bangalore, India
