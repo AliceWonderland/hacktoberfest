@@ -2,12 +2,12 @@
  - Place: Chicago, IL, USA		
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
- 
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
-  - Place: Indore, India 
-  - Bio: Engineering Student @ IET DAVV Indore 
+
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
- 
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
@@ -1987,3 +1987,7 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+
+#### Name: [xanlaeron](https://github.com/xanlaeron)
+- Place: United States, Earth, Milky Way Galaxy
+- Bio: Former healthcare professional, Fullstack student developer
