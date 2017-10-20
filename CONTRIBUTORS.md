@@ -1,3 +1,8 @@
+#### Name: [Darsh Naik](https://github.com/DarshNaik)
+- Place: India
+- Bio: Computer Engineering student
+- GitHub: [DarshNaik](https://github.com/DarshNaik)
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
