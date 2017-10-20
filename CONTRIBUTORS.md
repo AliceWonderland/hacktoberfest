@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [DAVE HOWSON](https://github.com/davehowson)
+- Place: Kandy, Sri Lanka
+- Bio: Software Engineering Student/ Web Developer
+- GitHub: [davehowson](https://github.com/davehowson)
