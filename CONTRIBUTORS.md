@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Leticiafatimaa](https://github.com/leticiafatimaa)
+- Place: Florianopolis, SC, Brazil
+- Bio: I have 19 years, course Analysis and Development System.
+- GitHub: [LeticiaFatimaa](https://github.com/leticiafatimaa)
