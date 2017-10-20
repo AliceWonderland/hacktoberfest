@@ -1486,6 +1486,11 @@ Noida
 - Bio: CS student aspiring to become a better coder
 - GitHub: [Michelle Uy](https://github.com/breindy/)
 
+#### Name: [James Nuttall](https://github.com/JamesNuttall/)
+- Place: UK
+- Bio: Developing things. Learning Git
+- GitHub: [James Nuttall](https://github.com/JamesNuttall/)
+
 #### Name: [Bruno](https://github.com/bbarao/)
 - Place: Lisbon, Portugal
 - Bio: Love stuff
