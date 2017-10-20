@@ -1839,6 +1839,11 @@ Noida
 - Bio: Softweare Engineer for SteelSeries
 - Github: [Matt Wszolek](https://github.com/mattwszolek)
 
+#### Name: [Nawed Imroze](https://github.com/nawedx)
+- Place: Bhubaneswar, Odisha, India
+- Bio: Sophomore IT undergraduate, tech enthusiast, programmer and quizzer.
+- GitHub: [Nawed Imroze](https://github.com/nawedx)
+
 #### Name: [Henri Idrovo](https://github.com/henriguy1210)
 - Place: Chicago, Illinois, USA
 - Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
