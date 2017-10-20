@@ -860,6 +860,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
+- Place: Emmen, the Netherlands
+- Bio: Game design studen & Hobbyist programmer
+- GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
+
 #### Name: [Joshua Dennis Blackman](https://github.com/JDBlackman)
 - Place: London, United Kingdom
 - Bio: Computer Science Student at Swansea University
@@ -1984,6 +1989,11 @@ Noida
  - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
 
+ #### Name: [Narendra Pal](https://github.com/npcoder2k14)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Love to Code. Competetive Programming. Web Developer. OpenSource Lover. Data Mining.
+- Github: [npcoder2k14](https://github.com/npcoder2k14)
+
 #### Name: [Alistair](https://github.com/aowongster)		 
 - Place: San Diego, CA
 - Bio: love to read, learn, and code
@@ -1994,3 +2004,7 @@ Noida
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
 
+#### Name: [Jenn Chu](https://github.com/jquinnie)		 
+- Place: Houston, TX
+- Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
+- GitHub: [JQuinnie](https://github.com/jquinnie)
