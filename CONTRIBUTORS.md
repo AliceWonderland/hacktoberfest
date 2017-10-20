@@ -1,3 +1,8 @@
+#### Name: [Chong Jia Wei](https://github.com/heyjiawei)
+- Place: Singapore
+- Bio: Transformer in disguise
+- GitHub: [heyjiawei](https://github.com/heyjiawei)
+
 #### Name: [Indra Kusuma](https://github.com/idindrakusuma)
 - Place: Semarang, Indonesia
 - Bio: ♥ opensource ♥
@@ -1644,6 +1649,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Abhishek Bhatt](https://github.com/ab-bh)		
+ - Place: New Delhi, India		
+ - Bio: Software developer, studying B.Tech CSE		
+ - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+
 #### Name: [Aniket](https://github.com/AniketRoy)
 - Place: New Delhi, India
 - Bio: Computer Science Under Graduate, Open Source Lover
@@ -1723,3 +1733,14 @@ Noida
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
+
+#### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
+- Place: Mauritius
+- Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
+- GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
+- Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
+
+#### Name: [Paul Schmidt](https://github.com/pschmidt88)
+ - Place: Kassel, Germany
+ - Bio: Software Engineer @ plentymarkets
+ - Github [pschmidt88](https://github.com/pschmidt88)
