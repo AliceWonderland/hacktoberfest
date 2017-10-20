@@ -9,12 +9,12 @@
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
 #### Name: [Mintoo Kumar](https://github.com/mintoo511)
-- Place: New Delhi, India 
+- Place: New Delhi, India
 - Bio: Software Engineer
 - GitHub: [mintoo511](https://github.com/mintoo511)
 
 #### Name: [GITHAE KEVIN](https://github.com/Kevogich)
-- Place: Torino, Italy 
+- Place: Torino, Italy
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
 
@@ -720,6 +720,11 @@
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Chathumina Vimukthi](https://github.com/ChathuminaVimukthi )
+- Place: Bogotá, Colombia
+- Bio: Second year undergraduate(Computer Science)
+- GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
+
 #### Name: [Mayank Saxena](https://github.com/mayank26saxena)
 - Place: New Delhi, India
 - Bio: Student
@@ -844,6 +849,21 @@
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Jerry Chong](https://github.com/zanglang)
+- Place: Johor Bahru, Malaysia
+- Bio: Software Engineer
+- GitHub: [Jerry Chong](https://github.com/zanglang)
+
+#### Name : [Pronomita Dey] (https://github.com/PronomitaDey)
+- Place : India
+- Bio : Front End Developer. Open Source Enthusiast. Learner.
+- GitHub : [Pronomita Dey] (https://github.com/PronomitaDey)
+
+#### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
+- Place: Athens, Greece
+- Bio: Undergraduate CS student / Software Developer
+- GitHub: [PanosVl](https://github.com/PanosVl)
 
 #### Name: [PureHyd](https://github.com/PureHyd)
 - Place: Evanston, IL
@@ -1871,7 +1891,7 @@ Noida
 
 #### Name: [Henri Idrovo](https://github.com/henriguy1210)
 - Place: Chicago, Illinois, USA
-- Bio: Java Software Engineer. Illinois Institute of Technology graduate. 
+- Bio: Java Software Engineer. Illinois Institute of Technology graduate.
 - Github: [Henri Idrovo](https://github.com/henriguy1210)
 
 #### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
@@ -1908,3 +1928,27 @@ Noida
 - Place: Petrópolis, Rio de Janeiro, Brazil
 - Bio: Full Stack Student
 - GitHub: [Murilo Arruda](https://github.com/Passok11)
+
+#### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
+- Place: Santa Catarina, Brazil
+- Bio: Front end web developer.
+- GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
+
+#### Name: [Kyle Lawson](https://github.com/KyleLawson16/)
+- Place: Merrimack, New Hampshire, USA
+- Bio: Business Student/Entrepreneur/Self-taught Developer
+- Github: [KyleLawson16](https://github.com/KyleLawson16/)
+
+#### Name: [V3NG](https://github.com/ianklemm)
+- Place: Germany
+- Bio: Webdeveloper, Sysadmin
+
+#### Name: [John "JB" Brock](https://github.com/peppertech)
+- Place: Seattle, Washington, USA
+- Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
+- GitHub: [Peppertech](https://github.com/peppertech)
+
+#### Name: [Mark](https://github.com/Mxrk)		 
+ - Place: /
+ - Bio: love informatics		 
+ - GitHub: [Mark](https://github.com/Mxrk)
