@@ -1583,6 +1583,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Ayushman KB](https://github.com/namhsuya/)
+- Place: Calcutta, India
+- Bio: Life sciences student|Dev|Linux enthusiast
+- GitHub: [namhsuya](https://github.com/namhsuya/)
+
 #### Name: [Michael Rogers](https://github.com/widgyrogers)
 - Place: London, England
 - Bio: Management Consultant
