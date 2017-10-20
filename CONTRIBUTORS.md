@@ -1308,6 +1308,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Jasen Wyatt](https://github.com/jasenwyatt)
+- Place: Detroit, Michigan, USA
+- Bio: Director UX & Development; music-lover; father;
+- GitHub: [Jasen Wyatt](https://github.com/jasenwyatt)
+
 #### Name: [Larizza Noelly Tueros Garcia](https://github.com/skayablars)
 - Place: Santiago de los Caballeros, República Dominicana
 - Bio: Software Engineer, Web Developer, Design unicorn
