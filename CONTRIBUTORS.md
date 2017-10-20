@@ -1587,3 +1587,8 @@ Noida
 - Place: Calcutta, India
 - Bio: Life sciences student|Dev|Linux enthusiast
 - GitHub: [namhsuya](https://github.com/namhsuya/)
+
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
