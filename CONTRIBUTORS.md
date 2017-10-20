@@ -1615,6 +1615,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [syamkumar](https://github.com/syam3526)
+- Place:kerala,india
+- Bio: data scientist
+- Github: [syamkumar](https://github.com/syam3526)
+
 #### Name: [Gui An Lee](https://github.com/piroton)
 - Place: Singapore, Singapore
 - Bio: Student
