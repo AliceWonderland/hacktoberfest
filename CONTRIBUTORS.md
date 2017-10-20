@@ -1903,3 +1903,8 @@ Noida
 - Place: Chattanooga, Tennesse, USA
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
 - GitHub: [Mateo Pool](https://github.com/IAmMyself)
+
+#### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
+- Place: Santa Catarina, Brazil
+- Bio: Front end web developer.
+- GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
