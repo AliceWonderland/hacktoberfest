@@ -860,6 +860,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Suryatej Reddy](https://github.com/suryatejreddy)
+- Place: New Delhi, India
+- Bio: CSE Student at IIITD
+- GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
+
 #### Name: [Jerry Chong](https://github.com/zanglang)
 - Place: Johor Bahru, Malaysia
 - Bio: Software Engineer
