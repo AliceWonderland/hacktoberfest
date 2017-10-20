@@ -2013,3 +2013,8 @@ Noida
 - Place: Houston, TX
 - Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
 - GitHub: [JQuinnie](https://github.com/jquinnie)
+
+#### Name: [Sylwester](https://github.com/sla)		 
+- Place: Poland
+- Bio: JAVA
+- GitHub: [sla](https://github.com/sla)
