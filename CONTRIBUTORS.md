@@ -1465,3 +1465,13 @@ Noida
 - Place: Moscow, Russia
 - Bio: Student-developer, fond of JAva, Web etc.
 - GitHub: [Ermolaeff](https://github.com/ermoalaeff)
+
+#### Name: [Jeffrey Ng](GitHub Link)
+- Place: California, United States
+- Bio: Student
+- GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
+
+#### Name: [Peter Walsh](GitHub Link)
+- Place: UK
+- Bio: Learning to code through freeCodeCamp
+- GitHub: [Peter Walsh](https://github.com/ddddamian/)
