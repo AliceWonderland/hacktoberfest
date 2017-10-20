@@ -769,6 +769,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Casper Freksen](https://github.com/cfreksen)
+- Place: Aarhus, Denmark
+- Bio: PhD student at Aarhus University
+- GitHub: [Casper Freksen](https://github.com/cfreksen)
+
 #### Name: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - Place: Gurugram, India
 - Bio: Learner, Coder,  INFJ, multipotentialite and a person who loves
