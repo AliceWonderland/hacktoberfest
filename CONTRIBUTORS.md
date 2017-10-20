@@ -769,6 +769,13 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
+- Place: Gurugram, India
+- Bio: Learner, Coder,  INFJ, multipotentialite and a person who loves
+to explore life. Also, Python and Django Developer
+- Github: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
+- Website: [Introverted Geek](http://introvertedgeek.com)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
