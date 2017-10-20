@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Kevin Eaton](https://github.com/kevineaton)
+- Place: Salem, NH
+- Bio: Programmer, Entrepreneur, Veteran, Geek
+- Github: [Kevin Eaton](https://github.com/kevineaton)
