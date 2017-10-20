@@ -1,7 +1,17 @@
+#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
+- Place: Semarang, Indonesia
+- Bio: ♥ opensource ♥
+- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
+
 ### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
@@ -1714,3 +1724,8 @@ Noida
 - Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
 - GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
 - Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
+
+#### Name: [Paul Schmidt](https://github.com/pschmidt88)
+ - Place: Kassel, Germany
+ - Bio: Software Engineer @ plentymarkets
+ - Github [pschmidt88](https://github.com/pschmidt88)
