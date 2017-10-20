@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+### Name: [Jeremy Beane](https://github.com/BamaJoe411)
+- Place: North Carolina, United States
+- Bio: Programming Geek
+- Github: [Jeremy Beane](https://github.com/BamaJoe411)
