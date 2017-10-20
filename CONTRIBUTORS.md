@@ -1484,5 +1484,5 @@ Noida
 #### Name: [Taylor Lee](https://github.com/taylorlee1/)
 - Place: California
 - Bio: Developer
-- GitHub: [Nylan17](https://github.com/taylorlee1/)
+- GitHub: [taylorlee1](https://github.com/taylorlee1/)
 
