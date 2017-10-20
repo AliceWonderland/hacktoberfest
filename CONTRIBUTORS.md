@@ -769,6 +769,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
 #### Name: [George Kunthara](https://github.com/gkunthara)
 - Place: Seattle, WA USA
 - Bio: Student at Gonzaga University
