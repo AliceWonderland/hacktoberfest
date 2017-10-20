@@ -1,3 +1,8 @@
+### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
