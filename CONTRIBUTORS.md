@@ -1679,3 +1679,8 @@ Noida
 - Place: Madrid, Spain
 - Bio: Software Student
 - Github: [Kutsoragi] (https://github.com/Kutsoragi)
+
+#### Name: [Paul Schmidt](https://github.com/pschmidt88)
+ - Place: Kassel, Germany
+ - Bio: Software Engineer @ plentymarkets
+ - Github [pschmidt88](https://github.com/pschmidt88)
