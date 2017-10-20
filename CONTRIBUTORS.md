@@ -860,6 +860,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Joshua Dennis Blackman](https://github.com/JDBlackman)
+- Place: London, United Kingdom
+- Bio: Computer Science Student at Swansea University
+- GitHub: [Joshua Dennis Blackman](https://github.com/JDBlackman)
+
 #### Name: [Suryatej Reddy](https://github.com/suryatejreddy)
 - Place: New Delhi, India
 - Bio: CSE Student at IIITD
