@@ -1904,10 +1904,10 @@ Noida
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
 - GitHub: [Mateo Pool](https://github.com/IAmMyself)
 
-#### Name: [sevskii](https://github.com/sevskii)
-- Place: st. Pittsburgh, Russia
-- Bio: Student
-- GitHub: [sevskii](https://github.com/sevskii)
+#### Name: [Murilo Arruda](https://github.com/Passok11)
+- Place: Petrópolis, Rio de Janeiro, Brazil
+- Bio: Full Stack Student
+- GitHub: [Murilo Arruda](https://github.com/Passok11)
 
 #### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
 - Place: Santa Catarina, Brazil
