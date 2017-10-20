@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
