@@ -1883,3 +1883,8 @@ Noida
 - Place: Pune, Maharashtra, India
 - Bio: Full Stack developer and Tech enthusiast
 - Github: [shpulak](https://github.com/shpulak)
+
+#### Name: [tbdees](https://github.com/tbdees/)
+- Place: Laguna Beach, CA
+- Bio: financial software consultant
+- Github: [tbdees](https://github.com/tbdees/)
