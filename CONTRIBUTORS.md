@@ -1,3 +1,8 @@
+#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
+- Place: Semarang, Indonesia
+- Bio: ♥ opensource ♥
+- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
+
 ### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
 - Bio: Creator of Alexa Skills and Lex based chatbots
