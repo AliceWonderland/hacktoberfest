@@ -1719,6 +1719,12 @@ Noida
 - Bio: Software Student
 - Github: [Kutsoragi] (https://github.com/Kutsoragi)
 
+#### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
+- Place: Mauritius
+- Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
+- GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
+- Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
+
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
  - Bio: Software Engineer @ plentymarkets
