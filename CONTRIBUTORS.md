@@ -1144,6 +1144,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+
+#### Name: [Arathi Nair](https://github.com/arti97)
+- Place: New Delhi, India
+- Bio: B.Tech C.S.E. Undergrad
+- GitHub: [Arathi Nair](https://github.com/arti97)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
@@ -1582,3 +1588,4 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
