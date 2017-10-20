@@ -553,7 +553,7 @@
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
-- Github: [dhevi](https://github.com/dhevi) 
+- Github: [dhevi](https://github.com/dhevi)
 
 #### Name: [Martns90](https://github.com/martns90)
 - Place: The Gym
@@ -1419,7 +1419,7 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio) 
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
 - Place: Belo Horizonte, Minas Gerais, Brazil
@@ -1461,14 +1461,14 @@ Noida
 - Bio: Developer
 - GitHub: [Nylan17](https://github.com/nylan17/)
 
+#### Name: [Ermolaev Gleb](https://github.com/ermolaeff/)
+- Place: Moscow, Russia
+- Bio: Student-developer, fond of JAva, Web etc.
+- GitHub: [Ermolaeff](https://github.com/ermoalaeff)
+
 #### Name: [Jeffrey Ng](GitHub Link)
 - Place: California, United States
 - Bio: Student
-
-#### Name: [TJ Bollerman](https://github.com/tjboller/)
-- Place: New York, New York
-- Bio: Data Scientist
-- GitHub: [tjboller](https://github.com/tjboller/)
 - GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
 
 #### Name: [Peter Walsh](GitHub Link)
