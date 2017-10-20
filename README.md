@@ -104,6 +104,11 @@ Don't forget to include the comments as seen above. Feel free to include additio
 
 [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
 
+## BONUS!
+* See profiles submitted by fellow coders from around the globe. From Kathmandu to Copenhagen.
+* Discover some obscure to new and trending languages. From BrainFuck to Groovy.
+* Check out very creative ways to print out a Hello, World!
+
 ## Reference Links
 Here is a great tutorial for creating your first Pull Request by [Roshan Jossey](https://github.com/Roshanjossey)
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
