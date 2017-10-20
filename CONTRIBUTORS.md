@@ -1515,3 +1515,9 @@ Noida
 - Place: Redmond, Washington
 - Bio: service engineer
 - GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
+
+#### Name: [Grégoire](https://github.com/navispeed/)
+- Place: Quebec, Canada
+- Bio: Scala developer 
+- GitHub: [navispeed](https://github.com/navispeed/)
+
