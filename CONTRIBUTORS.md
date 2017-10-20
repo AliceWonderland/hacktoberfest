@@ -1480,3 +1480,9 @@ Noida
 - Place: NYC
 - Bio: CS student aspiring to become a better coder
 - GitHub: [Michelle Uy](https://github.com/breindy/)
+
+#### Name: [Bruno](https://github.com/bbarao/)
+- Place: Lisbon, Portugal
+- Bio: Love stuff
+- GitHub: [Bruno](https://github.com/bbarao/)
+
