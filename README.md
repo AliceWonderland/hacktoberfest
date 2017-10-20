@@ -18,7 +18,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ## How Contribute to This Project
 Here are 3 quick and painless ways to contribute to this project:
 
-* Add your name to the `CONTRIBUTORS.md` file
+* Add your name to the [`CONTRIBUTORS.md`](https://alicewonderland.github.io/hacktoberfest/CONTRIBUTORS) file
 * Add a Profile Page to the `profiles` directory
 * Create a simple 'Hello, World' script in a language of your choice
 
