@@ -1849,6 +1849,11 @@ Noida
 - Bio: Softweare Engineer for SteelSeries
 - Github: [Matt Wszolek](https://github.com/mattwszolek)
 
+#### Name: [Wan Wan](https://github.com/lf2com)
+- Place: Taipei, Taiwan
+- Bio: Front-end Developer
+- GitHub: [Wan Wan](https://github.com/lf2com)
+
 #### Name: [Nawed Imroze](https://github.com/nawedx)
 - Place: Bhubaneswar, Odisha, India
 - Bio: Sophomore IT undergraduate, tech enthusiast, programmer and quizzer.
