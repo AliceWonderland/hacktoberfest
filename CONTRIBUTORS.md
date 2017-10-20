@@ -1908,3 +1908,12 @@ Noida
 - Place: Merrimack, New Hampshire, USA
 - Bio: Business Student/Entrepreneur/Self-taught Developer
 - Github: [KyleLawson16](https://github.com/KyleLawson16/)
+
+#### Name: [V3NG](https://github.com/ianklemm)
+- Place: Germany
+- Bio: Webdeveloper, Sysadmin
+
+#### Name: [John "JB" Brock](https://github.com/peppertech)
+- Place: Seattle, Washington, USA
+- Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
+- GitHub: [Peppertech](https://github.com/peppertech)
