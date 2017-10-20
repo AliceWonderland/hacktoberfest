@@ -1,3 +1,8 @@
+#### Name: [Shubham Chauhan](https://github.com/ShubhamSinghChauhan)
+- Place: New Delhi, India
+- Bio: Coder | Gamer | Procrastinator
+- GitHub: [ShubhamSinghChauhan](https://github.com/ShubhamSinghChauhan)
+
 ### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
 - Bio: Creator of Alexa Skills and Lex based chatbots
@@ -1629,11 +1634,6 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
-
-#### Name: [Tom Michel](https://github.com/tomichel)
-- Place: Berlin, Germany
-- Bio: Developer
-- Github: [Tom Michel](https://github.com/tomichel)
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
