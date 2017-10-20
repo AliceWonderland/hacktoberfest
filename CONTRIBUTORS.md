@@ -1634,6 +1634,11 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Aniket](https://github.com/AniketRoy)
+- Place: New Delhi, India
+- Bio: Computer Science Under Graduate, Open Source Lover
+- GitHub: [Aniket](https://github.com/AniketRoy)
+
 #### Name: [Nelson Estevão](https://github.com/nelsonmestevao)
 - Place: Braga, Portugal
 - Bio: Student of Software Engineering who likes puzzles.
