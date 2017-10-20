@@ -816,6 +816,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Mark Carlson](https://github.com/electrek)
+- Place: Chicago, IL, USA
+- Bio: Escape room maker
+- GitHub: [Mark Carlson](https://github.com/electrek)
+
 #### Name: [Warrin Pipon](https://github.com/lgdroidz)
 - Place: Davao, Philippines
 - Bio: Web Developer
