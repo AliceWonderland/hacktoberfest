@@ -1521,3 +1521,7 @@ Noida
 - Bio: Scala developer 
 - GitHub: [navispeed](https://github.com/navispeed/)
 
+#### Name: [Spencer](https://github.com/leaous/)
+- Place: Pittsburgh, Pennsylvania
+- Bio: student :)
+- GitHub: [leaous](https://github.com/leaous/)
