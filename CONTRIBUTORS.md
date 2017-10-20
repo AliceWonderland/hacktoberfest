@@ -720,6 +720,11 @@
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Chathumina Vimukthi](https://github.com/ChathuminaVimukthi )
+- Place: Bogotá, Colombia
+- Bio: Second year undergraduate(Computer Science)
+- GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
+
 #### Name: [Mayank Saxena](https://github.com/mayank26saxena)
 - Place: New Delhi, India
 - Bio: Student
