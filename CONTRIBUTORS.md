@@ -1485,3 +1485,9 @@ Noida
 - Place: NYC
 - Bio: CS student aspiring to become a better coder
 - GitHub: [Michelle Uy](https://github.com/breindy/)
+
+#### Name: [Taylor Lee](https://github.com/taylorlee1/)
+- Place: California
+- Bio: Developer
+- GitHub: [taylorlee1](https://github.com/taylorlee1/)
+
