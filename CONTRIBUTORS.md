@@ -10,6 +10,11 @@
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
 - Starup: [EndorseU](http://www.endorseu.com)
 
+#### Name: [DAVE HOWSON](https://github.com/davehowson)		
+ - Place: Kandy, Sri Lanka		 
+ - Bio: Software Engineering Student/ Web Developer		 
+ - GitHub: [davehowson](https://github.com/davehowson)
+
 #### Name: [Egi Nugraha](https://github.com/eginugraha)
 - Place: Bandung, Jawa Barat, Indonesia
 - Bio: I Love Code and Design. 
