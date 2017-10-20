@@ -769,6 +769,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [George Kunthara](https://github.com/gkunthara)
+- Place: Seattle, WA USA
+- Bio: Student at Gonzaga University
+- GitHub: [George Kunthara](https://github.com/gkunthara)
+
 #### Name: [Jamie Taylor](https://github.com/GaProgMan)
 - Place: Leeds, UK
 - Bio: Full stack .NET developer (and .NET Core blogger)
