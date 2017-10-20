@@ -1904,6 +1904,11 @@ Noida
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
 - GitHub: [Mateo Pool](https://github.com/IAmMyself)
 
+#### Name: [sevskii](https://github.com/sevskii)
+- Place: st. Pittsburgh, Russia
+- Bio: Student
+- GitHub: [sevskii](https://github.com/sevskii)
+
 #### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
