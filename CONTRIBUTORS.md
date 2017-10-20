@@ -1992,3 +1992,8 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+
+#### Name: [Jenn Chu](https://github.com/jquinnie)		 
+- Place: Houston, TX
+- Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
+- GitHub: [JQuinnie](https://github.com/jquinnie)
