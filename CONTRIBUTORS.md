@@ -1076,6 +1076,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
 
+#### Name: [Naren Surampudi](https://github.com/nsurampu)
+- Place: Hyderabad, India
+- Bio: Electronics & Communications Major
+- Github: [Naren Surampudi](https://github.com/nsurampu)
+
 #### Name: [RYAN R SMITH](https://github.com/devronsoft)
 - Place: Oxford, UK
 - Bio: Kiwi dev
