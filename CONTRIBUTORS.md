@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Tom Michel](https://github.com/tomichel)
+- Place: Berlin, Germany
+- Bio: Developer
+- Github: [Tom Michel](https://github.com/tomichel)
