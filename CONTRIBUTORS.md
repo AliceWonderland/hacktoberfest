@@ -1505,3 +1505,8 @@ Noida
 - Place: Porto, Portugal
 - Bio: Informatics Student
 - GitHub: [JJPO96](https://github.com/JJPO96/)
+
+#### Name: [Eric](https://github.com/Eric-Tadeja/)
+- Place: Redmond, Washington
+- Bio: service engineer
+- GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
