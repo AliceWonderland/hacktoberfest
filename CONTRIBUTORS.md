@@ -1582,3 +1582,8 @@ Noida
 - Place: New Delhi, India
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
+
+#### Name: [Gui An Lee](https://github.com/piroton)
+- Place: Singapore, Singapore
+- Bio: Student
+- Github: [Gui An Lee](https://github.com/piroton)
