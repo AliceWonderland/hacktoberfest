@@ -850,6 +850,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name : [Pronomita Dey] (https://github.com/PronomitaDey)
+- Place : India
+- Bio : Front End Developer. Open Source Enthusiast. Learner.
+- GitHub : [Pronomita Dey] (https://github.com/PronomitaDey)
+
 #### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
 - Place: Athens, Greece
 - Bio: Undergraduate CS student / Software Developer
