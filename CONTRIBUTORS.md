@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
+- Place: Emmen, the Netherlands
+- Bio: Game design studen & Hobbyist programmer
+- GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
