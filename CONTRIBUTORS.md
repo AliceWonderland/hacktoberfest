@@ -1952,3 +1952,9 @@ Noida
  - Place: /
  - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
+
+ #### Name: [Narendra Pal](https://github.com/npcoder2k14)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Love to Code. Competetive Programming. Web Developer. OpenSource Lover. Data Mining.
+- Github: [npcoder2k14](https://github.com/npcoder2k14)
+
