@@ -1,8 +1,3 @@
-#### Name: [Abhay Gawade](https://github.com/abhaygawade)
-- Place: Pune, Maharashtra, India
-- Bio: Technology enthusiastic!
-- GitHub: [Abhay Gawade](https://github.com/abhaygawade)
-
 #### Name: [Chong Jia Wei](https://github.com/heyjiawei)
 - Place: Singapore
 - Bio: Transformer in disguise
@@ -1805,8 +1800,12 @@ Noida
 - Bio: Flirty Allrounder with a knack of Programming, Sports and Music
 - Github: [Neelansh Sahai](https://github.com/neelanshsahai)
 
+#### Name: [Milan](https://github.com/LeFizzy)
+- Place: Szeged, Hungary
+- Bio: Junior Full Stack Developer
+- Github [LeFizzy](https://github.com/LeFizzy)
+
 #### Name: [Bryen Vieira](https://www.linkedin.com/in/bryen95/)
 - Place: London, UK
 - Bio: Android development and a sprinkle of back end web!
 - Github: [Bryen V](https://github.com/bryen95)
-
