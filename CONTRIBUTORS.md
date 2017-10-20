@@ -2,6 +2,10 @@
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+- Place: Indore, India
+-Bio: Engineering Student @ IET DAVV Indore
+- Github: [deepikasunhare](https://github.com/deepikasunhare)
 
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
