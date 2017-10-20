@@ -1545,3 +1545,8 @@ Noida
 - Place: Pittsburgh, Pennsylvania
 - Bio: student :)
 - GitHub: [leaous](https://github.com/leaous/)
+
+#### Name：[Akani] (htpps://github.com/akanijade/)
+- Place: Jakarta, Indonesia
+- Bio: Student
+- GitHub: [akanijade] (https://github.com/akanijade/)
