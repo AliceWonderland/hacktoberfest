@@ -1908,3 +1908,8 @@ Noida
 - Place: /
 - Bio: love informatics
 - GitHub: [Mark](https://github.com/Mxrk
+
+#### Name: [John "JB" Brock](https://github.com/peppertech)
+- Place: Seattle, Washington, USA
+- Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
+- GitHub: [Peppertech](https://github.com/peppertech)
