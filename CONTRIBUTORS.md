@@ -7374,10 +7374,21 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
+### Name: [Alex Choi](https://github.com/running-cool)
+ - Place: Athens, GA
+ - Bio: Student
+ - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [gipsi](gipsi.github.io)
+- Place: South-East, UK
+- Bio: Student FreeCodeCamp interested in PWA's
+- Github: [gipsi](https://github.com/gipsi)
+
 #### Name: [Naman Doshi] (https://github.com/warmachine0609)
--Place: Chennai,India
--Bio: ML developer
--Github: [Naman Doshi] (https://github.com/warmachine0609)
+- Place: Chennai,India
+- Bio: ML developer
+- Github: [Naman Doshi] (https://github.com/warmachine0609)
+
 #### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
 - Bio: Student
@@ -7402,7 +7413,6 @@ to explore life. Also, Python and Django Developer
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
 - Bio: Computer Science Engineering student at Amity University
-Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
 #### Name: [Daksh Chaturvedi](https://github.com/daksh249)
@@ -8227,4 +8237,3 @@ Noida
 - Place: Houston, TX USA
 - Bio: SW Dev
 - GitHub: [masta-bhawk](https://github.com/masta-bhawk)
-
