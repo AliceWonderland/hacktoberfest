@@ -1614,3 +1614,8 @@ Noida
 - Place: London, England
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Nishant Rai](https://github.com/iamnishantrai)
+- Place: Noida,India
+- Bio: Student
+- Github: [iamnishantrai] (https://github.com/iamnishantrai)
