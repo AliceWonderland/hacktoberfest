@@ -4047,3 +4047,8 @@ Noida
 - Place: Virginia
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
+
+#### Name: [Justin de Leon](https://github.com/jusdeleon)
+- Place: Philippines
+- Bio: PHP Developer
+- Github: [jusdeleon](https://github.com/jusdeleon)
