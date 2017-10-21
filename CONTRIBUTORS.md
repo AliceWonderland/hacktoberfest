@@ -1795,6 +1795,10 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Joseph Musembi](https://github.com/musemby)
+- Place: Nairobi, Kenya
+- Bio: Software engineer
+- Github: [Joseph Musembi](https://github.com/musemby)
 
 #### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
 - Place: Illinois
@@ -4048,6 +4052,11 @@ Noida
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [Jason Lin](https://github.com/JasonLin43212)
+- Place: Brooklyn, New York, USA
+- Bio: I am a student who is currently attending Stuyvesant High School and I love coding.
+- Github: [JasonLin43212](https://github.com/JasonLin43212)
+
 #### Name: [SierraOG](https://github.com/SierraOG/)
 - Place: Austin, TX
 - Bio: taco enthusiast
@@ -4063,6 +4072,11 @@ Noida
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
 
+#### Name: [Legacy](https://github.com/LegacyGDev)
+- Place: Georgia, United States
+- Bio: Just another dreamer
+- Github [LegacyGDev]
+
 #### Name: [ZH2018](https://github.com/zh2018)
 - Place: USA
 - Bio: Newbie :D
@@ -4072,3 +4086,8 @@ Noida
  - Place: India	
  - Bio: Computer Science Undergraduate
  - GitHub: [iambk](https://github.com/iambk)
+
+#### Name: [Mandy Real](https://github.com/mandyreal)
+ - Place: AU, SG
+ - Bio: Software Engineer - mostly on mainframe		
+ - GitHub: [mandyreal](https://github.com/mandyreal)
