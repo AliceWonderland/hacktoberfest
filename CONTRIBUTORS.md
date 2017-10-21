@@ -8257,3 +8257,9 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+ 
+ ﻿#### Name: [Ben Thompson](https://github.com/BenThom21)
+ - Place: Chicago, IL, USA
+ - Bio: Aspiring Developer
+ - GitHub: [BenThom21](https://github.com/BenThom21)
+ - Website: [Ben Thompson Online](https://benthompson.online)
