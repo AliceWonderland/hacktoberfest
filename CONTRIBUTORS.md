@@ -8173,6 +8173,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
 
+#### Name: [Sjors](https://github.com/sjorso)
+- Place: The Netherlands
+- Bio: Need 1 more PR
+- GitHub: [GitHub account name](https://github.com/sjorso)
+
 #### Name: [Elliot Yun](https://github.com/Ellest)
 - Place: Madison, Wisconsin
 - Bio: SQL Developer looking for an SE role. Aspiring ML Engineer. Check out my github :)
@@ -8252,4 +8257,3 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
-
