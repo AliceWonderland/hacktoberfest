@@ -4067,3 +4067,8 @@ Noida
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name: [Camilo Pestana](https://github.com/elcronos)
+- Place: Australia
+- Bio: Software Engineer
+- Github [elcronos](https://github.com/elcronos)
