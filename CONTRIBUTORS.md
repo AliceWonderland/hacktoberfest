@@ -4053,6 +4053,11 @@ Noida
 - Bio: taco enthusiast
 - Github: [SierraOG](https://github.com/SierraOG/)
 
+#### Name: [Justin de Leon](https://github.com/jusdeleon)		 
+ - Place: Philippines		 
+ - Bio: PHP Developer		 
+ - Github: [jusdeleon](https://github.com/jusdeleon)
+
 #### Name: [Civitas](https://github.com/civitas07)
 - Place: Australia
 - Bio: Student
