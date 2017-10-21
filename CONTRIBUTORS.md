@@ -6060,6 +6060,7 @@ Noida
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
 - GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
@@ -8172,6 +8173,11 @@ Noida
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
 
+### Name: [Matheus Lucena](https://github.com/matehuslucena)
+- Place: Brazil
+- Bio: Software Engineer
+- Github: [Matheus Lucena](https://github.com/matehuslucena)
+
 #### Name: [Alexander Pfaff](https://github.com/apfaff)
  - Place: Cologne, Germany
  - Bio: Web Developer
@@ -8211,4 +8217,3 @@ Noida
 - Place: Austin, TX USA
 - Bio: Software Development Undergrad
 - GitHub: [robotnamedEmily](https://github.com/robotnamedEmily)
-
