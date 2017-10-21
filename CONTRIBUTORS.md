@@ -1,3 +1,7 @@
+#### Name: [Åskar Andersson]
+- Place: Sweden
+- GitHub: [olskar]
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
