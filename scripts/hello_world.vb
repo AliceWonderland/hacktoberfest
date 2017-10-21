@@ -1,3 +1,8 @@
+// LANGUAGE: Visual Basic
+// ENV: .Net
+// AUTHOR: Omer
+// GITHUB: https://github.com/omerl13
+
 Imports System
 
 Module Program
