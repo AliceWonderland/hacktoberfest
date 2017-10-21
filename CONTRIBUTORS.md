@@ -1,7 +1,14 @@
-#### Name: [Sam Flores](https://github.com/samflores23)		
- - Place: Chicago, IL, USA		
+#### Name: [Sam Flores](https://github.com/samflores23)
+ - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
+
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
  
  #### Name: [Omid Nikrah](https://github.com/omidnikrah)		
  - Place: Tehran, Tehran, Iran	
@@ -1988,11 +1995,16 @@ Noida
   - Place: Indore, India 
   - Bio: Engineering Student @ IET DAVV Indore 
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
- 
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
+
+#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
+- Place: Germany
+- Bio: Technology enthusiast (mostly IT)
+- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
 
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
@@ -2013,6 +2025,7 @@ Noida
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
 - GitHub: [SrGrace](https://github.com/SrGrace)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
@@ -2111,9 +2124,9 @@ Noida
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
--Place: New Haven, CT, USA
--Bio: Web Developer
--GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
+- Place: New Haven, CT, USA
+- Bio: Web Developer
+- GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
@@ -3965,9 +3978,9 @@ Noida
 - Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
 - GitHub: [Peppertech](https://github.com/peppertech)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
  #### Name: [Narendra Pal](https://github.com/npcoder2k14)
@@ -4000,6 +4013,11 @@ Noida
 - Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
 - GitHub: [JQuinnie](https://github.com/jquinnie)
 
+#### Name: [Matt Gabriel](https://github.com/xanlaeron)
+- Place: United States, Earth, Milky Way Galaxy
+- Bio: Former healthcare professional, Full stack student-developer
+- Github: [xanlaeron](https://github.com/xanlaeron)
+
 #### Name: [Alina Christenbury](https://github.com/AlinaWithAFace)		 
 - Place: Newark, DE
 - Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or gamedev
@@ -4014,3 +4032,18 @@ Noida
 - Place: Florida, USA
 - Bio: Web Developer
 - GitHub: [SmilesandCode](https://github.com/smilesandcode)
+
+#### Name: [Ronald](https://github.com/codealtgeek)
+- Place: South Bend, Indiana, USA
+- Bio: A Coder!!
+- GitHub: [codealtgeek](https://github.com/codealtgeek)
+
+#### Name: [Paula Paysan](https://github.com/paulapaysan)
+- Place: Austin, TX
+- Bio: Student
+- Github: [paulapaysan](https://github.com/paulapaysan)
+
+#### Name: [J. Fehrman](https://github.com/jfehrman)
+- Place: Virginia
+- Bio: Student
+- Github: [jfehrman](https://github.com/jfehrman)
