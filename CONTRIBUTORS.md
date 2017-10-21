@@ -8173,6 +8173,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
 
+#### Name: [Elliot Yun](https://github.com/Ellest)
+- Place: Madison, Wisconsin
+- Bio: SQL Developer looking for an SE role. Aspiring ML Engineer. Check out my github :)
+- GitHub: [Elliot Yun](https://github.com/Ellest)
+
 #### Name: [Bharath Kumar](https://github.com/iambk)
  - Place: India
  - Bio: Computer Science Undergraduate
@@ -8247,3 +8252,4 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
