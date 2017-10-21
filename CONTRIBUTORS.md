@@ -4096,3 +4096,8 @@ Noida
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe		
  - GitHub: [mandyreal](https://github.com/mandyreal)
+
+ #### Name: [Supachai Pluemjitta](https://github.com/Galleria)
+- Place: Bangkok, Thailand
+- Bio: Developer
+- GitHub: [Galleria](https://github.com/Galleria)
