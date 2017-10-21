@@ -2004,6 +2004,11 @@ Noida
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
 
+#### Name:[Michelle Bergin](https://github.com/ironsketch)
+- Place: Olympia, WA, USA
+- Bio: I am an artist, programmer. I make robots, I crochet, etc. artmew.com
+- GitHub: [ironsketch](https://github.com/ironsketch)
+
 #### Name: [Daniel Baker](https://github.com/djbaker)
 - Place: New Orleans, LA
 - Bio: Software Engineer
