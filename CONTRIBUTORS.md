@@ -3,6 +3,11 @@
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+#### Name: [Aditya Kabra](https://github.com/adi0602)
+ - Place: Pune, Maharashtra, India
+ - Bio: Engineering student @ PICT, Pune; Programming :desktop_computer: Games :video_game:
+ - GitHub: [Aditya Kabra](https://github.com/adi0602)
+
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
 
