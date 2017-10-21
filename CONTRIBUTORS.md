@@ -8218,7 +8218,13 @@ Noida
 - Bio: Software Development Undergrad
 - GitHub: [robotnamedEmily](https://github.com/robotnamedEmily)
 
+#### Name: [Shehzad Shaikh](https://github.com/cyberrspiritt)
+  - Place: Pune, Maharashtra
+  - Bio: Cloud Lead @ IgluLabs
+  - Website: www.shehzadshaikh.com
+
 #### Name: [Josh](https://github.com/masta-bhawk)
 - Place: Houston, TX USA
 - Bio: SW Dev
 - GitHub: [masta-bhawk](https://github.com/masta-bhawk)
+
