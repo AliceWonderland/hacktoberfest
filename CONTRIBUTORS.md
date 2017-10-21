@@ -4053,6 +4053,16 @@ Noida
 - Bio: I am a student who is currently attending Stuyvesant High School and I love coding.
 - Github: [JasonLin43212](https://github.com/JasonLin43212)
 
+#### Name: [SierraOG](https://github.com/SierraOG/)
+- Place: Austin, TX
+- Bio: taco enthusiast
+- Github: [SierraOG](https://github.com/SierraOG/)
+
+#### Name: [Justin de Leon](https://github.com/jusdeleon)		 
+ - Place: Philippines		 
+ - Bio: PHP Developer		 
+ - Github: [jusdeleon](https://github.com/jusdeleon)
+
 #### Name: [Civitas](https://github.com/civitas07)
 - Place: Australia
 - Bio: Student
