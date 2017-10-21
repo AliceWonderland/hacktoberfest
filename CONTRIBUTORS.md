@@ -1,8 +1,3 @@
-#### Name: [Mandy Real](https://github.com/mandyreal)
- - Place: AU, SG
- - Bio: Software Engineer - mostly on mainframe		
- - GitHub: [mandyreal](https://github.com/mandyreal)
-
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
@@ -1800,6 +1795,10 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Joseph Musembi](https://github.com/musemby)
+- Place: Nairobi, Kenya
+- Bio: Software engineer
+- Github: [Joseph Musembi](https://github.com/musemby)
 
 #### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
 - Place: Illinois
@@ -4053,6 +4052,11 @@ Noida
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [Jason Lin](https://github.com/JasonLin43212)
+- Place: Brooklyn, New York, USA
+- Bio: I am a student who is currently attending Stuyvesant High School and I love coding.
+- Github: [JasonLin43212](https://github.com/JasonLin43212)
+
 #### Name: [SierraOG](https://github.com/SierraOG/)
 - Place: Austin, TX
 - Bio: taco enthusiast
@@ -4072,3 +4076,8 @@ Noida
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name: [Mandy Real](https://github.com/mandyreal)
+ - Place: AU, SG
+ - Bio: Software Engineer - mostly on mainframe		
+ - GitHub: [mandyreal](https://github.com/mandyreal)
