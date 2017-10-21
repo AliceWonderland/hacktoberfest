@@ -1,4 +1,4 @@
-#### Name: [Sam Flores](https://github.com/samflores23)
+﻿#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
@@ -8222,3 +8222,9 @@ Noida
   - Place: Pune, Maharashtra
   - Bio: Cloud Lead @ IgluLabs
   - Website: www.shehzadshaikh.com
+
+#### Name: [Josh](https://github.com/masta-bhawk)
+- Place: Houston, TX USA
+- Bio: SW Dev
+- GitHub: [masta-bhawk](https://github.com/masta-bhawk)
+
