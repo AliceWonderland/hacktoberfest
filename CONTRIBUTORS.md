@@ -4063,8 +4063,12 @@ Noida
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
 
-
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
+
+#### Name: [ZH2018](https://github.com/zh2018)
+- Place: USA
+- Bio: Newbie :D
+- Github [zh2018](https://github.com/zh2018)
