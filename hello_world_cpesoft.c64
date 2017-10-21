@@ -1,0 +1,6 @@
+// LANGUAGE: Commodore BASIC
+// ENV: BASIC
+// AUTHOR: cpesoft
+// GITHUB: http://github.com/cpesoft
+10 PRINT "HELLO WORLD"
+
