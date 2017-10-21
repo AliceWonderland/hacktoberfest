@@ -8257,3 +8257,10 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+ 
+#### Name: [Edward Ingram](https://www.edwardingram.com/)
+ - Place: Raleigh, North Carolina
+ - Bio: just another experienced, award-winning web developer with a law degree
+ - GitHub: [unquieted](https://github.com/unquieted)
+ 
+ 
