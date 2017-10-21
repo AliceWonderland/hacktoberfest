@@ -8202,7 +8202,7 @@ to explore life. Also, Python and Django Developer
  - Place: Cologne, Germany
  - Bio: Web Developer
  - GitHub: [apfaff](https://github.com/apfaff)
- 
+
  #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -8217,7 +8217,7 @@ to explore life. Also, Python and Django Developer
  - Place: Germany
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
- 
+
  ### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+ #### Name: [Muhammad Arslan Aslam](https://github.com/arximughal)
+  - Place: Lahore, Pakistan
+  - Bio: React.js Developer
+  - GitHub: [arximughal](https://github.com/arximughal)
