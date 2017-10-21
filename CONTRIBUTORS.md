@@ -4062,3 +4062,8 @@ Noida
 - Place: Australia
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
+
+#### Name: [Legacy](https://github.com/LegacyGDev)
+- Place: Georgia, United States
+- Bio: Just another dreamer
+- Github [LegacyGDev]
