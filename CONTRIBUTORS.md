@@ -1,3 +1,9 @@
+#### Name: [Amit Vidwanti](https://github.com/ImVidwanti)
+- Place: Bengaluru, India.
+- Bio: Front-end Web Developer.
+- GitHub: [ImVidwanti](https://github.com/ImVidwanti)
+- Website: [Amit Vidwanti](http://www.amitvidwanti.com)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
