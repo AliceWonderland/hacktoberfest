@@ -4000,6 +4000,11 @@ Noida
 - Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
 - GitHub: [JQuinnie](https://github.com/jquinnie)
 
+#### Name: [Alina Christenbury](https://github.com/AlinaWithAFace)		 
+- Place: Newark, DE
+- Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or gamedev
+- GitHub: [AlinaWithAFace](https://github.com/AlinaWithAFace)
+
 #### Name: [Sylwester](https://github.com/sla)		 
 - Place: Poland
 - Bio: JAVA
