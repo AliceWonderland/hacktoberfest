@@ -1,4 +1,4 @@
-﻿#### Name: [Sam Flores](https://github.com/samflores23)
+#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+#### Name: [Eric](https://github.com/valleyceo)
+- Place: California, USA
+- Bio: Entrepreneur, AI/Robotics Engineer
+- GitHub: [Eric](https://github.com/valleyceo)
