@@ -1,3 +1,8 @@
+// LANGUAGE: C++
+// ENV: 
+// AUTHOR: Michelle Bergin
+// GITHUB: https://github.com/ironsketch
+
 #include <iostream>
 using namespace std;
 
