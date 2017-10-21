@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+ 
+ #### Name: [Heidi Krcil](https://github.com/hkrcil)
+ - Place: Wausau, Wisconsin, USA
+ - Bio: Registered Nurse & Sr. Application Analyst in HealthIT - looking to dust off old coding skills from my CS degree (13 yrs ago) and gain new ones! 
+ - GitHub: [me](https://github.com/hkrcil)
