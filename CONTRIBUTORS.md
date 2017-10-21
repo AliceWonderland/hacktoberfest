@@ -8217,3 +8217,8 @@ Noida
 - Place: Austin, TX USA
 - Bio: Software Development Undergrad
 - GitHub: [robotnamedEmily](https://github.com/robotnamedEmily)
+
+#### Name: [FRANCE DOMINIQUE MENDOZA](https://github.com/niqueeee)
+ - Place: Caloocan City, Philippines
+ - Bio: coffee-blooded student.
+ - GitHub: [niqueeee](https://github.com/niqueeee)
