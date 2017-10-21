@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+#### Name: [Kevin](https://github.com/klien1)
+  - Place: San Jose, California, USA
+  - Bio: Computer Science Undergraduate
+  - Github: [klien1](https://github.com/klien1)
