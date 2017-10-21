@@ -4101,3 +4101,8 @@ Noida
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
  - GitHub: [yerenutku](https://github.com/yerenutku)
+
+ #### Name: [Alex Blum](https://github.com/alexblum)
+ - Place: Germany
+ - Bio: Webdeveloper
+ - GitHub: [alexblum](https://github.com/alexblum)
