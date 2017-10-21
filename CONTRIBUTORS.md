@@ -4048,6 +4048,11 @@ Noida
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [Jason Lin](https://github.com/JasonLin43212)
+- Place: Brooklyn, New York, USA
+- Bio: I am a student who is currently attending Stuyvesant High School and I love coding.
+- Github: [JasonLin43212](https://github.com/JasonLin43212)
+
 #### Name: [SierraOG](https://github.com/SierraOG/)
 - Place: Austin, TX
 - Bio: taco enthusiast
