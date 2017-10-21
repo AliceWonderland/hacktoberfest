@@ -8238,6 +8238,11 @@ to explore life. Also, Python and Django Developer
 - Bio: SW Dev
 - GitHub: [masta-bhawk](https://github.com/masta-bhawk)
 
+#### Name: [Andrew Pickham](https://github.com/apickham)
+- Place: Fredericksburg, VA USA
+- Bio: Data Center Technician
+- GitHub: [apickham](https://github.com/apickham)
+
 #### Name: [Daniel Ajilore](https://github.com/Danielandro/hacktoberfest)
  - Place: London, United Kingdom
  - Bio: Newbie coder
