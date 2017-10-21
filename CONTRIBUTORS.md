@@ -4067,3 +4067,8 @@ Noida
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name: [Elliot Yun](https://github.com/Ellest)
+- Place: Madison, Wisconsin
+- Bio: SQL Developer looking for an SE role. Aspiring ML Engineer. Check out my github :)
+- GitHub: [Elliot Yun](https://github.com/Ellest)
