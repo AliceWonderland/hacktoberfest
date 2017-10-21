@@ -4062,3 +4062,8 @@ Noida
 - Place: Australia
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
+- 
+#### Name: [Janice Kim](GitHub Link)
+- Place: Newark, NJ
+- Bio: High School Student
+- GitHub: [janicek1m](https://github.com/janicek1m)
