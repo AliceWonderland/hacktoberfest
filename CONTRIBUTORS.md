@@ -8257,3 +8257,9 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+ 
+#### Name: [Long Le](https://github.com/lthlong)
+ - Place: Compiegne, France
+ - Bio: Student
+ - GitHub: [lthlong](https://github.com/lthlong)
+ 
