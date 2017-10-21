@@ -8222,4 +8222,3 @@ Noida
 - Place: Houston, TX USA
 - Bio: SW Dev
 - GitHub: [masta-bhawk](https://github.com/masta-bhawk)
-- GitHub: [robotnamedEmily](https://github.com/robotnamedEmily)
