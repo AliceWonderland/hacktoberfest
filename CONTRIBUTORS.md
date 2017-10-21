@@ -1,3 +1,6 @@
+#### Name: [Shantanu Bhardwaj](https://github.com/shantanub007)
+ - Place: New Delhi , India
+ - GitHub: [shantanub007](https://github.com/shantanub007)
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
@@ -9,17 +12,17 @@
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
- 
+
  #### Name: [Omid Nikrah](https://github.com/omidnikrah)		
- - Place: Tehran, Tehran, Iran	
+ - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
- 
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
-  - Place: Indore, India 
-  - Bio: Engineering Student @ IET DAVV Indore 
+
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
- 
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
@@ -1985,15 +1988,15 @@ Noida
  - Place: Chicago, IL, USA		
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
- 
+
  #### Name: [Omid Nikrah](https://github.com/omidnikrah)		
- - Place: Tehran, Tehran, Iran	
+ - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
- 
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
-  - Place: Indore, India 
-  - Bio: Engineering Student @ IET DAVV Indore 
+
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
 
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
