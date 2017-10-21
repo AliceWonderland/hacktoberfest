@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+ #### Name: [Noah Guillory](https://github.com/slokomisu)
+ - Place: Monroe, LA USA
+ - Bio: Computer Information Systems student
+ - Github: [slokomisu](https://github.com/slokomisu)
