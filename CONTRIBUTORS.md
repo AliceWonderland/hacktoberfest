@@ -8217,3 +8217,8 @@ Noida
 - Place: Austin, TX USA
 - Bio: Software Development Undergrad
 - GitHub: [robotnamedEmily](https://github.com/robotnamedEmily)
+
+#### Name: [Shehzad Shaikh](https://github.com/cyberrspiritt)
+  - Place: Pune, Maharashtra
+  - Bio: Cloud Lead @ IgluLabs
+  - Website: www.shehzadshaikh.com
