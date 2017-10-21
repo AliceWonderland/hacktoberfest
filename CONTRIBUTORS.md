@@ -4028,3 +4028,8 @@ Noida
 - Place: Austin, TX
 - Bio: Student
 - Github: [paulapaysan](https://github.com/paulapaysan)
+
+#### Name: [J. Fehrman](https://github.com/jfehrman)
+- Place: Virginia
+- Bio: Student
+- Github: [jfehrman](https://github.com/jfehrman)
