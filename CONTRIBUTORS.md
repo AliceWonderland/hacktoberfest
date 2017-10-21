@@ -4067,3 +4067,8 @@ Noida
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name: [Sjors](https://github.com/sjorso)
+- Place: The Netherlands
+- Bio: Need 1 more PR
+- GitHub: [GitHub account name](https://github.com/sjorso)
