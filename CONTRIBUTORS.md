@@ -8237,3 +8237,8 @@ to explore life. Also, Python and Django Developer
 - Place: Houston, TX USA
 - Bio: SW Dev
 - GitHub: [masta-bhawk](https://github.com/masta-bhawk)
+
+#### Name: [Daniel Ajilore](https://github.com/Danielandro/hacktoberfest)
+ - Place: London, United Kingdom
+ - Bio: Newbie coder
+ - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
