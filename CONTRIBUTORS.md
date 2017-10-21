@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+#### Name: [Coulter Peterson] (https://github.com/coulterpeterson/hacktoberfest)
+ - Place: Mission, British Columbia, Canada
+ - Bio: Day IT guy Night code guy
+ - GitHub: [coulterpeterson] (https://github.com/CoulterPeterson)
+
