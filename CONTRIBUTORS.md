@@ -1875,11 +1875,6 @@ Noida
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
 
-#### Name: [Nishant Rai](https://github.com/iamnishantrai)
-- Place: Noida,India
-- Bio: Student
-- Github: [iamnishantrai] (https://github.com/iamnishantrai)
-
 #### Name: [Ipaye Alameen](https://github.com/ipaye)
 - Place: Lagos, Nigeria
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
@@ -4102,30 +4097,10 @@ Noida
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
 
-#### Name: [Alexander Pfaff](https://github.com/apfaff)
- - Place: Cologne, Germany
- - Bio: Web Developer
- - GitHub: [apfaff](https://github.com/apfaff)
- 
  #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
  - GitHub: [yerenutku](https://github.com/yerenutku)
-
- #### Name: [Supachai Pluemjitta](https://github.com/Galleria)
-- Place: Bangkok, Thailand
-- Bio: Developer
-- GitHub: [Galleria](https://github.com/Galleria)
-
- #### Name: [Alex Blum](https://github.com/alexblum)
- - Place: Germany
- - Bio: Webdeveloper
- - GitHub: [alexblum](https://github.com/alexblum)
- 
- ### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [Naman Bhalla](http://namanbhalla.in)
  - Place: Gurugram, Haryana, India
@@ -4136,3 +4111,9 @@ Noida
 - Place: Bangkok, Thailand
 - Bio: Interactive Developer
 - GitHub: [Mon555](https://github.com/mon555)
+
+#### Name: [Emily Cox](https://github.com/robotnamedEmily)
+- Place: Austin, TX USA
+- Bio: Software Development Undergrad
+- GitHub: [robotnamedEmily](https://github.com/robotnamedEmily)
+
