@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+#### Name: [Alex Karamax](https://github.com/Karamax)
+- Place: Ekaterinburg, Russia
+- Bio: Student-coder
+- GitHub: [Karamax](https://github.com/Karamax)
