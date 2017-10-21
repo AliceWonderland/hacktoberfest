@@ -4072,6 +4072,11 @@ Noida
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
 
+#### Name: [Legacy](https://github.com/LegacyGDev)
+- Place: Georgia, United States
+- Bio: Just another dreamer
+- Github [LegacyGDev]
+
 #### Name: [ZH2018](https://github.com/zh2018)
 - Place: USA
 - Bio: Newbie :D
