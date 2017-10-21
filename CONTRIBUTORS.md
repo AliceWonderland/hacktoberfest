@@ -4096,3 +4096,8 @@ Noida
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe		
  - GitHub: [mandyreal](https://github.com/mandyreal)
+
+ #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
+ - Place: Istanbul, Turkey
+ - Bio: Software Engineer - Android Developer
+ - GitHub: [yerenutku](https://github.com/yerenutku)
