@@ -4072,6 +4072,11 @@ Noida
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
 
+#### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
+- Place: Samarinda, Indonesia
+- Bio: Freelancer
+- Github [yasminzy]((https://github.com/yasminzy)
+
 #### Name: [Legacy](https://github.com/LegacyGDev)
 - Place: Georgia, United States
 - Bio: Just another dreamer
