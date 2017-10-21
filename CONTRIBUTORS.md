@@ -4042,3 +4042,8 @@ Noida
 - Place: Virginia
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
+
+#### Name: [SierraOG](https://github.com/SierraOG/)
+- Place: Austin, TX
+- Bio: taco enthusiast
+- Github: [SierraOG](https://github.com/SierraOG/)
