@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+#### Name: [Sebastian Barthel](https://medium.com/@Journerist)
+- Place: Berlin, Germany
+- Bio: Fullstack Developer
+- GitHub: [Journerist](https://github.com/Journerist/)
