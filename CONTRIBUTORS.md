@@ -4028,6 +4028,11 @@ Noida
 - Bio: JAVA
 - GitHub: [sla](https://github.com/sla)
 
+#### Name: [Nikki](https://github.com/smilesandcode)		 
+- Place: Florida, USA
+- Bio: Web Developer
+- GitHub: [SmilesandCode](https://github.com/smilesandcode)
+
 #### Name: [Ronald](https://github.com/codealtgeek)
 - Place: South Bend, Indiana, USA
 - Bio: A Coder!!
