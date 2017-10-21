@@ -1795,6 +1795,10 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Joseph Musembi](https://github.com/musemby)
+- Place: Nairobi, Kenya
+- Bio: Software engineer
+- Github: [Joseph Musembi](https://github.com/musemby)
 
 #### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
 - Place: Illinois
