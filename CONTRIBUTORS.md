@@ -4047,3 +4047,8 @@ Noida
 - Place: Virginia
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
+
+#### Name: [Civitas](https://github.com/civitas07)
+- Place: Australia
+- Bio: Student
+- Github [Civitas07](https://github.com/civitas07)
