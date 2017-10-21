@@ -1,3 +1,8 @@
+#### Name: [Mandy Real](https://github.com/mandyreal)
+ - Place: AU, SG
+ - Bio: Software Engineer - mostly on mainframe		
+ - GitHub: [mandyreal](https://github.com/mandyreal)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
