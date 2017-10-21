@@ -4101,6 +4101,11 @@ Noida
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
  - GitHub: [yerenutku](https://github.com/yerenutku)
+ 
+ ### Name: Vallenain
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [Naman Bhalla](http://namanbhalla.in)
  - Place: Gurugram, Haryana, India
