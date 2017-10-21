@@ -6,16 +6,16 @@
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
 
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
  
- #### Name: [Omid Nikrah](https://github.com/omidnikrah)		
+#### Name: [Omid Nikrah](https://github.com/omidnikrah)		
  - Place: Tehran, Tehran, Iran	
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
  
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
   - Place: Indore, India 
   - Bio: Engineering Student @ IET DAVV Indore 
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
@@ -1795,6 +1795,10 @@ Noida
 - Bio: Programmer
 - Github: [Udit Mittal](https://github.com/udit-001)
 
+#### Name: [Joseph Musembi](https://github.com/musemby)
+- Place: Nairobi, Kenya
+- Bio: Software engineer
+- Github: [Joseph Musembi](https://github.com/musemby)
 
 #### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
 - Place: Illinois
@@ -4048,6 +4052,11 @@ Noida
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [Jason Lin](https://github.com/JasonLin43212)
+- Place: Brooklyn, New York, USA
+- Bio: I am a student who is currently attending Stuyvesant High School and I love coding.
+- Github: [JasonLin43212](https://github.com/JasonLin43212)
+
 #### Name: [SierraOG](https://github.com/SierraOG/)
 - Place: Austin, TX
 - Bio: taco enthusiast
@@ -4068,7 +4077,22 @@ Noida
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
 
+#### Name: [Legacy](https://github.com/LegacyGDev)
+- Place: Georgia, United States
+- Bio: Just another dreamer
+- Github [LegacyGDev]
+
 #### Name: [ZH2018](https://github.com/zh2018)
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name: [Bharath Kumar](https://github.com/iambk)		
+ - Place: India	
+ - Bio: Computer Science Undergraduate
+ - GitHub: [iambk](https://github.com/iambk)
+
+#### Name: [Mandy Real](https://github.com/mandyreal)
+ - Place: AU, SG
+ - Bio: Software Engineer - mostly on mainframe		
+ - GitHub: [mandyreal](https://github.com/mandyreal)
