@@ -4019,6 +4019,11 @@ Noida
 - Bio: JAVA
 - GitHub: [sla](https://github.com/sla)
 
+#### Name: [Ronald](https://github.com/codealtgeek)
+- Place: South Bend, Indiana, USA
+- Bio: A Coder!!
+- GitHub: [codealtgeek](https://github.com/codealtgeek)
+
 #### Name: [Paula Paysan](https://github.com/paulapaysan)
 - Place: Austin, TX
 - Bio: Student
