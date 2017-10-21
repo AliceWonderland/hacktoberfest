@@ -4009,3 +4009,10 @@ Noida
 - Place: Poland
 - Bio: JAVA
 - GitHub: [sla](https://github.com/sla)
+
+
+#### Name: [Ronald](https://github.com/codealtgeek)
+- Place: South Bend, Indiana, USA
+- Bio: A Coder!!
+- GitHub: [codealtgeek](https://github.com/codealtgeek)
+```
