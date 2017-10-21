@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+#### Name: [Dixon Chan Dick](https://github.com/dixon1e)
+ - Place: Longmont, CO USA
+ - Bio: Systems Engineer
+ - GitHub: [dixon1e](https://github.com/dixon1e/hacktoberfest)
