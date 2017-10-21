@@ -1,3 +1,8 @@
+#### Name: [Kudakwashe Siziva](https://github.com/kaysiz)
+- Place: Harare, Harare, Zimbabwe
+- Bio: Freelance Web Developer:
+- GitHub: [kaysiz](https://github.com/kaysiz)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
@@ -4062,8 +4067,3 @@ Noida
 - Place: Australia
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
-
-#### Name: [ZH2018](https://github.com/zh2018)
-- Place: USA
-- Bio: Newbie :D
-- Github [zh2018](https://github.com/zh2018)
