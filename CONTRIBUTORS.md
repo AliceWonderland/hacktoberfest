@@ -3,6 +3,11 @@
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
  
+ #### Name: [Omid Nikrah](https://github.com/omidnikrah)		
+ - Place: Tehran, Tehran, Iran	
+ - Bio: Front-end developer
+ - GitHub: [omidnikrah](https://github.com/omidnikrah)
+ 
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
   - Place: Indore, India 
   - Bio: Engineering Student @ IET DAVV Indore 
