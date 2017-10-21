@@ -4047,3 +4047,8 @@ Noida
 - Place: Virginia
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
+
+#### Name: [Dipak Wani](https://github.com/dipakwani1)
+- Place: Pune, India
+- Bio: Student @ SPPU
+- Github: [dipakwani1](https://github.com/dipakwani1)
