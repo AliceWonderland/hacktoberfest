@@ -4076,3 +4076,8 @@ Noida
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name: [TheZenti](https://github.com/TheZenti)
+- Place: Germany
+- Bio: Plan and construct CI/CD infrastructure
+- Github [TheZenti](https://github.com/TheZenti)
