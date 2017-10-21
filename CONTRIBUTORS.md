@@ -6,16 +6,16 @@
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
 
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
  
- #### Name: [Omid Nikrah](https://github.com/omidnikrah)		
+#### Name: [Omid Nikrah](https://github.com/omidnikrah)		
  - Place: Tehran, Tehran, Iran	
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
  
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare) 
   - Place: Indore, India 
   - Bio: Engineering Student @ IET DAVV Indore 
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
@@ -4081,6 +4081,11 @@ Noida
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name: [Bharath Kumar](https://github.com/iambk)		
+ - Place: India	
+ - Bio: Computer Science Undergraduate
+ - GitHub: [iambk](https://github.com/iambk)
 
 #### Name: [Mandy Real](https://github.com/mandyreal)
  - Place: AU, SG
