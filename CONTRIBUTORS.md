@@ -8231,4 +8231,4 @@ Noida
 #### Name: [Andrew Pickham](https://github.com/apickham)
 - Place: Fredericksburg, VA USA
 - Bio: Data Center Technician
-- GitHub: [masta-bhawk](https://github.com/apickham)
+- GitHub: [apickham](https://github.com/apickham)
