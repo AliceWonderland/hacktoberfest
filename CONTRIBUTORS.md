@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+ #### Name: [Janderson Constantino](https://github.com/JandersonConstantino)
+ - Place: Santa Catarina, Brazil
+ - Bio: Programmer
+ - GitHub: [jandersonconstantino](https://github.com/jandersonconstantino/hacktoberfest)
