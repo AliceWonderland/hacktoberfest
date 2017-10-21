@@ -1619,3 +1619,8 @@ Noida
 - Place: Stockholm, Sweden
 - Bio: Architect
 - Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Yogesh Badhe](https://github.com/warlockz)
+- Place: Pune, India
+- Bio: SW Dev
+- Github: [warlockz] (https://github.com/warlockz)
