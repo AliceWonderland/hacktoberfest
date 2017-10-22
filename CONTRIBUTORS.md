@@ -11,6 +11,10 @@
  - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
+#### Name: [Gia Huy](https://github.com/hosjiu1702)
+- Place: Da Nang, Viet Name
+- Bio: Electronics Student
+- Github: [hosjiu1702](https://github.com/hosjiu1702)
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
