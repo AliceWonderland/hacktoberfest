@@ -1,10 +1,12 @@
-﻿#### Name: [Sam Flores](https://github.com/samflores23)
+#### Name: [Nicko J. Ruddock](https://github.com/GingerNinjaNicko)
+- Place: Norwich, England
+- Bio: Front-end web developer
+- GitHub: [GingerNinjaNicko](https://github.com/GingerNinjaNicko)
+
+#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
-
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
-  - Place: Indore, India
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
@@ -981,7 +983,7 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Place: Qom, Qom, Iran
-- Bio: back-end develoer and seo expert
+- Bio: back-end developer and seo expert
 - GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
 
@@ -2974,12 +2976,6 @@ to explore life. Also, Python and Django Developer
 - Place: Darjeeling, India
 - Bio: CS Student at SRM University, Full Stack Developer
 - Github: [Lokesh Raj Arora](https://github.com/lokiiarora)
-
-#### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
-- Place: Qom, Qom, Iran
-- Bio: back-end develoer and seo expert
-- GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
-- Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
 
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
@@ -5059,12 +5055,6 @@ to explore life. Also, Python and Django Developer
 - Bio: CS Student at SRM University, Full Stack Developer
 - Github: [Lokesh Raj Arora](https://github.com/lokiiarora)
 
-#### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
-- Place: Qom, Qom, Iran
-- Bio: back-end develoer and seo expert
-- GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
-- Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
-
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
@@ -7050,12 +7040,6 @@ to explore life. Also, Python and Django Developer
 - Place: Darjeeling, India
 - Bio: CS Student at SRM University, Full Stack Developer
 - Github: [Lokesh Raj Arora](https://github.com/lokiiarora)
-
-#### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
-- Place: Qom, Qom, Iran
-- Bio: back-end develoer and seo expert
-- GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
-- Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
 
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
