@@ -16533,3 +16533,8 @@ to explore life. Also, Python and Django Developer
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student 
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Paul Chabot](https://github.com/paulch4bot)
+- Place: Paris, France
+- Bio: Marketing & communication @sfeir 
+- Github: [paulch4bot](https://github.com/paulch4bot)
