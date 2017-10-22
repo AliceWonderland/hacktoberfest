@@ -33,7 +33,7 @@ Your data should look some what like this:
 
 ### If you are submiting a profile:
 
-ake sure to include your file in the Profile directory NOT(as I said before) in the home directory.
+Make sure to include your file in the Profile directory NOT(as I said before) in the home directory.
 
 Your data should look somewhat like this:
 
