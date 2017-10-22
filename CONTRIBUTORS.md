@@ -1414,6 +1414,11 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Gilda Griffon](https://github.com/GildaGriffon)
+- Place: Barcelona, Spain
+- Bio: Cybersecurity Manager
+- GitHub: [GildaGriffon](https://github.com/GildaGriffon
+
 #### Name: [Jasen Wyatt](https://github.com/jasenwyatt)
 - Place: Detroit, Michigan, USA
 - Bio: Director UX & Development; music-lover; father;
@@ -1428,6 +1433,11 @@ Noida
 - Place: India
 - Bio: Computer Science Student, Eat, code and sleep :P
 - GitHub: [return007](https://github.com/return007)
+
+#### Name: [Elijah Andrews](https://github.com/xorgon)
+- Place: Southampton, United Kingdom
+- Bio: I am a Christian, gamer, amateur developer and a few other things. I study Aeronautics and Astronautics at University of Southampton.
+- GitHub: [Xorgon](https://github.com/xorgon)
 
 #### Name: [Jianhao Tan](https://github.com/jaanhio)
 - Place: Singapore
@@ -8262,3 +8272,9 @@ to explore life. Also, Python and Django Developer
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+
+#### Name: [Ian Myrfield](https://github.com/imyrfield)
+- Place: Victoria, BC, Canada
+- Bio: Android Developer
+- Github: [imyrfield](https://github.com/imyrfield)
+
