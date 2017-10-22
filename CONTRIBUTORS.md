@@ -8269,6 +8269,6 @@ to explore life. Also, Python and Django Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
 #### Name: [Perdana Adhitama](https://github.com/kovloq)
-  - Place: Indore, India
+  - Place: Fukuoka, Japan
   - Bio: Web Programmer @ SourceCreate
   - Github: [kovloq](https://github.com/kovloq)
