@@ -8218,7 +8218,7 @@ to explore life. Also, Python and Django Developer
  - Place: Cologne, Germany
  - Bio: Web Developer
  - GitHub: [apfaff](https://github.com/apfaff)
- 
+
  #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -8233,7 +8233,7 @@ to explore life. Also, Python and Django Developer
  - Place: Germany
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
- 
+
 ﻿#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
@@ -16448,7 +16448,7 @@ to explore life. Also, Python and Django Developer
  - Place: Cologne, Germany
  - Bio: Web Developer
  - GitHub: [apfaff](https://github.com/apfaff)
- 
+
  #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -16463,7 +16463,7 @@ to explore life. Also, Python and Django Developer
  - Place: Germany
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
- 
+
  ### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16531,8 +16531,13 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Tony Tran](https://github.com/tonytran)
 - Place: Springfield, MA, USA
-- Bio: Software Engineering Intern/ Student 
+- Bio: Software Engineering Intern/ Student
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Debashish Nayak](https://github.com/theindianotaku)
+- Place: Roorkee, Uttarakhand, India
+- Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
+- GitHub: [theindianotaku](https://github.com/theindianotaku)
 
 #### Name: [Lucas Leandro](https://github.com/lucasleandro1204)
 - Place: Florianópos, SC, Brazil
