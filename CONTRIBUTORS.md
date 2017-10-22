@@ -211,6 +211,11 @@
 - Bio: Recent Bachelors in Computer Science
 - Github: [Leah Langford](https://github.com/leahlang4d2)
 
+#### Name: [Wanderson Trindade] (https://github.com/spao234)
+Place: Niteroi, RJ, Brazil
+Bio:geek and nerd
+GitHub: spao234 (https://github.com/spao234)
+
 #### Name: [Eric Nor](https://github.com/thateric)
 - Place: Lake Forest, CA, USA
 - Bio: Multiple corgi owner and a Senior Software Developer
