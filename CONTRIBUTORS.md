@@ -8268,6 +8268,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
 
+ #### Name: [ANJALI](https://github.com/bansalanjali2512)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+
 #### Name: [Ian Myrfield](https://github.com/imyrfield)
 - Place: Victoria, BC, Canada
 - Bio: Android Developer
