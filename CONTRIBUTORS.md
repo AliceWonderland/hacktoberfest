@@ -1,4 +1,9 @@
-﻿#### Name: [Sam Flores](https://github.com/samflores23)
+#### Name: [Gopal Chitalia](https://github.com/gopal86)
+ - Place: Hyderabad , India
+ - Bio: Football , Engineering Student
+ - GitHub: [gopal86](https://github.com/gopal86)
+
+#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
@@ -8212,7 +8217,7 @@ to explore life. Also, Python and Django Developer
  - Place: Cologne, Germany
  - Bio: Web Developer
  - GitHub: [apfaff](https://github.com/apfaff)
- 
+
  #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -8227,7 +8232,7 @@ to explore life. Also, Python and Django Developer
  - Place: Germany
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
- 
+
  ### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -8272,4 +8277,3 @@ to explore life. Also, Python and Django Developer
 - Place: Victoria, BC, Canada
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
-
