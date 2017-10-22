@@ -8263,3 +8263,8 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Nic Wilson](https://github.com/nicolaslwilson/)
+- Place: Minneapolis, MN
+- Bio: Software Developer
+- Github: [nicolaslwilson](https://github.com/nicolaslwilson/)
+
