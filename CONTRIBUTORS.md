@@ -8268,3 +8268,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Dylan Sprague](https://github.com/Pavillin)
+- Place: Ontario, Canada
+- Bio: Programming student, just starting to learn how to use Github!
+- GitHub: [Pavillin](https://github.com/Pavillin)
