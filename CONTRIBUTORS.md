@@ -8273,3 +8273,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Adrian Zuchowski](https://github.com/Zuku271)
+- Place: Bukowno, Malopolska, Poland
+- Bio: Student
+- GitHub: [Zuku271](https://github.com/Zuku271)
