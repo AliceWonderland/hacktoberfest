@@ -1,8 +1,3 @@
-#### Name: [AGAM DWIVEDI](https://github.com/agam98)
-- Place: Kanpur, India
-- Bio: Learning new things!
-- Github: [Agam Dwivedi](https://github.com/agam98) 
-
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
@@ -854,3 +849,9 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [AGAM DWIVEDI](https://github.com/agam98)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Learning new things!
+- GitHub: [Agam Dwivedi](https://github.com/agam98) 
+
