@@ -1,4 +1,7 @@
-﻿#### Name: [Sam Flores](https://github.com/samflores23)
+﻿#### Name: [Bela Cseke](https://github.com/T3DDY173)
+ - Place: Cork, Ireland
+
+#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
