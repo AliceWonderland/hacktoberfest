@@ -1,3 +1,8 @@
+#### Name: [Rimi](https://github.com/APRim05)
+- Place: United Kingdom
+- Bio: I enjoy coding, especially HTML, CSS, JS.
+- GitHub: [APRim05](https://github.com/APRim05)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
