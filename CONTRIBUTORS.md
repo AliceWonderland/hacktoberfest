@@ -16538,3 +16538,8 @@ to explore life. Also, Python and Django Developer
 - Place: Florianópos, SC, Brazil
 - Bio: Main Laravel & Vue Developer, working at Bulldesk
 - GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
+#### Name: [Ayush Jain](https://github.com/ayushjn20)
+- Place: IIT Roorkee, India
+- Bio: Web Developer @ IMG, IIT Roorkee
+- GitHub: [ayushjn20](https://github.com/ayushjn20)
