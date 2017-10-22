@@ -8257,3 +8257,9 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+ 
+ #### Name: [Jessica](https://github.com/jessicalin58)
+ - Place: Orlando, FL USA
+ - Bio: Full Stack Student
+ - GitHub: [jessicalin58](https://github.com/jessicalin58)
+ 
