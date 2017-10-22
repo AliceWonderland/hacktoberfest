@@ -1,3 +1,7 @@
+// LANGUAGE: Go
+// AUTHOR: Ken Kelly
+// GITHUB: https://github.com/kenhkelly
+
 package main
 
 import "fmt"
