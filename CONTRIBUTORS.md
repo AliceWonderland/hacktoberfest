@@ -8257,3 +8257,8 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+ #### Name: [ANJALI](https://github.com/bansalanjali2512)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
