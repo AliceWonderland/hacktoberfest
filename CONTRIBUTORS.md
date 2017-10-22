@@ -16504,6 +16504,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
 
+#### Name: [Eric](https://github.com/valleyceo)
+- Place: California, USA
+- Bio: Entrepreneur, AI/Robotics Engineer
+- GitHub: [Eric](https://github.com/valleyceo)
+
  #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
