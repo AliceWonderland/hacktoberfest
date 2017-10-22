@@ -1,12 +1,9 @@
-﻿#### Name: [Sam Flores](https://github.com/samflores23)
+#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
-  - Place: Indore, India
-
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
 
@@ -2039,7 +2036,6 @@ Noida
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
 - GitHub: [SrGrace](https://github.com/SrGrace)
-
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
@@ -2138,9 +2134,9 @@ Noida
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
-- Place: New Haven, CT, USA
-- Bio: Web Developer
-- GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
+-Place: New Haven, CT, USA
+-Bio: Web Developer
+-GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
@@ -3992,9 +3988,9 @@ Noida
 - Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
 - GitHub: [Peppertech](https://github.com/peppertech)
 
-#### Name: [Mark](https://github.com/Mxrk)
+#### Name: [Mark](https://github.com/Mxrk)		 
  - Place: /
- - Bio: love informatics
+ - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
 
  #### Name: [Narendra Pal](https://github.com/npcoder2k14)
@@ -4011,6 +4007,11 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+
+#### Name: [Dallas Rhoades](https://github.com/dallasrhoades)
+- Place: College Park, Maryland, USA
+- Bio: Undergraduate
+- GitHub: [Dallas Rhoades](https://github.com/dallasrhoades)
 
 #### Name:[Michelle Bergin](https://github.com/ironsketch)
 - Place: Olympia, WA, USA
