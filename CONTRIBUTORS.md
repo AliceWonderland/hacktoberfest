@@ -8273,3 +8273,8 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Michele Armellini](https://github.com/armaDio)
+- Place: Trento, TN, Italy
+- Bio: Computer Science Student
+- GitHub: [armaDio](https://github.com/armaDio)
+
