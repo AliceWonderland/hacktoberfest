@@ -16548,3 +16548,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mumbai, India
 - Bio: Software Developer
 - GitHub: [vish21](https://github.com/vish21)
+
+#### Name: [Ken Kelly](https://github.com/kenhkelly)
+- Place: Coconut Creek, FL, USA
+- Bio: Founder & Lead Engineer at Hoy Marketing Solutions. I write software for the web, mobile, and desktop.
+- GitHub: [kenhkelly](https://github.com/kenhkelly)
