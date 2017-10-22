@@ -1429,6 +1429,11 @@ Noida
 - Bio: Computer Science Student, Eat, code and sleep :P
 - GitHub: [return007](https://github.com/return007)
 
+#### Name: [Elijah Andrews](https://github.com/xorgon)
+- Place: Southampton, United Kingdom
+- Bio: I am a Christian, gamer, amateur developer and a few other things. I study Aeronautics and Astronautics at University of Southampton.
+- GitHub: [Xorgon](https://github.com/xorgon)
+
 #### Name: [Jianhao Tan](https://github.com/jaanhio)
 - Place: Singapore
 - Bio: I like spending time in chlorinated water and spitting out codes.
