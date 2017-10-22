@@ -1998,6 +1998,11 @@ Noida
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
+#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
+- Place: Germany
+- Bio: Technology enthusiast (mostly IT)
+- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
+
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
