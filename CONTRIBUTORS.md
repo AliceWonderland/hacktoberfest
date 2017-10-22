@@ -16538,3 +16538,8 @@ to explore life. Also, Python and Django Developer
 - Place: Florianópos, SC, Brazil
 - Bio: Main Laravel & Vue Developer, working at Bulldesk
 - GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
+#### Name: [Thaleia Tagaraki](https://github.com/Astradeni)
+- Place: Thessaloniki, Greece
+- Bio: Generally, trying to learn how to code
+- GitHub: [Astradeni](https://github.com/Astradeni)
