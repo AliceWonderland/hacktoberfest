@@ -1,4 +1,5 @@
 // LANGUAGE: Javascript
+// ENV: Node.js
 // AUTHOR: Nicko J. Ruddock
 // GITHUB: https://github.com/GingerNinjaNicko
 
@@ -13,8 +14,9 @@
 var app = {
 	/* Vars */
 	complete: false,
-	niceGreet: "Why, Hello there fine fellow",
+	niceGreet: "Why, Hello there fine fellow!",
 	meanGreet: "Urm, I don't like meanies...",
+	error: "I didn't understand that, please try again or type 'exit'.",
 	niceWords: [
 		"yes",
 		"y",
@@ -36,15 +38,21 @@ var app = {
 	},
 	
 	init: function(){
+		// loop until app completes
 		while (!app.complete){
-			var res = prompt("Are you a nice person?").trim().toLowerCase();
-			var result = app.checkResponse(app.niceWords, app.meanWords, res);
-
+			// get user response and trim
+			var response = prompt("Are you a nice person?").trim().toLowerCase();
+			var result = app.checkResponse(app.niceWords, app.meanWords, response);
+			
+			// break loop on keyword "exit"
+			if (response === "exit") break;
+			
+			// check of result
 			if (result){
 				app.complete = true;
 				alert(app[result]);
 			} else {
-				alert("I didn't undertand that, please try again.");
+				alert(app.error);
 			}
 		}
 	}
