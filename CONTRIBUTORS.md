@@ -8268,3 +8268,8 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Ekas Preet Singh](https:/github.com/ekas)
+- Place: New Delhi, India
+- Bio: Front End Developer and a Freelancer
+- GitHub: [Ekas Preet Singh](https://github.com/ekas)
+
