@@ -1619,3 +1619,7 @@ Noida
 - Place: Stockholm, Sweden
 - Bio: Architect
 - Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
