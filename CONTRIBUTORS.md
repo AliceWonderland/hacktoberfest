@@ -16538,3 +16538,8 @@ to explore life. Also, Python and Django Developer
 - Place: Florianópos, SC, Brazil
 - Bio: Main Laravel & Vue Developer, working at Bulldesk
 - GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
+#### Name: [Rajan Kumar Singh](https://github.com/RajanSingh-Projects)
+- Place: Chandigarh, India
+- Bio: Works on Machine Learning and Data Science, book lover
+- Github: [RajanSingh-Projects](https://github.com/RajanSingh-Projects)
