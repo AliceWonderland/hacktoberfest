@@ -16533,3 +16533,10 @@ to explore life. Also, Python and Django Developer
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student 
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Tuhin Khare](https://github.com/whiz-Tuhin)
+- Place: Manipal, Karnataka, India
+- Bio: Computer Science Engineering Student
+- Github: [whiz-Tuhin](https://github.com/whiz-Tuhin)
+
+
