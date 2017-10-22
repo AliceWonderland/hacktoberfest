@@ -16533,3 +16533,8 @@ to explore life. Also, Python and Django Developer
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student 
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Quentin BURG](https://github.com/quentin-burg)
+- Place: Lille, France
+- Bio: Intern / Studient in Embedded Systems
+- GitHub: [quentin-burg](https://github.com/quentin-burg)
