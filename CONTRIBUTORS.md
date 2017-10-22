@@ -1,4 +1,9 @@
-﻿#### Name: [Sam Flores](https://github.com/samflores23)
+#### Name: [Ganesh Majhi](https://github.com/ganeshmajhi)
+ - Place: Banglore,India
+ - Bio: Programming :Designing 
+ - GitHub: [ganeshmajhi](https://github.com/ganeshmajhi)
+
+#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
