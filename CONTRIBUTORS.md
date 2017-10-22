@@ -1,4 +1,4 @@
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
@@ -7,6 +7,11 @@
 - Place: India
 - Bio: Computer Engineering student
 - GitHub: [DarshNaik](https://github.com/DarshNaik)
+
+#### Name: [Maria Araújo](https://github.com/araujomjb)
+- Place: Braga, Portugal
+- Bio: Project Manager Student
+- GitHub: [araujomjb](https://github.com/araujomjb)
 
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
