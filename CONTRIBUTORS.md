@@ -8268,3 +8268,8 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Ramanand Yadav](https://github.com/ramanandY)
+- Place: Mumbai, India
+- Bio: newbie coder
+- Github: [ramanandY](https://github.com/ramanandY)
+
