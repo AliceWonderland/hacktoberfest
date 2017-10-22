@@ -8218,7 +8218,7 @@ to explore life. Also, Python and Django Developer
  - Place: Cologne, Germany
  - Bio: Web Developer
  - GitHub: [apfaff](https://github.com/apfaff)
- 
+
  #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -8233,7 +8233,7 @@ to explore life. Also, Python and Django Developer
  - Place: Germany
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
- 
+
 ﻿#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
@@ -16448,7 +16448,7 @@ to explore life. Also, Python and Django Developer
  - Place: Cologne, Germany
  - Bio: Web Developer
  - GitHub: [apfaff](https://github.com/apfaff)
- 
+
  #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -16463,7 +16463,7 @@ to explore life. Also, Python and Django Developer
  - Place: Germany
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
- 
+
  ### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16531,5 +16531,10 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Tony Tran](https://github.com/tonytran)
 - Place: Springfield, MA, USA
-- Bio: Software Engineering Intern/ Student 
+- Bio: Software Engineering Intern/ Student
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Andrew Gurung](https://github.com/andrewgurung)
+- Place: Bethesda, MD, USA
+- Bio: Software Engineer
+- Github: [andrewgurung](https://github.com/andrewgurung)
