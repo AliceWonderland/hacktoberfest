@@ -8263,3 +8263,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Japan Patel](https://github.com/mrjpatel)
+- Place: Melbourne, Australia
+- Bio: CS Student
+- Github: [mrjpatel](https://github.com/mrjpatel)
