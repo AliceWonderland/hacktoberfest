@@ -5,5 +5,3 @@
 // GITHUB: https://github.com/AliceWonderland
 
 	echo "Hello World!";
-
-?>
