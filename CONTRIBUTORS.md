@@ -8273,3 +8273,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Marios Georgiou](https://github.com/MariosGeorgiou)
+- Place: Larnaca, Cyprus
+- Bio: A sassy grad software engineer
+- Github: [MariosGeorgiou](https://github.com/MariosGeorgiou)
