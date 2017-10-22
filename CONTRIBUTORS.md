@@ -16533,3 +16533,8 @@ to explore life. Also, Python and Django Developer
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student 
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Mohit Rami](https://github.com/Deadpool1994)
+ - Place: Gujarat, India
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn:
+ - GitHub: [deadpool1994](https://github.com/Deadpool1994)
