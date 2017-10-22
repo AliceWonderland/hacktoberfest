@@ -331,6 +331,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [Venu Vardhan Reddy](https://github.com/vchrombie)
+- Place: Kollam,India
+- Bio:  Optimist||Foodie||Techie
+- GitHub: [Venu Vardhan Reddy](https://github.com/vchrombie)
+
 #### Name: [Prateek Pandey](https://github.com/prateekpandey14)
 - Place: Bangalore, India
 - Bio: Opensource Enthusiast, Opensource Golang developer
