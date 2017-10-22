@@ -16508,6 +16508,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Jason Kao](https://github.com/jkao1)
+- Place: New York, NY, USA
+- Bio: Programming enthusiast
+- GitHub: [jkao1](https://github.com/jkao1)
+
 #### Name: [Tony Tran](https://github.com/tonytran)
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student 
