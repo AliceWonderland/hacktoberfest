@@ -16538,3 +16538,13 @@ to explore life. Also, Python and Django Developer
 - Place: Roorkee, Uttarakhand, India
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
 - GitHub: [theindianotaku](https://github.com/theindianotaku)
+
+#### Name: [Lucas Leandro](https://github.com/lucasleandro1204)
+- Place: Florianópos, SC, Brazil
+- Bio: Main Laravel & Vue Developer, working at Bulldesk
+- GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
+#### Name: [Vishal Prakash](https://github.com/vish21)
+- Place: Mumbai, India
+- Bio: Software Developer
+- GitHub: [vish21](https://github.com/vish21)
