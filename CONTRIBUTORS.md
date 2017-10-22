@@ -16533,3 +16533,8 @@ to explore life. Also, Python and Django Developer
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student 
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [William Kuang](https://github.com/uuykay)
+- Place: Sydney, NSW, Australia
+- Bio: Web Developer
+- Github: [uuykay](https://github.com/uuykay)
