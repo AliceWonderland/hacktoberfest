@@ -16533,3 +16533,8 @@ to explore life. Also, Python and Django Developer
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student 
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Lucas Leandro](https://github.com/lucasleandro1204)
+- Place: Florianópos, SC, Brazil
+- Bio: Main Laravel & Vue Developer, working at Bulldesk
+- GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
