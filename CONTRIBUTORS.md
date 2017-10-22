@@ -8268,3 +8268,9 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Sushant Joshi](https://github.com/sushant-j)
+- Place: Pune (MH), India
+- Bio: Web Developer
+- Github: [sushant-j](https://github.com/sushant-j)
+- Website: https://sushant-j.github.io
+
