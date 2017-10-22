@@ -8273,3 +8273,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Perdana Adhitama](https://github.com/kovloq)
+  - Place: Fukuoka, Japan
+  - Bio: Web Programmer @ SourceCreate
+  - Github: [kovloq](https://github.com/kovloq)
