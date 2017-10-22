@@ -8268,3 +8268,8 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Muhammad Farid Zia](https://github.com/mfaridzia)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: Web Developer & Tech Enthusiast
+- GitHub: [mfaridzia](https://github.com/mfaridzia)
+
