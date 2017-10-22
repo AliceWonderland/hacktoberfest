@@ -138,6 +138,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [AMIT CHAMBIAL](https://github.com/devaman)
+- Place: PUNJAB,INDIA
+- Bio: COMPUTER GEEK
+- GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+
 #### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
 -Place: New Haven, CT, USA
 -Bio: Web Developer
