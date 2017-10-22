@@ -8268,3 +8268,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [James Jaya](https://github.com/jamesjaya)
+- Place: Amsterdam, Netherlands
+- Bio: Software developer
+- GitHub: [jamesjaya](https://github.com/jamesjaya)
