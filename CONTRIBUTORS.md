@@ -8257,3 +8257,9 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+#### Name: [Ian Myrfield](https://github.com/imyrfield)
+- Place: Victoria, BC, Canada
+- Bio: Android Developer
+- Github: [imyrfield](https://github.com/imyrfield)
+
