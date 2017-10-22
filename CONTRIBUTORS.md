@@ -16538,3 +16538,8 @@ to explore life. Also, Python and Django Developer
 - Place: Florianópos, SC, Brazil
 - Bio: Main Laravel & Vue Developer, working at Bulldesk
 - GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
+#### Name: [Ignas Ausiejus](https://github.com/IgnasA)
+- Place: Vilnius, Lithuania
+- Bio: Software Engineering student
+- GitHub: [IgnasA](https://github.com/IgnasA)
