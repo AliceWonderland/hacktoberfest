@@ -8273,3 +8273,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Arsalan Cheema](https://github.com/arsalanc-v2/hacktoberfest)
+- Place: Singapore
+- Bio: Computer Science undergrad at NUS
+- Github: [arsalanc-v2](https://github.com/arsalanc-v2)
