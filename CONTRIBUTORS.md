@@ -8268,3 +8268,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Dylan Sanusi-Goh](sanusigoh.me)
+- Place: Melbourne, Australia
+- Bio: Maker Tech Enthusiast & High School Student
+- Github: [imyrfield](https://github.com/dsg2806)
