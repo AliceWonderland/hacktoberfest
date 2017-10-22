@@ -5,6 +5,8 @@
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
+#### Name: [Shubhangi Pandey](https://github.com/meshubhangi)
+ - Place: Varanasi, India
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
