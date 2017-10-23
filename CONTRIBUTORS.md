@@ -1,3 +1,8 @@
+#### Name: [Phil Ramirez](https://github.com/ramirezp6856)
+ - Place: Washington, DC
+ - Bio: Full Stack Developer who loves Ramen and his Australian Shepherd [Cappuccino](https://instagram.com/adognamedchino)
+ - GitHub: [RaMiReZp6856](https://github.com/ramirezp6856)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
