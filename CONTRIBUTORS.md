@@ -16581,3 +16581,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Gustavo Martusewicz](https://github.com/gustavom)
+- Place: São Bernardo do Campo, São Paulo, Brazil
+- Bio: Front-End developer, husband and great fan of games
+- GitHub: [gustavom](https://github.com/gustavom)
