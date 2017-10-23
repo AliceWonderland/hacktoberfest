@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Jeff Lee](https://github.com/jleee)
+- Place: Toronto, ON, Canada
+- Bio: Front-end Developer
+- GitHub: [jleee](https://github.com/jleee)
