@@ -1,8 +1,3 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
- - Place: North Carolina, USA
- - Bio: Learning Web Dev & Design
- - GitHub: [lulabell](https://github.com/lulabell)
-
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
@@ -16607,3 +16602,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+## Name: [Brent Pappas](https://github.com/PappasBrent)
+- Place: Orlando, Florida, United States of America
+- Bio: Compsci major @ UCF; aspiring programmer and jack of all trades
+- Github: [PappasBrent](https://github.com/PappasBrent)
