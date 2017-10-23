@@ -16607,3 +16607,9 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [William Moreno Reyes](https://github.com/williamjmorenor)
+- Place: Managua, Nicaragua
+- Bio: I am a accountant
+- GitHub: [williamjmorenor](https://github.com/williamjmorenor)
+
