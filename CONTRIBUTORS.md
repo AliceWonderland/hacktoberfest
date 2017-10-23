@@ -3,6 +3,11 @@
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
  
+ #### Name: [Monika Bhardwaj] (https://github.com/monikabhardwaj)		
+ - Place: Melbourne, Australia		
+ - Bio: Salesforce Consultant		
+ - GitHub: [Monika Bhardwaj] (https://github.com/monikabhardwaj)
+ 
  #### Name: [Omid Nikrah](https://github.com/omidnikrah)		
  - Place: Tehran, Tehran, Iran	
  - Bio: Front-end developer
