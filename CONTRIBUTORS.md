@@ -16573,3 +16573,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Rafael Bezerra](https://github.com/rafaelbezerra195)
+- Place: Fortaleza, Brazil
+- Bio: Software Developer
+- GitHub: [rafaelbezerra195](https://github.com/rafaelbezerra195)
