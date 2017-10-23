@@ -16612,3 +16612,8 @@ to explore life. Also, Python and Django Developer
 - Place: United States
 - Bio: Web Developer and Programmer
 - Github: [17robots](https://github.com/17robots)
+
+#### Name: [Waldrey Souza Silva](https://github.com/waldreysouzasilva)
+ - Place: São José dos Campos, São Paulo, Brazil
+ - Bio: Computer Science
+ - GitHub: [waldreysouzasilva](https://github.com/waldreysouzasilva)
