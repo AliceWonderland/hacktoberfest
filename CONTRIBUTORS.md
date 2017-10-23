@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16612,3 +16612,8 @@ to explore life. Also, Python and Django Developer
 - Place: United States
 - Bio: Web Developer and Programmer
 - Github: [17robots](https://github.com/17robots)
+
+#### Name: [Lindsay Chapin](https://github.com/lnchapin)
+- Place: Denver, CO, USA
+- Bio: Web Developer Student
+- Github: [lnchapin](https://github.com/lnchapin)
