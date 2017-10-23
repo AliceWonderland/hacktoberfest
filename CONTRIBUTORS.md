@@ -16573,3 +16573,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Patrick Thurston] (https://github.com/pattar420)
+- Place: Wyoming, United States
+- Bio: Gamer, Programming Student, Direct Support Provider
+- GitHub [Pattar420](https://github.com/pattar420)
