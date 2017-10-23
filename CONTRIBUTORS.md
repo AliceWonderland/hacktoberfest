@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Maksim Strutinskiy]
+- Place: Växjö, Sweden
+- Bio: Java/C# developer, language enthusiast, D&D player.
+- GitHub: [AtorVdm](https://github.com/atorvdm)
