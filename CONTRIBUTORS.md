@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Harish Kotra] (https://harishkotra.me)
+- Place: Hyderabad, India
+- Bio: Web & Hybrid App Developer, Hackathon Specialist
+- GitHub: [harishkotra](https://github.com/harishkotra/)
