@@ -1,4 +1,4 @@
-#### Name: [Sam Flores](https://github.com/samflores23)
+﻿#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Alex Ooi](https://github.com/Strider1990) 
+- Place: Singapore, Singapore, Singapore
+- Bio: Computer Science Student, Avid Gamer, Full Stack Developer in training
+- GitHub: [Strider1990](https://github.com/Strider1990)
