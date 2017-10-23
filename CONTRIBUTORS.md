@@ -16591,3 +16591,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Kristen Kulha](https://github.com/kristenmarie)
+- Place: Seattle, WA, USA
+- Bio: Epicodus student, Computer Science college dropout
+- GitHub: [kristenmarie](https://github.com/kristenmarie)
