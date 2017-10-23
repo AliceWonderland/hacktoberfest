@@ -16573,3 +16573,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Michael Hurley] (https://github.com/craftman32)
+- Place: Grand Rapids, MI
+- Bio: Full Stack Web Developer, strongman, bboy, Star Trek fan
+- GitHub: [craftman32](https://github.com/craftman32)
