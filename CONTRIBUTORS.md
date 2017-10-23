@@ -16573,3 +16573,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Vinicius Augusto] (http://viniciusaugusto.com.br)
+- Place: Cianorte, Brazil
+- Bio: Front-end Developer.
+- GitHub: [ViniciusAugusto](https://github.com/ViniciusAugusto)
