@@ -1,5 +1,9 @@
+// LANGUAGE: C++
+// ENV: g++
+// AUTHOR: Samuel Mafoko
+// GITHUB: https://github.com/omphemetse
+
 #include <iostream>
-#include <iomanip>
 
 using namespace std;
 
