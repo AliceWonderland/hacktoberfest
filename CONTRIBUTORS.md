@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Mihir Rathwa] (https://github.com/mihirathwa)
+- Place: Tempe, AZ, USA
+- Bio: Web Developer, Android Enthusiast, Graduate Student at ASU.
+- GitHub: [mihirathwa] (https://github.com/mihirathwa)
