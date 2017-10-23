@@ -16581,3 +16581,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Adam Vincent](https://github.com/CaptMurphy)
+- Place: Durham, NC, USA
+- Bio: Father, software engineer
+- GitHub: [CaptMurphy](https://github.com/CaptMurphy)
