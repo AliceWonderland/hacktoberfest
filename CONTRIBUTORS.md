@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Niklas Resch] (https://datentopf.org)
+- Place: Bonn, Germany
+- Bio: DevOps, Linux Guy, american football player.
+- GitHub: [clue404](https://github.com/clue404)
