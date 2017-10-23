@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Michaël De Boey](https://github.com/MichaelDeBoey)
+- Place: Sint-Niklaas, Belgium
+- Bio: Software Consultant @ [Alpha IT](http://alpha-it.be) by day, Drum&Bass DJ @ [Dazzled](https://facebook.com/dazzledofficial) by night.
+- GitHub: [MichaelDeBoey](https://github.com/MichaelDeBoey)
