@@ -1,3 +1,7 @@
+#### Name: [Ricky Fong](https://github.com/ricky321u)
+ - Place: Macau
+ - GitHub: [ricky321u](https://github.com/ricky321u)
+
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
