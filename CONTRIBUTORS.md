@@ -16607,3 +16607,9 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Alfred V Jose](https://github.com/alfvj17)
+- Place: Ernakulam, Kerala, India
+- Bio: Web developer, cricket and football enthusiast, coder.
+- GitHub: [alfvj17](https://github.com/alfvj17)
+
