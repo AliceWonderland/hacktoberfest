@@ -16573,3 +16573,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Thaysa Santos](https://github.com/thaymara)
+- Place: Sorocaba, São Paulo, Brazil
+- Bio: I'm a front-end developer
+- GitHub: [thaymara](https://github.com/thaymara)
