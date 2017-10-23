@@ -1,4 +1,4 @@
-#### Name: [Sam Flores](https://github.com/samflores23)
+﻿#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
@@ -600,6 +600,7 @@
 - Place: London, England
 - Bio: Student, Aspiring Front-end Web Dev
 - Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
+
 #### Name: [Ben Smith](https://github.com/ben-w-smith)
 - Place: Salt Lake City, UT, USA
 - Bio: A guy that loves writing bots and automation.
@@ -1915,7 +1916,7 @@ Noida
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -1925,7 +1926,7 @@ Noida
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -3896,7 +3897,7 @@ Noida
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -3906,7 +3907,7 @@ Noida
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -5994,7 +5995,7 @@ Noida
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -6004,7 +6005,7 @@ Noida
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -7987,7 +7988,7 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -7997,7 +7998,7 @@ to explore life. Also, Python and Django Developer
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -10149,7 +10150,7 @@ Noida
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -10159,7 +10160,7 @@ Noida
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -12131,7 +12132,7 @@ Noida
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -12141,7 +12142,7 @@ Noida
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -14224,7 +14225,7 @@ Noida
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -14234,7 +14235,7 @@ Noida
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -16217,7 +16218,7 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
@@ -16227,7 +16228,7 @@ to explore life. Also, Python and Django Developer
 
  #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Neelansh Sahai](https://www.linkedin.com/in/neelansh-sahai-555a693b/)
@@ -16568,3 +16569,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Samuel Mafoko] (https://github.com/omphemetse)
+- Place: Pretoria, South Africa
+- Bio: PHP, C, C++ and LUA developer.
+- GitHub: [omphemetse](https://github.com/omphemetse)
