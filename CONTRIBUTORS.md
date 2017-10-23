@@ -16591,3 +16591,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Thomas Reiser](https://github.com/thomasreiser)
+- Place: Upper Palatinate, Germany
+- Bio: Software developer, cat fan.
+- GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
