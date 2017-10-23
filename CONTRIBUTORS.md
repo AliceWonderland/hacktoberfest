@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Matthew Piercey](https://github.com/hyperionlevelq)
+- Place: Ontario, Canada
+- Bio: Student, 3D Printing Guru, 2018 Captain JavaWockies FRC Team 6336
+- Github: [hyperionlevelq](https://github.com/hyperionlevelq)
