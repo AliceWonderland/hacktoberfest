@@ -1,3 +1,8 @@
+#### Name: [Rod Gudge](https://github.com/https://github.com/rodgudge)
+ - Place: Portsmouth, UK
+ - Bio: Developer, Gamer, Traveler
+ - GitHub: [rodgudge](https://github.com/rodgudge)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
