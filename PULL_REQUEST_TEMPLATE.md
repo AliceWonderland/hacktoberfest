@@ -1,7 +1,8 @@
 # Hello and Welcome!
-Thank you for contributing to the hacktoberfest. Please take the time to make sure your PR is inline with all of the following requirements.
 
-### If you are submiting a script file:
+Thank you for contributing to the hacktoberfest. Please take some time to make sure your PR is inline with all of the following requirements.
+
+### If you are submitting a script file:
 
 Your ending script file should look something like this:
 ```
@@ -12,13 +13,13 @@ Your ending script file should look something like this:
 
 console.log("Hello World") 
 ```
-Do NOT make your file like this
+DO NOT make your file like this:
 ```
 console.log("Hello World")
 ```
-Also, make sure to put the file in the script folder NOT in the home directory.
+Also, make sure to put the file in the script folder, NOT in the home directory.
 
-### If you are submiting a new contributor:
+### If you are submitting a new contributor:
 
 Make sure you don't delete any other data which is already stored there.
 
@@ -31,9 +32,9 @@ Your data should look some what like this:
   - GitHub: [Your Name](GitHub Link)
 ```
 
-### If you are submiting a profile:
+### If you are submitting a profile:
 
-Make sure to include your file in the Profile directory NOT(as I said before) in the home directory.
+Make sure to include your file in the Profile directory, NOT(as I said before) in the home directory.
 
 Your data should look somewhat like this:
 
@@ -60,4 +61,4 @@ Your School
 
 [Your Name](GitHub Link)
 ```
-Make sure to stay inline with all these requirements
+Make sure to stay inline with all these requirements.
