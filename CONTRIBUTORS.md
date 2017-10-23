@@ -1,3 +1,8 @@
+#### Name: [Thomas Joaquini](https://github.com/tjoaquini)
+ - Place: Bauru, São Paulo, Brazil
+ - Bio: Front-end Developer Wannabe
+ - GitHub: [tjoaquini](https://github.com/tjoaquini)
+
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
