@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16607,3 +16607,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Patrick Kleindienst](https://github.com/apophis90)
+- Place: Stuttgart, Germany
+- Bio: CS student at Stuttgart Media University
+- GitHub: [apophis90](https://github.com/apophis90)
