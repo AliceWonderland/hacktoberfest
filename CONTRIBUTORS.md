@@ -1,3 +1,8 @@
+#### Name: [Scott Ream](https://github.com/robotshateme)
+- Place: Kalamazoo, MI, USA
+- Bio: Learning
+- GitHub: [robotshateme](https://github.com/robotshateme)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
