@@ -1,3 +1,8 @@
+#### Name: [Satvik Shrivastava](https://github.com/satvikshri)
+ - Place: India
+ - Bio: Student | Artist | Programmer
+ - GitHub: [satvikshri](https://github.com/satvikshri)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
