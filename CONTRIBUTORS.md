@@ -1,3 +1,8 @@
+#### Name: [Sarthak Tripathi](https://github.com/Sarthak3)
+  - Place: Guwahati, India
+  - Bio: Student
+  - Github: [Sarthak3](https://github.com/Sarthak3)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
