@@ -3,7 +3,12 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
-#### Name: [Leon Todd](https://github.com/leontodd)
+#### Name: [Tejas S](https://github.com/tejassateesh)
+ - Place: Bengaluru, India
+ - Bio: Computer Science @ RNSIT
+ - GitHub: [byteme](https://github.com/tejassateesh)
+ 
+ #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
  - GitHub: [Leon Todd](https://github.com/leontodd)
@@ -11,7 +16,7 @@
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
- 
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
@@ -16592,6 +16597,11 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Rafael Bezerra](https://github.com/rafaelbezerra195)
+- Place: Fortaleza, Brazil
+- Bio: Software Developer
+- GitHub: [rafaelbezerra195](https://github.com/rafaelbezerra195)
 
 #### Name: [Raghu](https://github.com/FarmboyRaghu)
 - Place: Chennai, Tamil Nadu, India
