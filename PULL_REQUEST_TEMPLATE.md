@@ -1,5 +1,5 @@
 # Hello and Welcome!
-Thank you for contributing to the hacktoberfest. Please take the time to make sure your PR is inline with all of the following requirments.
+Thank you for contributing to the hacktoberfest. Please take the time to make sure your PR is inline with all of the following requirements.
 
 ### If you are submiting a script file:
 

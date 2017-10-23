@@ -16553,3 +16553,8 @@ to explore life. Also, Python and Django Developer
 - Place: Coconut Creek, FL, USA
 - Bio: Founder & Lead Engineer at Hoy Marketing Solutions. I write software for the web, mobile, and desktop.
 - GitHub: [kenhkelly](https://github.com/kenhkelly)
+
+#### Name: [Casey Schroeder] (https://github.com/cdschroeder)
+- Place: Cincinnati, OH, USA
+- Bio: Technical writer, gamer, coffee lover.
+- GitHub: [cdschroeder](https://github.com/cdschroeder)
