@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Lucky](https://github.com/luckycoder1030)
+- Place: South Carolina, United States of America
+- Bio: An amateur programmer
+- GitHub: [LuckyCoder1030](https://github.com/luckycoder1030)
