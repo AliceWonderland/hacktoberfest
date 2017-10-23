@@ -16607,3 +16607,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Ramiro Solis](https://github.com/Solis1)
+ - Place: Chihuahua, Mexico
+ - Bio: Programmer, Rookie in Ruby on Rails, reader of novels and fan of series ;) 
+ - GitHub: [Tilak-Shenoy](https://github.com/Solis1)
