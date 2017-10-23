@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Saurabh Mandavkar](https://github.com/mandy-jr)
+- Place: Navi Mumbai, India
+- Bio: Technology at its best
+- Github: [mandy-jr](https://github.com/mandy-jr)
