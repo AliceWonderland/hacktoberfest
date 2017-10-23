@@ -882,6 +882,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Akash Goel] (https://github.com/akashgoel1197)
+- Place: India
+- Bio: Gamer
+- Github:[Akash Goel ] (https://github.com/akashgoel1197)
+
 #### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
 - Place: Emmen, the Netherlands
 - Bio: Game design studen & Hobbyist programmer
