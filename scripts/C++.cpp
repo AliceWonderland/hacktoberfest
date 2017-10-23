@@ -1,5 +1,5 @@
 /*Lang C++
-env Interactive as well as script
+env script
 aut Anshu Musaddi
 github https://github.com/anshucollege*/
 #include<iostream.h>
