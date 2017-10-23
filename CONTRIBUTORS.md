@@ -1,3 +1,11 @@
+#### Name: [Leon Todd](https://github.com/leontodd)
+ - Place: Leicester, UK
+ - Bio: Computer Science @ University of Leicester
+ - GitHub: [Leon Todd](https://github.com/leontodd)
+
+#### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
+ - Place: Udupi, India
+ - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
@@ -873,6 +881,11 @@
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Akash Goel] (https://github.com/akashgoel1197)
+- Place: India
+- Bio: Gamer
+- Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
 #### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
 - Place: Emmen, the Netherlands
@@ -16578,3 +16591,8 @@ to explore life. Also, Python and Django Developer
 - Place: Fortaleza, Brazil
 - Bio: Software Developer
 - GitHub: [rafaelbezerra195](https://github.com/rafaelbezerra195)
+
+#### Name: [Raghu](https://github.com/FarmboyRaghu)
+- Place: Chennai, Tamil Nadu, India
+- Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
+- GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
