@@ -1,3 +1,8 @@
+### Name: [Andrei Ungur](https://github.com/AndreiUngur)
+ - Place: Montreal, Canada
+ - Bio: Software Engineering, Front&Back-end web dev
+ - Github: [AndreiUngur](https://github.com/AndreiUngur)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
