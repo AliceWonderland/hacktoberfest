@@ -1,3 +1,7 @@
+#### Name: [Gadila Shashank Reddy](https://github.com/gadilashashank)
+-Place: Hyderabad,TS,India
+-Bio: Novice(read NOOB) programmer,Games: World of tanks Blitz
+-Github:[gadilashashank](https://github.com/gadilashashank)
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
