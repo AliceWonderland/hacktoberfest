@@ -16595,4 +16595,4 @@ to explore life. Also, Python and Django Developer
 #### Name: [Thomas Reiser](https://github.com/thomasreiser)
 - Place: Upper Palatinate, Germany
 - Bio: Software developer, cat fan.
-- GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+- GitHub: [thomasreiser](https://github.com/thomasreiser)
