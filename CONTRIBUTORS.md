@@ -1,3 +1,7 @@
+#### Name: [Aubhik Mazumdar](https://github.com/aubhik-mazumdar)
+- Place: Hoboken, New Jersey, United States of America
+- Bio: In the process of domesticating computers. Teaching it to learn is my next step. 
+- GitHub: [aubhik-mazumdar](https://github.com/aubhik-mazumdar)
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
