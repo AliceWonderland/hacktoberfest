@@ -16594,6 +16594,6 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Alfred V Jose](https://github.com/alfvj17)
 - Place: Ernakulam, Kerala, India
-- Bio: Web Developer, Cricket and Football enthusiast, Coder.
-- GitHub: [Alfred V Jose](https://github.com/alfvj17)
+- Bio: Web developer, cricket and football enthusiast, coder.
+- GitHub: [alfvj17](https://github.com/alfvj17)
 
