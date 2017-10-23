@@ -1,3 +1,8 @@
+#### Name: [Ishita Sinha](https://github.com/ishitasinha)
+ - Place: New Delhi, India
+ - Bio: Star Wars Fan
+ - GitHub: [ishitasinha](https://github.com/ishitasinha)
+
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
