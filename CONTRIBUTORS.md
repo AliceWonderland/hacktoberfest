@@ -16559,6 +16559,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Technical writer, gamer, coffee lover.
 - GitHub: [cdschroeder](https://github.com/cdschroeder)
 
+#### Name: [Joel Guerra] (http://joelguerra.ninja)
+- Place: Seattle, WA, USA
+- Bio: Engineer, sports fan, car builder, gamer
+- GitHub: [joel-g](https://github.com/joel-g)
+
 #### Name: [Khotibul Umam] (https://github.com/umaams)
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
