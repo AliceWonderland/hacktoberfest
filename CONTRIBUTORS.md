@@ -1311,3 +1311,8 @@ Noida
 - Place: Germany
 - Bio: I'm a german developer who loves to create things :)
 - GitHub: [iamchrishckns](https://github.com/iamchrishckns)
+
+#### Name: [Shantal T](https://github.com/STaverasAC)
+- Place: Brooklyn, NY, USA
+- Bio: I am a BI Analyst currently in a fellowship to become an Android developer.
+- GitHub: [STaverasAC](https://github.com/STaverasAC)
