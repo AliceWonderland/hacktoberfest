@@ -16607,3 +16607,10 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+ 
+ #### Name: [Amit Nave](https://github.com/AmiterCodes)
+ - Place: Israel
+ - Bio: Student learning Java, Javascript and Python.
+ - GitHub: [AmiterCodes](https://github.com/AmiterCodes)
+
