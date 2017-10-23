@@ -16607,3 +16607,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Steve Ottoz](https://github.com/iamso)
+- Place: Zurich, Switzerland
+- Bio: I do web stuff.
+- GitHub: [iamso](https://github.com/iamso)
