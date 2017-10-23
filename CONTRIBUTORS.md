@@ -16581,3 +16581,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Jakob](https://github.com/J4K0B)
+- Place: Vechta, Lower Saxony, Germany
+- Bio: 18 y/o student from Germany
+-GitHub: [J4K0B](https://github.com/J4K0B)
