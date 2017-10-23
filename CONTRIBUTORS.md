@@ -1,3 +1,6 @@
+#### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
+ - Place: Udupi, India
+ - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
