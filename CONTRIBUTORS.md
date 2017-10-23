@@ -16612,3 +16612,8 @@ to explore life. Also, Python and Django Developer
 - Place: United States
 - Bio: Web Developer and Programmer
 - Github: [17robots](https://github.com/17robots)
+
+#### Name: [Brianna Antuna](https://github.com/bda412)
+- Place: San Antonio, TX, United States
+- Bio: Web Developer
+- Github: [bda412](https://github.com/bda412)
