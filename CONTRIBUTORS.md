@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Throw Error](https://github.com/throwerror)
+- Place: Brazil
+- Bio: Developer
+- Github: [throwerror](https://github.com/throwerror)
