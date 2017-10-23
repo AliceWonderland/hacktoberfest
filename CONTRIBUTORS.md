@@ -16607,3 +16607,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Jibi](https://github.com/jibijohndavid)
+- Place: Kerala, India
+- Bio: Web enthusiast passionate in designing and coding.
+- GitHub: [Jibi](https://github.com/jibijohndavid)
