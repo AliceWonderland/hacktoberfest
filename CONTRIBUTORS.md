@@ -1,3 +1,8 @@
+#### Name: [Manuel Chavez](https://github.com/ManuelCR1)
+ - Place: Tepatitlan, Jalisco, Mexico
+ - Bio: Junio Full Stack @ BlueTrailSoftware
+ - GitHub: [ManuelCR1](https://github.com/ManuelCR1)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
