@@ -4,4 +4,3 @@
 // GITHUB: https://github.com/lulabell
 
 echo 'Hello, World!';
-?>
