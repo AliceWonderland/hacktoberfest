@@ -16573,3 +16573,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [John Nico Garcia](https://github.com/jngarcia)
+- Place: Philippines
+- Bio: Software Engineer
+- GitHub: [jngarcia](https://github.com/jngarcia)
