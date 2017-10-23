@@ -16512,6 +16512,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
 
+### Name: [Chester Tan] (https://github.com/chesterlbtan)
+- Place: Manila, Philippines
+- Bio: Software Engineer in a Manufacturing Company
+- GitHub: [chesterlbtan](https://github.com/chesterlbtan)
+ 
 #### Name: [Eric](https://github.com/valleyceo)
 - Place: California, USA
 - Bio: Entrepreneur, AI/Robotics Engineer
