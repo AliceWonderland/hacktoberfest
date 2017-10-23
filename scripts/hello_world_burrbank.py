@@ -16,6 +16,7 @@ def get_negative_index(letter: str, case: str) -> int:
 
 def caesarian(text: str, n: int) -> string:
     """return a cesarian cipher of text rotated around the alphabet by n"""
+    n = n % 26
     ci = [] 
     for char in text:
         if char.islower(): #handle lower case
