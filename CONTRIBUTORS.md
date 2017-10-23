@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Adly Loukil](https://github.com/adlyloukil)
+- Place: Shibuya, Tokyo, Japan
+- Bio: Science graduate with a new profound interest in coding
+- GitHub: [adlyloukil](https://github.com/adlyloukil)
