@@ -1,3 +1,8 @@
+#### Name: [Grace Bell](https://github.com/lulabell)
+ - Place: North Carolina, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [lulabell](https://github.com/lulabell)
+
 #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -6,6 +11,7 @@
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+ 
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
