@@ -1,4 +1,4 @@
-#### Name: [Leon Todd](https://github.com/leontodd)
+﻿#### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
  - GitHub: [Leon Todd](https://github.com/leontodd)
@@ -16591,3 +16591,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Jeremy Ferguson](https://github.com/wasabullfrog)
+- Place: Mount Vernon, Iowa, USA
+- Bio: Python and Java programmer, still learning the ropes.
+- Github: [wasabullfrog](https://github.com/wasabullfrog)
