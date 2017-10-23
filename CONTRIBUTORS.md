@@ -16558,3 +16558,8 @@ to explore life. Also, Python and Django Developer
 - Place: Cincinnati, OH, USA
 - Bio: Technical writer, gamer, coffee lover.
 - GitHub: [cdschroeder](https://github.com/cdschroeder)
+
+#### Name: [Joel Guerra] (http://joelguerra.ninja)
+- Place: Seattle, WA, USA
+- Bio: Engineer, sports fan, car builder, gamer
+- GitHub: [joel-g](https://github.com/joel-g)
