@@ -1,3 +1,6 @@
+#### Name: [Yatin Gupta](https://github.com/YatinGupta777)
+ - Place: New Delhi, India
+ - GitHub: [YatinGupta777](https://github.com/YatinGupta777)
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
