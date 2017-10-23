@@ -4022,9 +4022,9 @@ Noida
 - Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
 - GitHub: [Peppertech](https://github.com/peppertech)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
  #### Name: [Narendra Pal](https://github.com/npcoder2k14)
@@ -16607,3 +16607,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Alexander Garcia](https://alexandergarcia.me)
+- Place: Austin, TX
+- Bio: Web Developer
+- GitHub: [asg5704](https://github.com/asg5704)
