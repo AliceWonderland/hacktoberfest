@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Oscar G. Castro] (https://github.com/Legio1221)
+- Place: Texas, USA
+- Bio: IT Business Analyst (Software Dev.)
+- Github: [legio1221](https://github.com/legio1221)
