@@ -1,3 +1,9 @@
+﻿#### Name: [Dan Brod](https://github.com/didntknowwhattoname)
+ - Place: Vancouver, BC
+ - Bio: Student
+ - GitHub: [didntknowwhattoname](https://github.com/didntknowwhattoname)
+
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
