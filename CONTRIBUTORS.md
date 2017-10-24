@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16627,3 +16627,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
+
+#### Name: [Matthew Brooks](https://github.com/themediocremrfox)
+- Place: College Station, Texas, United States
+- Bio: Aspiring Developer/Network Engineer, Gamer, Likes long walks on the beach
+- GitHub: [themediocremrfox](https://github.com/themediocremrfox/)
