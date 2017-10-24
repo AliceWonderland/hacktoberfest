@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz] (https://github.com/marieluisemerz/)
+
+#### Name: [Judar Lima] (https://github.com/judarlima)
+- Place: São Paulo, Brazil
+- Bio: Software Engineer at Nubank
+- GitHub: [judarlima] (https://github.com/judarlima/)
