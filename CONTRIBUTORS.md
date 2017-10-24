@@ -2428,6 +2428,16 @@ Noida
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
 
+#### Name: [Italo Góis](https://github.com/italogois)
+- Place: Aracaju, Sergipe, Brazil
+- Bio: Front End Developer
+- GitHub: [italogois](https://github.com/italogois)
+
+#### Name: [Pranjal Singh] (https://github.com/pranjal44)
+- Place: Delhi, India
+- Bio: Beginner
+- GitHub: [pranjal44](https://github.com/pranjal44)
+
 #### Name: [Rafael Bastiansch] (https://github.com/rbastiansch)
 - Place: Umuarama, Parana, Brazil
 - Bio: Front-end developer
