@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Henrique Holanda](https://github.com/henriqueholanda)
+- Place: São Paulo, Brazil
+- Bio: Software Developer
+- Github: [henriqueholanda](https://github.com/henriqueholanda)
