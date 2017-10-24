@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Pranjal Singh] (https://github.com/pranjal44)
+- Place: Delhi, India
+- Bio: Beginner
+- GitHub: [pranjal44](https://github.com/pranjal44)
