@@ -1,5 +1,5 @@
 ﻿#### Name: [Dan Brod](https://github.com/didntknowwhattoname)
- - Place: Vancouver, BC
+ - Place: Vancouver, BC, Canada
  - Bio: University Student
  - GitHub: [didntknowwhattoname](https://github.com/didntknowwhattoname)
 
