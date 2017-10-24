@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Namish Pruthi](https://github.com/namish800)
+- Place: India
+- Bio: Developer
+- Github: [namish800](https://github.com/namish800)
