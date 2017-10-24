@@ -16627,3 +16627,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
+
+#### Name: [Cole Ellison](https://github.com/crellison)
+- Place: United States
+- Bio: I do things.
+- GitHub: [crellison](https://github.com/crellison)
