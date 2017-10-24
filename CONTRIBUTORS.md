@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Robert Wadley](https://github.com/Scarycrumb45)
+- Place: Missouri, United States
+- Bio: Student and Aspiring Developer
+- Github: [Scarycrumb45](https://github.com/Scarycrumb45)
