@@ -16533,6 +16533,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Max R.](https://github.com/maximus12793)
+- Place: Washington, WA, USA
+- Bio: React Dev
+- Github: [maximus12793](https://github.com/maximus12793)
+
 #### Name: [Marios Georgiou](https://github.com/MariosGeorgiou)
 - Place: Larnaca, Cyprus
 - Bio: A sassy grad software engineer
