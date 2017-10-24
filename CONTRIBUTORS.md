@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Trevor Boyce](https://github.com/tboyce021)
+- Place: United States
+- Bio: Software Engineer
+- Github: [tboyce021](https://github.com/tboyce021)
