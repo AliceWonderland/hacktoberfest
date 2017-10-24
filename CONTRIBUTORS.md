@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Shaun Stanislaus] (https://github.com/shaunstanislaus)
+- Place: Singapore, Taiwan, San Francisco
+- Bio: Full Stack Developer / rank top 10 in Github, checkout my contribution profile (;
+- GitHub: [shaunstanislaus](https://github.com/shaunstanislaus)
