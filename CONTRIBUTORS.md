@@ -1,3 +1,7 @@
+#### Name: [victor](https://github.com/AndDevMoran)
+  - Place: Florence, Italy
+  - Bio: Web Developer
+  - GitHub: [Victor](https://github.com/AndDevMoran)
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
