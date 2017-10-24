@@ -31,6 +31,11 @@
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
 
+#### Name: [AJ Haggard](https://github.com/ahaggard2013)
+ - Place: Melbourne, FL
+ - Bio: Software Engineer, Signal Army Officer
+ - GitHub: [ahaggard2013](https://github.com/ahaggard2013)
+
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
