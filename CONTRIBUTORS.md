@@ -1,3 +1,9 @@
+#### Name: [Giovanni Stabile](https://github.com/giovastabile)
+ - Place: Florence, Italy
+ - Bio: Scientific computing
+ - GitHub: [giovastabile](https://github.com/giovastabile)
+
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
