@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Mitchell Stack](https://github.com/mitchellrstack)
+- Place: Connecticut, USA
+- Bio: Student and Junior Full Stack Web Developer
+- GitHub: [mitchellrstack](https://github.com/mitchellrstack)
