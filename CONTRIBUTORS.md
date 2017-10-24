@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Benz samator] (https://github.com/benzsamator)
+- Place: Bangkok, Thailand
+- Bio: Developer
+- GitHub: [benzsamator](https://github.com/benzsamator)
