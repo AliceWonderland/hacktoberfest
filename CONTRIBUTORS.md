@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Rune Laenen](https://github.com/runelaenen)
+- Place: Belgium
+- Bio: independant web developer & IT student
+- GitHub: [runelaenen](https://github.com/runelaenen)
