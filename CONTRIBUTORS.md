@@ -16613,12 +16613,17 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
-#### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
+#### Name: [Marieluise Merz](https://github.com/marieluisemerz)
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz](https://github.com/marieluisemerz/)
 
-#### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
-- Place: Larisa, Greece
-- Bio: Software Engineer, Data Analyst
-- GitHub: [miltoskat](https://github.com/miltoskat)
+#### Name: [Miltos Katifedenios](https://github.com/miltoskat)      
+- Place: Larisa, Greece      
+- Bio: Software Engineer, Data Analyst      
+- GitHub: [miltoskat](https://github.com/miltoskat)    
+
+#### Name: [Sambhav Jain](https://github.com/sambhav2612)       
+- Place: Delhi, India      
+- Bio: Student (Computer Science Major)      
+- GitHub: [sambhav2612](https://github.com/sambhav2612)      
