@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Alec Whittington](https://github.com/alecwhittington)
+- Place: United States
+- Bio: Sr. Software Engineer - Front-end Lead
+- GitHub: [alecwhittington](https://github.com/alecwhittington)
