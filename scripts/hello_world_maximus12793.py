@@ -1,3 +1,6 @@
+# AUTHOR: Max R.
+# LANGUAGE: Python
+# GITHUB: https://github.com/maximus12793
 
 def main():
     table = ['d', 'e', 'h', 'l', 'o', 'r', 'w']
