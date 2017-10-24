@@ -16635,5 +16635,5 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Brian Christian](https://github.com/fdeitylink)
 - Place: United States
-- Bio: Student with strong interest in programming languages
+- Bio: Student and programming language enthusiast
 - GitHub: [fdeitylink](https://github.com/fdeitylink)
