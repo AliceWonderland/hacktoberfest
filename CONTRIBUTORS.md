@@ -1,3 +1,8 @@
+#### Name: [Ashwin Patil](https://github.com/theashwin)
+ - Place: Pune, India
+ - Bio: Computer Scientist
+ - GitHub: [theashwin](https://github.com/theashwin)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
