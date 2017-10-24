@@ -1,3 +1,8 @@
+#### Name: [Vivek Raj](https://github.com/codervivek)
+ - Place: Guwahati, Assam, India
+ - Bio: Web Developer
+ - GitHub: [Vivek Raj](https://github.com/codervivek)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
