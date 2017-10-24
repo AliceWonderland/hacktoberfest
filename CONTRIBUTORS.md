@@ -16622,3 +16622,9 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
+
+#### Name: [Lucas Kessler](https://github.com/Kess2311)
+- Place: Buffalo, NY
+- Bio: Computer Scientist/ Student
+- Github: [Kess2311](https://github.com/Kess2311)
+
