@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Maximilian M](https://github.com/dradey)
+- Place: Norway
+- Bio: Mobile App Developer
+- Github: [Dradey](https://github.com/dradey)
