@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz] (https://github.com/marieluisemerz/)
+
+#### Name: [Seth Bridges](https://github.com/matvmp7)
+- Place: Epping, New Hampshire, United States
+- Bio: Student in Cyber Security Programming
+- GitHub: [matvmp7](https://github.com/matvmp7)
