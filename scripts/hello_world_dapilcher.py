@@ -1,4 +1,5 @@
 # Language: Python
+# Author: Doug Pilcher
 # Github: http://github.com/dapilcher/
 
 def hello_world():
