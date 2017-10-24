@@ -1,3 +1,8 @@
+#### Name: [Nate Tranel](https://github.com/Brick7Face)
+ - Place: Bozeman, Montana, USA
+ - Bio: Computer Science junior at Montana State University who's really exited about the field.
+ - GitHub: [Brick7Face](https://github.com/Brick7Face)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
