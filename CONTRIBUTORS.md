@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Alexander Mendez](https://github.com/ajmendez)
+- Place: Santa Clara, CA, USA
+- Bio: Data Scientist
+- GitHub: [website](http://ajmendez.github.io)
