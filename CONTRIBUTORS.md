@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Gabriela Escoto](https://github.com/gabitha)
+- Place: Mexico
+- Bio: Web designer
+- Github: [gabitha](https://github.com/gabitha)
