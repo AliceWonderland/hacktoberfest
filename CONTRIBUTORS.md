@@ -1,3 +1,8 @@
+#### Name: [Tejash JL](https://github.com/tejashjl1020)
+ - Place: Bengaluru, INDIA
+ - Bio: Solution Consultant
+ - GitHub: [tejash](https://github.com/tejashjl1020)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
