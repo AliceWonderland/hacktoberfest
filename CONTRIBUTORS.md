@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Michelle Morry](https://github.com/Michelle12188)
+- Place: Sydney, NSW, Australia
+- Bio: Software Developer (Mobile & Web)
+- Github: [Michelle12188](https://github.com/Michelle12188)
