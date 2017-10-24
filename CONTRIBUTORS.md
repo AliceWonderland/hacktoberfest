@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Raymond](https://github.com/sdmmssa)
+- Place: Maryland, USA
+- Bio: Engineer
+- Github: [sdmmssa](https://github.com/sdmmssa)
