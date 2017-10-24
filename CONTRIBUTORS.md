@@ -16637,3 +16637,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Aleksander Marcin Chromik](https://github.com/achromik)
+- Place: Bluszczów, Silesian Voivodeship, Poland
+- Bio: IT Engineer (repair laptops & computers), learnig Web-Dev, runner (for 3 years, finished about 12 marathons), 
+- GitHub: [achromik](https://github.com/achromik)
