@@ -1,0 +1,5 @@
+(LANGUAGE fetlang https://github.com/Property404/fetlang)
+(AUTHOR Qu4k)
+(GITHUB https://github.com/Qu4k)
+
+make slave scream "Hello World!"
