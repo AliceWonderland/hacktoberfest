@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Hammad Mashkoor](https://github.com/hammadmashkoor)
+- Place: Kanpur, U.P, India
+- Bio: Educator, Learner, Developer & Geek
+- GitHub: [hammadmashkoor](https://github.com/hammadmashkoor)
