@@ -11,7 +11,7 @@
  #### Name: [Aneesh Jain]( https://github.com/Aneesh540 )
  - Place : Jamdoli,India
  - Bio : Computer Science @ LNMIIT,Jaipur, Pythonista, ML enthusiast
- - Github : LDrago ( https://github.com/Aneesh540)
+ - Github : [LDrago](https://github.com/Aneesh540)
  
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
