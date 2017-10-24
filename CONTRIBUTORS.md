@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [David Bambušek](https://github.com/bambusekd)
+- Place: Brno, Czechia
+- Bio: JS & Ruby on Rails Developer
+- Github: [bambusekd](https://github.com/bambusekd)
