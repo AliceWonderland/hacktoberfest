@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Noah](https://github.com/k-log)
+- Place: Washington, United States
+- Bio: Student
+- GitHub: [K-Log](https://github.com/k-log)
