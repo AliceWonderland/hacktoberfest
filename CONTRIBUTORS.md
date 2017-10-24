@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Nicolas Walter](https://github.com/NicolasWalter)
+ - Place: Buenos Aires, Argentina
+ - Bio: Computer Science @ UBA
+ - GitHub: [NicolasWalter](https://github.com/NicolasWalter)
