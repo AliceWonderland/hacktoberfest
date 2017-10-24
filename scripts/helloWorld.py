@@ -1,6 +1,6 @@
 // LANGUAGE: Python
 // ENV: Python3.5
-// AUTHOR: Matheus Leal de Aquino
-// GITHUB: https://github.com/MatheusLealAquino
+// AUTHOR: Jeremy Montejano
+// GITHUB: https://github.com/slopolot
 
 print("Hello World!")
