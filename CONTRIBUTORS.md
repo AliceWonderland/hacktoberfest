@@ -6126,11 +6126,6 @@ Noida
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
-#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
-- Place: Germany
-- Bio: Technology enthusiast (mostly IT)
-- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
-
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
@@ -10280,11 +10275,6 @@ Noida
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
-#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
-- Place: Germany
-- Bio: Technology enthusiast (mostly IT)
-- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
-
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
@@ -14356,11 +14346,6 @@ Noida
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
-#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
-- Place: Germany
-- Bio: Technology enthusiast (mostly IT)
-- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
-
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
@@ -16637,3 +16622,8 @@ to explore life. Also, Python and Django Developer
  - Place: Indiana, USA
  - Bio: Up and coming front end web developer. Husband, father, gamer, musician, nerd
  - GitHub: [dapilcher](https://github.com/dapilcher)
+
+#### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
+- Place: Larisa, Greece
+- Bio: Software Engineer, Data Analyst
+- GitHub: [miltoskat](https://github.com/miltoskat)
