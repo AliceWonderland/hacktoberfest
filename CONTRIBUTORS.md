@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Luis Cabrera] (https://github.com/loudigi)
+- Place: Cleveland, Ohio, USA
+- Bio: ServiceNow Admin, Application Systems Analyst, Front End, Gamer
+- GitHub: [loudigi](https://github.com/loudigi)
