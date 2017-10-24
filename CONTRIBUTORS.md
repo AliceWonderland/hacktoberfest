@@ -1,3 +1,8 @@
+#### Name: [John Torralba](https://github.com/DevJohn06)
+ - Place: Davao City, Philippines
+ - Bio: Freelance Graphic artist & Front-end developer
+ - GitHub: [DevJohn06](https://github.com/DevJohn06)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
