@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+ #### Name: [Pavel Balmasov](https://github.com/pbalmasov)
+ - Place: Yaroslavl, Russia
+ - Bio: Developer
+ - GitHub: [pbalmasov](https://github.com/pbalmasov)
