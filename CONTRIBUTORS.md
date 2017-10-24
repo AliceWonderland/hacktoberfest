@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Yaman Qalieh](https://github.com/yamanq)
+- Place: United States
+- Bio: Web Developer
+- Github: [yamanq](https://github.com/yamanq)
