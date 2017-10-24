@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Nicolas Luce](https://github.com/nicoluce)
+- Place: Argentina
+- Bio: CS Student
+- Github: [nicoluce](https://github.com/nicoluce)
