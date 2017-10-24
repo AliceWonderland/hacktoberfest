@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Shauna Leonard](https://github.com/Dranoels)
+- Place: Belfast, Northern Ireland
+- Bio: Computing and IT student
+- GitHub: [Dranoels](https://github.com/Dranoels)
