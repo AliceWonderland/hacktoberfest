@@ -16617,3 +16617,9 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Arthur van Acker](https://github.com/Arturio1970)
+- Place: São Félix da Marinha, Vila Nova de Gaia, Portugal
+- Bio: Lifetime learner, code enthusiast
+- GitHub: [Arturio1970](https://github.com/Arturio1970)
+
