@@ -16626,4 +16626,4 @@ to explore life. Also, Python and Django Developer
 #### Name: [José Carlos Pereyra] (https://github.com/jopereyral)
 - Place: Lima, Perú
 - Bio: Backend Developer, Data Scientist
-- GitHub: [miltoskat](https://github.com/jopereyral)
+- GitHub: [jopereyral](https://github.com/jopereyral)
