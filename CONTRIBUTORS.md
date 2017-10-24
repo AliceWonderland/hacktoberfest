@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Stefan Spasov] (https://github.com/stspasow)
+- Place: Sofia, Bulgaria
+- Bio: Web Developer
+- GitHub: [stspasow](https://github.com/stspasow)
