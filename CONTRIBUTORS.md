@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Jenny H] (https://github.com/jenjenjenio)
+- Place: San Antonio, TX, USA
+- Bio: Aspiring Developer
+- GitHub: [jenjenjenio](https://github.com/jenjenjenio)
