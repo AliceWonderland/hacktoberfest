@@ -893,6 +893,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Leonardo Wajnsztok](https://github.com/leotok)
+- Place: Rio de Janeiro, Brazil
+- Bio: Computer Engineering student at PUC-Rio
+- GitHub: [Leonardo Wajnsztok](https://github.com/leotok)
+
 #### Name: [Kevin Mora](https://github.com/kevinmora94)
 - Place: Alajuea, Alajuela, Costa Rica
 - Bio: Web dev and graphic designer
