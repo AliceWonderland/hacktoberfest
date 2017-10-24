@@ -1358,6 +1358,11 @@ to explore life. Also, Python and Django Developer
 - Github: [fercreek](https://github.com/fercreek)
 - Website: [Blog](https://fercontreras.com/)
 
+ #### Name: [Kevin Zhou](https://github.com/kwzhou)
+ - Place: Seattle, WA
+ - Bio: Software Developer
+ - GitHub: [kwzhou](https://github.com/kwzhou)
+
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
