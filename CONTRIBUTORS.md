@@ -893,6 +893,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Dawid Lipinski](https://github.com/lip3k)
+- Place: High Wycombe, UK
+- Bio: Self-taught Web developer
+- GitHub: [Dawid Lipinski](https://github.com/lip3k)
+
 #### Name: [BigWilie](https://github.com/BigWillie)
 - Place: United Kingdom
 - Bio: T-shirt collector
