@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Faisal Rahman] (https://github.com/fzlrhmn)
+- Place: Bandung, Indonesia
+- Bio: Coder
+- GitHub: [flzrhmn](https://github.com/fzlrhmn)
