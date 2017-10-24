@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
+
+#### Name: [Lucas Vertrees](https://github.com/lrv1668)
+- Place: Ithaca, NY, USA
+- Bio: Software Engineer
+- Github: [lrv1668](https://github.com/lrv1668)
