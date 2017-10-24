@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Melanie Sawyer] (https://github.com/soybean)
+- Place: New York, NY
+- Bio: CS student at Columbia
+- GitHub: [soybean](https://github.com/soybean)
