@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Italo Góis](https://github.com/italogois)
+- Place: Aracaju, Sergipe, Brazil
+- Bio: Front End Developer
+- GitHub: [italogois](https://github.com/italogois)
