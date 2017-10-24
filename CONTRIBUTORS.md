@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Kenneth Jao] (https://github.com/ksjdragon)
+- Place: Michigan, United States
+- Bio: Your friendly neighborhood dragon developer
+- GitHub: [ksjdragon] (https://github.com/ksjdragon)
