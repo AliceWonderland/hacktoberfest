@@ -1,3 +1,8 @@
+#### Name: [Costa Soutos](https://github.com/csoutos)
+- Place: Guelph, ON, Canada
+- Bio: Computer Science at University of Guelph
+- GitHub: [csoutos](https://github.com/csoutos)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
