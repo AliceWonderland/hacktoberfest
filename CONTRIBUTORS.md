@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16632,3 +16632,9 @@ to explore life. Also, Python and Django Developer
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz] (https://github.com/marieluisemerz/)
+
+#### Name: [James Mendenhall](https://github.com/JPMendenhall)
+- Place: Denver, Colorado
+- Bio: Student at Galvanize
+- GitHub: [JPMendenhall](https://github.com/JPMendenhall)
+- Website: [James Mendenhall](https://JPMendenhall.com)
