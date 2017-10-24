@@ -16618,11 +16618,6 @@ to explore life. Also, Python and Django Developer
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
 
-#### Name: [Enrique Arce](https://github.com/enriquearce)
-- Place: México
-- Bio: Developer
-- Github: [enriquearce](https://github.com/enriquearce)
-
 #### Name: [Von Bulquerin](https://github.com/chixmixvon)
 - Place: Philippines
 - Bio: Developer
