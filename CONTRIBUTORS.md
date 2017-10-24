@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Mark S.](https://github.com/sionet32)
+- Place: Canada
+- Bio: New, Learning this
+- Github: [sionet32](https://github.com/sionet32)
