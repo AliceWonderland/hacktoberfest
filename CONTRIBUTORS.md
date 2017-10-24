@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Joris Mansart](https://github.com/MisterJack49)
+- Place: Angers, France
+- Bio: Developer
+- Github: [MisterJack49](https://github.com/MisterJack49)
