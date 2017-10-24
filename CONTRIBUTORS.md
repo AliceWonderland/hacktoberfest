@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Abdul Mohsin Siddiqi](https://github.com/mohsincl)
+- Place: Delhi, India
+- Bio: Machine Learning enthusiast, Avid Reader
+- GitHub: [Abdul Mohsin Siddiqi](https://github.com/mohsincl)
