@@ -1,3 +1,8 @@
+#### Name: [Norris Oduro Tei](https://github.com/Teikogangster)
+ - Place: Tema, Ghana
+ - Bio: Information Technology @ Ghana Technology University College
+ - GitHub: [Teikogangster](https://github.com/Teikogangster)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
