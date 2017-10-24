@@ -16642,3 +16642,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Izon Thomaz Mielke](https://github.com/izontm)
+- Place: Vitória, Espírito Santo, Brasil
+- Bio: Software Engineer
+- GitHub: [izontm](https://github.com/izontm)
