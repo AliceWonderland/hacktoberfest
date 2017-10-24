@@ -16627,3 +16627,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
+
+#### Name: [smikis](https://github.com/smikis)
+- Place: Lithuania
+- Bio: Junior .NET Developer
+- GitHub: [smikis](https://github.com/smikis)
