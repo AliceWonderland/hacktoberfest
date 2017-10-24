@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Sameeth Krishna](https://github.com/krishnasameeth)
+- Place: India
+- Bio: A curious and sleepy individual who is learning to code to build amazing websites!
+- Github: [krishnasameeth](https://github.com/krishnasameeth)
