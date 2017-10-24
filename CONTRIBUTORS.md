@@ -198,7 +198,10 @@
 - GitHub: [Rafael Sá](https://github.com/RafaelSa94)
 
 #### Name: [Patrick S](https://github.com/patsteph)
-- Place: USA
+- Place: USA#### Name: [Grace Bell](https://github.com/lulabell)
+ - Place: North Carolina, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [lulabell](https://github.com/lulabell)
 - Bio: Professional Geek
 - GitHub: [Patrick S](https://github.com/patsteph)
 
@@ -16617,3 +16620,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Arun Mathew](https://github.com/arunvm123)
+ - Place: Kerala, India
+ - Bio: Blockchain Enthusiast
+ - GitHub: [arunvm123](https://github.com/arunvm123)
