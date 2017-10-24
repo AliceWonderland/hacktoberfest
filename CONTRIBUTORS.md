@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Chen Hui Jing](https://www.chenhuijing.com)
+- Place: Malaysia
+- Bio: Front-end designer and developer
+- Github: [huijing](https://github.com/huijing)
