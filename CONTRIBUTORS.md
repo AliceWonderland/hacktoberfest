@@ -16637,3 +16637,9 @@ to explore life. Also, Python and Django Developer
 - Place: Santo Domingo, Dominican Republic
 - Bio: Android Developer, Electronics Engineer
 - GitHub: [paulnunezm](https://github.com/paulnunezm/)
+
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
