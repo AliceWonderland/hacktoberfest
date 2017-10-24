@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Kumari Akanksha] (https://github.com/akanksha40)
+- Place: Bhopal, India
+- Bio: E.C Student
+- GitHub: [akanksha40](https://github.com/akanksha40)
