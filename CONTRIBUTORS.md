@@ -16438,6 +16438,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
 
+#### Name: [Jackson Isaac](https://github.com/JacksonIsaac)
+- Place: Mumbai, Maharashtra, India
+- Bio: Data Scientist by profession and student by heart.
+- GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
+
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
