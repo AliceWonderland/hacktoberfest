@@ -16616,7 +16616,12 @@ to explore life. Also, Python and Django Developer
 #### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
-- GitHub: [marieluisemerz](https://github.com/marieluisemerz/)
+- GitHub: [marieluisemerz] (https://github.com/marieluisemerz/)
+
+#### Name: [Doug Pilcher](https://github.com/dapilcher)
+ - Place: Indiana, USA
+ - Bio: Up and coming front end web developer. Husband, father, gamer, musician, nerd
+ - GitHub: [dapilcher](https://github.com/dapilcher)
 
 #### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
 - Place: Larisa, Greece
