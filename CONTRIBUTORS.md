@@ -1,6 +1,22 @@
+#### Name: [Grace Bell](https://github.com/lulabell)
+ - Place: North Carolina, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [lulabell](https://github.com/lulabell)
+
+#### Name: [Tejas S](https://github.com/tejassateesh)
+ - Place: Bengaluru, India
+ - Bio: Computer Science @ RNSIT
+ - GitHub: [byteme](https://github.com/tejassateesh)
+ 
+ #### Name: [Leon Todd](https://github.com/leontodd)
+ - Place: Leicester, UK
+ - Bio: Computer Science @ University of Leicester
+ - GitHub: [Leon Todd](https://github.com/leontodd)
+
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
@@ -876,6 +892,11 @@
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Akash Goel] (https://github.com/akashgoel1197)
+- Place: India
+- Bio: Gamer
+- Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
 #### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
 - Place: Emmen, the Netherlands
@@ -16577,12 +16598,28 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
 
+#### Name: [Rafael Bezerra](https://github.com/rafaelbezerra195)
+- Place: Fortaleza, Brazil
+- Bio: Software Developer
+- GitHub: [rafaelbezerra195](https://github.com/rafaelbezerra195)
+
 #### Name: [Raghu](https://github.com/FarmboyRaghu)
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
 
+
 #### Name: [Kieran Mason-Somers](https://github.com/KMSOMERS)
 - Place: Nottingham, Nottinghamshire, United Kingdom
 - Bio: Junior Android developer, gamer, and music
 - GitHub: [GitHub account name](https://github.com/KMSOMERS)
+
+#### Name: [Matthew Dray](https://github.com/17robots)
+- Place: United States
+- Bio: Web Developer and Programmer
+- Github: [17robots](https://github.com/17robots)
+
+#### Name: [Enrique Arce](https://github.com/enriquearce)
+- Place: México
+- Bio: Developer
+- Github: [enriquearce](https://github.com/enriquearce)
