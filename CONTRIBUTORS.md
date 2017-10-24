@@ -1,3 +1,8 @@
+#### Name: [Harpreet Singh](https://github.com/dare-rider)
+ - Place: New Delhi, India
+ - Bio: Full Stack Dev - Rails, Node, Java
+ - GitHub: [dare-rider](https://github.com/dare-rider)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
@@ -12343,6 +12348,7 @@ Noida
  - Github: [jusdeleon](https://github.com/jusdeleon)
 
 #### Name: [Civitas](https://github.com/civitas07)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
