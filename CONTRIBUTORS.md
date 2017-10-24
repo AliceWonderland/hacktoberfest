@@ -8158,6 +8158,11 @@ to explore life. Also, Python and Django Developer
 - Bio: JAVA
 - GitHub: [sla](https://github.com/sla)
 
+#### Name: [Tushar](https://github.com/tushargg)
+- Place: India
+- Bio: PYTHON
+- GitHub: [Tushar](https://github.com/tushargg)
+
 #### Name: [Nikki](https://github.com/smilesandcode)
 - Place: Florida, USA
 - Bio: Web Developer
