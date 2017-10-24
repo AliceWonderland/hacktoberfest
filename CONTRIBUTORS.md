@@ -36,6 +36,11 @@
   - Bio: Engineering Student @ IET DAVV Indore
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
 
+#### Name: [A V Narayanan](https://github.com/Narayanan1996)
+  - Place: Ernakulam, India
+  - Bio: Engineering Student @ Model Engineering College Thrikkakkara
+  - Github: [Narayanan1996](https://github.com/Narayanan1996)
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
