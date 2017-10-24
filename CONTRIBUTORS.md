@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
+
+#### Name: [Gina LaFontaine](https://github.com/kjqfflyingcoder)
+- Place: Akron, OH
+- Bio: Java Apprentice at The Software Guild in Akron, OH
+- Github: [kjqfflyingcoder](https://github.com/kjqfflyingcoder)
