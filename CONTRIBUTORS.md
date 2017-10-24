@@ -7116,6 +7116,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I'm a student in Fatec Jundiaí and Web Developer.
 - GitHub: [Luís Antonio Prado Lança](https://github.com/luisslanca)
 
+#### Name: [Nikita Pavlov](https://github.com/Nik-Pavlov)
+- Place: Kazan, Russia
+- Bio: I'm a C++ Software Developer.
+- GitHub: [Nikita Pavlov](https://github.com/Nik-Pavlov)
+
 #### Name: [Anish Bhardwaj](https://github.com/bhardwajanish)
 - Place: New Delhi, India
 - Bio: CSD IIITD
