@@ -6,7 +6,7 @@ Munich, Germany
 
 ### Academics
 
-Universtit‰t Augsburg, Master in Finance and Information Management, focus on Business & Information System Engineering
+Universtit√§t Augsburg, Master in Finance and Information Management, focus on Business & Information System Engineering
 
 ### Interests
 
@@ -25,4 +25,4 @@ Universtit‰t Augsburg, Master in Finance and Information Management, focus on Bu
 
 ### Profile Link
 
-[marieluisemerz](https://github.com/marieluisemerz)
+  [marieluisemerz](https://github.com/marieluisemerz)
