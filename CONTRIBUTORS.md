@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [nicogramm](https://github.com/nicogramm)
+- Place: Flensburg, Germany
+- Bio: Student who likes technology and music
+- GitHub: [nicogramm](https://github.com/nicogramm)
