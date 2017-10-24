@@ -16627,3 +16627,8 @@ to explore life. Also, Python and Django Developer
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Front End Developer
 - GitHub: [italogois](https://github.com/italogois)
+
+#### Name: [Pranjal Singh] (https://github.com/pranjal44)
+- Place: Delhi, India
+- Bio: Beginner
+- GitHub: [pranjal44](https://github.com/pranjal44)
