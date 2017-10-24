@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Hans Christian](https://github.com/hcbille)
+- Place: Stockholm, sweden
+- Bio: Want to learn programming, CS50
+- Github: [hcbille](https://github.com/hcbille)
