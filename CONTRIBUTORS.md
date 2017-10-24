@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
+
+#### Name: [Nguyen Duy Tiep](https://github.com/green-leaves)
+- Place: Singapore
+- Bio: Hacktoberfest shirt collector
+- GitHub: [green-leaves](https://github.com/green-leaves)
