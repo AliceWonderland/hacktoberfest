@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [L.Devin MacKrell](https://github.com/MacKLess)
+- Place: Seattle, WA, USA 
+- Bio: Student
+- GitHub: [MacKLess](https://github.com/MacKLess)
