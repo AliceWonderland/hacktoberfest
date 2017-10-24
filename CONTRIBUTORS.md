@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Simon Verhoeven](https://github.com/SimonVerhoeven)
+ - Place: Belgium
+ - Bio: Developer
+ - GitHub: [SimonVerhoeven](https://github.com/SimonVerhoeven)
