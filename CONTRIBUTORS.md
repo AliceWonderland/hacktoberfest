@@ -16628,7 +16628,16 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
-#### Name: [YOUR NAME](GitHub link)
+#### Name: [Olof Jondelius](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Architect
+- Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Rafael Bastiansch](https://github.com/rbastiansch)
 - Place: Umuarama, Parana, Brazil
 - Bio: Front-end Developer
 - GitHub: [rbastiansch](https://github.com/rbastiansch)
