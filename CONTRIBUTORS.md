@@ -16623,7 +16623,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
 
-#### Name: [Umang Parmar](https://github.com/darkLord19)
+#### Name: [Sromana Mukhopadhyay](https://github.com/smukh)
 - Place: India
-- Bio: Android Developer, Operating Systems Enthusiast
-- GitHub: [darkLord19](https://github.com/darkLord19)
+- Bio: Engineer, Doer, Developer, Music Lover
+- Github: [smukh](https://github.com/smukh)
