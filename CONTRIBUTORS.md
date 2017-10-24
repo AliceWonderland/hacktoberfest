@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Mikail Seremet] (https://github.com/mikailseremet)
+- Place: Istanbul, Turkey
+- Bio: Frontend Engineer
+- GitHub: [mikailseremet](https://github.com/mikailseremet)
