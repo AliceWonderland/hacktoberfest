@@ -9279,6 +9279,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CSD IIITD
 - GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
 
+#### Name: [Noah Berthusen](https://github.com/noahberthusen)
+- Place: Iowa, USA
+- Bio: Student at ISU
+- GitHub: [Noah Berthusen](https://github.com/noahberthusen)
+
 #### Name: [Ankur Sharma](https://github.com/ankurs287)
 - Place: New Delhi, India
 - Bio: CSAM, IIITD
