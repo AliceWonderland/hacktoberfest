@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Von Bulquerin](https://github.com/chixmixvon)
+- Place: Philippines
+- Bio: Developer
+- Github: [chixmixvon](https://github.com/chixmixvon)
