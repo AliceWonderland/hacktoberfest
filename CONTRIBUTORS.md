@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
+
+#### Name: [Clément Richard](https://github.com/DrJoeBell)
+- Place: Luxembourg
+- Bio: Security Analyst, programming enthousiast
+- Github: [DrJoeBell](https://github.com/DrJoeBell)
