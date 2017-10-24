@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz] (https://github.com/marieluisemerz/)
+
+#### Name: [Cassiano Amarinho](https://github.com/cassianoamarinho)
+- Place: São Paulo, Brazil
+- Bio: Backend developer
+- GitHub: [cassianoamarinho](https://github.com/cassianoamarinho)
