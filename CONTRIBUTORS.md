@@ -16627,3 +16627,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
+
+#### Name: [Rohan Sharma](https://github.com/rs-rohan)
+- Place: India
+- Bio: College student, Willing to learn everything
+- GitHub: [rs-rohan](https://github.com/rs-rohan)
