@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Earvin Gemenez](https://github.com/earvingemenez)
+- Place: Davao City, Philippines
+- Bio: Part time human, full time developer
+- GitHub: [Earvin Gemenez] (https://github.com/earvingemenez)
