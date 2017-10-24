@@ -1,3 +1,8 @@
+### Name: [Milan Donhowe](https://github.com/Sp0ng3)
+ - Place: Oregon, USA
+ - Bio: Computer Science Student
+ - GitHub: [Sp0ng3](https://github.com/Sp0ng3)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
