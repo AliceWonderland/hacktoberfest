@@ -16627,3 +16627,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
+
+#### Name: [Bhavesh Kalra](https://github.com/bhaveshkalra)
+-Place: Jaipur,India
+-Bio: Front-end Web Developer,learning Angular 2 and backend development with PHP and MySql
+-Github:  [Bhavesh Kalra](https://github.com/bhaveshkalra)
