@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Brian Christian](https://github.com/fdeitylink)
+- Place: United States
+- Bio: Student with strong interest in programming languages
+- GitHub: [fdeitylink](https://github.com/fdeitylink)
