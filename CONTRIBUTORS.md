@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Sharath Aradhyamath](https://github.com/sharath94z)
+- Place: Bangalore, Karnataka, India
+- Bio: Devops engineer
+- GitHub: [sharath94z](https://github.com/sharath94z)
