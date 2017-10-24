@@ -1,3 +1,8 @@
+#### Name: [Luís Novaes](https://github.com/lfmnovaes)
+ - Place: Rio de Janeiro, Brazil
+ - Bio: Backend/Frontend Web Developer
+ - GitHub: [lfmnovaes](https://github.com/lfmnovaes)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
