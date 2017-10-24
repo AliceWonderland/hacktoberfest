@@ -1,3 +1,8 @@
+#### Name: [Ruyi Li](https://github.com/ruyili)
+ - Place: Ontario, Canada
+ - Bio: Game developer, high school student
+ - GitHub: [ruyili](https://github.com/ruyili)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
