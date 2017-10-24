@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+### Name: [Neha Jha](https://github.com/nj4710)
+ - Place: New Delhi, India
+ - Bio: Coder
+ - Github: [nj4710](https://github.com//nj4710)
+ 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
