@@ -1,3 +1,8 @@
+#### Name: [Chris Luiz](https://github.com/CLuiz)
+ - Place: Cleveland, OH, USA
+ - Bio: Data Science & Machine Learning
+ - GitHub: [CLuiz](https://github.com/CLuiz)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
