@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
+
+#### Name: [Siddhant Srivastav](https://github.com/WickedBrat)
+- Place: India
+- Bio: Developer
+- Github: [WickedBrat](https://github.com/WickedBrat)
