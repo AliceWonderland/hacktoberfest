@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Nadin Tamer](https://github.com/nadintamer)
+- Place: Turkey
+- Bio: High school student interested in computer science
+- GitHub: [nadintamer](https://github.com/nadintamer)
