@@ -16617,3 +16617,9 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Oscar Canales](https://github.com/JayChannels)
+ - Place: Laredo, Texas, United States
+ - Bio: Student, Musician
+ - GitHub: [JayChannels](https://github.com/JayChannels)
+ 
