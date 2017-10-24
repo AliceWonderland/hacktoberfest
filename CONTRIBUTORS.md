@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Rute Carrapato] (https://github.com/RuteCarrapato)
+- Place: Lisbon, Portugal
+- Bio: Junior Software Developer
+- GitHub: [RuteCarrapato](https://github.com/RuteCarrapato)
