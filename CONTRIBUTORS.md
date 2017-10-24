@@ -893,6 +893,11 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [BigWilie](https://github.com/BigWillie)
+- Place: United Kingdom
+- Bio: T-shirt collector
+- GitHub: [BigWilie](https://github.com/BigWillie)
+
 #### Name: [Leonardo Wajnsztok](https://github.com/leotok)
 - Place: Rio de Janeiro, Brazil
 - Bio: Computer Engineering student at PUC-Rio
