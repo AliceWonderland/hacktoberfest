@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Gong Cornelio](https://github.com/enriquearce)
+- Place: Philippines
+- Bio: Developer
+- Github: [swiftkindgong](https://github.com/swiftkindgong)
