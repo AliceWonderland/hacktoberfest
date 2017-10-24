@@ -1,4 +1,4 @@
-#### Name: [Grace Bell](https://github.com/IsmProScripter)
+#### Name: [Ismail Salamani](https://github.com/IsmProScripter)
  - Place: Miliana, Aid Defla, Algeria
  - Bio: Web Developer
  - GitHub: [Ismail](https://github.com/IsmProScripter)
