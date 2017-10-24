@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Daniel Biedma](https://github.com/danibram)
+- Place: Taiwan
+- Bio: Full Stack Developer 
+- Github: [danibram](https://github.com/danibram)
