@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Lucas Reynolds] (https://github.com/lreynolds18 )
+- Place: Ann Arbor, Michigan, United States
+- Bio: Developer 
+- GitHub: [lreynolds18](https://github.com/lreynolds18)
