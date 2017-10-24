@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Sebastien Florent](https://github.com/sebflorent)
+ - Place: Fréjus, France
+ - Bio: Senior Front end dev
+ - GitHub: [lulabell](https://github.com/sebflorent)
