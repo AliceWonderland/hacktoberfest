@@ -8,6 +8,11 @@
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
  
+ #### Name: [Aneesh Jain]( https://github.com/Aneesh540 )
+ - Place : Jamdoli,India
+ - Bio : Computer Science @ LNMIIT,Jaipur, Pythonista, ML enthusiast
+ - Github : LDrago ( https://github.com/Aneesh540)
+ 
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
