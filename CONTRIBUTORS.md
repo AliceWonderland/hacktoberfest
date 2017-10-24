@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Sonam Penjore](https://github.com/Sosodope)
+- Place: Thimphu, Thimphu, Bhutan
+- Bio: PM
+- GitHub: [Sosodope](https://github.com/Sosodope)
