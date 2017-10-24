@@ -1,3 +1,8 @@
+#### Name: [Julie Rodriguez](https://github.com/jrod36)
+ - Place: Virginia, USA
+ - Bio: Learning Full Stack Web Development
+ - GitHub: [jrod36](https://github.com/jrod36)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
