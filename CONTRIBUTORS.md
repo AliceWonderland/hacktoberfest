@@ -1,3 +1,8 @@
+#### Name: [VignesH KumaR](https://github.com/happyvig)
+- Place: Chennai, India
+- Bio: ♥ FrontEnd Developer ♥
+- GitHub: [happyvig](https://github.com/happyvig)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
