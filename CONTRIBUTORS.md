@@ -1,3 +1,8 @@
+#### Name: [Phan Huy Hoàng](https://github.com/snailfalca)
+ - Place: Hanoi, Vietnam
+ - Bio: Learning Core Java
+ - GitHub: [snailfalca](https://github.com/snailfalca)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
