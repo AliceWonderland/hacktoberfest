@@ -16632,3 +16632,8 @@ to explore life. Also, Python and Django Developer
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz] (https://github.com/marieluisemerz/)
+
+#### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
+- Place: Larisa, Greece
+- Bio: Software Engineer, Data Analyst
+- GitHub: [miltoskat] (https://github.com/miltoskat)
