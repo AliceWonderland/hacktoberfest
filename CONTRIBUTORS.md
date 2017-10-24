@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Leonardo Bressan](https://github.com/IamLeoBressan)
+- Place: Brazil
+- Bio: DotNet Developer
+- Github: [IamLeoBressan](https://github.com/IamLeoBressan)
