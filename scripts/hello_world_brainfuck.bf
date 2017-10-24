@@ -1,6 +1,8 @@
-  [Language :]  [ Brainfuck ]
-  [Author   :]  [ Rohan Sharma ]
-  [GitHub   :]  [ https://github.com/rs-rohan ]
+  [ Language :]   [ Brainfuck ]
+  [ Author   :]   [ Rohan Sharma ]
+  [ GitHub   :]   [ https://github.com/rs-rohan ]
+
+
 
 
 ++++++++++[>+++++++<-]>++.>++++++++++[>++++++++++<-]
