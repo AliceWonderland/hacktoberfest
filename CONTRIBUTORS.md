@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Lakshita Bhatia](https://github.com/lakshita-bhatia)
+ - Place: New Delhi, India
+ - Bio: Software developer, studying B.Tech CSE
+ - GitHub: [Lakshita Bhatia](https://github.com/lakshita-bhatia)
