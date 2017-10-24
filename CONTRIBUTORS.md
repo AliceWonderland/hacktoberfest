@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -90,6 +90,11 @@
 - Bio: Computer Engineering student
 - GitHub: [DarshNaik](https://github.com/DarshNaik)
 
+#### Name: [Cody Duskin](https://github.com/bestcodyever)
+ - Place: Denver, Colorado, USA
+ - Bio: Full Stack Web Developer
+ - GitHub: [bestcodyever](https://github.com/bestcodyever)
+ 
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
