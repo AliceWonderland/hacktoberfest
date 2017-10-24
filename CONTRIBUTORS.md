@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [ABDUL MOHSIN SIDDIQI](https://github.com/mohsincl)
+- Place: Delhi, India
+- Bio: ML enthusiast; Loves to find and explore new Stuffs :)
+- Github: [Abdul Mohsin Siddiqi] (https://github.com/mohsincl)
