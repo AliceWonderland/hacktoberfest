@@ -828,6 +828,11 @@
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [Rugantio Costa](https://github.com/rugantio)
+- Place: Turin, Italy
+- Bio: Physics of Complex Systems
+- GitHub: [rugantio](https://github.com/rugantio/)
+
 #### Name: [Lakston](https://github.com/Lakston)
 - Place: Toulouse, France
 - Bio: Front-End Dev
