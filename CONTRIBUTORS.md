@@ -3500,6 +3500,11 @@ Noida
 - Bio: I code for fun!
 - GitHub: [TiagoSeverino](https://github.com/TiagoSeverino)
 
+#### Name: [Glen Johnson](https://github.com/gj-codes)
+- Place: Virginia, United States
+- Bio: Recent grad, living the IT life
+- GitHub: [Glen Johnson](https://github.com/gj-codes)
+
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
 - Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
