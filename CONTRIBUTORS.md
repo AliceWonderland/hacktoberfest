@@ -178,6 +178,11 @@
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [Vidushi Jain](https://github.com/VidushiJain30)
+- Place: Noida, Uttar Pradesh, India
+- Bio: I am a programmer
+- GitHub: [Vidushi Jain](https://github.com/VidushiJain30)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
