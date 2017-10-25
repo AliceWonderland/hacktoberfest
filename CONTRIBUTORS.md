@@ -14371,6 +14371,8 @@ Noida
 - Bio: Design, Develop, Produce!
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
+#### Name : Sauskep
+
 #### Name: [Mintoo Kumar](https://github.com/mintoo511)
 - Place: New Delhi, India
 - Bio: Software Engineer
