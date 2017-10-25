@@ -16524,9 +16524,9 @@ to explore life. Also, Python and Django Developer
 - GitHub: [robotnamedEmily](https://github.com/robotnamedEmily)
 
 #### Name: [Shehzad Shaikh](https://github.com/cyberrspiritt)
-  - Place: Pune, Maharashtra
-  - Bio: Cloud Lead @ IgluLabs
-  - Website: www.shehzadshaikh.com
+- Place: Pune, Maharashtra
+- Bio: Cloud Lead @ IgluLabs
+- Website: www.shehzadshaikh.com
 
 #### Name: [Josh](https://github.com/masta-bhawk)
 - Place: Houston, TX USA
@@ -16542,6 +16542,11 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+
+#### Name: [Kevin Koester](https://github.com/koester)
+ - Place: Cologne, Germany
+ - Bio: Beer
+ - GitHub: [koester](https://github.com/koester)
 
 #### Name: [Eric](https://github.com/valleyceo)
 - Place: California, USA
