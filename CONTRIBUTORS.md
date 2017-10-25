@@ -25,6 +25,10 @@
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
+  
+  #### Name: [Kunwar Shekhar Singh](https://github.com/kunwar09)
+  - Place: Bangalore, India
+  - Bio: Androi Developer
 
 #### Name: [Omid Nikrah](https://github.com/omidnikrah)
  - Place: Tehran, Tehran, Iran
