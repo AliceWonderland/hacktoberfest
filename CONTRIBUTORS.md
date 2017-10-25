@@ -22,6 +22,11 @@
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+#### Name: [Shambhavi Jagtap](https://github.com/ShambhaviJagtap)
+ - Place: Pune, Maharashtra, India
+ - Bio: Studying Computer Engineering at PICT
+ - GitHub: [ShambhaviJagtap](https://github.com/ShambhaviJagtap)
+
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
