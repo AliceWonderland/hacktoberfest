@@ -16623,6 +16623,12 @@ to explore life. Also, Python and Django Developer
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
 
+
+#### Name: [Kieran Mason-Somers](https://github.com/KMSOMERS)
+- Place: Nottingham, Nottinghamshire, United Kingdom
+- Bio: Junior Android developer, gamer, and music
+- GitHub: [GitHub account name](https://github.com/KMSOMERS)
+
 #### Name: [Matthew Dray](https://github.com/17robots)
 - Place: United States
 - Bio: Web Developer and Programmer
