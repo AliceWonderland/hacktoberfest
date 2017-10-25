@@ -874,6 +874,26 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Dawid Lipinski](https://github.com/lip3k)
+- Place: High Wycombe, UK
+- Bio: Self-taught Web developer
+- GitHub: [Dawid Lipinski](https://github.com/lip3k)
+
+#### Name: [BigWilie](https://github.com/BigWillie)
+- Place: United Kingdom
+- Bio: T-shirt collector
+- GitHub: [BigWilie](https://github.com/BigWillie)
+
+#### Name: [Leonardo Wajnsztok](https://github.com/leotok)
+- Place: Rio de Janeiro, Brazil
+- Bio: Computer Engineering student at PUC-Rio
+- GitHub: [Leonardo Wajnsztok](https://github.com/leotok)
+
+#### Name: [Kevin Mora](https://github.com/kevinmora94)
+- Place: Alajuea, Alajuela, Costa Rica
+- Bio: Web dev and graphic designer
+- GitHub: [kevinmora94](https://github.com/kevinmora94)
+
 #### Name: [Akash Goel] (https://github.com/akashgoel1197)
 - Place: India
 - Bio: Gamer
@@ -2223,6 +2243,11 @@ Noida
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
 
+#### Name: [Jackson Isaac](https://github.com/JacksonIsaac)
+- Place: Mumbai, Maharashtra, India
+- Bio: Data Scientist by profession and student by heart.
+- GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
+
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
@@ -2338,6 +2363,11 @@ Noida
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Max R.](https://github.com/maximus12793)
+- Place: Washington, WA, USA
+- Bio: React Dev
+- Github: [maximus12793](https://github.com/maximus12793)
+
 #### Name: [Marios Georgiou](https://github.com/MariosGeorgiou)
 - Place: Larnaca, Cyprus
 - Bio: A sassy grad software engineer
@@ -2437,6 +2467,11 @@ Noida
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
 
 #### Name: [Rafael Bastiansch] (https://github.com/rbastiansch)
 - Place: Umuarama, Parana, Brazil
