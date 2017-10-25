@@ -302,6 +302,13 @@
 - Bio: PHP Programmer
 - GitHub: [akutaktau](https://github.com/akutaktau)
 
+#### Name: [Julia Lamenza](https://github.com/julialamenza)
+ - Place: Rio de Janeiro, RJ, Brazil
+ - Bio: DevOps
+ - GitHub: [julialamenza](https://github.com/julialamenza)
+
+
+
 #### Name: [Rupesh Kumar](https://github.com/vmcniket)
 - Place: India
 - Bio: KIIT University IT student
