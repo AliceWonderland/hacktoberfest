@@ -699,6 +699,11 @@
 - Bio: Senior Software Engineer, child at heart
 - GitHub: [Luke Taylor](https://github.com/lmcjt37)
 
+#### Name: [Henry Wildermuth](https://github.com/hmwildermuth)
+- Place: NYC, NY
+- Bio: Student
+- GitHub: [Henry Wildermuth](https://github.com/hmwildermuth)
+
 #### Name: [Snehil Verma](https://github.com/vsnehil92)
 - Place: Delhi, India
 - Bio: Love to learn new technologies
