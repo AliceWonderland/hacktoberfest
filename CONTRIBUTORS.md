@@ -490,6 +490,10 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+#### Name: [Pannatorn Supharatnodom](https://github.com/leaderdevil)
+ - Place: Bangkok, Thailand
+ - GitHub: [Leaderdevil](https://github.com/leaderdevil)
+
 #### Name: [Vishaal Udandarao](https://github.com/vishaal27)
 - Place: New Delhi, India
 - Bio: Professional Geek | Developer
