@@ -3,6 +3,12 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Anupam Kumar Singh](https://github.com/anupam691997)
+ - Place: Ghaziabad, India
+ - Bio: Learning Data Science
+ - GitHub: [anupam691997](https://github.com/anupam691997)
+
+
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
