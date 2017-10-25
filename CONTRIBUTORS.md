@@ -1,3 +1,8 @@
+#### Name: [Michael DeVore](https://github.com/mdevore)
+-Place: Maine, USA
+-Bio: Learning my way around GITHUB
+-GitHub: [mdevore](https://github.com/mdevore)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
