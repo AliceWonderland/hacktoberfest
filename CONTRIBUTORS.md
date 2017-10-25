@@ -2388,6 +2388,7 @@ Noida
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
+<<<<<<< HEAD
 #### Name: [Zoe Kafkes](https://github.com/zkafkes)
 - Place: Atlanta, Georgia USA
 - Bio: caffeinated and curious
@@ -2427,3 +2428,13 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Elijah Rwothoromo](https://github.com/rwothoromo)
+- Place: Mbarara, Uganda
+- Bio: Software Developer
+- GitHub: [Rwothoromo](https://github.com/rwothoromo)
