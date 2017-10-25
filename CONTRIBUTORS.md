@@ -1332,6 +1332,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [Luis Alducin](https://github.com/luisalduucin)
 
+#### Name: [Joan Papajani](https://joan.crustadurus.com)
+- Place: Tirana, Albania
+- Bio: On the quest for the cleanest code.
+- GitHub: [Joan Papajani](https://github.com/dubkrapht)
+
 #### Name: [Hannah Zulueta](https://github.com/hanapotski)
 - Place: North Hollywood, CA
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
