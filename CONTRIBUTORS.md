@@ -12357,6 +12357,11 @@ Noida
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
+ 
+ #### Name: [Brett Davis](https://github.com/saintbernie)
+ - Place: Berlin, Germany
+ - Bio: CS Student at Georgia Tech / TU Berlin
+ - GitHub: [saintbernie](https://github.com/saintbernie)
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
