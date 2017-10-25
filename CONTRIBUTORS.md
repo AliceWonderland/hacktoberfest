@@ -1,3 +1,8 @@
+#### Name: [Ruhan Li](https://github.com/ruhanli)
+ - Place: Canada
+ - Bio: Mathematical Studies with Business Specialization @ Waterloo
+ - GitHub: [ruhanli](https://github.com/ruhanli)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
@@ -16437,11 +16442,6 @@ to explore life. Also, Python and Django Developer
 - Place: Australia
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
-
-#### Name: [Jackson Isaac](https://github.com/JacksonIsaac)
-- Place: Mumbai, Maharashtra, India
-- Bio: Data Scientist by profession and student by heart.
-- GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
 
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
