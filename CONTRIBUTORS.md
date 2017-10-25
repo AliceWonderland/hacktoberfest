@@ -207,6 +207,11 @@
 - Bio: Student
 - GitHub: [Michael Cao](https://github.com/mcao)
 
+#### Name: [dertrever](https://github.com/dertrever)
+- Place: Berlin, Germany
+- Bio: University Student
+- GitHub: [Michael Cao](https://github.com/mcao)
+
 #### Name: [Amlaan Bhoi](https://github.com/amlaanb)
 - Place: IL, USA
 - Bio: CS Grad Student
