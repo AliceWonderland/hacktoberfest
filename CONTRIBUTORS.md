@@ -257,6 +257,11 @@
 - Bio: Web dev adn graphic designer
 - GitHub: [vinird](https://github.com/vinird)
 
+#### Name: [Tony B](https://github.com/deeproot2k)
+- Place: LA, USA
+- Bio: learning Github
+- GitHub: [deeproot2k](https://github.com/deeproot2k)
+
 #### Name: [Evan Culver](https://github.com/eculver)
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
