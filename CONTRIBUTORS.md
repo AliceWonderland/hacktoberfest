@@ -16669,6 +16669,6 @@ to explore life. Also, Python and Django Developer
 - GitHub: [fedesassone](https://github.com/fedesassone)
 
 #### Name: [Haidar Muhammad Zidan](https://github.com/HaidarMZ)
-- Place: Rafael Calzada, Buenos Aires, Argentina
-- Bio: Software Developer, Student at Universidad de Buenos Aires
+- Place: Semarang Indonesia
+- Bio: Student at SMP 1 Semarang
 - GitHub: [haidarmz](https://github.com/HaidarMZ)
