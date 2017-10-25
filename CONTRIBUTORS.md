@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Shobhit Jain](https://github.com/Shobhit1610)
+ - Place: India
+ - Bio: Learning Web Development
+ - GitHub: [Shobhit1610](https://github.com/Shobhit1610)
