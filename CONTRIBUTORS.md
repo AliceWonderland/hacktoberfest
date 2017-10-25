@@ -1,3 +1,8 @@
+﻿#### Name: [Philip S](https://github.com/MoonfireSeco)
+ - Place: Epernay, France
+ - Bio: Game Programming & Music Production
+ - GitHub: [MoonfireSeco](https://github.com/MoonfireSeco)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
