@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16663,7 +16663,13 @@ to explore life. Also, Python and Django Developer
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
 
+#### Name: [Paul Nunez] (https://github.com/paulnunezm/)
+- Place: Santo Domingo, Dominican Republic
+- Bio: Android Developer, Electronics Engineer
+- GitHub: [paulnunezm](https://github.com/paulnunezm/)
+
 #### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
