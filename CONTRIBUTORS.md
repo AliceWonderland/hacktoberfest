@@ -257,6 +257,11 @@
 - Bio: Web dev adn graphic designer
 - GitHub: [vinird](https://github.com/vinird)
 
+### Name: [Harish Yerra](https://github.com/hyerra)
+- Place: Kearney, NE, USA
+- Bio: I'm still a student, but I'm a WWDC Scholar and iOS/macOS Developer.
+- Github: [Harish Yerra](https://github.com/hyerra)
+
 #### Name: [Evan Culver](https://github.com/eculver)
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
