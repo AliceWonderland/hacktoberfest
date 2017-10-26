@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sonam Gurung](https://github.com/amarg236)
+- Place: Louisiana, USA
+- Bio: Student at University of Louisiana at Monroe
+- Github: [amarg236](https://github.com/amarg236)
