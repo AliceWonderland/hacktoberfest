@@ -1,3 +1,8 @@
+#### Name: [Shouvik Mitra](https://github.com/iamshouvikmitra)
+ - Place: Dehradun, INDIA
+ - Bio: Web Developer and Student at DITU
+ - GitHub: [iamshouvikmitra](https://github.com/iamshouvikmitra)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
