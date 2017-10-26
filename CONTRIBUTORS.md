@@ -1367,6 +1367,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Roopansh Bansal](https://github.com/roopansh)
+- Place: Delhi, IN
+- Bio: Computer Science Undergraduate at Indian Institute of Technology.
+- Github: [roopansh](https://github.com/roopansh)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
