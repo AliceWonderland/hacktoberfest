@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Karan Razdan](https://github.com/karanrazdan)
+- Place: Melbourne, Australia
+- Bio: Master of IT student.
+- GitHub: [karanrazdan](https://github.com/karanrazdan)
