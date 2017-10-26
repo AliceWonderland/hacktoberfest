@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Thomas Kulmbach](https://github.com/D0Tch)
+- Place: Copenhagen, Denmark
+- Bio: Webdeveloper, iOS developer, AP Graduate in Computer Science
+- GitHub: [D0Tch](https://github.com/D0Tch)
