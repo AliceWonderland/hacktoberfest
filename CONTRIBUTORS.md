@@ -16643,12 +16643,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
-#### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
+#### Name: [Marieluise Merz](https://github.com/marieluisemerz)
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz](https://github.com/marieluisemerz/)
 
-#### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
+#### Name: [Miltos Katifedenios](https://github.com/miltoskat)
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
@@ -16658,7 +16658,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Front End Developer
 - GitHub: [italogois](https://github.com/italogois)
 
-#### Name: [Pranjal Singh] (https://github.com/pranjal44)
+#### Name: [Pranjal Singh](https://github.com/pranjal44)
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kashyap Raval](https://github.com/kashyap32)
+ - Place: India
+ - Bio: ML/Python developer
+ - GitHub: [Kashyap Raval](https://github.com/kashyap32)
