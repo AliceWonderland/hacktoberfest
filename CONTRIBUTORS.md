@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sukhpreet Singh](https://github.com/ssp91)
+- Place: Chandigarh, Chandigarh, INDIA
+- Bio: Beginner
+- GitHub: [ssp91](https://github.com/ssp91)
