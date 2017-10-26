@@ -4071,4 +4071,4 @@ Noida
 #### Name : [Narayana Suri](https://github.com/narayanasuri)
 - Place: Chennai, Tamil Nadu, India
 - Bio: Android Developer
-- Github [narayanasuri](https://github.com/narayanasuri)
+- Github [Narayana Suri](https://github.com/narayanasuri)
