@@ -1,21 +1,21 @@
-/*
+
 language: c
 env: 
 author: d-grossman
 github:
 
 
-*/
 
 
-/*
+
+
 make
 insmod hello_world_d-grossman
 ls /proc/hello_world
 cat /proc/hello_world
 rmmod hello_world_d-grossman
 
-*/
+
 
 
 
