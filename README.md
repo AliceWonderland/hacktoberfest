@@ -1,6 +1,7 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-** Oct 24th Update: THIS REPO IS TEMPORARILY NOT ACCEPTING NEW PRs. Will be re-opened once it's sorted!**
+** Oct 24th Update: THIS REPO IS TEMPORARILY *NOT MERGING NEW PRs* until the CONTRIBUTORS.md file is sorted! **
+** Thanks for your patience! **
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
