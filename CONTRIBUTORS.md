@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Prithviraj Sukale](https://github.com/pvsukale)
+- Place: Pune, India
+- Bio: Full stack Developer, Student at Pune university
+- GitHub: [pvsukale](https://github.com/pvsukale)
