@@ -1,3 +1,8 @@
+#### Name: [Gyasik Nunez](https://github.com/gyasikn)
+- Place: Miami, FL, USA
+- Bio: Wyncode Academy, Gamer, Ruby/Javascript
+- GitHub: [gyasikn](https://github.com/gyasikn)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
@@ -7,7 +12,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
