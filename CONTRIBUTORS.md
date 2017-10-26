@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -241,6 +241,11 @@
 - Place: Seattle, WA, USA
 - Bio: I love open source and coffee! New grad looking for work!
 - GitHub: [Campion Fellin](https://github.com/campionfellin)
+
+#### Name: [Joshua Saunders](https://github.com/joshnsaunders)
+- Place: Denver, CO, USA
+- Bio: I love building educational apps and write lots of javascript
+- GitHub: [Joshua Saunders](https://github.com/joshnsaunders)
 
 #### Name: [Niket Mishra](https://github.com/niketmishra)
 - Place: New Delhi, Delhi, India
