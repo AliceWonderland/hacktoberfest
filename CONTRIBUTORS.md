@@ -16668,7 +16668,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
 
-#### Name: [Kyle F] (https://github.com/kylef000)
+#### Name: [Kyle F](https://github.com/kylef000)
 - Place: Charlotte, NC
 - Bio: Software Engineer
 - GitHub: [kylef000](https://github.com/kylef000)
