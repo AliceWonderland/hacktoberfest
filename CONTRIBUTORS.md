@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sofian Razvan](https://github.com/Rufusnu)
+- Place: Botosani, Romania
+- Bio: Beginner, Student at National College "Mihai Eminescu" from Romania
+- GitHub: [Rufusnu](https://github.com/Rufusnu)
