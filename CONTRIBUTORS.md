@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Bruno Babojelic](https://github.com/auxilum)
+- Place: Zagreb, Croatia
+- Bio: learning JavaScript
+- GitHub: [auxilum](https://github.com/auxilum)
