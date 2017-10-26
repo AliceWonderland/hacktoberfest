@@ -1,3 +1,8 @@
+#### Name: [Adam G.](https://github.com/Electromaster232)
+- Place: Pennsylvania, USA
+- Bio: Young coder learning Python, Java, HTML, and C++
+- GitHub: [Electromaster232](https://github.com/Electromaster232)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
