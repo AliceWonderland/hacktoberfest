@@ -1,3 +1,8 @@
+#### [Cesar Diaz](https://github.com/cdiaz1971)
+ - Place: Frederick, MD
+ - Bio: Security Engineer just now getting around to learning git
+- GitHub: [cdiaz971](https://github.com/cdiaz1971)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
