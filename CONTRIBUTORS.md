@@ -16669,6 +16669,6 @@ to explore life. Also, Python and Django Developer
 - GitHub: [fedesassone](https://github.com/fedesassone)
 
 #### Name: [Utkarsh Srivastava](https://github.com/utk3995)
-- Place: Allahabad, India
+- Place: Allahabad, Uttar Pradesh, India
 - Bio: Software Developer, Student at IIIT Allahabad, Competitive Programmer, Reader
 - GitHub: [utk3995](https://github.com/utk3995)
