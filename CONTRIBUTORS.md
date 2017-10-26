@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Allison Sampaio](https://github.com/allisonsampaio)
+- Place: Campo Mourão, Paraná, Brasil
+- Bio: Software Developer, Student at UTFPR
+- GitHub: [allisonsampaio](https://github.com/allisonsampaio)
+
