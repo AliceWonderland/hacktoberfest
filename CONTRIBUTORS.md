@@ -1,3 +1,8 @@
+#### Name: [Brian Lusina](https://github.com/BrianLusina)
+ - Place: Nairobi, Kenya
+ - Bio: Software Engineer
+ - Github: [BrianLusina](https://github.com/BrianLusina)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
