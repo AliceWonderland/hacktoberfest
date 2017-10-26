@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Alec Suits](https://github.com/asuits2)
+- Place: New York, United States
+- Bio: Studying Electrical and Computer Engineering at SUNY Oswego
+- GitHub: [asuits2](https://github.com/asuits2)
