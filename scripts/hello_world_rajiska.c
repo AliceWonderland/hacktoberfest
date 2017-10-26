@@ -1,8 +1,8 @@
 /*
  *  File	: hello_world_rajiska.c
- *  Author	: Doriann "Ra'Jiska" Corlouër
+ *  Github	: https://github.com/rajiska
  *  Created	: Thu Oct 26 19:11:45 2017
- *  Updated on	: Thu Oct 26 19:12:24 2017
+ *  Updated on	: Thu Oct 26 19:16:56 2017
 */
 
 #include <stdio.h>
