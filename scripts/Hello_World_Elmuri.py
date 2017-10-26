@@ -1,3 +1,9 @@
+# LANGUAGE: Python
+# ENV: Python
+# AUTHOR: Elmuri Heinuli
+# GITHUB: https://github.com/elmuri
+
+
 Hello = ["H","e","l","l","o"]
 World = ["W","o","r","l","d"]
 
