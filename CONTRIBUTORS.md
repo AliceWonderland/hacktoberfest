@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Shivam Singh Yadav] (https://github.com/shivam1897)
+- Place: Chandigarh, India
+- Bio: Beginner
+- GitHub: [shivam1897](https://github.com/shivam1897)
