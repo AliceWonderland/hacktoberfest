@@ -1,3 +1,7 @@
+#### Name: [Priyam Gupta](https://github.com/Priyam-G)
+ - Place: San Jose, CA, USA
+ - Bio: Learning Web Dev & Design & Java
+ - GitHub: [Priyam-G](https://github.com/Priyam-G)
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
