@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Albert Le Batteux](https://github.com/ale-batt)
+- Place: Paris, France
+- Bio: Software Developer, 42 Paris
+- GitHub: [ale-batt](https://github.com/ale-batt)
