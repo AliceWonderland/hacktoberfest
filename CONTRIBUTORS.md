@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [umar haruna abdullahi](https://github.com/umarbrowser)
+- Place: Gombe, Gombe state, Nigeria
+- Bio: Software engineer, No money to goto university
+- GitHub: [umarbrowser](https://github.com/umarbrowser)
