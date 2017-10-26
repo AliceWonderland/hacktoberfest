@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Greg Mahring](https://github.com/GregMahring)
+- Place: Cleveland, Ohio
+- Bio: Software Developer, Soccer and Golf nut, Mechanical Designer, Star Wars nut
+- GitHub: [GregMahring](https://github.com/GregMahring)
