@@ -1,3 +1,8 @@
+#### Name: [Lisa Smith](https://github.com/Lisasmith1)
+ - Place: California, USA
+ - Bio: Recent Comp Sci Grad
+ - GitHub: [lisasmith1](https://github.com/Lisasmith1)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
