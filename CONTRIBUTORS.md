@@ -1,4 +1,9 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
+#### Name: [Nouredine Amrouche](https://github.com/fouzi1995)
+ - Place: Kolea, Tipaza, ALGERIA
+ - Bio: Fullstack Web Developer
+ - GitHub: [Faouzi](https://github.com/fouzi1995)
+ 
+ #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
