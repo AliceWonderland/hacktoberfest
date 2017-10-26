@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sandipan Dutta] (https://github.com/sandipan11111)
+- Place: Delhi, India
+- Bio: Computer Engineering @ NSIT,Delhi
+- GitHub: [sandipan11111](https://github.com/sandipan11111)
