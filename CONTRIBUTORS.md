@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Elmuri Heinuli](https://github.com/elmuri)
+ - Place: Helsinki, Finland
+ - Bio: Doing great stuff
+ - GitHub: [elmuri](https://github.com/elmuri)
