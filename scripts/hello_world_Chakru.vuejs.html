@@ -1,0 +1,37 @@
+<!--
+	LANGUAGE: Javascript
+ 	ENV: Vue.js
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hacktoberfest</title>
+	<script src="https://unpkg.com/vue"></script>
+</head>
+<body>
+	<div id="vue-app">
+		<h1>{{ greet('morning')}}</h1>
+	</div>
+	<script type="text/javascript">
+		new Vue({
+			el: '#vue-app',
+			data: {
+				name: ''
+			},
+			methods: {
+				greet: function (time) 
+				{	
+					return 'Good ' + time + " " + this.name;
+				},
+			},
+			mounted: function(){
+				var n = prompt("Enter your name");
+				if(n === null || n.trim() === '')
+					n='GitHub user';
+				this.name = n;
+				document.write("<h1>Hello World</h1>")
+			}
+		});
+	</script>
+</body>
+</html>
