@@ -1,4 +1,4 @@
-#### Name: [Sam Flores](https://github.com/samflores23)
+﻿#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
@@ -4067,3 +4067,8 @@ Noida
 - Place: USA
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
+
+#### Name : [Narayana Suri](https://github.com/narayanasuri)
+- Place: Chennai, Tamil Nadu, India
+- Bio: Android Developer
+- Github [narayanasuri](https://github.com/narayanasuri)
