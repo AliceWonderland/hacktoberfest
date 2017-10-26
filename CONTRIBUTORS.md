@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Vishvak Bandi](https://github.com/VishvakBandi)
+- Place: Dallas, Texas
+- Bio: High school student.
+- GitHub: [Vishvak Bandi](https://github.com/VishvakBandi)
