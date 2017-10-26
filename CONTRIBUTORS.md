@@ -2,6 +2,11 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
+ 
+ #### Name: [Ankit kumar](https://github.com/PrajapatiAnkit)
+ - Place: Kanpur Uttar Pradesh, India
+ - Bio: PHP Web Developer & Designer
+ - GitHub: [lulabell](https://github.com/PrajapatiAnkit)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
