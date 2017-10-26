@@ -8,7 +8,7 @@ High School Student
 
 ## Intrests
 * Web Design
-*Code in general
+* Code in general
 
 ## Development
 None
