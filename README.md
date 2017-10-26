@@ -1,6 +1,6 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-** Oct 24th Update: THIS REPO IS TEMPORARILY _NOT MERGING NEW PRs_ until the CONTRIBUTORS.md file is sorted! **
+** __Oct 24th Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! **
 
 ** Thanks for your patience! **
 
