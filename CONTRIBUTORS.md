@@ -1,3 +1,8 @@
+#### Name: [Graça Silva](https://github.com/gracacs)
+ - Place: Porto, Portugal
+ - Bio: First Time Hackting!
+ - GitHub: [gracacs](https://github.com/gracacs)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
