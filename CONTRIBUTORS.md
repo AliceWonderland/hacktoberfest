@@ -71,7 +71,7 @@
 - GitHub: [heyjiawei](https://github.com/heyjiawei)
 
 #### Name: [Indra Kusuma](https://github.com/idindrakusuma)
-- Place: Semarang, Indonesia
+- Place: Semarang, Jawa Tengah, Indonesia
 - Bio: ♥ opensource ♥
 - GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
