@@ -1,7 +1,7 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
- - Place: North Carolina, USA
+#### Name: [Bagas](https://github.com/bagas)
+ - Place: Sragen,Indonesia
  - Bio: Learning Web Dev & Design
- - GitHub: [lulabell](https://github.com/lulabell)
+ - GitHub: [bagas](https://github.com/bagas)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
