@@ -242,6 +242,11 @@
 - Bio: I love open source and coffee! New grad looking for work!
 - GitHub: [Campion Fellin](https://github.com/campionfellin)
 
+#### Name: [Ajitesh Gupta](https://github.com/AjiteshGupta)
+- Place: Allahabad, India
+- Bio: Wannabe Developer | Undergrad at IIITA
+- GitHub: [Ajitesh Gupta](https://github.com/AjiteshGupta)
+
 #### Name: [Niket Mishra](https://github.com/niketmishra)
 - Place: New Delhi, Delhi, India
 - Bio: B.Tech Student in Information Technology
