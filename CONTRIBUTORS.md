@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Christian Lemus Gonzalez](https://github.com/clemus90)
+- Place: Bogotá, Colombia
+- Bio: Software Developer
+- GitHub: [clemus90](https://github.com/clemus90)
