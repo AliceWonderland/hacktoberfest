@@ -16542,6 +16542,11 @@ to explore life. Also, Python and Django Developer
  - Place: London, United Kingdom
  - Bio: Newbie coder
  - GitHub: [danielandro](https://github.com/Danielandro/hacktoberfest)
+ 
+ #### Name: [Muhammad Fairuzi Teguh](https://github.com/fairuzi10)
+- Place: Jakarta, Indonesia
+- Bio: Competitive programmer, CS UI stundent
+- GitHub: [fairuzi10](https://github.com/fairuzi10)
 
 #### Name: [Eric](https://github.com/valleyceo)
 - Place: California, USA
