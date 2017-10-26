@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Vishwas Mehra](https://github.com/vishwasmehra)
+- Place: Dehradun,Utthrakhand,India
+- Bio: ml beginner,Data Science
+- GitHub: [vishwasmehra](https://github.com/vishwasmehra)
