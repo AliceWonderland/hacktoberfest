@@ -1,5 +1,5 @@
 #### [Cesar Diaz](https://github.com/cdiaz1971)
- - Place: Frederick, MD, USA
+ - Place: Frederick, MD
  - Bio: Security Engineer just now getting around to learning git
 - GitHub: [cdiaz971](https://github.com/cdiaz1971)
 
