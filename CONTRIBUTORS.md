@@ -1,7 +1,7 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
- - Place: North Carolina, USA
- - Bio: Learning Web Dev & Design
- - GitHub: [lulabell](https://github.com/lulabell)
+#### Name: [Arya Mughni](https://github.com/AryaMughni)
+ - Place: Semarang, Indonesia
+ - Bio: Student of SMP Negeri 1 Semarang
+ - GitHub: [AryaMughni](https://github.com/AryaMughni)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
