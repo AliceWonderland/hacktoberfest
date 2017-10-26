@@ -6,7 +6,7 @@ Chennai, Tamil Nadu, India
 
 ### Academics
 
-SRM University, Chennai
+Currently pursuing B.Tech Software Engineering from SRM University, TN, India
 
 ### Interests
 
