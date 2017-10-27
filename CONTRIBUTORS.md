@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Max Teh](https://github.com/FieryNyan)
+ - Place: Kuala Lumpur, Malaysia
+ - Bio: Learning Web Dev & Design
+ - GitHub: [FieryNyan](https://github.com/FieryNyan)
