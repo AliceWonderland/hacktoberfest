@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Suras Nayak](https://github.com/surasnayak)
+ - Place: Hyderabad, India
+ - Bio: Learning Web Dev & Design
+ - GitHub: [surasnayak](https://github.com/surasnayak)
+
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
