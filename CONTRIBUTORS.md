@@ -11335,6 +11335,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at the University of Wroclaw
 - GitHub: [Klaudia K.](https://github.com/KalpiKK)
 
+#### Name: [Konstantinos Oikonomou](https://github.com/konoikon)
+- Place: Thessaloniki, Greece
+- Bio: Prospective Computer Science Major
+- GitHub: [Konstantinos Oikonomou](https://github.com/konoikon)
+
 #### Name: [Luiz Gustavo Mattos](https://github.com/mano0012)
 - Place: Brasil
 - Bio: Computer Science Student
@@ -16667,3 +16672,6 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+
+
