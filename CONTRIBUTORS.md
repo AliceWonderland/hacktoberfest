@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Lucas da Silva Heim](https://github.com/lucasheim)
+- Place: Esteio, Rio Grande do Sul, Brasil
+- Bio: Gamer, Dev, Computer Science Student at UNISINOS
+- GitHub: [lucasheim](https://github.com/lucasheim)
