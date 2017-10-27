@@ -16403,6 +16403,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [SmilesandCode](https://github.com/smilesandcode)
 
+#### Name: [MArci](GitHub link)
+- Place: Budapest,Hungary
+- Bio: Who am I?
+- GitHub: [marcirscj](https://github.com/marcirsch)
+
 #### Name: [Ronald](https://github.com/codealtgeek)
 - Place: South Bend, Indiana, USA
 - Bio: A Coder!!
