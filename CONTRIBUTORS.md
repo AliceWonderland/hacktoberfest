@@ -1,3 +1,8 @@
+#### Name: [Marcel Mayer](https://github.com/stickybyte)
+ - Place: St. Augstin, DEU
+ - Bio: DevOps System-Engineer
+ - GitHub: [stickybyte](https://github.com/stickybyte)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
