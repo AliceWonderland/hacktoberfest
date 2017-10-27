@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Burak Hamuryen](https://github.com/hamuryen)
+- Place: Ankara, Turkey
+- Bio: Sr. Software Developer
+- GitHub: [hamuryen](https://github.com/hamuryen)
