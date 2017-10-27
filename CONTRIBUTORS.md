@@ -2,6 +2,12 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
+ 
+ 
+#### Name: [sandeepmerutha](https://github.com/sandeepmerutha)
+ - Place: gandhinagar,gujrat, India
+ - Bio:  Learning Web Dev & Design
+ - GitHub: [sandeepmerutha](https://github.com/sandeepmerutha)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
