@@ -16671,3 +16671,4 @@ to explore life. Also, Python and Django Developer
  #### Name: [Wesley Kronmiller](https://github.com/The-Bob)
   - Place: Chico, C.A.
   - Bio: High School student 
+  - Github: [The-Bob](https://github.com/The-Bob)
