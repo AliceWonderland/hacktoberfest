@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Luana Pereira Lins Brasil](https://github.com/luanaplins)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: Student in Computer Science
+- GitHub: [luanaplins](https://github.com/luanaplins)
