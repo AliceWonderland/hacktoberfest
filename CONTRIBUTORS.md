@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Oleg Guzei](https://github.com/oguzey-cv)
+- Place: Lviv, Ukraine
+- Bio: Software Developer
+- GitHub: [oguzey-cv](https://github.com/oguzey-cv)
