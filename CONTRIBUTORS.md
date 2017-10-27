@@ -2,6 +2,11 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
+ 
+ #### Name: [Aman Patel](https://github.com/patelaman)
+  - Place: Maryland, USA
+  - Bio: Learning Software Engineering
+  - GitHub: [patelaman](https://github.com/patelaman)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
