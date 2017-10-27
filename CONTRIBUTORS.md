@@ -619,6 +619,12 @@
 - Place: London, England
 - Bio: Student, Aspiring Front-end Web Dev
 - Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
+
+#### Name: [Aleš Kalan](https://github.com/SloRunner)
+- Place: Novo Mesto, Slovenia
+- Bio: Student, Backend Dev && Automation freak
+- Github [Aleš Kalan](https://github.com/SloRunner)
+
 #### Name: [Ben Smith](https://github.com/ben-w-smith)
 - Place: Salt Lake City, UT, USA
 - Bio: A guy that loves writing bots and automation.
