@@ -1,3 +1,8 @@
+#### Name: [Sachin Shetty](https://github.com/sachinsshetty)
+ - Place: Bengaluru, India
+ - Bio: Computer Vision
+ - GitHub: [sachinsshetty](https://github.com/sachinsshetty)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
