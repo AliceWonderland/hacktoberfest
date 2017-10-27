@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Gelle Padrones](https://github.com/aegelle31)
+- Place: Manila, Philippines
+- Bio: Software Engineer (Java)
+- GitHub: [aegelle31](https://github.com/aegelle31)
