@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Vinnys Lins](https://github.com/vinnyslins)
+- Place: Campinas, São Paulo, Brazil
+- Bio: Student at PUC-Campinas
+- GitHub: [vinnyslins](https://github.com/vinnyslins)
