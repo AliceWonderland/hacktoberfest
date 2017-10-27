@@ -2,6 +2,10 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
+#### Name: [Varad Kulkarni](https://github.com/varadkulkarni11)
+ - Place: Pune, India
+ - Bio: Learning Electronics at PICT
+ - GitHub: [varadkulkarni11](https://github.com/varadkulkarni11)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
