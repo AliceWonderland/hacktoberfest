@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ariela Bawol](https://github.com/Ariela1127)
+ - Place: Newcastle, UK
+ - Bio: Computer Science student, worked in tech industry for a year using mainly Microsoft technologies, learning front-end development
+ - GitHub: [Ariela1127](https://github.com/Ariela1127)
