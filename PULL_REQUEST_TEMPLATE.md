@@ -12,7 +12,7 @@ Your ending script file should look something like this:
 
 console.log("Hello World") 
 ```
-Do NOT make your file like this
+DON'T make your file like this
 ```
 console.log("Hello World")
 ```
@@ -23,7 +23,7 @@ Also, make sure to put the file in the script folder and NOT in the home directo
 Make sure you don't delete any other data which is already stored there.
 
 Your data should look some what like this:
-
+LOL
 ```
  #### Name: [YOUR NAME](GitHub Link)
   - Place: City, State, Country
