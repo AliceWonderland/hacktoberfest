@@ -1,5 +1,5 @@
 # Hello and Welcome!
-Thank you for contributing to the hacktoberfest. Please take the time to make sure that your PR is inline with all of the following requirements.
+Thank you for contributing to the Hacktoberfest. Please take the time to make sure that your PR is inline with all of the following requirements.
 
 ### If you are submiting a script file:
 
@@ -12,7 +12,7 @@ Your ending script file should look something like this:
 
 console.log("Hello World") 
 ```
-Do NOT make your file like this
+Do NOT make your file like this.
 ```
 console.log("Hello World")
 ```
