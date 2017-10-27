@@ -1,3 +1,10 @@
+
+// LANGUAGE: C
+// ENV: Console
+// AUTHOR: Artur Eiji
+// GITHUB: https://github.com/artureiji
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
