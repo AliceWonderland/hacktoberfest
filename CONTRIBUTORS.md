@@ -1,3 +1,8 @@
+#### Name: [Brian Mayrose](https://github.com/intoro)
+ - Place: California, USA
+ - Bio: (http://mayrosedg.com/)
+ - GitHub: [lulabell](https://github.com/intoro)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
@@ -7,7 +12,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
