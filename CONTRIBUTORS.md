@@ -7,8 +7,13 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
+
+#### Name: [LukeOliff](https://github.com/lukeoliff)
+ - Place: Colchester, UK
+ - Bio: Technical Writer @ Auth0
+ - GitHub: [Auth0](https://github.com/auth0)
  
- #### Name: [Leon Todd](https://github.com/leontodd)
+#### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
  - GitHub: [Leon Todd](https://github.com/leontodd)
