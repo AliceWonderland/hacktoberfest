@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Vishal Ramesh](https://github.com/psbbvishal)
+ - Place: Bangalore, India
+ - Bio: MTS @ VMware
+ - GitHub: [psbbvishal](https://github.com/psbbvishal)
+ 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
