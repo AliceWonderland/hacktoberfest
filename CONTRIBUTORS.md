@@ -1,3 +1,8 @@
+### Name: [Thanos Mitsiou](https://github.com/Thanos983)
+ - Place: Larissa, Greece
+ - Bio: Computer Science @ Technological Educational Institute of Larissa
+ - Github: [Thanos983](https://github.com/Thanos983)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
@@ -7,7 +12,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
