@@ -16667,3 +16667,7 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+#### Name: [Jhonferdz King Rule](https://github.com/jkingz)
+- Place: Davao city, ph
+- Bio: Software Developer
+- GitHub: [jkingz](https://github.com/jkingz)
