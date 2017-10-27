@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ethan L] (https://github.com/athenafromage)
+- Place: Waterloo, Canada
+- Bio: Engineering Student
+- Github: [athenafromage] (https://github.com/athenafromage)
