@@ -1,3 +1,8 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Julius Breckel
+// GITHUB: https://github.com/jbreckel
+
 const { isEmpty } = require('lodash')
 const { readFile, writeFile } = require('fs-extra')
 
