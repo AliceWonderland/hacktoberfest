@@ -1,3 +1,8 @@
+#### Name: [Pseudo Genesis](https://github.com/pseudogenesis)
+ - Place: Oz, Land of
+ - Bio: I like shirts
+ - GitHub: [Pseudo Genesis](https://github.com/pseudogenesis)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
