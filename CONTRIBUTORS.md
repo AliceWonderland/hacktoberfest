@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Hamoun Mojib](https://github.com/HMojib)
+ - Place: California, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [HMojib](https://github.com/HMojib)
