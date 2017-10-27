@@ -1,3 +1,8 @@
+#### Name: [Kristi Wedertz](https://github.com/kristiwedertz)
+ - Place: Los Angeles, CA, USA
+ - Bio: Just a girl making a pull request
+ - GitHub: [kristiwedertz](https://github.com/kristiwedertz)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
