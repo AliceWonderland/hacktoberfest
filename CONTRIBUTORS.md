@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+
+#### Name: [Lucas Dutra Maioza dos Santos](https://github.com/lucasMarioza)
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio:  Student at CEFET-MG
+- GitHub: [lucasMarioza](https://github.com/lucasMarioza)
