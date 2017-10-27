@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Weston Cannon](https://github.com/KaliShark)
+- Place: Santa Clarita, California, United States
+- Bio: Software Developer, Student at California State University Northridge
+- GitHub: [KaliShark](https://github.com/KaliShark)
