@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Nathaniel Hodges](https://github.com/lulabell)
+ - Place: Atlanta Ga
+ - Bio: General Assembly WDI Studetn
+ - GitHub: [uniOpifex](https://github.com/uniOpifex)
