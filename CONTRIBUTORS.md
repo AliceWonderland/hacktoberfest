@@ -356,6 +356,10 @@
 - Place: Bangalore, India
 - Bio: Opensource Enthusiast, Opensource Golang developer
 - GitHub: [Prateek Pandey](https://github.com/prateekpandey14)
+#### Name:[Anshuman](https://github.com/anshu30031997)
+-Place:varanasi,India
+-Bio:Coder
+-Github:[Anshuman](https://github.com/anshu30031997)
 
 #### Name: [CodHeK](https://github.com/CodHeK)
 - Place: Mumbai, India
