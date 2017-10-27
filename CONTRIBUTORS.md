@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Grigorescu Claudiu Constantin](https://github.com/willbanana)
+- Place: Botosani, Romania
+- Bio: Programming enthusiast
+- GitHub: [willbanana](https://github.com/willbanana)
