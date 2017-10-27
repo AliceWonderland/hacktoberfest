@@ -1,3 +1,8 @@
+### Name: [Jack Sodeman](https://github.com/TICG)
+ - Place: Illinois, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [TICG](https://github.com/TICG)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
