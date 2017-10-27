@@ -7,7 +7,12 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
+#### Name: [Nikhil](https://github.com/computelarge)
+ - Place: Delhi, India
+ - Bio: Bio-Tech @ DCE
+ - GitHub: [computelarge](https://github.com/computelarge)
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
