@@ -1,3 +1,8 @@
+#### Name: [Marius Garbea](https://mariusgarbea.github.io/)
+ - Place: Philadelphia, USA
+ - Bio: Computer Science @ Drexel
+ - GitHub: [MG](https://github.com/MariusGarbea)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
