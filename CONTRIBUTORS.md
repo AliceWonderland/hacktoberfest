@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Aditya Bharti](https://github.com/valkyrie-101)
+- Place: Hyderabad, India
+- Bio: Student-developer
+- GitHub: [valkyrie-101](https://github.com/valkyrie-101)
