@@ -699,6 +699,11 @@
 - Bio: Senior Software Engineer, child at heart
 - GitHub: [Luke Taylor](https://github.com/lmcjt37)
 
+#### Name: [Aman Mehta](https://github.com/amanmehta-maniac/)
+- Place: Hyderabad, India
+- Bio: Enthusiastic coder at IIIT-H
+- Github: [amanmehta-maniac](https://github.com/amanmehta-maniac/)
+
 #### Name: [Snehil Verma](https://github.com/vsnehil92)
 - Place: Delhi, India
 - Bio: Love to learn new technologies
