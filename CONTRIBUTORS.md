@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ömer Çakmak](https://github.com/farukomercakmak)
+- Place: Konya, Turkey
+- Bio: Pardus System Administrator
+- GitHub: [farukomercakmak](https://github.com/farukomercakmak)
