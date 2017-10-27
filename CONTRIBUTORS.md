@@ -2373,3 +2373,8 @@
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Julius Breckel](https://github.com/jbreckel)
+- Place: Regensburg, Germany
+- Bio: Software Developer
+- GitHub: [jbreckel](https://github.com/jbreckel)
