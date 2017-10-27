@@ -1,3 +1,7 @@
+// LANGUAGE: VHDL
+// AUTHOR: Marcio Granzotto
+// GITHUB: https://github.com/marciogranzotto
+
 entity hello_world is
 end;
 
