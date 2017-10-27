@@ -1,3 +1,8 @@
+#### Name: [Nishant Marwah](https://github.com/nishant19)
+ - Place: New Delhi,India
+ - Bio: Learning Web Dev & ML
+ - GitHub: [nishant19](https://github.com/nishant19)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
