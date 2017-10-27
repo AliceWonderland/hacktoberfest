@@ -1,3 +1,8 @@
+#### Name: [Somnath Rakshit](https://github.com/somnathrakshit)
+ - Place: Jalpaiguri, India
+ - Bio: Computer Science @ JGEC
+ - GitHub: [byteme](https://github.com/somnathrakshit)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
