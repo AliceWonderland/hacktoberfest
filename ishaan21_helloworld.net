@@ -1,0 +1,7 @@
+Imports System
+
+Public Class Test
+	Public Shared Sub Main()
+		' Print "Hello World"
+	End Sub
+End Class
