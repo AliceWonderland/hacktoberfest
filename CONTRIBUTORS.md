@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name [Hakan Bostan](https://github.com/hbostann)
+- Place: Ankara, Turkey
+- Bio: Software Developer
+- GitHub: [hbostann](https://github.com/hbostann)
