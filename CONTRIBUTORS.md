@@ -1,3 +1,8 @@
+#### Name: [Willy Aguirre](https://github.com/marti1125)
+ - Place: Lima, Peru
+ - Bio: Backend Developer 
+ - GitHub: [marti1125](https://github.com/marti1125)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
