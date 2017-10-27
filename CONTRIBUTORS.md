@@ -1,7 +1,7 @@
 #### Name: [Mayank kumar](https://github.com/mayank-kr-verma/)
  - Place: Patna, India
  - Bio: B.Tech student @ NITP
- - GitHub: [mayank-kr-verma/](https://github.com/mayank-kr-verma/)
+ - GitHub: [mayank-kr-verma/](https://github.com/mayank-kr-verma)
 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
