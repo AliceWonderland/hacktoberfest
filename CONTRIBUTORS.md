@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [NS Scott](https://github.com/binn87)
+- Place: Boston, Massaschusetts
+- Bio: Aspiring programmer
+- GitHub: [binn87](https://github.com/binn87)
