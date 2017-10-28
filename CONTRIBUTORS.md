@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Charlie C](https://github.com/Pixilala)
+- Place: UK
+- Bio: Learning to program.
+- GitHub: [PixiLla](https://github.com/Pixilala)
