@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sagar Rathod](https://github.com/sagar-rathod/)
+- Place: Pune, India
+- Bio: Software Engineer, Programmer
+- GitHub: [sagar-rathod](https://github.com/sagar-rathod/)
