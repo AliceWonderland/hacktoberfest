@@ -1,3 +1,8 @@
+#### Name: [Hasnain Raza](https://github.com/codvlpr)
+ - Place: Karachi, Pakistan
+ - Bio: Love to code, read and hack. Sleep too.
+ - GitHub: [Hasnain](https://github.com/codvlpr)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
