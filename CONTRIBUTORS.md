@@ -1,3 +1,8 @@
+#### Name: [Heru Rahmadi](https://github.com/herura)
+ - Place: Semarang, Indonesia
+ - Bio: Beginner
+ - GitHub: [HeruRa](https://github.com/herura)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
