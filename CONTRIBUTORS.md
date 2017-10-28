@@ -1,3 +1,9 @@
+#### Name: [Vicky Koblinski](https://github.com/VickyKoblinski/)
+ - Place: Tennessee, USA
+ - Bio: Software Engineer and FOSS Enthusiast ❤
+ - GitHub: [VickyKoblinski](https://github.com/VickyKoblinski/)
+ - Website: [vicky.sh](https://vicky.sh)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
