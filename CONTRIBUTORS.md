@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+
+#### Name: [Tadathep Thepboriruck](https://github.com/nonene)
+ - Place: Bangkok, Thailand
+ - Bio: Liberal Arts student interested in web developing but have no idea where to begin
+ - GitHub: [nonene](https://github.com/nonene)
