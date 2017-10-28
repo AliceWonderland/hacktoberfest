@@ -26,6 +26,10 @@
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
 
+ #### Name: [Peter Savichev](https://github.com/proton)
+  - Place: Moscow, Russia
+  - Bio: Proud Ruby Developer
+
 #### Name: [Omid Nikrah](https://github.com/omidnikrah)
  - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
