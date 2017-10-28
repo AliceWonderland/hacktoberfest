@@ -893,6 +893,26 @@
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Dawid Lipinski](https://github.com/lip3k)
+- Place: High Wycombe, UK
+- Bio: Self-taught Web developer
+- GitHub: [Dawid Lipinski](https://github.com/lip3k)
+
+#### Name: [BigWilie](https://github.com/BigWillie)
+- Place: United Kingdom
+- Bio: T-shirt collector
+- GitHub: [BigWilie](https://github.com/BigWillie)
+
+#### Name: [Leonardo Wajnsztok](https://github.com/leotok)
+- Place: Rio de Janeiro, Brazil
+- Bio: Computer Engineering student at PUC-Rio
+- GitHub: [Leonardo Wajnsztok](https://github.com/leotok)
+
+#### Name: [Kevin Mora](https://github.com/kevinmora94)
+- Place: Alajuea, Alajuela, Costa Rica
+- Bio: Web dev and graphic designer
+- GitHub: [kevinmora94](https://github.com/kevinmora94)
+
 #### Name: [Akash Goel] (https://github.com/akashgoel1197)
 - Place: India
 - Bio: Gamer
@@ -6126,11 +6146,6 @@ Noida
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
-#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
-- Place: Germany
-- Bio: Technology enthusiast (mostly IT)
-- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
-
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
@@ -10280,11 +10295,6 @@ Noida
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
-#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
-- Place: Germany
-- Bio: Technology enthusiast (mostly IT)
-- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
-
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
@@ -14356,11 +14366,6 @@ Noida
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
-#### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
-- Place: Germany
-- Bio: Technology enthusiast (mostly IT)
-- GitHub: [christianheinrichs](https://github.com/christianheinrichs)
-
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
@@ -16433,6 +16438,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
 
+#### Name: [Jackson Isaac](https://github.com/JacksonIsaac)
+- Place: Mumbai, Maharashtra, India
+- Bio: Data Scientist by profession and student by heart.
+- GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
+
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
@@ -16548,6 +16558,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Max R.](https://github.com/maximus12793)
+- Place: Washington, WA, USA
+- Bio: React Dev
+- Github: [maximus12793](https://github.com/maximus12793)
+
 #### Name: [Marios Georgiou](https://github.com/MariosGeorgiou)
 - Place: Larnaca, Cyprus
 - Bio: A sassy grad software engineer
@@ -16628,7 +16643,33 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
+#### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
+- Place: Munich, Germany
+- Bio: Student in Business System Engineering
+- GitHub: [marieluisemerz](https://github.com/marieluisemerz/)
+
+#### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
+- Place: Larisa, Greece
+- Bio: Software Engineer, Data Analyst
+- GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Italo Góis](https://github.com/italogois)
+- Place: Aracaju, Sergipe, Brazil
+- Bio: Front End Developer
+- GitHub: [italogois](https://github.com/italogois)
+
+#### Name: [Pranjal Singh] (https://github.com/pranjal44)
+- Place: Delhi, India
+- Bio: Beginner
+- GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
 #### Name: [Rohan Sharma](https://github.com/rs-rohan)
 - Place: India
 - Bio: College student, Willing to learn everything
 - GitHub: [rs-rohan](https://github.com/rs-rohan)
+
