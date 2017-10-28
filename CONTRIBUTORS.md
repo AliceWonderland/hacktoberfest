@@ -1,3 +1,8 @@
+#### Name: [Smirnov Andrey](https://github.com/daggett206)
+ - Place: Moscow, Russia
+ - Bio: Learning Web Dev & Design
+ - GitHub: [daggett206](https://github.com/daggett206)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
