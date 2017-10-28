@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Soumik Ranjan Dasgupta] (https://github.com/rjoe97)
+- Place: West Bengal, India
+- Bio: Student
+- GitHub: [rjoe97] (https://github.com/rjoe97)
