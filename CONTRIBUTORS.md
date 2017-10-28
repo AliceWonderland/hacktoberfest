@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Roniel Valdez](https://github.com/justaname94)
+ - Place: Santo Domingo, Dominican Republic
+ - Bio: Software Engineering student
+ - GitHub: [justaname94](https://github.com/justaname94)
