@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+- GitHub: [pranjal44](https://github.com/pranjal44)
+
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Russian Federation, Izhevsk City
+- Bio: Software Developer
+- GitHub: [sp3ber](https://github.com/sp3ber)
