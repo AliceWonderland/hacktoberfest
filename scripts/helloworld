@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: ahnuy
+// GITHUB: https://github.com/ahnuy
+
+console.log('Hello, World!');
