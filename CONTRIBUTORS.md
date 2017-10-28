@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kresna Bayu A](https://github.com/kresnabayu)
+- Place: Semarang, Indonesia
+- Bio: Highschool student
+- GitHub: [kresnabayu](https://github.com/kresnabayu)
