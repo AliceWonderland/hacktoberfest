@@ -8,7 +8,7 @@
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
  
- #### Name: [Leon Todd](https://github.com/leontodd)
+#### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
  - GitHub: [Leon Todd](https://github.com/leontodd)
@@ -22,7 +22,7 @@
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
- #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
 
@@ -60,6 +60,7 @@
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
 - GitHub: [SrGrace](https://github.com/SrGrace)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
@@ -75,12 +76,12 @@
 - Bio: ♥ opensource ♥
 - GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
 
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
 - Place: Delhi, India
 - Bio: CS Undergrad
 - GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
@@ -337,7 +338,7 @@
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
-### Name: [Niall Cartwright](https://github.com/Nairu)
+#### Name: [Niall Cartwright](https://github.com/Nairu)
 - Place: Birmingham, UK
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
 - GitHub: [Niall Cartwright](https://github.com/Nairu)
@@ -16667,3 +16668,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Yukthi Lochana](https://github.com/yuk7hi)
+- Place: Dehiwala, Colombo, Sri Lanka
+- Bio: Programmer, Hardware Developer, Electronic & Hardware enthusisat, Inventor, call me what you want still living the dream.
+- GitHub: [yuk7hi](https://github.com/yuk7hi)
+
