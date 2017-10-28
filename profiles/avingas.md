@@ -10,7 +10,7 @@ DEC - Digital Filmmaking
 
 ### Development
 
-- Learning
+- Learning Web Dev currently
 
 ### Projects
 
