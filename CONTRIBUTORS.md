@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Pradeep Kumar](https://github.com/pradeepisro)
+ - Place: Tamil Nadu, India
+ - Bio: Learning GPU computing
+ - GitHub: [pradeepisro](https://github.com/pradeepisro)
