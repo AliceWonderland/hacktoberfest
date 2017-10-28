@@ -1,3 +1,8 @@
+#### Name: [Grace Bell](https://github.com/evaldasou)
+ - Place: Vilnius, LT
+ - Bio: Learning DEV
+ - GitHub: [evaldasou](https://github.com/evaldasou)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
