@@ -1,3 +1,8 @@
+#### Name: [Volodymyr Zabulskyy](https://github.com/zabulskyy)
+- Place: Lviv, Ukraine
+- Bio: CS Student @ Ukrainian Catholic University
+- GitHub: [zabulskyy](https://github.com/zabulskyy)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
