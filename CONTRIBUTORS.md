@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Aaditya Goyal](https://github.com/goyalaadi)
+- Place: Jaipur, Rajasthan, India
+- Bio: Software Developer
+- GitHub: [goyalaadi](https://github.com/goyalaadi)
