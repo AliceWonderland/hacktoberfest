@@ -1,3 +1,8 @@
+#### Name: [Supriyanta Poddaar](https://github.com/supriyanta)
+ - Place: Kolkata, India
+ - Bio: B.Tech student
+ - GitHub: [supriyanta](https://github.com/supriyanta)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
