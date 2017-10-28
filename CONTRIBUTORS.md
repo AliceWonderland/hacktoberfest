@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Phil](https://github.com/phester571)
+ - Place: Massachusetts, USA
+ - Bio: Aspiring frontend developer
+ - GitHub: [phester571](https://github.com/phester571)
