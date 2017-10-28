@@ -214,3 +214,8 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+ #### Name: [Miguel Almonte](https://github.com/miguel550)
+  - Place: Santo Domingo Este, Santo Domingo, Dominican Republic
+  - Bio: Software Engineer, Competitive Programmer, interested in Machine Learning
+  - GitHub: [Miguel Almonte](https://github.com/miguel550)
+
