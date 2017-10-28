@@ -1,3 +1,8 @@
+#### Name: [Jagriti Jain] (https://github.com/JagritiJ)
+- Place:  Bengaluru, India
+- Bio: Learning DSA
+- Github: [JagritiJ](https://github.com/JagritiJ)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
