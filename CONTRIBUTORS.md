@@ -112,6 +112,11 @@
 - Bio: Fullstack Web developer, Computer Engineering Master student
 - GitHub: [faouziamrouche](https://github.com/faouziamrouche)
 
+#### Name: [Ayush Deva](https://github.com/ayush0306)
+ - Place: Varanasi, India
+ - Bio: Game Theory and Machine Learning Enthusiast
+ - GitHub: [ayush0306](https://github.com/ayush0306)
+
 #### Name: [Rene Israel](https://github.com/reneisrael)
 - Place: Mexico
 - Bio: En decadencia
