@@ -1,3 +1,8 @@
+#### Name: [Aminu Ibrahim Abubakar](https://github.com/AminuSufi585)
+ - Place: Kano, Nigeria
+ - Bio: Graduate Civil Engineer, and an IT enthusiast
+ - GitHub: [AminuSufi585](https://github.com/AminuSufi585)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
