@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [André Lima](https://github.com/andrefalima)
+- Place: Rio de Janeiro, Rio de Janeiro, Brazil
+- Bio: Web Developer intern
+- GitHub: [andrefalima](https://github.com/andrefalima)
