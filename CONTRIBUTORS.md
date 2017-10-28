@@ -1,3 +1,8 @@
+#### Name: [Kaustubh Rai](https://github.com/kaus2595)
+ - Place: New Delhi, India
+ - Bio: Web Developer
+ - GitHub: [kaus2595](https://github.com/kaus2595)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
