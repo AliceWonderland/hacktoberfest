@@ -1,3 +1,7 @@
+#### Name: [Martin Staadecker](https://github.com/SUPERETDUPER)
+ - Place: Toronto, Canada
+ - GitHub [SUPERETDUPER](https://github.com/SUPERETDUPER)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
