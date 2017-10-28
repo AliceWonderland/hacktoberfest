@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Chris Gonzalez](https://github.com/chrismgonzalez)
+- Place: Fort Worth, TX
+- Bio: Educator, Musician, Open source contributor
+- Github: [Chris Gonzalez](https://github.com/chrismgonzalez)
