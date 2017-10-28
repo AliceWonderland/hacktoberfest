@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Miguel Angel Ballén Galindo](https://github.com/mballeng91)
+- Place: Bogotá, Colombia
+- Bio: Software developer, student at Universidad Nacional de Colombia,
+       bassist, guitarist, singer. :-)
+- GitHub: [mballeng91](https://github.com/mballeng91)
