@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name : [Rodrigo Girão](https://github.com/rodrigogirao)
+- Place: Fortaleza, Brazil
+- Bio: Software Engineer, Comic Book Collector
+- Github: [rodrigogirao](https://github.com/rodrigogirao)
