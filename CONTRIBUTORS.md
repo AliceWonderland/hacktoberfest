@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ilya Shevchuk](https://github.com/azymazy)
+- Place: Pskov, Russia
+- Bio: Front End Developer
+- GitHub: [Ilya Shevchuk](https://github.com/azymazy)
