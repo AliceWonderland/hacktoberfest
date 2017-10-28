@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Pocha Ravi Kiran Reddy](https://github.com/pocharavi)
+- Place: Hyderabad, India
+- Bio: Planning Engineer, Software enthusiast
+- GitHub: [pocharavi](https://github.com/pocharavi)
