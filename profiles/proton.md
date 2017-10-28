@@ -1,6 +1,4 @@
-### Name
-
-Peter Savichev (proton)
+# Peter Savichev (proton)
 
 ### Location
 
