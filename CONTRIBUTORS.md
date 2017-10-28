@@ -2,6 +2,11 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
+ 
+ #### Name: [Alyssa Bell](https://github.com/rageunleashed69)
+ - Place: Illinois, USA
+ - Bio: Learning Web Dev & Design, Computer Science Major
+ - GitHub: [rageunleashed69](https://github.com/rageunleashed69)
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
