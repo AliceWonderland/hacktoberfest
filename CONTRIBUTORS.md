@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Alan Gordon](https://github.com/alangordon)
+- Place: Belfast, Antrim, Ireland
+- Bio: .NET Developer
+- GitHub: [alangordon](https://github.com/alangordon)
