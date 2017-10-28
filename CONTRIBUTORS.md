@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Connor Newman](https://github.com/connewm)
+- Place: Columbus, Ohio, United States
+- Bio: Computer Information Science, Undergrad
+- GitHub: [connewm](https://github.com/connewm)
