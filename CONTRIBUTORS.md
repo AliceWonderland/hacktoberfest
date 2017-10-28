@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Helena Tepe](https://github.com/h3l3n4)
+- Place: Brunswick, Lower Saxony, Germany
+- Bio: Student
+- GitHub: [h3l3n4](https://github.com/h3l3n4)
