@@ -777,3 +777,8 @@
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
+
+#### Name: [Dustin Brown](https://github.com/willcode2surf)
+- Place: Texas
+- Bio: Software Engineer
+- GitHub: [WillCode2Surf](https://github.com/willcode2surf)
