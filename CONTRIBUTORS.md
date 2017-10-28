@@ -1,3 +1,8 @@
+#### Name: [Chameera Dulanga](https://github.com/ChameeraD)
+ - Place: Galle, Sri Lanka
+ - Bio: Student
+ - GitHub: [ChameeraD](https://github.com/ChameeraD)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
