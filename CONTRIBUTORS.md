@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Bohdna Kaminskyi](https://github.com/BohdanKaminskyi)
+- Place: L’viv, Ukraine
+- Bio: Technology enthusiastic!
+- GitHub: [Abhay Gawade](https://github.com/BohdanKaminskyi)
