@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Randrianarivony Nirinarisantatra](https://github.com/nirinarisantatra)
+- Place: Kobe, Hyogo, Japan
+- Bio: Computer Science student at KIC
+- GitHub: [santatra](https://github.com/nirinarisantatra)
