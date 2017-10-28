@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [olyshDmytro H](https://github.com/dmk1111)
+- Place: Lviv, UA
+- Bio: Front-end developer
+- GitHub: [dmk1111](https://github.com/dmk1111)
