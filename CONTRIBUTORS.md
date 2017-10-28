@@ -16667,3 +16667,10 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+
+ #### Name: [Vedant Baghel](https://github.com/iambaghel)
+ - Place: Raipur, India
+ - Bio: Computer Science @ Student at NIT Raipur
+ - GitHub: [Vedant Baghel](https://github.com/iambaghel)
+
