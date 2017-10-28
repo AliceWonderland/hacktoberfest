@@ -1,3 +1,8 @@
+#### Name: [Lina Grybauskaite](https://github.com/linaou)
+ - Place: Vilnius, LT
+ - Bio: Web Dev & Designer
+ - GitHub: [linaou](https://github.com/linaou)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
