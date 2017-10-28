@@ -8,6 +8,11 @@
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
  
+ #### Name: [Ravi Kumar Patel](https://github.com/ravi268kumar)
+ - Place: Gujrat, India
+ - Bio: Computer Science @ IIITV
+ - GitHub: [ravi268kumar](https://github.com/ravi268kumar)
+ 
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
