@@ -1,3 +1,9 @@
+#### Name: [Víctor Castro Serrano](https://github.com/vicase)
+ - Place: Granada, Andalusia, Spain
+ - Bio: Computer Science & Mathematics, UGR.
+ - GitHub: [vicase](https://github.com/vicase)
+
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
