@@ -16666,4 +16666,9 @@ to explore life. Also, Python and Django Developer
 #### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
-- GitHub: [fedesassone](https://github.com/fedesassone)
+- GitHub: [fedesassone](https://github.com/fedesassone)  
+
+#### Name: [Luca Fluri](https://github.com/lucafluri)
+- Place: Basel, Switzerland
+- Bio: Electrical Engineering Student ETH Zürich
+- GitHub: [lucafluri](https://github.com/lucafluri)
