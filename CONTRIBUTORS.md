@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Albert Wang](https://github.com/lovenery)
+- Place: Taipei, Taiwan
+- Bio: CS Student
+- GitHub: [lovenery](https://github.com/lovenery)
