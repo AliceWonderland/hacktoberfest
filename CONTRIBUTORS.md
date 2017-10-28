@@ -25,6 +25,11 @@
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
+  
+  #### Name: [Akshatha Nayak](https://github.com/aksh77)
+- Place: Kottayam, Kerala, India
+- Bio: Learner
+- GitHub: [Akshatha Nayak](https://github.com/aksh77)
 
 #### Name: [Omid Nikrah](https://github.com/omidnikrah)
  - Place: Tehran, Tehran, Iran
