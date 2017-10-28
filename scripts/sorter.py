@@ -2,6 +2,11 @@ import re
 import operator
 import collections
 
+# LANGUAGE: Python 3.6
+# AUTHOR: Miguel Almonte
+# GITHUB: https://github.com/miguel550
+
+
 with open('CONTRIBUTORS.md', encoding="utf8") as f:
     c = 0
     def cmp(name):
