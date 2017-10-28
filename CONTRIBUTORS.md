@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Mohd Abdullah](https://github.com/brainstormm)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: coding enthusiast
+- GitHub: [brainstormm](https://github.com/brainstormm)
