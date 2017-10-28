@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Brandon Martin](https://github.com/brandonmartin101)
+- Place: Oshkosh, Wisconsin
+- Bio: Web Developer
+- Github: [brandonmartin101](https://github.com/brandonmartin101)
