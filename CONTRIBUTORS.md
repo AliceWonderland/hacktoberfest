@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+### Name: [Harshal Mittal](https://github.com/harshalmittal4)
+- Place: IIT Roorkee, India
+- Bio: Beginner
+- Github: [harshalmittal4](https://github.com/harshalmittal4)
+
