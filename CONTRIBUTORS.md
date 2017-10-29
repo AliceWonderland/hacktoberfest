@@ -1,3 +1,8 @@
+#### Name: [Cameron Kalic](https://github.com/cameronkalic)
+ - Place: Ohio, USA
+ -Bio: HS Programming Student (Future compeng major)
+ -:GitHub: [cameronkalic](https://github.com/cameronkalic)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
