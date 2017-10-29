@@ -1,3 +1,8 @@
+#### Name: [Sumit Verma](https://github.com/sumitvgithub)
+- Place: Noida, Uttar Pradesh, India
+- Bio: Information Security Enthusiast
+- GitHub: [sumitvgithub](https://github.com/sumitvgithub)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
