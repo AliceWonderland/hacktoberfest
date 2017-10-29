@@ -1,3 +1,8 @@
+#### Name: [Navindu NC](https://github.com/Navzter)
+ - Place: Kiribathkumbura, Sri Lanka
+ - Bio: Web Developer
+ - GitHub: [Navzter](https://github.com/Navzter)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
