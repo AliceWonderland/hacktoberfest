@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ishaan Kakkar](https://github.com/ishaan1995)
+- Place: New Delhi, India
+- Bio: Android Developer, Student at IPU University, Delhi, India
+- GitHub: [Ishaan Kakkar](https://github.com/ishaan1995)
