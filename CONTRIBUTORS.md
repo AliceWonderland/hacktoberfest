@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Vivek R](https://github.com/123vivekr)
+- Place: Ernakulam, India
+- Bio: OSS entusiast, Student at Model Engineering College
+- Github: [123vivekr](https://github.com/123vivekr)
