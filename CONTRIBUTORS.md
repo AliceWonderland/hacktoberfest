@@ -1,3 +1,8 @@
+#### Name: [Ruslan Sorokin](https://github.com/PufonBarn)
+ - Place: Barnaul, Russian Federation
+ - Bio: Admin (nix, windows)
+ - GitHub: [PufonBarn](https://github.com/PufonBarn)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
