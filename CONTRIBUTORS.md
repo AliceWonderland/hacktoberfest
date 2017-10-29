@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ekam Walia](https://github.com/EkamWalia)
+- Place: Manipal, Karnataka, India
+- Bio: CS Undergrad at Manipal Institute of Technology
+- GitHub: [EkamWalia](https://github.com/EkamWalia)
