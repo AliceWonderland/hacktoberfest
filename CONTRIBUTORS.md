@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kirill Shilov](https://github.com/tvixxx)
+ - Place: Izhevsk, Russia
+ - Bio: Frontend Developer
+ - GitHub: [tvixxx](https://github.com/tvixxx)
