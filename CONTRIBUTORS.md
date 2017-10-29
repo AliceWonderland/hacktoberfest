@@ -9,7 +9,7 @@
  - GitHub: [byteme](https://github.com/tejassateesh)
  
  #### Name: [Leon Todd](https://github.com/leontodd)
- - Place: Leicester, UK
+ - Place: Leicester, UK.
  - Bio: Computer Science @ University of Leicester
  - GitHub: [Leon Todd](https://github.com/leontodd)
 
