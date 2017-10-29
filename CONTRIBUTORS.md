@@ -10,7 +10,7 @@
  
 #### Name: [Pui Lam](https://github.com/pc592/)
 - Place: New York, USA
-- Bio: Computer Scientist @ Cornell University
+- Bio: Student @ Cornell University
 - GitHub: [Pui Lam](https://github.com/pc592/)
  
  #### Name: [Leon Todd](https://github.com/leontodd)
