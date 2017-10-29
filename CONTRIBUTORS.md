@@ -352,6 +352,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+### Name: [Louai Hassan](https://github.com/lhassan18)
+- Place: NJ, USA
+- Bio: Senior at Rutgers University
+- Github: [Louai Hassan](https://github.com/lhassan18)
+
 #### Name: [Prateek Pandey](https://github.com/prateekpandey14)
 - Place: Bangalore, India
 - Bio: Opensource Enthusiast, Opensource Golang developer
