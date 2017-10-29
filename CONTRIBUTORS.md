@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Rodrigo Orem](https://github.com/rodorgas)
+- Place: São Paulo (SP), Brazil
+- Bio: Software Developer
+- GitHub: [rodorgas](https://github.com/rodorgas) (that's redundant, right?)
