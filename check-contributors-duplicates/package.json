@@ -1,0 +1,10 @@
+{
+  "name": "duplicateCheck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "lodash": "^4.17.4"
+  }
+}
