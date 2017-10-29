@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Pratik Joshi](https://github.com/pratjosh)
+- Place: Chandigarh, India
+- Bio: Student at UIET, Panjab University
+- GitHub: [pratjosh](https://github.com/pratjosh)
