@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Prathyakshun Rajashankar](https://github.com/https://github.com/prathyakshun)
+- Place: Hyderabad, India
+- Bio: Software Developer, Student at International Institute of Information Technology Hyderabad
+- GitHub: [prathyakshun](https://github.com/prathyakshun)
