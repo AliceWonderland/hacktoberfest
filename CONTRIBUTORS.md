@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ronit Maitra](https://github.com/zonex99)
+- Place: Jalpaiguri
+- Bio: JGEC CSE Student
+- GitHub: [zonex99](https://github.com/zonex99)
