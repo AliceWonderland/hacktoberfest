@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Prashant Lokhande](https://github.com/lprashant-94)
+ - Place: Pune, India
+ - Bio: Computer Science @ PICT
+ - GitHub: [Prashant](https://github.com/lprashant-94)
+
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
