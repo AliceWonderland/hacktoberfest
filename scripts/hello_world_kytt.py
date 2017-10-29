@@ -1,5 +1,5 @@
 // LANGUAGE: python
-// ENV: hello.py
+// ENV: python3.5
 // AUTHOR: Kittinan Ounlum
 // GITHUB: https://github.com/kytt
 
