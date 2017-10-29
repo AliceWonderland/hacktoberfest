@@ -1,3 +1,9 @@
+#### Name: [Esau Silva](https://github.com/esausilva)
+- Place: Mission, TX
+- Bio: Full Stack Software Engineer working with Microsoft technologies, ReactJS is awesome and avid Brazilian Jiu-Jitsu practitioner
+- GitHub: [Esau Silva](https://github.com/esausilva)
+- Website: [Blog](http://esausilva.com/)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
