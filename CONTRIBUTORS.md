@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Pavel Drankov](https://github.com/Sammers21)
+- Place: Moscow, Russia
+- Bio: Software Developer 
+- GitHub: [Sammers21](https://github.com/Sammers21)
