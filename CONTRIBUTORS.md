@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Amber Johnson](https://github.com/amberjohnsonsmile)
+- Place: Fort Collins, CO, USA
+- Bio: Web Developer, Student at Galvanize
+- GitHub: [amberjohnsonsmile](https://github.com/amberjohnsonsmile)
