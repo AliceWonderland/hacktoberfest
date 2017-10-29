@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Zakharov Sergey](https://github.com/Zakhse)
+- Place: Moscow, Russia
+- Bio: Web Developer, Student at Higher School of Economics, Faculty of Computer Science
+- GitHub: [Zakhse](https://github.com/Zakhse)
