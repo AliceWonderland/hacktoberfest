@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Pallavi Chugh](https://github.com/pallavichugh)
+- Place: New Delhi , India
+- Bio: Software Developer
+- GitHub: [pallavichugh](https://github.com/pallavichugh)
