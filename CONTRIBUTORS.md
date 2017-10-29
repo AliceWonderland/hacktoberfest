@@ -98,7 +98,7 @@
 - Starup: [EndorseU](http://www.endorseu.com)
 
 #### Name: [DAVE HOWSON](https://github.com/davehowson)
- - Place: Kandy, Sri Lanka
+ - Place: Kandy, Sri Lanka.
  - Bio: Software Engineering Student/ Web Developer
  - GitHub: [davehowson](https://github.com/davehowson)
 
