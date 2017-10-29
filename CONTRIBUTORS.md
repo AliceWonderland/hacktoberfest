@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Vatitov Gennadiy](https://github.com/Alexsandra-Ryu)
+- Place: Moscow, Russia
+- Bio: Full Stack Web Developer
+- GitHub: [Alexsandra-Ryu](https://github.com/Alexsandra-Ryu)
