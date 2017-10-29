@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Aashay](https://github.com/aashay201297)
+ - Place: Delhi, India
+ - Bio: hacktoberfest is love
+ - GitHub: [aashay](https://github.com/aashay201297)
