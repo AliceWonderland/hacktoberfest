@@ -1,4 +1,4 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
+﻿#### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
@@ -1936,6 +1936,7 @@ Noida
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
 
+<<<<<<< HEAD
 #### Name: [Ipaye Alameen](https://github.com/ipaye)
 - Place: Lagos, Nigeria
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
@@ -16667,3 +16668,18 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kittinan Ounlum](https://github.com/kytt)
+- Place: Bangkok, Thailand
+- Bio: Student at KMITL
+- GitHub: [kytt](https://github.com/kytt)
+=======
+#### Name: [Olof Jondelius](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Architect
+- Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+>>>>>>> 8c8083f063f4e78088ad338b36461a14924800a6
