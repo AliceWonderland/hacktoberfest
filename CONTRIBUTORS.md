@@ -1,3 +1,8 @@
+#### Name: [Kusal Kahaduwa](https://github.com/kusalhasintha)
+- Place: Narawala, Poddala, Sri Lanka
+- Bio: Undergraduate in Software Engineering.
+- GitHub: [Kusal Kahaduwa](https://github.com/kusalhasintha)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
