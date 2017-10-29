@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Widhi Hanantyo Suryadinata](https://github.com/widhihanantyo)
+- Place: Semarang, central Java, Indoneisa
+- Bio: Student
+- GitHub: [widhihanantyo](https://github.com/widhihanantyo)
