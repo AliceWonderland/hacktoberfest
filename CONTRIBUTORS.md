@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Varun Joshi] (https://github.com/varunjoshi29)
+- Place: Pune, India
+- Bio: Beginner
+- GitHub: [varunjoshi29](https://github.com/varunjoshi29)
+
