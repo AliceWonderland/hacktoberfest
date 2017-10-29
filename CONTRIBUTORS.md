@@ -16671,4 +16671,4 @@ to explore life. Also, Python and Django Developer
 #### Name: [Pratik Joshi](https://github.com/pratjosh)
 - Place: Chandigarh, India
 - Bio: Student at UIET, Panjab University
-- GitHub: [fedesassone](https://github.com/pratjosh)
+- GitHub: [pratjosh](https://github.com/pratjosh)
