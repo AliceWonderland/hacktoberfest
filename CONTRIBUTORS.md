@@ -137,6 +137,11 @@
  - Bio: Entrepreneur, product manager, traveller
  - Github: [colinzhang](https://github.com/colinzhang)
 
+#### Name: [Santosh Bhdandari](https://github.com/Botseer)
+- Place: Kathmandu, Nepal
+- Bio: A computer enginnering student with extreme interest in computers
+- GitHub: [Santosh Bhdandari](https://github.com/Botseer)
+
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
 - Bio: Blockchain and Fullstack Web Developer
