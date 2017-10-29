@@ -16632,7 +16632,7 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
-
+https://github.com/AliceWonderland/hacktoberfest/edit/master/CONTRIBUTORS.md
 #### Name: [Namish Pruthi](https://github.com/namish800)
 - Place: India
 - Bio: Developer
@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+#### Name: [adarsh ramesh](https://github.com/adarshramesh1)
+- Place: kerala, india
+- Bio: begginer
+- Place: kerala, india
+- GitHub: [adarshramesh1](https://github.com/adarshramesh1)
