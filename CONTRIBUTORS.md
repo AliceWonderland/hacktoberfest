@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Aritra Basu](https://github.com/aritra24)
+ - Place: Hyderabad, India
+ - Bio: Student
+ - GitHub: [aritra24](https://github.com/aritra24)
