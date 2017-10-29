@@ -22,6 +22,11 @@
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+ #### Name: [Mohd Hamza](https://github.com/mdh30)
+ - Place: Patna, India
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :chicken:
+ - GitHub: [mdh30](https://github.com/mdh30)
+
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
