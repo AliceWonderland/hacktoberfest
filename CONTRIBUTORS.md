@@ -1,3 +1,8 @@
+#### Name: [Samuel Hallam](https://github.com/SamuelHallam)
+- Place: England, UK
+- Bio: Learning backend Python
+- GitHub: [SamuelHallam](https://github.com/SamuelHallam)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
