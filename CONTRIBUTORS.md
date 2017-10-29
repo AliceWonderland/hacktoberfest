@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [João Gabriel](https://github.com/jgbrittos)
+- Place: Brasília, Brasil
+- Bio: Software Engineer, iOS Developer, WuShu lover
+- Github: [jgbrittos](https://github.com/jgbrittos)
