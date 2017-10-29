@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Rizul Garg](https://github.com/RizulGarg)
+- Place: Delhi, India
+- Bio: Information Technology @ Delhi Technological University
+- Github: [RizulGarg](https://github.com/RizulGarg)
