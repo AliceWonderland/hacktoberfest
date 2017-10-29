@@ -408,6 +408,11 @@
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
 
+#### Name: [Fiery Nein](https://github.com/fierynein)
+ - Place: Kuala Lumpur, Malaysia
+ - Bio: Learning Web Dev & Design
+ - GitHub: [FieryNein](https://github.com/fieryNein)
+
 #### Name: [Nefari0uss](https://github.com/nefari0uss)
 - Place: USA
 - Bio: Gamer, developer, and open source enthusiast!
