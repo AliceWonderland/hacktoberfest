@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Victoria Lester](https://github.com/Lest-V)
+- Place: Chicago, Illinois, USA
+- Bio: Research and Analytics Specialist, Graduate Student
+- GitHub: [Lest-V](https://github.com/Lest-V)
