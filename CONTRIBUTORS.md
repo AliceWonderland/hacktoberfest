@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ashutosh Mishra](https://github.com/ashutosh1789)
+ - Place: Hyderabad, India
+ - Bio: Senior Software Developer, Oracle
+ - GitHub: [ashutosh1789](https://github.com/ashutosh1789)
