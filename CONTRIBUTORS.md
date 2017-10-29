@@ -8,6 +8,11 @@
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
  
+ #### Name: [C V](https://github.com/BreakfastWithMe)
+- Place: OC, CA, USA
+- Bio: Geologist
+- GitHub: [BreakfastWithMe](https://github.com/BreakfastWithMe)
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
