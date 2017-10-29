@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Juan Barros](https://github.com/JuanBarros2)
+- Place: Campina Grande, Paraíba, Brazil
+- Bio: Estudante de Ciência da Computação
+- GitHub: [JuanBarros2](https://github.com/JuanBarros2)
