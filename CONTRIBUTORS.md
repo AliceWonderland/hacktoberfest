@@ -13,6 +13,11 @@
  - Bio: Computer Science @ University of Leicester
  - GitHub: [Leon Todd](https://github.com/leontodd)
 
+#### Name: [Daniel Lim](https://github.com/NYDanielLim)
+- Place: Georgia, United States of America
+- Bio: Computer Engineering @ University of Georgia
+- GitHub: [NYDanielLim](https://github.com/NYDanielLim)
+
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
  - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
