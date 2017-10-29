@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Beso Tskhvediani](https://github.com/beso94)
+- Place: Tbilisi, Georgia
+- Bio: Web Developer
+- GitHub: [beso94](https://github.com/beso94)
