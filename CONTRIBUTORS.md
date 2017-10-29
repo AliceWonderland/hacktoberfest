@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Mahendra Sure](https://github.com/MahendraSure)
+- Place: Hyderabad, INDIA
+- Bio: Full Stack Web Developer
+- GitHub: [MahendraSure](https://github.com/MahendraSure)
