@@ -1205,6 +1205,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Coffee addict, dog person, developer.
 - GitHub: [Andrea Stringham](https://github.com/astringham)
 
+#### Name: [Charchit Sharma](https://github.com/charchit7)
+- Place: Jaipur,India
+- Bio: associate product manager.
+- GitHub: [Charchit Sharma](https://github.com/charchit7)
+
 #### Name: [coastalchief](https://github.com/coastalchief)
 - Place: Germany
 - Bio: dev
