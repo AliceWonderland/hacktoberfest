@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Lucas de Carvalho Rodrigues da Silva](https://github.com/zsinx6)
+- Place: São Carlos, São Paulo, Brazil
+- Bio: Developer
+- Github: [zSinx6](https://github.com/zsinx6)
+
