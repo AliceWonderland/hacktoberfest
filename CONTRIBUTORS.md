@@ -21,6 +21,11 @@
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
+ 
+#### Name: [Ananda Aguiar](https://github.com/anandinha)
+ - Place: Manaus (AM), Brazil
+ - Bio: Computer Enginnering @ Federal University of Amazonas, UFAM
+ - GitHub: [Anandinha](https://github.com/anandinha)
 
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
