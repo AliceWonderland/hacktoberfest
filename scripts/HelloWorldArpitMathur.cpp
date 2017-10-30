@@ -1,3 +1,8 @@
+// LANGUAGE: C++
+// ENV: Devcpp
+// AUTHOR: Arpit Mathur
+// GITHUB: https://github.com/MrMathur
+
 #include <iostream>
 #include <conio.h>
 
