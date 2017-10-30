@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Pushkar Sharma](https://linkedin.com/in/thePsguy)
+ - Place: New Delhi, India
+ - Bio: iOS Developer 
+ - GitHub: [lulabell](https://github.com/thePsguy)
