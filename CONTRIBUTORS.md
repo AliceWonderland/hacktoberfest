@@ -113,6 +113,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Ankit Bansal](https://github.com/ankitbansal478)
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Ankit Bansal](https://github.com/ankitbansal478
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
