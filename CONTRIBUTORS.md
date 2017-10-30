@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Derik Evangelista](https://github.com/kirederk)
+- Place: London, United Kingdom
+- Bio: Software Developer at Pivotal
+- GitHub: [kirederik](https://github.com/kirederik)
