@@ -1,3 +1,8 @@
+#### Name: [Yash Shinde](https://github.com/yashinde)
+ - Place: Roorkee, India
+ - Bio: Graphic Designer
+ - GitHub: [yashinde](https://github.com/yashinde)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
