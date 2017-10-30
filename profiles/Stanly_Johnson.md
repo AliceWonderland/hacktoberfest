@@ -2,4 +2,5 @@
 
 - Open Source Enthusiast
 
-- GITHUB: [Stanly Johnson](https://github.com/stanly-johnson) 
+- Github: [Stanly Johnson](https://github.com/stanly-johnson) 
+- Website : [stanlyjohnson.me](https://stanlyjohnson.me)
