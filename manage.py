@@ -10,6 +10,7 @@ python3 manage.py
 
 PS: DO NOT USE PYTHON 2
 """
+import re
 
 def format_contributor(contrib):
     """
@@ -31,11 +32,11 @@ def format_contributor(contrib):
 with open('CONTRIBUTORS.md', 'r+') as file:
     new_file_data = []
     for line in file.readlines():
+        line = re.sub('^#{1,3} ', '#### ', line)
         if(line.startswith(' ##')):
             new_file_data.append(line.lstrip())
         else:
             new_file_data.append(line)
-        line.replace('###', '####')
     file.seek(0)
     file.truncate()
     file.writelines(new_file_data)
