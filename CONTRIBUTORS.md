@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -4042,9 +4042,9 @@ Noida
 - Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
 - GitHub: [Peppertech](https://github.com/peppertech)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
  #### Name: [Narendra Pal](https://github.com/npcoder2k14)
@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Hendra Huang](https://github.com/Hendra-Huang)
+ - Place: Jakarta, Indonesia
+ - Bio: Software Engineer
+ - GitHub: [hendra-huang](https://github.com/Hendra-Huang)
