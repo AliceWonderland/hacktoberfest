@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Juliana Karoline](https://github.com/julianaklulo)
+- Place: São Carlos, São Paulo, Brazil
+- Bio: PyLadies São Carlos Cofounder, IoT entusiast and cat lady :3
+- GitHub: [julianaklulo](https://github.com/julianaklulo)
