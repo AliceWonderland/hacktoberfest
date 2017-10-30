@@ -16680,4 +16680,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
+### Name: Nishanth2358(https://github.com/nishanth2358)
+- Place: hyderabad, India
+-Bio : student
+- Github: nishanth2358(https://github.com/nishanth2358)
