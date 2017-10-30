@@ -25,4 +25,4 @@ Maharaja Agrasen Institute of technology,Delhi
 
 ### Profile Link
 
-[Akram Rameez](https://github.com/akram-rameez)
+[Sgarg24](https://github.com/sgarg24)
