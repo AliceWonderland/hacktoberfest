@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name:[Shubhangi Misra](https:github.com/Shubhangimisra)
+- Place :India
+- Bio: Student,Open source enthusiast
+- Github: [Shubhangi Misra](https:github.com/Shubhangimisra)
+
