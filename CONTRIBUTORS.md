@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [nadunij](https://github.com/nadunij)  
+ - Place: Katugasthota, Sri Lanka  
+ - Bio: Learning Web Dev & Design  
+ - GitHub: [lulabell](https://github.com/nadunij)  
+ 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
