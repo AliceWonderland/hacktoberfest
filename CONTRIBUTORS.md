@@ -1,3 +1,8 @@
+#### Name:[Ankit Gupta](https://github.com/Ayan137)
+ - Place: Delhi, India
+ - Bio: undergrad at DTU
+ - GitHub: [Ankit Gupta](https://github.com/Ayan137)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
