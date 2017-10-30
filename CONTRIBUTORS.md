@@ -311,6 +311,11 @@
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [Codepy](https://github.com/Codepy)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
+  - Github: [Codepy](https://github.com/codepy)
+
 #### Name: [Vishal](https://dainvinc.github.io)
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.
@@ -8274,6 +8279,6 @@ to explore life. Also, Python and Django Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
 #### Name: [Rahul Sharma](https://github.com/rahulcode22)
-- Place: Badarpur, Delhi, India
+- Place: Delhi, India
 - Bio: Coder
 - Github: [Rahul Sharma](https://github.com/rahulcode22)
