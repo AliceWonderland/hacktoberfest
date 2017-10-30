@@ -25,6 +25,10 @@
  #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
+  
+ #### Name: [Mario Hirotoshi](https://github.com/riverm4n)
+  - Place: Manaus (AM), Brasil
+  - Bio: Computer Science @ UFAM
 
 #### Name: [Omid Nikrah](https://github.com/omidnikrah)
  - Place: Tehran, Tehran, Iran
