@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Rachana Solanki] (https://github.com/RanchoDbest)
+- Place: Ahmedabad, Gujarat , India
+- Bio: Andriod Developer
+- GitHub: [RanchoDbest](https://github.com/RanchoDbest)
