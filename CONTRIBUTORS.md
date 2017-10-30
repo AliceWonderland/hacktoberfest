@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Long Nguyen Thanh](https://github.com/longkeng)
+- Place: Tokyo, Japan
+- Bio: Android/iOS Game Developer
+- GitHub: [longkeng](https://github.com/longkeng)
