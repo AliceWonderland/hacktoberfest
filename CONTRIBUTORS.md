@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Reda Loukil](https://github.com/itepifanio)
+- Place: Oran ,Algeria
+- Bio: Web developer Js and Python
+- Github: [Redaloukil](https://github.com/Redaloukil)
