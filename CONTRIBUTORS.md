@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Errazudin](https://github.com/errazudin)
+- Place: Kuala Selangor, Selangor, Malaysia
+- Bio: Developer, Dreamer
+- GitHub: [errazudin](https://github.com/errazudin)
