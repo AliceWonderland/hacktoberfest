@@ -4842,6 +4842,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I Love Code and Design.
 - GitHub: [Egi Nugraha](https://github.com/eginugraha)
 
+#### Name: [Ekaterina Sterzhanova](https://github.com/TheSun08)
+- Place: Minsk, Belarus
+- Bio: Lyceum BSU Student
+- GitHub: [TheSun08](https://github.com/TheSun08)
+
 #### Name: [Elan Ripley](https//github.com/tattarrattat)
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
