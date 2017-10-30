@@ -1,3 +1,8 @@
+#### Name: [Rishiraj Purohit](https://github.com/rpLogicode)
+ - Place: Gujarat, India
+ - Bio: Backend developer and Android enthusiast
+ - GitHub: [Rishiraj Purohit](https://github.com/rpLogicode)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
