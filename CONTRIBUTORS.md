@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [sspd5](https://github.com/sspride5)
+- Place: Chicago, IL
+- Bio: New to programming
+- Github: [sspride5](https://github.com/sspride5)
