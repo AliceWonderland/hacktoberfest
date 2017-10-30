@@ -1,3 +1,8 @@
+#### Name: Vallenain
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -1194,11 +1199,6 @@ to explore life. Also, Python and Django Developer
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
 
-### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
-
 #### Name: [Alex Blum](https://github.com/alexblum)
  - Place: Germany
  - Bio: Webdeveloper
@@ -1207,6 +1207,16 @@ to explore life. Also, Python and Django Developer
 ﻿
 
 #### Name: [Alex Choi](https://github.com/running-cool)
+ - Place: Athens, GA
+ - Bio: Student
+ - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Alex Choi](https://github.com/running-cool)
+ - Place: Athens, GA
+ - Bio: Student
+ - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
@@ -1461,80 +1471,40 @@ to explore life. Also, Python and Django Developer
 - Bio: Lead Mobile Developer
 - Github: [Alvin Abia](https://github.com/twist295)
 
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+#### Name: [Alvin Abia](https://github.com/twist295)
+- Place: NY, USA
+- Bio: Lead Mobile Developer
+- Github: [Alvin Abia](https://github.com/twist295)
 
 #### Name: [Alvin Abia](https://github.com/twist295)
 - Place: NY, USA
 - Bio: Lead Mobile Developer
 - Github: [Alvin Abia](https://github.com/twist295)
 
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+#### Name: [Alvin Abia](https://github.com/twist295)
+- Place: NY, USA
+- Bio: Lead Mobile Developer
+- Github: [Alvin Abia](https://github.com/twist295)
 
 #### Name: [Alvin Abia](https://github.com/twist295)
 - Place: NY, USA
 - Bio: Lead Mobile Developer
 - Github: [Alvin Abia](https://github.com/twist295)
 
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+#### Name: [Alvin Abia](https://github.com/twist295)
+- Place: NY, USA
+- Bio: Lead Mobile Developer
+- Github: [Alvin Abia](https://github.com/twist295)
 
 #### Name: [Alvin Abia](https://github.com/twist295)
 - Place: NY, USA
 - Bio: Lead Mobile Developer
 - Github: [Alvin Abia](https://github.com/twist295)
 
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
-
 #### Name: [Alvin Abia](https://github.com/twist295)
 - Place: NY, USA
 - Bio: Lead Mobile Developer
 - Github: [Alvin Abia](https://github.com/twist295)
-
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
-
-#### Name: [Alvin Abia](https://github.com/twist295)
-- Place: NY, USA
-- Bio: Lead Mobile Developer
-- Github: [Alvin Abia](https://github.com/twist295)
-
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
-
-#### Name: [Alvin Abia](https://github.com/twist295)
-- Place: NY, USA
-- Bio: Lead Mobile Developer
-- Github: [Alvin Abia](https://github.com/twist295)
-
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
-
-#### Name: [Alvin Abia](https://github.com/twist295)
-- Place: NY, USA
-- Bio: Lead Mobile Developer
-- Github: [Alvin Abia](https://github.com/twist295)
-
-### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
-- Place: Miami, Florida, USA
-- Bio: CS Student at Florida International University
-- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
 
 #### Name: [Amlaan Bhoi](https://github.com/amlaanb)
 - Place: IL, USA
@@ -2626,6 +2596,46 @@ to explore life. Also, Python and Django Developer
 - Bio: A guy that loves writing bots and automation.
 - GitHub: [Ben Smith](https://github.com/ben-w-smith)
 
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
+#### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+- Place : Paris, FR
+- Bio: Devops, Gamer and fun
+- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+
 #### Name: [Bennett Treptow](https://github.com/bennett-treptow)
 - Place: Milwaukee, WI, USA
 - Bio: Computer Science Major / Web Developer
@@ -2801,6 +2811,86 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Branden] (https://github.com/redbeardaz)
+- Place: Phoenix, AZ
+- Bio: Customer Success Manager
+- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
+#### Name: [Brandon Fadairo](https://github.com/BFadairo)
+- Place: Columbus, Ohio
+- Bio: A guy looking to change career fields
+- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+
 #### Name: [Brane](https://github.com/brane)
 - Place: Turkey
 - Bio: I am a caffeine based artificial life form.
@@ -3272,6 +3362,46 @@ to explore life. Also, Python and Django Developer
 - Place: Seattle, WA, USA
 - Bio: I love open source and coffee! New grad looking for work!
 - GitHub: [Campion Fellin](https://github.com/campionfellin)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
+
+#### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
+- Place: Miami, Florida, USA
+- Bio: CS Student at Florida International University
+- GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
 
 #### Name: [Casey Schroeder] (https://github.com/cdschroeder)
 - Place: Cincinnati, OH, USA
@@ -3483,80 +3613,40 @@ to explore life. Also, Python and Django Developer
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+#### Name: [Chris Sullivan](https://github.com/codemastermd)
+- Place: College Park, Maryland
+- Bio: Comp Sci student at the University of Maryland
+- GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
 #### Name: [Chris Sullivan](https://github.com/codemastermd)
 - Place: College Park, Maryland
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+#### Name: [Chris Sullivan](https://github.com/codemastermd)
+- Place: College Park, Maryland
+- Bio: Comp Sci student at the University of Maryland
+- GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
 #### Name: [Chris Sullivan](https://github.com/codemastermd)
 - Place: College Park, Maryland
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+#### Name: [Chris Sullivan](https://github.com/codemastermd)
+- Place: College Park, Maryland
+- Bio: Comp Sci student at the University of Maryland
+- GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
 #### Name: [Chris Sullivan](https://github.com/codemastermd)
 - Place: College Park, Maryland
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
-
 #### Name: [Chris Sullivan](https://github.com/codemastermd)
 - Place: College Park, Maryland
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
-
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
-
-#### Name: [Chris Sullivan](https://github.com/codemastermd)
-- Place: College Park, Maryland
-- Bio: Comp Sci student at the University of Maryland
-- GitHub: [Chris Sullivan](https://github.com/codemastermd)
-
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
-
-#### Name: [Chris Sullivan](https://github.com/codemastermd)
-- Place: College Park, Maryland
-- Bio: Comp Sci student at the University of Maryland
-- GitHub: [Chris Sullivan](https://github.com/codemastermd)
-
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
-
-#### Name: [Chris Sullivan](https://github.com/codemastermd)
-- Place: College Park, Maryland
-- Bio: Comp Sci student at the University of Maryland
-- GitHub: [Chris Sullivan](https://github.com/codemastermd)
-
-### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
-- Place: Edmond, OK, United States
-- Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
 
 #### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
 - Place: Germany
@@ -4892,6 +4982,46 @@ to explore life. Also, Python and Django Developer
 - Bio: I am a Christian, gamer, amateur developer and a few other things. I study Aeronautics and Astronautics at University of Southampton.
 - GitHub: [Xorgon](https://github.com/xorgon)
 
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah](https://github.com/raptosaur)
+- Place: Swansea, UK
+- Bio: Studying MEng at Swansea Uni and part time SysAdmin
+- GitHub: [Raptosaur](https://github.com/raptosaur)
+
 #### Name: [Elliot Yun](https://github.com/Ellest)
 - Place: Madison, Wisconsin
 - Bio: SQL Developer looking for an SE role. Aspiring ML Engineer. Check out my github :)
@@ -5242,80 +5372,40 @@ to explore life. Also, Python and Django Developer
 - Bio: FrontEnd Developer
 - GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
+#### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
+- Place: London, United Kingdom
+- Bio: FrontEnd Developer
+- GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
 - GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
+#### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
+- Place: London, United Kingdom
+- Bio: FrontEnd Developer
+- GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
 - GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
+#### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
+- Place: London, United Kingdom
+- Bio: FrontEnd Developer
+- GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
 - GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
-
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
 - GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
-
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
-
-#### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
-- Place: London, United Kingdom
-- Bio: FrontEnd Developer
-- GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
-
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
-
-#### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
-- Place: London, United Kingdom
-- Bio: FrontEnd Developer
-- GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
-
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
-
-#### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
-- Place: London, United Kingdom
-- Bio: FrontEnd Developer
-- GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
-
-### Name: [Elijah](https://github.com/raptosaur)
-- Place: Swansea, UK
-- Bio: Studying MEng at Swansea Uni and part time SysAdmin
-- GitHub: [Raptosaur](https://github.com/raptosaur)
 
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
@@ -6152,73 +6242,33 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai
 - Bio: Loves Data science
 
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+#### Name: [Gowtham](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Loves Data science
 
 #### Name: [Gowtham](https://github.com/gowtham1997)
 - Place: Chennai
 - Bio: Loves Data science
 
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+#### Name: [Gowtham](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Loves Data science
 
 #### Name: [Gowtham](https://github.com/gowtham1997)
 - Place: Chennai
 - Bio: Loves Data science
 
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+#### Name: [Gowtham](https://github.com/gowtham1997)
+- Place: Chennai
+- Bio: Loves Data science
 
 #### Name: [Gowtham](https://github.com/gowtham1997)
 - Place: Chennai
 - Bio: Loves Data science
 
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
-
 #### Name: [Gowtham](https://github.com/gowtham1997)
 - Place: Chennai
 - Bio: Loves Data science
-
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
-
-#### Name: [Gowtham](https://github.com/gowtham1997)
-- Place: Chennai
-- Bio: Loves Data science
-
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
-
-#### Name: [Gowtham](https://github.com/gowtham1997)
-- Place: Chennai
-- Bio: Loves Data science
-
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
-
-#### Name: [Gowtham](https://github.com/gowtham1997)
-- Place: Chennai
-- Bio: Loves Data science
-
-### Name: [Branden] (https://github.com/redbeardaz)
-- Place: Phoenix, AZ
-- Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
@@ -6843,121 +6893,41 @@ to explore life. Also, Python and Django Developer
 - Bio: ♥ opensource ♥
 - GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
+#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
+- Place: Semarang, Indonesia
+- Bio: ♥ opensource ♥
+- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
 #### Name: [Indra Kusuma](https://github.com/idindrakusuma)
 - Place: Semarang, Indonesia
 - Bio: ♥ opensource ♥
 - GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
+#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
+- Place: Semarang, Indonesia
+- Bio: ♥ opensource ♥
+- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
 #### Name: [Indra Kusuma](https://github.com/idindrakusuma)
 - Place: Semarang, Indonesia
 - Bio: ♥ opensource ♥
 - GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
+#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
+- Place: Semarang, Indonesia
+- Bio: ♥ opensource ♥
+- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
 #### Name: [Indra Kusuma](https://github.com/idindrakusuma)
 - Place: Semarang, Indonesia
 - Bio: ♥ opensource ♥
 - GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
-
 #### Name: [Indra Kusuma](https://github.com/idindrakusuma)
 - Place: Semarang, Indonesia
 - Bio: ♥ opensource ♥
 - GitHub: [idindrakusuma](https://github.com/idindrakusuma)
 
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
-
-#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
-- Place: Semarang, Indonesia
-- Bio: ♥ opensource ♥
-- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
-
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
-
-#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
-- Place: Semarang, Indonesia
-- Bio: ♥ opensource ♥
-- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
-
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
-
-#### Name: [Indra Kusuma](https://github.com/idindrakusuma)
-- Place: Semarang, Indonesia
-- Bio: ♥ opensource ♥
-- GitHub: [idindrakusuma](https://github.com/idindrakusuma)
-
-### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
-- Place: Richmond, Virginia, United States
-- Bio: Creator of Alexa Skills and Lex based chatbots
-- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
-
-### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
-- Place: Delhi, India
-- Bio: CS Undergrad
-- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
-
 #### Name: [Ipaye Alameen](https://github.com/ipaye)
 - Place: Lagos, Nigeria
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
@@ -6997,6 +6967,46 @@ to explore life. Also, Python and Django Developer
 - Place: Lagos, Nigeria
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
 - Github: [ipaye] (https://github.com/ipaye)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+
+#### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+- Place: León, Mexico
+- Bio: Software Engineer
+- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
 
 #### Name: [Ishan Jain](https://github.com/ishanjain28)
 - Place: Roorkee, Uttrakhand, India
@@ -7798,80 +7808,40 @@ to explore life. Also, Python and Django Developer
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
 - GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
+#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
+- Place: Mumbai, India
+- Bio: Full-Stack Development, Machine Learning and Having Fun!.
+- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
 #### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 - Place: Mumbai, India
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
 - GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
+#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
+- Place: Mumbai, India
+- Bio: Full-Stack Development, Machine Learning and Having Fun!.
+- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
 #### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 - Place: Mumbai, India
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
 - GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
+#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
+- Place: Mumbai, India
+- Bio: Full-Stack Development, Machine Learning and Having Fun!.
+- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
 #### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 - Place: Mumbai, India
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
 - GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
-
 #### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 - Place: Mumbai, India
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
 - GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
-
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
-
-#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
-- Place: Mumbai, India
-- Bio: Full-Stack Development, Machine Learning and Having Fun!.
-- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
-
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
-
-#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
-- Place: Mumbai, India
-- Bio: Full-Stack Development, Machine Learning and Having Fun!.
-- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
-
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
-
-#### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
-- Place: Mumbai, India
-- Bio: Full-Stack Development, Machine Learning and Having Fun!.
-- GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
-
-### Name: [Matei David](https://github.com/Matei207)
-- Place: Birmingham, UK
-- Bio: BSc Student at University of Birmingham
-- GitHub: [Matei David](https://github.com/Matei207)
 
 #### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
 - Place: Mauritius
@@ -8061,6 +8031,46 @@ to explore life. Also, Python and Django Developer
 - Place: Ernakulam, Kerala, India
 - Bio: Sophomore CS undergraduate, MUNner,  programmer
 - Github : [Joel V Zachariah](https://github.com/JoelVZachariah)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+
+#### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
+- Place: Berlin, Germany
+- Bio: A nice young man who likes web programming!
+- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
 
 #### Name: [John "JB" Brock](https://github.com/peppertech)
 - Place: Seattle, Washington, USA
@@ -8552,80 +8562,40 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
+- Place: Chicoutimi, QC, Canada
+- Bio: Full Stack Developer
+- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
 #### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 - Place: Chicoutimi, QC, Canada
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
+- Place: Chicoutimi, QC, Canada
+- Bio: Full Stack Developer
+- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
 #### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 - Place: Chicoutimi, QC, Canada
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
+#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
+- Place: Chicoutimi, QC, Canada
+- Bio: Full Stack Developer
+- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
 #### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 - Place: Chicoutimi, QC, Canada
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-
 #### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 - Place: Chicoutimi, QC, Canada
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
-
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-
-#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
-- Place: Chicoutimi, QC, Canada
-- Bio: Full Stack Developer
-- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
-
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-
-#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
-- Place: Chicoutimi, QC, Canada
-- Bio: Full Stack Developer
-- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
-
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-
-#### Name: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
-- Place: Chicoutimi, QC, Canada
-- Bio: Full Stack Developer
-- GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
-
-### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
-- Place: León, Mexico
-- Bio: Software Engineer
-- GitHub: [Isaac Torres Michel](https://github.com/isaactorresmichel)
 
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
@@ -9622,21 +9592,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
-### Name: [Alex Choi](https://github.com/running-cool)
- - Place: Athens, GA
- - Bio: Student
- - Github: [running-cool](https://github.com/running-cool)
-
 #### Name: [Luciano Santana dos Santos](https://github.com/lucianosds)
 - Place: Ponta Grossa, PR, Brasil
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
-### Name: [Alex Choi](https://github.com/running-cool)
- - Place: Athens, GA
- - Bio: Student
- - Github: [running-cool](https://github.com/running-cool)
-
 #### Name: [Luis Alducin](https://linkedin.com/luisalduucin)
 - Place: Mexico City
 - Bio: Software Engineer
@@ -9968,20 +9928,10 @@ Noida
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
 
-### Name: [Matheus Lucena](https://github.com/matehuslucena)
-- Place: Brazil
-- Bio: Software Engineer
-- Github: [Matheus Lucena](https://github.com/matehuslucena)
-
 #### Name: [Mandy Real](https://github.com/mandyreal)
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
-
-### Name: [Matheus Lucena](https://github.com/matehuslucena)
-- Place: Brazil
-- Bio: Software Engineer
-- Github: [Matheus Lucena](https://github.com/matehuslucena)
 
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
@@ -10293,6 +10243,46 @@ Noida
 - Bio: Programmer
 - GitHub: [Matan](https://github.com/matan188)
 
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
+#### Name: [Matei David](https://github.com/Matei207)
+- Place: Birmingham, UK
+- Bio: BSc Student at University of Birmingham
+- GitHub: [Matei David](https://github.com/Matei207)
+
 #### Name: [Mateo Pool](https://github.com/IAmMyself)
 - Place: Chattanooga, Tennesse, USA
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
@@ -10372,6 +10362,16 @@ Noida
 - Place: Patrocínio, MG, BRA
 - Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
 - Github: [Mateus Machado](https://github.com/mateusfmachado)
+
+#### Name: [Matheus Lucena](https://github.com/matehuslucena)
+- Place: Brazil
+- Bio: Software Engineer
+- Github: [Matheus Lucena](https://github.com/matehuslucena)
+
+#### Name: [Matheus Lucena](https://github.com/matehuslucena)
+- Place: Brazil
+- Bio: Software Engineer
+- Github: [Matheus Lucena](https://github.com/matehuslucena)
 
 #### Name: [Mathias Pihl](https://github.com/newspaperman57)
 - Place: Aalborg, Denmark
@@ -11543,6 +11543,46 @@ Noida
 - Bio: Student of Software Engineering who likes puzzles.
 - GitHub: [nelsonmestevao](https://github.com/nelsonmestevao)
 
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
+#### Name: [Niall Cartwright](https://github.com/Nairu)
+- Place: Birmingham, UK
+- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
+- GitHub: [Niall Cartwright](https://github.com/Nairu)
+
 #### Name: [Niket Mishra](https://github.com/niketmishra)
 - Place: New Delhi, Delhi, India
 - Bio: B.Tech Student in Information Technology
@@ -11818,81 +11858,41 @@ Noida
 - Bio: JavaScript Developer
 - GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
+#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
+- Place: Lagos, Nigeria
+- Bio: JavaScript Developer
+- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
 #### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
 - Place: Lagos, Nigeria
 - Bio: JavaScript Developer
 - GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
+#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
+- Place: Lagos, Nigeria
+- Bio: JavaScript Developer
+- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
 #### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
 - Place: Lagos, Nigeria
 - Bio: JavaScript Developer
 - GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
+#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
+- Place: Lagos, Nigeria
+- Bio: JavaScript Developer
+- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
 #### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
 - Place: Lagos, Nigeria
 - Bio: JavaScript Developer
 - GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
-
 #### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
 - Place: Lagos, Nigeria
 - Bio: JavaScript Developer
 - GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
 
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
-
-#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
-- Place: Lagos, Nigeria
-- Bio: JavaScript Developer
-- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
-
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
-
-#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
-- Place: Lagos, Nigeria
-- Bio: JavaScript Developer
-- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
-
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
-
-#### Name: [Oluwadamilola Babalola](https://github.com/thedammyking)
-- Place: Lagos, Nigeria
-- Bio: JavaScript Developer
-- GitHub: [Oluwadamilola Babalola](https://github.com/thedammyking)
-
-### Name: [Trevor Meadows](https://github.com/tlm04070)
-- Place: Charlotte, North Carolina.
-- Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
-
 #### Name: [Omar Mujahid](https://github.com/omarmjhd)
 - Place: Austin, Texas, USA
 - Bio: I write code, and play golf!
@@ -12012,6 +12012,46 @@ Noida
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Computer Science student at Puc-Mg ,Music lover
 - GitHub: [OttoWBitt] (https://github.com/OttoWBitt)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
 
 #### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
 - Place: Athens, Greece
@@ -12936,85 +12976,85 @@ Noida
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
 
-#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
-- Place: Gandhinagar,Gujrat, IN
-- Bio: Games and music!
-- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
-#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
-- Place: Gandhinagar,Gujrat, IN
-- Bio: Games and music!
-- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
-#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
-- Place: Gandhinagar,Gujrat, IN
-- Bio: Games and music!
-- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
-#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
-- Place: Gandhinagar,Gujrat, IN
-- Bio: Games and music!
-- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-
-#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
-- Place: Gandhinagar,Gujrat, IN
-- Bio: Games and music!
-- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
-
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+#### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
+- Place: Delhi, India
+- Bio: CS Undergrad
+- GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
 #### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 - Place: Gandhinagar,Gujrat, IN
 - Bio: Games and music!
 - GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+- Place: Gandhinagar,Gujrat, IN
+- Bio: Games and music!
+- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
 #### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 - Place: Gandhinagar,Gujrat, IN
 - Bio: Games and music!
 - GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+- Place: Gandhinagar,Gujrat, IN
+- Bio: Games and music!
+- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
 #### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 - Place: Gandhinagar,Gujrat, IN
 - Bio: Games and music!
 - GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
-### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
-- Place : Paris, FR
-- Bio: Devops, Gamer and fun
-- GitHub: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
+#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+- Place: Gandhinagar,Gujrat, IN
+- Bio: Games and music!
+- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+
+#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+- Place: Gandhinagar,Gujrat, IN
+- Bio: Games and music!
+- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+
+#### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
+- Place: Gandhinagar,Gujrat, IN
+- Bio: Games and music!
+- GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
 #### Name: [Ramón Didier Valdez Yocupicio](https://github.com/xDidier901)
 - Place: Hermosillo, Sonora, México
@@ -13637,80 +13677,40 @@ Noida
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
+- Place: Sri Lanka
+- Bio: Undergraduate
+- GitHub: [Shanaka95](https://github.com/shanaka95)
 
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
+- Place: Sri Lanka
+- Bio: Undergraduate
+- GitHub: [Shanaka95](https://github.com/shanaka95)
 
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
+#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
+- Place: Sri Lanka
+- Bio: Undergraduate
+- GitHub: [Shanaka95](https://github.com/shanaka95)
 
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
-
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
-
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
-
-#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
-- Place: Sri Lanka
-- Bio: Undergraduate
-- GitHub: [Shanaka95](https://github.com/shanaka95)
-
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
-
-#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
-- Place: Sri Lanka
-- Bio: Undergraduate
-- GitHub: [Shanaka95](https://github.com/shanaka95)
-
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
-
-#### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
-- Place: Sri Lanka
-- Bio: Undergraduate
-- GitHub: [Shanaka95](https://github.com/shanaka95)
-
-### Name: [Brandon Fadairo](https://github.com/BFadairo)
-- Place: Columbus, Ohio
-- Bio: A guy looking to change career fields
-- GitHub: [Brandon Fadairo](https://github.com/BFadairo)
 
 #### Name: [Sai Praneeth](https://github.com/saip009)
 - Place: Mumbai, India
@@ -15166,6 +15166,46 @@ Noida
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
 
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
+#### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
+- Place: Richmond, Virginia, United States
+- Bio: Creator of Alexa Skills and Lex based chatbots
+- GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
@@ -15374,6 +15414,46 @@ Noida
 - Place: Springfield, MA, USA
 - Bio: Software Engineering Intern/ Student
 - Github: [tonytran](https://github.com/tonytran)
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
+
+#### Name: [Trevor Meadows](https://github.com/tlm04070)
+- Place: Charlotte, North Carolina.
+- Bio: UNC Charlotte coding bootcamp student.
+- GitHub: [tlm04070](https://github.com/tlm04070);
 
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
@@ -15846,80 +15926,40 @@ Noida
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
+#### Name: [Vishal](https://dainvinc.github.io)
+- Place: New York
+- Bio: Software developer with a knack to learn things quickly.
+- GitHub: [dainvinc](https://github.com/dainvinc)
 
 #### Name: [Vishal](https://dainvinc.github.io)
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
+#### Name: [Vishal](https://dainvinc.github.io)
+- Place: New York
+- Bio: Software developer with a knack to learn things quickly.
+- GitHub: [dainvinc](https://github.com/dainvinc)
 
 #### Name: [Vishal](https://dainvinc.github.io)
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
+#### Name: [Vishal](https://dainvinc.github.io)
+- Place: New York
+- Bio: Software developer with a knack to learn things quickly.
+- GitHub: [dainvinc](https://github.com/dainvinc)
 
 #### Name: [Vishal](https://dainvinc.github.io)
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
-
 #### Name: [Vishal](https://dainvinc.github.io)
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
-
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
-
-#### Name: [Vishal](https://dainvinc.github.io)
-- Place: New York
-- Bio: Software developer with a knack to learn things quickly.
-- GitHub: [dainvinc](https://github.com/dainvinc)
-
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
-
-#### Name: [Vishal](https://dainvinc.github.io)
-- Place: New York
-- Bio: Software developer with a knack to learn things quickly.
-- GitHub: [dainvinc](https://github.com/dainvinc)
-
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
-
-#### Name: [Vishal](https://dainvinc.github.io)
-- Place: New York
-- Bio: Software developer with a knack to learn things quickly.
-- GitHub: [dainvinc](https://github.com/dainvinc)
-
-### Name: [Niall Cartwright](https://github.com/Nairu)
-- Place: Birmingham, UK
-- Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
-- GitHub: [Niall Cartwright](https://github.com/Nairu)
 
 #### Name: [Vo Tan Tho](https://github.com/kensupermen)
 - Place: Ho Chi Minh City, VietNam
@@ -16316,80 +16356,40 @@ Noida
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+#### Name: [Zaki Akhmad](https://github.com/za)
+- Place: Jakarta, Indonesia
+- Bio: Python enthusiasts
+- GitHub: [za](https://github.com/za)
 
 #### Name: [Zaki Akhmad](https://github.com/za)
 - Place: Jakarta, Indonesia
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+#### Name: [Zaki Akhmad](https://github.com/za)
+- Place: Jakarta, Indonesia
+- Bio: Python enthusiasts
+- GitHub: [za](https://github.com/za)
 
 #### Name: [Zaki Akhmad](https://github.com/za)
 - Place: Jakarta, Indonesia
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
+#### Name: [Zaki Akhmad](https://github.com/za)
+- Place: Jakarta, Indonesia
+- Bio: Python enthusiasts
+- GitHub: [za](https://github.com/za)
 
 #### Name: [Zaki Akhmad](https://github.com/za)
 - Place: Jakarta, Indonesia
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
-
 #### Name: [Zaki Akhmad](https://github.com/za)
 - Place: Jakarta, Indonesia
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
-
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
-
-#### Name: [Zaki Akhmad](https://github.com/za)
-- Place: Jakarta, Indonesia
-- Bio: Python enthusiasts
-- GitHub: [za](https://github.com/za)
-
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
-
-#### Name: [Zaki Akhmad](https://github.com/za)
-- Place: Jakarta, Indonesia
-- Bio: Python enthusiasts
-- GitHub: [za](https://github.com/za)
-
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
-
-#### Name: [Zaki Akhmad](https://github.com/za)
-- Place: Jakarta, Indonesia
-- Bio: Python enthusiasts
-- GitHub: [za](https://github.com/za)
-
-### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
-- Place: Berlin, Germany
-- Bio: A nice young man who likes web programming!
-- GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
 
 #### Name: [Zoe Kafkes](https://github.com/zkafkes)
 - Place: Atlanta, Georgia USA
