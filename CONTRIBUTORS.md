@@ -1367,6 +1367,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Rohan Lekhwani](https://github.com/RonLek)
+- Place: Pune, Maharashtra, India.
+- Bio: Student, Learner.
+- Github: [RonLek](https://github.com/Ronlek)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
