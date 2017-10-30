@@ -1,4 +1,9 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
+#### Name: [Ashish Vishwakarma](https://github.com/AshV)
+ - Place: Hyderabad, India, Earth
+ - Bio: Love to get my hands dirty with Interesting tech.
+ - GitHub: [AshV](https://github.com/AshV)
+
+ #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
