@@ -1,8 +1,7 @@
 #### Name: [djippers](https://github.com/djippers)
  - Place: Bishkek, Kyrgyzstan
  - Bio: I'm learning git
- - GitHub: [lulabell](https://github.com/djippers)
-
+ - GitHub: [djippers](https://github.com/djippers)
 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
