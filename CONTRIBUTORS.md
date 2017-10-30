@@ -1,3 +1,8 @@
+#### Name: [Andy Nur](https://github.com/andynur)
+ - Place: Yogyakarta City, Indonesia
+ - Bio: Mentor and Web Developer at QODR
+ - GitHub: [andynur](https://github.com/andynur)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
