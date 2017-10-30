@@ -1,4 +1,4 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
+﻿#### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
@@ -7,7 +7,12 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
+#### Name: [Mysore Rahul](https://github.com/rahulmysore23)
+ - Place: Hyderabad, India
+ - Bio: Computer Science @ BVRITN Narsapur, Guitarist. 
+ - GitHub: [rahulmysore23](https://github.com/rahulmysore23) 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
