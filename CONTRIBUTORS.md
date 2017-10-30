@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Isuru Weeraddana](https://github.com/techn0ish)
+ - Place: Colombo, Sri Lanka
+ - Bio: Software Engineer, Student at University of Westminster
+ - GitHub: [Weeraddana](https://github.com/techn0ish
