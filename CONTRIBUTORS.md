@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Andreolle Dantas](https://github.com/Andreolle/)
+- Place: Rio de Janeiro, Rio de Janeiro, Brazil
+- Bio: Front-end Developer at Agência N1
+- GitHub: [Andreolle](https://github.com/Andreolle/)
