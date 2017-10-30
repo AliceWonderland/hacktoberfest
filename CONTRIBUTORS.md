@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Garrett Walker](https://github.com/garrlker)
+- Place: City, State, Country
+- Bio: Backend Devloper Laravel/PHP
+- GitHub: [garrlker](https://github.com/garrlker)
+
