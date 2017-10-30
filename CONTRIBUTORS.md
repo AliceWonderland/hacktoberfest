@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Anubhav Patel](https://github.com/anubhavp28)
+- Place: Kalyani, India
+- Bio: Undergrad student at IIIT Kalyani, India
+- Github: [Anubhav Patel](https://github.com/anubhavp28)
+
+
