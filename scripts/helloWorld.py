@@ -1,6 +1,7 @@
-// LANGUAGE: Python
-// ENV: Python3.5
-// AUTHOR: Jeremy Montejano
-// GITHUB: https://github.com/slopolot
+# Language: Python
+# AUTHOR: Aswin M Guptha
+# GitHub: https://www.github.com/aswinmguptha
 
-print("Hello World!")
+#!/usr/bin/python2.7
+
+print "Hello, World"
