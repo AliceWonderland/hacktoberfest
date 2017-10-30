@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sally Chin](https://github.com/summerhopes)
+- Place: Singapore
+- Bio: UI/ UX Designer, Student at Singapore Management University
+- GitHub: [summerhopes](https://github.com/summerhopes)
