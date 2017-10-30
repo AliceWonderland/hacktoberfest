@@ -4412,6 +4412,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Self-taught Web developer
 - GitHub: [Dawid Lipinski](https://github.com/lip3k)
 
+#### Name: [Dean H](https://github.com/deanhet)
+- Place: Edinburgh, UK
+- Bio: Front end dev
+- GitHub: [deanhet](https://github.com/deanhet)
+
 #### Name: [Debashish Nayak](https://github.com/theindianotaku)
 - Place: Roorkee, Uttarakhand, India
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
