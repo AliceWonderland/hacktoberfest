@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Christopher Ganda](https://github.com/christopherganda)
+- Place: Medan, North Sumatra, Indonesia
+- Bio: Software Developer, Student at STMIK Mikroskil
+- GitHub: [christopherganda](https://github.com/christopherganda)
