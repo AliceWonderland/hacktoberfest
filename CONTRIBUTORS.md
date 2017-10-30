@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Pradeep Singh](https://github.com/singhkpradeep)
+- Place: New Delhi, India
+- Bio: Web developer PHP and NodeJS
+
