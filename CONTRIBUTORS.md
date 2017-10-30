@@ -1,4 +1,4 @@
-#### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
+﻿#### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
@@ -16680,4 +16680,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Stupy Spyy](https://github.com/Stupyspyy)
+- Place: Kalyani,West Bengal,India
+- Bio: Just starting with smiling {'!'}
+- Github: [Stupy Spyy](https://github.com/Stupyspyy)
 
