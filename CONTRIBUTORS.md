@@ -1,3 +1,8 @@
+#### Name: [Rachit Nagwani](https://github.com/RachitN)
+ - Place: Noida, India
+ - Bio: Learning Web Dev & Design
+ - GitHub: [lulabell](https://github.com/RachitN)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
