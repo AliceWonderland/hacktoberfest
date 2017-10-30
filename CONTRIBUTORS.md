@@ -1,3 +1,7 @@
+#### Name: [Aaditya Varshney](https://github.com/AadityaVarshney)
+ - Place: Delhi, India
+ - Bio: Learning Web Dev & Desigd, Programming
+ - GitHub: [Aaditya Varshney](https://github.com/AadityaVarshney)
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
