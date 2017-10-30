@@ -16667,3 +16667,17 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Bhoomchai L.](https://github.com/bhoomchai)
+- Place: Bangkok, Thailand
+- Bio: Software Engineer
+- GitHub: [bhoomchai](https://github.com/bhoomchai)
+
+#### Name: [Olof Jondelius](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Architect
+- Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
