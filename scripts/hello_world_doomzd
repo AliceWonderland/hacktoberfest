@@ -1,0 +1,11 @@
+// LANGUAGE: C++
+// ENV: CLion
+// AUTHOR: Alex Koryakov
+// GITHUB: https://github.com/DoomzD
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!";
+    return 0;
+}
