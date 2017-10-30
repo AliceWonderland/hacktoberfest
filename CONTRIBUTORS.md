@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Rezha Julio](https://github.com/rezhajulio)
+- Place: Jakarta, Indonesia
+- Bio: Data Enginer at @Traveloka
+- GitHub: [Rezha Julio](https://github.com/rezhajulio)
