@@ -16662,8 +16662,3 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
-
-#### Name: [Michael Chekroun](https://github.com/MikeCkn)
-- Place: Paris, France
-- Bio: Developer Full Stack JS, Student at Simplon.co
-- GitHub: [MikeCkn](https://github.com/MikeCkn)
