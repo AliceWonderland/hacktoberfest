@@ -1,3 +1,10 @@
+#### Name: [ShagiG](https://github.com/ayiht)
+-Place:Colombo,SriLanka
+-Bio:Software engineering
+-Github:[ayith](https://github.com/ayiht)
+
+
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
