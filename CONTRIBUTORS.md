@@ -7993,6 +7993,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Fullstack, devops practitioner
  - GitHub: [turkerdotpy](https://github.com/finalight)
 
+#### Name: [Shantanu Dutta](https://github.com/jiamata)
+ - Place: India
+ - Bio: Beginner
+ - GitHub: [jiamata](https://github.com/jiamata)
+
 #### Name: [Ayushman KB](https://github.com/namhsuya/)
 - Place: Calcutta, India
 - Bio: Life sciences student|Dev|Linux enthusiast
