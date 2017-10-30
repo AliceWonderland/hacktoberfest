@@ -7,4 +7,4 @@ def s(a):
     else:
         return (a+s(a-1))    
 num = 5
-print "Sum of ",num," numbers is ",s(num)
+print "sum of",num," numbers is ",s(num)
