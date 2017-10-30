@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Des Dulianto](http://github.com/desdulianto)
+- Place: Medan, North Sumatra, Indonesia
+- Bio: System Administrator and Hobbyist Programmer
+- GitHub: [desdulianto](https://github.com/desdulianto)
