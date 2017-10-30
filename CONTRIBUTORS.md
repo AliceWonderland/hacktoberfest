@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Dali Szilard](https://github.com/szili9992)
+- Place: Romania
+- Bio: Android Developer
+- GitHub: [szili9992](https://github.com/szili9992)
