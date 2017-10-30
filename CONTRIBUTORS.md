@@ -16667,3 +16667,10 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Gregory Dolan](https://github.com/FelixDavidson)
+- Place: New Jersey, United States
+- Bio: Studying computer science through online courses and books
+- GitHub: [FelixDavidson](https://github.com/FelixDavidson)
+
+- Bio: Software Developer, Student at Universidad de Buenos Aires
