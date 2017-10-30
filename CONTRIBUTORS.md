@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Roman Borovik](https://github.com/RomanBorr)
+- Place: Minsk, Belarus
+- Bio: I'am a student
+- GitHub: [RomanBorr](https://github.com/RomanBorr)
