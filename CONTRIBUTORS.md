@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -16656,7 +16656,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Italo Góis](https://github.com/italogois)
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Front End Developer
-- GitHub: [italogois](https://github.com/italogois)
+- GitHub: [italogois](https://github.co(m/italogois)
 
 #### Name: [Pranjal Singh] (https://github.com/pranjal44)
 - Place: Delhi, India
@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Will Hurley](https://github.com/wjhurley)
+- Place: Everett, WA, United States
+- Bio: Full Stack Web Developer
+- GitHub: [wjhurley](https://github.com/wjhurley)
