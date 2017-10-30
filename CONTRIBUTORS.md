@@ -1625,5 +1625,5 @@ Noida
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
 
 ### Name:[Helithi](https://github.com/helithiga)
--Place:Kandy,Sri lanka
--Github:[Helithi] (https://github.com/helithiga)
+- Place:Kandy,Sri lanka
+- Github:[Helithi] (https://github.com/helithiga)
