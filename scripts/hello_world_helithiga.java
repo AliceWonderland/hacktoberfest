@@ -1,5 +1,5 @@
-// LANGUAGE: Javascript
-// ENV: Node.js
+// LANGUAGE: Java
+// ENV: Node.java
 // AUTHOR: Alice Chuang
 // GITHUB: https://github.com/AliceWonderland
 
