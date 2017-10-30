@@ -16667,3 +16667,9 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kanit Pongteeraroj](https://github.com/Azothblader)
+- Place: Bangkok , Thailand
+- Bio: The lazy C# back-end developer.Sometimes love to find some challenge in life.
+- GitHub: [Azothblader](https://github.com/Azothblader)
+
