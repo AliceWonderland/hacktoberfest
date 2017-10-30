@@ -230,7 +230,7 @@
 #### Name: [Leah Langfrod](https://github.com/leahlang4d2)
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
-- Github: [Leah Langford](https://github.com/leahlang4d2)
+-- Github: [Leah Langford](https://github.com/leahlang4d2)
 
 #### Name: [Eric Nor](https://github.com/thateric)
 - Place: Lake Forest, CA, USA
@@ -16667,3 +16667,5 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+subhradeep dey cazzz
