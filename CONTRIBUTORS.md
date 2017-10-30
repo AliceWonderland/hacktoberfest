@@ -287,6 +287,11 @@
 - Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
 - Github: [Ishan Jain](https://github.com/ishanjain28)
 
+#### Name: [Ashik Meerankutty](https://github.com/ashikmeerankutty)
+- Place: Kerala, India
+- Bio: Computer Science Engineer
+- Github: [Ashik Meerankutty](https://github.com/ashikmeerankutty)
+
 #### Name: [Anupam Dagar](https://github.com/Anupam-dagar)
 - Place: Allahabad, India
 - Bio: I am like a code currently in development.
