@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Dan Hale](https://github.com/danhale05)
+ - Place: Ohio, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [danhale05](https://github.com/danhale05)
