@@ -34,16 +34,13 @@ rmmod hello_world_d-grossman
 
 static struct proc_dir_entry *hello_world_file;
 
-static int
-hello_world_show (struct seq_file *m, void *v)
+static int hello_world_show (struct seq_file *m, void *v)
 {
   seq_printf (m, "%s\n", procfs_msg);
-
   return 0;
 }
 
-static int
-hello_world_open (struct inode *inode, struct file *file)
+static int hello_world_open (struct inode *inode, struct file *file)
 {
   return single_open (file, hello_world_show, NULL);
 }
