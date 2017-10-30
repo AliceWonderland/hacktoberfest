@@ -1,4 +1,4 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
+﻿#### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Emma Ogden](https://github.com/SleepySheepy172)
+- Place: Hertfordshire, UK
+- Bio: Freecodecamp student and collector of arty crafty hobbies 
+- GitHub: [SleepySheepy172](https://github.com/SleepySheepy172)
