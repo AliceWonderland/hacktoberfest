@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Sayali](https://github.com/sayali-pathak)
+ - Place: India
+ - Bio: Computer Science
+ - GitHub: [sayali](https://github.com/sayali-pathak)
+
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
