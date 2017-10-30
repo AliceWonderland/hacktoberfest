@@ -1,3 +1,8 @@
+#### Name: [J.W. Mitchell]<https://github.com/jennwmitchell>
+ - Place: Illinois, USA
+ - Bio: Learning Web Development, paralegal
+ - GitHub: [jennwmitchell]<https://github.com/jennwmitchell>
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
