@@ -1,3 +1,6 @@
+  Name: [Yuvraj Pundir](https://github.com/Kyng13)
+ - Place: Vellore, India
+ - Bio: Learning Web Dev & Design
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
