@@ -16643,6 +16643,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
+#### Name: [David](https://github.com/foryah)
+- Place: Munich, Germany
+- Bio: Making the world a better place using ViM
+- GitHub: [Foryah](https://github.com/foryah)
+
 #### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
