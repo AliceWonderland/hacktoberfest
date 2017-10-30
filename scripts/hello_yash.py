@@ -1,10 +1,9 @@
-#Lang Python2
+#LANGUAGE: Python
+#ENV: Python 2.7 shell
+# AUTHOR: Yash Shinde
+# GITHUB: https://github.com/yashinde
 
-#env Interactive as well as script
 
-#aut Yash Shinde
-
-#github https://github.com/yashinde
 
 print "Hello World"
 
