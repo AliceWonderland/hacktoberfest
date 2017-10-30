@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ekaterina Khorina](https://github.com/mjaffk)
+- Place: Russia
+- Bio: QA Engineer
+- GitHub: [mjaffk](https://github.com/mjaffk)
