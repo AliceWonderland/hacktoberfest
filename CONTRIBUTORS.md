@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Chin Yeong Shern](https://github.com/shern91)
+- Place: Sungai Petani, Kedah, Malaysia
+- Bio: Web Developer, Student at National University of Malaysia
+- GitHub: [shern91](https://github.com/shern91)
