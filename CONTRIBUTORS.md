@@ -1,3 +1,8 @@
+#### Name: [Trinh Dai](https://github.com/daitvd1997)
+ - Place: Ha Noi, VN
+ - Bio: Learning Web Dev
+ - GitHub: [daitvd97](https://github.com/daitvd1997)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
