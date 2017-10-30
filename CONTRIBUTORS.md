@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+#### Name: [charith prasanna](https://github.com/CHARITH1995)
+- Place: ambalangoda, Srilanka
+- Bio: student of software engineering
+- GitHub: [charithprasanna](https://github.com/CHARITH1995)
+
