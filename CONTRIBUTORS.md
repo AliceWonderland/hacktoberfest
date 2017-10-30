@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sasini Edirisinghe](https://github.com/SasiEdirisinghe)
+- Place: NO:01, Goodhope Estate, Batagoda,Horana
+- Bio: Software Enginner, Student at University of WestMinister
+- GitHub: [SasiEdirisinghe](https://github.com/SasiEdirisinghe)
