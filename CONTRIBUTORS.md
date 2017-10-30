@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Varuni Pandey](https://github.com/varunipandey)
+ - Place: Manipal, India
+ - Bio: Computer Science Student 
+ - GitHub: [varunipandey](https://github.com/varunipandey)
+
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
