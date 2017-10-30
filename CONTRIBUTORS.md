@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Wilson Ng](https://github.com/wilson-ng)
+ - Place: Medan, Indonesia
+ - Bio: Backend Website Developer
+ - GitHub: [wilson-ng](https://github.com/wilson-ng)
