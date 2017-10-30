@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Wbeimar Logatto](https://github.com/Logatto)
+- Place: Cúcuta, Norte de Santander, Colombia
+- Bio: Full Stack Developer, System Engineer
+- GitHub: [Logatto](https://github.com/Logatto)
