@@ -357,6 +357,11 @@
 - Bio: Opensource Enthusiast, Opensource Golang developer
 - GitHub: [Prateek Pandey](https://github.com/prateekpandey14)
 
+#### Name: [Bradley Wadsworth](https://github.com/WaddasTwelve)
+- Place: Surrey, UK
+- Bio: Computer Science grad from University of Surrey
+- GitHub: [WaddasTwelve](https://github.com/waddastwelve)
+
 #### Name: [CodHeK](https://github.com/CodHeK)
 - Place: Mumbai, India
 - Bio: Cuber/Coder
