@@ -1,6 +1,6 @@
-#include<stdio.h>
-int main()
-{
-	printf("Hello World !!");
-	return 0;
-}
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Ashik Meerankuuty
+// GITHUB: https://github.com/ashikmeerankutty
+
+console.log("Hello World") 
