@@ -1246,6 +1246,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Alex Koryakov](https://github.com/DoomzD)
+- Place: Russia, Moscow
+- Bio: Student
+- GitHub: [DoomzD](https://github.com/DoomzD)
+
 #### Name: [Alexander Miller](https://github.com/allesmi)
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
