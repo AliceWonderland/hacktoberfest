@@ -1,3 +1,8 @@
+#### Name: [Soubhik Rakshit](https://github.com/soubh1k)
+ - Place: Kolkata, India
+ - Bio: Computer Science @ IIESTS
+ - GitHub: [soubh1k](https://github.com/soubh1k)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
