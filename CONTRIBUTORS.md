@@ -16666,4 +16666,4 @@ to explore life. Also, Python and Django Developer
 #### Name: [Michael Chekroun](https://github.com/MikeCkn)
 - Place: Paris, France
 - Bio: Developer Full Stack JS, Student at Simplon.co
-- GitHub: [fedesassone](https://github.com/MikeCkn)
+- GitHub: [MikeCkn](https://github.com/MikeCkn)
