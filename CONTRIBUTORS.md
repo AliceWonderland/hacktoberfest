@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Felipe Adamoli](https://github.com/felipeadamoli)
+- Place:Pelotas,Brasil
+- Bio: web developer
+- Github: [Felipe Adamoli](https://github.com/felipeadamoli)
