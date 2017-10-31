@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Romit Amgai](https://github.com/romitamgai)
+- Place: Nepal
+- Bio: Programmer/Computer Enthusiast
+- GitHub: [romitamgai](https://github.com/romitamgai)
+
