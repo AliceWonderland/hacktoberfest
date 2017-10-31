@@ -1,3 +1,8 @@
+#### Name: [Nassim BELFEROUM](https://github.com/Snyplife)
+- Place: Roissy-en-Brie, France
+- Bio: Developer Web FullStack JS from Simplon.co
+- GitHub: [Snyplife](https://github.com/Snyplife)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16680,4 +16685,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
