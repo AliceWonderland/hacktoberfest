@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Le Bon Bauma](https://github.com/Sharkzuria)
+- Place:Nairobi, Nairobi, Kenya
+- Bio:Data Scientist?
+- GitHub: [Le Bon Bauma](https://github.com/Sharkzuria)
+
+
