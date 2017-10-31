@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Wanhar Aderta](https://github.com/wanharaderta)
+- Place: Bandung, West Java, Indonesia
+- Bio: Mobile Android Developer
+- GitHub: [Wanhar Aderta](https://github.com/wanharaderta)
+
