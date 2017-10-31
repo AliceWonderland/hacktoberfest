@@ -16686,3 +16686,7 @@ Noida
 - Bio: Student, Open-Source Developer
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Abhishek Tiwari](https://github.com/zeus0789)
+- Place: Kalyani, Kolkata, India
+- Bio: Student, Open-Source Developer
+- Github: [Abhishek Tiwari](https://github.com/zeus0789)
