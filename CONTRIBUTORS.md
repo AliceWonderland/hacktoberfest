@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Blueskyes](https://github.com/Blueskyes)
+- Place: Texas, USA
+- Bio: Student 
+- Github: [Blueskyes](https://github.com/Blueskyes)
