@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [RENALDY](https://github.com/LaurentiusRenaldy)
+- Place: Bandung, Indonesia
+- Bio: iOS Developer
+- GitHub: [Laurentius Renaldy](https://github.com/LaurentiusRenaldy)
