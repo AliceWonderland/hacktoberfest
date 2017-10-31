@@ -16680,4 +16680,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: ThamiduNaveen
+ - Place: kuliyapitiya, SriLanka
+ - Bio: Software engineer. Graduated from Moratuwa.
+ - GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
 
