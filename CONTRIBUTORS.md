@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Claas Tepe](https://github.com/G4dh4r)
+- Place: Braunschweig, Niedersachsen, Deutschland
+- Bio: Student
+- GitHub: [G4dh4r](https://github.com/G4dh4r)
