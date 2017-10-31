@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Praneeth](https://github.com/praneethfdo/)
+- Place: Pambala,Chilaw,Sri Lanka
+- Bio: financial software consultant
+- Github: [Praneeth](https://github.com/praneethfdo/)
