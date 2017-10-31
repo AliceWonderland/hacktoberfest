@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [KLMarcos](https://github.com/KLMarcos)
+- Place: Jundiaí, Brazil
+- Bio: Web developer Delphi and C#
+- Github: [KLMarcos](https://github.com/KLMarcos)
