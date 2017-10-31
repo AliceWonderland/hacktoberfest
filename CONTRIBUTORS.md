@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: India
+- Bio: Student, Open-Source Developer
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
