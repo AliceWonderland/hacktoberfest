@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Ishan Bhardwaj](https://github.com/bhardwajishan)
+- Place: Bangalore, India
+- Bio: Student in Bangalore who knows Javascript
+- Github: [Ishan Bhardwaj](https://github.com/bhardwajishan)
+
