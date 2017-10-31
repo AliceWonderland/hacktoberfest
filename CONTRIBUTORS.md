@@ -1,3 +1,8 @@
+#### Name: [Zaki Khan](https://github.com/Zaki-Khan)
+- Place: Hyderabad, Telangana, India
+- Bio: Software Engineer
+- Github: [Zaki-Khan](https://github.com/Zaki-Khan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
