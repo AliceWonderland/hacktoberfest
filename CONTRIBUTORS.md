@@ -4272,6 +4272,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Software Engineer
  - GitHun: [Dalton](https://github.com/stormBandit)
 
+#### Name: [Damián Rotta](https://github.com/Dipiert)
+ - Place: Misiones, Argentina
+ - Bio: Software Developer
+ - GitHub: [Dipiert](https://github.com/Dipiert)
+ 
 #### Name: [Damodar Lohani](https://github.com/lohanidamodar)
 - Place: Kathmandu, Nepal
 - Bio: Technology Consultant at [LohaniTech](https://lohanitech.com)
