@@ -1,0 +1,6 @@
+// LANGUAGE: Swift
+// ENV: iOS
+// AUTHOR: Renaldy
+// GITHUB: https://github.com/LaurentiusRenaldy
+
+print("Hello, world!")
