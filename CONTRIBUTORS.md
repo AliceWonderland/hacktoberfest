@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Konstantin Ostrovskiy](https://github.com/Grinv)
+- Place: Saint Petersburg, Russia
+- Bio: Web developer JavaScript
+- Github: [Grinv](https://github.com/Grinv)
