@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+ #### Name: [Tahsin Hassan Rahit](https://github.com/rahit)
+  - Place: Dhaka, Bangladesh
+  - Bio: Python, PHP. Research & Development.
+  - GitHub: [Tahsin Hassan Rahit](https://github.com/rahit)
+
+  
