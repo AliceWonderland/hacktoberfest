@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Jeff HOrner](https://github.com/jhorner32)
+- Place: The Woodlands, Texas, United States of America
+- Bio: Web Developer who focuses on Front End Technologies (Javascript heavy)
+- GitHub: [jhorner32](https://github.com/jhorner32)
