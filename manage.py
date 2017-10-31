@@ -52,3 +52,6 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     file.seek(0)
     file.truncate()
     file.writelines(contributors)
+git add .
+git commit -m 'Commit message'
+git push origin abhishe-mishra
