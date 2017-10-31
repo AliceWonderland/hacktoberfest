@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Sören Busse](https://github.com/Waishon)
+- Place: Niedersachsen, Deutschland
+- Bio: Android and PHP developer
+- Github: [Waishon](https://github.com/Waishon)
