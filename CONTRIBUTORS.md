@@ -1476,6 +1476,16 @@ to explore life. Also, Python and Django Developer
 - Bio: Lead Mobile Developer
 - Github: [Alvin Abia](https://github.com/twist295)
 
+#### Name: [Gaurav Tolani](https://github.com/Gauravtolani)
+- Place: Bhilwara, Rajasthan, India
+- Bio: A guy who loves IT.?
+- GitHub: [Gaurav Tolani](https://github.com/Gauravtolani/hacktoberfest)
+
+#### Name: [Gaurav Tolani](https://github.com/Gauravtolani)
+- Place: Bhilwara, Rajasthan, India
+- Bio: A guy who loves IT.?
+- GitHub: [Gaurav Tolani](https://github.com/Gauravtolani/hacktoberfest)
+
 #### Name: [Alvin Abia](https://github.com/twist295)
 - Place: NY, USA
 - Bio: Lead Mobile Developer
