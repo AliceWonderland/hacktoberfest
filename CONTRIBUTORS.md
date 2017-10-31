@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Eduardo Molina](https://github.com/eduardmolina)
+- Place: São Carlos, Brazil
+- Bio: Backend python developer
+- GitHub: [Eduardo Molina](https://github.com/eduardmolina)
