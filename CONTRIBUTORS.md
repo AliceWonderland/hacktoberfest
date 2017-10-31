@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Pickle Rick](https://github.com/picklerick0)
+- Place: rio, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/picklerick0)
+
+
