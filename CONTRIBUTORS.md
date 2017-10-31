@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Affif Mukhlashin](https://github.com/bluemeda)
+- Place: Yogyakarta, Special Region of Yogyakarta, Indonesia
+- Bio: Interior Designer
+- GitHub: [bluemeda](https://github.com/bluemeda)
