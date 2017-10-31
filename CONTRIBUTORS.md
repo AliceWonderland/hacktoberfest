@@ -14869,6 +14869,11 @@ Noida
 - Bio: Developer
 - GitHub: [Galleria](https://github.com/Galleria)
 
+#### Name: [Sarthak Ahuja](https://github.com/sarthakahuja11)
+- Place: New Delhi, India
+- Bio: CSE Student at MIT, Manipal
+- GitHub: [Sarthak Ahuja](https://github.com/sarthakahuja11)
+
 #### Name: [Suryatej Reddy](https://github.com/suryatejreddy)
 - Place: New Delhi, India
 - Bio: CSE Student at IIITD
