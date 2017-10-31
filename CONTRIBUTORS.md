@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Michael Dumalag](https://github.com/michaeldumalag)
+- Place: San Diego, CA, USA
+- Bio: Software Developer (Rails/React), Jiu Jitsu Enthusiast
+- GitHub: [michaeldumalag](https://github.com/michaeldumalag)
