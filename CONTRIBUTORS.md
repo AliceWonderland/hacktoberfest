@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Letícia Fernandes](https://github.com/leticiamara)
+- Place: Fortaleza, Brazil
+- Bio: Android Developer
+- Github: [Letícia Fernandes](https://github.com/leticiamara)
+
