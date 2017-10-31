@@ -11933,6 +11933,11 @@ Noida
 - Bio: I write code, and play golf!
 - GitHub: [Omar Mujahid](https://github.com/omarmjhd)
 
+#### Name: [Omer Yazici](https://github.com/yaziciom)
+- Place: Istanbul, Turkey
+- Bio: Reading and writing
+- GitHub: [Omer Can Yazici](https://github.com/yaziciom)
+
 #### Name: [Omid Nikrah](https://github.com/omidnikrah)
  - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
