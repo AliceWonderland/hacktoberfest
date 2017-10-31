@@ -8597,6 +8597,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
+#### Name: [Justin Bubel](https://github.com/jbubel)
+- Place: TX, USA
+- Bio: Oxford Comma Enthusiast 
+- GitHub: [jbubel] (https://github.com/jbubel)
+
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
