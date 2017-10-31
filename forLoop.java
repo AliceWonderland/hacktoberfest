@@ -9,8 +9,13 @@ public class HelloWorldPadrones {
 
 	public static void main(String[] args) {
 		
+		for(int i=0;i<20;i++){
+			System.out.println( i+ " . Hello World");
+
+		}
+
 		System.out.println("Hello World");
-                 System.out.println("Hello java World ... hehehe :p");
+                 
 
 	}
 
