@@ -11023,6 +11023,11 @@ Noida
 - Bio: CS student aspiring to become a better coder
 - GitHub: [Michelle Uy](https://github.com/breindy/)
 
+#### Name: [Miguh Ruiz](https://github.com/MiguhRuiz/)
+- Place: Spain
+- Bio: 16 y/o young entrepreneur walking through big steps of uncertainty, passion, and code.
+- GitHub: [MiguhRuiz](https://github.com/MiguhRuiz/)
+
 #### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
