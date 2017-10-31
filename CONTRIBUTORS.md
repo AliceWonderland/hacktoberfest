@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ajay Kumar Jogawath](https://github.com/akjogawath)
+- Place: Hyderabad, Telangana, India
+- Bio: Software Developer, Freelancer, Future Entrepreneur
+- GitHub: [akjogawath](https://github.com/akjogawath)
