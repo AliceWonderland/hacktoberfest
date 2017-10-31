@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Andrew Khoma](https://github.com/Izuumka)
+- Place: Lviv, Ukraine
+- Bio: student
+- Github: [Izuumka](https://github.com/Izuumka)
+
