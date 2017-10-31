@@ -1,3 +1,7 @@
+#### Name: [Carolina Guerrero](https://github.com/caroguerrero)
+- Place: Cúcuta, Norte de Santander, Colombia
+- Bio: I'm javascript developer
+- GitHub: [GitHub account name](GitHub link)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -10103,9 +10107,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
