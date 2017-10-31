@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [DavidRojas1612](https://github.com/DavidRojas1612)
+ - Place: Medellín, Colombia
+ - Bio: Estudiante Ing Informatica.
+ - GitHub: [DavidRojas1612](https://github.com/DavidRojas1612)
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
