@@ -12758,6 +12758,11 @@ Noida
 - Bio: EECS Student \@ NorthwesternU
 - GitHub: [PureHyd](https://github.com/PureHyd)
 
+#### Name: [Rafael Díaz](https://github.com/palancana)
+- Place: Barcelona, Barcelona, Spain
+- Bio: Student (UAB) and tech lover.
+- GitHub: [palancana](https://github.com/palancana)
+
 #### Name: [RAFAEL MENEZES](https://github.com/RafaelSa94)
 - Place: Boa Vista, Roraima, Brazil
 - Bio: Computer Science Major
