@@ -8,6 +8,12 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [RORY HAGER](https://github.com/agnieszka-miszkurka)
+- Place: Minneapolis
+- Bio: software development student
+- GitHub: [aurora-hager]
+(https://github.com/aurora-hager)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
