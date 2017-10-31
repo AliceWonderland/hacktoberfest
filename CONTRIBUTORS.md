@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Michael Chekroun](https://github.com/MikeCkn)
+- Place: Paris, France
+- Bio: Developer Full Stack JS, Student at Simplon.co
+- GitHub: [MikeCkn](https://github.com/MikeCkn)
