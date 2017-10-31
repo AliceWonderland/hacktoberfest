@@ -1,9 +1,15 @@
+/*
+ * LANGUAGE: C
+ * AUTHOR: Muhammad Refa
+ * GITHUB: https://github.com/muhammadrefa
+ */
+
 #include <stdio.h>
 
-// Hope this works! :)
-// Muhammad Refa (https://github.com/muhammadrefa)
-
 int main() {
+	// Hope this works! :)
 	printf("Hello, world!");
 	return 0;
 }
+
+
