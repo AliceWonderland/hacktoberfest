@@ -8737,6 +8737,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [g33kcentric](https://github.com/g33kcentric)
 
+#### Name: [Károlyi Péter Márton](https://github.com/nodar86)
+- Place: Budapest, Pest, Hungary
+- Bio: Engineering student
+- GitHub: [nodar86](https://github.com/nodar86)
+
 #### Name: [KUMAR AKSHAY](https://github.com/kakshay21)
 - Place: Indore, Madhya Pradesh, India
 - Bio: Electronics and Communication student.
