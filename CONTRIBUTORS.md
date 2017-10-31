@@ -1,3 +1,8 @@
+#### Name: [Trey Lanzer](https://github.com/TexasBullet26)
+- Place: Dallas, Texas
+- Bio: Self-taught. Some college. First year Hacktoberfest. Just getting used to Git and GitHub.
+- GitHub: [TexasBullet26](https://github.com/TexasBullet26)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16680,4 +16685,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
