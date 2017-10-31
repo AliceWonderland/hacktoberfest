@@ -15041,6 +15041,11 @@ Noida
 - Bio: Developer
 - GitHub: [Nylan17](https://github.com/nylan17/)
 
+#### Name: [Takeaki Yamasaki](https://github.com/takejaw6)
+- Place: Vancouver
+- Bio: Fourth-year student
+- GitHub: [takejaw6](https://github.com/takejaw6)
+
 #### Name: [Taylor Hudson](https://github.com/AllenCompSci)
 - Place: Allen, Texas, USA
 - Bio: Computer Scientist , C++ Developer, Java Developer, NodeJS, High School Computer Science Teacher, Math Teacher, Mathematicain
