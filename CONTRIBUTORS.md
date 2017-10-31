@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Anirudh Emmadi](https://github.com/kanna6501)
+- Place: Texas, USA
+- Bio: Computer science student
+- GitHub: [kanna6501](https://github.com/kanna6501)
