@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Jyotsna Chatrafhi](https://github.com/JyotsnaC)
+- Place: Plano, TX, USA
+- Bio: Full Stack DEveloper?
+- GitHub: [Jyotsna Chatradhi](https://github.com/JyotsnaC)
+
