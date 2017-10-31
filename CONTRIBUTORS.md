@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Sasuek Lem](https://github.com/sasuke109)
+- Place: Phillipines
+- Bio: Learner
+- Github: [Sasuek Lem](https://github.com/sasuke109)
+
+
