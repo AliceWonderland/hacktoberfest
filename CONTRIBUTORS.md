@@ -1,3 +1,8 @@
+#### Name: Anuj Raval
+ - Place: Gujarat , India
+ - Bio: Computer Engineering ,@ Alpha College .
+ - GitHub: [Anuj Raval](https://github.com/Anujraval24)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
