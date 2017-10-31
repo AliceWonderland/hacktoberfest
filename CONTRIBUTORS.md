@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Juliana Stepanova](https://github.com/ptishon)
+- Place: Dortmund, Germany
+- Bio: Scrum Master at IT company
+- GitHub: [Ptishon](https://github.com/ptishon)
