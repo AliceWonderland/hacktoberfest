@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Alex Collins](https://github.com/alexjcollins)
+- Place: Maidstone, United Kingdom
+- Bio: Web Designer
+- Github: [alexjcollins](https://github.com/alexjcollins)
+
