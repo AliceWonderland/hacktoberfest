@@ -5,3 +5,8 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
   print("Hello world!")
   return true   
 }
+
+// LANGUAGE: Swift
+// ENV: XCode
+// AUTHOR: Cameron Francis
+// GITHUB: https://github.com/CameronFc
