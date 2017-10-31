@@ -8,6 +8,11 @@
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
  
+#### Name: [Sukhpreet Judge](https://github.com/SukhpreetJudge)
+ - Place: Washington, USA
+ - Bio: Computer Science student
+ - GitHub: [Sukhpreet Judge](https://github.com/SukhpreetJudge)
+ 
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
