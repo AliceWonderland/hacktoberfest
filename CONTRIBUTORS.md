@@ -16681,7 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: Yist Lin
+#### Name: [Yist Lin](https://github.com/yistLin)
 - Place: Taipei, Taiwan
 - Bio: CS student in NTU
 - GitHub: [yistLin](https://github.com/yistLin)
