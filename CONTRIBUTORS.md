@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Denis Oliveira](https://github.com/denisolvr)
+- Place: Dublin, Ireland
+- Bio: Web developer PHP
+- GitHub: [denisolvr](https://github.com/denisolvr)
