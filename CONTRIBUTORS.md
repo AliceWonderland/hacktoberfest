@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: Phil
+ - Place: Florida
+ - Bio: learning Javascript
+- GitHub: [philliplaibe](https://github.com/philliplaibe)
+
