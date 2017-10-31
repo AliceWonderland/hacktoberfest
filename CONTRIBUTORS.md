@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Nikita Lozhnikov](https://github.com/npenzin)
+- Place: Innopolis, Russia
+- Bio: Ruby, Bitcoin, Machine Learning
+- GitHub: [npenzin](https://github.com/npenzin)
+
+
