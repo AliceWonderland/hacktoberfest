@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Akshay Sharma](https://github.com/akshaysharma2277)
+- Place: Jaipur , India
+- Bio: Web developer PHP and Python
+- Github: [Akshay Sharma](https://github.com/akshaysharma2277)
