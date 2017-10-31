@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Ketul Patani](https://github.com/ke2ulpatani)
+- Place: Mumbai, India
+- Bio: DevOps
+- Github: [Ketul Patani](https://github.com/ke2ulpatani)
