@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Sam Collins](https://github.com/itepifanio)
+- Place: Maidstone, Kent
+- Bio: Web developer PHP and Python
+- Github: [MightySCollins](https://github.com/MightySCollins)
