@@ -5,5 +5,6 @@ github https://github.com/anshucollege*/
 #include<iostream.h>
 int main()
 {
-  cout<<" Hello World ";
+  std::cout<<" Hello World \n";
+  return 0;
 }
