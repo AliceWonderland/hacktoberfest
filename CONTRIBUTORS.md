@@ -43,6 +43,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [Dieu Anh](https://github.com/DieuAnh)
+- Place: Paris, France
+- Bio: Engineer student
+- GitHub: [Dieu Anh](https://github.com/DieuAnh)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
