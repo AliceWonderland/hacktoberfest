@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Jessica Solis](https://github.com/jessynay)
+- Place: California, USA
+- Bio: Biologist
+- Github: [Jessica Solis](https://github.com/jessynay)
