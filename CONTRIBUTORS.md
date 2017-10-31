@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Vinay Bhardwaj](https://github.com/bhardwajvinay1)
+- Place: Bangalore, India
+- Bio: Cloud Computing
+- Github: [Vinay Bhardwaj](https://github.com/bhardwajvinay1)
+
+
