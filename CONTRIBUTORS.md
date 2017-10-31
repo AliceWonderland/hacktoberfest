@@ -16632,6 +16632,10 @@ Noida
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Norway
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
@@ -16676,8 +16680,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
+#### Name: [Priyanshu Agarwal](https://github.com/priyanshuagg)
+- Place: Hapur, India
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [priyanshuagg](https://github.com/priyanshuagg)
 
