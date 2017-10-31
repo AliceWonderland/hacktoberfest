@@ -1,8 +1,5 @@
 # Raja Dorji
 
-### Location
-
-Hyderabad, India
 
 ### Academics
 
@@ -15,11 +12,11 @@ West Bengal University of Technology, Computer Science & Engineering
 - Puzzles
 - Reading
 
-### Languages
+### Development
+- Working in IT. Develop and support for my employer.
 
-- C and C++
-- Java
+### Projects
+ - Raja Dorji](https://github.com/raja-d))
 
 ### Profile Link
-
-Raja Dorji](https://github.com/raja-d))
+ - Raja Dorji](https://github.com/raja-d))
