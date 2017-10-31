@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Gopi Surendra](https://github.com/gsrc1026)
+- Place: Hyderabad, India
+- Bio: Programmer
+- Github: [Gopi Surendra](https://github.com/gsrc1026)
