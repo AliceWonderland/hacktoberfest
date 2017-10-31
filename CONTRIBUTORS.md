@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [DIVYANSHU SINGH](https://github.com/bl4ckp4nther)
+- Place: Delhi, India
+- Bio: Junior developer
+- GitHub: [bl4ckp4nther](https://github.com/bl4ckp4nther)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
