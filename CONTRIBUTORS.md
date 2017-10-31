@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Richard Vaughan](https://github.com/rvaughan)
+- Place: Cardiff, UK
+- Bio: Just some guy, you know.
+- GitHub: [rvaughan](https://github.com/rvaughan)
