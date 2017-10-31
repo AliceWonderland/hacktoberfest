@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Jayan Palamakumbura](https://github.com/Cj1996A)
+- Place: kadawatha, Sri Lanka
+- Bio: Software Developer
+- GitHub: [Cj1996A](https://github.com/Cj1996A)
