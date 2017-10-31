@@ -4612,6 +4612,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - Github: [dhevi](https://github.com/dhevi)
 
+#### Name: [Doruk Gezici](https://github.com/dorukgezici)
+- Place: Istanbul, Turkey
+- Bio: Computer Engineering Student @IstanbulTechnicalUniversity
+- GitHub: [Doruk Gezici](https://github.com/dorukgezici)
+
 #### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
