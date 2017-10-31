@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Abid Rakhmansyah](https://github.com/abidra)
+- Place: Jaarta, Indonesia
+- Bio: Web developer PHP and NodeJS
+- Github: [Abid Rakhmansyah](https://github.com/abidra)
