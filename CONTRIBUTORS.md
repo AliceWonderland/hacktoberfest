@@ -13992,6 +13992,11 @@ Noida
 - Bio: ECE Undergraduate
 - GitHub: [Sarthak Bhagat](https://github.com/sarthak268)
 
+#### Name: [Scott Sweeny](https://github.com/ssweeny)
+- Place: Pittsburgh, USA
+- Bio: Free software developer
+- GitHub: [Scott Sweeny](https://github.com/ssweeny)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
