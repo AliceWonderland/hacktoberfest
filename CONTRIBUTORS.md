@@ -16681,3 +16681,9 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Tajmeet Kaur](https://github.com/batman-13)
+- Place:New Delhi, India
+- Bio:Architect
+- Github:[batman-13](https://github.com/batman-13)
+
+
