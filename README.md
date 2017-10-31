@@ -96,13 +96,14 @@ Your School
 ### 3. Create a `Hello, World!` Script
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
-```Javascript
+```
+Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
 // AUTHOR: Alice Chuang
 // GITHUB: https://github.com/AliceWonderland
-
 console.log('Hello, World!');
+
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
@@ -130,5 +131,5 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
-## Additional references added by contributors
+## Additional references from contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
