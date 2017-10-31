@@ -1386,6 +1386,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### NAME: [Poomchai Taechaprapasrat](https://github.com/Poomchaio)
+- PLACE: THAILAND
+- Bio: iOS Developer
+- GitHub:  [Poomchai Taechaprapasrat](https://github.com/Poomchaio)
+
 #### Name: [Alisson Vargas](https://github.com/alisson-mich)
 - Place: Torres, RS, Brazil
 - Bio: A guy who loves IT :D
