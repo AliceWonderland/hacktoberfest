@@ -8092,6 +8092,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
 - GitHub: [Peppertech](https://github.com/peppertech)
 
+#### Name: [John Potts](https://github.com/johndpotts)
+- Place: Charlotte, NC
+- Bio: programmer, musician, and dad!
+- GitHub: [agnieszka-miszkurka](https://github.com/johndpotts)
+
 #### Name: [John Rexter Flores](https://github.com/alldeads)
 - Place: Cebu, Philippines
 - Bio: Full Stack Developer
