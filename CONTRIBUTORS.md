@@ -1,3 +1,8 @@
+#### Name: [Akshat Karnwal](https://github.com/3minus1)
+- Place: Bangalore, India.
+- Bio: Musician at heart, techie by brain.
+- GitHub: [3minus1](https://github.com/3minus1)
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
