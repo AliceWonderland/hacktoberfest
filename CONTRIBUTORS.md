@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: Félix Alejandro Guzmán](https://github.com/felixalguzman)
+- Place: Santiago de los Caballeros, República Dominicana
+- Bio: System engineer student
+- GitHub: [felixalguzman](https://github.com/felixalguzman)
