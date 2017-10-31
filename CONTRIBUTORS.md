@@ -38,6 +38,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [JOSH REEDING](https://github.com/Joshsoshm)
+- Place: Canada
+- Bio: First year Computer Science Student, in love with NYC <3
+- GitHub: [josh-reeding](https://github.com/Joshsoshm)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
