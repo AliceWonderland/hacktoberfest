@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: Jonathan de Zoete(https://github.com/jonathandezoete)
+- Place: Den Haag, Zuid Holland, Netherlands
+- Bio: Web developer PHP
+- GitHub: [Jonathan de Zoete](https://github.com/jonathandezoete)
