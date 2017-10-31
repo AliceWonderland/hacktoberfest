@@ -23,4 +23,4 @@
 
 ### Profile Link
 
-	-[PedrosUsername](https://github.com/PedrosUsername)
+	[Pedro Rodrigues](https://github.com/PedrosUsername)
