@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Dmitrii Pashutskii](https://github.com/guar47)
+- Place: Moscow, Russia
+- Bio: Web developer
+- GitHub: [guar47](https://github.com/guar47)
