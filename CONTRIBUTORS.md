@@ -7093,6 +7093,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Game design studen & Hobbyist programmer
 - GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
 
+#### Name: [Jacob Budzis](https://github.com/Jacobinski)
+- Place: Canada
+- Bio: Software Engineering Intern
+- Github: [jacobinski](https://github.com/Jacobinski)
+
 #### Name: [J. Fehrman](https://github.com/jfehrman)
 - Place: Virginia
 - Bio: Student
@@ -10103,9 +10108,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
