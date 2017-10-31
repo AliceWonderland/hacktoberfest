@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [William Xiang](https://github.com/wxiang54)
+- Place: Stony Brook, NY
+- Bio: I produce the hottest of beats.
+- Github: [wxiang54](https://github.com/wxiang54)
+
