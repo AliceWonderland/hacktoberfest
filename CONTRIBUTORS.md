@@ -8,10 +8,10 @@
 - Bio: Blockchain and Fullstack Web Developer
 - GitHub: [Petar-np](https://github.com/Petar-np)
 
-#### Name: [Dalton](https://github.com/stormBandit)		
- - Place: Ontario, Canada		
- - Bio: Software Engineer		
- - GitHun: [Dalton](https://github.com/stormBandit)		
+#### Name: [Dalton](https://github.com/stormBandit)
+ - Place: Ontario, Canada
+ - Bio: Software Engineer
+ - GitHun: [Dalton](https://github.com/stormBandit)
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -1375,3 +1375,8 @@ Noida
 - Place: Milan, Italy
 - Bio: Design&Arts
 - GitHub: [maojh](https://github.com/maojh)
+
+#### Name: [César Moreno](https://github.com/camorenoa)
+- Place: Bogotá, Colombia
+- Bio: Web Developer
+- GitHub: [camorenoa](https://github.com/camorenoa)
