@@ -3,7 +3,7 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
-#### Name: [Jndachenhaus] (https://github.com/jndachenhaus) 
+#### Name: [Jndachenhaus](https://github.com/jndachenhaus) 
 - Place: United States 
 - Bio: High school student, going to Purdue for CS
 - GitHub: [jndachenhaus](https://github.com/jndachenhaus) 
