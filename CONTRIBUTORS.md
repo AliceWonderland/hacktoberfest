@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Anita Yip](https://github.com/ceruleanox)
+- Place: Boston, MA
+- Bio: Big data enthusiast, lifelong learner, and AmeriCorps Alum
+- Github: [ceruleanox](https://github.com/ceruleanox)
