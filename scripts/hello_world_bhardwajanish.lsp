@@ -1,3 +1,0 @@
-(DEFUN HELLO ()
-  "HELLO WORLD"
-) 

@@ -1,2 +1,0 @@
-# Python
-print("HELLO WORLD")

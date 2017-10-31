@@ -1,3 +1,0 @@
-# dnltsk
-
-Hacktoberfest

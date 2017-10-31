@@ -1,7 +1,0 @@
-*.. m204 though old, still powers some important applications used today 
-*.. by government and private companies
-*.. http://www.99-bottles-of-beer.net/language-model-204-400.html
-
-begin
-	print 'hello, world!'
-end
