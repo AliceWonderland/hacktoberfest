@@ -3,7 +3,7 @@
 // LANGUAGE: C
 // ENV: 
 // AUTHOR: Eduardo Molina
-// GITHUB: https://github.com/StevenCopeland
+// GITHUB: https://github.com/eduardmolina
 
 int main(){
 
