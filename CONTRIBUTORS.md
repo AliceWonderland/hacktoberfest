@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Gilad Bar](https://github.com/GomuGilad6) 
+- Place: Tel Aviv, Israel
+ - Bio: Full Stack Engineer @ RapidAPI 
+- GitHub: [Gilad Bar](https://github.com/GomuGilad6)
