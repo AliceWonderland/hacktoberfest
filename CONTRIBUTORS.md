@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [John Ward](https://github.com/itsjohnward)
+- Place: New York, NY
+- Bio: Software engineer
+- Github: [itsjohnward](https://github.com/itsjohnward)
