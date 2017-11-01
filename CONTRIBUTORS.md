@@ -16680,4 +16680,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+-
 
+#### Name: [Yacob Gugsa](https://github.com/yacobgugsa)
+- Place: Vancouver, BC
+- Bio: I'm a YIMBY, which is the new vegan apparently.
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+-
