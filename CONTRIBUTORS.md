@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [shw](https://github.com/x9453)
+- Place: Taipei, Taiwan
+- Bio: CS student
+- Github: [shw](https://github.com/x9453)
