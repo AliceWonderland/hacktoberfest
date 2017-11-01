@@ -1,3 +1,8 @@
+#### Name: [RYAN PITTELL](https://github.com/rpittell)
+- Place: Windsor, Ontario, Canada
+- Bio: Nobody
+- GitHub: [rpittell](https://github.com/rpittell)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
