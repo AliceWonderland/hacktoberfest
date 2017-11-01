@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Nicole Singular](https://github.com/NicoleSingular)
+- Place: Canada
+- Bio: Just starting to learn Git!
+- Github: [Nicole Singular](https://github.com/NicoleSingular)
