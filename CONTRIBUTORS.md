@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Jessica Wynn](https://github.com/Jessicashinjo)
+- Place: Nashville, TN, USA
+- Bio: Software Engineer
+- GitHub: [Jessicashinjo](https://github.com/Jessicashinjo)
