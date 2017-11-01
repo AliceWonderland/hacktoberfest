@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Muhammad Farid Zia](https://github.com/mfaridzia)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: Web Developer & Tech Enthusiast
+- GitHub: [mfaridzia](https://github.com/mfaridzia)
+
