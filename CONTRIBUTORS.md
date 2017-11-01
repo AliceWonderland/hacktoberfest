@@ -8907,6 +8907,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web dev and graphic designer
 - GitHub: [kevinmora94](https://github.com/kevinmora94)
 
+#### Name: [Kevin Jonathan](https://github.com/kevinjt123)
+- Place: Bandung, Indonesia
+- Bio: Python Developer, Back-end Developer
+- GitHub: [kevinjt123](https://github.com/kevinjt123)
+
 #### Name: [Khotibul Umam] (https://github.com/umaams)
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
