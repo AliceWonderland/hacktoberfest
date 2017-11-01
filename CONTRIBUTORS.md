@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Josh Stearsman](https://github.com/jstearsman)
+- Place: Philadelphia, PA
+- Bio: Web Dev & Cyber Security
+- GitHub: [jstearsman](https://github.com/jstearsman)
+
