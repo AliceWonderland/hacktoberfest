@@ -13256,6 +13256,11 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+#### Name: [Chris Ridgely](https://github.com/chridgely)
+- Place: USA
+- Bio: Software engineer seeking employment in different state.
+- GitHub: [chridgely](https://github.com/chridgely)
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
