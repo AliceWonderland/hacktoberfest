@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Gonzalo Rubio](https://github.com/GonzRubio)
+- Place: Madrid
+- Bio: Computer Science Student!
+- GitHub: [GonzRubio](https://github.com/GonzRubio)
