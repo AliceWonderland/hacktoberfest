@@ -6715,6 +6715,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love javascript! :cat:
 - GitHub: [Hoang Ha](https://github.com/halink0803)
 
+#### Name: [Hop](https://github.com/nerdylizard)
+- Place: Gujarat, India
+- Bio: Enthusiastic Programmer
+- GitHub: [nerdylizard](https://github.com/nerdylizard)
+
 #### Name: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
 - Place: Hafnarfjörður, Iceland
 - Bio: Computer Scientist
