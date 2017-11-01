@@ -9923,6 +9923,11 @@ Noida
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
+#### Name: [Mandy McDorman](https://github.com/whatthemandy)
+ - Place: San Diego, California
+ - Bio: Junior Web Dev, Potato Lover
+ - GitHub: [whatthemandy](https://github.com/whatthemandy)
+
 #### Name: [Mandy Real](https://github.com/mandyreal)
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe
