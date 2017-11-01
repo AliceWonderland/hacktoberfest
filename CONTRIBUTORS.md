@@ -5828,6 +5828,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [GABRIEL ERBETTA](https://github.com/GabrielErbetta)
+- Place: Salvador, BA, Brazil
+- Bio: Brazilian computer scientist
+- GitHub: [GabrielErbetta](https://github.com/GabrielErbetta)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
@@ -16680,4 +16685,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
