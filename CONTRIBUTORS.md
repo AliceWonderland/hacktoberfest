@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Randall] (https://github.com/randallh95)
+- Place: Singapore
+- Bio: Web developer PHP and Python
+- Github: [Randall] (https://github.com/randallh95)
+
