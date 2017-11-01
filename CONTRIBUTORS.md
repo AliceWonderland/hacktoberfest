@@ -13256,7 +13256,7 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
-#### Name: [Chris Ridgely](https://github.com/chridgely)
+#### Name: [Ridgely Chris](https://github.com/chridgely)
 - Place: USA
 - Bio: Software engineer seeking employment in different state.
 - GitHub: [chridgely](https://github.com/chridgely)
