@@ -3408,6 +3408,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Technical writer, gamer, coffee lover.
 - GitHub: [cdschroeder](https://github.com/cdschroeder)
 
+#### Name: [Catalin Miron] (https://github.com/catalinmiron)
+- Place: Bucharest, Romania
+- Bio: I design <body> with <style> from <head>. React and React Native player, open source enthusiast.
+- GitHub: [catalinmiron](https://github.com/catalinmiron)
+
 #### Name: [Cecy Correa](https://github.com/cecyc)
 - Place: USA
 - Bio: Software Engineer at ReturnPath
@@ -16680,4 +16685,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
