@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Isuru Weeraddana](https://github.com/techn0ish)
+ - Place: Colombo, Sri Lanka
+ - Bio: Software Engineer, Student at University of Westminster
+ - GitHub: [Weeraddana](https://github.com/techn0ish
+ 
