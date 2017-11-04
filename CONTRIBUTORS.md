@@ -16681,3 +16681,12 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Khotibul Umam] (https://github.com/umaams)
+- Place: Mojokerto, Indonesia
+- Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
+- GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Lucas Ferreira](https://github.com/ferrelucas)
+- Place: São Paulo, Brazil
+- Bio: Developer, traveler, food and language enthusiast (:
+- GitHub: [Lucas Ferreira](https://github.com/ferrelucas)
