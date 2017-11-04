@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Jeff Regalia] (https://github.com/InfinityBMX)
+- Place: Stockton, California, USA
+- Bio: Programmer/Analyst
+- [InfinityBMX](https://github.com/InfinityBMX)
