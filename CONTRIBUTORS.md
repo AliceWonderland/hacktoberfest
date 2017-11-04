@@ -1,7 +1,40 @@
+#### Name: [Grace Bell](https://github.com/lulabell)
+ - Place: North Carolina, USA
+ - Bio: Learning Web Dev & Design
+ - GitHub: [lulabell](https://github.com/lulabell)
+
+#### Name: [Tejas S](https://github.com/tejassateesh)
+ - Place: Bengaluru, India
+ - Bio: Computer Science @ RNSIT
+ - GitHub: [byteme](https://github.com/tejassateesh)
+
+ #### Name: [Leon Todd](https://github.com/leontodd)
+ - Place: Leicester, UK
+ - Bio: Computer Science @ University of Leicester
+ - GitHub: [Leon Todd](https://github.com/leontodd)
+
+#### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
+ - Place: Udupi, India
+ - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+
+#### Name: [Sam Flores](https://github.com/samflores23)
+ - Place: Chicago, IL, USA
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
+ - GitHub: [samflores23](https://github.com/samflores23)
+
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
+
+#### Name: [Omid Nikrah](https://github.com/omidnikrah)
+ - Place: Tehran, Tehran, Iran
+ - Bio: Front-end developer
+ - GitHub: [omidnikrah](https://github.com/omidnikrah)
+
 #### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+  - Place: Lyon, France
+  - Bio: Software engineer. Graduated from INSA Lyon.
+  - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
@@ -16681,3 +16714,12 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Antonio Yee](https://github.com/antonioyee)
+- Place: Sinaloa, México
+- Bio: Software Engineer
+- GitHub: [Antonio Yee](https://github.com/antonioyee)
