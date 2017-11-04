@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Luis Manuel Jaquez Peña](https://github.com/LuisJaquez)
+- Place: Santiago de los Caballeros, Dominican Republic
+- Bio: Front-end dev.
+- GitHub: [LuisJaquez](https://github.com/LuisJaquez)
