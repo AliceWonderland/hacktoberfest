@@ -16681,3 +16681,12 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Boaz Berman](https://github.com/boazberman)
+- Place: Holon, Israel
+- Bio: Full Stack Developer, doing my M.Sc. in Computer Science @ Bar Ilan University
+- GitHub: [boazberman](https://github.com/boazberman)
