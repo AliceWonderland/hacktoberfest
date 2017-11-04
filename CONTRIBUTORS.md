@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Gehazi Bispo](https://github.com/gehazibispo)
+- Plance: São Cristóvão, SE, Brasil
+- Bio: Science Geek, Sci-fi Fan, and Software Engineering N00b!
+- GitHub: [Gehazi Bispo](https://github.com/gehazibispo)
