@@ -107,7 +107,7 @@ console.log('Hello, World!');
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
 
-Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you chose in your comments, too, like a link to a helpful introduction or tutorial.
+Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial.
 
 [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
 
