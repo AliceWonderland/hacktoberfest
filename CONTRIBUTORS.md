@@ -1,3 +1,8 @@
+﻿#### Name: [Sam Flores](https://github.com/samflores23)
+ - Place: Chicago, IL, USA
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
+ - GitHub: [samflores23](https://github.com/samflores23)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16681,3 +16686,13 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+
+#### Name: [ZH2018](https://github.com/zh2018)
+- Place: USA
+- Bio: Newbie :D
+- Github [zh2018](https://github.com/zh2018)
+
+#### Name : [Narayana Suri](https://github.com/narayanasuri)
+- Place: Chennai, Tamil Nadu, India
+- Bio: Android Developer
+- Github [Narayana Suri](https://github.com/narayanasuri)
