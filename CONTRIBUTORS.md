@@ -16681,3 +16681,13 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Elan Ripley](https//github.com/tattarrattat)
+- Place: Raleigh, North Carolina, USA
+- Bio: Programmer
+- Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Shubham R Patil](https://github.com/shubham76)
+- Place: Mumbai, Maharashtra, India
+- Bio: CSE Student & Programming Enthusiast
+- GitHub: [Shubham R Patil](https://github.com/shubham76)
+=======
