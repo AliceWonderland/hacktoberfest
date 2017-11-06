@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Rodolphe Duterval](https://github.com/bu7ch)
+- Place: Paris, France
+- Bio: FullStack Developer, apprentice Security
+
