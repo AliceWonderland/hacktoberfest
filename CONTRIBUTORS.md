@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Japan Patel](https://github.com/mrjpatel)
+- Place: Melbourne, Australia
+- Bio: CS Student
+- Github: [mrjpatel](https://github.com/mrjpatel)
