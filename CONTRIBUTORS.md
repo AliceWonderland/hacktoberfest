@@ -16681,3 +16681,13 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Alpin Tay](https://github.com/titania)
+- Place: Medan, Indonesia
+- Bio: Programmer
+- GitHub: [titania](https://github.com/titania)
+
