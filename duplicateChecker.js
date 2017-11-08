@@ -6,7 +6,7 @@ const regEx = {
     Name: /(?=Name:).*/g,
     Place: /(?=Place:).*/g,
     Bio: /(?=Bio:).*/g,
-    GitHub: /(?=GitHub:).*/g
+    GitHub: /(?=GitHub:).*/g //To include Git(h/H)ub replace regEx expression with "/(?=Git[H|h]ub:*/g)" 
 };
 
 let filteredObj = {};
