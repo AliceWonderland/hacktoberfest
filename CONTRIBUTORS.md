@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+
+#### Name: [Ajay Kumar Jogawath](https://github.com/akjogawath)
+- Place: Hyderabad, Telangana, India
+- Bio: Software Developer, Freelancer, Future Entrepreneur
+- GitHub: [akjogawath](https://github.com/akjogawa
