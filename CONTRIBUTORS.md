@@ -1231,6 +1231,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: sublistic
+- Place: New Zealand - Bio: Codemonkey
+- GitHub: [sublistic](https://github.com/sublistic)
+
+#### Name: [Akshat Maheshwari](https://github.com/akshat14714)
+ - Place: Hyderabad, India
+ - Bio: CSE Undergrad in IIIT Hyderabad
+ - Github: [akshat14714](https://github.com/akshat14714/)
+
 #### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
 - Bio: Student
