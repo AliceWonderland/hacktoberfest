@@ -16681,3 +16681,12 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Enrique Arce](https://github.com/enriquearce)
+- Place: México
+- Bio: Developer
+- Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Ravindu Thaveesha](https://github.com/RavinduThaveesha)
+- Place: Sri Lanka
+- Bio: Software Engineer
+- Github: [RavinduThaveesha](https://github.com/RavinduThaveesha)
