@@ -165,8 +165,6 @@ to explore life. Also, Python and Django Developer
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
 
-﻿
-
 #### Name: [Alex Choi](https://github.com/running-cool)
  - Place: Athens, GA
  - Bio: Student
