@@ -2423,6 +2423,16 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
+- Place: Munich, Germany
+- Bio: Student in Business System Engineering
+- GitHub: [marieluisemerz] (https://github.com/marieluisemerz/)
+
+#### Name: [Cassiano Amarinho](https://github.com/cassianoamarinho)
+- Place: São Paulo, Brazil
+- Bio: Backend developer
+- GitHub: [cassianoamarinho](https://github.com/cassianoamarinho)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
