@@ -1,3 +1,8 @@
+#### Name: Raghuram Voruganti
+ - Place: Hyderabad, India
+ - Bio: 4th year Computer Science Student,Code Freak,Code Geek!!!
+ - GitHub: [Raghuram42](https://github.com/Raghuram42)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
