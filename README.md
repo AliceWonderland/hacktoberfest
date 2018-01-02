@@ -42,7 +42,7 @@ git checkout -b branch-name
 * Commit and push
 
 ```markdown
-git add .
+git add -A
 git commit -m 'Commit message'
 git push origin branch-name
 ```
