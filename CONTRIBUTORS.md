@@ -285,6 +285,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Ashik Meerankutty](https://github.com/ashikmeerankutty)
+- Place: Kerala, India
+- Bio: Computer Science Engineer
+- Github: [Ashik Meerankutty](https://github.com/ashikmeerankutty)
+
 #### Name: [Anupam Dagar](https://github.com/Anupam-dagar)
 - Place: Allahabad, India
 - Bio: I am like a code currently in development.
