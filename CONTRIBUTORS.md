@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jonglass] (https://github.com/jonglass82)
+-Place: Chicago, IL
+- Bio: I'm an ideas man.
+-Github: [jonglass] (https://github.com/jonglass82)
