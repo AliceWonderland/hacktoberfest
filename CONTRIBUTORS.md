@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Thomas Milox](https://github.com/TommyStarK)
 - Place: UK
 - Bio: Software engineer
-- GitHub: [GitHub account name](https://github.com/TommyStarK)
+- GitHub: [TommyStarK](https://github.com/TommyStarK)
