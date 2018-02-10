@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [MADHAV BAHL](https://github.com/MadhavBahlMD)
+- Place: Vellore, India
+- Bio: A cadet who codes
+- GitHub: [MADHAV BAHL](https://github.com/MadhavBahlMD)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
