@@ -1,0 +1,6 @@
+'''
+LANGUAGE: Python 3
+AUTHOR: ZH2018
+GITHUB: https://github.com/zh2018
+'''
+print("Hello, world!")
