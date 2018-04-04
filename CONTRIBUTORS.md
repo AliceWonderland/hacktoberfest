@@ -1,3 +1,8 @@
+#### Name: [Hunter Rancourt](https://github.com/skwid138)
+* **Place:** Minneapolis, Minnesota
+* **Bio:** JavaScript Engineer
+* **GitHub:** [hunter rancourt](https://github.com/skwid138)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
