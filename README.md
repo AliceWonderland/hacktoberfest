@@ -70,11 +70,11 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 
 ### Location
 
-Your City/Country
+- Your City/Country
 
 ### Academics
 
-Your School
+- Your School
 
 ### Interests
 
@@ -90,7 +90,7 @@ Your School
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+- [Your Name](GitHub Link)
 ```
 
 ### 3. Create a `Hello, World!` Script
