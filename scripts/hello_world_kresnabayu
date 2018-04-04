@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Kresna Bayu Aditama
+// GITHUB: https://github.com/kresnabayu
+
+console.log('Yo, bro mamen watchap');
