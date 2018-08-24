@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [S.Ben Stewart](https://github.com/sbenstewart)
+- Place: Chennai, India
+- Bio: Engineering simplicity
+- Github: [S.Ben Stewart](https://github.com/sbenstewart)
