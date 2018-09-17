@@ -1,3 +1,8 @@
+#### Name: Antony Tanuputra
+ - Place: Jakarta, Indonesia
+ - Bio: Software Engineer
+ - GitHub: [Antony Tanuputra](https://github.com/aseven7)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
