@@ -1,3 +1,8 @@
+#### Name: [ASEN CHEKOV](https://github.com/asenchekov)
+- Place: Oswestry, Shropshire, UK
+- Bio: Web Developer
+- GitHub: [asenchekov](https://github.com/asenchekov)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
