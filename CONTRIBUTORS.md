@@ -16568,3 +16568,8 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Oscar Dominguez](https://github.com/dominguezcelada)
+- Place: Barcelona, Catalonia, Spain
+- Bio: Full Stack Developer, Tech Lead, traveller
+- GitHub: [dominguezcelada](https://github.com/dominguezcelada)
