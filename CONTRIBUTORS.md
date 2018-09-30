@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Justin Estaris](https://github.com/JustinEstaris)
+- Place: Ontario, Canada
+- Bio: Web developer JavaScript and Python
+- Github: [Justin Estaris](https://github.com/JustinEstaris)
