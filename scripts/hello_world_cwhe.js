@@ -1,8 +1,4 @@
 // Language: JavaScript
-// Author: Christian Hernandez
+// Author: Wilson
 
-var sayHello = function() {
-  console.log('Hello, World!')
-}
-
-sayHello();
+console.log('Hello, World!')
