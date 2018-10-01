@@ -1793,8 +1793,14 @@ Noida
  - Place: Kassel, Germany
  - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
+ 
 
-#### Name: [Paula Paysan](https://github.com/paulapaysan)
+#### Name: [Colin Petherbridge](https://github.com/Colinpeth)
+ - Place: Macon, Georgia
+ - Bio: Computer engineering student at mercer university
+ - Github [ColinPeth](https://github.com/pschmidt88) 
+
+#### Name: [Paula Paysan](https://github.com/ColinPeth)
 - Place: Austin, TX
 - Bio: Student
 - Github: [paulapaysan](https://github.com/paulapaysan)
