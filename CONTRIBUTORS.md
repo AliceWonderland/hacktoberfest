@@ -1443,6 +1443,12 @@ Noida
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
+ 
+ #### Name: [Abhimanyu Shekhawat](https://github.com/abhimanyu121)
+- Place: India
+- Bio: 2ND year I.T.student
+- GitHub: [Abhimanyu](https://github.com/abhimanyu121)
+
 
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
