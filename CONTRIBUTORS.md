@@ -216,3 +216,7 @@
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+### Name: [Joy Kaufman] (https://github.com/aldocano)
+- Place: Raleigh NC
+- Bio: Python FTW!
+- Github: [jtkaufman737] (https://github.com/jtkaufman737å)
