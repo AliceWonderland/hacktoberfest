@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Kanika Agrawal](https://github.com/Kanika1799)
+- Place: Jaipur, Rajasthan, India
+- Bio: I love to make webaites and read novels
+- GitHub: [Kanika Agrawal](https://github.com/Kanika1799)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
