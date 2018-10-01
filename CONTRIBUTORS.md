@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: Gaurav Jain
+#### Name: [Gaurav Jain](https://github.com/gauravjain2)
 - Place: Delhi, India
-- Bio: Student
+- Bio: Student, Computer Science Engineering
 - GitHub: [Gaurav Jain](https://github.com/gauravjain2)
