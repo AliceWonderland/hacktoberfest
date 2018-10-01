@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [OMKAR MANJREKAR](https://github.com/manjrekarom)
+- Place: Mumbai,India
+- Bio: Genjutsu!
+- GitHub: [OMKAR MANJREKAR](https://github.com/manjrekarom)
+  
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
