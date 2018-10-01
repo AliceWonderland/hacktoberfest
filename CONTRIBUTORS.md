@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [MANSI BREJA](https://github.com/MansiBreja)
+- Place: Delhi, India
+- Bio: Student at Netaji Subhas Institute of Technology
+- GitHub: [MansiBreja](https://github.com/MansiBreja)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
