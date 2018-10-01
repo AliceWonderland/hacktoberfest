@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [minnimimi](https://github.com/minnimimi/)
+- Place: Baden-Württemberg, Germany
+- Bio: Software engineer
+- Github: [minnimimi](https://github.com/minnimimi)
