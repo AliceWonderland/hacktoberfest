@@ -132,3 +132,8 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
+#### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a student of computer science with keen interest in front-end web development
+- GitHub: [bajaj99prashant](https://github.com/bajaj99prashant)
