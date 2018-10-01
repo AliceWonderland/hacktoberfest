@@ -2077,6 +2077,11 @@ Noida
 - Bio: Student/Andriod Developer
 - GitHub: [shobhit1997](https://github.com/shobhit1997)
 
+#### Name: [Shrey Dabhi](https://github.com/sdabhi23)
+- Place: Ahmedabad, Gujarat, India
+- Bio: A passionate self-taught developer, with a knack for creating highly engaging user experiences :grin:
+- GitHub: [sdabhi23](https://github.com/sdabhi23)
+
 #### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Undergrad at IIITA
