@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SHANTANU GHAR](hhtps://github.com/SlavCzar)
+- Place: Mumbai, Mahrashtra , India
+- Bio: Student
+- GitHub: [SlavCzar](https://github.com/SlavCzar)
