@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Maikel Chandika] (https://github.com/mkdika)
 - Place: Medan, North Sumatera, Indonesia
-- Bio: Java Developer
+- Bio: Java Developer, Hobbyists coder, Tech enthusiasts
 - GitHub: [mkdika] (https://github.com/mkdika)
