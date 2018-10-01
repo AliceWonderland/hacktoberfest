@@ -1,3 +1,8 @@
+#### Name: [JOAO MARQUES](https://github.com/joao-p-marques)
+ - Place: Aveiro, Portugal
+ - Bio: Computer Science Student at University of Aveiro.
+ - GitHub : [joao-p-marques](https://github.com/joao-p-marques)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
