@@ -260,6 +260,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CSD IIITD
 - GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
 
+#### Name: [Sweta Behera](https://github.com/swetax)
+ - Place: Jajpur, India
+ - Bio: Open Source Enthusiast, studying B.Tech CSE 
+ - GitHub: [Sweta Behera](https://github.com/swetax)
+
 #### Name: [Ankit Chhetri](https://github.com/ankitch)
 - Place: Kathmandu, Nepal
 - Bio: Backend Developement | Snake Charmer | Student
