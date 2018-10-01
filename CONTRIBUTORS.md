@@ -1,8 +1,3 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
-
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -541,6 +536,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Design, Develop, Produce!
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
+#### Name: [coastalchief](https://github.com/coastalchief)
+- Place: Germany
+- Bio: dev
+- GitHub: [coastalchief](https://github.com/coastalchief)
+
 #### Name: [CodHeK](https://github.com/CodHeK)
 - Place: Mumbai, India
 - Bio: Cuber/Coder
@@ -799,6 +799,11 @@ to explore life. Also, Python and Django Developer
 - Github: [fercreek](https://github.com/fercreek)
 - Website: [Blog](https://fercontreras.com/)
 
+#### Name: [filedesless](https://hightechlowlife.info)
+- Place: Québec, Canada
+- Bio: CompSci from ULaval reporting in
+- GitHub: [aiglebleu](https://github.com/aiglebleu)
+
 #### Name: [Fran Acién](https://github.com/acien101)
 - Place: Madrid, Spain
 - Bio: Full of empty
@@ -884,6 +889,11 @@ to explore life. Also, Python and Django Developer
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: Someone who's intresting about web devlopment / Programming
 - GitHub: [Ginanjar S.B | egin10](https://github.com/egin10)
+
+#### Name: [gipsi](gipsi.github.io)
+- Place: South-East, UK
+- Bio: Student FreeCodeCamp interested in PWA's
+- Github: [gipsi](https://github.com/gipsi)
 
 #### Name: [Glen J Fergo](https://github.com/gfergo)
 - Place: Long Island, New York, USA
@@ -1639,6 +1649,11 @@ Noida
 - Bio: Interactive Developer
 - GitHub: [Mon555](https://github.com/mon555)
 
+#### Name: [Muhammad Refa](https://github.com/muhammadrefa)
+- Place: Bandung, Indonesia
+- Bio: Programming electronics
+- GitHub: [Muhammad Refa](https://github.com/muhammadrefa)
+
 #### Name: [Murilo Arruda](https://github.com/Passok11)
 - Place: Petrópolis, Rio de Janeiro, Brazil
 - Bio: Full Stack Student
@@ -2166,6 +2181,11 @@ Noida
 - Bio: CSE Student at IIITD
 - GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
 
+#### Name: [syamkumar](https://github.com/syam3526)
+- Place:kerala,india
+- Bio: data scientist
+- Github: [syamkumar](https://github.com/syam3526)
+
 #### Name: [Sylwester](https://github.com/sla)
 - Place: Poland
 - Bio: JAVA
@@ -2194,6 +2214,11 @@ Noida
 - Place: California
 - Bio: Developer
 - GitHub: [taylorlee1](https://github.com/taylorlee1/)
+
+#### Name: [tbdees](https://github.com/tbdees/)
+- Place: Laguna Beach, CA
+- Bio: financial software consultant
+- Github: [tbdees](https://github.com/tbdees/)
 
 #### Name: [Tech Tide](https://github.com/techtide/)
 - Place: Singapore, Singapore
@@ -2303,6 +2328,11 @@ Noida
 - Bio: Scrum Master and passionate technologist.
 - GitHub: [kashura](https://github.com/kashura)
 
+#### Name: Vallenain
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
+
 #### Name: [Veronika Tolpeeva](https://github.com/ostyq)
 - Place: Moscow, Russia
 - Bio: Web developer
@@ -2358,6 +2388,11 @@ Noida
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+- Place: Norway
+- Bio: Reverse Engineer
+- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
@@ -2392,36 +2427,6 @@ Noida
 - Place: Atlanta, Georgia USA
 - Bio: caffeinated and curious
 - GitHub: [zkafkes](https://github.com/zkafkes)
-
-#### Name: [coastalchief](https://github.com/coastalchief)
-- Place: Germany
-- Bio: dev
-- GitHub: [coastalchief](https://github.com/coastalchief)
-
-#### Name: [filedesless](https://hightechlowlife.info)
-- Place: Québec, Canada
-- Bio: CompSci from ULaval reporting in
-- GitHub: [aiglebleu](https://github.com/aiglebleu)
-
-#### Name: [gipsi](gipsi.github.io)
-- Place: South-East, UK
-- Bio: Student FreeCodeCamp interested in PWA's
-- Github: [gipsi](https://github.com/gipsi)
-
-#### Name: [syamkumar](https://github.com/syam3526)
-- Place:kerala,india
-- Bio: data scientist
-- Github: [syamkumar](https://github.com/syam3526)
-
-#### Name: [tbdees](https://github.com/tbdees/)
-- Place: Laguna Beach, CA
-- Bio: financial software consultant
-- Github: [tbdees](https://github.com/tbdees/)
-
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
-- Place: Norway
-- Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
