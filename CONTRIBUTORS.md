@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aman Kumar Soni](https://github.com/computerwala)
+ - Place: phagwara,Punjab, India
+ - Bio: Front-end developer and AI/ML
+ - Github: [computerwala](https://github.com/computerwala)
