@@ -1,3 +1,9 @@
+
+#### Name: Gagandeep Pratihar
+ - Place: Gurgaon, India
+ - Bio: Full Stack Developer
+ - GitHub: [Gagandeepp](https://github.com/gagandeepp)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
