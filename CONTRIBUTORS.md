@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Klara Gerlei](https://github.com/klaragerlei)
+- Place: Edinburgh, UK
+- Bio: Neuroscience PhD student
+- Github: [Ítalo Epifânio](https://github.com/klaragerlei)
