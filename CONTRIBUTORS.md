@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Palak Ambade](https://github.com/palakambade)
+-PLace: Gandhinagar,Gujarat
+-Bio: Web developer, designer, Java
+-Github: [palakambade](https://github.com/palakambade)
