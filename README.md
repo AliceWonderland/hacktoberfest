@@ -32,7 +32,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 git clone https://github.com/your-username/hacktoberfest.git
 ```
 
-* Create a branch
+* Create a branch using following command -
 
 ```markdown
 git checkout -b branch-name
@@ -114,7 +114,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 ## BONUS!
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
-* Check out some very creative ways to print out a "Hello, World!" string.
+* Check out some very creative ways to print out a "Hello World!" string.
 
 ## Reference links
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
