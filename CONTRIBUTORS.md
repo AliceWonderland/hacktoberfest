@@ -1544,6 +1544,11 @@ Noida
 - Bio: Design&Arts
 - GitHub: [maojh](https://github.com/maojh)
 
+#### Name: [Matthew Alltop](https://github.com/matthewalltop)
+- Place: Indianapolis, IN, United States
+- Bio: C# and JS developer
+- GitHub: [Matthew Alltop](https://github.com/matthewalltop)
+
 #### Name: [Matthew Burke](https://github.com/MatthewBurke1995)
 - Place: Sydney, Australia
 - Bio: Big fan of Python + Data
