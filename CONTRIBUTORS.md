@@ -1623,3 +1623,7 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Ahsen Serkan Usta](https://github.com/asusta)
+- Place: Ankara, Turkey
+- GitHub: [Ahsen Serkan Usta](https://github.com/asusta)
