@@ -27,6 +27,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+ #### Name: [SRISHTY MITTAL](https://github.com/MittalS211)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [MittalS211](https://github.com/MittalS211)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
