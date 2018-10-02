@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Collin Pether](https://github.com/titaniumcarot)
+- Place: PMacon, Georiga
+- Bio: COMPUTER GEEK
+- GitHub: [titaniumcarot](https://github.com/titaniumcarot)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
