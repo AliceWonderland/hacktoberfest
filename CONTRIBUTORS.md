@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mayank Gupta] (https://github.com/arcruiton)
+- Place: New Delhi
+- Bio: Mechanical Engineer and data analyst
+- Github: [arcruiton] (https://github.com/arcruiton)
