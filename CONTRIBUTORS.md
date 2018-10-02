@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Kevin Rainman](https://github.com/kevinrainman2015)
+- Place: USA 
+- Bio: jobless, read manga, walk doggies, TL gonna win worlds, +ULTRA
+- Github: [kevinrainman2015](https://github.com/kevinrainman2015)
