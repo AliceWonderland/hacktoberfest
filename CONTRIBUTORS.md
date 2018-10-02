@@ -1,3 +1,8 @@
+#### Name: Aishwarya Bansal
+ - Place: Rajasthan, India
+ - Bio: Front end developer, graduating from JECRC, Jaipur.
+ - GitHub: [aish51197](https://github.com/aish51197)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
