@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ojasvi Bhargava](https://github.com/OjasviBhargava)
+- Place: India
+- Bio: More into cloud computing, knows android app development
+- Github: [Ojasvi Bhargava](https://github.com/OjasviBhargava)
