@@ -2097,6 +2097,11 @@ Noida
 - Bio: taco enthusiast
 - Github: [SierraOG](https://github.com/SierraOG/)
 
+#### Name: [Simon G.](https://github.com/fisch0204)
+- Place: Ulm, Germany
+- Bio: Ionic, Word Clock, DevOps
+- GitHub: [vol-pi](https://github.com/fisch0204)
+
 #### Name: [Simon Volpert](https://github.com/vol-pi)
 - Place: Ulm, Germany
 - Bio: DevOps, Hiking, Photography
