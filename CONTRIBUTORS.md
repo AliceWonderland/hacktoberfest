@@ -2368,6 +2368,11 @@ Noida
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
 
+#### Name: [Yodak](https://github.com/Yodakasi)
+- Place: Kielce, Poland
+- Bio: Computer science student
+- Github [Yodakasi](https://github.com/Yodakasi)
+
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
