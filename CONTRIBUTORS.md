@@ -25,7 +25,7 @@
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
- - Bio: Student
+ - Bio: Student hi
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
