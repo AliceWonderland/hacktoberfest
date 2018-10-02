@@ -1,3 +1,9 @@
+#### Name: [YOUR NAME](GitHub link)
+- Place: Arad, Romania
+- Bio: UI/UX Designer learning front-end development
+- GitHub: [Josie-N](https://github.com/Josie-N)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
