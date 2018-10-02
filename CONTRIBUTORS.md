@@ -1,3 +1,8 @@
+#### Name: palak bansal
+ - Place:Jaipur, rajasthan
+ - Bio: front -end developer and a coder
+ - GitHub: [palak](https://github.com/bansal51197)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
