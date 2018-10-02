@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [José Reginaldo](https://github.com/jrbj0)
+- Place: Recife, Brazil
+- Bio: Web developer and Python
+- Github: [José Reginaldo](https://github.com/jrbj0)
