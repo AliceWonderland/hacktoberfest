@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Danilo Santos](https://github.com/DanStos)
 - Place: São Paulo, Brazil
-- Bio: Chatbot developer, interested in front-end development
+- Bio: Chatbot developer, interested  in front-end development
 - Github: [DanStos](https://github.com/DanStos)
