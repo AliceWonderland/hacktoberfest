@@ -1293,6 +1293,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at the University of Wroclaw
 - GitHub: [Klaudia K.](https://github.com/KalpiKK)
 
+#### Name: [Koku](https://github.com/kokuB)
+- Place: Japan
+- Bio: Computer Science Student
+- GitHub: [Koku](https://github.com/kokuB)
+
 #### Name: [Konstantin](https://github.com/Kola50011)
 - Place: Wiener Neustadt, Austria
 - Bio: Computer Science Student
