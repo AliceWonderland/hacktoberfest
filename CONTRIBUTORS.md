@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kasim Hussain](https://github.com/kasiimh1)
+ - Place: Manchester, United Kingdom
+ - Bio: Computer Science BSc Student
+ - GitHub: [Kasim Hussain](https://github.com/kasiimh1)
