@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leigh Dinaya](https://github.com/leighayanid)
+- Place: Bataan, Central Luzon, Philippines
+- Bio: CS Grad. Problem solver. Continuous learner. Aspiring entrepreneur. Dog lover.
+- Github: [Leigh Dinaya](https://github.com/leighayanid)
