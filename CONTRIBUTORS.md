@@ -78,6 +78,11 @@
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
+#### Name: [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
+-Place -Roorkee, India
+Bio :a computer enthusiast,budding engineer
+Git Hub:[KSHITIJBITHEL](https://github.com/KSHITIJBITHEL)
+
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
