@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Naufal Yudhistira] (https://github.com/yudhst/)
+- Place: Malang, Indonesia
+- Bio: Student
+- GitHub: [Yudhst] (https://github.com/yudhst/)
