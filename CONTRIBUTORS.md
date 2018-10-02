@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Krittika Sripongsuk](https://github.com/rnzit)
+- Place: Bangkok, Thailand
+- Bio: Web developer JAVA and Angular
+- Github: [rnzit](https://github.com/rnzit)
