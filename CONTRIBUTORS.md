@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [iamwee](https//github.com/iamwee)
+- Place: Bangkok, Thailand
+- Bio: Software engineer
+- Github: [iamwee](https//github.com/iamwee)
