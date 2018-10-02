@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [José Reginaldo](https://github.com/jrbj0)
+- Place: Pernambuco, Brazil
+- Bio: Web developer
+- Github: [jrbj0] (https://github.com/jrbj0)
