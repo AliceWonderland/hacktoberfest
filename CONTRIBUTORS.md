@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ADITI GOYAL](https://github.com/aditi-g21)
+- Place: India
+- Bio: 2nd year Information Technology Student
+- GitHub: [aditi-g21](https://github.com/aditi-g21)
