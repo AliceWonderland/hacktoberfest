@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Michael] (https://github.com/mike-egr)
+- Place: Zürich, Switzerland
+- Bio: math student
+- Github: [mike-egr] (https://github.com/mike-egr)
