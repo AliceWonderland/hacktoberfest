@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [João Rafael](https://github.com/jrcamelo)
+- Place: Recife, Brazil
+- Bio: Information Systems Student and GameDev Enthusiast
+- Github: [jrcamelo](https://github.com/jrcamelo)
