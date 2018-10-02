@@ -1,3 +1,8 @@
+#### Name: [Cameron]
+- Place: Missouri
+- Bio: 1337 h4ck0r
+- Github: [CamWandfluh](https://github.com/CamWandfluh)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
