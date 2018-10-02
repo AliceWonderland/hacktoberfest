@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Alif Rizki Pambudi] (https://github.com/alfrizp)
+- Place: Klaten, Indonesia
+- Bio: Backend Engineer
+- Github: [Alif Rizki Pambudi](https://github.com/alfrizp)
