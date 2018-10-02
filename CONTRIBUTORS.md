@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Hasnain Yousuf](https://github.com/codvlpr)
+- Place: Karachi, Sindh, Pakistan
+- Bio: Software Engineer, Working at Diya Interactive AB
+- GitHub: [codvlpr](https://github.com/codvlpr)
