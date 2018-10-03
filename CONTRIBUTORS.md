@@ -140,6 +140,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I like free T-shirts and I cannot lie.
 - GitHub: [allesmi](https://github.com/akram-rameez)
 
+#### Name: [Akshat Girdhar](https://github.com/akshatgirdhar)
+- Place: New Delhi, India
+- Bio: Student, ECE
+- GitHub: [Akshat Girdhar](https://github.com/akshatgirdhar)
+
 #### Name: [Akshat Maheshwari](https://github.com/akshat14714)
  - Place: Hyderabad, India
  - Bio: CSE Undergrad in IIIT Hyderabad
