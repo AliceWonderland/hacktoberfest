@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andreas Wijaya](https://github.com/andreasang)
+- Place: Yogyakarta, Indonesia
+- Bio: UI Engineer HTML and CSS
+- Github: [Andreas Wijaya](https://github.com/andreasang)
