@@ -9,3 +9,4 @@ open System
 let main argv = 
     printfn "Hello World" 
     0
+Hello
