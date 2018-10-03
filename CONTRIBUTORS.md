@@ -1997,6 +1997,11 @@ Noida
 - Bio: Computer Science Engineering Student & Tech Enthusiast
 - GitHub: [Saideep Dicholkar](https://github.com/saideepd)
 
+#### Name: [SANYA ATTRI](https://github.com/SanyaAttri)
+- Place: Noida, India
+- Bio: Tech Enthusiast
+- GitHub: [SanyaAttri](https://github.com/SanyaAttri)
+
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
