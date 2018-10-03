@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sreetam Das](https://sreetamdas.github.io)
+- Place: Bangalore. India
+- Bio: Front-end Developer, React and Python
+- Github: [Sreetam Das](https://github.com/sreetamdas)
