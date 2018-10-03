@@ -1030,6 +1030,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist by profession and student by heart.
 - GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
 
+#### Name: [Jacob Dimick aka Professor Renderer](https://github.com/Renderer-RCT2)
+- Place: Willoughby, OH, United States
+- Bio: An aspiring coder with a dream of being a game developer
+- GitHub: [Professor Renderer](https://github.com/Renderer-RCT2)
+
 #### Name: [Jakub Bačo](https://github.com/vysocina)
 - Place: Slovakia
 - Bio: Student / Designer
