@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Saumya
+ - Place: Bhopal, India
+ - Bio: BS+MS student
+ - GitHub: [somurds](https://github.com/somurds)
