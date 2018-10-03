@@ -16,6 +16,7 @@ Your School
 -Animals
 -Video games
 -Drawing/Painting
+-Cats 
 -Making cosplay
 -Programming. Reading code
 
