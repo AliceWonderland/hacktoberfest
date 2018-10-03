@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hayden](https://github.com/HaydenHolcomb)
+- Place: Dallas, TX
+- Bio: CS Student
+- GitHub: [Hayden](https://github.com/HaydenHolcomb)
