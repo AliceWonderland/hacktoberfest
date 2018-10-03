@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bence Mózer](https://github.com/Majzer)
+- Place: Hévíz, Hungary
+- Bio: Student, android/web/java programmer
+- Github: [Majzer](https://github.com/Majzer) / [CsanySoft](https://github.com/CsanySoft)
