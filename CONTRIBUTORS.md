@@ -1,3 +1,8 @@
+### Name: [SHREYANSH KULSHRESHTHA](https://github.com/shreyanshkuls)
+ - Place: Mandi, Himachal Pradesh, India
+ - Bio: B.Tech Student
+ - GitHub: [Shreyansh Kulshreshtha](https://github.com/shreyanshkuls)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
