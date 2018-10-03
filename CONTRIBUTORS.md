@@ -1629,6 +1629,11 @@ Noida
 - Bio: Programmer
 - GitHub: [haugenmitch](https://github.com/haugenmitch)
 
+#### Name: [PRITAM MALIK](https://github.com/prirocks42)
+- Place: India
+- Bio: Software Developer
+- GitHub: [PRITAM MALIK](https://github.com/prirocks42)
+
 #### Name: [Moisés Ñañez](https://github.com/moisesnandres)
 - Place: Ica, Perú
 - Bio: Software developer and musician
