@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [RAJENDRA PATTA](https://github.com/rajpatta)
+- Place: India
+- Bio: I like to code
+- GitHub: [rajpatta](https://github.com/rajpatta)
