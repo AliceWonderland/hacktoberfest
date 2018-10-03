@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### NameL [madhavshroff](https://github.com/madhavshroff)
+- Place: Hyderabad, Indian
+- Bio: Student, love learning about cool tech stuff except JavaScript
+- Github: [madhavshroff](https://github.com/madhavshroff)
