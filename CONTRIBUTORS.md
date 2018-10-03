@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Heru Setiawan](https://github.com/therusetiawan)
+- Place: Jogja, Indonesia
+- Bio: Backend Developer
+- Github: [therusetiawan](https://github.com/therusetiawan)
