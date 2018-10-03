@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lakindu Gunasekara](https://github.com/lakindu95)
+- Place: Colombo, Sri Lanka
+- Bio: Full stack developer
+- Github: [Lakindu Gunasekara](https://github.com/lakindu95)
