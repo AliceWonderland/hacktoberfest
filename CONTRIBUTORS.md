@@ -1,3 +1,10 @@
+#### Name: Vidit Varshney
+ - Place: Greater Noida,Uttar Pradesh, India
+ - Bio: Engineering Student.
+ - Github: [Mr. Coder](https://github.com/viditvarshney)
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
