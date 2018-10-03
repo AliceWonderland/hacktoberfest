@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ted Kim](https://github.com/00aney)
+- Place: Toronto, Canada
+- Bio: iOS Developer
+- Github: [Ted Kim](https://github.com/00aney)
