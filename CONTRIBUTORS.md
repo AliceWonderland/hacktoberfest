@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Putri Mutiara Tungga](https://github.com/mutiara-tungga)
+- Place: Magetan, Indonesia
+- Bio: Backend Developer
+- GitHub: [mutiara-tungga](https://github.com/mutiara-tungga)
