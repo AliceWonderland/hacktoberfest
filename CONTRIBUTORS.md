@@ -1,3 +1,8 @@
+#### Name: [Damian White](https://github.com/damianwhite63)
+- Place: Akron, Ohio, USA
+- Bio: Learing IT and coding in my spare time.
+- GitHub: [damianwhite63](https://github.com/damianwhite63)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
