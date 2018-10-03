@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [stocky89](https://github.com/stocky89)
+- Place: Melbourne, Australia
+- Bio: Engineer
+- Github: [stocky89](https://github.com/stocky89)
