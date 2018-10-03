@@ -1233,6 +1233,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
+#### Name: [Juliane Albuquerque](https://github.com/JulianeAlbuquerque)
+- Place: São Paulo, Brazil
+- Bio: Frontend Developer
+- GitHub: [Juliane Albuquerque](https://github.com/JulianeAlbuquerque)
+
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
