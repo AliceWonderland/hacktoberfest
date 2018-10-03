@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Margaret Landefeld](https://github.com/mlandefeld)
+- Place: Columbus, OH
+- Bio: Solutions Developer
+- Github: [Margaret Landefeld](https://github.com/mlandefeld)
