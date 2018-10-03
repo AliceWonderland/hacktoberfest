@@ -1,3 +1,8 @@
+#### Name: Georgina
+ - Place: Bletchley, Milton Keynes, UK
+ - Bio: Technologist. Love sharing knowledge.
+ - GitHub: [gtl90](https://github.com/gtl90)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
