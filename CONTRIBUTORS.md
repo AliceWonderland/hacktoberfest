@@ -954,6 +954,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love javascript! :cat:
 - GitHub: [Hoang Ha](https://github.com/halink0803)
 
+#### Name: [Uzma Faiz](https://github.com/uzmafaiz)
+- Place: Delhi,India
+- Bio: Electronics And Communication Engineer.  
+- GitHub: [Uzma Faiz](https://github.com/uzmafaiz)
+
 #### Name: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
 - Place: Hafnarfjörður, Iceland
 - Bio: Computer Scientist
