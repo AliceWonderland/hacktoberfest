@@ -7,3 +7,4 @@ int main()
 {
   cout<<" Hello World ";
 }
+Cout<<" hello";
