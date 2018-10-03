@@ -2017,6 +2017,11 @@ Noida
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+#### Name: [Sam Liu](https://github.com/freshsombody)
+- Place: Kaohsiung, Taiwan
+- Bio: Fullstack developer
+- GitHub: [freshsomebody](https://github.com/freshsombody)
+
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
