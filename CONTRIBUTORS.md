@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [gdim](https://github.com/gdim7)
+- Place: Athens, Greece
+- Bio: Student
+- Github: [gdim7](https://github.com/gdim7) 
