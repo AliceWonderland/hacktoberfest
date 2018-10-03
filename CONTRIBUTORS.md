@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [William Juan](https://github.com/williamjuan027)
+- Place: USA
+- Bio: Front End developer
+- Github: [williamjuan027](https://github.com/williamjuan027)
