@@ -1,3 +1,8 @@
+﻿#### Name: [ThankGod Egbo]
+ - Place: Lagos, Nigeria
+ - Bio: Final year Computer Science Student, Web Developer.
+ - GitHub: [Vallenain](https://github.com/ThaTruth24)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
