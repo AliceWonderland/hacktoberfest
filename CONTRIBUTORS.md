@@ -2423,7 +2423,13 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Lucas Pires](https://github.com/lucaspiressilveira)
+- Place: Recife, Brazil
+- Bio: Game Project Manager
+- Github: [lucaspiressilveira](https://github.com/lucaspiressilveira)
+
+
+
+
+
+
