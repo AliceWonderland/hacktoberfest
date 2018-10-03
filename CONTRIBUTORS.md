@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MICHAEL THOMAS](https://github.com/michaelthomas87)
+- Place: Australia
+- Bio: LabVIEW developer
+- GitHub: [michaelthomas87](https://github.com/michaelthomas87)
