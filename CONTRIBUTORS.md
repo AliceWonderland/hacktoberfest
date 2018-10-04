@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jpk3lly](https://github.com/jpk3lly)
+- Place: Crosshills, UK
+- Bio: Aspiring Aplications developer SQL, C#, PHP, HTML, CSS
+- Github: [jpk3lly](https://github.com/jpk3lly)
