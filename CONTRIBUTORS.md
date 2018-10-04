@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Himani Sharma](https://github.com/hsharma2304)
+#### Name: [Himani Sharma](https://github.com/hsharma2304) 
 - Place: Uttarakhand, India 
 - Bio: Android Developer, Java
 - Github: [Himani Sharma](https://github.com/hsharma2304)
