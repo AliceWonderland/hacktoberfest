@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Ujin Kosy](https://github.com/ujinkosy)
+- Place: Minsk, Belarus
+- Bio: JS + PHP
+- Github: [Ujin Kosy](https://github.com/ujinkosy)
