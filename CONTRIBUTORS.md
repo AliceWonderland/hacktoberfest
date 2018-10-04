@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ELVIN SAMUEL](https://github.com/ElvinSamuel)
+- Place: Atlanta, Georgia (United States)
+- Bio: Web developer, learning the LAMP stack. 
+- GitHub: [Elvin Samuel](https://github.com/ElvinSamuel)
