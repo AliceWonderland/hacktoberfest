@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [William Roy](https://github.com/Nutneutral)
+- Place: City, State, Country
+- Bio: Who are you? Who im i? Who are we?
+- GitHub: [Nutneutral](https://github.com/Nutneutral)
