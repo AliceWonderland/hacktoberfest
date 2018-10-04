@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+ #### Name: [Hunter Black](https://github.com/Gage77)
+- Place: Norman, Oklahoma
+- Bio: CS student and web developer
+- Github: [Hunter Black](https://github.com/Gage77)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
