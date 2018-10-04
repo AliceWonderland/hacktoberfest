@@ -6,7 +6,7 @@ New Delhi, India
 
 ### Interests
 
-- Exist
+- Photography
 
 ### Development
 
