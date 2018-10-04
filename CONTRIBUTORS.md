@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Angel Pink](https://github.com/pinkangelin4u)
+- Place: Columbus, Ohio
+- Bio: Engineer
+- Github: [Angel Pink](https://github.com/pinkangelin4u)
