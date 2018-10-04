@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Simey de Klerk](https://github.com/simeydk)
+- Place: Cape Town, South Africa
+- Bio: Actuary, developer fanboy
+- Github: [smieydk](https://github.com/simeydk)
