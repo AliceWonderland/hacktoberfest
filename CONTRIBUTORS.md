@@ -1,3 +1,8 @@
+#### Name: [Deepak Talan](https://github.com/d02d33pak)
+- Place: Oran, New York, Russia
+- Bio: Who am I?
+- GitHub: [d02d33pak](https://github.com/d02d33pak)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
