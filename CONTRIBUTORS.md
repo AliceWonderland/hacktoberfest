@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [zandraaperjesi](https://github.com/zandraaperjesi)
+- Place: Hungary
+- Bio: Hobby coder
+- Github: [zandraaperjesi](https://github.com/zandraaperjesi)
