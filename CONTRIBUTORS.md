@@ -16683,6 +16683,6 @@ Noida
 
 #### Name: [Andrej Wallwitz](https://github.com/andilee111)
 - Place: Munich, Germany
-- Bio: Systems Engineer
+- Bio: Systems Engineer (2018)
 - Github: [Andrej Wallwitz](https://github.com/andilee111)
 
