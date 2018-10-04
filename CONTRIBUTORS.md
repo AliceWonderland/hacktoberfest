@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Diganth](https://github.com/Diganth)
+- Place: Los Angeles, USA
+- Bio: QA Analyst
+- Github: [Diganth](https://github.com/Diganth)
