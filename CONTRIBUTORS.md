@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Dheeraj SOni](https://github.com/Dheerajandsoni)
+- Place- ROorkee,India
+- Bio- engeenering student from iit roorkee
+-Github: [Dheeraj Soni](https://github.com/Dheerajandsoni)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
