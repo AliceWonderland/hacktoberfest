@@ -1,3 +1,8 @@
+#### Name [DESI COCHRANE](https://github.com/desicochrane)
+ - Place: Amsterdam
+ - Bio: Engineer
+ - Github: [DESI COCHRANE](https://github.com/desicochrane)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
