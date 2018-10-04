@@ -13,10 +13,6 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
-#### Name: [RAJ PATHARE](https://github.com/RajPathare)
-- Place: Mumbai, INDIA
-- Bio: Final year IT student who loves gamimg.
-- GitHub: [Raj Pathare](https://github.com/RajPathare)
 
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
@@ -1909,6 +1905,11 @@ Noida
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [RAJ PATHARE](https://github.com/RajPathare)
+- Place: Mumbai, INDIA
+- Bio: Final year IT student who loves gamimg.
+- GitHub: [Raj Pathare](https://github.com/RajPathare)
 
 #### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
 - Place: Delhi, India
