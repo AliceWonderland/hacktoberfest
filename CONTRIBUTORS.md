@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Drailan John D. Terrible](https://drailanjohngss.github.io/)
+- Place: Makati, Philippines
+- Bio: Web Developer Javascript and Php
+- Github: [drailanjohngss](https://github.com/drailanjohngss)
