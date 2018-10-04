@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanseer Saji](https://github.com/tanseersaji)
+- Place: New Delhi, India
+- Bio: A high functioning sociopath, and a computer scientist
+- GitHub: [tanseersaji](https://github.com/tanseersaji)
