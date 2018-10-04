@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+# This script ensures that CONTRIBUTORS.md's current state is the same as its sorted state
+# (therefore the file is sorted)
+
+cp CONTRIBUTORS.md CONTRIB-OLD.md
+pushd sort
+./sort >> /dev/null
+popd
+cmp CONTRIBUTORS.md CONTRIB-OLD.md
