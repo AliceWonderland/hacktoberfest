@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [HOMARD](https://github.com/homard)
+- Place: Fr
+- Bio: a code newbie
+- GitHub: [homard](https://github.com/homard)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
