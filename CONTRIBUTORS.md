@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriel Nobrega](https://github.com/gabrielomn)
+- Place: Campina Grande, Brazil
+- Bio: Compsci undergraduate, code lover
+- Github: [Gabrielomn](https://github.com/Gabrielomn)
