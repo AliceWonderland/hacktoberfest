@@ -1,3 +1,8 @@
+#### Name: [Sofia Nayak](https://github.com/nayaksofia)
+- Place: Odisha, India
+- Bio: Goole India Scholar 2018 on Fron-End Web Developer Track
+- GitHub: [Sofia Nayak](https://github.com/nayaksofia)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
