@@ -1992,6 +1992,11 @@ Noida
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
 - GitHub: [tilda](https://github.com/tilda)
 
+#### Name: [Darshan D V](https://github.com/darshandv)
+ - Place: Mangalore, India
+ - Bio: Student at NITK Surathkal.
+ - GitHub: [Darshan D V](https://github.com/darshandv)
+
 #### Name: [SAIDEEP DICHOLKAR](https://github.com/saideepd)
 - Place: Mumbai, India
 - Bio: Computer Science Engineering Student & Tech Enthusiast
