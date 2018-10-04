@@ -1449,6 +1449,11 @@ Noida
 - Bio: Cat lover
 - GitHub: [mlouisekelley](https://github.com/mlouisekelley)
 
+#### Name: [Hasab Aba](https://github.com/artichoke9)
+- Place: USA
+- Bio: hobbyist
+- GitHub: [artichoke9](https://github.com/artichoke9)
+
 #### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
