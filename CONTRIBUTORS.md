@@ -1,3 +1,9 @@
+#### Name: Ajani Eniola Solomon
+ - Place: Ogun, Nigeria
+ - Bio: Software engineer. Graduated from Redeemer's university Ede.
+- Inventor :[icontact](https://icontact-33034.firebaseapp.com)
+ - GitHub: [ajanieniolasolomon](https://github.com/ajanieniolasolomon)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
