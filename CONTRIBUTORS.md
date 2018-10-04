@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [P.S.S.ABISHEK](https://github.com/PSSABISHEK)
+- Place: Chennai, Tamil Nadu, India
+- Bio: Node.js Developer and a budding React Native Developer
+- GitHub: [pssabishek](https://github.com/PSSABISHEK)
