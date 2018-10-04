@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Eduardo Rodríguez](https://github.com/EdoRguez)
+- Place: Caracas, Venezuela
+- Bio: JavaScript and C# developer
+- Github: [EdoRguez](https://github.com/EdoRguez)
