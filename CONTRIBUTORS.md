@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhinandan Dogra](https://github.com/abhinandan11)
+- Place: Srinagar, India
+- Bio: Senior-year ECE Undergrad who loves playing with data
+- Github: [syamkumar](https://github.com/abhinandan11)
