@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hanslukas](https://github.com/hanslukas)
+- Place: Palermo, Italy
+- Bio: Web developer C# and PHP
+- Github: [Hanslukas](https://github.com/hanslukas)
