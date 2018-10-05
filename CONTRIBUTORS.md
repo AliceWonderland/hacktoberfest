@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gerhard Niemand](https://github.com/gerhardniemand)
+- Place: South Africa
+- Bio: PHP Dev
+- GitHub: [Gerhard Niemand](https://github.com/gerhardniemand)
