@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Stefan Clem](https://github.com/iepoch)
+- Place: Phoenix, Arizona
+- Bio: Fullstack React Developer Student
+- Github: [iepoch](https://github.com/iepoch)
