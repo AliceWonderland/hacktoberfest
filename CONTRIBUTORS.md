@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Thomas Reiser](https://github.com/thomasreiser)
+- Place: Germany
+- Bio: Software Architect
+- Github: [thomasreiser](https://github.com/thomasreiser)
