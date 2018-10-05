@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [David Marques](https://github.com/DavidMoura07)
+- Place: Espírito Santo, Brazil
+- Bio: Programmer
+- GitHub: [DavidMoura07](https://github.com/DavidMoura07)
