@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kai Morita](https://github.com/KekoaM)
+- Place: Portland, Oregon, United States
+- Bio: Highschool student and robotics team member
+- GitHub: [KekoaM](https://github.com/KekoaM)
