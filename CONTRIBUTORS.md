@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [NITIN KUMAR](https://github.com/devaman) :sunglasses:
+- Place: New Delhi,India
+- Bio: Ethical Hacker and Software Engineer
+- GitHub: [MasterKN48](https://github.com/masterkn48)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
