@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [Gabriel Massadas](https://github.com/g4brym)
+- Place: Portugal
+- Bio: A student.
+- GitHub: [Gabriel Massadas](https://github.com/g4brym)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
