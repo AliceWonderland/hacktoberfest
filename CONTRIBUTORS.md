@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Abhinandan Dogra](https://github.com/abhinandan11)
 - Place: Srinagar, India
 - Bio: Senior-year ECE Undergrad who loves playing with data
-- Github: [syamkumar](https://github.com/abhinandan11)
+- Github: [Abhinandan11](https://github.com/abhinandan11)
