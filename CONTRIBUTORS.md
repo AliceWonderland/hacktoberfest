@@ -1,3 +1,8 @@
+﻿#### Name: [Sanyam Dawar](https://github.com/sanyam158)
+- Place: India
+- Bio: 1st year Computer science Student
+- GitHub: [sanyam158](https://github.com/sanyam158)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
