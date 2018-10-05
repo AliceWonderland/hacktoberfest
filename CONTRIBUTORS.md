@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vatsal Trivedi](https://github.com/vattytrivedi)
+- Place: Amreli, Gujarat, India
+- Bio: Web developer, Google India Scholar - Frontend track, Designer
+- Github: [Vatsal Trivedi](https://github.com/vattytrivedi)
