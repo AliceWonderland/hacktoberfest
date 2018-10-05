@@ -53,4 +53,7 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-
+#### Name: [George Raymond](https://github.com/Tekon)
+- Place: UK
+- Bio: Just graduated as a Media Production Student
+- GitHub: [Tekon](https://github.com/Tekon)
