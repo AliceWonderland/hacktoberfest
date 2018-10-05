@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jee Van Kur] (https://github.com/jee-van-kur/)
+- Place: North East India
+- Bio: Student Developer
+- GitHub: [Jee Van Kur] (https://github.com/jee-van-kur/)
