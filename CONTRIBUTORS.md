@@ -15,7 +15,7 @@
 
 #### Name: [NITIN KUMAR](https://github.com/devaman) :sunglasses:
 - Place: New Delhi,India
-- Bio: Ethical Hacker and Software Engineer
+- Bio: Ethical Hacker and Full Stack Web Dev..
 - GitHub: [MasterKN48](https://github.com/masterkn48)
 
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
