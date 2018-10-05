@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bruno Dulcetti](https://github.com/dulcetti)
+- Place: Rio de Janeiro, Brazil
+- Bio: I'm a Front-End developer and work with React, React Native, Angular, AngularJS, ES6, CSS3, HTML5, UX and others technologies.
+- GitHub: [Bruno Dulcetti](https://github.com/dulcetti)
