@@ -1,0 +1,12 @@
+// LANGUAGE: birl
+// AUTHOR: David Marques
+// GITHUB: https://github.com/davidmoura07
+
+// liguage based on a brazillian meme
+//site: https://birl-language.github.io/
+
+
+HORA DO SHOW
+    CE QUER VER ESSA PORRA? ("Hello, World! Porra!\n");
+    BORA CUMPADE 0;
+BIRL
