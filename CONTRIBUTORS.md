@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [David](https://github.com/dvlwj)
+- Place: Batam, Indonesia
+- Bio: Herbivore Developer by Day, Carnivore Basketballer by Night. Android Enthusiast. Self Proclaimed Front End Developer.
+- Github: [dvlwj](https://github.com/dvlwj)
