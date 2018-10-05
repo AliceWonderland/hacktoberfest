@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matheus Barbosa](https://github.com/MatheusRBarbosa)
+- Place: Espírito Santo, Brazil
+- Bio: Web developer TS and Node
+- Github: [Matheus Barbosa](https://github.com/MatheusRBarbosa)
