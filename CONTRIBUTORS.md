@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kevin Young](https://github.com/iamkevinyoung)
+- Place: London, UK
+- Bio: wholesome human being ;D
+- Github: [iamkevinyoung](https://github.com/iamkevinyoung)
