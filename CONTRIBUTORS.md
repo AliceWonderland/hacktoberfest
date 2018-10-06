@@ -1982,6 +1982,11 @@ Noida
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
 - Starup: [EndorseU](http://www.endorseu.com)
 
+#### Name: [Ryan Leach](https://github.com/FunkyFries)
+- Place: Seattle, Washington, USA
+- Bio: Elementary Teacher
+- GitHub: [FunkyFries](https://github.com/FunkyFries)
+
 #### Name: [Ryan Sperzel](https://github.com/ryansperzel)
 - Place: NYC, New York, USA
 - Bio: Recent college grad attending Flatiron School coding bootcamp
