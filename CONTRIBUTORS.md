@@ -1,3 +1,7 @@
+#### Name: [Janvi Bhagiya](https://github.com/JSbhagiya)
+- Place: India
+- Bio: I am imperfect but it is perfectly me!!
+- GitHub: [JSbhagiya](https://github.com/JSbhagiya)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
