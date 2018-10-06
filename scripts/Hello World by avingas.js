@@ -1,6 +1,5 @@
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Anthony Vingas
-// GITHUB: https://github.com/avingas
+// AUTHOR: subhasis patra
 
 console.log("Hello World") 
+
+
