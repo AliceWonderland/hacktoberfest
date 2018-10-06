@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DataSecs](https://github.com/DataSecs)
+- Place: Aachen, Germany
+- Bio: Student
+- Github: [DataSecs](https://github.com/DataSecs)
