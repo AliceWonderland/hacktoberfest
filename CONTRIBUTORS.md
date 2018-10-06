@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ANERI MEHTA](https://github.com/AneriMehta)
+- Place: Bhavnagar, Gujarat
+- Bio: Computer Engineer
+- GitHub: [AneriMehta](https://github.com/AneriMehta)
