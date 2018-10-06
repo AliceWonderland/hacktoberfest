@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [s1r-J](https://github.com/s1r-J)
+- Place: Japan
+- Bio: engineer
+- GitHub: [s1r-J](https://github.com/s1r-J)
