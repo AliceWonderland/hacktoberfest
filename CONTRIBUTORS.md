@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [LuckyPigeon](https://github.com/LuckyPigeon)
+- Place: Taichung, Taiwan
+- Bio: Maching Learning and DevOps developer
+- Github: [LuckyPigeon](https://github.com/LuckyPigeon)
+
