@@ -1,3 +1,8 @@
+#### Name: Achyuth
+ - Place: TamilNadu, India
+ - Bio: Bachelor of technology. Vellore institute of technology.
+ - GitHub: [Achyuth-R](https://github.com/Achyuth-R)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
