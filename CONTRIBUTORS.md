@@ -1015,6 +1015,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [Jatin Mehta](https://github.com/Exoceus)
+- Place: Mississauga, Ontario, Canada
+- Bio: Student who is interested in software.
+- Github: [Exoceus](https://github.com/Exoceus)
+
 #### Name: [JOE SCHO](https://github.com/JoeScho)
 - Place: London, UK
 - Bio: I love guitar!
