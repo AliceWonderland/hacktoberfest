@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nishit Attrey](https://github.com/NishitAttrey)
+- Place: New Delhi,India
+- Bio: Passionate Coder and Computer Science Engineer
+- Github: [NishitAttrey](https://github.com/NishitAttrey)ngnf
