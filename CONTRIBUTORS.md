@@ -1,3 +1,7 @@
+#### Name: SAGAR PANTA
+ - Place: CHITWAN, NEPAL
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [sagar2s](https://github.com/sagar2s)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16680,4 +16684,5 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
 
