@@ -1629,6 +1629,11 @@ Noida
 - Bio: Programmer
 - GitHub: [haugenmitch](https://github.com/haugenmitch)
 
+#### Name: [Mohit Yadav](https://github.com/mohityadav7)
+- Place: Faridabad, Haryana, India
+- Bio: Programmer and Student
+- GitHub: [mohityadav7](https://github.com/mohityadav7)
+
 #### Name: [Moisés Ñañez](https://github.com/moisesnandres)
 - Place: Ica, Perú
 - Bio: Software developer and musician
