@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Tharuja Sandeepanie](https://github.com/Tharuja)
+- Place: Sri Lanka
+- Bio: Undergraduate at University of Moratuwa
+- GitHub: [Tharuja Sandeepanie](https://github.com/Tharuja)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
