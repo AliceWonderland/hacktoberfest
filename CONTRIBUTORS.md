@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raul Almeida](https://github.com/itepifanio)  
+- Place: Curitiba, Brazil  
+- Bio: CS student  
+- Github: [Raul Almeida](https://github.com/haltsimog)  
