@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: Ano
+ - Place: Mumbai, India
+ - Bio: Software engineer. Graduated from Mumbai University.
+ - GitHub: [Ano](https://github.com/anoNewb)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK

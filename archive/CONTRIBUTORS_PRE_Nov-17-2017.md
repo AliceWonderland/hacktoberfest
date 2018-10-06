@@ -38,6 +38,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: Ano
+ - Place: Mumbai, India
+ - Bio: Software engineer. Graduated from Mumbai University.
+ - GitHub: [Ano](https://github.com/anoNewb)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
