@@ -1,0 +1,6 @@
+// LANGUAGE: Python
+// ENV: Anaconda
+// AUTHOR: Jatin Mehta
+// GITHUB: https://github.com/Exoceus
+
+print('Hello World!")
