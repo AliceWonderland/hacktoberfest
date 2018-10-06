@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Tanet Pornsirirat](https://github.com/caomus) 
+- Place: Bangkok, Thailand.
+- Bio: Game developer
+- GitHub : [caomus](https://github.com/caomus)
