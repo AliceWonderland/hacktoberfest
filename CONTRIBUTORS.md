@@ -1,3 +1,8 @@
+#### Name: [Dwiky Chandra](https://github.com/dwikychandra21)
+ - Place: Bali, Indonesia
+ - Bio: Student :computer:
+ - GitHub: [dwikychandra21](https://github.com/dwikychandra21)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
