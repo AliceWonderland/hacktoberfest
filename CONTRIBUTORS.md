@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SARANYA JENA](https://github.com/Saranya-jena)
+- Place: India
+- Bio: second year Computer Science Student, in love with coding <3
+- GitHub: [Saranya-jena](https://github.com/Saranya-jena)
