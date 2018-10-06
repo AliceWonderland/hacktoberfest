@@ -2298,6 +2298,11 @@ Noida
 - Bio: I am a Machine Learning enthusiast.
 - GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
 
+#### Name: [Viktor Bakulin](https://github.com/alanthel)
+- Place: Samara, Russia
+- Bio: Junior mobile and game developer. Geek. Gamer.
+- GitHub: [Alanthel](https://github.com/alanthel)
+
 #### Name: [Valera Kushnir](https://github.com/kashura)
 - Place: Tampa, FL, USA
 - Bio: Scrum Master and passionate technologist.
