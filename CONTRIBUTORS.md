@@ -1,3 +1,8 @@
+#### Name: Phillipe Souza
+ - Place: Bahia, Brazil
+ - Bio: Front-end Dev. 
+ - GitHub: [PhillipeSouza](https://github.com/phillipesouza)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
