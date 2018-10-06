@@ -1178,6 +1178,11 @@ to explore life. Also, Python and Django Developer
 -Bio: Web Developer
 -GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
 
+#### Name: [Jonas](https://github.com/hubblejo)
+- Place: BW, Germany
+- Bio: student, i like kotlin 
+- GitHub: [HubbleJo](https://github.com/hubblejo)
+
 #### Name: [Jonas Fabisiak](https://github.com/RenCloud)
 - Place: Hanover, Germany
 - Bio: IT Student
