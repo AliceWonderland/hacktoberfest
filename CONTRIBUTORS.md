@@ -2052,6 +2052,11 @@ Noida
 - Bio: PhD student in Software Engineering
 - Github: [Shade Ruangwan](https://github.com/sruangwan)
 
+#### Name: [Shakeel S](https://github.com/shakeelsamsu)
+- Place: Dallas, TX, USA
+- Bio: Aspriring Data Scientist and Amateur Competitive Programmer.
+- Github: [shakeelsamsu](https://github.com/shakeelsamsu)
+
 #### Name: [Shankhalika Sarkar](https://github.com/Shankhalika)
 - Place: Karnataka, India
 - Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
