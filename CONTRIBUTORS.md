@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sziddhant] (https://github.com/sziddhant)
+- Place: India
+- Bio: Student
+- GitHub: [sziddhant] (https://github.com/sziddhant)
