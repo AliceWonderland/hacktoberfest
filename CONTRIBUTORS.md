@@ -1015,6 +1015,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [JENN PARKER](https://github.com/jennparker)
+- Place: Seattle, WA, USA
+- Bio: Android Dev/Technical Editor
+- Github: [jennparker](https://github.com/jennparker)
+
 #### Name: [JOE SCHO](https://github.com/JoeScho)
 - Place: London, UK
 - Bio: I love guitar!
