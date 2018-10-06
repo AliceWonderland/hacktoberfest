@@ -2430,3 +2430,5 @@ Noida
 
 #### Name : [Bryan C] (https://github.com/bchoe)
 - Location: Hawaii, USA
+- Academics: University of Hawaii
+- Interests: Gym
