@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [SAMEER KHAN](https://github.com/sameerkhan116)
+- Place: Raleigh, North Carolina
+- Bio: Software Engineer at Quadient
+- Github: [sameerkhan116](https://github.com/sameerkhan116)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
