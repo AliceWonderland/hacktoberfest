@@ -2425,5 +2425,10 @@ Noida
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
-- Bio: Web developer PHP and Python
+- Bio: Web developer PHP and 
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sriram Pingali](https://github.com/SriramPingali)
+- Place: Patna, India
+- Bio: Machine,Articial Intelligence and Python
+- Github: [Sriram Pingali](https://github.com/SriramPingali)
