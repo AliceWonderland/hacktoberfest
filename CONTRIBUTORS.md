@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chris Athanas, realityexpander](https://github.com/realityexpander)
+- Place: Austin, Texas USA
+- Bio: Thai yoga bodyworker, Android & Javascript Dev, Hack Reactor Hacker
+- GitHub: [realityexpander](https://github.com/realityexpander)
