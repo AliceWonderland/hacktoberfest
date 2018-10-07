@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shyam Sundar S](https://github.com/ShyamSundarShankar)
+- Place: Chennai, TN, India
+- Bio: A Data Enthusiast having 8+ Years of Experience
+- Github: [Shyam Sundar S](https://github.com/ShyamSundarShankar)
