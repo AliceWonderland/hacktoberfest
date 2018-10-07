@@ -1,3 +1,8 @@
+#### Name: KRUPAL RAJ
+ - Place: AndhraPradesh, India
+ - Bio: Student. Studyind Btech in Karunya University.
+ - GitHub: [krupal](https://github.com/krupalraj)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
