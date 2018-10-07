@@ -1,3 +1,8 @@
+#### Name: Usman Ahmad Saeed
+ - Place: Lahore, Pakistan
+ - Bio: Tech Enthusiast, IT & STEM Lover. Self-learning
+ - GitHub: [Usman Ahmad Saeed](https://github.com/UsmanAhmadSaeed)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
