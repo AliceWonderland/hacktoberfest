@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sejal Bhalla](https://github.com/sejaldel)
+-Place: Ghaziabad, Uttar Pradesh, India
+-Bio: Computer Science student
+-Github: [sejaldel](https://github.com/sejaldel)
