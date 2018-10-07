@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Abhishek Kumar](https://github.com/imabhishekkumar)
+- Place: Chennai, India
+- Bio: Android Developer
+- GitHub: [Abhishek Kumar](https://github.com/imabhishekkumar)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
@@ -199,11 +204,6 @@ to explore life. Also, Python and Django Developer
 - Place: Torres, RS, Brazil
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
-
-#### Name: [Abhishek Kumar](https://github.com/imabhishekkumar)
-- Place: Chennai, India
-- Bio: Android Developer
-- GitHub: [Abhishek Kumar](https://github.com/imabhishekkumar)
 
 #### Name: [Alistair](https://github.com/aowongster)
 - Place: San Diego, CA
