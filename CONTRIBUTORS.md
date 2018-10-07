@@ -1,3 +1,7 @@
+### Name: Vivek
+-Place: Chennai, India
+-Bio: Student.
+-GitHub: [vivekjagannath](https://github.com/vivekjagannath)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
