@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ashwin Nayak
+ - Place: Mangalore, India
+ - Bio: IT undergrad
+ - GitHub: [Vallenain](https://github.com/not4win)
