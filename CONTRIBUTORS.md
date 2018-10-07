@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ALEXEY SALANGIN](https://github.com/magauran)
+- Place: Saint Petersburg
+- Bio: iOS developer
+- GitHub: [Magauran](https://github.com/magauran)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
