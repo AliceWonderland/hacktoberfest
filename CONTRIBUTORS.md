@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sheeraz Ali](https://github.com/sheerazali19)
+- Place: India
+- Bio: I am a independent cyber security analyist and i love to automate stuff with scripts
+- GitHub: [Sheeraz Ali](https://github.com/sheerazali19)
