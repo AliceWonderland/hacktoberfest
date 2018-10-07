@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Tiago Bernardo](https://github.com/Tiago-OP)
 - Place: London, United Kingdom
 - Bio: C# Back End Developer
-- GitHub: [GitHub account name](https://github.com/Tiago-OP)
+- GitHub: [Tiago-OP](https://github.com/Tiago-OP)
