@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [ANSHDEEP SINGH](https://github.com/ansh94)
+- Place: Bangalore, India
+- Bio: Android Developer and a Liverpool Fanatic
+- GitHub: [Anshdeep Singh](ttps://github.com/ansh94)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
