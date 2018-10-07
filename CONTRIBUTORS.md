@@ -16683,5 +16683,6 @@ Noida
 
 #### Name: [Janitha](https://github.com/Janitha133)
 - Place: Rathnapura,Srilanka
+- Bio: Angular Web Developer
 - GitHub: [Janitha133](https://github.com/Janitha133)
 
