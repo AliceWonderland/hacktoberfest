@@ -1,3 +1,8 @@
+#### Name: [Anushka Svara](https://github.com/dumbcoder2399)
+ - Place: Chennai, India
+ - Bio: CSE sophomore 
+ - GitHub: [dumbcoder2399](https://github.com/dumbcoder2399)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
