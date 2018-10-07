@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Baseem Missaghi](https://github.com/ba5eem)
+- Place: Honolulu, Hawaii
+- Bio: AR/VR Developer - React & NodeJS
+- Github: [Baseem Missaghi](https://github.com/ba5eem)
