@@ -725,4 +725,8 @@ s in Computer Science
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
+#### Name: [Damodar Lohani](https//github.com/lohanidamodar)
+- Place: Kathmandu, Nepal
+- Bio: Fullstack Developer
+- Github: [Damodar Lohani](https//github.com/lohanidamodar)
 
