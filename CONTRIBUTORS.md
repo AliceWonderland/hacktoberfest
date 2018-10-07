@@ -2,7 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+ 
+ #### Name: Jatin Aggarwal
+ - Place: India
+ - Bio: First Year Student at Thapar Institute of Engineering & Technology
+ - GitHub: [jatinagg1](https://github.com/jatinagg1)
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
