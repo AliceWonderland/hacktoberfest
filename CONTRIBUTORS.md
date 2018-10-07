@@ -2173,7 +2173,7 @@ Noida
 
 #### Name: [Søren Eriksen](https://github.com/soer7022)
 - Place: Denmark
-- Bio: Currently studying computerscience at Aarhus University
+- Bio: Currently studying computerscience at 3rd. semester at Aarhus University
 - Github: [Søren Eriksen](https://github.com/soer7022)
 
 #### Name: [Taf Meister](https://github.com/tashrafy)
