@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [mormod](https://github.com/mormod)
+- Place: Aachen, Germany
+- Bio: CS Student
+- Github: [mormod](https://github.com/mormod)
