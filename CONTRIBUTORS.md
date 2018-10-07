@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ZW Tan](https://github.com/zwtan)
+- Place: Singapore
+- Bio: Developer and DevOps
+- Github: [ZWTan](https://github.com/zwtan)
