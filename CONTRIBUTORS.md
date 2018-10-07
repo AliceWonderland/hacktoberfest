@@ -835,6 +835,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [Gabriela Stefanie](https://github.com/stgabi)
+- Place: São Paulo, Brazil
+- Bio: Biomedical Informatics student
+- GitHub: [Gabriela Santos](https://github.com/stgabi)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
