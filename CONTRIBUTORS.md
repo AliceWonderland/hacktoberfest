@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Tejal Gokulsing](https://github.com/smolchewbacca)
-- Place: Qatre Bornes, Mauritius
+- Place: Quatre - Bornes, Mauritius
 - Bio: -
 - Github: [smolchewbacca](https://github.com/smolchewbacca)
