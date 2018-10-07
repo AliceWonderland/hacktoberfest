@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dan Postelnicu](https://github.com/kolapsys)
+- Place: Timisoara, Romania
+- Bio: Embedded Software Engineer
+- Github: [Dan Postelnicu](https://github.com/kolapsys)
