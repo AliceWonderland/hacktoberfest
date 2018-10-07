@@ -16681,8 +16681,5 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Janitha](https://github.com/Janitha133)
-- Place: Rathnapura,Srilanka
-- Bio: Angular Web Developer :)
-- GitHub: [Janitha133](https://github.com/Janitha133)
+
 
