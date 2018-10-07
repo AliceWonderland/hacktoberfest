@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sofia Suarez](https://github.com/szsofia)
+- Place: Buenos Aires, Argentina
+- Bio: Student at Universidad de Buenos Aires
+- GitHub: [szsofia](https://github.com/szsofia)
