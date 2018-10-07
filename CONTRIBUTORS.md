@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Thomas Mort] (https://github.com/Tommygun200202)
+- Place: United Kingdom
+- Bio: High school Student
+- Github: [Thomas Mort] (https://github.com/Tommygun200202)
