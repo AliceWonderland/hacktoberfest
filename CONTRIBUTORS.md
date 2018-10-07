@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jonas Martinez](https://github.com/jonas-martinez)
+- Place: France
+- Bio: Computer science student
+- Github: [jonas-martinez](https://github.com/jonas-martinez)
