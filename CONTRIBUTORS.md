@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Drcox23 (https://github.com/drcox23)
+- Place: Honolulu, Hawaii, USA
+- Bio: Student
+- GitHub: [drcox23](https://github.com/drcox23)
