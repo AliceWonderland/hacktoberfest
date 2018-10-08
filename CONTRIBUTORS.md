@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sparkle](https://github.com/tumdef)
+- Place: Thailand, Bangkok
+- Bio: college student (Computer Science)
+- GitHub: [tumdef](https://github.com/tumdef)
