@@ -1,3 +1,9 @@
+### Divyum Bhumra
+-Place: Chandigarh, India 
+-Bio:Final Year Computer Engineering Student,President at Rotaract Club Chandigarh Himalayan(We are Family of 600+ Rotaractors),Loves Graphic Designing | Blockchain, Deep Learning Enthusiast | Exploring Android & Web Development :') 
+- GitHub: [divzhere](https://github.com/divzhere)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
