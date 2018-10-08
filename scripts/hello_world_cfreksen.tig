@@ -1,0 +1,13 @@
+/* LANGUAGE: Tiger
+ * ENV: N/A
+ * AUTHOR: Casper Freksen
+ * GITHUB: https://github.com/cfreksen
+ * GITLAB: https://gitlab.com/cfreksen
+ *
+ * The language is a toy language by Andrew W. Appel accompanying his
+ * compiler book "Modern Compiler Implementation in ML"
+ * (https://www.cs.princeton.edu/~appel/modern/ml/).
+ */
+
+(print("Hello, World!");
+ 0)
