@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JanuriDP](https://github.com/JanuriDP)
+- Place: Jakarta, Indonesia
+- Bio: Web & DevOps
+- Github: [JanuriDP](https://github.com/JanuriDP)
