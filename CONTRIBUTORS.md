@@ -1030,6 +1030,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist by profession and student by heart.
 - GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
 
+#### Name: [Jaco Minnaar](https://github.com/Jaco-Minnaar)
+- Place: Bloemfontein, South Africa
+- Bio: CompSci student at University of the Free State.
+- GitHub: [Jaco-Minnaar](https://github.com/Jaco-Minnaar) 
+
 #### Name: [Jakub Bačo](https://github.com/vysocina)
 - Place: Slovakia
 - Bio: Student / Designer
