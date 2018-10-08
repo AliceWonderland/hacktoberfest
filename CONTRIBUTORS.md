@@ -56,7 +56,7 @@
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
- - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+Add your contribution - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Ícaro Duarte](https://github.com/icarodgl)
 - Place: Vitória, Brazil
 - Bio: Web developer JS, Python, Scrum Master, API Gateways and docker
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Icaro Duarte](https://github.com/icarodgl)
