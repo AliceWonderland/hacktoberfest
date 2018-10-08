@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [Ovidiu Sabau](https://github.com/OvidiuSabau)
+- Place: Edinburgh, UK
+- Bio: Student
+- Github: [Ovidiu Sabau](https://github.com/OvidiuSabau)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
