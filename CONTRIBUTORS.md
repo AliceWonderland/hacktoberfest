@@ -561,6 +561,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Love to learn something new everyday
 - GitHub: [crisbnk](https://github.com/crisbnk)
 
+#### Name: [Dhruv-Verma](https://github.com/Dhruv-Verma)
+- Place : Delhi, India
+- Bio: Data Scinece Enthusiast
+- Github: [Dhruv-Verma](https://github.com/Dhruv-Verma)
+
 #### Name: [Curian lee Zhen Jie](https://github.com/finalight)
  - Place: Singapore
  - Bio: Fullstack, devops practitioner
