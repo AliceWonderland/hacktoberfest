@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanket Thakur](https://github.com/sanketkumar1996)
+- Place: bangalore, India
+- Bio: VR developer
+- Github: [sanketkumar1996](https://github.com/sanketkumar1996)
+
