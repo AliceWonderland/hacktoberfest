@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Davide Trainini](https://github.com/Trainax)
+- Place: Brescia, Italy
+-Bio: IT student at ITIS B. Castelli in Brescia, Italy.
+-Github: [Trainax](https://github.com/Trainax)
