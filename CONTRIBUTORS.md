@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Sunny B
+ - Place: Malaysia
+ - Bio: Software engineer. Graduated from UM.
+ - GitHub: [Sunny B] (https://github.com/HelloSeaNation)
