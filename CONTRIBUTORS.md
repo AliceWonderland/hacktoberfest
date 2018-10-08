@@ -698,6 +698,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I Love Code and Design.
 - GitHub: [Egi Nugraha](https://github.com/eginugraha)
 
+#### Name: [Egi Mirushi](https://github.com/eginugraha)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I Love Code and Design.
+- GitHub: [Egi Nugraha](https://github.com/eginugraha)
+
 #### Name: [Elan Ripley](https//github.com/tattarrattat)
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
