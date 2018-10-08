@@ -1,3 +1,8 @@
+#### Name: [James Anderson](https://github.com/moodiest)
+- Place: Huddersfield, Yorkshire, United Kingdom
+- Bio: Cryptocurrency enthusiast.
+- GitHub: [moodiest](https://github.com/moodiest)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
