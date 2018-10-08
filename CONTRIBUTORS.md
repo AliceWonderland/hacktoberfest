@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: ckerr1999 (https://github.com/ckerr1999)
+- Place: Toronto Canada
+- Bio: Novice Developer
+- Github: https://github.com/ckerr1999)
