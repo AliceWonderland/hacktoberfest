@@ -1,3 +1,8 @@
+#### Name: [Hattou Faïssal](https://github.com/Bakhaw)
+ - Place: Paris, France
+ - Bio: Web developer. React lover.
+ - GitHub: [Bakhaw](https://github.com/Bakhaw)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
