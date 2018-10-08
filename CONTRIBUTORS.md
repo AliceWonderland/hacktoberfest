@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [James Zhong](thebitspud.github.io)
+- Place: Vancouver, Canada
+- Bio: Full time student
+- Github: [James Zhong](https://github.com/thebitspud)
