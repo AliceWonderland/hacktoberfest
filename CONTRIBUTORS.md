@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [TagLog](https://github.com/NJOYSoftware)
+- Place: Italy
+- Bio: CS Student
+- Github: [NJOYSoftware](https://github.com/NJOYSoftware)
