@@ -1,3 +1,8 @@
+#### Name: [Vishal Pouras](https://github.com/vishal-pouras)
+- Place: Roorkee, Uttrakhand, India
+- Bio: Computer Science Student at IIT Roorkee
+- GitHub: [Vishal Pouras](https://github.com/vishal-pouras)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
