@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MariyaAsterisk](https://github.com/MariyaAsterisk)
+- Place: Kazan, Russsia
+- Bio: VoIP engiener
+- Github: [MariyaAsterisk](https://github.com/MariyaAsterisk)
