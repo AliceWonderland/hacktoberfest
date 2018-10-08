@@ -430,6 +430,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Elixir Dev / Nuclear Engineer
 - GitHub: [Bryan Tylor](https://github.com/bryantylor)
 
+#### Name: [George Kosmidis](https://github.com/georgekosmidis)
+- Place: Munich
+- Bio: Software Developer
+- GitHub: [George Kosmidis](https://github.com/georgekosmidis)
+
 #### Name: [Bryan Wigianto](https://github.com/bwigianto)
 - Place: USA
 - Bio: Engineer
