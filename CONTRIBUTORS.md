@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Faishal Rusydan](https://github.com/faishal7777)
+- Place: Surabaya, Indonesia
+- Bio: Student, interested in UX design
+- Github: [Faishal Rusydan](https://github.com/faishal7777)
