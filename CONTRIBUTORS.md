@@ -1,6 +1,6 @@
 #### Name: [Paul Seghers](https://github.com/paulseghers)
-- Place: København. living in palaiseau atm
-- Bio: Computer Science and Math student at École POlytechnique
+- Place: København
+- Bio: Computer Science Student
 - GitHub: [paulseghers](https://github.com/paulseghers)
 
 #### Name: Vallenain
