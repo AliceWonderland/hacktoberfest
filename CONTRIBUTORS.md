@@ -1,3 +1,8 @@
+#### Name: [Alipoodle](https://alipoodle.moe)
+- Place: South England
+- Bio: I'm a young Coder trying to grow big!
+- GitHub: [Alipoodle](https://github.com/Alipoodle)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
