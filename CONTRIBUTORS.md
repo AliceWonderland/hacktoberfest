@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Shubham Patil](https://github.com/shubham76)
+- Place: Mumbai, MH, India
+- Bio: Love Travelling!
+- GitHub: [Shubham Patil](https://github.com/shubham76)
