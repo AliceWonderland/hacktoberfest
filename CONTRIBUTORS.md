@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Rebecca Eilering](https://github.com/rebeccaeilering)
 - Place: Springfield, IL USA
 - Bio: Front End Web Developer
-- Github: [Ítalo Epifânio](https://github.com/rebeccaeilering)
+- Github: [Rebecca Eilering](https://github.com/rebeccaeilering)
