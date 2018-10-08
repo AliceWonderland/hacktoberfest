@@ -1408,6 +1408,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
 
+#### Name: [Lucas G](https://github.com/lukasg18)
+- Place: Brazil
+- Bio: Computer Science Student
+- GitHub: [Lucas G](https://github.com/lukasg18)
+
 #### Name: [Luke Taylor](https://github.com/lmcjt37)
 - Place: Derby, UK
 - Bio: Senior Software Engineer, child at heart
