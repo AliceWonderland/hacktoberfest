@@ -2323,6 +2323,11 @@ Noida
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
+#### Name: [Vinod J](https://github.com/VinodVJ)
+- Place: Bengaluru, India
+- Bio: Software engineer in a startup company.
+- GitHub: [VinodVJ](https://github.com/VinodVJ)
+
 #### Name: [Vo Tan Tho](https://github.com/kensupermen)
 - Place: Ho Chi Minh City, VietNam
 - Bio: I'm Software Engineer at Dinosys
