@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Liv Souza](https://github.com/tigerrobocop)
+- Place: Recife, Brazil
+- Bio: Software Engineer @ CESAR
+- Github: [TigerRobocop](https://github.com/tigerrobocop)
