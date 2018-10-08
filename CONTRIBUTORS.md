@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Josh Flayhart](https://github.com/jflayhart)
+- Place: Birmingham, AL, USA
+- Bio: Software Engineer, IoT hobbyist
+- Github: [jflayhart](https://github.com/jflayhart)
