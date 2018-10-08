@@ -1126,6 +1126,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
 - Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
 
+#### Name: [João Canabarro](https://github.com/jcanabarro)
+- Place: Cascavel, PR, Brazil
+- Bio: Full-Stack Developer and Python lover
+- GitHub: [Joe Hanson](https://github.com/jcanabarro)
+
 #### Name: [Joe Hanson](https://github.com/jahanson)
 - Place: San Antonio, TX, United States
 - Bio: Front-End Developer
