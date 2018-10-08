@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ícaro Duarte](https://github.com/icarodgl)
+- Place: Vitória, Brazil
+- Bio: Web developer JS, Python, Scrum Master, API Gateways and docker
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
