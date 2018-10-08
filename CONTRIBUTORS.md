@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avantika Kakran](https://github.com/avantikakakran)
+- Place: Punjab, India
+- Bio: Electronics Engineer
+- Github: [avantikakakran](https://github.com/avantikakakran)
