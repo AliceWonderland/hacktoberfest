@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raúl Gil](https://github.com/raulgv)
+- Place: Spain
+- Bio: second year Computer Science Student, auto-self taught web dev
+- GitHub: [Raul Gil](https://github.com/raulgv)
