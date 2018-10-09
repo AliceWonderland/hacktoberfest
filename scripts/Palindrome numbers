@@ -1,0 +1,21 @@
+/* A program to check whether a number is a palindrome or not. Palindromic number is a number that is the same when written forwards or backwards. */
+
+#include <iostream>
+
+int main()
+{
+  int number, actual_number, reversed_number = 0;
+  std::cout << "Enter the number: ";
+  std::cin >> number;
+  std::cout << number;
+  actual_number = number;
+  while (number != 0) {
+    reversed_number = (reversed_number * 10) + (number % 10);
+    number /= 10;
+  }
+  if (reversed_number == actual_number)
+  std::cout << "\n It is a palindrome.";
+  else
+  std::cout << "\n It is not a palindrome.";
+  return 0;
+}
