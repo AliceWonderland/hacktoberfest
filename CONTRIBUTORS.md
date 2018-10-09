@@ -395,6 +395,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Bill Tanthowi Jauhari](https://github.com/billxcode)
+- Place: Indonesia, ASIA 
+- Bio: Software Engineer, Bachelors in Computer Science
+- Github: [Bill Tanthowi Jauhari](https://github.com/billxcode)
+
 #### Name: [Branden] (https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
