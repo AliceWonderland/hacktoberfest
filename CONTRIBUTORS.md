@@ -1,3 +1,8 @@
+#### Name: Ricky
+ - Place: Florida
+ - Bio: Sophmore Computer Science Student.
+ - GitHub: [rickyli888](https://github.com/rickyli888)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
