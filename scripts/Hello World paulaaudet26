@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Paula Audet
+// GITHUB: https://github.com/paulaaudet26
+
+console.log('Hello, World!');
