@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adar Wall](https://github.com/adarwall)
+- Place: Kfar Saba, Israel
+- Bio: Beginner Programmer
+- GitHub: [adarwall](https://github.com/adarwall)
