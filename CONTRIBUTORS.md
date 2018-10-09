@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Karala](https://github.com/ShubhamKarala)
+- Place: New Delhi, Delhi, India
+- Bio: I am a student and a web developer currently working on PHP and python languages
+- GitHub: [Shubham Karala](https://github.com/ShubhamKarala)
