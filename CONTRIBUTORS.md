@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Hassan Rao](https://github.com/nerdrobot)
+- Place: Salt lake City, Utah, USA
+- Bio: Student-developer
+- Github: [nerdrobot](https://github.com/nerdrobot)
