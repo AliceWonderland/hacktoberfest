@@ -783,6 +783,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Fullstack Web developer, Computer Engineering Master student
 - GitHub: [faouziamrouche](https://github.com/faouziamrouche)
 
+#### Name: [Farmin Farzin](https://github.com/farminf)
+- Place: Milan, Italy
+- Bio: Full-stack developer
+- GitHub: [farminf](https://farminf.github.io)
+
 #### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
