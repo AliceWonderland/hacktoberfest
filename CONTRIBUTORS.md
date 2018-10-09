@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jeongwhan Choi (최정환)](https://github.com/jeongwhanchoi)
+
+- Place: Seoul, South Korea
+- Bio:  Undergraduate Student, Dept. Software Engineering
+- GitHub: [jeongwhanchoi](https://github.com/jeongwhanchoi)
