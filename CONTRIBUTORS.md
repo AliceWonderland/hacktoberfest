@@ -1,3 +1,8 @@
+#### Name: [Jonas Karg](https://github.com/KargJonas)
+- Place: Linz, Upper Austria, Austria
+- Bio: I enjoy making tools and websites that enable people to do more.
+- GitHub: [KargJonas](https://github.com/KargJonas)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -1474,9 +1479,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
