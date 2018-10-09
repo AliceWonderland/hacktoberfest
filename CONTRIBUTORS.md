@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -82,6 +82,11 @@
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
+
+#### Name: [GiaLauren](https://github.com/gialauren)
+- Place: NJ
+- Bio: Hockey and vodka
+- GitHub: [GiaLauren](https://github.com/gialauren)
 
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
