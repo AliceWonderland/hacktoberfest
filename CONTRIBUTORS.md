@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Robin Migalski](https://github.com/RobinMglsk)
+- Place: Hasselt, Belgium
+- Bio: Web developer PHP and NodeJs
+- Github: [RobinMglsk](https://github.com/RobinMglsk)
