@@ -144,6 +144,11 @@ to explore life. Also, Python and Django Developer
  - Place: Hyderabad, India
  - Bio: CSE Undergrad in IIIT Hyderabad
  - Github: [akshat14714](https://github.com/akshat14714/)
+ 
+#### Name : [Akshay Kumar](https://github.com/AkshayKumar007)
+- Place: Bengaluru, INDIA
+- Bio: CSE Undergrad, Machine Learning Enthusiast , I love Python.
+- GitHub: [Akshay Kumar](https://github.com/AkshayKumar007)
 
 #### Name: [Akshit Kharbanda](https://github.com/akshit04)
 - Place: Delhi, India
