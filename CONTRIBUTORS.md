@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ahmad Syauqi](https://github.com/syauqiahmd)
+- Place: Banjarbaru - South Borneo, Indonesia
+- Bio: Web developer and Graphic Designer
+- Github: [Ahmad Syauqi](https://github.com/syauqiahmd)
