@@ -2259,6 +2259,11 @@ Noida
  - Bio: Literally gamer, geek and viking.
  - GitHub: [turkerdotpy](https://github.com/turkerdotpy)
 
+#### Name: [Vincenzo Pavaroti](https://github.com/bobavince)
+- Place: London, UK
+- Bio: Gamer and geek
+- GitHub: [Bobavince](https://github.com/bobavince)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
