@@ -1,7 +1,9 @@
 ### Akshay Kumar
 ---
 
-#### Location: Bengaluru, INDIA
+#### Location: 
+
+- Bengaluru, INDIA
 
 #### Academacics: 
 
