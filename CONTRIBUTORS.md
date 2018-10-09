@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Pedro Vicari](https://github.com/pvicari)
+ - Place: Sao Paulo, BR
+ - Bio: Student Science Computer in UNESP
+ - GitHub: [pvicari](https://github.com/pvicari)
