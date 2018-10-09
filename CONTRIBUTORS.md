@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -92,6 +92,11 @@
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
+
+#### Name: [Sanduni Wickramathunga](https://github.com/sanduniYW)
+- Place: Matara, Sri-Lanka
+- Bio: IT undergraduate at University of Moratuwa
+- GitHub: [Sanduni Wickramathunga](https://github.com/sanduniYW)
 
 #### Name: [Ahmad Thames](https://github.com/ahmadthames)
 - Place: Houston, TX, USA

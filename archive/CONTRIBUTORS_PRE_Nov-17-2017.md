@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -67,6 +67,11 @@
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
+
+#### Name: [Sanduni Wickramathunga](https://github.com/sanduniYW)
+- Place: Matara, Sri-Lanka
+- Bio: IT undergraduate at University of Moratuwa
+- GitHub: [Sanduni Wickramathunga](https://github.com/sanduniYW)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
