@@ -1308,6 +1308,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Student
 - Github: [Kutsoragi] (https://github.com/Kutsoragi)
 
+#### Name: [Kyaa Kats] (https://github.com/KyaaKats)
+- Place: United States
+- Bio: Computer Information System student at University of Hawaii
+- GitHub: [Kyaa Kats] (https://github.com/KyaaKats)
+
 #### Name: [Kyle Johnson] (https://github.com/johnson90512)
 - Place: United States
 - Bio: Information System Administrator, former Information Systems student
