@@ -1,3 +1,8 @@
+#### Name: Muhammad Hafidz
+ - Place: Semarang, Indonesia
+ - Bio: Student.
+ - GitHub: [ciazhar](https://github.com/ciazhar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
