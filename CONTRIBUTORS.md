@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kamil-Zakiev](https://github.com/Kamil-Zakiev)
+- Place: Kazan, Russia
+- Bio: Developer
+- Github: [Kamil-Zakiev](https://github.com/Kamil-Zakiev)
