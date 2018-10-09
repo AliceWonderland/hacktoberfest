@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: MeTeoRise
+ - Place: Thessaloniki, Greece
+ - Bio: Electical and Computer Engineer
+ - GitHub: [MeTeoRise](https://github.com/MeTeoRise)
