@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matt States](https://github.com/mattstates)
+- Place: Natal, Brazil
+- Bio: Web developer Javascript and C#
+- Github: [Matt States](https://github.com/mattstates)
