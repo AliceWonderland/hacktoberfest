@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jamie Burnip](https://github.com/jamieburnip)
+- Place: Newcastle-upon-Tyne, UK
+- Bio: Full stack developer.
+- GitHub: [jamieburnip](https://github.com/jamieburnip)
