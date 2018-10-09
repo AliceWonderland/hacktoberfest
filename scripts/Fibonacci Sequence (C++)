@@ -1,0 +1,25 @@
+Fibonacci Sequence in C++
+
+```C++
+// Enter the limit.
+
+#include <iostream>
+
+int main() {
+    
+  int input;  
+  std::cin >> input;  
+  std::cout << "Limit: " << input << std::endl;
+  int first_number = 0, second_number = 1, third_number = 1;
+  std::cout << "The Fibonacci sequence is: "  << first_number << " " << second_number << " ";
+  
+  while (first_number + second_number < input) {
+    third_number = first_number + second_number;
+    first_number = second_number;      
+    second_number = third_number;
+    std::cout << third_number << " ";
+  }
+  
+  return 0;
+}
+```
