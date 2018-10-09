@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JanakPoojary](https://github.com/JanakPoojary)
+- Place: Vadodara, Gujarat, INDIA
+- Bio: student of Bachelors in computer engineering
+- Github: [JanakPoojary](https://github.com/JanakPoojary)
