@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andree Pratama](https://github.com/andreepratama27)
+- Place: Medan, Indonesia
+- Bio: React Native Developer
+- Github: [Andree Pratama](https://github.com/andreepratama27)
