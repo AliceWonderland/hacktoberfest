@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Endrik Lelo] (https://github.com/EndrikLelo)
+- Place: Tirana, Albania
+- Bio: Java Software Developer
+- Github: [EndrikLelo] (https://github.com/EndrikLelo)
