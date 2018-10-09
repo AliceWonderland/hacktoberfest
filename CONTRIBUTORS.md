@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lakshit Kohli] (https://github.com/Lakshitk)
+- Place: Noida
+- Bio: B.Tech E.C.E 3rd year Student, Software Developer Startup
+- GitHub: [Lakshitk] (https://github.com/Lakshitk)
