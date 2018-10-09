@@ -1,0 +1,36 @@
+Armstrong Numbers in C++
+/* A program to check whether the given integer is an Armstrong number or not. Armstrong numbers are those numbers in which the sum of the digits each raised to the power of the number of digits is equal to the number itself. It is also known as "Narcissistic number".
+
+#include <iostream>
+
+int power(int a, int b) {
+  int exp;
+  exp = a;
+  for (int count = 1; count < b; count++) {
+    a *= exp;
+  }
+  return a;
+}
+int main() {
+
+  int number, checker = 10, digits = 1, sum = 0;
+  std::cout << "Enter an integer: ";
+  std::cin >> number;
+  std::cout << number << std::endl;
+  while (number > checker) {
+    checker *= 10;
+    digits += 1;
+  }
+  int actual_value = number;
+  while (number != 0)
+  {
+    sum += power((number % 10), digits) ;
+    number /= 10;
+  }
+  if (sum == actual_value) {
+  std::cout << "It is an Armstrong number.";
+}
+  else
+  std::cout << "It is not an Armstrong number.";
+  return 0;
+}
