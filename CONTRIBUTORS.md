@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sandy Edwards](https://github.com/slowbeam)
+- Place: Hoboken, NJ USA
+- Bio: Javascript addict
+- Github: [slowbeam](https://github.com/slowbeam)
