@@ -1569,6 +1569,11 @@ Noida
 - Bio: Student
 - GitHub: [mayank26saxena](https://github.com/mayank26saxena)
 
+#### Name: [Michael Brinkley](https://github.com/mcbrinkl)
+- Place: IL, USA
+- Bio: Student
+- GitHub: [Michael Brinkley](https://github.com/mbrinkl)
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: PA, USA
 - Bio: Student
