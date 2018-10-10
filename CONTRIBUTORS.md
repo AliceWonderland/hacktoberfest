@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wico](https://github.com/wicogohome)
+- Place: Taiwan
+- Bio: Student
+- Github:  [Wico](https://github.com/wicogohome)
