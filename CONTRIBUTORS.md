@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anadi Sharma](https://github.com/11A11)
+- Place: India
+- Bio: Final year CS student
+- Github: [Anadi Sharma](https://github.com/11A11)
