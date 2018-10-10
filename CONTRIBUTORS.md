@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [MANDIA SAMUELS](https://github.com/satraan)
+- Place: South Africa
+- Bio: Junior Java Developer
+- GitHub: [Mandia Samuels](https://github.com/satraan)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
