@@ -829,6 +829,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Earhquake enthusiast
 - GitHub:[fushandchups] (https://github.com/fushandchups)
 
+#### Name: [furoTmark](https://github.com/furoTmark)
+- Place: Cluj, Romania
+- Bio: Developer
+- GitHub:[furoTmark] (https://github.com/furoTmark)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
