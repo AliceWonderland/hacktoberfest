@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gajendra Saraswat](https://github.com/saarques)
+- Place: Bikaner, Rajasthan, India
+- Bio: Student, Aspiring Data Scientist
+- Github: [Gajendra Saraswat](https://github.com/saarques)
