@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Daniel
+ - Place: Greenville, SC
+ - Bio: IT Proffesional, Budding Developer, Hobbyist Musician.
+ - GitHub: [danieltapp](https://github.com/danieltapp)
