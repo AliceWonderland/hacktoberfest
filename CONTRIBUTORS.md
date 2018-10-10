@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nicole C](https://github.com/nychinn)
+- Place: Auckland, New Zealand
+- Bio: Frontend Web Developer
+- Github: [nychinn](https://github.com/nychinn)
