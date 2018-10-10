@@ -17,7 +17,7 @@ Ciência da Computação
 - Beer;
 - Front end;
 - Trips;
-- Strogonof de frango
+- Strogonof de frango;
 
 ### Development
 
