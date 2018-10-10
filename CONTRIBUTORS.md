@@ -1,3 +1,8 @@
+#### Name: [ARSALAN AZMI](http://github.com/lethalazo)
+- Place: Wales, UK
+- Bio: CS and AI Student at Aberystwyth University
+- GitHub: [Arsalan Azmi](http://github.com/lethalazo)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
