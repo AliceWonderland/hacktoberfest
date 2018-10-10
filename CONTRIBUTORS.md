@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Naveen Kumar Sangi](https://github.com/nkprince007)
+- Place: Hyderabad, Telangana, India
+- Bio: Full Stack Developer & DevOps
+- GitHub: [nkprince007](https://github.com/nkprince007)
