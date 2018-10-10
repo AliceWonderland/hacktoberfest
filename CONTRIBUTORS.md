@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jhalak46](https://github.com/Jhalak46)
+- Place: Mandi, Himachal Pradesh
+- Bio: Undergraduate at IIT Mandi
+- Github: [Jhalak46](https://github.com/Jhalak46)
