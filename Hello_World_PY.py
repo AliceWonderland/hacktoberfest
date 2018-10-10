@@ -1,4 +1,5 @@
 # LANGUAGE: Python
 # AUTHOR: Nikhil
 # GITHUB: https://github.com/computelarge
-print("Hello World!")
+a = input("What's your name??")
+print("AliceWonderland welcomes "+a+" in their smaal world in Github /nEnjoy Coding")
