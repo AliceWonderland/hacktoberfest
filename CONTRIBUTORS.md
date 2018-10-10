@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratik Roopchandka](https://github.com/ricky2304)
+- Place: Hyderabad, India
+- Bio: 2nd year CS undergrad @BIT Mesra
+- Github: [Pratik Roopchandka](https://github.com/ricky2304)
