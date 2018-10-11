@@ -1,3 +1,8 @@
+﻿#### Name: Vipin Kumar
+ - Place: Jaipur,India
+ - Bio: Computer science & Engineering student
+ - GitHub: [VipinKumar](https://github.com/vipinkumarpsr)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
