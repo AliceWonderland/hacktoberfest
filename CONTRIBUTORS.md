@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: [Anadi Kashyap](https://github.com/anadi198)
+ - Place: India
+ - Bio: Second year Computer Science student.
+ - GitHub: [anadi198](https://github.com/anadi198)
+ 
+ #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
