@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Carl Laugerbaum](https://github.com/CwLauger)
+- Place: Honolulu, Hawaii, United States of America
+- Bio: I am a newb coder that is enjoying learning and currently enrolled in a JavaScript Web Engineering Bootcamp called DevLeague!
+- GitHub: [Carl Laugerbaum](https://github.com/CwLauger)
