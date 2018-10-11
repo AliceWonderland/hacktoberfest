@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+ #### Name: [Illya Stolpakov](https://github.com/settnozz)         
+     6 - Place: Ukraine                               
+     7 - Bio: 4rd year computer science student                 
+     8 - GitHub: [settnozz](https://github.com/settnozz)
+
