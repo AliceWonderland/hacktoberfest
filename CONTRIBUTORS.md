@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anders Olsen](https://github.com/BroxigarDK)
+- Place: Copenhagen, Denmark
+- Bio: Developer for BirdLife Denmark, working with Java, MySQL and PHP.
+- Github: [BroxigarDK](https://github.com/BroxigarDK)
