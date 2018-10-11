@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anshul Gangwar](https://github.com/Anshulgangwar63)
+- Place: Bareilly, India
+- Bio: Student and Web developer 
+- Github: [Anshul Gangwar](https://github.com/Anshulgangwar63)
