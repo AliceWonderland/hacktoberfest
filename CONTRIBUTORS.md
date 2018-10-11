@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Akash
+ - Place: Nottingham, United Kingdom
+ - Bio: Mathematician. Sutdent at University of Nottingham.
+ - GitHub: [achhapia](https://github.com/achhapia)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
