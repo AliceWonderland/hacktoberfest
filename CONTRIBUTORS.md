@@ -1724,6 +1724,11 @@ Noida
 - Bio: Student
 - Github: [iamnishantrai] (https://github.com/iamnishantrai)
 
+#### Name: [Nitin Rohra](https://github.com/nitinrohra)
+- Place: Jaipur, Rajasthan, India
+- Bio: Front End Developer, UX Army.
+- GitHub: [Nitin Rohra](https://github.com/nitinrohra)
+
 #### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
 - Place: Illinois
 - Bio: Student
