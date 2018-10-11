@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [bozicschucky](https://github.com/bozicschucky)
+- Place: Kampala, Uganda
+- Bio: Web developer python(Django),Go, Javascript
+- Github: [Ssekitto Charles](https://github.com/bozicschucky)
