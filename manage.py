@@ -8,7 +8,7 @@ What this script does?
 Running the script -
 python3 manage.py
 
-PS: DO NOT USE PYTHON 2
+PS: PLEASE DO NOT USE PYTHON 2, USE ONLY PYTHON 3
 """
 import re
 
