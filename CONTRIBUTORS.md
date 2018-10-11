@@ -83,6 +83,12 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+
+#### Name: [Amogh Singhal](https://github.com/devAmoghS)
+- Place: Hyderabad, India
+- Bio: Technology Evangelist
+- GitHub: [Amogh Singhal](https://github.com/devAmoghS)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
