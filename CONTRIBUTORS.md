@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Capitan Falafel](https://github.com/CapitanFalafel)
+- Place: Nostre Damus
+- Bio: Pirate
+- Github: [Capitan Falafel](https://github.com/CapitanFalafel)
