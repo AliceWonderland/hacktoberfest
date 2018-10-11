@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### NAme: [Jeff LeBoeuf](https://github.com/jeffhow)
+- Place: Worcester, MA
+- Bio: Teacher
+- Github: [jeffhow](https://github.com/jeffhow)
