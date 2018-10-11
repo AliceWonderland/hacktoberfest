@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samuel Funston](https://github.com/sfunston)
+- Place: Draper, UT, USA
+- Bio: Associate DevOps
+- GitHub: [sfunston](https://github.com/sfunston)
