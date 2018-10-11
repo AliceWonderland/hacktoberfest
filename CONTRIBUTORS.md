@@ -1524,6 +1524,11 @@ Noida
 - Bio: Software Engineering Student
 - GitHub: [Newspaperman57](https://github.com/newspaperman57)
 
+#### Name: [Mathew Carroll](https://github.com/raedryn)
+- Place: Massachusetts, United States
+- Bio: Amateur Developer
+- GitHub: [raedryn](https://github.com/raedryn)
+
 #### Name: [Matt Gabriel](https://github.com/xanlaeron)
 - Place: United States, Earth, Milky Way Galaxy
 - Bio: Former healthcare professional, Full stack student-developer
