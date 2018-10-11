@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Janifa M](https://github.com/JanifaMNowfal)
+- Place: Alappuzha, Kerala, India
+- Bio: B Tech CSE 4th year student at GEC Sreekrishnapuram, Palakkad
+- GitHub: [JanifaMNowfal](https://github.com/JanifaMNowfal)
