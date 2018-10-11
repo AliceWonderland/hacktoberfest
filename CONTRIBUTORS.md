@@ -2112,6 +2112,11 @@ Noida
 - Bio: Computer Science Student / Free Code Camper
 - GitHub: [huntleyreep](https://github.com/huntleyreep)
 
+#### Name: [SMIRAL RASHINKAR](https://github.com/smiraldr)
+- Place: India
+- Bio: Enthusiastic to learn new tech <3
+- GitHub: [smiraldr](https://github.com/smiraldr)
+
 #### Name: [Snehil Verma](https://github.com/vsnehil92)
 - Place: Delhi, India
 - Bio: Love to learn new technologies
