@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [JORIS VAN WILLIGEN](https://github.com/JorisvanW)
+- Place: The Netherlands
+- Bio: Love writing code.
+- GitHub: [JorisvanW](https://github.com/JorisvanW)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
