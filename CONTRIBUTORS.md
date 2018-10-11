@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [laurenebice](https://github.com/laurenebice)
+- Place: Texas
+- Bio: Web developer
+- Github: [laurenebice](https://github.com/laurenebice)
