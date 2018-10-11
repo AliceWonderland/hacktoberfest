@@ -2057,6 +2057,11 @@ Noida
 - Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
 - Github: [Shankhalika Sarkar](https://github.com/Shankhalika)
 
+#### Name: [Sharma Harsh](https://github.com/97harsh)
+- Place: Guwahati, India
+- Bio: Current Final Year Physics Undergrad. Machine Learning Enthusiast
+- Github: [Sharma Harsh](https://github.com/97harsh)
+
 #### Name: [Shashwat Pulak](https://github.com/shpulak)
 - Place: Pune, Maharashtra, India
 - Bio: Full Stack developer and Tech enthusiast
