@@ -2435,6 +2435,6 @@ Noida
 - GitHub: [fedesassone](https://github.com/fedesassone)
 
 #### Name: [Elijah Rwothoromo](https://github.com/rwothoromo)
-- Place: Mbarara, Uganda
+- Place: Kampala, Uganda
 - Bio: Software Developer
 - GitHub: [Rwothoromo](https://github.com/rwothoromo)
