@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Pratham Sharma](https://github.com/Pratham1807)
+- Place: Delhi, India
+- Bio: Student| Machine Learning enthusiast
+- Github: [Pratham1807](https://github.com/Pratham1807)
