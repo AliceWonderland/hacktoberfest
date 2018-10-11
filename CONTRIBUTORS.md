@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Austin Zuniga](https://github.com/AustinZuniga)
+- Place: Manila,Philippines
+- Bio: Web developer PHP and Python
+- Github: [AustinZuniga](https://github.com/AustinZuniga)
