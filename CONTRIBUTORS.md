@@ -2431,6 +2431,5 @@ Noida
 #### Name: [Toyin Robinson](https://github.com/toyrobs)
 - Place: Bronx, Ny, USA
 - Bio: I am a computer science major at Hunter College
-- Github: [toyrobs](https://github.com/toyrobs)
+- Github:[toyrobs](https://github.com/toyrobs)
 
-- GitHub: [GitHub account name](GitHub link)
