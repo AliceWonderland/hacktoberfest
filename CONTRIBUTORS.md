@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Divya Rose Raju](https://github.com/syam3526)
+- Place:kerala,india
+- Bio: Student in B.Tech CSE
+- Github: [ROZZ01](https://github.com/ROZZ01)
