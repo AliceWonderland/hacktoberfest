@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sakshi pareek](https://github.com/sakshipareek)
+- Place: India
+- Bio: college student
+- Github: [sakshi pareek](https://github.com/sakshipareek)
