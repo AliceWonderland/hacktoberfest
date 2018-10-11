@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mohit Aggarwal](https://github.com/Mister-maker)
+- Place: Delhi, India
+- Bio: Student And Web developer 
+- Github: [Mohit Aggarwal](https://github.com/Mister-maker)
