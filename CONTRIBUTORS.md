@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ashish Jha](https://github.com/TheDreamSaver)
+- Place: New Delhi, India
+- Bio: Alexa Developer
+- Github: [Ashish Jha](https://github.com/TheDreamSaver)
