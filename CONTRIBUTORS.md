@@ -469,6 +469,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CS Student at Florida International University
 - GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
 
+#### Name: [Caroline Dixon](https://github.com/cdixon855)
+- Place: Fond du Lac, WI, USA
+- Bio: Just me.. Proud Whovian that makes waves one ocean at a time.
+- GitHub: [Caroline Dixon](https://github.com/cdixon855)
+
 #### Name: [Casey Schroeder] (https://github.com/cdschroeder)
 - Place: Cincinnati, OH, USA
 - Bio: Technical writer, gamer, coffee lover.
