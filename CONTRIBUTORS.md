@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sulaiman Mozes](https://github.com/Sulaiman-Mozes/)
+- Place: Kampala, Uganda
+- Bio: Software Developer
+- GitHub: [Sulaiman-Mozes](https://github.com/Sulaiman-Mozes/)
