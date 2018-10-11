@@ -19,6 +19,6 @@ VR aided learning system implementing the 7 wonders of the world
 
 Profile Link
 
-ROZZ01
+https://github.com/ROZZ01
 
 © 2018 
