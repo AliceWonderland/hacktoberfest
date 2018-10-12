@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deumus74](https://github.com/Deumus74)
+- Place: Germany
+- Bio: Network Administrator
+- GitHub: [Deumus74](https://github.com/Deumus74)
