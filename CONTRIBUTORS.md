@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chahat Kalsi](https://github.com/Chahat08)
+- Place: Chandigarh, Chandigarh, India
+- Bio: Web Developer
+- Github: [Chahat08](https://github.com/Chahat08)
