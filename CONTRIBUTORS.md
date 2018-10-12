@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hádamo Egito](https://github.com/hadamo)
+- Place: São Mateus, Espírito Santo, Brasil
+- Bio: Computer Science Student
+- Github: [hadamo](https://github.com/hadamo)
