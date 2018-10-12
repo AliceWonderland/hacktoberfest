@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rizwan Patel](https://github.com/rizwanbpatel)
+- Place: Pune, Maharashtra, India
+- Bio: Full Stack Developer
+- GitHub: [rizwanbpatel](https://github.com/rizwanbpatel)
