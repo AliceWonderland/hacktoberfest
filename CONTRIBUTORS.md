@@ -103,6 +103,11 @@
 - Bio: iOS Developer
 - GitHub: [Aiman Abdullah Anees](https://github.com/aimananees)
 
+#### Name: [jhartkopf](https://github.com/jhartkopf)
+- Place: Germany
+- Bio: Sysadmin
+- GitHub: [jhartkopf](https://github.com/jhartkopf)
+
 #### Name: [Aimee Tacchi](https://github.com/darkxangel84)
 - Place: England, UK
 - Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
