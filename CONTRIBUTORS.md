@@ -835,6 +835,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [GABRIELLA MARA]
+ - Place: Belo Horizonte, MG, BR
+ - Bio: I'm computer science student, full-time nerd and painter on my days off. Oh, and cat-person, obviously.
+ - GitHub: [gmarap](https://github.com/gmarap)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
