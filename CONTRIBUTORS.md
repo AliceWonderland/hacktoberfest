@@ -2383,6 +2383,11 @@ Noida
 - Bio: Student
 - GitHub: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 
+#### Name: [Zaid Huda](https://github.com/hudadiaz)
+- Place: Kuala Lumpur, Malaysia
+- Bio: Rails programmer
+- GitHub: [Zaid Huda](https://github.com/hudadiaz)
+
 #### Name: [Zaki Akhmad](https://github.com/za)
 - Place: Jakarta, Indonesia
 - Bio: Python enthusiasts
