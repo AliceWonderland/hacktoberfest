@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lux652](https://github.com/Lux652)
+- Place: Virovitica, Croatia
+- Bio: Software Engineering Student
+- Github: [Lux652](https://github.com/Lux652)
