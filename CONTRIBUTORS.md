@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nick Thompson](https://github.com/inickt)
+- Place: Boston, USA
+- Bio: iOS Developer, 3rd year CS Student
+- Github: [Ítalo Epifânio](https://github.com/inickt)
