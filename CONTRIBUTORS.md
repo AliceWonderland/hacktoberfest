@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Arthur Vasconcellos](https://github.com/arthursvpb)
+- Place: João Pessoa, Paraíba, Brasil
+- Bio: Student
+- GitHub: [Arthur Vasconcellos](https://github.com/arthursvpb)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
