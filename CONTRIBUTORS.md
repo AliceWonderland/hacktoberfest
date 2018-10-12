@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Delhi, India
+ - Bio: Student.
+ - GitHub: [Vibhor](https://github.com/visin)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
