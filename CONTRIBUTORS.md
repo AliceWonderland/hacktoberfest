@@ -1,9 +1,9 @@
+﻿
+#### Name: [MAHESH SARATHCHANDRA](https://github.com/maheshSarathchandra)
+- Place: Walasmulla, Sri Lanka
+- Bio: I am a it student university of moratuwa 
+- GitHub: [MaheshSarathchandra](https://github.com/maheshSarathchandra)
 
-#### Name: [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
-- Place: Colombo, Sri Lanka
-- Bio: second year IT Student University of Moratuwa
-- GitHub: [maheshSarathchandra](https://github.com/maheshSarathchandra)
-  
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
