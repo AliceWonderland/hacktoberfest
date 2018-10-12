@@ -1328,6 +1328,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer, Web Developer, Design unicorn
 - GitHub: [Larizza Tueros](https://github.com/skayablars)
 
+#### Name: [Laura Belavoir](https://github.com/lbelavoir)
+- Place: Montreal, Canada
+- Bio: Javascript Developer
+- GitHub: [Laura Belavoir](https://github.com/lbelavoir)
+
 #### Name: [Leah Langfrod](https://github.com/leahlang4d2)
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
