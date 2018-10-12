@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Law Zava](https://github.com/lawzava)
+- Place: Europe
+- Bio: Curious Engineer & Honest Philosopher
+- Github: [Law Zava](https://github.com/lawzava)
