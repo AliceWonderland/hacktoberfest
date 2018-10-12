@@ -909,6 +909,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [Gui An Lee](https://github.com/piroton)
 
+#### Name: [Guilherme Libardi](https://github.com/GuilhermeLibardi)
+- Place: João Monlevade, Brazil
+- Bio: Computer Engineering Student
+- Github: [Guilherme Libardi](https://github.com/GuilhermeLibardi)
+
 #### Name: [Gustavo Pacheco Ziaugra](https://github.com/GustavoZiaugra)
 - Place: São Paulo, Brazil.
 - Bio: Technology Guy / Student
