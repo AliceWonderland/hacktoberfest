@@ -2112,10 +2112,15 @@ Noida
 - Bio: Computer Science Student / Free Code Camper
 - GitHub: [huntleyreep](https://github.com/huntleyreep)
 
+#### Name: [Seul Lee](https://github.com/lee-seul)
+- Place: South Korea
+- Bio: Python Server Developer
+- Github: [lee-seul](https://github.com/lee-seul)
+
 #### Name: [Snehil Verma](https://github.com/vsnehil92)
 - Place: Delhi, India
 - Bio: Love to learn new technologies
-- GitHub: [vsnehil92](https://github.com/vsnehil9
+- GitHub: [vsnehil92](https://github.com/vsnehil9)
 
 #### Name: [Sourav Verma](https://github.com/SrGrace)
 - Place: Gwalior, Madhya Pradesh, India
