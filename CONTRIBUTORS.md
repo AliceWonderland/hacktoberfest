@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John Austin](https://github.com/stnbnvdz)
+ - Place: Manila, Philippines
+ - Bio: Student | Aspiring Web and Software Engineer.
+ - GitHub: [stnbnvdz](https://github.com/stnbnvdz)
