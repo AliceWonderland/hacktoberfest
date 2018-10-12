@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wirda Kurnia](https://github.com/wirdakurnia)
+- Place: Malang, Indonesia
+- Bio: Web developer PHP and Python
+- Github: [Wirda Kurnia](https://github.com/wirdakurnia)
