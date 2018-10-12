@@ -415,6 +415,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Geophysicist
 - GitHub: [Brent Scheppmann](https://github.com/bareon)
 
+#### Name: [Brian Collett](https://github.com/Sinami)
+- Place: Nebraska, USA
+- Bio: Student, Researcher
+- Github: [Sinami](https://github.com/Sinami)
+
 #### Name: [BrunoSXS](https://github.com/brunosxs)
 - Brazil
 - Bio: I like turtules.
