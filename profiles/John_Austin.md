@@ -10,13 +10,13 @@ Rizal Technological University
 
 ### Interests
 
-- Some Things You Like
-
-### Development
-
 - Computer Games
 - Programming
 - Tecnopreneurship
+
+### Development
+
+- School projects
 
 ### Projects
 
