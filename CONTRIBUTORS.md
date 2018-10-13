@@ -43,6 +43,12 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+
+#### Name: [Shivam](https://github.com/shivam)
+- Place: Haryana, India
+- Bio: IITian
+
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
