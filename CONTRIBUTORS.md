@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amit Manchanda](https://github.com/amitmanchanda1995)
+- Place: Bangalore, India
+- Bio: Entrepreneur
+- Github: [Amit Manchanda](https://github.com/amitmanchanda1995)
