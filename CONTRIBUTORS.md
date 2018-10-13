@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -7,6 +7,11 @@
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
+
+#### Name: [KIM ABEL THOMAS](https://github.com/kimmeccsb)
+- Place: India 
+- Bio: First year Computer Science Student,In love with cars and gaming
+- GitHub: [kimmeccsb](https://github.com/kimmeccsb) 
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
