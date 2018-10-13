@@ -1514,6 +1514,11 @@ Noida
 - Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
 - Github: [Mateus Machado](https://github.com/mateusfmachado)
 
+#### Name: [Matheus Iacono](https://github.com/matehusiacono)
+- Place: Sao Paulo, Brazil
+- Bio: Front End Developer and Cat Lover
+- Github: [Matheus Iacono](https://github.com/matehusiacono)
+
 #### Name: [Matheus Lucena](https://github.com/matehuslucena)
 - Place: Brazil
 - Bio: Software Engineer
