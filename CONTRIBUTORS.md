@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: (https://github.com/akshaykumar23399)
+- Place: New Delhi, India
+- Bio: Web developer HTML and Python
+- Github: (https://github.com/akshaykumar23399)
