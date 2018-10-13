@@ -2032,6 +2032,11 @@ Noida
 - Bio: Student
 - GitHub: [sarovisk](https://github.com/sarovisk)
 
+#### Name: [Sarah Morris](https://morrissarah.com)
+- Place: Nashville, TN USA
+- Bio: Software Engineer at [StudioNow](www.studionow.com)
+- Github: [Sarah Morris](https://github.com/sarahmorris926)
+
 #### Name: [Sarthak Bhagat](https://github.com/sarthak268)
 - Place: Delhi, India
 - Bio: ECE Undergraduate
