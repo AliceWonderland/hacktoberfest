@@ -1454,6 +1454,12 @@ Noida
 - Bio: Student in Business System Engineering
 - GitHub: [marieluisemerz](https://github.com/marieluisemerz/)
 
+#### Name: [Marília Muraro Janizelli] (https://github.com/MariliaMJ)
+- Place: São Paulo, Brazil
+- Bio: Elixir developer at Xerpa
+- GitHub: [MariliaMJ](https://github.com/MariliaMJ)
+
+
 #### Name: [Marion Fioen](https://github.com/marion59000)
 - Place: Lille, France
 - Bio: Developer
