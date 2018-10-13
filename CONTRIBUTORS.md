@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alessandro Melo](https://github.com/Alessandro2702)
+- Place: Brasília, Brazil
+- Bio: Sales Intern at Hitachi Vantara and Co-founder at 7Sight
+- Github: [Alessandro Melo](https://github.com/Alessandro2702)
+
