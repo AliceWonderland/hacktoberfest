@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Pranjal](https://github.com/prank15062002)
+- Place: Hyderabad, India
+- Bio: Gamer, developer.
+- GitHub: [Pranjal](https://github.com/15062002)
