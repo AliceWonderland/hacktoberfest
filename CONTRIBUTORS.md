@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Dadira]
+- Place: Greece
+- Bio: Electrical and Computer Engineering student, Science enthusiast
+- GitHub: [DaDiRa](https://github.com/DaDiRa)
