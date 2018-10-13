@@ -1,0 +1,17 @@
+body{
+	background-color: #EEEEEE;
+}
+h3{
+	padding: 2em;
+	line-height: 1.7em;
+}
+@media screen and (max-width: 578px){
+	body{
+		background-color: #E0E0E0;
+	}
+	h3{
+		line-height: 2em;
+		font-size: 1em;
+		max-width: 100%;
+	}
+}
