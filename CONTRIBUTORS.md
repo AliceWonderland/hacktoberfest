@@ -1,3 +1,8 @@
+#### Name: [ADITYA SHARMA](https://github.com/adityaas26)
+- Place: Indore, India
+- Bio: Student for life! ML enthusiast!
+- GitHub: [Aditya Sharma](https://github.com/adityaas26)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
