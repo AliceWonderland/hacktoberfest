@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [JamesTietjen](https://github.com/JamesTietjen/)
+- Place: Richmond, Virginia (US)
+- Bio: I am a construction worker who is looking to change careers!
+- Github: [JamesTietjen](https://github.com/JamesTietjen/)
