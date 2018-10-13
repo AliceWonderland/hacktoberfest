@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: Udhaya kumar
+ - Place: chennai, India
+ - Bio: Aerspace student.
+ - GitHub: [udhay24](https://github.com/udhay24)
