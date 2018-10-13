@@ -1373,6 +1373,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Front-end developer
 - GitHub: [Lisa Nguyen](https://github.com/LisaNguyen)
 
+#### Name: [Logan Perkins](https://github.com/logperks)
+- Place: Fort Collins, Colorado
+- Bio: Aspiring Data Scientist at Colorado State University
+- GitHub: [Logan Perkins](https://github.com/logperks)
+
 #### Name: [Lokesh Raj Arora](https://github.com/lokiiarora)
 - Place: Darjeeling, India
 - Bio: CS Student at SRM University, Full Stack Developer
