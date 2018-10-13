@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mark Allen](https://github.com/dugtrio91)
+- Place: Newcastle, United Kingdom
+- Bio: Web developer
+- Github: [dugtrio91](https://github.com/dugtrio91)
