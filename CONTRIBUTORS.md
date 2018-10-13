@@ -611,6 +611,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [djbaker](https://github.com/djbaker)
 
+#### Name: [Danhorsch](https://github.com/danhorsch)
+- Place: Minnesota
+- Bio: Full Stack Web Developer
+- GitHub: [Danhorsch](https://github.com/danhorsch)
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
