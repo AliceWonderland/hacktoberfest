@@ -1,0 +1,17 @@
+OBTW
+  LANGUAGE: LOLCODE
+  LINK: http://lolcode.org/
+  AUTHOR: Philip Hofmann
+  GITHUB: https://github.com/Phhofm
+TLDR
+
+HAI 1.2
+  BTW function to build the message
+  HOW IZ I BUILDMESSAGE
+    I HAS A MESSAGE ITZ A YARN
+    MESSAGE R "Hello World!"
+    FOUND YR MESSAGE
+  IF U SAY SO
+  BTW printing the returned value of the function
+  VISIBLE I IZ BUILDMESSAGE MKAY
+KTHXBYE
