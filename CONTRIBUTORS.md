@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [bremaweb](https://github.com/bremaweb)
+- Place: United States
+- Bio: Web developer, CTO of a small software company
+- GitHub: [bremaweb](https://github.com/bremaweb)
