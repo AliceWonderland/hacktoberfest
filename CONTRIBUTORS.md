@@ -1,3 +1,8 @@
+#### Name: [Patrick Thurston](https://github.com/pattar420)
+ - Place: Cheyenne WY, USA
+ - Bio: Inventor and student
+ - GitHub: [samflores23](https://github.com/pattar420)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
