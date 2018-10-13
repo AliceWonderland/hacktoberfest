@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [JOGI MIGLANI](https://github.com/jmig5776)
+- Place: Patiala,Punjab,INDIA
+- Bio: Open Source contributor,Fitness freak
+- GitHub: [JOGI MIGLANI](https://github.com/jmig5776)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
