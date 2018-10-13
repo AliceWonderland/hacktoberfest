@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [Aaron Pinto](https://github.com/AaronPinto)
+- Place: Hamilton, Ontario, Canada
+- Bio: 1st year engineering student
+- GitHub: [Aaron Pinto](https://github.com/AaronPinto)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
