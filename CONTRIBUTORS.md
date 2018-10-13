@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Thrissur, Kerala
+ - Bio: Software engineer. Specalization in python/Django.
+ - GitHub: [Joel hanson](https://github.com/Joel-hanson)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
