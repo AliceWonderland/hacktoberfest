@@ -11,7 +11,7 @@ Currently Master Student at UZH, Major: People-Oriented Computing
 
 ### Interests
 
-- Snowboarding, Volleyball, Piano, Music, Food, Family, Friends
+Snowboarding, Volleyball, Piano, Music, Food, Hiking, Family, Friends
 
 ### Profile Link
 
