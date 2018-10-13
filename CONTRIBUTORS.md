@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Aminullah Taj Muhammad
+ - Place: Karachi, Pakistan
+ - Bio: Software engineer. Graduating from Indus University.
+ - GitHub: [Aminullah Taj Muhammad](https://github.com/AminullahTajMuhammad)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
