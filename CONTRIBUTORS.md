@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [LIS AZEVEDO](https://github.com/lisazevedo)
+ - Place: Bahia, Brazil
+ - Bio: computer engineering student
+ - GitHub: https://github.com/lisazevedo
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
