@@ -1,3 +1,8 @@
+#### Name: [Hamza Makia]
+- Place: Kuwait
+- Bio: I'm a Django instructor at a coding bootcamp.
+- GitHub: [DarthHamza](https://github.com/DarthHamza)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
