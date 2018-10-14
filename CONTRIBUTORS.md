@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name Dmitry
+#### Name: Dmitry
 - Place: Belarus
 - Bio: Student
 - Github: [Dmitry](https://github.com/N0menIllisLegio)
