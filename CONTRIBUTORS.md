@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hogwarter](https://github.com/Hogwarter)
+- Place: Finland
+- Bio: A second-gen coder and gamer
+- Github: [Hogwarter](https://github.com/Hogwarter)
