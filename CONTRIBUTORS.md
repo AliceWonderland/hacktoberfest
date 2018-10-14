@@ -1,10 +1,4 @@
-
-#### Name: [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
-- Place: Colombo, Sri Lanka
-- Bio: second year IT Student University of Moratuwa
-- GitHub: [maheshSarathchandra](https://github.com/maheshSarathchandra)
-  
-#### Name: Vallenain
+  #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -1427,6 +1421,11 @@ to explore life. Also, Python and Django Developer
 #### Name: [M K]
 - Place: Ko Tao, Thailand
 - Bio: I love code, coffee and the beach
+
+#### Name: [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
+- Place: Walasmulla, Hambantota, Sri Lanka
+- Bio: University Student
+- GitHub: [MaheshSarathchandra](https://github.com/maheshSarathchandra)
 
 #### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Place: Qom, Qom, Iran
