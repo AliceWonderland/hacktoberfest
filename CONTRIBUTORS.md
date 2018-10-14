@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [haylims80](https://github.com/haylims80)
 - Place: Tampa, Florida
-- Bio: Electrical Engineer
+- Bio: Electrical Engineer, Learning to code
 - Github: [Haylims80](https://github.com/haylims80)
