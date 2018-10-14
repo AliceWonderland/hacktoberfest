@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nathalia Lima](https://github.com/naftalima)
+- Place: Pernambuco, Brazil
+- Bio: Computer Engineering Student at UFPE. Recovering brownie addict.
+- GitHub: [naftalima](https://github.com/naftalima)
