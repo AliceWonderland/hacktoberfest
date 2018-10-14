@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+  
+### Name: [Delta456] (https://github.com/Delta456)
+- Place: Delhi, India
+- Bio: A noob
+- Github: [Delta456] (https://github.com/Delta456)
