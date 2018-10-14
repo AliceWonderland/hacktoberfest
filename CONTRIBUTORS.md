@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alessia Profeta](https://github.com/lalessia)
+- Place: Italy
+- Bio: IT Engineering, FrontEnd developer, javascript and java developer
+- Github: [lalessia](https://github.com/lalessia)
