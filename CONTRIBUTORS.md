@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tuan Le](https://github.com/tuanle99)
+- Place: Ohio, USA
+- Bio: Computer Science Student
+- Github: [tuanle99](https://github.com/tuanle99)
