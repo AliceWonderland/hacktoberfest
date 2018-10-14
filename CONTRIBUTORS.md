@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -1723,6 +1723,11 @@ Noida
 - Place: Noida,India
 - Bio: Student
 - Github: [iamnishantrai] (https://github.com/iamnishantrai)
+
+#### Name: [Nishant Mittal](https://github.com/nishantmittal59)
+- Place: East Delhi,Delhi,India
+- Bio: 1st year student of software development @DU.
+- GitHub: [nishantmittal59](https://github.com/nishantmittal59)
 
 #### Name: [Nneoma Oradiegwu](https://github.com/noradiegwu)
 - Place: Illinois
