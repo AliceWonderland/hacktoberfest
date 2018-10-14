@@ -20,10 +20,13 @@
 ### Development
 
 - Personal & Self taught programmer
+- c++,php,mysql
 
 ### Projects
 
 - [Fresher on github]( will try to make some projects as soon as).
+- [Hello-world](https://github.com/nishantmittal59/Hello-world) just a starting=).
+
 
 ### Profile Link
 
