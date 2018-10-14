@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [NischalDutt](https://github.com/nischaldutt)
+- Place: India
+- Bio: Frontend web developer and a CS undergraduate
+- Github: [nischaldutt](https://github.com/nischaldutt)
