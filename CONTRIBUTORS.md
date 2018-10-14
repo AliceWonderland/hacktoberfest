@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Acr0most](https://github.com/acr0most)
+- Place: Nuremberg, Germany
+- Bio: Web developer
+- Github: [Acr0most](https://github.com/acr0most)
