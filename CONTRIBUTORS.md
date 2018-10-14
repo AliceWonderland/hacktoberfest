@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshit Aggarwal](https://github.com/AkshitAggarwal)
+- Place: New Delhi, India
+- Bio: Computer Science student, Freshman year. 
+- Github: [Akshit Aggarwal](https://github.com/Akshit Aggarwal)
