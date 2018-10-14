@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [SERGI MARQUEZ](https://github.com/sergimarquez)
+- Place: Barcelona, Spain
+- Bio: Front End Developer
+- GitHub: [sergimarquez](https://github.com/sergimarquez)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
