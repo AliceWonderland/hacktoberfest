@@ -1,7 +1,7 @@
 #Vinay Pandramish
 ### Location
 Hyderabad, India
-### Academics
-NIT Hamirpur
+### Bio
+Computer Science Undergraduate
 ### Profile Link
 [PVinay737](https://github.com/PVinay737)
