@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kunal Raghav](https://github.com/KunalRaghav)
+- Place: New Delhi, India
+- Bio: Front-End Dev | App Dev | Mastering the art of Tinkering.
+- Github: [KunalRaghav](https://github.com/KunalRaghav)
