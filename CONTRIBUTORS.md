@@ -799,6 +799,11 @@ to explore life. Also, Python and Django Developer
 - Github: [fercreek](https://github.com/fercreek)
 - Website: [Blog](https://fercontreras.com/)
 
+#### Name: [Firsov Dmitriy](https://github.com/Shtihl)
+- Place: Saint-Petersburg, Russia
+- Bio: self-learned python junior
+- GitHub: [Shtihl](https://github.com/Shtihl)
+
 #### Name: [Fran Acién](https://github.com/acien101)
 - Place: Madrid, Spain
 - Bio: Full of empty
