@@ -1804,6 +1804,11 @@ Noida
 - Bio: Student and newbie software developer
 - GitHub: [phscherer](https://github.com/phscherer)
 
+#### Name: [Pedro Cesar Azevedo](https://github.com/pedrocesar-ti)
+- Place: New Zealand
+- Bio: Developer
+- GitHub: [Pedro Cesar Azevedo](https://github.com/pedrocesar-ti)
+
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
