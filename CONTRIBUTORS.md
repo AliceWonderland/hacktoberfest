@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dávid Szabó](https://github.com/david-szabo97)
+- Place: Budapest, Hungary
+- Bio: Web developer, Node.js fan
+- Github: [david.szabo97](https://github.com/david-szabo97)
