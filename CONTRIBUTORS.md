@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jude Osbert](https://github.com/judeosbert)
+- Place: Kerala, India
+- Bio: Android Developer
+- Github: [Jude Osbert]
+(https://github.com/judeosbert)
