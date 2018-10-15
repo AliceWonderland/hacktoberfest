@@ -1247,6 +1247,11 @@ to explore life. Also, Python and Django Developer
  - Place: Philippines
  - Bio: PHP Developer
  - Github: [jusdeleon](https://github.com/jusdeleon)
+ 
+#### Name: [John T](https://github.com/TheFishNiche)
+ - Place: WI, USA
+ - Bio: Learning is rad!
+ - GitHub: [TheFishNiche](https://github.com/TheFishNiche)
 
 #### Name: [K Foster](https://foster.im)
 - Place: West Sussex, UK
