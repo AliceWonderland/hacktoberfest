@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bhushan Khanale](https://github.com/bkhanale)
+- Place: Pune, India
+- Bio: Competitive Programmer
+- Github: [Bhushan Khanale](https://github.com/bkhanale)
