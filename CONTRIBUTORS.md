@@ -67,6 +67,10 @@
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
+#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+- Place: California
+- Bio: Software Developer
+- GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
