@@ -43,9 +43,10 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
-#### Name:[Shrishti Singh](https://github.com/Popo1928)
+#### Name:[Shrishti Singh]
 - Place: Kalkaji, New Delhi, India
-- GitHub: [Popo1928]
+- GitHub: [Popo1928] (https://github.com/Popo1928)
+
 
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
