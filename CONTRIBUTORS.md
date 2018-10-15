@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Soniya Vyas](https://github.com/son-vyas)
+-Place: Sangli, India
+-Bio: Computer Geek
+-Github: [Soniya29](https://github.com/son-vyas)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
