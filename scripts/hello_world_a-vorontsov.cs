@@ -13,7 +13,8 @@ namespace HelloWorld
     {
         static void Main()
         {
-            Console.WriteLine("Hello, world!");
+            String word = "Hello, World";
+            Console.WriteLine(word);
         }
     }
 }
