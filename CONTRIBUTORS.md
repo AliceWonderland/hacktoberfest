@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kenichi](https://github.com/PhantomX7)
+- Place: Medan, Indonesia
+- Bio: Web developer
+- Github: [Kenichi](https://github.com/PhantomX7)
