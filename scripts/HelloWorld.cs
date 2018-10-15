@@ -13,7 +13,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
+            //This is how you declare a variable
+            String word = "Hello World";
+            Console.WriteLine(word);
             Console.ReadLine();
         }
     }
