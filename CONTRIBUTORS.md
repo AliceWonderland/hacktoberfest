@@ -536,6 +536,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [Ckpuna4](https://github.com/Ckpuna4)
 
+#### Name: [Luis Henrique Gundes Valim](https://github.com/LHenrique42)
+- Place: São Mateus, Espírito Santo, Brazil
+- Bio: Computer Science Student.
+- GitHub: [LHenrique42](https://github.com/LHenrique42)
+
 #### Name: [Clark Weckmann](https://github.com/clarkhacks)
 - Place: Illinois, USA
 - Bio: Design, Develop, Produce!
