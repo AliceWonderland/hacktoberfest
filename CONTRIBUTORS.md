@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Dastan Samatov](GitHub link)
+- Place: Blagoevgrad, Bulgaria
+- Bio: Web Developer Python
+- GitHub: [dastanbeksamatov](https://github.com/dastanbeksamatov)
