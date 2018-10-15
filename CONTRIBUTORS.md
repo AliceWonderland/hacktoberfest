@@ -1804,6 +1804,11 @@ Noida
 - Bio: Student and newbie software developer
 - GitHub: [phscherer](https://github.com/phscherer)
 
+#### Name: [Paulo Victor de Oliveira Andrade](https://github.com/pulho)
+- Place: Brazil
+- Bio: Student of Computer Engineering of the CIn/UFPE
+- GitHub: [Paulo Victor](https://github.com/pulho)
+
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
