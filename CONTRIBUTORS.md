@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Rahul
+ - Place: NCR, India
+ - Bio: web developer, speaker, Data analytics.
+ - GitHub: [Rahul](https://github.com/rahulchauhan049)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
