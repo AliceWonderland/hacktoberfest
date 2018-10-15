@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tyler](https://github.com/SirTyz)
+- Place: AR, US
+- Bio: Software Engineer using React
+- Github: [SirTyz](https://github.com/SirTyz)
