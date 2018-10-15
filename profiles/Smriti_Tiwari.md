@@ -1,12 +1,26 @@
 
-Smriti Tiwari
+# SMRITI TIWARI 
 
-location : delhi , india
+### Location
 
-academics : IIT , Kharagpur 
+- Delhi , India 
 
-Interests : MATHEMATICS 
+### Academics
 
-Projects : Dash-Trash : optimised path for garbage collection using fuzzy logic and least path travesrsal algorithms.
+- IIT Kharagpur 
 
-Profile : https://github.com/seepls
+### Interests
+
+- I love to play tennis 
+
+### Development
+
+- Inventor of windmil system to build protable charger using windmil 
+
+### Projects
+
+- game dev . https://github.com/seepls/game
+
+### Profile Link
+
+[seepls] (https://github.com/seepls)
