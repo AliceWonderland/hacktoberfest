@@ -1704,6 +1704,11 @@ Noida
 - Bio: Student of Software Engineering who likes puzzles.
 - GitHub: [nelsonmestevao](https://github.com/nelsonmestevao)
 
+#### Name: [Nemanja Jeremić](https://github.com/nemanjajeremic)
+- Place: Belgrade, Serbia
+- Bio: IT graduate who is back to programming after few years in advertising.
+- GitHub: [nemanjajeremic](https://github.com/nemanjajeremic)
+
 #### Name: [Niall Cartwright](https://github.com/Nairu)
 - Place: Birmingham, UK
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
