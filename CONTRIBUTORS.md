@@ -1,3 +1,11 @@
+### Name: Josua
+- Place: Germany
+- Bio: GEEK and CNC-Machinist
+- Github: [GreenMoon4](https://github.com/GreenMoon4)
+
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
