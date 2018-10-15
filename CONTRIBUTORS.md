@@ -2259,6 +2259,11 @@ Noida
  - Bio: Literally gamer, geek and viking.
  - GitHub: [turkerdotpy](https://github.com/turkerdotpy)
 
+#### Name: [Uchenna Cyril Nnamadim](https://github.com/WiseCyril)
+- Place: Nigeria
+- Bio: Software Developer
+- Github: [WiseCyril](https://github.com/WiseCyril)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
