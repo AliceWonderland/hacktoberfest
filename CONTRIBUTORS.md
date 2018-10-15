@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Moritz Jung](https://github.com/fetmo)
+- Place: Warsaw, Poland
+- Bio: Software Engineer
+- Github: [Moritz Jung](https://github.com/fetmo)
