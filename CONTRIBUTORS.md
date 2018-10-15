@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mansi Sharma](https://github.com/MansiSharma1)
+- Place: Delhi,India.
+- Bio: Developer.
+- Github: [Mansi Sharma](https://github.com/MansiSharma1)
