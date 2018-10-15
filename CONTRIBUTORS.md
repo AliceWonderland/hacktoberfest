@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Myla Deceree Sabordo](https://github.com/mimi2495)
+ - Place: Quezon City, Philippines
+ - Bio: a dedicated student 
+ - GitHub: [mimi2495](https://github.com/mimi2495)
