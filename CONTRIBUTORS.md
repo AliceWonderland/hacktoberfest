@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Asim Subedi](GitHub link)
+- Place: Los Angeles, Ca, USA
+- Bio: web enthusiast
+- GitHub: [asimsubedi](https://github.com/asimsubedi)
