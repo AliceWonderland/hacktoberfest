@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [HARDIK KAPOOR](https://github.com/blackpanther99)
+- Place: NEW DELHI,INDIA
+- Bio: B.TECH INFORMATION TECHNOLOGY FROM CIC,DU
+- GitHub: [blackpanther99](https://github.com/blackpanther99)
