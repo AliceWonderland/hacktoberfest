@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parima Ayazi](https://github.com/parimaay)
+- Place: Milan, Italy
+- Bio: Mobile/Web developer, AWS/GGP 
+- Github: [parimaay](https://github.com/parimaay)
