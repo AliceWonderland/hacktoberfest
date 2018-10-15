@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Light Yagami](https://github.com/lightyagami1337)
+- Place: US
+- Bio: Web developer
+- Github: [Light Yagami](https://github.com/lightyagami1337)
