@@ -1,3 +1,8 @@
+### Name: [Aldo A](https://github.com/Aldo-A)
+ - Place: Dover, DE
+ - Bio: Currently studying Computer Science, and interested in cybersecurity.
+         I also love playing the electric guitar! :)
+ - GitHub: [Aldo A](https://github.com/Aldo-A)         
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
