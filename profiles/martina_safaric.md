@@ -10,13 +10,13 @@ Faculty of Organization and Informatics Varaždin
 
 ### Interests
 
-	- Javascript
-	- Typescript
-	- SCSS
+- Javascript
+- Typescript
+- SCSS
 
 ### Development
 
-	- Frontend Developer
+- Frontend Developer
 
 
 ### Profile Link
