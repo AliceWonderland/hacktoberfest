@@ -28,6 +28,6 @@ Undergraduate in B.S. (Computer Science) from Lahore University of Management Sc
 
 ### Profile Link
 
-Github: [Owais Ali](https://github.com/owaisalics)
+Github: [Owais Ali](https://github.com/ows-ali)
 LinkedIn: [Owais Ali](https://linkedin.com/in/owaisalics)
 Quora: [Owais Ali](https://www.quora.com/profile/Owais-Ali-46)
