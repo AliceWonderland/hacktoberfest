@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harman Bhutani](https://github.com/HarmanBhutani)
+- Place: Gurugram, India
+- Bio: Machine Learning Enthusiast
+- Github: [Harman Bhutani](https://github.com/HarmanBhutani)
