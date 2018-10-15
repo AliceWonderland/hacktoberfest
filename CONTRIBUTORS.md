@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -903,6 +903,11 @@ to explore life. Also, Python and Django Developer
 - Place: Quebec, Canada
 - Bio: Scala developer
 - GitHub: [navispeed](https://github.com/navispeed/)
+
+#### Name: [Grzegorz](https://github.com/greg1104/)
+- Place: Radunica near Gdańsk, Poland
+- Bio: Web Developer, Graphics Design
+- GitHub: [greg1104](https://github.com/greg1104/)
 
 #### Name: [Gui An Lee](https://github.com/piroton)
 - Place: Singapore, Singapore
