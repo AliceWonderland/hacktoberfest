@@ -82,7 +82,7 @@ Your School
 
 ### Development
 
-- Inventor of the My Pillow
+- Inventor of the My Pillow.
 
 ### Projects
 
