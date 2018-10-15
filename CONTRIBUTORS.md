@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -7,6 +7,11 @@
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
+
+#### Name: [Shubham Shrivastava](https://github.com/shrishubham)
+- Place: India
+- Bio: second year Computer Science Student, in love with NYC <3
+- GitHub: [shrishubham](https://github.com/shrishubham)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
