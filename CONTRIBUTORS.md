@@ -1,3 +1,8 @@
+#### Name: [Andresito de Guzman](https://github.com/andresitodeguzman)
+- Place: Navotas City, Philippines
+- Bio: Biology Student
+- GitHub: [andresitodeguzman](https://github.com/andresitodeguzman)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
