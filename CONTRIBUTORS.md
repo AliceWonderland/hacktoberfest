@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Danielli Costa](https://github.com/daniellic9)
 - Place: Espirito Santo, Brazil
 - Bio: Studying Computer Science, UFES.
-- Github: [Danielli Costa](https://github.com/daniellic9)
+- Github: [daniellic9](https://github.com/daniellic9)
