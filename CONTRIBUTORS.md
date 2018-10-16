@@ -1,7 +1,11 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Shivam Singh](https://github.com/shivamsingh03/hacktoberfest)
+- Place: India
+- Bio: Digital Marketer, Studying Business Administration
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
