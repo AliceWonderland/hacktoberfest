@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [RAHUL R](https://github.com/rahulr311295)
+- Place: India
+- Bio: Security Engineer
+- GitHub: [Rahul R](https://github.com/rahulr311295)
