@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Norrapat Nimmanee](https://github.com/itepifanio)
+- Place: Bangkok, Thailand
+- Bio: Senior Software Developer. Java NodeJS React Angular NoSQL
+- Github: [Norrapat Nimmanee](https://github.com/icharge)
