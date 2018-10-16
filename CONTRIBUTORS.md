@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Fellipe Medeiros](https://github.com/FellipeMedeirosSilva)
+- Place: Guarulhos, Brazil
+- Bio: Tech lover and developer
+- GitHub: [Fellipe Medeiros](https://github.com/FellipeMedeirosSilva)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
