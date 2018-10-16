@@ -1,3 +1,13 @@
+#### Name: [ALICE CHUANG](https://github.com/RedstonMaverick)
+- Place: Mumbai, Maharashtra, India
+- Bio: Engineering Grad Student 
+- GitHub: [Ashutosh Jha](https://github.com/RedstonMaverick)
+
+
+
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
