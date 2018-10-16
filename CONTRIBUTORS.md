@@ -494,6 +494,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Second year undergraduate(Computer Science)
 - GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
 
+#### Name: [Chhavi Shrivastava](https://www.chhavishrivastava.com )
+- Place: Bengaluru, India
+- Bio: UX Designer
+- GitHub: [chhavijustme](https://github.com/chhavijustme )
+
 #### Name: [Chong Jia Wei](https://github.com/heyjiawei)
 - Place: Singapore
 - Bio: Transformer in disguise
