@@ -1,3 +1,8 @@
+#### Name: [CHIKE NNAMADIM](https://github.com/Perfected1)
+- Place: Lagos, Nigeria
+- Bio: Web Developer
+- GitHub: [Perfected1](https://github.com/Perfected1)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
