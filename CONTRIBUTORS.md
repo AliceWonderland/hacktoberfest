@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [MAURICIO MARTÍNEZ](https://github.com/moudev)
+- Place: El Salvador
+- Bio: Simple programmer
+- GitHub: [Mauricio Martínez](https://github.com/moudev)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
