@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Brainmaniac](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Web developer PHP
+- Github: [Brainmaniac](https://github.com/brainmaniac)
