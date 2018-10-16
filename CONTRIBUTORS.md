@@ -2427,3 +2427,11 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Huzaifa Ahmed](https://github.com/Huzaifaahmed20)
+- Place: Karachi, Pakistan
+- Bio: MERN Stack developer
+- Github: [Huzaifa Ahmed](https://github.com/Huzaifaahmed20)
+
+
