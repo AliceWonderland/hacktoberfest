@@ -27,6 +27,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+ #### Name: [Salha](https://github.com/salhasalman)
+- Place: Colombo, SriLanka
+- Bio: Student
+- GitHub: [salhasalman](https://github.com/salhasalman)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
