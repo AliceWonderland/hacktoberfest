@@ -1684,6 +1684,11 @@ Noida
 - Bio: Love to Code. Competetive Programming. Web Developer. OpenSource Lover. Data Mining.
 - Github: [npcoder2k14](https://github.com/npcoder2k14)
 
+#### Name: [Navdeep Singh](https://github.com/navdeep300)
+- Place: Montreal, Canada
+- Bio: Computer Science Graduate, Quality Analyst.
+- GitHub: [Navdeep Singh](https://github.com/navdeep300)
+
 #### Name: [Nawed Imroze](https://github.com/nawedx)
 - Place: Bhubaneswar, Odisha, India
 - Bio: Sophomore IT undergraduate, tech enthusiast, programmer and quizzer.
