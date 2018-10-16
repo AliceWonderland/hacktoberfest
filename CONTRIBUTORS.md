@@ -1318,6 +1318,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Business Student/Entrepreneur/Self-taught Developer
 - Github: [KyleLawson16](https://github.com/KyleLawson16/)
 
+#### Name:[Lakshmi Rohitha Varada](https://github.com/rohithavarada)
+- Place: Visakhapatnam, Andhra Pradesh, India
+- Bio: Student
+- Github: [rohithavarada](https://github.com/rohithavarada)
+
 #### Name: [Lakston](https://github.com/Lakston)
 - Place: Toulouse, France
 - Bio: Front-End Dev
