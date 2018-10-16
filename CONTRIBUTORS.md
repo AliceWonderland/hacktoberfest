@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Shivank Bali](https://github.com/sb565)
+- Place: Chandigarh, India
+- Bio: Student
+- Github: [Shivank Bali](https://github.com/sb565)
