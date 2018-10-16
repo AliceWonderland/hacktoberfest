@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hoang Trung Nguyen](https://github.com/hoangtrung1999)
+- Place: Ho Chi Minh , Viet Nam
+- Bio: Game Developer and Graphic Programmer
+- Github: [hoangtrung1999](https://github.com/hoangtrung1999)
