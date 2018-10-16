@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hậu Chử](https://github.com/hauchu1196)
+- Place: Hà Nội, Việt Nam
+- Bio: Web developer Javascript, Java
+- Github: [Hậu Chử](https://github.com/hauchu1196)
