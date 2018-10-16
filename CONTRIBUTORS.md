@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [234082](https://github.com/234082)
+- Place: Allen, Texas
+- Bio: High School Computer Science Student
+- Github: [234082](https://github.com/234082) 
