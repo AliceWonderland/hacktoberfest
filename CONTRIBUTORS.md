@@ -83,6 +83,11 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+#### Name: [Maneesha Indrachapa](https://github.com/maneeshaindrachapa)
+- Place: Galle, Sri Lanka
+- Bio: Computer Science and Engineering Undergraduate
+- GitHub: [Maneesha Indrachapa](https://github.com/maneeshaindrachapa)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
