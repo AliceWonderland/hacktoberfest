@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Madiator2011](https://github.com/kodxana)
+ - Place: Polska, Poland
+ - Bio: IT Student with likes to work with AI (python)
+ - GitHub: [Madiator2011](https://github.com/kodxana)
