@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [James Song Wang](https://github.com/jjam912)
+- Place: Sparta, New Jersey, United States
+- Bio: 17-year-old code enthusiast who taught himself two languages.
+- GitHub: [jjam912](https://github.com/jjam912)
