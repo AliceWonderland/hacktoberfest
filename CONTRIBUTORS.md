@@ -621,6 +621,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
+#### Name: [Vritika Singla](https://github.com/vritika1310)
+- Place: Barnala,Punjab,India
+- Bio: Computer Engineering student
+- Github: [Vritika Singla](https://github.com/vritika1310)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
