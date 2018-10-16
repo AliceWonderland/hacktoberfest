@@ -625,6 +625,7 @@ to explore life. Also, Python and Django Developer
 - Place: Washington, United States
 - Bio: Computer Science & Network Security
 - GitHub: [daniezimmer](https://github.com/daniezimmer)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
