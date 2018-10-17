@@ -773,6 +773,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
 - GitHub: [Evan Culver](https://github.com/eculver)
 
+#### Name: [exrapid71](https://github.com/exrapid71/)
+- Place: Izmir, Turkey
+- Bio: Software Developer
+- Github: [exrapid71](https://github.com/exrapid71/)
+
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
