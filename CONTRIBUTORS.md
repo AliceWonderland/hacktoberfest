@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [akelfer](https://github.com/akelfer)
+- Place: Chicago, IL
+- Bio: Software Engineering Student at Code Platoon
+- GitHub: [akelfer](https://github.com/akelfer)
