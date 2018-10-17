@@ -27,7 +27,12 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
-
+ 
+ #### Name: [Akshay Solanki](https://github.com/AkshayS96)
+ - Place: Muzaffarnagar,, India
+ - Bio: Nitian
+ - GitHub: [Akshay Solaki](https://github.com/AkshayS96)
+ 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
