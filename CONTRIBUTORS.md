@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fahri Güreşçi](https://github.com/fahri314)
+- Place: Tekirdağ, Turkey
+- Bio: Computer Engineer
+- GitHub: [fahri314](https://github.com/fahri314)
