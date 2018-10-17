@@ -270,6 +270,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A high functioning geek, et cetera.
 - GitHub: [ankitrai96](https://github.com/ankitrai96)
 
+#### Name: [Ashutosh Kumar](https://github.com/ashutosh-iitg)
+- Place: Guwahati, Assam, India
+- Bio: Open Source, Data Science and Deep Learning
+- GitHub: [Ashutosh Kumar](https://github.com/ashutosh-iitg)
+
 #### Name: [Ankur Sharma](https://github.com/ankurs287)
 - Place: New Delhi, India
 - Bio: CSAM, IIITD
