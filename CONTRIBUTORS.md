@@ -1,3 +1,8 @@
+#### Name: Martín
+ - Place: Spain
+ - Bio: I code and find bugs to fix which cause new bugs to fix
+ - GitHub: [martin](https://github.com/alu0100832211)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
