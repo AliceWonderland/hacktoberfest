@@ -1,7 +1,3 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
@@ -2287,6 +2283,11 @@ Noida
 - Place: FRANCE
 - Bio: Open Source Lover, and trying some go :p
 - GitHub: [Victor Piolin](https://github.com/vico1993)
+
+#### Name: [Vallenain](https://github.com/Vallenain)
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
 - Place: Mandi, Himachal Pradesh, India
