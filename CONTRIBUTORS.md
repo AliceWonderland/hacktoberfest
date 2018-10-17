@@ -1,3 +1,8 @@
+#### Name: [Eric Taylor](https://github.com/GingerTrain)
+- Place: Canada
+- Bio: Internet Applications and Web Devlopment Student
+- GitHub: [GingerTrain](https://github.com/GingerTrain)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
