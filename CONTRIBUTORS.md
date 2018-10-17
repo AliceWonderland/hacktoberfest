@@ -13,6 +13,12 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ISFAAQ G](https://github.com/Isfaaq)
+- Place: Mauritius
+- Bio: Student
+- GitHub: [ISFAAQ G](https://github.com/Isfaaq)
+
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
