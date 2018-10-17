@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Busra Pekisci](https://github.com/busraselinpekisci)
+- Place: Canakkale,Türkiye
+- Bio: CE Student
+- Github: [Busra Pekisci](https://github.com/busraselinpekisci)
