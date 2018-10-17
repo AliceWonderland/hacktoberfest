@@ -1869,6 +1869,11 @@ Noida
 - Bio: EECS Student \@ NorthwesternU
 - GitHub: [PureHyd](https://github.com/PureHyd)
 
+#### Name: [Qas](https://github.com/qasimwarraich)
+- Place: Switzerland
+- Bio: Prospective Computer Science masters student
+- GitHub: [Qas](https://github.com/qasimwarraich)
+
 #### Name: [RAFAEL MENEZES](https://github.com/RafaelSa94)
 - Place: Boa Vista, Roraima, Brazil
 - Bio: Computer Science Major
