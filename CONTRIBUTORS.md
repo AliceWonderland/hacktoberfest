@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wsupatgiat](https://github.com/Wsupatgiat)
+- Place: Thailand, Bangkok
+- Bio: Student
+- Github: [Wsupatgiat](https://github.com/Wsupatgiat)
