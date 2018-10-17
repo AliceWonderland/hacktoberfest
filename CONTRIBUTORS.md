@@ -1639,6 +1639,11 @@ Noida
 - Bio: Interactive Developer
 - GitHub: [Mon555](https://github.com/mon555)
 
+#### Name: [Monsij Biswal](https://github.com/monsij)
+- Place: Durgapur, India
+- Bio: Competitive programmer 
+- GitHub: [monsij](https://github.com/monsij)
+
 #### Name: [Murilo Arruda](https://github.com/Passok11)
 - Place: Petrópolis, Rio de Janeiro, Brazil
 - Bio: Full Stack Student
