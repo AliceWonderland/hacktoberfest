@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shahidul Islam](https://shahidcseku.github.io)
+- Place: Khulna, Bangladesh
+- Bio: Web developer PHP
+- Github: [Shahidcseku](https://github.com/Shahidcseku)
