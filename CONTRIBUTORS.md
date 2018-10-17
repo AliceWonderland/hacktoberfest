@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Elissa Peters](https://github.com/ep33)
+- Place: Akron, Ohio, United States
+- Bio: Electrical Engineering Student at The University of Akron
+- Github: [ep33](https://github.com/ep33)
