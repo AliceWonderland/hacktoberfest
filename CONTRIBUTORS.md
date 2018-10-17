@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alan Anguiano](https://github.com/AlanAnguiano)
+ - Place: Colima, Mexico
+ - Bio: studend and web developer.
+ - GitHub: [Alan Anguiano](https://github.com/AlanAnguiano)
