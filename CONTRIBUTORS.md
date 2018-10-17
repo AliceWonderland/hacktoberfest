@@ -16,7 +16,7 @@
  #### Name: [Pruthvi Raj](https://github.com/pruthvigh)		
  - Place: Arlington, Texas, USA		
  - Bio: CS Graduate Student		
- - GitHun: [Pruthvi Raj](https://github.com/pruthvigh)		
+ - GitHub: [Pruthvi Raj](https://github.com/pruthvigh)		
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
