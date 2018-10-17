@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+### Name: [Harsh Gahlot](https://github.com/Euno257)
+- Place:Bengaluru,Karnataka,India
+- Bio: SIR MVIT College
+- Github: [Harsh Gahlot](https://github.com/Euno257)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
