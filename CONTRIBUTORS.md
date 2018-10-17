@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -102,6 +102,11 @@
 - Place: Hyderabad, India
 - Bio: iOS Developer
 - GitHub: [Aiman Abdullah Anees](https://github.com/aimananees)
+
+#### Name: [Devinda Ravisara](https://github.com/devinda98)
+- Place: Kalutara,Sri Lanka
+- Bio: University Student
+- GitHub: [Devinda Ravisara](https://github.com/devinda98)
 
 #### Name: [Aimee Tacchi](https://github.com/darkxangel84)
 - Place: England, UK
