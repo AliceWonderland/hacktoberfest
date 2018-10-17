@@ -4272,6 +4272,8 @@ to explore life. Also, Python and Django Developer
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
+#### Name: [Casper Thomsen]
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
