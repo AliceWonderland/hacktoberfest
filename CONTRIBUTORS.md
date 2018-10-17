@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vadim Pashaev](https://github.com/vmp)
+- Place: Izhevsk, Russian Federation
+- Bio: Fullstack Web-developer (NodeJS)
+- Github: [Vadim Pashaev](https://github.com/vmp)
