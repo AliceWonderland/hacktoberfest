@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arpit Jain](https://github.com/Arpitkotecha)
+- Place: Jaipur, Rajasthan, India
+- Bio: Android developer, Web Developer and Student at VIT, Vellore
+- Github: [Arpitkotecha](https://github.com/Arpitkotecha)
