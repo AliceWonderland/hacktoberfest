@@ -1,3 +1,8 @@
+#### Name: [Jonathan Chao](https://github.com/JChao7)
+- Place: Vancouver, BC, Canada
+- Bio: I LOVE ELON MUSK!!!!!!!!!!!! <3
+- GitHub: [JChao](https://github.com/JChao7)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
