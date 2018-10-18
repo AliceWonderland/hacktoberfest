@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [GOPALSHETTY VIVEK](https://github.com/vivekshettygopal)
+- Place: vellore,tamilnadu,india
+- Bio: just a student
+- GitHub: [vivek shetty](https://github.com/vivekshettygopal)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
