@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [André Dias](https://github.com/andrehgdias)
+ - Place: Presidente Prudente, São Paulo, Brazil
+ - Bio: Second year Computer Science Student. Working at [EJCOMP](ejcomp.com.br)
+ - GitHub: [André Dias](https://github.com/andrehgdias)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
