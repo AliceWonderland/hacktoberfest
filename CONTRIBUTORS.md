@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [denni5lin] (https://github.com/denni5lin)
+- Place: Portland, OR
+- Bio: Front-End Developer 
+- GitHub: [denni5lin] (https://github.com/denni5lin)
