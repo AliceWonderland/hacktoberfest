@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Ramsel Roy Monsobre](https://github.com/PsYCoH)
+- Place: Manila, Philippines
+- Bio: Front-end Developer
+- Github: [Ramsel Roy Monsobre](https://github.com/PsYCoH)
