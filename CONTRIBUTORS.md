@@ -1,3 +1,8 @@
+#### Name: Harvey Specter
+- Place: New York, New York
+- Bio: Senior partner at Pearson Hardmann.
+- GitHub: [bl0nd](https://github.com/bl0nd)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
