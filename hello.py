@@ -1,1 +1,1 @@
-print("hello")
+print("hello".capitalize(),"wOrLd".lower(),sep=", ",end="!")
