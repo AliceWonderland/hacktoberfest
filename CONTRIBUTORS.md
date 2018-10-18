@@ -2323,6 +2323,11 @@ Noida
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
+#### Name: [Vikrant](https://www.vikrant.ga)
+- Place: Mumbai, India
+- Bio: Sophomore student.
+- Github: [vixtant](https://www.github.com/vixrant)
+
 #### Name: [Vo Tan Tho](https://github.com/kensupermen)
 - Place: Ho Chi Minh City, VietNam
 - Bio: I'm Software Engineer at Dinosys
