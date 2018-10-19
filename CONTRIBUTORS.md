@@ -1564,6 +1564,11 @@ Noida
 - Bio: React Dev
 - Github: [maximus12793](https://github.com/maximus12793)
 
+#### Name: [Maxime Vredeveld](http://github.com/maximevredeveld)
+- Place: Harkstede, Groningen, The Netherlands
+- Bio: Dreaming about building my own OS
+- GitHub: [MaximeVredeveld]((http://github.com/maximevredeveld)
+
 #### Name: [Mayank Saxena](https://github.com/mayank26saxena)
 - Place: New Delhi, India
 - Bio: Student
