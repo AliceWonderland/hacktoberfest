@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Vidish Sharma] (https://github.com/vidishsharma)
+- Place: Delhi, India
+- Bio: Data Science Aspirant. Computer Science student. Currently in 3rd year.
+- GitHub:[Vidish Sharma](https://github.com/vidishsharma)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
