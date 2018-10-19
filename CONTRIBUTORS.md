@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jorge Yañez](https://github.com/B1tF8er)
+- Place: Chihuahua, Chihuahua, Mexico
+- Bio: Fullstack developer .NET and JavaScript
+- Github: [B1tF8er](https://github.com/B1tF8er)
