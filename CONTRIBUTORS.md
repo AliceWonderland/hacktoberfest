@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ChristianTW](https://github.com/ChristianTW)
+- Place: Washington
+- Bio: Software Developer, mainly Swift and C++
+- GitHub: [ChristianTW](https://github.com/ChristianTW)
