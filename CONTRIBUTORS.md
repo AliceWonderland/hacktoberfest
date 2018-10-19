@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajdeep Maity] (https://github.com/TotallyNotChase)
+- Place: West Bengal, India
+- Bio: Computer Science Student
+- Github: [TotallyNotChase] (https://github.com/TotallyNotChase)
