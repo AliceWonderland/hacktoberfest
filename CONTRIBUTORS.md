@@ -1,3 +1,8 @@
+#### Name: [Brandon Haulk](https://github.com/developerbrandon)
+- Place: Orlando, Florida, United States
+- Bio: Simple hippie who loves to channel his creative energy into writing world changing code.
+- GitHub: [developerbrandon](https://github.com/developerbrandon)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -127,7 +132,10 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Akash Goel] (https://github.com/akashgoel1197)
 - Place: India
-- Bio: Gamer
+- Bio: Gamer#### Name: [YOUR NAME](GitHub link)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
