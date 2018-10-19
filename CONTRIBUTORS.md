@@ -4,7 +4,7 @@
  - GitHub: [Vallenain](https://github.com/Vallenain)
  
  #### Name: [Rohit Pandey](https://github.com/Rohitpandey357)
- - Place: India
+ - Place: Delhi,India
  - Bio: Second year cs student
  - Github: [rohitpandey357](https://github.com/Rohitpandey357)
 
