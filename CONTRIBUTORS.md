@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dan](https://github.com/dedgren)
+- Place: Connecticut, USA
+- Bio: Cybersecurity & Beginning Developer
+- Github: [Dan](https://github.com/dedgren)
