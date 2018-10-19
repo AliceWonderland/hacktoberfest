@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [zSteinO34] (https://github.com/zSteinO34)
+- Place: Chicago, IL USA
+- Bio: brand new to coding
+- Github: [zSteinO34] (https://github.com/zSteinO34)
