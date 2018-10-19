@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Dawid Michniuk](https://github.com/Fategas)
+- Place: Newcastle upon Tyne, United Kingdom
+- Bio: Student at Northumbria University
+- Github: [Dawid Michniuk](https://github.com/Fategas)
