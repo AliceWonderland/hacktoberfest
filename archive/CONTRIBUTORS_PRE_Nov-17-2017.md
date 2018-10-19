@@ -16632,10 +16632,10 @@ Noida
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
-- Place: Norway
+My - Place: Norway
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
-
+My changes
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
