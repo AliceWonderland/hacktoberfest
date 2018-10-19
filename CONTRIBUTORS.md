@@ -1030,6 +1030,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist by profession and student by heart.
 - GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
 
+#### Name: [Jake Libbert](https://github.com/jakeLibbert)
+- Place: Kansas City, MO United States
+- Bio: .NET, javascript web developer. Up for whatever
+- GitHub: [Jake Libbert](https://github.com/jakeLibbert)
+
 #### Name: [Jakub Bačo](https://github.com/vysocina)
 - Place: Slovakia
 - Bio: Student / Designer
