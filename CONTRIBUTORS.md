@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Trishla Verma](https://github.com/trishla08)
+- Place: New Delhi, India
+- Bio: Pursuing Computer Engineering. Web Developer.
+- Github: [Trishla Verma](https://github.com/trishla08)
