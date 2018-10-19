@@ -1554,6 +1554,11 @@ Noida
 - Bio: Web Developer and Programmer
 - Github: [17robots](https://github.com/17robots)
 
+#### Name: [Matthew Locke](https://github.com/IIShadowRiderII)
+- Place: Atlanta, Georgia, USA
+- Bio: Beginner software developer (C++, Java, Python)
+- Github: [IIShadowRiderII](https://github.com/IIShadowRiderII)
+
 #### Name: [Matthias Kraus](https://github.com/brotkiste)
 - Place: Munich, Germany
 - Bio: Automotive Computer Science
