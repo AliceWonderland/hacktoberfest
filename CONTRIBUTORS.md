@@ -195,6 +195,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or gamedev
 - GitHub: [AlinaWithAFace](https://github.com/AlinaWithAFace)
 
+#### Name: [Utkarsh Nag](https://github.com/utkarshnag)
+- Place: New Delhi, India
+- Bio: Student studying Maths at DTU, aspiring Software Developer
+- GitHub: [Utkarsh Nag](https://github.com/utkarshnag)
+
 #### Name: [Alisson Vargas](https://github.com/alisson-mich)
 - Place: Torres, RS, Brazil
 - Bio: A guy who loves IT :D
