@@ -300,6 +300,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at Universiy of Muhammadiyah Jakarta
 - GitHub: [Arie Kurniawan](https://github.com/arkwrn)
 
+#### Name: [Ebony Seabridge](https://github.com/ebony-seabridge)
+- Place: Derbyshire, UK
+- Bio: Programmer and gamer.
+- GitHub: [Ebony Seabridge](https://github.com/ebony-seabridge)
+
 #### Name: [Arpit Gogia](https://github.com/arpitgogia)
 - Place: Delhi, India
 - Bio: Python Developer
