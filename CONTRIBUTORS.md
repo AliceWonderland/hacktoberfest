@@ -1,3 +1,8 @@
+#### Name: [SMITH NKEREUWEM](https://github.com/smithnkereuwem/)
+- Place: Calabar, Cross-River State, Nigeria
+- Bio: Med Student and Junior Web Developer?
+- GitHub: [Smith Nkereuwem](https://github.com/smithnkereuwem/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
