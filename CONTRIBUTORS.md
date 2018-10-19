@@ -1,3 +1,8 @@
+#### Name: [Brandon Haulk](https://github.com/developerbrandon)
+- Place: Orlando, Florida, United States
+- Bio: Simple hippie who loves to channel his creative energy into writing world changing code.
+- GitHub: [developerbrandon](https://github.com/developerbrandon)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
