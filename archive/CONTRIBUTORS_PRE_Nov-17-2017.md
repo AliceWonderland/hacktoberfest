@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ #### Name: Jamyang-Lotus
+ - Place: Ladakh, India
+ - Bio: Computer Science and Engineering Student.
+ - GitHub: [JamyangLotus](https://github.com/JamyangLotus)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
