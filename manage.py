@@ -3,7 +3,7 @@ Script for managing the CONTRIBUTOR.md file.
 What this script does?
 - Remove trailing whitespaces before '####'
 - Replace every heading with '####'
-- Sort the list of contributors
+- Sort the lists of contributors
 
 Running the script -
 python3 manage.py
