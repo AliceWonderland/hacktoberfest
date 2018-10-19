@@ -1,3 +1,8 @@
+#### Name: Neza
+ - Place: Slovenia
+ - Bio: love playing guitar
+ - GitHub: nezab
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
