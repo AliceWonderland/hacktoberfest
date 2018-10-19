@@ -1804,6 +1804,11 @@ Noida
 - Bio: Student and newbie software developer
 - GitHub: [phscherer](https://github.com/phscherer)
 
+#### Name: [Pavel Sadlon](https://github.com/salopadlon)
+- Place: Slovakia
+- Bio: Student of robotics
+- GitHub: [salopadlon](https://github.com/salopadlon)
+
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
