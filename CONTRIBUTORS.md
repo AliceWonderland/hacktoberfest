@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Guilherme Coelho](https://github.com/joseguilhermeoliveira)
+- Place: Campina Grande, Paraiba, Brazil
+- Bio: Computer Science student, Java developer and Python
+- Github: [Guilherme Coelho](https://github.com/joseguilhermeoliveira)
+
