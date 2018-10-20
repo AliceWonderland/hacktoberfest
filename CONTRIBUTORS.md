@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Farzan F A] (https://github.com/Farzanfa)
+- Place: Kerala,India
+- Bio: Web designer
+- Github: [Farzan F A](https://github.com/Farzanfa)
