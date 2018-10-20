@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Achmada Fiqri A Rasyad (https://github.com/fiqriachmada)
+ - Place: Surabaya, Indonesia
+ - Bio: Software engineer. An Informatics Student at ITATS.
+ - GitHub: [Achmada Fiqri A Rasyad](https://github.com/fiqriachmada)
