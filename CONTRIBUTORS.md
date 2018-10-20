@@ -1,4 +1,11 @@
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
+- Place: New Haven, CT
+- Bio: Machine Learning and Statistics Major at CMU.
+- GitHub: [alebml](https://github.com/alebml)
+- Website: [alebml.com]
+
+
+#### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
 - GitHub: [rutuke](https://github.com/rutuke)
