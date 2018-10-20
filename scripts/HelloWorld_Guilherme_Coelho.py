@@ -1,5 +1,5 @@
 # LANGUAGE: python
-# AUTHOR: Siddhant Verma
-# GITHUB: https://github.com/siddver007
+# AUTHOR: Guilherme Coelho
+# GITHUB: https://github.com/joseguilhemreoliveira
 
 print("Hello, World")
