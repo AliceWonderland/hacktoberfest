@@ -1734,6 +1734,11 @@ Noida
 - Bio: 3rd Year CS undergrad at IIIT Hyderabad.
 - GitHub: [Noveen Sachdeva](https://github.com/noveens)
 
+#### Name: [Noa N](https://github.com/n0anilsson)
+- Place: Linköping, Sweden
+- Bio: Engineer student.
+- GitHub: [n0anilsson](https://github.com/n0anilsson)
+
 #### Name: [OGUZCAN EMEGIL](https://github.com/oemegil)
 - Place: Ankara
 - Bio: Format atilir
