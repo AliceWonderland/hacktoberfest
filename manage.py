@@ -52,3 +52,5 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     file.seek(0)
     file.truncate()
     file.writelines(contributors)
+
+    
