@@ -925,6 +925,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
 
+#### Name: [Hanung Wijaya](https://github.com/hanung665)
+- Place: Jakarta, Indonesia
+- Bio: Tech enthusiast
+- GitHub: [hanung665](https://github.com/hanung665)
+
 #### Name: [Hardik Surana](https://github.com/hardiksurana)
 - Place: Bangalore, India
 - Bio: Programmer, Student
