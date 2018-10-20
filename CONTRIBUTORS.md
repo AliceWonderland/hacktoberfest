@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mayank Birkhani] (https://github.com/MayankBirkhani)
+- Place:Dehradun,India
+- Bio:Student
+-GitHub: [MayankBirkhani](https://github.com/MayankBirkhani)
