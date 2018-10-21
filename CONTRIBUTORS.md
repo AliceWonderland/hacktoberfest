@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Filippo Guarda](https://github.com/FilippoGuarda)
+- Place: Bologna, Italia
+- Bio: Automation Engineer
+- GitHub : [FilippoGuarda](https://github.com/FilippoGuarda)
