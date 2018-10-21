@@ -1,3 +1,8 @@
+#### Name: Dennis Knie
+- Place: Houston, Texas
+- Bio: IT Technician and Front-End Web Developer Degree.
+- GitHub: (https://dennisknie.github.io/DennisKnie/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
