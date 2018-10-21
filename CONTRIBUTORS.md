@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manish Kumar](https://github.com/manigedit/)
+- Place: Patna, India
+- Bio: Open Source Entusiast Undergraduate
+- Github: [manigedit](https://github.com/manigedit/)
