@@ -90,7 +90,7 @@ Your School
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[Your Name
 ```
 
 ### 3. Create a `Hello, World!` Script
