@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Himanshi Khandelwal](https://github.com/Himanshi-Khandelwal)
+- Place: Jaipur, Rajasthan, India
+- Bio: WEb Developer php, python, nodeJs, django, flask
+- GitHub: [Himanshi-Khandelwal](https://github.com/Himanshi-Khandelwal)
