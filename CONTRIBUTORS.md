@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Júlio Barreto](https://juliobguedes.github.io)
+- Place: Campina Grande, Paraíba, Brazil
+- Bio: Web developer Javascript and Java
+- Github: [Júlio Barreto](https://github.com/juliobguedes)
