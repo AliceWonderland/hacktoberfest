@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Paulo Lopes](https://github.com/lopespaulo)
+- Place: Natal, Brazil
+- Bio: Fullstack developer and MemeMaker.
+- GitHub: [rutuke](https://github.com/lopespaulo)
