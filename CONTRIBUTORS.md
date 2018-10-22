@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ronin Mittal](https://github.com/roninmittal)
+- Place: Bengaluru, India
+- Bio: UI Developer, Coder, Learner
+- Github: [Ronin Mittal](https://github.com/roninmittal)
