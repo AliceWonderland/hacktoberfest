@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Guy Ross](https://github.com/GuyARoss)
+- Place: Ann Arbor, MI, US
+- Bio: Software Engineer
+- Github: [Guy Ross](https://github.com/GuyARoss)
