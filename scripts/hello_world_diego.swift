@@ -3,4 +3,4 @@
 let firstWord = "Hello "
 let secondWord = "World!"
 
-print(firstWord + secondWo)
+print(firstWord + secondWord)
