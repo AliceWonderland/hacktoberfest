@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [ÍJohanna Julén](https://vidde.org)
+#### Name: [Johanna Julén](https://vidde.org)
 - Place: Västerås, Sweden
 - Bio: RnD Coordinator
 - Github: [Johanna Julén](https://github.com/viddeliten)
