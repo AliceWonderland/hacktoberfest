@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Velda M]
+- Place: Yellow Springs, OH
+- Bio: Wed Developer C# and .Net
+
