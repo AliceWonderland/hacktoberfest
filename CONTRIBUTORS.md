@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ashutosh Yadav](https://github.com/codinator800)
+-place:Allahabad,India
+-Bio: competitive coder
+-Github: [Ashutosh Yadav](https://github.com/codinator800)
