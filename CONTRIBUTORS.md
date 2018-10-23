@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [inetLina](https://github.com/inetLina)
+- Place: Västerås, Sweden
+- Bio: Secondline Registry Consultant
+- Github: [inetLina](https://github.com/inetLina)
