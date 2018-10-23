@@ -1095,6 +1095,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
 - GitHub: [JQuinnie](https://github.com/jquinnie)
 
+#### Name: [Jenna Schultz](https://github.com/jennaschultz)
+- Place: Ohio, United States
+- Bio: UX/UI Web Designer & Developer
+- GitHub: [Jenna Schultz](https://github.com/jennaschultz)
+
 #### Name: [Jeppe Ernst](https://github.com/Ern-st)
 - Place: 🇩🇰
 - Bio: fullstack/devops/security unicorn 🦄
