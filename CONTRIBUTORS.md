@@ -469,6 +469,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CS Student at Florida International University
 - GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
 
+#### Name: [Carlos Otávio Guimarães] (https://github.com/otaviocarlos)
+- Place: Ribeirão Preto, São Paulo, Brazil
+- Bio: Student at São Paulo Univeristy
+- GitHub: [otaviocarlos] (https://github.com/otaviocarlos)
+
 #### Name: [Casey Schroeder] (https://github.com/cdschroeder)
 - Place: Cincinnati, OH, USA
 - Bio: Technical writer, gamer, coffee lover.
