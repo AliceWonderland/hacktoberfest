@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jordy Araújo](https://github.com/JordyAraujo)
+- Place: Natal, RN, Brazil
+- Bio: Web developer. JS, Python, PHP
+- GitHub: [JordyAraujo](https://github.com/JordyAraujo)
