@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [deceree](https://github.com/decereehacks95)
+- Place: Manila, Philippines
+- Bio: Student (studying python, javascript and android)
+- Github: [decereehacks95](https://github.com/decereehacks95)
