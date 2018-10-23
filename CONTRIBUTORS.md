@@ -728,6 +728,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Lets Code and Chill
 - Github: [Harkindey](https://github.com/harkindey)
 
+#### Name: [Emmett Armstrong](https://github.com/emm3ttarmstrong)
+- Place: Medford, OR
+- Bio: I'm here for the free t-shirt!
+- Github: [emm3ttarmstrong](https://github.com/emm3ttarmstrong)
+
 #### Name: [Enrique Arce](https://github.com/enriquearce)
 - Place: México
 - Bio: Developer
