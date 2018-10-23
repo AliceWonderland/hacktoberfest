@@ -8,11 +8,6 @@ Curitiba/Paraná - Brazil
 
 Universidade Federal do Paraná - UFPR
 
-### Interests
-
-- Fortnite
-- Fifa 19
-
 ### Development
 
 - Android & iOS Developer.
