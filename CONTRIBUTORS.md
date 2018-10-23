@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luan Gabriel](https://github.com/luangs7)
+- Place: Curitiba, Paraná, Brasil.
+- Bio: Android & iOS Developer.
+- GitHub: [Luan Gabriel](https://github.com/luangs7)
