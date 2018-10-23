@@ -1,0 +1,7 @@
+//Language: Brainfuck
+//How to run it: https://copy.sh/brainfuck/
+//Author: Ali Koptan
+//Github: https://github.com/ali-koptan
+
++[-[<<[+[--->]-[<<<]]]>>>-]>-.---.>..>.<<<<-.<+.>>>>>.>.<<.<-.
+
