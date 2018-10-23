@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [SUHAIL SINGH BAINS](https://github.com/suhailsinghbains)
+- Place: NEW DELHI, DELHI, INDIA
+- Bio: A Robot who love Chai?
+- GitHub: [SUHAIL SINGH BAINS](https://github.com/suhailsinghbains)
