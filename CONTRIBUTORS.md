@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JW33o](https://jw33.github.io)
+- Place: Houston, Texas
+- Bio: Software Developer
+- Github: [JW33](https://github.com/jw33)
