@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Diego Rosas](https://github.com/TheCoreExT)
+- Place: León, Guanajuato, México
+- Bio: Computer Science Student
+- Github: [TheCoreExT](https://github.com/TheCoreExT)
