@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Greg](https://github.com/gregmotenjr)
+- Place: Ohio
+- Bio: Software develoer
+- GitHub: [gregmotenjr](https://github.com/gregmotenjr)
