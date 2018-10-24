@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Milan Dave](https://github.com/doobvoob)
+- Place: Mumbai, India
+- Bio: A guy who loves CompSci!
+- GitHub: [Alisson Vargas](https://github.com/alisson-mich)
