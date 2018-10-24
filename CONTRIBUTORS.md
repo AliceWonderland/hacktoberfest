@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [deetoo] (https://github.com/deetoo)
+- Place: Texas, USA
+- Bio: Cloud Engineer
+- Github: [deetoo] (https://github.com/deetoo)
+
