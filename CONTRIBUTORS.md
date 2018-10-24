@@ -1,8 +1,3 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
-
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -12,6 +7,11 @@
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
+
+#### Name: [ALEXANDER LIAO](https://github.com/alexander-liao)
+- Place: Ontario, Canada
+- Bio: Student, interested in CS (Theory)
+- GitHub: [Alexander Liao](https://github.com/alexander-liao)
 
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
@@ -415,15 +415,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Geophysicist
 - GitHub: [Brent Scheppmann](https://github.com/bareon)
 
-#### Name: [BrunoSXS](https://github.com/brunosxs)
-- Brazil
-- Bio: I like turtules.
-- Github [BrunoSXS](https://github.com/brunosxs)
-
 #### Name: [Bruno](https://github.com/bbarao/)
 - Place: Lisbon, Portugal
 - Bio: Love stuff
 - GitHub: [Bruno](https://github.com/bbarao/)
+
+#### Name: [BrunoSXS](https://github.com/brunosxs)
+- Brazil
+- Bio: I like turtules.
+- Github [BrunoSXS](https://github.com/brunosxs)
 
 #### Name: [Bryan Tylor](https://github.com/bryantylor)
 - Place: Cincinnati, OH, USA
@@ -703,15 +703,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
 
-#### Name: [Elijah Andrews](https://github.com/xorgon)
-- Place: Southampton, United Kingdom
-- Bio: I am a Christian, gamer, amateur developer and a few other things. I study Aeronautics and Astronautics at University of Southampton.
-- GitHub: [Xorgon](https://github.com/xorgon)
-
 #### Name: [Elijah](https://github.com/raptosaur)
 - Place: Swansea, UK
 - Bio: Studying MEng at Swansea Uni and part time SysAdmin
 - GitHub: [Raptosaur](https://github.com/raptosaur)
+
+#### Name: [Elijah Andrews](https://github.com/xorgon)
+- Place: Southampton, United Kingdom
+- Bio: I am a Christian, gamer, amateur developer and a few other things. I study Aeronautics and Astronautics at University of Southampton.
+- GitHub: [Xorgon](https://github.com/xorgon)
 
 #### Name: [Elliot Yun](https://github.com/Ellest)
 - Place: Madison, Wisconsin
@@ -733,6 +733,16 @@ to explore life. Also, Python and Django Developer
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
 
+#### Name: [Eric](https://github.com/Eric-Tadeja/)
+- Place: Redmond, Washington
+- Bio: service engineer
+- GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
+
+#### Name: [Eric](https://github.com/valleyceo)
+- Place: California, USA
+- Bio: Entrepreneur, AI/Robotics Engineer
+- GitHub: [Eric](https://github.com/valleyceo)
+
 #### Name: [Eric Briese](https://github.com/Atrolantra)
 - Place: Brisbane, Australia
 - Bio: Student studying LAw and IT. Currently working as a software engineer.
@@ -752,16 +762,6 @@ to explore life. Also, Python and Django Developer
 - Place: Edwardsville, IL, USA
 - Bio: Programmer, Audiophile, Gamer
 - GitHub: [Eric Wolfe](https://github.com/erwolfe)
-
-#### Name: [Eric](https://github.com/Eric-Tadeja/)
-- Place: Redmond, Washington
-- Bio: service engineer
-- GitHub: [Eric-Tadeja](https://github.com/Eric-Tadeja/)
-
-#### Name: [Eric](https://github.com/valleyceo)
-- Place: California, USA
-- Bio: Entrepreneur, AI/Robotics Engineer
-- GitHub: [Eric](https://github.com/valleyceo)
 
 #### Name: [Ermolaev Gleb](https://github.com/ermolaeff/)
 - Place: Moscow, Russia
@@ -804,15 +804,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Full of empty
 - GitHub: [Fran Acién](https://github.com/acien101)
 
-#### Name: [Francis Venne](https://github.com/NullSilence)
-- Place: Montreal, Canada.
-- Bio: Developer by day, cat lover by night. Canadian tech enthusiast.
-- Github [Sravya Pullagura](https://github.com/NullSilence)
-
 #### Name: [Francis](https://github.com/borbefg)
 - Place: Quezon City, PH
 - Bio: Fueled by :coffee:
 - GitHub: [Francis](https://github.com/borbefg)
+
+#### Name: [Francis Venne](https://github.com/NullSilence)
+- Place: Montreal, Canada.
+- Bio: Developer by day, cat lover by night. Canadian tech enthusiast.
+- Github [Sravya Pullagura](https://github.com/NullSilence)
 
 #### Name: [Franklyn Roth](https://github.com/far3)
 - Place: Boulder, CO, USA
@@ -1203,15 +1203,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Software engineer
 - Github: [Joseph Musembi](https://github.com/musemby)
 
-#### Name: [Josh McKenzie](https://github.com/mckenzieja)
- - Place: Louisville, Kentucky USA
- - Bio: Full Stack JavaScript/WoW - Hyjal(Horde)
- - GitHub: [mckenzieja](https://github.com/mckenzieja)]
-
 #### Name: [Josh](https://github.com/masta-bhawk)
 - Place: Houston, TX USA
 - Bio: SW Dev
 - GitHub: [masta-bhawk](https://github.com/masta-bhawk)
+
+#### Name: [Josh McKenzie](https://github.com/mckenzieja)
+ - Place: Louisville, Kentucky USA
+ - Bio: Full Stack JavaScript/WoW - Hyjal(Horde)
+ - GitHub: [mckenzieja](https://github.com/mckenzieja)]
 
 #### Name: [Joshua Dennis Blackman](https://github.com/JDBlackman)
 - Place: London, United Kingdom
@@ -1464,16 +1464,6 @@ Noida
 - Bio: A sassy grad software engineer
 - Github: [MariosGeorgiou](https://github.com/MariosGeorgiou)
 
-#### Name: [Mark Carlson](https://github.com/electrek)
-- Place: Chicago, IL, USA
-- Bio: Escape room maker
-- GitHub: [Mark Carlson](https://github.com/electrek)
-
-#### Name: [Mark Schultz](https://github.com/zynk)
-- Place: Calgary, Alberta
-- Bio: IT Student at SAIT
-- GitHub: [Mark Schultz](https://github.com/zynk)
-
 #### Name: [Mark](https://github.com/Mxrk)		 
  - Place: /
  - Bio: love informatics		 
@@ -1483,6 +1473,16 @@ Noida
  - Place: /
  - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
+
+#### Name: [Mark Carlson](https://github.com/electrek)
+- Place: Chicago, IL, USA
+- Bio: Escape room maker
+- GitHub: [Mark Carlson](https://github.com/electrek)
+
+#### Name: [Mark Schultz](https://github.com/zynk)
+- Place: Calgary, Alberta
+- Bio: IT Student at SAIT
+- GitHub: [Mark Schultz](https://github.com/zynk)
 
 #### Name: [Martns90](https://github.com/martns90)
 - Place: The Gym
@@ -1880,15 +1880,15 @@ Noida
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
 - Website: [Blog](https://devronsoft.github.io/)
 
-#### Name: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
-- Place: Sergipe, Brasil
-- Bio: Web Developer
-- GitHub: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
-
 #### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
 - Place: Sao Bernardo do Campo, Sao Paulo, Brazil
 - Bio: loves computer+science , Full Stack Developer
 - GitHub: [Ocean](https://github.com/rafaelmilanibarbosa)
+
+#### Name: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
+- Place: Sergipe, Brasil
+- Bio: Web Developer
+- GitHub: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
 
 #### Name: [Rafael Bezerra](https://github.com/rafaelbezerra195)
 - Place: Fortaleza, Brazil
@@ -2303,6 +2303,11 @@ Noida
 - Bio: Scrum Master and passionate technologist.
 - GitHub: [kashura](https://github.com/kashura)
 
+#### Name: [Vallenain](https://github.com/Vallenain)
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
+
 #### Name: [Veronika Tolpeeva](https://github.com/ostyq)
 - Place: Moscow, Russia
 - Bio: Web developer
@@ -2313,15 +2318,15 @@ Noida
 - Bio: Professional Geek | Developer
 - GitHub: [Vishaal Udandarao](https://github.com/vishaal27)
 
-#### Name: [Vishal Prakash](https://github.com/vish21)
-- Place: Mumbai, India
-- Bio: Software Developer
-- GitHub: [vish21](https://github.com/vish21)
-
 #### Name: [Vishal](https://dainvinc.github.io)
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
+
+#### Name: [Vishal Prakash](https://github.com/vish21)
+- Place: Mumbai, India
+- Bio: Software Developer
+- GitHub: [vish21](https://github.com/vish21)
 
 #### Name: [Vo Tan Tho](https://github.com/kensupermen)
 - Place: Ho Chi Minh City, VietNam
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
