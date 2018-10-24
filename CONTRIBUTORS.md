@@ -200,6 +200,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Allison Beazley](GitHub link)
+- Place: Canada
+- Bio: QA tester who wants to learn more
+- GitHub: [Allyys](https://github.com/Allyys)
+
 #### Name: [Alistair](https://github.com/aowongster)
 - Place: San Diego, CA
 - Bio: love to read, learn, and code
