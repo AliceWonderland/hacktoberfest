@@ -1,3 +1,8 @@
+#### Name: Ben Hart
+ - Place: Auckland, New Zealand
+ - Bio: Administrator
+ - GitHub: [astrobenhart] (https://github.com/astrobenhart)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
