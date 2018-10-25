@@ -1,3 +1,8 @@
+#### Name: [Danilo Joksimovic](https://github.com/djoksimo)
+ - Place: Waterloo, Canada
+ - Bio: Software Engineer, Passionate about innovation,
+ - Github [djoksimo](https://github.com/djoksimo)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
