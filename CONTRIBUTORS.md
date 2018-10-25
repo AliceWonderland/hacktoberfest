@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Lucas Manzano] (https://github.com/Doctor-L)
+- Place: Brazil
+- Bio: Vegeterian artist, Android developer
+- Github Doctor-L (https://github.com/Doctor-L)
