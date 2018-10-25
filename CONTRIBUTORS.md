@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chisulo] (https://github.com/numellow)
+- Place: Lusaka, Zambia
+- Bio: Developer and maker
+- GitHub: [NuMellow] (https://github.com/numellow)
