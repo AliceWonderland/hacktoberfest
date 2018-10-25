@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Pablo Rubianes](https://github.com/prubianes)
+- Place: Montevideo, Uruguauy
+- Bio: A dev from Uruguay
+- Github: [Pablo Rubianes](https://github.com/prubianes)
