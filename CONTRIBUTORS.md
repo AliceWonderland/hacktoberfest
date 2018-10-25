@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DEVELOPER-IN-PROGRESS](https://github.com/DEVELOPER-IN-PROGRESS)
+- Place: kerala, india
+- Bio: arduino projects
+- Github: [DEVELOPER-IN-PROGRESS](https://github.com/DEVELOPER-IN-PROGRESS)
+
+
