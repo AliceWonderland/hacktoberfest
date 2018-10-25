@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Marat](https://github.com/Marat-tip)
+- Place: Almaty, Kazakhstan
+- Bio: Web developer Java, Kotlin
+- Github: [Marat Kazgozhin](https://github.com/Marat-tip)
