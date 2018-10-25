@@ -1328,6 +1328,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer, Web Developer, Design unicorn
 - GitHub: [Larizza Tueros](https://github.com/skayablars)
 
+#### Name: [Laysa Arielly](https://github.com/laysarielly)
+- Place: Resende, Rio de Janeiro, Brazil
+- Bio: Web developer / Student / Gamer
+- Github: [laysarielly](https://github.com/laysarielly)
+
 #### Name: [Leah Langfrod](https://github.com/leahlang4d2)
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
