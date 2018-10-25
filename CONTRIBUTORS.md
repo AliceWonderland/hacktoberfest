@@ -1,3 +1,8 @@
+#### Name: [Albin Frias](https://github.com/PseudoMera)
+- Place: Santo Domingo, Dominican Republic
+- Bio: Second year software engineering student
+- GitHub: [PseudoMera](https://github.com/PseudoMera)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
