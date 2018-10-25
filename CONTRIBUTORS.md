@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jeff Horner](https://github.com/jhorner32)
+- Place: Houston, Texas
+- Bio: Javascript Developer
+- Github: [Jeff Horner](https://github.com/jhorner32)
