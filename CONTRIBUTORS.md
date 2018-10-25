@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ceecodes] (https://github.com/ceecodes)
+- Place: Caribbean
+- Bio: Undergrad student
+- Github: [ceecodes] (https://github.com/ceecodes)
