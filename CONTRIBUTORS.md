@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [grejj](https://github.com/grejj)
+- Place: Ottawa, Canada
+- Bio: Software Intern
+- GIthub: [grejj](http://github.com/grejj)
+
