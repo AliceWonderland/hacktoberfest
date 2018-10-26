@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sidak Singh Aulakh](https://github.com/co16353sidak)
+- Place: Chandigarh, India
+- Bio: Web Developer, PHP and JavaScript
+- Quantum Computing
+- Data Science
+- Github: [co16353sidak](https://github.com/co16353sidak)
