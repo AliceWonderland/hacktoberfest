@@ -305,6 +305,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Python Developer
 - Github [Arpit Gogia](https://github.com/arpitgogia)
 
+#### Name: [Ash Robinson](https://github.com/ar7000)
+- Place: Halifax, UK
+- Bio: Salesman/Trainee Web Developer
+- GitHub: [ar7000](https://github.com/ar7000)
+
 #### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
 - Place: India
 - Bio: Computer Science Major / UI/UX Designer
