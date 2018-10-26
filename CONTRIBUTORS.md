@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [Jasmine](https://github.com/jasmineanger)
+- Place: India
+- Bio: Front-end Developer
+- GitHub: [jasmine](https://github.com/jasminebanger)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
