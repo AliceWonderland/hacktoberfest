@@ -919,6 +919,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Designer/Developer
 - GitHub: [Haley C Smith](https://github.com/haleycs)
 
+#### Name: Nisal Muthugala
+ - Place: Sri Lanka
+ - Bio: Software engineer.
+ - GitHub: https://github.com/Nisal97
+
 #### Name: [Hannah Zulueta](https://github.com/hanapotski)
 - Place: North Hollywood, CA
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
