@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daniel Perez Jensen](https://github.com/DanielPerezJensen)
+- Place: Amsterdam, the Netherlands
+- Bio: Studying AI at UVA
+- Github: [danielperezjensen](https://github.com/DanielPerezJensen)
