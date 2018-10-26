@@ -48,6 +48,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Roniel Valdez](https://github.com/justaname94)
+- Place: Dominican Republic
+- Bio: First year software engineering student
+- GitHub: [Roniel Valdez](https://github.com/justaname94)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
