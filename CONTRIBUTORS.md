@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [patrick](https://github.com/cspatrick)
+- Place: USA
+- Bio: Java
+- Github: [patrick](https://github.com/cspatrick)
