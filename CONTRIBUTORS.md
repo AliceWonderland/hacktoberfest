@@ -2426,4 +2426,8 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [mdcodes](https://github.com/mdcodes)
+- Place: Ontario, Canada
+- Bio: Recent Graduate looking for work
+- Github: [mdcodes](https://github.com/mdcodes)
