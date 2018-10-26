@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Bhardwaj](https://github.com/bhardwajaditya)
+- Place: Delhi,India
+- Bio: Web developer NodeJS and Python
+- Github: [Aditya Bhardwaj](https://github.com/bhardwajaditya))
