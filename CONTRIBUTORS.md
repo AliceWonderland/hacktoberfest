@@ -20,7 +20,7 @@
 
 #### Name: [Stefany Gaspar](https://github.com/gasparStefany)
 - Place: Belo Horizonte, MG, Brasil
-- Bio: I love DOGS! :dog:
+- Bio: Computer Science student
 - GitHub: [Stefany Gaspar](https://github.com/gasparStefany)
 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
