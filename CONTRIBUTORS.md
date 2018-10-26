@@ -1,3 +1,8 @@
+#### Name: Ariel Jimenez
+ - Place: Santiago, Dominican Republic
+ - Bio: Software engineer. Graduated from O&M.
+ - GitHub: [arieljimenez](https://github.com/arieljimenez)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -1474,9 +1479,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
