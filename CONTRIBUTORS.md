@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [VIK](https://github.com/Vikki111)
+- Place: Russia
+- Bio: Student
+- GitHub: [Vikki](https://github.com/Vikki111)
