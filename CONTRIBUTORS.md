@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daniel Perrefort](https://github.com/djperrefort)
+- Place: United States
+- Bio: Astrophysicist / cosmologist  
+- Github: [djperrefort] (https://github.com/xenocidewiki)
