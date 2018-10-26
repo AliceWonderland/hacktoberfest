@@ -2303,6 +2303,11 @@ Noida
 - Bio: Scrum Master and passionate technologist.
 - GitHub: [kashura](https://github.com/kashura)
 
+#### Name: [Valentina Abramova](https://github.com/valcodes)
+- Place: Dallas, TX, USA
+- Bio: Front End Developer
+- GitHub: [valcodes](https://github.com/valcodes)
+
 #### Name: [Veronika Tolpeeva](https://github.com/ostyq)
 - Place: Moscow, Russia
 - Bio: Web developer
