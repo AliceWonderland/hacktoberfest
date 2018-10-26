@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [zuhrasofyan](http://github.com/zuhrasofyan/)
+- Place: Somewhere, Indonesia
+- Bio: Web development enthusiast
+- Github: [zuhrasofyan](http://github.com/zuhrasofyan/)
