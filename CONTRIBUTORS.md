@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joshua Blackman](https://github.com/JDBlackman)
+- Place: London, United Kingdom
+- Bio: PHP Developer
+- Github: [JDBlackman](https://github.com/JDBlackman)
