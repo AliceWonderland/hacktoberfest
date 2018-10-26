@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Glenn Horan](https://github.com/glennhoran)
+- Place: Belfast, Northern Ireland
+- Bio: Software engineer & 3d printing enthusiast
+- Github: [glennhoran](https://github.com/glennhoran)
