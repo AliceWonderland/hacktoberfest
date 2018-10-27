@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Prasadee Jayasuriya](https//github.com/prasadeej)
+- Place: Sri Lanka
+- Bio: Programmer
+- Github: [Prasadee Jayasuriya](https//github.com/prasadeej)
