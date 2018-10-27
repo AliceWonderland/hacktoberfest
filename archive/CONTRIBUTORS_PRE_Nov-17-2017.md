@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Gabriel Resende](https://github.com/resendegabriel)
+- Place: Minas Gerais, Brazil
+- Bio: Web developer
+- Github: [Gabriel Resende](https://github.com/resendegabriel)
