@@ -860,6 +860,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Student, Eat, code and sleep :P
 - GitHub: [return007](https://github.com/return007)
 
+#### Name: Gayathri
+ - Place: Bangalore,India
+ - Bio: Student
+ - GitHub: [GayathriVenkatesh]https://github.com/GayathriVenkatesh
+
 #### Name: [George Hundmann](https://github.com/georgegsd)
 - Place: Mannheim, Baden-Württemberg, Germany
 - Bio: I'm a German Shepherd that likes eating
