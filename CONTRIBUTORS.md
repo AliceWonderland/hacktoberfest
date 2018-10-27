@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Noble Sword](https://github.com/noblesword)
+- Place: Hyderabad, India
+- Bio: Budding football data analyst
+- Github: [Noble Sword](https://github.com/noblesword)
