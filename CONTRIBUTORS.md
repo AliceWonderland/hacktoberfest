@@ -310,6 +310,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Major / UI/UX Designer
 - GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
 
+#### Name: Atibhi Agrawal
+ - Place: Bengaluru, India
+ - Bio: Electronics Undergrad at IIIT-B.
+ - GitHub: [asquare14](https://github.com/asquare14)
+ 
 #### Name: [Attila Blascsak](https://github.com/blascsi)
 - Place: Hungary
 - Bio: Front-end dev. Love React!
