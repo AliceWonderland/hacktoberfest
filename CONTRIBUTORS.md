@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leonardo](https://github.com/LeoMSSilva)
+- Place: Rio de Janeiro, Brazil
+- Bio: Web developer JAVA, PHP and Python
+- Github: [LeoMSSilva](https://github.com/LeoMSSilva)
