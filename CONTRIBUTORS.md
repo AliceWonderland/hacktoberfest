@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [nshmadhani](https://github.com/nshmadhani)
+- Place:Mumbai,india
+- Bio: Web dev,Still Learning :)
+- Github: [nshmadhani](https://github.com/nshmadhani)
