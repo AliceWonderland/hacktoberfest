@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [EinMeister](https://github.com/EinMeister)
+- Place: Romania
+- Bio: Student in Highschool
+- Github: [EinMeister](https://github.com/EinMeister)
