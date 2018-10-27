@@ -449,6 +449,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Designer
 - GitHub: [Caio Calderari](https://github.com/caiocall)
 
+#### Name: [Mudit](https://github.com/mudit8560)
+ - Place: Jaipur,Rajasthan
+ - Bio: Software engineer. Graduated from LNMIIT.
+ - GitHub: [mudit8560](https://github.com/mudit8560)
+
 #### Name: [Caio Perdona](https://github.com/perdona)
 - Place: Ribeirao Preto, SP, Brazil
 - Bio: Web and Mobile Engineer
