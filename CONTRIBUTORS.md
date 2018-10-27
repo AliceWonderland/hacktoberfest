@@ -295,6 +295,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, System Administrator
 - GitHub: [TummanapallyAnuraag](https://github.com/TummanapallyAnuraag)
 
+#### Name: [Arianna Scott](https://github.com/ariannaelise)
+- Place: Princeton, New Jersey
+- Bio: I have an Accounting degree, but sometimes I code for fun.
+- GitHub: [ariannaelise](https://github.com/ariannaelise)
+
 #### Name: [Arie Kurniawan](https://github.com/arkwrn)
 - Place: Jakarta, Indonesia
 - Bio: IT Student at Universiy of Muhammadiyah Jakarta
@@ -1474,9 +1479,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
