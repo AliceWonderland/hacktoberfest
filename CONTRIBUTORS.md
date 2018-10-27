@@ -2426,7 +2426,7 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
 ### Name: [Prashun Dutta] (https://github.com/BlazeFlash)
 - Place: India
 - Bio: Competitve Coder
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
