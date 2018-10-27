@@ -58,11 +58,6 @@
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
-#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
-- Place: New Delhi, India
-- Bio: Software developer, studying B.Tech CSE
-- GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
-
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
@@ -169,11 +164,6 @@ to explore life. Also, Python and Django Developer
  - Place: Athens, GA
  - Bio: Student
  - Github: [running-cool](https://github.com/running-cool)
-
-#### Name: [Alex Choi](https://github.com/running-cool)
-- Place: Athens, GA
-- Bio: Student
-- Github: [running-cool](https://github.com/running-cool)
 
 #### Name: [Alexander Miller](https://github.com/allesmi)
 - Place: Salzburg, Austria
@@ -525,8 +515,6 @@ to explore life. Also, Python and Django Developer
 - GitHub: [kitsune7](https://github.com/kitsune7)
 
 #### Name: [Civitas](https://github.com/civitas07)
-
-#### Name: [Civitas](https://github.com/civitas07)
 - Place: Australia
 - Bio: Student
 - Github [Civitas07](https://github.com/civitas07)
@@ -640,13 +628,6 @@ to explore life. Also, Python and Django Developer
 - Place: Roorkee, Uttarakhand, India
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
 - GitHub: [theindianotaku](https://github.com/theindianotaku)
-
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
-  - Place: Indore, India
-
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
-  - Place: Indore, India
-  - Bio: Engineering Student @ IET DAVV Indore
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
@@ -1169,11 +1150,6 @@ to explore life. Also, Python and Django Developer
 - GitHub: [githubbbbbbbbbbbbb](https://github.com/githubbbbbbbbbbbbb)
 
 #### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
-- Place: New Haven, CT, USA
-- Bio: Web Developer
-- GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
-
-#### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
 -Place: New Haven, CT, USA
 -Bio: Web Developer
 -GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
@@ -1431,11 +1407,6 @@ to explore life. Also, Python and Django Developer
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
 - Bio: Computer Science Engineering student at Amity University
--Github: [Manas kashyap](https://github.com/Manas-kashyap)
-
-#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
-- Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1663,11 +1634,6 @@ Noida
 - Place: Chennai,India
 - Bio: ML developer
 - Github: [Naman Doshi] (https://github.com/warmachine0609)
-
-#### Name: [Naman Doshi] (https://github.com/warmachine0609)
--Place: Chennai,India
--Bio: ML developer
--Github: [Naman Doshi] (https://github.com/warmachine0609)
 
 #### Name: [Namish Pruthi](https://github.com/namish800)
 - Place: India
