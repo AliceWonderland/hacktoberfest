@@ -1925,6 +1925,11 @@ Noida
 - Bio: Programmer Analyst
 - GitHub: [lullabies](https://github.com/lullabies)
 
+#### Name: [Ravi Gupta](https://github.com/guptaravi5400)
+- Place: Delhi India
+- Bio: Developer
+- GitHub: [Ravi Gupta](https://github.com/guptaravi5400)
+
 #### Name: [Raymond Duckworth](https://github.com/raymondxduckworth/)
 - Place: California, USA
 - Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
