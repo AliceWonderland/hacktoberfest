@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [hajko](https://github.com/hajko)
+- Place: Mountain View, CA
+- Bio: Code learner
+- Github: [hajko](https://github.com/hajko)
