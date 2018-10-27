@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Edgar](https://github.com/edgarp28)
+- Place: New York City, New York, USA
+- Bio: Computer Science Student - C++ and Python
+- GitHub: [edgarp28](https://github.com/edgarp28)
