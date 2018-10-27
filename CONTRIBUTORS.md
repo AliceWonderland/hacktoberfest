@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: letícia faleia 💧 
+- Place: rio de janeiro, rj, brazil
+- Bio: iOS developer enthusiasts and computer science student @ unicarioca
+- Github: [letícia faleia](https://github.com/leticiafaleia)
