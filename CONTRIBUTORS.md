@@ -27,6 +27,10 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+#### Name: [Anshika Soni](https.github.com/anshikasoni665)
+ - Place: Greater Noida,India
+ - Bio: Student
+ - GitHub: [Anshikasoni665](https://www.github.com/anshikasoni665)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
