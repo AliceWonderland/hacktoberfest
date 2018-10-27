@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [keuapar](https://github.com/keuapar)
+- Place: San Francisco, CA, USA
+- Bio: Front-end web-dev student
+- Github: [keuapar](https://github.com/keuapar)
