@@ -2,7 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+ 
+#### Name: Aarthi
+ - Place: proddatur
+ - Bio: stuying(iiitb)
+ - GitHub: [MundlaAarthisree]https://github.com/MundlaAarthisree)
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
