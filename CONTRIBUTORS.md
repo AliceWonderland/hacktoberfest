@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MatanDavidi](https://github.com/MatanDavidi)
+- Place: Lugano, Ticino, Switzerland
+- Bio: Student at "Scuola Arti e Mestieri Trevano", IT department.
+- Github: [MatanDavidi](https://github.com/MatanDavidi)
