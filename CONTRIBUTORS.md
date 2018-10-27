@@ -1704,6 +1704,11 @@ Noida
 - Bio: Student of Software Engineering who likes puzzles.
 - GitHub: [nelsonmestevao](https://github.com/nelsonmestevao)
 
+#### Name: [purplesmurf45]
+ - Place: Banglore, India
+ - Bio: Undergrad
+ - GitHub: [purplesmurf45](https://github.com/purplesmurf45)
+
 #### Name: [Niall Cartwright](https://github.com/Nairu)
 - Place: Birmingham, UK
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
