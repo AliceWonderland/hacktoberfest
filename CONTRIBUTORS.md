@@ -1328,6 +1328,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer, Web Developer, Design unicorn
 - GitHub: [Larizza Tueros](https://github.com/skayablars)
 
+#### Name: [Lavie Ruan](https://github.com/lavioli)
+- Place: TX, USA
+- Bio: Full Stack Developer
+- GitHub: [Lavie Ruan](https://github.com/lavioli)
+
 #### Name: [Leah Langfrod](https://github.com/leahlang4d2)
 - Place: CA, USA
 - Bio: Recent Bachelors in Computer Science
