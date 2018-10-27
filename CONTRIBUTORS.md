@@ -1714,6 +1714,11 @@ Noida
 - Bio: B.Tech Student in Information Technology
 - GitHub: [Niket Mishra](https://github.com/niketmishra)
 
+#### Name: [Nikitha Adivi](https://github.com/NikiAdivi)
+ - Place: Bangalore,India
+ - Bio: Excited to contribute to open source.
+ - GitHub: [NikiAdivi](https://github.com/NikiAdivi)
+
 #### Name: [Nikki](https://github.com/smilesandcode)
 - Place: Florida, USA
 - Bio: Web Developer
