@@ -78,6 +78,11 @@
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
+#### Name: [Yash Shinde](https://github.com/Charismat)
+- Place: Roorkee, India
+- Bio: Metallurgy student
+- GitHub: [Charismat](https://github.com/Charismat)
+
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
