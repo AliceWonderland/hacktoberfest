@@ -1100,6 +1100,11 @@ to explore life. Also, Python and Django Developer
 - Bio: fullstack/devops/security unicorn 🦄
 - GitHub: [Jeppe Ernst](https://github.com/Ern-st)
 
+#### Name: [Rohit Natu](https://github.com/75072107)
+- Place: Maharashtra, India
+- Bio: Foodie, OCD(Obsessive Cycling Disorder),student at MIT,Manipal
+- GitHub: [75072107](https://github.com/75072107)
+
 #### Name: [Jeremy](https://github.com/jremeh)
 - Place: KL, Malaysia
 - Bio: Applied Math with Computing Student
