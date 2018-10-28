@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Juan Albero](https://github.com/maybeJ1)
+- Place: Paderborn, Germany
+- Bio: New programming student
+- Github: [Juan Albero](https://github.com/maybeJ1)
