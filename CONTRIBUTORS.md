@@ -804,6 +804,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full of empty
 - GitHub: [Fran Acién](https://github.com/acien101)
 
+#### Name: [Franciele Portugal](https://github.com/francieleportugal)
+- Place: Salvador, Bahia, Brazil
+- Bio: Student of Information Systems and I love datas :blue_heart:
+- GitHub: [Franciele Portugal](https://github.com/francieleportugal)
+
 #### Name: [Francis Venne](https://github.com/NullSilence)
 - Place: Montreal, Canada.
 - Bio: Developer by day, cat lover by night. Canadian tech enthusiast.
