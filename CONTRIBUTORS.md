@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zane Helton](https://github.com/zaneh)
+- Place: Raleigh, NC
+- Bio: Reverser and iOS dev
+- Github: [ZaneH](https://github.com/zaneh)
