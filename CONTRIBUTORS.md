@@ -350,6 +350,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads, invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
 - GitHub: [Ayush](https://github.com/Ayushverma8)
 
+#### Name: [Ayushi Jain](https://github.com/starsign24)
+- Place: Bangalore, India
+- Bio: CSE Student 
+- GitHub: [Ayush Agarwal](https://github.com/starsign24)
+
 #### Name: [Ben Edelson]
 -Place: Newark NJ
 -Bio: I.T.
