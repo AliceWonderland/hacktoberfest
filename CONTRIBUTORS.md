@@ -2432,3 +2432,9 @@ Noida
 - Bio: Student
 - GitHub: [hemishv111](https://github.com/hemishv111)
 
+#### Name: [Pranay Mog](https://github.com/pranmog)
+- Place: Hyderabad, India
+- Bio: Student
+- GitHub: [pranaymog](https://github.com/pranaymog)
+
+
