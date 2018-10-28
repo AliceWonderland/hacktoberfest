@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ítalo confixyu](https://github.com/confixyu)
+- Place: Barranquilla, Colombia
+- Bio: Python backend developer
+- Github: [Ítalo confixyu](https://github.com/confixyu)
