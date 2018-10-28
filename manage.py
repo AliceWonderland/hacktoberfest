@@ -26,7 +26,7 @@ def format_contributor(contrib):
     contrib= '#### ' + contrib+ '\n\n'
     return contrib
 
-
+print("hello")
 # Remove trailing whitespaces
 # Make the file ready for sorting
 with open('CONTRIBUTORS.md', 'r+') as file:
