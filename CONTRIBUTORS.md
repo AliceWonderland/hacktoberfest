@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [NIKHIL](https://github.com/rangineninikhil)
+- Place: Hyderabad, telangana, India
+- Bio: student?
+- GitHub: [GitHub account name](https://github.com/rangineninikhil)
