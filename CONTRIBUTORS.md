@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [IAGO ELIAS](https://github.com/dinthea)
+- Place: São Carlos, São Paulo, Brazil
+- Bio: Software Developer
+- GitHub: [Dinthea](https://github.com/dinthea)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
