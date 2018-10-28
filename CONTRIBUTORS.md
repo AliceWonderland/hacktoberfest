@@ -1,7 +1,11 @@
+#### Name: [PRIYANKA NEGI](https://github.com/thejsgirl)
+- Place: Noida, India
+- Bio: Web Developer. Graduated from IGNOU.
+- GitHub: [thejsgirl](https://github.com/thejsgirl)
 #### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+- Place: Lyon, France
+- Bio: Software engineer. Graduated from INSA Lyon.
+- GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
