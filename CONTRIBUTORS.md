@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sultron](https://github.com/sultron)
+- Place: USA
+- Bio: Student
+- Github: [Sultron](https://github.com/sultron)
