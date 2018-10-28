@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anna Xia](https://github.com/annaanx24)
+- Place: USA
+- Bio: Student
+- Github: [annaanx24](https://github.com/annaanx24)
