@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Garvit Kothari](https://github.com/Garvit-k)
+- Place: India
+- Bio: Undergrad Student
+- GitHub: [Garvit-k](https://github.com/Garvit-k)
