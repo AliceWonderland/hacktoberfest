@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [ATHUL JAYARAM](https://github.com/juniorhero)
+- Place: Mumbai, India
+- Bio: Security Consultant
+- GitHub: [Athul Jayaram](https://github.com/juniorhero)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
