@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Sagar Utekar](https://github.com/Sagar2366)
+- Place: Pune,India
+- Bio: GSLAB, Pune.
+- GitHub: [Sagar Utekar](https://github.com/Sagar2366)
