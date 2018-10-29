@@ -7,7 +7,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
@@ -2236,6 +2236,11 @@ Noida
 - Place: PA, USA
 - Bio: Student
 - GitHub: [Michael Cao](https://github.com/mcao)
+
+#### Name: [Srijan](https://github.com/sgarg24)
+- Place: IN
+- Bio: Beginner
+- GitHub: [Srijan](https://github.com/sgarg24)
 
 #### Name: [Amlaan Bhoi](https://github.com/amlaanb)
 - Place: IL, USA
