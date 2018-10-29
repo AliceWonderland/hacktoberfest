@@ -5,12 +5,10 @@
 Davao City, Philippines
 
 ### Academics
-
-Ateneo de Davao University 
+Information Technology B.S. at Southern Christian College
 
 ### Interests
 
-- Singing
 - Biking
 
 ### Development
@@ -22,5 +20,4 @@ Ateneo de Davao University
 - Everything has been on private repos.
 
 ### Profile Link
-
 [Sanny Candidier](https://github.com/sannycand)
