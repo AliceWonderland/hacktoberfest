@@ -120,15 +120,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science and Engineering BSc student at Carlos III University of Madrid
 - GitHub: [Aitor Alonso](https://github.com/tairosonloa)
 
-#### Name: [Akani] (https://github.com/akanijade/)
+#### Name: [Akani](https://github.com/akanijade/)
 - Place: Jakarta, Indonesia
 - Bio: Student
-- GitHub: [akanijade] (https://github.com/akanijade/)
+- GitHub: [akanijade](https://github.com/akanijade/)
 
-#### Name: [Akash Goel] (https://github.com/akashgoel1197)
+#### Name: [Akash Goel](https://github.com/akashgoel1197)
 - Place: India
 - Bio: Gamer
-- Github:[Akash Goel ] (https://github.com/akashgoel1197)
+- Github:[Akash Goel ](https://github.com/akashgoel1197)
 
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
@@ -2418,10 +2418,10 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+#### Name: [xenocideiwki](https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+- GitHub: [xenocidewiki](https://github.com/xenocidewiki)
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
