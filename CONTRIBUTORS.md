@@ -1368,6 +1368,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I have 19 years, course Analysis and Development System.
 - GitHub: [LeticiaFatimaa](https://github.com/leticiafatimaa)
 
+#### Name: [Lewis Shaw](https://github.com/leticiafatimaa)
+- Place: Scotland
+- Bio: Front-End Web & App Developer from the West Coast of Scotland! 🌄
+- Website: [LewisShaw.me](https://www.lewisshaw.me/)
+
 #### Name: [Lisa Nguyen](https://github.com/LisaNguyen)
 - Place: Dublin, Ireland
 - Bio: Front-end developer
