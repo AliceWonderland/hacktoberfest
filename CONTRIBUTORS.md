@@ -1,3 +1,8 @@
+#### Name: [Courtney Kirkham](https://github.com/Puugu)
+- Place: Guflport, MS, USA
+- Bio: Front End Web Developer, Full - time nerd
+- GitHub: [Puugu](https://github.com/Puugu)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
