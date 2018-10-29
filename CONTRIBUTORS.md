@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [GemzBond](https://github.com/GemzBond)
+- Place: Digos, Philippines
+- Bio: I''m a self-taught developer and also created some few projects.
+- Github: [GemzBond](https://github.com/GemzBond)
