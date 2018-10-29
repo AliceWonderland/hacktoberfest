@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Alberto Gallinaro](https://github.com/enriquearce)
+- Place: Italy
+- Bio: Full Stack Web Developer
+- Github: [DarkSiderOC](https://github.com/DarkSiderO
