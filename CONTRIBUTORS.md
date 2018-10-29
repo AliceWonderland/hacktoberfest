@@ -1,5 +1,5 @@
 #### Name: [Courtney Kirkham](https://github.com/Puugu)
-- Place: Guflport, MS, USA
+- Place: Gulfport, MS, USA
 - Bio: Front End Web Developer, Full - time nerd
 - GitHub: [Puugu](https://github.com/Puugu)
 
