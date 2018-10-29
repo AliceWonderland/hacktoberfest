@@ -2432,4 +2432,4 @@ Noida
 #### Name: [Deep Datta](https://github.com/dattausc)
 - Place: San Francisco, California
 - Bio: Open Source Program Manager
-- Github: [Deep Datta](https://github.com/DattaUSC)
+- Github: [Dattausc](https://github.com/DattaUSC)
