@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Jonas Pucher
+ - Place: Frohnleiten, Austria
+ - Bio: Student at the technical college for electronics [HTL Bulme Graz-Gösting](https://www.bulme.at)
+ - GitHub: [PucklaMotzer09](https://github.com/PucklaMotzer09)
