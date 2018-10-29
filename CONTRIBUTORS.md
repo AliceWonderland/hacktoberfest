@@ -939,6 +939,12 @@ to explore life. Also, Python and Django Developer
 - Place: Bida, Niger State, Nigeria
 - Bio: Web Developer at @ADPNigeria
 
+#### Name: [SS491]
+- Place: Victoria, BC, Canada
+- Bio: Android Developer
+- Github: new user
+
+
 #### Name: [Henri Idrovo](https://github.com/henriguy1210)
 - Place: Chicago, Illinois, USA
 - Bio: Java Software Engineer. Illinois Institute of Technology graduate.
