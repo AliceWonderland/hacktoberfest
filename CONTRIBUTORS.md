@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lewis](https://github.com/LDWme/)
+- Place: North Wales, UK
+- Bio: Technician
+- Github: [LDWme](https://github.com/LDWme/)
