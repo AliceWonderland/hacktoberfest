@@ -1145,6 +1145,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student @ uWaterloo
 - GitHub: [jamiepinheiro](https://github.com/jamiepinheiro)
 
+#### Name: [Sgarg](https://github.com/sgarg24)
+- Place: India
+- Bio: Beginner
+- GitHub: [sgarg](https://github.com/sgarg24)
+
 #### Name: [Alvin Abia](https://github.com/twist295)
 - Place: NY, USA
 - Bio: Lead Mobile Developer
