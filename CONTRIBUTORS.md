@@ -16569,7 +16569,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
 
-#### Name: [Dmitrii Vorobev] (https://github.com/caravaneer404 )
+#### Name: [Dmitri Vorobev] (https://github.com/caravaneer404 )
 - Place: Moscow, Russia
 - Bio: iOS Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [caravaneer404](https://github.com/caravaneer404 )
