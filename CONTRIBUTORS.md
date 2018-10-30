@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matt DuLeone](https://matt.dule.one)
+- Place: New Jersey, United States
+- Bio: Software Engineer
+- Github: [@mduleone](https://github.com/mduleone)
