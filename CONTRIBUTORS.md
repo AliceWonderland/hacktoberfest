@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Renato Henriques](https://github.com/renatodh)
+- Place: Campina Grande, Paraíba, Brazil)
+- Bio: Undergraduate in Computer Science
+- GitHub: [renatodh](https://github.com/renatodh)
