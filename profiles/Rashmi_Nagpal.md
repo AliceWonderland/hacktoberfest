@@ -3,7 +3,7 @@ RASHMI NAGPAL
 LOCATION:
 Delhi,India.
 ACADEMICS:
-I’m in final year at IIIT-D, doing majors in CS and I completed my schooling from HansRaj Model School.
+I’m in final year at IIIT-Delhi, doing majors in CS and I completed my schooling from HANSRAJ MODEL SCHOOL.
 INTERESTS:
 Natural Language Processing.
 CyberSecurity.
