@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Henry](https://github.com/Henry6612700)
+- Place: Medan, Sumatera Utara
+- Bio: Data Analyst 
+- Github: [Henry](https://github.com/Henry6612700)
