@@ -2403,6 +2403,11 @@ Noida
 - Bio: CompSci from ULaval reporting in
 - GitHub: [aiglebleu](https://github.com/aiglebleu)
 
+#### Name: [rspdev](https://github.com/rspdev)
+- Place: UK
+- Bio: Game Developer
+- Github: [rspdev](https://github.com/rspdev)
+
 #### Name: [gipsi](gipsi.github.io)
 - Place: South-East, UK
 - Bio: Student FreeCodeCamp interested in PWA's
