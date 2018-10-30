@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adam Fitzgibbon](https://github.com/adamfitzgibbon)
+- Place: Lincoln, Nebraska USA
+- Bio: Software Engineer that deals mostly in .NET, Python, and web technologies.
+- Github: [Adam Fitzgibbon](https://github.com/adamfitzgibbon)
