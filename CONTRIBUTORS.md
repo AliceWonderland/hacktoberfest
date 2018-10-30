@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Constantin
+ - Place: Transylvania, Romania
+ - Bio: Automatization engineer. Android developer.
+ - GitHub: [Constantin](https://github.com/szili9992)
