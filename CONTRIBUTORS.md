@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Keyur Canji](https://github.com/KeyurC)
+- Place: England
+- Bio: first year Computer Science Student
+- GitHub: [KeyurC](https://github.com/KeyurC)
