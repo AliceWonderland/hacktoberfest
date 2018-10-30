@@ -1,5 +1,4 @@
-# Your Name
-Adam Fitzgibbon
+# Adam Fitzgibbon
 
 ### Location
 
