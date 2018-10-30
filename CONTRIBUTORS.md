@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Robert Fardoulys](https://github.com/fardoulys)
+- Place: Australia
+- Bio: Shirt enthusiast
+- GitHub: [Alex Marrujo](https://github.com/fardoulys)
