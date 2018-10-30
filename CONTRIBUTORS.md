@@ -2,7 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+#### Name: Tej
+ - Place: India
+ - Bio: Software engineer. 
+ - GitHub: [Tejasvatk](https://github.com/Tejasvatk)
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
