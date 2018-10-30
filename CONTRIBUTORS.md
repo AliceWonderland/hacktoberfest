@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wellington Avelino](https://github.com/wellavelino)
+- Place:Dublin, Ireland
+- Bio: Developer and sofware engineer in test
+- Github: [Ítalo Epifânio](https://github.com/wellavelino)
