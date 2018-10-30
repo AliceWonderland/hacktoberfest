@@ -1148,6 +1148,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Sophomore CS undergraduate, MUNner,  programmer
 - Github : [Joel V Zachariah](https://github.com/JoelVZachariah)
 
+#### Name: [Kapil Rijhwani](https://github.com/KapilRijhwani)
+- Place: India
+- Bio: Software Engineer, Hyderabad, India
+- GitHub: [KapilRijhwani](https://github.com/KapilRijhwani)
+
 #### Name: [Joey Marshment-Howell](https://github.com/josephkmh)
 - Place: Berlin, Germany
 - Bio: A nice young man who likes web programming!
