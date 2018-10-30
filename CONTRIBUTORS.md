@@ -26,6 +26,9 @@
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
+ - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512](https://github.com/bansalanjali2512)
+ - Place: Delhi, India
+ - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
@@ -102,6 +105,11 @@
 - Place: Hyderabad, India
 - Bio: iOS Developer
 - GitHub: [Aiman Abdullah Anees](https://github.com/aimananees)
+
+#### Name: [Tejasva](https://github.com/tejasvatk)
+- Place: India
+- Bio: Developer
+- GitHub: [Tejasva](https://github.com/Tejasvatk)
 
 #### Name: [Aimee Tacchi](https://github.com/darkxangel84)
 - Place: England, UK
