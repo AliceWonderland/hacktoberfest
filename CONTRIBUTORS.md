@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Shubham Sharma
+ - Place: Chandigarh, India
+ - Bio: IT undergrad.
+ - GitHub: [shubhshrma](https://github.com/shubhshrma)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
