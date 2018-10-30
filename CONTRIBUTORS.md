@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arushi Gupta](https://github.com/mearushi)
+- Place: New Delhi, India
+- Bio: Web developer Javascript and Nodejs
+- Github: [mearushi](https://github.com/mearushi)
