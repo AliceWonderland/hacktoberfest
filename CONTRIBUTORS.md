@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Vinícius Luiz](https://github.com/viniciuslcpereira97)
+- Place: São Paulo, Brazil
+- Bio: Backend developer
+- Github: [Vinícius Luiz](https://github.com/viniciuslcpereira97)
