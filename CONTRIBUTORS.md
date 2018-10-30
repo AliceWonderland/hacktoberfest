@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mateusz W.](https://github.com/matx1002)
+- Place: Poland
+- Bio: Student
+- Github: [matx1002](https://github.com/matx1002)
