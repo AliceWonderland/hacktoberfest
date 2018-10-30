@@ -4,7 +4,7 @@
 - Gujarat , IN
 ### Academics
 
-- Computer Engineering @ Alpha College Of Engg. & Tech.
+- Computer Engineering @ Alpha College Of Engineering & Technology.
 
 ### Interests
 
