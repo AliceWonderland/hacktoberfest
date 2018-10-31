@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ana Carolina Barreto](https://github.com/thepurpleana)
+- Place: Curitiba, Parana, Brazil
+- Bio: iOS Developer and Designer. In love with creative coding and urban art. 
+- GitHub: [The PurpleAna](https://github.com/thepurpleana)
