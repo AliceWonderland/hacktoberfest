@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Austin Boldt](https://github.com/baldt)
+- Place: Ohio
+- Bio: Computer Engineering Student
+- GitHub: [Austin Boldt](https://github.com/baldt)
