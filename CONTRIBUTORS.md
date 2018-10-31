@@ -1,3 +1,8 @@
+#### Name: [Jimmy Jose](https://github.com/realinventor)
+- Place: Thrissur, Kerala, India
+- Bio: Software Developer, Student at Model Engineering College
+- GitHub: [realinventor](https://github.com/realinventor)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
