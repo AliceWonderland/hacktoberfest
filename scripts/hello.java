@@ -1,11 +1,9 @@
-/** 
-@author Vinicius Silva
-**/
+// LANGUAGE: Java
+// ENV: Hello.java
+// AUTHOR: Vinicius Silva
+// GITHUB: https://github.com/viniciusfdasilva
 public class Main{
-	public String STRING = "";
 	public static void main(String[] args){
-		Main main = new Main();
-		main.STRING = "Hello Word";
-		System.out.println(main.STRING);
+		System.out.println("Hello Word");
 	}// End main
 }// End Main	
