@@ -12701,6 +12701,12 @@ Noida
 - Bio: Currently studying computerscience at Aarhus University
 - Github: [Søren Eriksen](https://github.com/soer7022)
 
+#### Name: [Mvskiran](https://github.com/mvskiren)
+- Place: hyderabad
+- Bio: Currently studying computerscience at jnt-k University
+- Github: [mvskiran](https://github.com/mvskiren)
+
+
 #### Name: [Cristiano Bianchi](https://github.com/crisbnk)
 - Place: Italy
 - Bio: Love to learn something new everyday
