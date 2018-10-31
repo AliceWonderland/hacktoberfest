@@ -1,3 +1,8 @@
+#### Name: Nikunj
+ - Place: Roorkee, India
+ - Bio: Third year undergrad at IIT Roorkee
+ - Github: [Nikunj Singhal](https://github.com/niksinghal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
