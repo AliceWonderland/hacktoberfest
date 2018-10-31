@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Cinthia Katiane](https://github.com/CinthiaKatiane)
+- Place: Natal, Brazil
+- Bio: Data science enthusiast, I.T. student and Python <3
+- Github: [CinthiaKatiane](https://github.com/CinthiaKatiane)
