@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -782,6 +782,11 @@ to explore life. Also, Python and Django Developer
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
 - GitHub: [faouziamrouche](https://github.com/faouziamrouche)
+
+#### Name: [Farhan Shabri](https://github.com/farhan9521)
+- Place: Ampang, Selangor, Malaysia
+- Bio: Agronomist, interested in all things tech
+- GitHub: [farhan9521](https://github.com/farhan9521)
 
 #### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
 - Place: Rafael Calzada, Buenos Aires, Argentina
