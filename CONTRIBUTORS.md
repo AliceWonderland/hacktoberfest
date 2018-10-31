@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vinicius Silva](https://github.com/itepifanio)
+- Place: Belo Horizonte, Brazil
+- Bio: Android Developer and Web Developer
+- Github: [Vinicius Silva](https://github.com/viniciusfdasilva)
