@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Tj](https://github.com/tj)
+- Place: INDIA
+- Bio: beginner 
+- Github: [tj](https://github.com/tj)
