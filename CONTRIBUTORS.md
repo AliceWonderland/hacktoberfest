@@ -2002,6 +2002,11 @@ Noida
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
+#### Name: [Shane Church](https://github.com/churchs19)
+- Place: Des Moines, IA, USA
+- Bio: UX-focused software engineer
+- GitHub: [churchs19](https://github.com/churchs19)
+
 #### Name: [Sai Praneeth](https://github.com/saip009)
 - Place: Mumbai, India
 - Bio: Programmer
