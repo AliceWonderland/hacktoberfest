@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Larry Coun](https://github.com/awesome-coun)
+- Place: Vegas, USA
+- Bio: Neet
+- Github: [Awesome-Coun](https://github.com/awesome-coun)
