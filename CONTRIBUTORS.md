@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [dimitrisz123](https://github.com/dimitrisz123)
+- Place: Athens, Greece
+- Bio: Web developer React.js and Node.js
+- Github: [dimitrisz123](https://github.com/dimitrisz123)
