@@ -1930,6 +1930,11 @@ Noida
 - Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
 - GitHub: [Raymond Duckworth](https://github.com/raymondxduckworth/)
 
+#### Name: [Rebecca Medrano](https://github.com/nyamako/)
+- Place: San Francisco, California, USA
+- Bio: Teacher, studying computer science on the side.
+- GitHub: [Rebecca Medrano](https://github.com/nyamako/)
+
 #### Name: [Ren Cummings](https://github.com/nrenc027)
 - Place: Dayton,OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
