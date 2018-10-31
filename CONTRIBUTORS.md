@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vinícius Jabes](https://github.com/vinijabes/)
+- Place: Presidente Prudente, São Paulo, Brazil
+- Bio: Web developer Node, PHP and React
+- GitHub: [vinijabes](https://github.com/vinijabes/)
