@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kaushal Pandey](https://github.com/Kaushal196)
+- Place: Uk, India
+- Bio: Web developer PHP 
+- Github: [Kaushal196](https://github.com/Kaushal196)
