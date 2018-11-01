@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [redacteduk](http://github.com/redacteduk)
+- Place: Nottingham, UK
+- Bio: Interaction design and creative tech
+- Github: [redacteduk](https://github.com/redacteduk)
+
