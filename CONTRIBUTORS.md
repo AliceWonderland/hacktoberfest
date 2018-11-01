@@ -235,6 +235,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student - Otaku - Geek
 - GitHub: [Switch](https://github.com/switchgirl95)
 
+#### Name: [Andi Robinson](https://github.com/andirobinson)
+- Place: Portland, Oregon, United States
+- Bio: Project Manager, Junior Developer
+- GitHub: [andirobinson](https://github.com/andirobinson)
+
 #### Name: [Andrea Stringham](https://github.com/astringham)
 - Place: Phoenix, AZ USA
 - Bio: Coffee addict, dog person, developer.
