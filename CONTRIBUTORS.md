@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Etoler1841](https://github.com/etoler1841)
+- Place: Pensacola, FL
+- Bio: Musician, teacher, PHP/JavaScript developer
+- Github: [Etoler1841](https://github.com/etoler1841)
