@@ -1,3 +1,8 @@
+#### Name: Shubham
+ - Place: jalgaon, india
+ - Bio: student at  G H R Poly jalgaon.
+ - GitHub: [Shubham8550](https://github.com/shubham8550)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
