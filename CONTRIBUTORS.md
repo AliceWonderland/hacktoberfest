@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Garda Sahib M. Nadeem](https://github.com/slash12)
+- Place: Camp Fouquereaux Phoenix, Mauritius
+- Bio: Web developer
+- Github: [slash12](https://github.com/slash12)
