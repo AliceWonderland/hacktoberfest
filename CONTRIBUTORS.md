@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dishebh Bhayana](https://github.com/Dishebh)
+- Place: Himachal Pradesh, India
+- Bio: A freelance learner
+- GitHub: [Dishebh](https://github.com/Dishebh)
