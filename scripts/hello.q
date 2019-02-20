@@ -4,3 +4,4 @@
 // GITHUB: http://github.com/alexdanila
 
 "Hello World!"
+" Hi everyone!"
