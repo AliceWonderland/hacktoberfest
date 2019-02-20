@@ -2122,6 +2122,11 @@ Noida
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
 - GitHub: [SrGrace](https://github.com/SrGrace)
 
+#### Name: [Sovichea Nhim](https://github.com/Kakashiutano)
+- Place: Kirirom, Cambodia
+- Bio: a freshman at Kirirom Institute of Technology
+- GitHub: [kakashiutano](https://github.com/Kakashiutano)
+
 #### Name: [Sparsh Garg](https://github.com/sparsh789)
 - Place: Hyderabad, Telangana, India
 - Bio: Student@IIIT,Hyderabad
