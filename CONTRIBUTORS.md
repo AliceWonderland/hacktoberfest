@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vinay] (https://github.com/Vinay-1)
+- Place: Roorkee, India
+- Bio: Student @IIT-R
+- Github: [Vinay-1] (https://github.com/Vinay-1)
