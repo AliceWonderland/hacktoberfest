@@ -1,3 +1,7 @@
+﻿#### Name: [Sodavin Chheng](https://github.com/sodavinchheng)
+- Place: Phnom Penh, Cambodia
+- Bio: First year software engineering student
+- GitHub: [sodavinchheng](https://github.com/sodavinchheng)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
