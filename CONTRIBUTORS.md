@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanjula Madurapperuma](https://github.com/sanjulamadurapperuma)
+- Place: London, UK
+- Bio: Undergraduate Student
+- Github: [Sanjula Madurapperuma](https://github.com/sanjulamadurapperuma)
