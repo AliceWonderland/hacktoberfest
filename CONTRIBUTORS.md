@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Jennifer Omena](https://github.com/gennipher)
+- Place: Rio de Janeiro, Brazil
+- Bio: Computer Engineering Student
+- Github: [Jennifer Omena](https://github.com/gennipher)
