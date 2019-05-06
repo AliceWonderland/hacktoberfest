@@ -1,0 +1,6 @@
+# LANGUAGE: Python
+# ENV: Python 3.5
+# AUTHOR: Aarushi Goenka
+# GITHUB: https://github.com/Aarushi2405
+
+print ("Hello, World!")
