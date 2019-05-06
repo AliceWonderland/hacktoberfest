@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alibh Deori](https://github.com/livzz)
+- Place: Guwahati, Assam, India
+- Bio: JS and Java Developer
+- Github: [Alibh Deori](https://github.com/livzz)
