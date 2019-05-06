@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [lighteater12](https://github.com/lighteater12)
+- Place: TX, USA.
+- Bio: Just an average college student.
+- GitHub: [lighteater12](https://github.com/lighteater12)
