@@ -2,7 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+ 
+#### Name: Farooq Ch
+ - Place: Lahore, Pakistan
+ - Bio: Software engineer,Adventurists, Biker, ping me if you want to visit pk.
+ - GitHub: [FarooqCh](https://github.com/farooqch11)
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
