@@ -1393,6 +1393,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
+#### Name: [Lucas Wildemberg](https://www.linkedin.com/in/lucaswildemberg/)
+- Place: Natal, RN,Brasil
+- Bio: I love marketing, web design and music!
+- GitHub: [Lucas Wildemberg](https://github.com/lucaswildemberg)
+
 #### Name: [Luis Alducin](https://linkedin.com/luisalduucin)
 - Place: Mexico City
 - Bio: Software Engineer
