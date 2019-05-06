@@ -1,3 +1,8 @@
+#### Name: [Bayli](https://github.com/baylisade)
+- Place: Toronto, Ontario
+- Bio: Student at UofT
+- GitHub: [BayliSade](https://github.com/baylisade)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
