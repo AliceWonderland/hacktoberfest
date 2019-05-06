@@ -1108,7 +1108,12 @@ to explore life. Also, Python and Django Developer
 #### Name: [Jerry Chong](https://github.com/zanglang)
 - Place: Johor Bahru, Malaysia
 - Bio: Software Engineer
-- GitHub: [Jerry Chong](https://github.com/zanglang)
+- GitHub: [Jerry Chong](https://github.com/zanglang
+
+#### Name: [Jhanwweereddy](https://github.com/jhanwweereddy)
+ - Place: Bangalore, India
+ - Bio: CSE Student in IIITB
+ - GitHub: [Jhanwweereddy](https://github.com/Jhanwweereddy)
 
 #### Name: [Jianhao Tan](https://github.com/jaanhio)
 - Place: Singapore
