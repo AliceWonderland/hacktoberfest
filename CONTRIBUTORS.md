@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Parth Patel](https://github.com/SpiderParth)
+- Place: Gujarat, India
+- Bio: CSE Student
+- Github: [SpiderParth](https://github.com/SpiderParth)
