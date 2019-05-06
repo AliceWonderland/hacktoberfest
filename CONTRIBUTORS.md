@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chirag Jain](https://github.com/chiraag-jain)
+- Place: Udaipur,india
+- Bio: Coder
+- Github: [Chirag Jain](https://github.com/chiraag-jain)
