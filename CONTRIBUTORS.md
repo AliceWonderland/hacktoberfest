@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ROHAN SAHU](https://github.com/rohansahu41)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Rohan sahu](https://github.com/rohansahu41)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
