@@ -829,6 +829,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Earhquake enthusiast
 - GitHub:[fushandchups] (https://github.com/fushandchups)
 
+#### Name: [Gabe Aguilar](https://github.com/gmcaguilar)
+- Place: Guam
+- Bio: I am a college student who's semi-broke and semi-bougie
+- GitHub: [Gabe Aguilar](https://github.com/gmcaguilar)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
