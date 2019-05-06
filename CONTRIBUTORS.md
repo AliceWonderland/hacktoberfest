@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gilberto97](https://github.com/Gilberto97)
+- Place: Bialystok, Poland
+- Bio: Web developer, Arduino programmer
+- Github: [Gilberto97](https://github.com/Gilberto97)
