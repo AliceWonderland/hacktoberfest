@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucian Murphree](https://github.com/LucianMurphree)
+- Place: Omaha, Nebraska
+- Bio: Web app developer. Intern.
+- Github: [LucianMurphree](https://github.com/LucianMurphree)
