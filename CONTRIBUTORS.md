@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [krishana18kumar](https://github.com/krishana18kumar)
+- Place: Delhi , India
+- Bio: Computer Science Student
+- GitHub: [krishana18kumar](https://github.com/krishana18kumar)
