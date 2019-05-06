@@ -1,3 +1,8 @@
+#### Name: [Paras Aggarwal](https://github.com/paras-aggarwal)
+- Place: Ambala City, Haryana, India
+- Bio: Software developer, studying B.Tech IT
+- GitHub: [Paras Aggarwal](https://github.com/paras-aggarwal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
