@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
+- Place: Ho Chi Minh City, Vietnam
+- Bio: Student 
+- GitHub: [Lucifer99Black](https://github.com/Lucifer99Black)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
