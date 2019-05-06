@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kurt](https://github.com/quietgiant)
+- Place: Indiana, USA
+- Bio: Software Engineer and Graduate CS student at Purdue
+- Github: [Kurt](https://github.com/quietgiant)
