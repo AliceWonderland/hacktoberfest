@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Akshay Kumar](https://github.com/GHakshay/)
+- Place: Jaipur, Rajsthan, India
+- Bio: Web Devloper Python
+- GitHub: [GHakshay](https://github.com/GHakshay/)
