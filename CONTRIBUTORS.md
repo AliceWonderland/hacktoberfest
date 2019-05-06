@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Irvin Shen](https://github.com/texasfight)
+- Place: Austin, TX
+- Bio: Native Texan,  uses Python and Java
+- Github: [texasfight](https://github.com/texasfight)
