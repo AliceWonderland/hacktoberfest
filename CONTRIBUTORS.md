@@ -1,3 +1,8 @@
+#### Name: [Harshit Seksaria](https://github.com/HarshitSeksaria)
+- Place: I belong to India.
+- Bio: I'm an Enthusiastic Android Developer and a Geek.
+- GitHub: [Harshit Seksaria](https://github.com/HarshitSeksaria)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
