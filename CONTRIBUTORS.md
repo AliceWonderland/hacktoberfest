@@ -1233,6 +1233,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
+#### Name: [Julianna Diaz](https://github.com/Juldays)
+- Place: Redondo Beach, CA, USA
+- Bio: Software Developer; Enjoys coding, gaming and solving puzzles
+- GitHub: [Juldays](https://github.com/Juldays)
+
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
