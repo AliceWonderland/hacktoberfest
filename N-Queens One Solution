@@ -1,0 +1,90 @@
+#include <iostream>
+
+using namespace std;
+
+int n;
+int arr[100][100];
+
+int check_safety(int row, int col) {
+
+    /*    since we are filling col wise
+        we have to check :
+        1) same row
+        2) left-up diagonal
+        3) left-down diagonal
+    */
+
+    // 1) same row : start with col-1, and then col--
+    for(int j=col-1;j>-1;j--) {
+        if(arr[row][j]==1)
+            return 0;
+    }
+
+    // 2) left-up diagonal : start with row-1, col-1 && row--, col--
+    for(int i=row-1, j=col-1; i>-1 && j>-1; i--, j--) {
+        if(arr[i][j]==1)
+            return 0;
+    }
+
+    // 3) left-down diagonal : start with row+1, col-1 && row++, col--
+    for(int i=row+1, j=col-1; i<n && j>-1; i++, j--) {
+        if(arr[i][j]==1)
+            return 0;
+    }
+
+    // if none of them is failed we can return 1
+
+    return 1;
+}
+
+// we are placing queens col wise
+// we start with first col and so on
+int place_queen(int col) {
+    
+    if(col == n) {
+        return 1;
+    }
+    
+    // start with 0th row
+    int row=0;
+
+    // loop will end if row no will be equal to n
+    while(row < n) {
+        /*    this loop will break and return
+             if queen will be placed
+        */
+
+        if(check_safety(row, col)) {
+            arr[row][col] = 1;
+            if(place_queen(col+1)) {
+                return 1;
+            } else {
+                arr[row][col] = 0;
+            }
+        }
+        row++;
+    }
+    
+    // if this loop will be 
+    return 0;
+}
+
+int main(){
+
+    cin >> n;
+    
+    for(int i=0;i<n;i++) {
+        for(int j=0;j<n;j++) {
+            arr[i][j]=0;
+        }
+    }
+
+    place_queen(0);
+
+    for(int i=0;i<n;i++) {
+        for(int j=0;j<n;j++) {
+            cout << arr[i][j] << " ";
+        }
+        cout << endl;
+    }
+}
