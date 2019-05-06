@@ -1418,6 +1418,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I'm a student in Fatec Jundiaí and Web Developer.
 - GitHub: [Luís Antonio Prado Lança](https://github.com/luisslanca)
 
+### Name: [Luisa Piersanti] 
+- Place: Perugia, Italy
+- Bio: I love pets. Computer Science student.
+- GitHub: [PiersantiLuisa] (https://github.com/PiersantiLuisa)
+
 #### Name: [M K]
 - Place: Ko Tao, Thailand
 - Bio: I love code, coffee and the beach
