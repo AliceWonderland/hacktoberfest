@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kevin Z](https://github.com/K-zhao)
+- Place: Vancouver, Canada
+- Bio: High School Student
+- Github: [Kevin Z](https://github.com/K-zhao)
