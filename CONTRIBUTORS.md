@@ -1,3 +1,7 @@
+#### Name: [Kim](https://github.com/GewoonKim)
+ - Place: Rotterdam, Netherlands
+ - Bio: Student
+ - GitHub: [GewoonKim](https://github.com/GewoonKim)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
