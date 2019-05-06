@@ -2423,7 +2423,13 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Moyin Shabi](https://github.com/MoyinShabi)
+- Place: Agege, Lagos, Nigeria
+- Bio: I'm a university student studying Computer Engineering and I aspire a lot in Technology...
+- GitHub: [MoyinShabi](https://github.com/MoyinShabi)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
