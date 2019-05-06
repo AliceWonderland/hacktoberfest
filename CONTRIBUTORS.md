@@ -683,6 +683,12 @@ to explore life. Also, Python and Django Developer
 - Bio: CS student at Brooklyn College, and The Game of Thrones fan :3
 - Github: [Dzmitry Kasinets](https://github.com/dkasinets)
 
+#### Name: [Dmitry Gaynullin](https://github.com/GaynullinDima)
+- Place: Paris, France
+- Bio: CS student at Ecole Polytechnique
+- Github: [Dmitry Gaynullin](https://github.com/GaynullinDima)
+
+
 #### Name: [Eason Xuan ](https://github.com/timemahcine)
 - Place: City:Shao Xing, State:Zhe Jiang, Country:China
 - Bio: computer science student,front-end developer
