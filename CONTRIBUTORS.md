@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ray West](https://github.com/rbrandonwest)
+- Place: Fort Lauderdale, Florida
+- Bio: Developer, Dolphins Fan
+- GitHub: [rbrandonwest](https://github.com/rbrandonwest)
