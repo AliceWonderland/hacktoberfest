@@ -2166,6 +2166,11 @@ Noida
 - Bio: CSE Student at IIITD
 - GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
 
+#### Name: [Sushant]
+-Place: Jaipur,India
+-Bio: I.T.
+-GitHub: https://github.com/swat3902
+
 #### Name: [Sylwester](https://github.com/sla)
 - Place: Poland
 - Bio: JAVA
