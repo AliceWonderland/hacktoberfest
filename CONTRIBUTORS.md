@@ -1,3 +1,8 @@
+#### Name: [GeneralPlatypus](https://github.com/GeneralPlatypus)
+ - place: maryland, USA
+ - Bio: i work at fast food.
+ - Github: [GeneralPlatypus](https://github.com/GeneralPlatypus)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
