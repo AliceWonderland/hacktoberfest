@@ -894,6 +894,10 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai
 - Bio: Loves Data science
 
+#### Name: [Sufia Almas](https://github.com/sufiaalmas)
+-Place: Bangalore
+-Bio: Learning Web Development
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
