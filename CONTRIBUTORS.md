@@ -1247,6 +1247,11 @@ to explore life. Also, Python and Django Developer
  - Place: Philippines
  - Bio: PHP Developer
  - Github: [jusdeleon](https://github.com/jusdeleon)
+ 
+ #### Name: [Jose AT](https://github.com/jatorrents)
+ - Place: Spain
+ - Bio: IT Student
+ - Github: [jatorrents](https://github.com/jatorrents)
 
 #### Name: [K Foster](https://foster.im)
 - Place: West Sussex, UK
