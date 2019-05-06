@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [SPARSH KATIYAR](https://github.com/sparshkat)
+- Place: New Delhi ,India
+- Bio: Second Year IT student, love to sing and play guitar.
+- GitHub: [SparshKat](https://github.com/sparshkat)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
