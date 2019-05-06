@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fernando Sutter](https://github.com/fernandosutter)
+- Place: Santa Catarina, Brazil
+- Bio: Majoring in Information Systems, ADVPL Developer
+- GitHub: [fernandosutter](https://github.com/fernandosutter)
