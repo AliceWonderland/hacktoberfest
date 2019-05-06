@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [inventrohyder](https://github.com/inventrohyder)
+- Place: San Francisco, California, United States of America
+- Bio: Student
+- Git [inventrohyder](https://github.com/inventrohyder)
