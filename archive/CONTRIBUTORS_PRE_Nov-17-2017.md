@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Vinicius Silva](https://github.com/viniciusfdasilva)
+- Place: Brazil
+- Bio: Computer Science Student at the PUC - MINAS
+- GitHub: [agnieszka-miszkurka](https://github.com/viniciusfdasilva)
+
