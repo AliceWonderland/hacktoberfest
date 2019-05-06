@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ankita Kumari
+ - Place: Jharkhand, India
+ - Bio: Android Developer
+ - GitHub: [Ankitak28](https://github.com/ankitak28)
