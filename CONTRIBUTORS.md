@@ -1055,6 +1055,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full stack .NET developer (and .NET Core blogger)
 - GitHub: [GaProgMan](https://github.com/GaProgMan)
 
+#### Name: [Janvi Chhabra]
+ - Place: Bangalore, India
+ - Bio: Student. IIIT Bangalore.
+ - GitHub: [janvi7109](https://github.com/janvi7109)
+
 #### Name: [Jasdy Syarman](https://github.com/akutaktau)
 - Place: Malaysia
 - Bio: PHP Programmer
