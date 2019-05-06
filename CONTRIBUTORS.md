@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Olunloye Akinkunmi](https://github.com/Roqak)
+- Place: Osun State, Nigeria
+- Bio: Web developer PHP and Nodejs, Java
+- Github: [Roqak](https://github.com/Roqak)
