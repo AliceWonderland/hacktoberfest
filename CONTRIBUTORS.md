@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Stefany Gaspar](https://github.com/gasparStefany)
+- Place: Belo Horizonte, MG, Brasil
+- Bio: Computer Science student
+- GitHub: [Stefany Gaspar](https://github.com/gasparStefany)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
