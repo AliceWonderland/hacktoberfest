@@ -58,6 +58,12 @@
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+
+#### Name: [Mohneesh](https://github.com/mohneeshgarg)
+ - Place: Barnala,Punjab
+ - Bio: Software developer, studying B.Tech CSE
+ - GitHub: [Mohndeesh](https://github.com/mohneeshgarg)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
 - Bio: Software developer, studying B.Tech CSE
