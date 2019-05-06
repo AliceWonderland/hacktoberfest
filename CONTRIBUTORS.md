@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lukas Annerer-Walcher](https://github.com/lannwal)
+- Place: Austria
+- Bio: Probability theory enthusiast
+- GitHub: [lannwal](https://github.com/lannwal)
