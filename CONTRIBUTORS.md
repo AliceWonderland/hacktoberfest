@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dmitry Tarasevich](https://github.com/tarasevich-dmitry)
+- Place: Kiev, Ukraine
+- Bio: Developer
+- GitHub: [tarasevich-dmitry](https://github.com/tarasevich-dmitry)
