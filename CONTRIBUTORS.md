@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dima Mukhin](https://github.com/DimaMukhin)
+- Place: Vancouver, BC, Canada
+- Bio: Software Engineer and Open Source enthusiast
+- GitHub: [Dima Mukhin](https://github.com/DimaMukhin)
