@@ -1353,6 +1353,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Associate Degree analysis and systems development
 - GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
 
+#### Name: [Leonardo Cavazzani](https://github.com/lcavazzani)
+- Place: Winnipeg, CA
+- Bio: Software developer that deliver you food!
+- GitHub: [Leonardo Cavazzani](https://github.com/lcavazzani)
+
 #### Name: [Leonardo Wajnsztok](https://github.com/leotok)
 - Place: Rio de Janeiro, Brazil
 - Bio: Computer Engineering student at PUC-Rio
