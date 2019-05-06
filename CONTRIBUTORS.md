@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Naman Jain](https://github.com/njain794)
+- Place: New Delhi , Delhi , INDIA
+- BIO: STUDENT
+- Github: [njain794](https://github.com/njain794)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
