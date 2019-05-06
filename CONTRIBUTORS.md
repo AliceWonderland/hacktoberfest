@@ -375,10 +375,10 @@ to explore life. Also, Python and Django Developer
  - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
  - GitHub: [Bennie Mosher](https://github.com/benniemosher)
 
-#### Name: [Bharath Kumar](https://github.com/iambk)
+#### Name: [Rakesh Pavan](https://github.com/Rakeshpavan333)
  - Place: India
- - Bio: Computer Science Undergraduate
- - GitHub: [iambk](https://github.com/iambk)
+ - Bio: Information Tech Undergraduate Student
+ - GitHub: [iambk](https://github.com/Rakeshpavan333)
 
 #### Name: [BigWilie](https://github.com/BigWillie)
 - Place: United Kingdom
