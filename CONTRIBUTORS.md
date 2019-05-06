@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Shivvrat Arya](https://github.com/Shivvrat)
+- Place: Indore, India
+- Bio: Python Developer 
+- Github: [Shivvrat Arya](https://github.com/Shivvrat)
