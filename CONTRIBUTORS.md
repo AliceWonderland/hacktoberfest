@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tharindu Dhananjaya](https://github.com/TDhananjaya)
+- Place: Ambalangoda, Sri Lanka.
+- Bio: Web developer PHP 
+- Github: [TDhananjaya](https://github.com/TDhananjaya)
