@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jenny Huang](https://github.com/huangjenny)
+- Place: Los Angeles, CA, USA
+- Bio: I like tacos.
+- Github: [Jenny Huang](https://github.com/huangjenny)
