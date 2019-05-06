@@ -1,3 +1,8 @@
+#### Name: Haris Riaz
+ - Place: Islamabad, Pakistan
+ - Bio: I like making computers dance. CS student at NUST, moving to SF <3 soon.
+ - Github: [harisriaz17](https://github.com/harisriaz17)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
