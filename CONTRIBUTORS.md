@@ -944,6 +944,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Java Software Engineer. Illinois Institute of Technology graduate.
 - Github: [Henri Idrovo](https://github.com/henriguy1210)
 
+#### Name: [Henry Tanjaya](https://github.com/henrytanjaya)
+- Place: Medan, North Sumatra, Indonesia
+- Bio: Software Engineer. Universitas Pelita Harapan Medan
+- Github: [Henry Tanjaya](https://github.com/henrytanjaya)
+
+
 #### Name: [Henrique Duarte](https://github.com/mustorze)
 - Place: São Paulo, SP, BR
 - Bio: Developer, I really like!
