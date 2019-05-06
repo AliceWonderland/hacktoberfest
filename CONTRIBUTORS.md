@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -1084,6 +1084,11 @@ to explore life. Also, Python and Django Developer
 - Place: Kathmandu, Nepal
 - Bio: Student studying BSc(CSIT).Currently working as a software engineer intern.
 - GitHub: [Jeevan Chapagain](https://github.com/jeevanc)
+
+#### Name: [Jeffrey Golditch](https://github.com/jgolditch)
+- Place: Rhode Island, USA
+- Bio: Software Engineer
+- GitHub: [jgolditch](https://github.com/jgolditch)
 
 #### Name: [Jeffrey Ng](https://github.com/NgJeffrey/)
 - Place: California, United States
