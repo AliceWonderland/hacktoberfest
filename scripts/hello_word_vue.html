@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World Vue</title>
+    <script src="https://unpkg.com/vue@2.5.17/dist/vue.min.js"></script>
+</head>
+<body>
+    <div id="app">{{ helloMessage }}</div>
+    <script type="text/javascript">
+        new Vue({
+            el: "#app",
+            data: {
+                helloMessage: "Hello World!"
+            }
+        });
+    </script>
+</body>
+</html>
