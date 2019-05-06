@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [scull1916](https://github.com/scull1916)
+- Place: Boston, MA USA
+- Bio: Emergent Web Developer, recent Coding Bootcamp grad
+- Github: [scull1916](https://github.com/scull1916)
