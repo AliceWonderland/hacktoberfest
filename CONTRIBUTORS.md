@@ -375,6 +375,11 @@ to explore life. Also, Python and Django Developer
  - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
  - GitHub: [Bennie Mosher](https://github.com/benniemosher)
 
+#### Name: [Ben Vargas](https://github.com/ben-var)
+  - Place: Atlanta, GA
+  - Bio: Computer Science Master's Student
+  - GitHub [ben-var](https://github.com/ben-var)
+
 #### Name: [Bharath Kumar](https://github.com/iambk)
  - Place: India
  - Bio: Computer Science Undergraduate
