@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kavya](https://github.com/kavya98527)
+- Place: Pinjore, India
+- Bio: dev
+- Github: [Kavya](https://github.com/kavya98527)
