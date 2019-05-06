@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucía Sterling](https://github.com/Frauchi)
+ - Place: Granada, Spain
+ - Bio: Enviormental scientist learning how to code with Python.
+ - GitHub: [Frauchi](https://github.com/Frauchi)
