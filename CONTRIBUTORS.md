@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [pittyi3](https://github.com/pittyi2nd)
+- Place: Japan
+- Bio: Student
+- GitHub: [pittyi3](https://github.com/pittyi2nd)
