@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name :Keshav Goyal
+ - Place: Surat, India
+ - Bio: second year computer science student learning Java script
+ - GitHub: [keshavgoyal2807](https://github.com/keshavgoyal2807)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
