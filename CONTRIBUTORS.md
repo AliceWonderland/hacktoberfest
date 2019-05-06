@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adrian Gigliotti](https://github.com/adriangigliotti)
+- Place: Melbourne, Australia
+- Bio: Cyber Security Analyst
+- GitHub: [Adrian Gigliotti](https://github.com/adriangigliotti)
