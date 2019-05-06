@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [OLAKUNLE DOSUNMU](https://github.com/LakunleD)
+- Place: Nigeria
+- Bio: Cs Grad. JS dev
+- GitHub: [LakunleD](https://github.com/LakunleD)
