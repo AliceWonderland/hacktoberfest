@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Allen
+ - Place: Kerala, India
+ - Bio: CS Sophomore 
+ - GitHub: [Allen](https://github.com/allenkvarghese)
