@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tom Dell](https://github.com/tom-dell)
+- Place: Melbourne, Australia
+- Bio: WPython
+- Github: [tom-dell](https://github.com/tom-dell)
+
