@@ -621,6 +621,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
+#### Name: [Daniel Zimmer](https://github.com/daniezimmer)
+- Place: Washington, United States
+- Bio: Computer Science & Network Security
+- GitHub: [daniezimmer](https://github.com/daniezimmer)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
