@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [thilinamj](https://github.com/thilinamj)
+- Place: Warakapola, Sri Lanka
+- Bio: Web developer PHP and laravel
+- Github: [thilinamj](https://github.com/thilinamj)
