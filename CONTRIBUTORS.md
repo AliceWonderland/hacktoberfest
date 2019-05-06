@@ -1015,6 +1015,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [James Bowler](https://github/jimuk07)
+- Place: Redditch, Worcestershire, United Kingdom
+- Bio: OU Computing student and JS fan.
+- GitHub: [Jimuk07](https://github/jimuk07)
+
 #### Name: [JOE SCHO](https://github.com/JoeScho)
 - Place: London, UK
 - Bio: I love guitar!
