@@ -58,10 +58,10 @@
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
-#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
-- Place: New Delhi, India
-- Bio: Software developer, studying B.Tech CSE
-- GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+#### Name: [Shiva Sankeerth Reddy](https://github.com/ShivaSankeerth)
+- Place: Hyderabad, India
+- Bio: Software developer, studying B.E. IT
+- GitHub: [Shiva Sankeerth Reddy](https://github.com/ShivaSankeerth)
 
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
