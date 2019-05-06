@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andy Davis](https://github.com/bassicallyandy1021)
+- Place: Los Angeles, CA
+- Bio: Student
+- Github: [Andy Davis](https://github.com/bassicallyandy1021)
