@@ -1178,6 +1178,11 @@ to explore life. Also, Python and Django Developer
 -Bio: Web Developer
 -GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
 
+#### Name: [JonathanChavez](https://github.com/JonathanChavezTamales)
+- Place: Jalisco, México
+- Bio: CS Student
+- GitHub: [JonathanChavezTamales](https://github.com/JonathanChavezTamales)
+
 #### Name: [Jonas Fabisiak](https://github.com/RenCloud)
 - Place: Hanover, Germany
 - Bio: IT Student
