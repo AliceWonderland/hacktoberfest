@@ -763,6 +763,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Entrepreneur, AI/Robotics Engineer
 - GitHub: [Eric](https://github.com/valleyceo)
 
+#### Name: [Eriko Morais](https://github.com/erikopa)
+- Place: São Paulo, Brazil
+- Bio: Software Engineer - Python/Java/C#
+- Github: [Eriko Morais](https://github.com/erikopa)
+
 #### Name: [Ermolaev Gleb](https://github.com/ermolaeff/)
 - Place: Moscow, Russia
 - Bio: Student-developer, fond of JAva, Web etc.
