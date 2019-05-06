@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -32,6 +32,11 @@
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
+
+#### Name: [KAVITA GOODWANI](https://github.com/kavita234)
+- Place: India
+- Bio: Engineering Student
+- GitHub: [KAVITA GOODWANI](https://github.com/kavita234)
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
