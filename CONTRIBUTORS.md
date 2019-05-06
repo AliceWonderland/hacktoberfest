@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Eidson Sá] (https://github.com/eidsonsa)
+- Place: Recife, Brazil
+- Bio: Computer Science Student and C++ Developer
+- Github: [Eidson Sá](https://github.com/eidsonsa)
