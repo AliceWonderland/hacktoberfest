@@ -1,3 +1,8 @@
+#### Name: Gabriel Leach
+ - Place: Nottingham, England
+ - Bio: Comp Sci Student. University of Nottingham.
+ - GitHub: [GabeLeach](https://github.com/GabeLeach)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
