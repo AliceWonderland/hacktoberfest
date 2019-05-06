@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Ramya Easwaran](https://github.com/Ramyaeaswaran)
+- Place: India
+- Bio: Love to code
+- GitHub: [Ramya Easwaran](https://github.com/Ramyaeaswaran)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
