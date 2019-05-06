@@ -1,3 +1,8 @@
+#### Name: Nivedita Gautam
+ - Place: Texas, United States
+ - Bio: First year Computer Science graduate student at The University od Texas at Arlington.
+ - GitHub: [Nivedita123](https://github.com/Nivedita123)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
