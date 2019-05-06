@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Michelle Vick](https://github.com/vivega-mv)
+- Place: Utah, USA
+- Bio: CS senior at UVU
+- Github: [Vivega-MV](https://github.com/vivega-mv)
