@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Dileep Senevirathne](https://github.com/IshankaDSenevirathne)
+- Place: Kandy,Sri Lanka
+- Bio: Physics nerd
+- GitHub: [Dileep Senevirathne](https://github.com/IshankaDSenevirathne)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
