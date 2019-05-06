@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanjana Kukreja](https://github.com/KukrejaSanjana)
+- Place: Indore, India
+- Bio: Web developer and a Tech Enthusiast  
+- Github: [Sanjanakukreja ](https://github.com/KukrejaSanjana)
