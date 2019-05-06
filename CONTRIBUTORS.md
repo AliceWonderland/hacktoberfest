@@ -1115,6 +1115,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I like spending time in chlorinated water and spitting out codes.
 - GitHub: [Jianhao Tan](https://github.com/jaanhio)
 
+#### Name: [Jiaqi Wu](http://jiaqiwu.com)
+- Place: Champaign, Illinois 
+- Bio: Graduate student in computer science at UIUC 
+- GitHub: [programmingprincess](https://github.com/programmingprincess)
+
 #### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 - Place: Mumbai, India
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
