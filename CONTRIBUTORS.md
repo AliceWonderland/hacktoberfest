@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Erick Andreas](https://github.com/erickAndreas)
+- Place: Indonesia
+- Bio: Web developer
+- Github: [Erick Andreas](https://github.com/erickAndreas)
