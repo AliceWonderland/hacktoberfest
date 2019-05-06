@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanay Nayak](https://github.com/tanaynayak)
+- Place: Navi Mumbai, India
+- Bio: CS undergrad at Manipal Institute of Technology
+- Github: [Tanay Nayak](https://github.com/tanaynayak)
