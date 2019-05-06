@@ -2269,6 +2269,11 @@ Noida
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
+#### Name: [Joseph Cacioppo](https://github.com/jmcacioppo)
+- Place: Virginia
+- Bio: Frontend Developer, graduate from the University of Florida
+- GitHub: [jmcacioppo](https://github.com/jmcacioppo)
+
 #### Name: [V3NG](https://github.com/ianklemm)
 - Place: Germany
 - Bio: Webdeveloper, Sysadmin
