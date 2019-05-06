@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: ddh1006
+- Place: Tennessee
+- Bio: Just wanting to learn some code!
+- Github: [ddh1006](https://github.com/ddh1006)
