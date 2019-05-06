@@ -1,3 +1,8 @@
+#### Name: [Guillermo Ortiz](https://github.com/guilleortiz)
+- Place: Cordoba, Cordoba, Argentina
+- Bio: Software Engineer student & mobile developer.
+- GitHub: [guilleortiz](https://github.com/guilleortiz)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
