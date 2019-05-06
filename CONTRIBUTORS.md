@@ -57,6 +57,11 @@
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+ 
+ #### Name: [Abhishek Duggal](https://github.com/likeabhi)
+ - Place: Patiala, India
+ - Bio: Software developer, studying B.Tech CSE
+ - GitHub: [Abhishek Duggal](https://github.com/likeabhi)
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
