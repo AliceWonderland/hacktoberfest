@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Carlos Teixeira](https://github.com/carlosteixeiraa)
+- Place: Lisboa, Portugal
+- Bio: Frontend Developer
+- Github: [Carlos Teixeira](https://github.com/carlosteixeiraa)
