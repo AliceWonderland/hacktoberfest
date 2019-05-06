@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Marysol Losada](https://github.com/mlosa001)
+- Place: NYC, USA
+- Bio: Front end Web Developer 
+- Github: [mlosa001](https://github.com/mlosa001)
