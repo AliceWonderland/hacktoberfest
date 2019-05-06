@@ -1,3 +1,8 @@
+#### Name: [AloysiusParedes](https://github.com/AloysiusParedes)
+- Place: Illinois
+- Bio: Software Developer
+- GitHub: [AloysiusParedes](https://github.com/AloysiusParedes)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
