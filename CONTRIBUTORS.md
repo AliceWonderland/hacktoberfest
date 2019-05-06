@@ -2166,6 +2166,11 @@ Noida
 - Bio: CSE Student at IIITD
 - GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
 
+#### Name: [Swastik Haldar](https://github.com/basher666)
+- Place: Kolkata, West Bengal, India
+- Bio: CSE Student at IIT Kharagpur
+- Github: [basher666](https://github.com/basher666)
+
 #### Name: [Sylwester](https://github.com/sla)
 - Place: Poland
 - Bio: JAVA
