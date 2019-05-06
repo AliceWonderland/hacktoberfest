@@ -1,3 +1,8 @@
+#### Name: Siddharth
+ - Place: New Delhi, India
+ - Bio: Undergraduate Student, IIT Roorkee India
+ - Github: [sidjee](https://github.com/sidjee)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
