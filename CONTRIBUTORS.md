@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Eduardo Raygoza](https://github.com/EduardoRaygoza)
+- Place: Léon, Guanajuato, México
+- Bio: Computer systems engineer, gamer and beer lover
+- GitHub: [EduardoRaygoza](https://github.com/EduardoRaygoza)
