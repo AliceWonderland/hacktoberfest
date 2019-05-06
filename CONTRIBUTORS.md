@@ -980,6 +980,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Igor Rzegocki](https://github.com/ajgon)
 - Website: [Online Portfolio](https://rzegocki.pl/)
 
+#### Name: [Ilya Osotov](https://github.com/IlyaOsotov)
+- Place: Penza, Russia
+- Bio: I am Ruby developer
+- GitHub: [Ilya Osotov](https://github.com/IlyaOsotov)
+
 #### Name: [Indra Kusuma](https://github.com/idindrakusuma)
 - Place: Semarang, Indonesia
 - Bio: ♥ opensource ♥
