@@ -1,0 +1,56 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main( ){
+	int t;
+	cin>>t;
+	while(t--){
+		string s;
+		int i,j,k,l,f=0;
+		char c;
+		stack<char> st;
+		cin>>s;
+		for(i=0;i<s.length();i++){
+			if(s[i]=='(' or s[i]=='[' or s[i]=='{'){
+				st.push(s[i]);
+			}
+			else if(s[i]==')'){
+				if(st.empty())
+					f=1;
+				else
+					c=st.top();
+				st.pop();
+				if(c!='(')
+					f=1;
+			}
+			else if(s[i]=='}'){
+				if(st.empty())
+					f=1;
+				else
+					c=st.top();
+				st.pop();
+				if(c!='{')
+					f=1;
+			}
+			else if(s[i]==']'){
+				if(st.empty())
+					f=1;
+				else
+					c=st.top();
+				st.pop();
+				if(c!='[')
+					f=1;
+			}
+		}
+		if(!st.empty())
+			f=1;
+		if(f==0)
+			cout<<"YES"<<endl;
+		else
+			cout<<"NO"<<endl;
+	}
+	return 0;
+}
+
+
