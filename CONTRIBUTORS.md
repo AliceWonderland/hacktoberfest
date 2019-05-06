@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Saurabh Baj
+ - Place: Mumbai, India
+ - Bio: Bring IT on!
+ - GitHub: [Saurabh Baj](https://github.com/thesaurabhbaj)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
