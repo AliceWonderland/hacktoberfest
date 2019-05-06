@@ -2323,6 +2323,11 @@ Noida
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
+#### Name: [Victor Menezes](https://github.com/victormenezez)
+- Place: Natal, Brasil
+- Bio: Software developer
+- GitHub: [victormenzez](https://github.com/victormenezez)
+
 #### Name: [Vo Tan Tho](https://github.com/kensupermen)
 - Place: Ho Chi Minh City, VietNam
 - Bio: I'm Software Engineer at Dinosys
