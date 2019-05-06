@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: MusashiKame
+ - Place: Bayern, Germany
+ - Bio: Software engineer, mostly Java Programmer
+ - GitHub: [MusashiKame](https://github.com/musashikame)
