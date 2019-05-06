@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rahul Singh(LEO)](https://github.com/Leo5661)
+- Place: Delhi, India
+- Bio: Student and Android Developer
+- Github: [Rahul Singh(LEO)](https://github.com/Leo5661) 
