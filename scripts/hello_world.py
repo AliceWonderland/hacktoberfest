@@ -1,6 +1,6 @@
-// LANGUAGE: python
-// ENV: hello.py
-// AUTHOR: Sanny Candidier
-// GITHUB: https://github.com/sannycand
+// LANGUAGE: python3
+// ENV: hello_world.py
+// AUTHOR: Julian Ong
+// GITHUB: https://github.com/hajko
 
-print("Hello, World!")
+print("hello world!")
