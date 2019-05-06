@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [TheRaptor001](https://github.com/TheRaptor001)
+- Place: India
+- Bio: Student 
+- GitHub: [agnieszka-miszkurka](https://github.com/TheRaptor001)
