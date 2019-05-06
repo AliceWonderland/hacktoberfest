@@ -1,3 +1,8 @@
+#### Name: apdy10
+ - Place: INDIA
+ - Bio:student
+ - GitHub:[apdy10](https://github.com/apdy10)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
