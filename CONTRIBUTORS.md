@@ -270,6 +270,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A high functioning geek, et cetera.
 - GitHub: [ankitrai96](https://github.com/ankitrai96)
 
+#### Name: [Muratcan Şentürk](https://github.com/MuratcanSenturk)
+- Place: Ankara, Turkey
+- Bio: Computer Engineering Student
+- GitHub: [MuratcanSenturk](https://github.com/MuratcanSenturk)
+
 #### Name: [Ankur Sharma](https://github.com/ankurs287)
 - Place: New Delhi, India
 - Bio: CSAM, IIITD
