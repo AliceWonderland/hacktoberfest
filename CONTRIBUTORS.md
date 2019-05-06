@@ -1,3 +1,8 @@
+#### Name: [Rageeni Jadam](https://github.com/Rageeni)
+- Place: Jaipur, Rajasthan, India
+- Bio: iOS Application Developer
+- GitHub: [Rageeni Jadam](https://github.com/Rageeni)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
