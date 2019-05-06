@@ -1,7 +1,12 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: Prashant Shakya
+ - Place: Allahabad, India
+ - Bio: 2nd year grad CS Student in MNNIT Allahabad
+ - GitHub: [Prashant Shakya](https://github.com/shakyaprashant)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
