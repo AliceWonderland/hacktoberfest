@@ -1982,6 +1982,11 @@ Noida
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
 - Starup: [EndorseU](http://www.endorseu.com)
 
+#### Name: Rutvi Padhy
+ - Place: Bangalore, India
+ - Bio: IIIT-B ECE student (first year)
+ - GitHub: [Rutvi1998](https://github.com/Rutvi1998)
+
 #### Name: [Ryan Sperzel](https://github.com/ryansperzel)
 - Place: NYC, New York, USA
 - Bio: Recent college grad attending Flatiron School coding bootcamp
