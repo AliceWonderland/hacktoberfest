@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshita Binani](https://github.com/binaniharshita)
+- Place: Kolkata,India
+- Bio: C++, C, Java
+- Github: [Harshita Binani](https://github.com/binaniharshita)
