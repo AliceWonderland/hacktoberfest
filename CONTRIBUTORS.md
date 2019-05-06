@@ -1859,6 +1859,14 @@ Noida
 - Bio: I tell tales!
 - GitHub: [Pratyum](https://github.com/Pratyum)
 
+
+
+#### Name: [sundusseham](https://github.com/sundus555)
+- Place: kuwait, kuwait
+- Bio: web mobile iot gis scala developer and excuse me??
+- GitHub: [sundus555](https://github.com/sundus555)
+
+
 #### Name: [Pronomita Dey] (https://github.com/PronomitaDey)
 - Place : India
 - Bio : Front End Developer. Open Source Enthusiast. Learner.
