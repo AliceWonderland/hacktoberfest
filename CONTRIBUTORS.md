@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Rohit Pandey](https://github.com/Rohitpandey357)
+ - Place: Delhi,India
+ - Bio: Second year cs student
+ - Github: [rohitpandey357](https://github.com/Rohitpandey357)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
