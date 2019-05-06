@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daniela Hdez](https://github.com/naekkeoya)
+- Place: México
+- Bio: Little student at UDG, let me code in c#~~ <3 
+- Github: [naekkeoya](https://github.com/naekkeoya)
