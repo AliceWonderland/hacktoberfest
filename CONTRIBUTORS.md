@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Aleksandra
+ - Place: Cincinnati, USA
+ - Bio: I just started to learn programming, and I cannot wait to help open source community.
+ - GitHub: [aleksandrateresa](https://github.com/aleksandrateresa)
