@@ -1864,6 +1864,11 @@ Noida
 - Bio : Front End Developer. Open Source Enthusiast. Learner.
 - GitHub : [Pronomita Dey] (https://github.com/PronomitaDey)
 
+#### Name: [Pulkit](https://github.com/pulkitrock1921)
+- Place: Delhi India
+- Bio: Web Developer
+- GitHub: [Pulkit](https://github.com/pulkitrock1921)
+
 #### Name: [PureHyd](https://github.com/PureHyd)
 - Place: Evanston, IL
 - Bio: EECS Student \@ NorthwesternU
