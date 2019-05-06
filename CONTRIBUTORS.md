@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jeremy Fox](https://github.com/jeremyfox36)
+- Place: Edinburgh, Scotland
+- Bio: Data analyst (R), web developer (Javascript)
+- Github: [Jem Fox](https://github.com/jeremyfox36)
