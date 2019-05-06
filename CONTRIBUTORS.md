@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Deep Datta](https://github.com/dattausc)
+- Place: San Francisco, California
+- Bio: Open Source Program Manager
+- Github: [Dattausc](https://github.com/DattaUSC)
