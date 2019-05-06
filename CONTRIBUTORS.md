@@ -1992,6 +1992,11 @@ Noida
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
 - GitHub: [tilda](https://github.com/tilda)
 
+#### Name: [S Liang](https://github.com/sml2008)
+- Place: NYC, New York, US
+- Bio: Software Engineer / Student
+- GitHub: [sml2008](https://github.com/sml2008)
+
 #### Name: [SAIDEEP DICHOLKAR](https://github.com/saideepd)
 - Place: Mumbai, India
 - Bio: Computer Science Engineering Student & Tech Enthusiast
