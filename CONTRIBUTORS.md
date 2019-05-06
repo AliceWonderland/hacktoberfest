@@ -53,6 +53,13 @@
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
+
+#### Name: [Abhay Rawat](https://github.com/abhaysrawat)
+- Place: Chandigarh, India
+- Bio: CEO of Rawiflix and Raviato
+- GitHub: [Abhay Gawade](https://github.com/abhaysrawat)
+
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
