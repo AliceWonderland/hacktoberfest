@@ -78,6 +78,11 @@
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
+#### Name: [Mohit Bansal](https://github.com/miphilomath)
+- Place: Delhi, India
+- Bio: Student
+- Github: [Mohit Bansal](https://github.com/miphilomath)
+
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
