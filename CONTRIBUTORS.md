@@ -78,6 +78,11 @@
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
+#### Name: [Mayank](http://gozmit.xyz)
+- Place: Noida, U.P., India
+- Bio: Let's discuss this over a game of Chess.
+- GitHub: [im-gozmit](https://github.com/im-gozmit)
+
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
