@@ -1,3 +1,8 @@
+#### Name: JamesUfondu
+ - Place: Aba, Abia State Nigeria
+ - Bio: A high shool graduate from Mayfield Schools Aba. An student at IGHUB Aba, learning web-development, also an aspiring Aerospace Engineer.
+ - https://github.com/JamesUfondu/james-ufondu-hacktoberfest
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
