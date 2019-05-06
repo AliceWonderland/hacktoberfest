@@ -1,3 +1,8 @@
+#### Name: [Sevenjidan](https://github.com/sevenjidan)
+- Place: Bogor, Indonesia
+- Bio: Programming Student and Web Student?
+- GitHub: [GitHub account name](GitHub link)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
