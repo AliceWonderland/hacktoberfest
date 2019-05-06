@@ -1,3 +1,8 @@
+#### Name: [Calvin Cox](https://github.com/calvincoxiii)
+ - Place: Atlanta, GA
+ - Bio: Bassist for satyr @satyratl
+ - GitHub: [Calvin Cox](https://github.com/calvincoxiii)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
