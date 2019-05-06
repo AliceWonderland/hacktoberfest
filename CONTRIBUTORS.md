@@ -1,3 +1,8 @@
+#### Name: Nihar
+ - Place: India
+ - Bio: Ethical Hacker.
+ - GitHub: [Nihar](https://github.com/nihaarr)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
