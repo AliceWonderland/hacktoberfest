@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dan DuLeone](https://redqueen.us)
+- Place: New Jersey, United States
+- Bio: Software Engineer, Cloud Architect
+- Github: [Dan DuLeone](https://github.com/dduleone)
