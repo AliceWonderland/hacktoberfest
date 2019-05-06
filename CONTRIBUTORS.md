@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [haylims80](https://github.com/haylims80)
+- Place: Tampa, Florida
+- Bio: Electrical Engineer
+- Github: [Haylims80](https://github.com/haylims80)
