@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John Roux](https://github.com/Vulcanit3)
+- Place: Cape Town, South Africa
+- Bio: Senior Software Engineer & Architect, (PHP/Larvel) DevOps Advocate 
+- Github: [John Roux](https://github.com/Vulcanit3)
+
