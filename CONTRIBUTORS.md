@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -134,6 +134,11 @@ to explore life. Also, Python and Django Developer
 - Place: Malaysia
 - Bio: Web Developer
 - GitHub: [akmadhwa](https://github.com/akmadhwa)
+
+#### Name: [Pasan Jayawickrama](https://github.com/pasanjayawickrama)
+- Place: Sri Lanka
+- Bio: Undergradute in Computer Science
+- GitHub: [pasanjayawickrama](https://github.com/pasanjayawickrama)
 
 #### Name: [Akram Rameez](https://github.com/akram-rameez)
 - Place: Bengaluru, India
