@@ -1183,6 +1183,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student
 - GitHub: [Jonas Fabisiak](https://github.com/RenCloud)
 
+#### Name: [Jordan Judt](https://github.com/JavaJudt)
+- Place: Norfolk, Nebraska, USA
+- Bio: Software Engineer @ [Daycos](https://www.daycos.com); University of South Dakota grad
+- GitHub: [JavaJudt](https://github.com/JavaJudt)
+
 #### Name: [Jose David](https://github.com/jose4125)
 - Place: Bogotá, Colombia
 - Bio: Web Developer
