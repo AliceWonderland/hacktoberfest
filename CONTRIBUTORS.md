@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Skand V Gupta](https://github.com/skandagpt)
+- Place: Rajasthan, India
+- Bio: 1st Year student at NIT Hamirpur , Himachal Pradesh , India
+- Github: [Skand V Gupta] (https://github.com/skandagpt)
