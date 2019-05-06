@@ -1,3 +1,8 @@
+#### Name: [Sam Holst](https://github.com/samholst)
+ - Place: PHX, AZ
+ - Bio: Software Engineer
+ - GitHub: [Sam Holst](https://github.com/samholst)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
