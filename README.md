@@ -70,7 +70,8 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 
 ### Location
 
-Your City/Country
+Your City/Country/Zip Number
+
 
 ### Academics
 
