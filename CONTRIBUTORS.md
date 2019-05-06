@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [nerdijoe] (https://github.com/nerdijoe)
+- Place: San Jose, US
+- Bio: Web developer
+- GitHub: [nerdijoe] (https://github.com/nerdijoe)
