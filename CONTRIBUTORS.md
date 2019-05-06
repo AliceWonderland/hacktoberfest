@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dilan David](https://github.com/misterdabu)
+- Place: Columbus, Ohio, USA
+- Bio: Business Analyst
+- Github: [Dilan David ](https://github.com/misterdabu)
