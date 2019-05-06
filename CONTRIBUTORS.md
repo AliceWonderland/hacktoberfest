@@ -2102,6 +2102,11 @@ Noida
 - Bio: DevOps, Hiking, Photography
 - GitHub: [vol-pi](https://github.com/vol-pi)
 
+### Name: [Siuanny Barbosa](https://github.com/siuannybsr)
+- Place: Campina Grande, PB, Brazil
+- Bio: CS student at @UFCG.
+- GitHub: [siuannybsr](https://github.com/siuannybsr)
+
 #### Name: [Sjors](https://github.com/sjorso)
 - Place: The Netherlands
 - Bio: Need 1 more PR
