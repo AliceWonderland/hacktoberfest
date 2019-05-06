@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [taku] (https://github.com/taku0592)
+- Place: Xiamen
+- Bio: Student of NCKU
+- GitHub: [taku0592] (https://github.com/taku0592)
+
