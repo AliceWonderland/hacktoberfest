@@ -1629,6 +1629,11 @@ Noida
 - Bio: Programmer
 - GitHub: [haugenmitch](https://github.com/haugenmitch)
 
+#### Name: [Mithila Shehan Wickramarathne](https://github.com/mithwick93)
+- Place: Panadura, Sri Lanka
+- Bio: Software Engineer
+- GitHub: [mithwick93](https://github.com/mithwick93)
+
 #### Name: [Moisés Ñañez](https://github.com/moisesnandres)
 - Place: Ica, Perú
 - Bio: Software developer and musician
