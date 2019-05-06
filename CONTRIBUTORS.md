@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nuno Laranjo](https://github.com/omnee)
+- Place: Portugal
+- Bio: Computer Science Student
+- GitHub: [omnee](https://github.com/omnee)
