@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Andrew Pedersn](https://github.com/andimalfresh)
+- Place: Denver , Co 
+- Bio: Student @ Galvanize Platte #g102
+- GitHub: [andimalfresh](https://github.com/andimalfresh)
