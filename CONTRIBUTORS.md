@@ -621,6 +621,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
+#### Name: [Darkitty](https://github.com/Darkitty)
+- Place: Bretagne, France
+- Bio: open source lover and adept of pinguin god ;)
+- Github: [Darkitty](https://github.com/Darkitty)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
