@@ -1393,6 +1393,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Network Professional
 - Github: [Luciano Santana dos Santos](https://github.com/lucianosds)
 
+#### Name: [Lucy S](https://github.com/girlingoggles)
+- Place: Wellington, NZ
+- Bio: Multi-Purpose Humanoid
+- [Lucy S](https://github.com/girlingoggles)
+
 #### Name: [Luis Alducin](https://linkedin.com/luisalduucin)
 - Place: Mexico City
 - Bio: Software Engineer
