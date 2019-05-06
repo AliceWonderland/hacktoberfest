@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Debal Chakrabarty](https://github.com/DebalChakrabarty)
+- Place: Bangalore,India
+- Bio: Java Developer
+- Github: [Debal Chakrabarty](https://github.com/DebalChakrabarty)
