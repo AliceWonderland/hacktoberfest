@@ -225,6 +225,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full-Stack developer, hiking, travel, art, photography
 - GitHub: [Ana Perez](https://github.com/anacperez)
 
+#### Name: [Ananya Shukla](https://github.com/ananyas2501)
+-Place: Mandi, Himachal Pradesh, Lucknow
+-Bio: Studying Computer Science in IIT, Mandi
+-Github: [Ananya Shukla] (https://github.com/ananyas2501)
+
 #### Name: [Anders Jürisoo](https://github.com/ajthinking)
 - Place: Sweden
 - Bio: What happens in Git stays in Git
