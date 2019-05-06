@@ -1,0 +1,7 @@
+n = int(input())
+
+for i in range(n):
+    str = input()
+    words = str.split(".")
+    print words
+    print(".".join(words[::-1])
