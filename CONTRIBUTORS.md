@@ -1789,6 +1789,11 @@ Noida
 - Bio: Professional Geek
 - GitHub: [Patrick S](https://github.com/patsteph)
 
+#### Name: [Priyanka Jain](https://github.com/Priya997)
+- Place: India
+- Bio: Machine Learning engineer
+- GitHub: [Priyanka Jain](https://github.com/Priya997)
+
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
  - Bio: Software Engineer @ plentymarkets
