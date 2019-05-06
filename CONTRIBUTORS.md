@@ -1920,6 +1920,11 @@ Noida
 - Bio: Software Developer / Student
 - GitHub: [Didier Valdez](https://github.com/xDidier901)
 
+#### Name: [Randy M Fournier](https://github.com/randymfournier)
+- Place: Windsor, On, Canada
+- Bio: Jr Developer / Laravel
+- GitHub: [randymfournier](https://github.com/randymfournier)
+
 #### Name: [Ratchapol Tengrumpong](https://github.com/lullabies)
 - Place: Bangkok, Thailand
 - Bio: Programmer Analyst
