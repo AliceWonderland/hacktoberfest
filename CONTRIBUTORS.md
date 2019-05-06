@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Carlos Siqueira](https://github.com/sikkas)
+- Place: São Paulo, SP
+- Bio: Programming student!
+- GitHub: [sikkas](https://github.com/sikkas)
