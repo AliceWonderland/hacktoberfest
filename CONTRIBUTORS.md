@@ -570,6 +570,11 @@ to explore life. Also, Python and Django Developer
  - Place: Kandy, Sri Lanka
  - Bio: Software Engineering Student/ Web Developer
  - GitHub: [davehowson](https://github.com/davehowson)
+ 
+ #### Name: [Dayitva Goel](https://github.com/Dayitva)
+- Place: Indonesia
+- Bio: Senior School graduate from DPS Indonesia
+- GitHub: [Dayitva](https://github.com/Dayitva)
 
 #### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
 - Place: Seattle, WA, USA
