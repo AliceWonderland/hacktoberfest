@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+Name: [Apostolos Papadopoulos](https://github.com/ApostPap)
+- Place: Greece
+- Bio: Third year Computer Science Student
+- GitHub: [ApostPap](https://github.com/ApostPap)
