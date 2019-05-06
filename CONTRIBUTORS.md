@@ -1,3 +1,8 @@
+#### Name: Piyush
+ - Place: Bangalore,India
+ - Bio: Web Developer and Data Analyst. Interest lies in Quantum Computing.
+ - Github: [Piyusharma95][https://github.com/Piyusharma95]
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
