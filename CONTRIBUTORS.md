@@ -420,6 +420,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I like turtules.
 - Github [BrunoSXS](https://github.com/brunosxs)
 
+#### Name: [Akshay Chopra](https://github.com/akshaychopra96)
+- India
+- Bio: I like trying new things in programming and technology.
+- Github [akshaychopra96](https://github.com/akshaychopra96)
+
 #### Name: [Bruno](https://github.com/bbarao/)
 - Place: Lisbon, Portugal
 - Bio: Love stuff
