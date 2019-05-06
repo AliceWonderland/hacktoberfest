@@ -1,3 +1,8 @@
+#### Name: BYAMUGISHA DAVIS
+ - Place: Mbarara, Uganda
+ - Bio: Software Developer.
+ - GitHub: [Davis](https://github.com/Davisdoctor)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
