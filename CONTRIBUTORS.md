@@ -18,10 +18,7 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
-#### Name: [AMIT CHAMBIAL](https://github.com/devaman)
-- Place: PUNJAB,INDIA
-- Bio: COMPUTER GEEK
-- GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+https://github.com/devanshhooda/hacktoberfest-1.git
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
@@ -2427,3 +2424,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Devansh] ((https://github.com/devanshhooda)
+- Place: Delhi, India
+- Bio: GAME CHANGER 
+- Github: [Devansh] ((https://github.com/devanshhooda)
+
