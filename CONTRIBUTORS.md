@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Praneet Kumar](https://github.com/Praneet71)
+- Place: Hyderabad,India
+- Bio: Student
+- Github: [Praneet71](https://github.com/Praneet71)
