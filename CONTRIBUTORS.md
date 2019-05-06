@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pulkit Jeph](https://github.com/PulkitJ10)
+- Place: Roorkee, India
+- Bio: CS Undergrad, IIT Roorkee
+- Github: [PulkitJ10](https://github.com/PulkitJ10)
