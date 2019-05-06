@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Krammm](https://github.com/Krammm)
+- Place: Italy
+- Bio: Student
+- GitHub: [Krammm](https://github.com/Krammm)
