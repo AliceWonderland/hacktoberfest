@@ -1,3 +1,8 @@
+#### Name: [AGATHE LIGUORI]
+ - Place: Lyon, France
+ - Bio: 2nd year student at INSA Lyon
+ - GitHub: [agatheliguori] (https://github.com/agatheliguori)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
