@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshat airan](https://github.com/akko29)
+- Place: Rajasthan, India
+- Bio: Data Scientist and Guitarist
+- Github: [Akshat Airan](https://github.com/akko29)
