@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [ABDUL](https://github.com/AbdulConsole)
+- Place: Minna, Nigeria
+- Bio: I am a Cyber Security Science Student, I love Security.
+- GitHub: [AbdulConsole](https://github.com/AbdulConsole)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
