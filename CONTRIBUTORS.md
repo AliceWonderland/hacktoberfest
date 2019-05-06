@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mario Castellanos](https://github.com/mrcaste/)
+- Place: Poptún, Petén, Guatemala
+- Bio: Software Developer
+- Github: [mrcaste](https://github.com/mrcaste/)
