@@ -1719,6 +1719,11 @@ Noida
 - Bio: Web Developer
 - GitHub: [SmilesandCode](https://github.com/smilesandcode)
 
+#### Name: [Akshay Khatter](https://github.com/akshaykhatter)
+- Place: Delhi, India
+- Bio: Full Stack Developer, Aspiring Data Scientist
+- GitHub: [akshaykhatter](https://github.com/akshaykhatter)
+
 #### Name: [Nishant Rai](https://github.com/iamnishantrai)
 - Place: Noida,India
 - Bio: Student
