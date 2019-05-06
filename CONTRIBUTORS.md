@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [David Ferreira Quaresma](https://github.com/dfquaresma)
+- Place: Paraiba, Brazil
+- Bio: Undergraduate in Computer Science
+- Github: [David Ferreira Quaresma](https://github.com/dfquaresma)
