@@ -1444,6 +1444,11 @@ Noida
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
 
+#### Name: [Manish](https://github.com/dakait)
+ - Place: IN
+ - Bio: Software Engineer
+ - GitHub: [dakait](https://github.com/dakait)
+
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
 - Bio: Cat lover
