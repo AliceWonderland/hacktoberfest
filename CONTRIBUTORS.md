@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nicholas Cristófaro](https://github.com/nicholaspcr)
+- Place: Belo Horizonte, Brazil
+- Bio: Hobby -> competitive programming
+- Github: [Nicholas Cristófaro](https://github.com/nicholaspcr)
