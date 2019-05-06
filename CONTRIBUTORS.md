@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leo Yeung](https://github.com/tyeung2017)
+- Place: Born in Hong Kong, living in London
+- Bio: Fullstack javascript developer
+- GitHub: [tyeung2017](https://github.com/tyeung2017)
