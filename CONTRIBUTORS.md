@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Zadorozhnii Yurii](https://github.com/SirJoraH21)
+- Place: Lviv, Ukraine
+- Bio: Front-End Web Developer
+- GitHub: [Zadorozhnii Yurii](https://github.com/SirJoraH21)
