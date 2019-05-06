@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)  
+
+#### Name: [Mateus Garcia](https://github.com/NaturesProphet)
+- Place: Espírito Santo, Brazil
+- Bio: Backend developer, Typescript, Nodejs
+- Github: [Mateus Garcia](https://github.com/NaturesProphet)
