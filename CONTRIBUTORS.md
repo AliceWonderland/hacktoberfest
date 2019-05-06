@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Martin VDS](https://github.com/MartinVandersteen)
+- Place: Brussels, Belgium
+- Bio: CTO & Backend developer. Rails and Laravel!
+- Github: [Martin VDS](https://github.com/MartinVandersteen)
