@@ -631,6 +631,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Linux System Administrator
 - GitHub: [met3or](https://github.com/met3or)
 
+#### Name: [David Velasquez](https://gitub.com/tripping-smalls)
+- Place: Minnesota
+- Bio: I like computers and board games
+
 #### Name: [Dawid Lipinski](https://github.com/lip3k)
 - Place: High Wycombe, UK
 - Bio: Self-taught Web developer
