@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Prithvi Shenoy](https://github.com/PrithviShenoy)
+- Place: Pune, India
+- Bio: C++, C, Java 
+- Github: [Prithvi Shenoy](https://github.com/PrithviShenoy)
