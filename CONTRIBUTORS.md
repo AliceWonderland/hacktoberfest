@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Jose
+ - Place: Spain
+ - Bio: Im a woodworker
+ - GitHub: [just12](https://github.com/just12)
+
