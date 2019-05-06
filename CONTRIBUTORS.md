@@ -1,3 +1,8 @@
+#### Name: Ujjwal Goel
+ - Place: E20, BH!, LNMIIT, Jamdoli
+ - Bio: Software engineer. Graduated from school.
+ - GitHub: [Ujjwal Goel](https://github.com/UjjwalGoel1)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
