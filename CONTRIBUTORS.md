@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -2297,6 +2297,11 @@ Noida
 - Place: New Delhi, India
 - Bio: I am a Machine Learning enthusiast.
 - GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
+
+#### Name: [Valentina Calabrese](https://github.com/vale-c)
+- Place: Parma, PR, Italy
+- Bio: Creative Front-End Developer & Designer.
+- GitHub: [vale-c](https://github.com/vale-c)
 
 #### Name: [Valera Kushnir](https://github.com/kashura)
 - Place: Tampa, FL, USA
