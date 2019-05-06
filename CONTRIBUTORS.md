@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [YSEByy](https://github.com/ysebyy)
+- Place: Lithuania, Vilnius
+- Bio: Android developer
+- GitHub: [YSEByy](https://github.com/ysebyy)
