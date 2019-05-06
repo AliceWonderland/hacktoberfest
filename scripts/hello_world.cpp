@@ -1,6 +1,6 @@
 // LANGUAGE: C++
-// AUTHOR: George Fotopoulos
-// GITHUB: https://github.com/xorz57
+// AUTHOR: Hemish.v
+// 
 
 #include <iostream>
 
