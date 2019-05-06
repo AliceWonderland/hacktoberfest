@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chris Lally](https://github.com/WulfCat)
+- Place: Rochester, NY USA 
+- Bio: Software QA Tester and Jquery champion
+- GitHub: [Wulfcat](https://github.com/WulfCat)
