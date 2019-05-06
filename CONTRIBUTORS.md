@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Johan Wahyudi](https://github.com/johanwahyudi)
+- Place: Palembang, Indonesia
+- Bio: Cyber Security Enthusiast
+- GitHub: [Johan Wahyudi](https://github.com/johanwahyudi)
