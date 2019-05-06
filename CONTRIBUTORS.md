@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lisa Moritz](https://github.com/Teapot-418)
+- Place: Dortmund, Germany
+- Bio: Fullstack Developer
+- Github: [Teapot-418](https://github.com/Teapot-418)
