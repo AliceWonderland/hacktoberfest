@@ -688,6 +688,11 @@ to explore life. Also, Python and Django Developer
 - Bio: computer science student,front-end developer
 - GitHub: [ Eason Xuan](https://github.com/timemahcine)
 
+#### Name: [Ece Sefercioğlu](https://github.com/seferciogluecce)
+- Place: İstanbul, Şişli, Türkiye
+- Bio: An aspiring game developer interested in XR technologies.
+- GitHub: [seferciogluecce](https://github.com/seferciogluecce)
+
 #### Name: [Edwin Chui](https://github.com/Fly1nP4nda)
 - Place: Georgia, United States
 - Bio: Fulltime / Fullstack Web Developer
