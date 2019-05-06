@@ -1,3 +1,7 @@
+#### Name: Smriti
+ - Place: Delhi, India
+ - Bio: 3rd year Mathematics student
+ - GitHub: [seepls](https://github.com/seepls)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
