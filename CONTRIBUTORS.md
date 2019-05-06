@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sumit Madhwani](https://github.com/malverick)
+- Place: Jaipur, India
+- Bio: Software Developer
+- Github: [Sumit Madhwani](https://github.com/malverick)
