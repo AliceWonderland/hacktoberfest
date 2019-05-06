@@ -1207,6 +1207,11 @@ to explore life. Also, Python and Django Developer
  - Place: Louisville, Kentucky USA
  - Bio: Full Stack JavaScript/WoW - Hyjal(Horde)
  - GitHub: [mckenzieja](https://github.com/mckenzieja)]
+ 
+#### Name: [Jonathan Brooks](https://github.com/blauks)
+ - Place: Trondheim, Norway
+ - Bio: Student at NTNU
+ - GitHub: [blauks](https://github.com/blauks)]
 
 #### Name: [Josh](https://github.com/masta-bhawk)
 - Place: Houston, TX USA
