@@ -1278,6 +1278,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Founder & Lead Engineer at Hoy Marketing Solutions. I write software for the web, mobile, and desktop.
 - GitHub: [kenhkelly](https://github.com/kenhkelly)
 
+#### Name: [Kent van Kuller](https://github.com/KentClarkGuitar)
+- Place: Los Angeles, CA
+-Bio: Web Developer. Musician. Actor.
+-Github: [Kent van Kuller](https://github/com/KentClarkGuitar)
+
 #### Name: [Kevin Mora](https://github.com/kevinmora94)
 - Place: Alajuea, Alajuela, Costa Rica
 - Bio: Web dev and graphic designer
