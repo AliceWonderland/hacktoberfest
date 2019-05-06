@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Borja Giraldez](https://github.com/giraldez122)
+- Place: Baiona, Spain
+- Bio: QA Enginner
+- Github: [Borja Giraldez](https://github.com/giraldez122)
