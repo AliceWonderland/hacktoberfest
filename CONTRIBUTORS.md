@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vivek Pavaskar](https://github.com/vivekpavaskar)
+- Place: Karnataka, India
+- Bio: Web Developer (Laravel)
+- GitHub: [vivekpavaskar](https://github.com/vivekpavaskar)
