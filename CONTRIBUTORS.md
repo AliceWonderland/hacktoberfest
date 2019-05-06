@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name [Mmis1000] (https://github.com/mmis1000)
+- Place: Taiwan
+- Bio: Web developer Node.js
+- Github: [Mnis1000](https://github.com/itepifanio)
