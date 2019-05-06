@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ruchir toshniwal](https://github.com/ruchirtoshniwal)
+- Place: indore,india
+- Bio: Web developer html,css,java,c,c++
+- Github: [ruchir toshniwal](https://github.com/ruchirtoshniwal)
