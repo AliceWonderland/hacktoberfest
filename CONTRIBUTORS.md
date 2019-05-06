@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alexius Adhitya K](https://github.com/debugvelop)
+- Place: Yogyakarta, Special Region of Yogyakarta, Indonesia
+- Bio: Undergraduate
+- GitHub: [debugvelop](https://github.com/debugvelop)
