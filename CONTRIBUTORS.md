@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [ShiroWorks](https://github.com/ShiroWorks)
+- Place: Győr, Hungary
+- Bio: Web & App Developer
+- Github: [ShiroWorks](https://github.com/ShiroWorks)
