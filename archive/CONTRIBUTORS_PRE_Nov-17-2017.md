@@ -16681,3 +16681,10 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+
+#### Name: [Welligton Miguel](https://github.com/i-am-miguel)
+- Place: Parnamirim, RN - Brazil
+- Bio: Web developer Java and Python
+- Github: [i-am-miguel](https://github.com/i-am-miguel)
+
+
