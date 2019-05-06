@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arthur Moreira](https://github.com/reiarthur)
+- Place: Recife, Brazil
+- Bio: Web developer
+- Github: [Arthur Moreira](https://github.com/reiarthur)
