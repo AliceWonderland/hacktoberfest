@@ -2413,6 +2413,11 @@ Noida
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
+#### Name: [Sarthak Ahuja](https://github.com/sarthakahuja11)
+- Place: India
+- Bio: AI Developer
+- GitHub: [Sarthak Ahuja](https://github.com/sarthakahuja11)
+
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
 - Bio: financial software consultant
