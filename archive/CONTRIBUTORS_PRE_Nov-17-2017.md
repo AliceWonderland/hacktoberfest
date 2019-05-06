@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Leon Dong](https://github.com/dankpigeon)
+- Place: Canada
+- Bio: I'm learning to code!
+- GitHub: [Leon Dong](https://github.com/dankpigeon)
+
