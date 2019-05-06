@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [MARIA JOSE](https://github.com/majse14)
+- Place: Venezuela
+- Bio: Learning Software Developer
+- GitHub: [Majse14](https://github.com/majse14)
