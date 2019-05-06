@@ -1774,6 +1774,12 @@ Noida
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
 
+
+#### Name: [Omer C. Yazici](https://github.com/yaziciom)
+ - Place: Istanbul, Turkey
+ - Bio: Student
+ - GitHub: [yaziciom](https://github.com/yaziciom)
+ 
 #### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
 - Place: Athens, Greece
 - Bio: Undergraduate CS student / Software Developer
