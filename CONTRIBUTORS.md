@@ -2388,6 +2388,11 @@ Noida
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
+#### Name: [Christophoros](https://github.com/christophorosdk)
+- Place: Copenhagen, Denmark
+- Bio: Student
+- GitHub: [christophorosdk](https://github.com/christophorosdk)
+
 #### Name: [Zoe Kafkes](https://github.com/zkafkes)
 - Place: Atlanta, Georgia USA
 - Bio: caffeinated and curious
