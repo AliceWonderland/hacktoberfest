@@ -2234,6 +2234,11 @@ Noida
 - Bio: Molecular biologist
 - GitHub: [Timea Deák](https://github.com/DTimi)
 
+#### Name: [Tianna Henry-Lewis](https://github.com/tiannahenrylewis)
+- Place: Toronto, Canada
+- Bio: iOS Developer
+- GitHub: [tiannahenrylewis](https://github.com/tiannahenrylewis)
+
 #### Name: [Tom Michel](https://github.com/tomichel)
 - Place: Berlin, Germany
 - Bio: Developer
