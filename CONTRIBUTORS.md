@@ -658,6 +658,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - Github: [dhevi](https://github.com/dhevi)
 
+#### Name: [Divyanshu Ranjan Srivastava](https://github.com/divsriv111)
+- Place: India
+- Bio: ML Engineer(fresher)
+- Github: [divsriv111](https://github.com/divsriv111)
+
 #### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
