@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Damián Rotta](https://github.com/Dipiert)
+- Place: Posadas, Misiones, Argentina
+- Bio: IT nerd.
+- Github: [Dipiert](https://github.com/Dipiert)
