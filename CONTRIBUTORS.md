@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishi Kothari](https://github.com/rishiosaur)
+- Place: Canada
+- Bio: 13yrold WebDev
+- Github: [Rishi Kothari](https://github.com/rishiosaur)
