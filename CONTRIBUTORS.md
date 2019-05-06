@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raysa Dutra](https://github.com/hi-hi-ray)
+- Place: Rio de Janeiro, Brazil
+- Bio: Software and Computer Engineer.
+- Github: [Raysa Dutra](https://github.com/hi-hi-ray)
