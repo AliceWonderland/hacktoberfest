@@ -300,6 +300,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at Universiy of Muhammadiyah Jakarta
 - GitHub: [Arie Kurniawan](https://github.com/arkwrn)
 
+#### Name: [Ariessa Norramli](https://github.com/ariessa)
+- Place: Malaysia
+- Bio: Software Engineering Student
+- GitHub: [Ariessa](https://github.com/ariessa)
+
 #### Name: [Arpit Gogia](https://github.com/arpitgogia)
 - Place: Delhi, India
 - Bio: Python Developer
