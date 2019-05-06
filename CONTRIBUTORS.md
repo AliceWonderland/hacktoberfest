@@ -1030,10 +1030,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist by profession and student by heart.
 - GitHub: [Jackson Isaac](https://github.com/JacksonIsaac)
 
-#### Name: [Jakub Bačo](https://github.com/vysocina)
+#### Name: [Jakub Ba�?o](https://github.com/vysocina)
 - Place: Slovakia
 - Bio: Student / Designer
-- GitHub: [Jakub Bačo](https://github.com/vysocina)
+- GitHub: [Jakub Ba�?o](https://github.com/vysocina)
 
 #### Name: [James Henderson](https://github.com/prohunt)
 - Place: Raleigh, NC, United States
@@ -2166,6 +2166,11 @@ Noida
 - Bio: CSE Student at IIITD
 - GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
 
+#### Name: [Mathias R] (https://github.com/TederRo3d)
+- Place: Denmark
+- Bio: JAVA
+- GitHub: [Mathias R] (https://github.com/TederRo3d)
+
 #### Name: [Sylwester](https://github.com/sla)
 - Place: Poland
 - Bio: JAVA
@@ -2423,7 +2428,7 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [�?talo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [�?talo Epifânio](https://github.com/itepifanio)
