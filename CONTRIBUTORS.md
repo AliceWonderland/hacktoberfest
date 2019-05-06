@@ -1,3 +1,8 @@
+#### Name: Kegjams
+ - Place: United States
+ - Bio: Learning
+ - GitHub: [Kegjams](https://github.com/Vallenain)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
