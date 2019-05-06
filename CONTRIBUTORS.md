@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Francisco](https://github.com/Nintyo)
+- Place: Killeen, Texas, United States
+- Bio: Nursing and computer science student
+- GitHub: [Nintyo](https://github.com/Nintyo)
