@@ -1,3 +1,8 @@
+#### Name: [CHANOKNAD MEAKEW](https://github.com/annchar)
+- Place: Bangkok, Thailand
+- Bio: Software Developer
+- GitHub: [ChanoknadM](https://github.com/annchar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
