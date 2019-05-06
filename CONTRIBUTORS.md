@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andrea Rucco](https://github.com/MaxiStarling56)
+- Place: Lecce, Puglia, Italy
+- Bio: Just a guy who like computers
+- GitHub: [MaxiStarling56](https://github.com/MaxiStarling56)
