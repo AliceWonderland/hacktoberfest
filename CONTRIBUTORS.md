@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaibhav Gamit](https://github.com/vg29)
+ - Place: Surat, Gujarat, India
+ - Bio: Coder, Gamer, Guitarist, traveller
+ - Github: [Vg29](https://github.com/vg29)
