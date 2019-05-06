@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zhenya Zhitkovsky](https://github.com/zhenya-zhitkovsky)
+- Place: Minsk, Belarus
+- Bio: Embedded C Developer
+- Github: [Zhenya Zhitkovsky](https://github.com/zhenya-zhitkovsky)
