@@ -6,7 +6,7 @@ UK
 
 ### Academics
 
-University of Glasgow, Computer Science
+University of Glasgow, Computer Science 
 
 ### Interests
 
