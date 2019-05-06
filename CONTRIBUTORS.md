@@ -38,6 +38,12 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [ARSHDEEP SINGH](https://github.com/okatticus)
+- Place: UTTAR Pradesh,India
+- Bio: A student happy to write code and poetry.
+- GitHub: [Arshdeep singh](https://github.com/Arshrock)
+
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
