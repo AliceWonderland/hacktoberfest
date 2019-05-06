@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Danielli Costa](https://github.com/daniellic9)
+- Place: Espirito Santo, Brazil
+- Bio: Studying Computer Science, UFES.
+- Github: [daniellic9](https://github.com/daniellic9)
