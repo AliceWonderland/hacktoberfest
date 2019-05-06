@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andreas Lukita](https://github.com/dreuia)
+- Place: Medan, Indonesia
+- Bio: Software Developer Java
+- Github: [Andreas Lukita](https://github.com/dreuia)
