@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prateek Surana](https://github.com/prateek3255)
+- Place: Jaipur, Rajasthan
+- Bio: Web and mobile app developer, React native enthusiast
+- Github: [Prateek Surana](https://github.com/prateek3255)
