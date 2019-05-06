@@ -2185,6 +2185,10 @@ Noida
 - Bio: Developer
 - GitHub: [Nylan17](https://github.com/nylan17/)
 
+#### Name: [Tanish Kapur](https://github.com/tan33sh)
+- Place: Seattle
+- Bio: Student
+
 #### Name: [Taylor Hudson](https://github.com/AllenCompSci)
 - Place: Allen, Texas, USA
 - Bio: Computer Scientist , C++ Developer, Java Developer, NodeJS, High School Computer Science Teacher, Math Teacher, Mathematicain
