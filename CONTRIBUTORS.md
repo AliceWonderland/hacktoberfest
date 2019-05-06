@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [SANTOS RAGNAT](https://github.com/vemassa)
+- Place: France
+- Bio: third year computer student, love IT !
+- GitHub: [vemassa](https://github.com/vemassa)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
