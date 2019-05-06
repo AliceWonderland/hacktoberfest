@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriel Nogueira](https://github.com/gabrielfnogueira)
+ - Place: São Paulo, Brazil
+ - Bio: Fullstack dev
+ - GitHub: [gabrielfnogueira](https://github.com/gabrielfnogueira)
