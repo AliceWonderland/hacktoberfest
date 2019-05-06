@@ -88,6 +88,11 @@
 - Bio: Web Developer
 - GitHub: [a-m-a-z](https://github.com/a-m-a-z)
 
+#### Name: [Shane Wilson](https://github.com/mistyferocity43)
+- Place: United Kingdom
+- Bio: Developer, motorcyclist, total badass... Then I wake up!
+- GitHub: [Mitstyferocity43](https://github.com/mistyferocity43)
+
 #### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
