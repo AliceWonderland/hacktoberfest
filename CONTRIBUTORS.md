@@ -1824,6 +1824,11 @@ Noida
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
 
+#### Name: [Philip Hofmann](https://github.com/Phhofm)
+- Place: Zurich, Switzerland
+- Bio: Master student, People-Oriented Computing at University of Zurich UZH
+- GitHub: [Phhofm](https://github.com/Phhofm)
+
 #### Name: [Philip Terzic](https://github.com/PhilTerz)
 - Place: Scottsdale, Arizona, USA
 - Bio: Aspiring OSS Contributer
