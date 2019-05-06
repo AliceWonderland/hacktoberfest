@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Edrig](https://github.com/Edrig)
+- Place: Lyon, France
+- Bio: Model Train Manager
+- Github: [Edrig](https://github.com/Edrig)
