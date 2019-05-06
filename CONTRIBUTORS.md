@@ -1,3 +1,8 @@
+#### Name: Luis
+ - Place: USA
+ - Bio: Dev & Designer
+ - GitHub: [lbonillaii](https://github.com/lbonillaii)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
