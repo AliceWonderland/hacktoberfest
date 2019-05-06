@@ -564,7 +564,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Curian lee Zhen Jie](https://github.com/finalight)
  - Place: Singapore
  - Bio: Fullstack, devops practitioner
- - GitHub: [turkerdotpy](https://github.com/finalight)
+ - GitHub: [turkerdmtpy](https://github.com/finalight)
 
 #### Name: [DAVE HOWSON](https://github.com/davehowson)
  - Place: Kandy, Sri Lanka
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lee Magbanua](https://github.com/lmag18)
+- Place: Bacolod City,Philippines
+- Bio: I love Anime!
+- GitHub: [lmag18](https://github.com/lmag18)
