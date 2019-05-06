@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zack Smith](https://github.com/zackasdf)
+- Place: Omaha, Nebraska, USA 
+- Bio: Student of Web Development
+- Github: [zackasdf](https://github.com/zackasdf)
