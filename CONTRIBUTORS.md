@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nick Grey](https://github.com/ngrey5)
+- Place: Menomonie WI
+- Bio: Just a guy who likes programming
+- GitHub: [NGrey5](https://github.com/ngrey5)
