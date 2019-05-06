@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [AHMET TERZI](https://github.com/aterzi24)
+ - Place: Ankara, Turkey
+ - Bio: Student at METU
+ - Github: [aterzi24](https://github.com/aterzi24)
+ 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
