@@ -1,3 +1,7 @@
+#### Name: Leon JK
+ - Place: Kerala, India
+ - Bio: Third Year Computer Science Student, Model Engineering College
+ - Github: [Leonkoithara](https://github.com/Leonkoithara)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
