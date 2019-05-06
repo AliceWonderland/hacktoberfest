@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -652,6 +652,11 @@ to explore life. Also, Python and Django Developer
   - Place: Indore, India
   - Bio: Engineering Student @ IET DAVV Indore
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
+
+Name: [Dimali Dissanayke](https://github.com/dimalik98)
+- Place: Matale, Sri Lanka
+- Bio: Undergraduate @ NSBM Green University
+- GitHub: [dimalik98](https://github.com/dimalik98)
 
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
