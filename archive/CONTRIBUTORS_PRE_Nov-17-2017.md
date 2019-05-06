@@ -13831,6 +13831,11 @@ Noida
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
+ 
+ #### Name: [Sanidhya Bhardwaj](https://github.com/BeSanidhya)
+- Place: India
+- Bio: First year Computer Science Student, in love with Movies and TV Series
+- GitHub: [BeSanidhya](https://github.com/BeSanidhya)
 
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
