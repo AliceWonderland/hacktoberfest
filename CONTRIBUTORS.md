@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ritesh Dutta] (https://github.com/rdutta99)
+- Place:Delhi,India
+- Bio:Student
+- Github: [Ritesh Dutta] (https://github.com/rdutta99)
