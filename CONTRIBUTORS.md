@@ -1,3 +1,7 @@
+#### Name: Abdullahi
+ - Place: Niger, Nigeria
+ - Bio: Software engineer. Graduated from Federal University of technology,Minna.
+ - GitHub: [Abdullahi](https://github.com/Hanas1)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
