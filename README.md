@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+﻿# 🎃 HacktoberFest Starter Project 🎃
 
 ** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
@@ -44,7 +44,7 @@ git checkout -b branch-name
 ```markdown
 git add .
 git commit -m 'Commit message'
-git push origin branch-name
+git push -u origin branch-name
 ```
 
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
@@ -105,7 +105,7 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 console.log('Hello, World!');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
+Name the file `hello_world_yourusername.xx`. e.g. `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 

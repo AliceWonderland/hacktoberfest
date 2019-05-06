@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -42,6 +42,11 @@
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
+
+#### Name:[Shrishti Singh]
+- Place: Kalkaji, New Delhi, India
+- GitHub: [Popo1928] (https://github.com/Popo1928)
+
 
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
