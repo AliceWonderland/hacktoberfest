@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Aggarwal](https://github.com/shuboy2014)
+- Place: Natal, Brazil
+- Bio: Web Developer Javascript and Python
+- Github: [shuboy2014](https://github.com/shuboy2014)
