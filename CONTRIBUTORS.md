@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ashley
+- Place: New York
+- Bio: comm analyst learning html
+- GitHub: [agerwitz] (https://github.com/agerwitz)
