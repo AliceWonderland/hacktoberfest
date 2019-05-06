@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Scott Clay](https://github.com/scottclay)
+- Place: Leeds, UK
+- Bio: Data Scientist
+- Github: [scottclay](https://github.com/scottclay)
