@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [VijiatJack](https://github.com/VijiatJack)
+- Place: São Paulo, Brazil
+- Bio: C# Developer & AI Enthusiastic
+- Github: [VijiatJack](https://github.com/VijiatJack)
