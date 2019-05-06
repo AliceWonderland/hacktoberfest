@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Juan Pablo Yamamoto](https://github.com/JPYamamoto)
+- Place: CDMX, México
+- Bio: Student, software developer. Love Elixir, Python, TypeScript, and more...
+- Github: [Juan Pablo Yamamoto](https://github.com/JPYamamoto)
