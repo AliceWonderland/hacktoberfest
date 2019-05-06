@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alexandre Daltro](https://github.com/alexandrebvd)
+- Place: Rio de Janeiro, Brazil
+- Bio: future data scientist
+- Github: [Alexandre Daltro](https://github.com/alexandrebvd)
