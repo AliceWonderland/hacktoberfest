@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andika Nugraha](https://github.com/AndikaNugraha11)
+- Place: Jakarta, Indonesia
+- Bio: Fullstack Developer
+- Github: [Andika Nugraha](https://github.com/AndikaNugraha11)
