@@ -964,6 +964,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Student, Foodie
 - GitHub: [hussainbadri21](https://github.com/hussainbadri21)
 
+#### Name: [Hritik Tayade](https://github.com/braceritchie)
+- Place: Pune, India
+- Bio: Computer Engineering Student
+- Github: [braceritchie](https://github.com/braceritchie)
+
 #### Name: [Ian James](https://inj.ms)
 - Place: London, UK
 - Bio: Web... person?
