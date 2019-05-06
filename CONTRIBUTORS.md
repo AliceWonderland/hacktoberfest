@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [rdpradipta] (https://github.com/rdpradipta)
+- Place: Indonesia
+- Bio: Student
+- GitHub: [rdpradipta] (https://github.com/rdpradipta)
