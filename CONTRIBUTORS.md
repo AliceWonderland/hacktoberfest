@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshit Agarwal](https://github.com/mysterious19)
+- Place: Allahabad, India
+- Bio: Beginner
+- Github: [mysterious19](https://github.com/mysterious19)
