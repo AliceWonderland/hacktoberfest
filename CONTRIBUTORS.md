@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ERICA COPE](https://github.com/ericacope)
+- Place: São Paulo
+- Bio: :computer: :octopus: 
+- GitHub: [Erica Cope](https://github.com/ericacope)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
