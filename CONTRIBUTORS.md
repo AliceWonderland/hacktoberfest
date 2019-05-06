@@ -2,6 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Momade Junior
+ - Place Maputo,Mozambique
+ - Bio: Web designer & design graphic
+ - Github: [Momade Junior](https://github.com/Momade-Junior)
+ 
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
