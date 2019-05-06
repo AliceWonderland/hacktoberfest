@@ -375,6 +375,11 @@ to explore life. Also, Python and Django Developer
  - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
  - GitHub: [Bennie Mosher](https://github.com/benniemosher)
 
+#### Name: [Berk Erol](https://github.com/berkerol)
+ - Place: Istanbul, Turkey
+ - Bio: Senior Computer Engineering Student at Boğaziçi University
+ - GitHub: [Berk Erol](https://github.com/berkerol)
+
 #### Name: [Bharath Kumar](https://github.com/iambk)
  - Place: India
  - Bio: Computer Science Undergraduate
