@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### NAME: [Gabriel De Andrade Duarte](https://github.com/gabrielduuarte)
+- Place: Recife, Brazil
+- Bio: Control and automation engineering student
+- GitHub: [gabrielduuarte](https://github.com/gabrielduuarte)
