@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Pulkit Mishra
+ - Place: Kanpur, India
+ - Bio: Students, undergraduate at IIIT Kalyani
+ - GitHub: [Pulkit Mishra](https://github.com/pulkitmishra)
