@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ARMAN GUPTA](https://github.com/Arman1611)
+- Place: UttarPradesh,India
+- Bio: Student,Android Developer
+- Github: [ARMAN GUPTA](https://github.com/Arman1611)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
