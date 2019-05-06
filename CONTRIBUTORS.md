@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kimberly Anne Miguel ](https://github.com/kianmiguel)
+- Place: Novaliches, Quezon City 
+- Bio: Fatty girl with creative mind.
+- GitHub: [kianmiguel](https://github.com/kianmiguel)
