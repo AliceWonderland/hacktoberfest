@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Christian Burk](https://skyriter.com)
+- Place: Omaha, Nebraska, USA
+- Bio: Web Developer and IT Manager
+- Github: [omahane](https://github.com/omahane)
