@@ -2027,6 +2027,11 @@ Noida
 - Bio: I'm a 4th year Graduating I.T Student from Our Lady Of Fatima Univeristy Pampanga
 - GitHub: [Haruka Mayumi](https://github.com/akiyamamio16)
 
+#### Name: [sara_in_codeland](https://github.com/sangerftw)
+- Place: USA
+- Bio: Single mom
+- GitHub: [sara_in_codeland](https://github.com/sangerftw)
+
 #### Name: [Sarah Chen](https://github.com/sarovisk)
 - Place: Sao Paulo/ Brazil
 - Bio: Student
