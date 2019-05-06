@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [RANDIKA NIROSHAN](https://github.com/RandikaNiroshan)
+- Place: Colombo, Sri Lanka
+- Bio: Mobile App Developer
+- GitHub: [Randika Niroshan](https://github.com/RandikaNiroshan)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
