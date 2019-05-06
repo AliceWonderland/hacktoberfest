@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Drazen Biljak](https://dizajnist.com)
+- Place: Split, Croatia
+- Bio: Web Developer
+- GitHub: [Alex Marrujo](https://github.com/dbiljak)
