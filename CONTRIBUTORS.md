@@ -1,3 +1,8 @@
+#### Name: [AYUSH RAJ](https://github.com/Ayushraj1)
+- Place: India
+- Bio: Game Developer and Youtuber.(Youtube Channel- Google Theory)
+- GitHub: [Ayushraj1](https://github.com/Ayushraj1)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
