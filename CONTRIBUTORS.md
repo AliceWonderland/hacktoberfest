@@ -305,6 +305,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Python Developer
 - Github [Arpit Gogia](https://github.com/arpitgogia)
 
+#### Name: [Arpitha Srivathsa](https://github.com/DREAMERS3)
+ - Place: Bangalore, India
+ - Bio: 1st year Undergrad student
+ - GitHub: [DREAMERS3](https://github.com/DREAMERS3)
+
 #### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
 - Place: India
 - Bio: Computer Science Major / UI/UX Designer
