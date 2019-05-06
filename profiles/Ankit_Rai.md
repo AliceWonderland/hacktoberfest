@@ -22,7 +22,7 @@ a high functioning geek, et cetera!
 1. DIY Electronics (like Arduino, RaspberryPi, NodeMCU, etc.)
 2. Front-End Web (like JS, HTML and tad bit CSS)
 3. Mobile Stuff (React-Native)
-4. Competitive Programming in C and Python
+4. Competitive Programming in C, java and Python
 
 #### Social Media Handles
 - Twitter [ankitRai96](https://twitter.com/ankitrai96)
