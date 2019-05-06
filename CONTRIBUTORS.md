@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mega Maduratna](https://github.com/MegaMaduratna128)
+- Place: Malang, Indonesia
+- Bio: Student of State Polytechnic of Malang
+- Github: [Megamaduratna128](https://github.com/MegaMaduratna128)
