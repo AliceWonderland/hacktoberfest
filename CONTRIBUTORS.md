@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [WholesomeDog](https://github.com/wholesomedogs)
+- Place: Cardiff, Wales
+- Bio: CS student
+- GitHub: [WholesomeDog](https://github.com/wholesomedogs)
