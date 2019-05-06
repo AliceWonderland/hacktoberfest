@@ -1629,6 +1629,11 @@ Noida
 - Bio: Programmer
 - GitHub: [haugenmitch](https://github.com/haugenmitch)
 
+#### Name: [Mohammed Coovaida](https://github.com/mojosan7)
+- Place: North Carolina, USA
+- Bio: Technology Executive
+- GitHub: [mojosan7](https://github.com/mojosan7)
+
 #### Name: [Moisés Ñañez](https://github.com/moisesnandres)
 - Place: Ica, Perú
 - Bio: Software developer and musician
