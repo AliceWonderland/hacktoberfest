@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prakhar](https://github.com/sprakhar321)
+
+- Place: U.P , INDIA
+- Bio: Learner
+- Github: [Prakhar](https://github.com/sprakhar321)
