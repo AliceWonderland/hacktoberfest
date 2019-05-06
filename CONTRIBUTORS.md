@@ -275,6 +275,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CSAM, IIITD
 - GitHub: [Ankur Sharma](https://github.com/ankurs287)
 
+#### Name: [Zach Zulanas](https://github.com/zzulanas)
+- Place: California, USA
+- Bio: Student, aspiring developer
+- GitHub: [Zach Zulanas](https://github.com/zzulanas)
+
 #### Name: [Anthony Mineo](https://github.com/amineo)
 - Place: New Jersey, USA
 - Bio: Web Design & Development
