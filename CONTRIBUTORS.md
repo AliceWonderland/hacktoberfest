@@ -1859,6 +1859,11 @@ Noida
 - Bio: I tell tales!
 - GitHub: [Pratyum](https://github.com/Pratyum)
 
+#### [Alex](https://github.com/alexandradlg)
+- Place: Paris
+- Bio: Junior Ruby On Rails Developer 
+- Github : [here](https://github.com/alexandradlg)
+
 #### Name: [Pronomita Dey] (https://github.com/PronomitaDey)
 - Place : India
 - Bio : Front End Developer. Open Source Enthusiast. Learner.
