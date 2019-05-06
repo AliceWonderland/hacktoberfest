@@ -1203,6 +1203,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software engineer
 - Github: [Joseph Musembi](https://github.com/musemby)
 
+#### Name: [Josh Hazelhurst](https://github.com/joshhazelhurst123)
+ - Place: Wellington, New Zealand
+ - Bio: Developer
+ - GitHub: [joshhazelhurst123](https://github.com/joshhazelhurst123)]
+
 #### Name: [Josh McKenzie](https://github.com/mckenzieja)
  - Place: Louisville, Kentucky USA
  - Bio: Full Stack JavaScript/WoW - Hyjal(Horde)
