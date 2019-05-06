@@ -1624,6 +1624,11 @@ Noida
 - Bio: Software Engineer
 - GitHub: [mintoo511](https://github.com/mintoo511)
 
+#### Name: [Mitchell Fensome](https://github.com/kingcoconut332)
+- Place: BC, CANADA
+- Bio: Missionary
+- GitHub: [kingcoconut332](https://github.com/kingcoconut332)
+
 #### Name: [Mitchell Haugen](https://github.com/haugenmitch)
 - Place: VA, USA
 - Bio: Programmer
