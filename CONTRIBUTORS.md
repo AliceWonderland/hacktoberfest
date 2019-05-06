@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Satpal Tanan](https://github.com/itepifanio)
+- Place: Gurgaon, India
+- Bio: Lead Engineer, MEAN Stack
+- Github: [Satpal Tanan](https://github.com/tanansatpal)
