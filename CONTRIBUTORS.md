@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [AARUSHI GOENKA](https://github.com/Aarushi2405)
+ - Place: Bangalore, India
+ - Bio: First year Computer Science student at IIITB 
+ - GitHub: [Aarushi Goenka](https://github.com/Aarushi2405)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
