@@ -1,3 +1,8 @@
+#### Name: Parth Shukla
+ - Place: Pune, India
+ - Bio: Student
+ - GitHub: [partyshukla](https://github.com/partyshukla)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
