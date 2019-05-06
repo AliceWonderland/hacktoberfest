@@ -768,6 +768,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student-developer, fond of JAva, Web etc.
 - GitHub: [Ermolaeff](https://github.com/ermoalaeff)
 
+#### Name: [Eilidh Southren](https://github.com/esouthren/)
+- Place: Aberdeen, Scotland
+- Bio: CS Student, education enthusiast
+- Github [esouthren](https://github.com/esouthren)
+
 #### Name: [Evan Culver](https://github.com/eculver)
 - Place: San Francisco, CA, USA
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
