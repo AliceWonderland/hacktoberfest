@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ojas Pitre](https://github.com/ojas360)
+- Place: Pune, India
+- Bio: Web and Mobile App Developer
+- Github: [Ojas Pitre](https://github.com/ojas360)
