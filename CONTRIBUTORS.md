@@ -2,6 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Mikaela
+ - Place: NJ, USA
+ - Bio: College student. 
+ - GitHub: [Mikaela](https://github.com/mppmpp315)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
