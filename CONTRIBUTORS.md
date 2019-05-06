@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suellen Lima](https://github.com/suelima)
+- Place: Rio de Janeiro, Brazil
+- Bio: C++, Java and Python Developer - IA Developer
+- Github: [suelima](https://github.com/suelima)
