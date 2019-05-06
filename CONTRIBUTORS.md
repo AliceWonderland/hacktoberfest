@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
+
+#### Name: [frankles12] (https://github.com/frankles12)
+- Place: Orlando, FL
+- Bio: QA Automation Engineer
+- GitHub: [frankles12] (https://github.com/frankles12)
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
