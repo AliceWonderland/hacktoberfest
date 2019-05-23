@@ -1,3 +1,8 @@
+#### Name: [Philipp Packmohr](https://github.com/philpackmohr)
+ - Place: Villingen-Schwenningen, Germany
+ - Bio: Engineer
+ - GitHub: [lulabell](https://github.com/philpackmohr)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
