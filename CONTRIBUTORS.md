@@ -1,3 +1,9 @@
+#### Name: [Philipp Packmohr](https://github.com/philpackmohr)
+- Place: Germany
+- Bio: German Engineer
+- GitHub: [philpackmohr](https://github.com/philpackmohr)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
