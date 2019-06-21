@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tim Smith](https://github.com/WebRuin)
+- Place: SF Bay Area
+- Bio: Frontend Web Developer
+- Github: [Tim Smith](https://github.com/WebRuin)
