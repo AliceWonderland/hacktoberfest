@@ -1115,6 +1115,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I like spending time in chlorinated water and spitting out codes.
 - GitHub: [Jianhao Tan](https://github.com/jaanhio)
 
+#### Name: [Jianlu Bi](https://github.com/jianlubi)
+- Place: Toronto, Canada
+- Bio: Javascript Ninja
+- GitHub: [Jianlu Bi](https://github.com/jianlubi)
+
 #### Name: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 - Place: Mumbai, India
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
