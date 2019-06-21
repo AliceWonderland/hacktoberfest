@@ -930,6 +930,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer, Student
 - Github: [Hardik Surana](https://github.com/hardiksurana)
 
+#### Name: [Harsha Vattem](https://github.com/harshavattem)
+- Place: Kharagpur, India
+- Bio: Programmer, Student
+- Github: [Harsha Vattem](https://github.com/harshavattem)
+
 #### Name: [Harshil Agrawal](https://github.com/harshil1712)
 -Place: Vadodara, India
 -Bio: Student,Web Developer
