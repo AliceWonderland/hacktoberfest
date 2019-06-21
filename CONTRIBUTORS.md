@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tallie](https://github.com/tblanshard)
+- Place: Edinburgh, Scotland
+- Bio: CompSci Student
+- Github: [tblanshard](https://github.com/tblanshard)
