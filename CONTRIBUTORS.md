@@ -1000,6 +1000,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
 - Github: [Ishan Jain](https://github.com/ishanjain28)
 
+#### Name: [Ismaeel Lunat](https://github.com/Ismaeel-1)
+- Place: UK
+- Bio: Studying Computer Science
+- Github: [Ismaeel Lunat](https://github.com/Ismaeel-1)
+
 #### Name: [Italo Góis](https://github.com/italogois)
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Front End Developer
