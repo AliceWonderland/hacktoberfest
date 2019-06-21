@@ -4,8 +4,9 @@
   GITHUB: https://github.com/Nethmi96
 */
 
-public class HelloJavaN {
-    public static void main(String[] args) {
-        System.out.println("Hello, world!");
+class Hello{
+    public static void main(String args[]
+    {
+        System.out.println("Hello World");
     }
 }
