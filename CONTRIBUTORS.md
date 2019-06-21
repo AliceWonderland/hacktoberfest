@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Azri Zainuddin](https://github.com/AzriDelta)
+- Place: Kuala Lumpur, Malaysia
+- Bio: A computer science student
+- Github: [AzriDelta](https://github.com/AzriDelta)
