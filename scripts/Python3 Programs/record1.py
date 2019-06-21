@@ -1,0 +1,15 @@
+print("program 1 - Print Personal, Academic Details")
+
+name	= input("Enter Name:     ")
+address = input("Enter Address:  ")
+gender  = input("Enter Gender:   ")
+course  = input("Enter Course:   ")
+sem     = input("Enter Semester: ")
+mark    = input("Enter Marks:    ")
+
+print ("Name     :"+name) 
+print ("Address  :"+address)
+print ("Gender   :"+gender)
+print ("Course   :"+course)
+print ("Semester :"+sem)
+print ("Marks    :"+mark)
