@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [RONIT MAITRA](https://github.com/zon2)
+- Place: India
+- Bio: 3rd year Computer Science Student ,JGEC, Jalpaiguri <3 github 
+- GitHub: [zon2](https://github.com/zon2)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
