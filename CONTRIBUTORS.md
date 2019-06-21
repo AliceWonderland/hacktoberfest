@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+### Name [MAHESH TUDU](https://github.com/mahis929)
+  - Place: India
+  - Bio: Student
+  - GiHub: [mahis929](https://github.com/mahis929)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
