@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nurul Hassan](https://github.com/nurulhassan)
+- Place: jaipur,rajasthan,india
+- Bio: FUll Stack Developer and Python
+- Github: [Nurul Hassan](https://github.com/nurulhassan)
