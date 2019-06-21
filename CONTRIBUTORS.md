@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hassan Murtaza](https://github.com/MrHassanMurtaza/)
+- Place: Islamabad, Pakistan
+- Bio: DevOps Engineer
+- Github: [MrHassanMurtaza](https://github.com/MrHassanMurtaza/)
+
