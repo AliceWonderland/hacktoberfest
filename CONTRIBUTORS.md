@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -2165,6 +2165,11 @@ Noida
 - Place: New Delhi, India
 - Bio: CSE Student at IIITD
 - GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
+
+#### Name: [Syakirin Amin](https://github.com/akrindev)
+- Place: Pekalongan, Indonesia
+- Bio: Web Developer
+- Github: [Akrindev](https://github.com/akrindev)
 
 #### Name: [Sylwester](https://github.com/sla)
 - Place: Poland
