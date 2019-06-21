@@ -1343,6 +1343,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Just another dreamer
 - Github [LegacyGDev]
 
+#### Name: [LENZFLIKER](https://github.com/LENZFLIKER)
+- Place: Kandy, Sri Lanka
+- Bio: Student
+- Github [LENZFLIKER]
+
 #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
