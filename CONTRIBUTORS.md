@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Himanshu](https://github.com/AggHim)
+- Place: Italy
+- Bio: Data Scientist
+- GitHub: [Himanshu](https://github.com/AggHim)
