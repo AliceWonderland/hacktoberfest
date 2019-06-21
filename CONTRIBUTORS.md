@@ -98,6 +98,13 @@
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
 
+#### Name: [Aditya Vardhan Singh](https://github.com/hakrsingh)
+- Place: India
+- Bio: Web Developer
+- GitHub: [Aditya Vardhan Singh](https://github.com/hakrsingh)
+
+
+
 #### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
 - Place: Hyderabad, India
 - Bio: iOS Developer
