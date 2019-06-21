@@ -1,3 +1,8 @@
+#### Name: Rohan Sharma (https://github.com/eXpErImEnTcoder)
+- Place: Punjab, India
+- Bio: CS undergraduate
+- Github: [eXpErImEnTcoder](https://github.com/eXpErImEnTcoder)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
