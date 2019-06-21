@@ -2418,10 +2418,10 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
-- Place: Norway
-- Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+#### Name: [Aditya] (https://github.com/codaked-Adi)
+- Place: Delhi
+- Bio: Computer Science Engineer
+- GitHub: [codacked-Adi] (https://github.com/codaked-Adi)
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
