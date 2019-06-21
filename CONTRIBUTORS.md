@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Debtanu Ganguly](https://github.com/mylifebuglife)
+- Place: Chandigarh, India
+- Bio: Tech Enthusiast-ML Enthusiast-Web Developer-Self Learner-Blogger
+- Github: [Debtanu Ganguly](https://github.com/mylifebuglife)
