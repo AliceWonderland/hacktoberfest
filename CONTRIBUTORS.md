@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [AMRIT SRIVASTAVA](https://github.com/amritsrivastava)
+- Place: Jaipur, Rajasthan, India
+- Bio: Web Developer
+- GitHub: [Amrit Srivastava](https://github.com/amritsrivastava)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
