@@ -83,6 +83,11 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+#### Name: [Mahesh Tudu](https://github.com/mahis929)
+- Place: Durgapur, West Bengal, India
+- Bio: Student
+- GitHub: [Mahesh Tudu](https://github.com/mahis929)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
