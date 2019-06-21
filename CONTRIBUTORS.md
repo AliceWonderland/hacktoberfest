@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Crashn](https://github.com/Crashn/)
+- Place: Moscow, Russia
+- Bio: Software developer
+- GitHub: [Crashn](https://github.com/Crashn/)
