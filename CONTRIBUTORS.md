@@ -13,6 +13,12 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Mayank Devnani](https://github.com/may12day)
+- Place: Jaipur, India
+- Bio: Student
+- GitHub: [Mayank Devnani](https://github.com/may12day)
+
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
