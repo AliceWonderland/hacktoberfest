@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Divyansh Sharma](https://github.com/gappu98)
+- Place: Rajasthan, India
+- Bio: Web developer
+- Github: [Divyansh Sharma](https://github.com/gappu98)
