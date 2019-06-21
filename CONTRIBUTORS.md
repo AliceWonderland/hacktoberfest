@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gaurav Gogia](https://github.com/DesmondANIMUS/)
+- Place: Gandhinagar, Gujarat, India
+- Bio: MSc Digital Forensics Student
+- Github: [Gaurav Gogia](https://github.com/DesmondANIMUS/)
