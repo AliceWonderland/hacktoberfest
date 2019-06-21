@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lorna Armstrong](https://github.com/lornaarmstrong)
+- Place: Scotland
+- Bio: Comp Sci Student
+- GitHub: [lornaarmstrong] (https://github.com/lornaarmstrong)
