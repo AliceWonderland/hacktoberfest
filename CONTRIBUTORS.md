@@ -2298,6 +2298,11 @@ Noida
 - Bio: I am a Machine Learning enthusiast.
 - GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
 
+#### Name: [Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
+- Place: Karnataka, India
+- Bio: Android developer
+- GitHub: [Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
+
 #### Name: [Valera Kushnir](https://github.com/kashura)
 - Place: Tampa, FL, USA
 - Bio: Scrum Master and passionate technologist.
