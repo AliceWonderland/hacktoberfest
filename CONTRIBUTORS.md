@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Niall Eccles](https://github.com/NiallEccles/)
+- Place: Dublin, Ireland
+- Bio: Developer, lover of Angular
+- Github: [Niall Eccles](https://github.com/NiallEccles/)
