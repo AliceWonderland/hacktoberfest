@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [EduLara97](https://github.com/EduLara97)
+- Place: Lima, Perú
+- Bio: Android Mobile Developer
+- Github: [EduLara97](https://github.com/EduLara97)
