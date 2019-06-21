@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Umang
+ - Place: Vadodara, India
+ - Bio: CSE student ,VIT vellore India. 
+ - GitHub: [Umang](https://github.com/umangraval)
