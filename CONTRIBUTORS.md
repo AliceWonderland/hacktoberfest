@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Berserker220](https://github.com/Berserker220)
+- Place: Gainesville, Florida, USA
+- Bio: College student majoring in Comp Eng w/ a couple years of programming experience under my belt
+- GitHub: [Berserker220](https://github.com/Berserker220)
