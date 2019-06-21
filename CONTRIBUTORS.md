@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ishaan Bhatia](https://github.com/ishaan-0098)
+- Place: delhi,india
+- Bio: Web developer, android,python and c
+- Github:[Ishaan Bhatia](https://github.com/ishaan-0098)
