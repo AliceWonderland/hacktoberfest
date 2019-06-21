@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Justin "Juice"](https://github.com/naroken)
+- Place: Los Angelese, CA, USA
+- Bio: Dev Manager
+- GitHub: [Justin "Juice"](https://github.com/naroken)
