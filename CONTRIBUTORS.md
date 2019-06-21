@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [0xnaka](https://github.com/theREALaltoid/)
+- Place: California, USA.
+- Bio: All around nerd. 3dprinting, crypto, code, caffeine.
+- GitHub: [0xnaka](https://github.com/theREALaltoid/)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
