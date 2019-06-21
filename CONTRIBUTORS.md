@@ -484,6 +484,11 @@ to explore life. Also, Python and Django Developer
 - Bio: JavaScript Tinkerer, Lover of Vim
 - Github [Charlie Stanton](https://github.com/shtanton)
 
+
+#### Name: [manpreet](https://github.com/manpreetb)
+- Place: India
+- Bio: JavaScript Tinkerer, Lover of Vim
+
 #### Name: [Chashmeet Singh](https://github.com/chashmeetsingh)
 - Place: New Delhi, India
 - Bio: CS Student
