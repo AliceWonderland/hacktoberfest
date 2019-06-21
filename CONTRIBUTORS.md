@@ -1443,6 +1443,11 @@ Noida
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
+ 
+ #### Name: [Manorit Chawdhry](https://github.com/manorit2001)
+ - Place: New Delhi,IND
+ - Bio: In College(CSE) USICT
+ - GitHub: [manorit2001](https://github.com/manorit2001)
 
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
