@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Sanjana](https://github.com/Sanjanaekanayake)
+- Place: Galle, Sri lanka
+- Bio: Student
+- GitHub: [Sanjanaekanayake](https://github.com/Sanjanaekanayake)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
