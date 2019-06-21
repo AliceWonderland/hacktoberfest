@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lancelot](https://github.com/lancelot1337)
+- Place: New Delhi, India
+- Bio: Node.js, Ruby on Rails, Python, C++
+- Github: [Lancelot](https://github.com/lancelot1337)
