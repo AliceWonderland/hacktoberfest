@@ -1,3 +1,8 @@
+#### Name: Elizabeth
+ - Place: Cucuta, Colombia
+ - Bio: Computer Science's Student
+ - GitHub: [elizarv](https://github.com/elizarv)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
