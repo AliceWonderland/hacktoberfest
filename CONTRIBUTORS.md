@@ -53,10 +53,10 @@
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
-#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
- - Place: New Delhi, India
- - Bio: Software developer, studying B.Tech CSE
- - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+#### Name: [Daniel Tan](https://github.com/imbbmcdt)
+ - Place: Kaohsiung, Taiwan
+ - Bio: NUKIM Student, Network Manager
+ - GitHub: [Daniel Tan](https://github.com/imbbmcdt)
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
