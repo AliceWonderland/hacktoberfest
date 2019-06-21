@@ -2097,6 +2097,11 @@ Noida
 - Bio: taco enthusiast
 - Github: [SierraOG](https://github.com/SierraOG/)
 
+#### Name: [Siro Canabarro](https://github.com/sirocanabarro)
+- Place: Cascavel, PR, Brazil
+- Bio: Tecnology Enthusiast
+- Github: [Sirocanabarro](https://github.com/sirocanabarro/)
+
 #### Name: [Simon Volpert](https://github.com/vol-pi)
 - Place: Ulm, Germany
 - Bio: DevOps, Hiking, Photography
