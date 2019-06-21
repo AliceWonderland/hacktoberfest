@@ -1,3 +1,8 @@
+#### Name: cyuket
+ - Place: calabar, Nigeria
+ - Bio: Software engineer. third year in computer science.
+ - GitHub: [cyuket](https://github.com/cyuket)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
