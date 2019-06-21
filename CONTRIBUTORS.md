@@ -1997,6 +1997,11 @@ Noida
 - Bio: Computer Science Engineering Student & Tech Enthusiast
 - GitHub: [Saideep Dicholkar](https://github.com/saideepd)
 
+#### Name: Sarthak Sharma
+ - Place: Navi Mumbai, India
+ - Bio: Student. SIES Graduate School of Technology
+ - GitHub: [Sarthak](https://github.com/sarthakssrna)
+
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
