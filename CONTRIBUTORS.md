@@ -1,3 +1,7 @@
+#### Name: James
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from Westurnt.
+ - GitHub: [James](https://github.com/jfeathe)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
