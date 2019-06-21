@@ -1,3 +1,8 @@
+#### Name: KoGo Coding
+ - Place: Thailand
+ - Bio: Student.
+ - GitHub: [KoGoCoding](https://github.com/KoGoCoding)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
