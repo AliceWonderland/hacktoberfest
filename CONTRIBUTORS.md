@@ -2137,6 +2137,11 @@ Noida
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
+#### Name: [Stefan](https://github.com/stefanhts)
+- Place: College Park, Maryland, USA
+- Bio: Physics Major
+- Github: [Stefan H](https://github.com/stefanhts)
+
 #### Name: [Stephen Abrahim](https://github.com/lepah)
 - Place: Huntington Beach, CA
 - Bio: Games and things!
