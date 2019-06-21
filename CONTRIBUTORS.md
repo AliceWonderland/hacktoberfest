@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name [Anshita Baid](https://github.com/anshitabaid)
+- Place: Manipal, India
+- Bio: Web Developer
+- Github: [anshitabaid](https://github.com/anshitabaid)
