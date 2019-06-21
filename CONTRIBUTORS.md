@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Jain](https://github.com/yashjain24)
+- Place: INDIA
+- Bio: Junior at IIT Roorkee
+- GitHub: [yashjain24](https://github.com/yashjain24)
