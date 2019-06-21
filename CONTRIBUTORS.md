@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [James Shore] (https://github.com/Jaammeesss)
+- Place: Norwich, England
+- Bio: Front-end UI Developer
+- Github [James Shore] (https://github.com/Jaammeesss)
