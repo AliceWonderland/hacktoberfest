@@ -2388,6 +2388,12 @@ Noida
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
+
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
 #### Name: [Zoe Kafkes](https://github.com/zkafkes)
 - Place: Atlanta, Georgia USA
 - Bio: caffeinated and curious
@@ -2427,3 +2433,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hasnain Yousuf](https://github.com/codvlpr)
+- Place: Karachi, Sindh, Pakistan
+- Bio: Software Engineer, Working at Diya Interactive AB
+- GitHub: [codvlpr](https://github.com/codvlpr)
