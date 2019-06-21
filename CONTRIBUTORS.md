@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kristen Marie](https://github.com/kristenmarie)
+- Place: Seattle, USA
+- Bio: Software Developer, lover of videogames
+- Github: [Kristen Marie](https://github.com/kristenmarie)
