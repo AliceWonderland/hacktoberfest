@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suvojit Manna](https://github.com/shin-migami)
+- Place: India
+- Bio: Data Scientist and Python
+- Github: [Suvojit Manna](https://github.com/shin-migami)
