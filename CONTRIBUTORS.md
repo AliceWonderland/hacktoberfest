@@ -1,3 +1,4 @@
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2427,3 +2428,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Scotland
+- Bio: dev
+- Github: [singloon](https://github.com/singloon)
