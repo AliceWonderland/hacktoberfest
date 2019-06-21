@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Weldon](https://github.com/weldon0405)
+- Place: Arizona, USA
+- Bio: Software Engineer Student / Project Manager
+- GitHub: [weldon0405](https://github.com/weldon0405)
