@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Max Teh
+ - Place: Kuala Lumpur, Malaysia
+ - Bio: Associate. Venture Capital.
+ - GitHub: [FieryNyan](https://github.com/FieryNyan)
