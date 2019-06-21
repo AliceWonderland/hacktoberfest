@@ -1,3 +1,7 @@
+#### Name: [Smit Jasani](https://github.com/Smit2010)
+- Place: Ahemdabad, Gujarat, India
+- Bio: A B.Tech second year CS student
+- GitHub: [Smit2010](https://github.com/Smit2010)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
