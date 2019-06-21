@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Herman (https://0dayherman.ooo)
+ - Place: Medan, Indonesia
+ - Bio: One mistake can make your crazy!
+ - GitHub: [0dayherman](https://github.com/0dayherman)
