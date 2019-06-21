@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Medha Sawhney](https://github.com/Medhe12)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Learner
+- GitHub: [Medhe12](https://github.com/Medhe12)
