@@ -524,6 +524,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love FOXES!!! :fox:
 - GitHub: [kitsune7](https://github.com/kitsune7)
 
+#### Name: [Christopher Zentgraf](https://github.com/TheZenti)
+- Place: Germany
+- Bio: CS Student
+- GitHub: [TheZenti](https://github.com/TheZenti)
+
 #### Name: [Civitas](https://github.com/civitas07)
 
 #### Name: [Civitas](https://github.com/civitas07)
