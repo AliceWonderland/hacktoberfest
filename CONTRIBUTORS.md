@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Suraj Sharma](https://github.com/Iamsurajsharma)
+- Place: New Delhi, India
+- Bio: Developer who never forgets semicolon
+- GitHub: [Suraj Sharma](https://github.com/Iamsurajsharma)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
