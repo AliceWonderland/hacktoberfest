@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [YASORA PERERA](https://github.com/yasora099)
+- Place: Srilanka
+- Bio: second year Information Technology Student, in love with IT <3
+- GitHub: [yasora099](https://github.com/yasora099)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
