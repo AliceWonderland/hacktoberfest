@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)
+-Place:Moratuwa,SriLanka
+-Bio:Undergratuate at University Of Moratuwa,SriLanka
+-GitHub: [ChathurangiJayawardana](https://github.com/ChathurangiJayawardana)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!

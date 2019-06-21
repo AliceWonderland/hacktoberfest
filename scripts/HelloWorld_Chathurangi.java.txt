@@ -1,0 +1,11 @@
+/*
+  LANGUAGE: JAVA
+  AUTHOR: Chathurangi Jayawardana
+  GITHUB: https://github.com/ChathurangiJayawardana
+*/
+
+public class HelloWorld_Chathurangi {
+    public static void main(String[] args) {
+        System.out.println("Hello, world");
+    }
+}
