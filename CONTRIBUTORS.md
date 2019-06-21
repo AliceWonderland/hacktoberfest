@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Berni Wittmann](https://github.com/BerniWittmann)
+- Place: Germany
+- Bio: Software-Engineering Student and Developer
+- GitHub: [BerniWittmann](https://github.com/BerniWittmann)
