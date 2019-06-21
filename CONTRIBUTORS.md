@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [VAGISHA](https://github.com/vagishagupta23)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [vagishagupta23](https://github.com/vagishagupta23)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
