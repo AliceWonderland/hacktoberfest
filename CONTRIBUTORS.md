@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dhruv-Verma](https://github.com/Dhruv-Verma)
+- Place : Delhi, India
+- Bio: Data Scinece Enthusiast
+- Github: [Dhruv-Verma](https://github.com/Dhruv-Verma)
