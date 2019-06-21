@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Khen Daniel](https://khendaniel.com)
+- Place: Manila, Philippines
+- Bio: Software Engineer, Photographer, Hacker
+- Github: [Khen Daniel](https://github.com/thekhenzie)
