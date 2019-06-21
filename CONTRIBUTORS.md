@@ -1,3 +1,9 @@
+#### Name: [Swetank Modi](https://github.com/swetankmodi)
+- Place: Kolkata, India
+- Bio: Web developer PHP and Python
+- Github: [swetankmodi](https://github.com/swetankmodi)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
