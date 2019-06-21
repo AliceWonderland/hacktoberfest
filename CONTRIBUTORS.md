@@ -1,3 +1,8 @@
+#### Name: [DEEPAK SINGH BHAINSORA](https://github.com/deepaksbmj)
+- Place: Chandigarh,INDIA
+- Bio: Third year Computer Science Student, in love with nature <3
+- GitHub: [deepaksbmj](https://github.com/deepaksbmj)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
