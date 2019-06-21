@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dustin M](https://github.com/itepifanio)
+- Place: Oahu, Hawaii
+- Bio: Mechanical Engineering
+- Github: [Snowyman](https://github.com/SnowyMan)
