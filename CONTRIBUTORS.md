@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deddy](https://github.com/Busterz)
+- Place: Singapore, Singapore
+- Bio: Developer wannabe
+- GitHub: [busterz](https://github.com/Busterz)
