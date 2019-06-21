@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [Ansul Kumar](https://github.com/ansul357)
+- Place: Jalandhar, Punjab, India
+- Bio:Greatest ancestor of all time recognised as daddu
+- GitHub: [Ansul Kumar](https://github.com/ansul357)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
