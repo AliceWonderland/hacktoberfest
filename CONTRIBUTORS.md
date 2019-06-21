@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jude Garay](https://github.com/jjgaray)
+- Place: Philippines
+- Bio: Web developer PHP and Python
+- Github: [Jude Garay](https://github.com/jjgaray)
