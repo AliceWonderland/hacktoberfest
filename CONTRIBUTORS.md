@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akash Banchhor](https://github.com/ashu369)
+- Place: India
+- Bio: First Year M.Tech Student at SVNIT, Surat
+- Github: [Akash Banchhor](https://github.com/ashu369)
