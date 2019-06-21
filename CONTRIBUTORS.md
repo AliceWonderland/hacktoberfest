@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [RAYMONELIKA](https://github.com/AliceWonderland)
+- Place: New York City, NY, USA
+- Bio: I love DOGS! :dog:
+- GitHub: [Alice Chuang](https://github.com/AliceWonderland)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
