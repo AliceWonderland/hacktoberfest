@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [kronko1808](https://github.com/kronko1808)
+- Place: Vietnam
+- Bio: A student loves coding
+- Github: [kronko1808](https://github.com/kronko1808)
