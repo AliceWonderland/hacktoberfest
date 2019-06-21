@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jose Chavez](https://github.com/JosChavz)
+- Place: Southern California
+- Bio: Web Development Student
+- Github: [JosChavz](https://github.com/JosChavz)
