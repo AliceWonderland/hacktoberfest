@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sukma ragil](https://github.com/sukmaragil)
+- Place: Jakarta, Indonesia
+- Bio: Quality Assurance
+- Github: [sukmaragil](https://github.com/sukmaragil)
