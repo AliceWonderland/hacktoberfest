@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mark Myers](https://github.com/markalope)
+- Place: Portland, OR
+- Bio: Front-End Developer, Scrum Master
+- Github: [Mark Myers](https://github.com/markalope)
