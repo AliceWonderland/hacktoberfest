@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chris Baer](https://github.com/chrisb86)
+- Place: Germany
+- Bio: Unionist. Utopian. Nerd. Coffee lover. Photographer. Zombie movies. Star Wars. FCSP.
+- GitHub: [chrisb86](https://github.com/chrisb86)
