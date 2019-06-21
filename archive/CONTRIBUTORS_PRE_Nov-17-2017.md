@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -32,6 +32,11 @@
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
+
+#### Name: [AISHWARYA SARNA](https://github.com/aishwaryasarna)
+- Place: India
+- Bio: third year IT student, and a singer sometimes :p
+- GitHub: [aishwaryasarna](https://github.com/aishwaryasarna)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
