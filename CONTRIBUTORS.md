@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mohamed Sayyaf](https://github.com/Sayyaf123)
+- Place: Thrissur, Kerala, India
+- Bio: Tinkerer, Learner, Web Developer
+- GitHub: [Sayyaf123](https://github.com/Sayyaf123)
