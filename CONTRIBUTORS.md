@@ -1,3 +1,8 @@
+#### Name: [Coy Schroder](https://github.com/coyschroder)
+- Place: Columbia, Missouri, USA
+- Bio: Software Engineer in the Healthcare industry. University of Missouri graduate.
+- GitHub: [coyschroder](https://github.com/coyschroder)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
