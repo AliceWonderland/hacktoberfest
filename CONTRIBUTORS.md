@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kaustubh](https://github.com/kayd33)
+- Place: India
+- Bio: Still a beginner
+- Github: [Kayd33](https://github.com/kayd33)
