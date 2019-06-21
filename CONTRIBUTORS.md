@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [BHAVUK KALRA](https://github.com/bhavukkalra)
+- Place: India
+- Bio: Student
+- Github: [BHAVUK KALRA](https://github.com/bhavukkalra)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
