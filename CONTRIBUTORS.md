@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SHREY GUPTA](https://github.com/with-shrey)
+- Place: Guna, Madhya Pradesh, India
+- Bio: Full Stack Developer
+- GitHub: [Shrey Gupta](https://github.com/with-shrey)
