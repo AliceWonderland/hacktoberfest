@@ -2403,6 +2403,11 @@ Noida
 - Bio: CompSci from ULaval reporting in
 - GitHub: [aiglebleu](https://github.com/aiglebleu)
 
+#### Name: [Doru](https://github.com/dkesriyeli)
+- Place: Vancouver, BC, Canada
+- Bio: CS student 
+- GitHub: [dkesriyeli] (https://github.com/dkesriyeli)
+
 #### Name: [gipsi](gipsi.github.io)
 - Place: South-East, UK
 - Bio: Student FreeCodeCamp interested in PWA's
