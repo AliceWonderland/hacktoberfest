@@ -1,3 +1,9 @@
+#### Name: Nicholas
+ - Place: Colorado, United States
+ - Bio: Computer Secuirty Student
+ - GitHub:[MajorDerp4](https://github.com/MajorDerp4) 
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
