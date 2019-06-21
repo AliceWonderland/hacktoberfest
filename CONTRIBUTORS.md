@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Zinkenjupp
+ - Place: Zinken, Austria
+ - Bio: Hobby Programmer, Idiot
+ - GitHub: [Zinkenjupp](https://github.com/zinkenjupp)
