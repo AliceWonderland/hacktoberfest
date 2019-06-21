@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Vlad Dinca](https://github.com/vlad4him)
+- Place: Bucharest, Romania
+- Bio: I am just a 16 year old that is trying to learn to code so that i can create new cool stuff with the tools at my disposal.
+- Github: [Vlad Dinca](https://github.com/vlad4him)
