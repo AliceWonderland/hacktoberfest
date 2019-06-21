@@ -1,3 +1,8 @@
+#### Name: George
+- Place: Austin, TX
+-Bio: Organizer of Austin Programmer Community. Budding iOS Developer.
+-GitHub: [JorgeAntonio512](https://github.com/JorgeAntonio512)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
