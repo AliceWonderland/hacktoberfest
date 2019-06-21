@@ -1,0 +1,6 @@
+//HelloWorld In c++
+
+#include<iostream.h>
+void main(){
+cout<<"Hello World!";
+}
