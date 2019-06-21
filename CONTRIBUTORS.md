@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Reda
+ - Place: Oran, Algeria
+ - Bio: I.T student in Oran1 University
+ - GitHub: [Redamarx] (https://github.com/Redamarx)
