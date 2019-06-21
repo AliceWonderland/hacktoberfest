@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohan](https://github.com/codemasters23)
+- Place: New Delhi, India
+- Bio: Web developer, Blockchain Developer
+- GitHub: [codemasters23](https://github.com/codemasters23)
