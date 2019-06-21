@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shane](https://github.com/Ti84)
+- Place: Chandler, AZ
+- Bio: Front End Developer
+- Github: [Ti84](https://github.com/Ti84)
