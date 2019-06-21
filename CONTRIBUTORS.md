@@ -1997,6 +1997,11 @@ Noida
 - Bio: Computer Science Engineering Student & Tech Enthusiast
 - GitHub: [Saideep Dicholkar](https://github.com/saideepd)
 
+#### Name: [SEBASTIEN MANDABA](https://github.com/sebastien-M)
+- Place: Lyon, France
+- Bio: Student in web developpement
+- GitHub: [Sebastien M](https://github.com/saideepd)
+
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
