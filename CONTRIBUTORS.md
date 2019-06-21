@@ -2037,6 +2037,11 @@ Noida
 - Bio: ECE Undergraduate
 - GitHub: [Sarthak Bhagat](https://github.com/sarthak268)
 
+#### Name: [Sean Cox](https://github.com/seanc12)
+- Place: Portland, OR, USA
+- Bio: Business Management
+- GitHub: [Sean Cox](https://seanc12.github.io)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
