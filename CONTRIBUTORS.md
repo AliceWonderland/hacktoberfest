@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Piyush Pant](https://github.com/PiyushP17)
+- Place: Dehradun, Uttarakhand, India
+- Bio: Student, Big Data enthusiast
+- GitHub: [PiyushP17](https://github.com/PiyushP17)
