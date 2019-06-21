@@ -23,6 +23,13 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+
+#### Name: [Ankit Sehgal](https://github.com/coderdecoder01
+- Place: Melbourne, Australia
+- Bio: Pursuing Masters of Information Technology
+- Github: [coderdecoder01](https://github.com/coderdecoder01)
+
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
