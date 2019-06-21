@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Baid](https://github.com/shubhambaid)
+- Place: Bengaluru , India
+- Bio: Full time computer science student and AI enthusiast
+- GitHub: [shubhambaid](https://github.com/shubhambaid)
