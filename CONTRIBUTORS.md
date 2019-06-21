@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nicole Moore] (https://github.com/Angelfirenze01)
+- Place: Detroit, Michigan, USA
+- Bio: Aspiring forensic pathologist; obsessed with Ruby and Java.  Loves punk music and emo.
+- Github: [Angelfirenze01] (https://github.com/Angelfirenze01)
