@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Shashank Mohabia](https://github.com/shashank)
+- Place: Kolkata, India
+- Bio: Student
+- Github: [Shashank Mohabia](https://github.com/shashank)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
