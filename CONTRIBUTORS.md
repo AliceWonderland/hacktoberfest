@@ -1940,6 +1940,11 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+#### Name: [Ridho Febriansa](https://github.com/ridhof)
+- Place: Surabaya, Indonesia
+- Bio: Informatics Student, Software Developer, interested in Data Science and AI. Swimmer!
+- GitHub: [Ridho Febriansa](https://github.com/ridhof)
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
