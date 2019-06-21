@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manank Patni](https://github.com/Man-Jain)
+- Place: Rajasthan, India
+- Bio: Python developer and Open Source Enthusiast
+- Github: [Manank Patni](https://github.com/Man-Jain)
