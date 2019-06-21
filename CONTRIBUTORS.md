@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -2413,10 +2413,10 @@ Noida
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
-#### Name: [tbdees](https://github.com/tbdees/)
-- Place: Laguna Beach, CA
-- Bio: financial software consultant
-- Github: [tbdees](https://github.com/tbdees/)
+#### Name: Jerome Rumbaoa
+- Place: Philippines
+- Bio: game changer
+- Github: [jerumbaoa](https://github.com/jerumboa)
 
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
