@@ -748,6 +748,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Multiple corgi owner and a Senior Software Developer
 - Github: [Eric Nord](https://github.com/thateric)
 
+#### Name: [Eric Shih](https://github.com/eric12345566/)
+- Place: Taichung, Taiwan
+- Bio: University Student, Front-end eEgineer.
+- GitHub: [Eric Shih](https://github.com/eric12345566/)
+
 #### Name: [Eric Wolfe](https://github.com/erwolfe)
 - Place: Edwardsville, IL, USA
 - Bio: Programmer, Audiophile, Gamer

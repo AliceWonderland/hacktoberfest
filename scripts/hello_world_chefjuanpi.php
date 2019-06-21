@@ -1,4 +1,4 @@
-<?hh
+<?php
   // LANGUAGE: Hack
   // ENV: HHMV
   // AUTHOR: Juan Pablo Aguilar-Lliguin
