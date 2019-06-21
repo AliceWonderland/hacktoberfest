@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ruyi Li](https://github.com/RuyiLi)
+- Place: Canada
+- Bio: High School Student
+- Github: [Ruyi Li](https://github.com/RuyiLi)
