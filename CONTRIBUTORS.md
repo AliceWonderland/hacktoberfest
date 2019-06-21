@@ -2,7 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+#### Name: Ecem Kusculu
+ - Place: Istanbul, Turkey
+ - Bio: Highschool student
+ - GitHub: [ecemkusculu](https://github.com/ecemkusculu)
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
