@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jin You](https://github.com/wyou3)
+- Place: Chicago, IL
+- Bio: Android Developer
+- Github: [Jin You](https://github.com/wyou3)
