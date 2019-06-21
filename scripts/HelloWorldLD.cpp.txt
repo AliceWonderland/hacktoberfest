@@ -1,0 +1,6 @@
+// LANGUAGE: C++
+// ENV: VIsual Studio Code
+// AUTHOR: Dmitry Larin
+// GITHUB: https://github.com/nonme
+
+cout << "Hello, world!";
