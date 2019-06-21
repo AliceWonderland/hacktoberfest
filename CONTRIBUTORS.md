@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [adamfdl](https://github.com/adamfdl)
+- Place: Jakarta, Indonesia
+- Bio: Opensource newbie
+- Github [adamfdl](https://github.com/adamfdl)
