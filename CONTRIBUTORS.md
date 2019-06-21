@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ziane Maamar](https://github.com/DRXDesign)
+- Place: Tiapza, Algeria
+- Bio: Hello my name is Ziane Maamar and I am a 26 year old self-taught Web developer and Graphics Designer.
+- Github: [Ziane Maamar](https://github.com/DRXDesign)
+
