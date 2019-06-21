@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hugo Gomes](https://github.com/Hugand)
+- Place: Leiria, Portugal
+- Bio: IT student and self-taught developer.
+- GitHub: [Hugand](https://github.com/Hugand)
