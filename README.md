@@ -130,5 +130,7 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
+Check your progress on Hacktoberfest official site (https://hacktoberfest.digitalocean.com/stats/)
+
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
