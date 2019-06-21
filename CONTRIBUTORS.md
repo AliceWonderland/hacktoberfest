@@ -68,6 +68,11 @@
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Adison Heathcott](https://github.com/Yuri0011)
+- Place: Tennessee, US
+- Bio: First Year Computer Engineering Student
+- GitHub: [Adison Heathcott](https://github.com/Yuri0011)
+
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
