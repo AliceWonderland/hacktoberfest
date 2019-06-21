@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[siddhant wadhwa](https://github.com/sidd2010
+-Place: Delhi,India
+-Bio: Student at JIIT
+-Github:[siddhant wadhwa](https://github.com/sidd2010
