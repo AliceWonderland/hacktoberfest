@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Danilo Santos](https://github.com/DanStos)
+- Place: São Paulo, Brazil
+- Bio: Chatbot developer, interested  in front-end development
+- Github: [DanStos](https://github.com/DanStos)
