@@ -1799,6 +1799,11 @@ Noida
 - Bio: Student
 - Github: [paulapaysan](https://github.com/paulapaysan)
 
+#### Name: [Phattarajul Chantaramontree](https://github.com/cerzzlive)
+- Place: Khon Kaen, Thailand
+- Bio: UX Designer
+- Github: [cerzzlive](https://github.com/cerzzlive)
+
 #### Name: [Paulo Henrique Scherer](https://github.com/phscherer)
 - Place: Brazil
 - Bio: Student and newbie software developer
