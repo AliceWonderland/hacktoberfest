@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [ACERBIS GIANLUCA](https://github.com/acerbisgianluca)
+- Place: Italy
+- Bio: 5th year Computer Science Student and Esport enthusiast
+- GitHub: [Acerbis Gianluca](https://github.com/acerbisgianluca)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
