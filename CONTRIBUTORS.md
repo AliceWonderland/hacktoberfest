@@ -1920,6 +1920,11 @@ Noida
 - Bio: Software Developer / Student
 - GitHub: [Didier Valdez](https://github.com/xDidier901)
 
+### Name: [Raspal Seni](https://github.com/raspals)
+- Place: Mumbai, India
+- Bio: Freelance Writer, WordPress Developer, Linux Geek
+- Github: [Raspal Seni](https://github.com/raspals)
+
 #### Name: [Ratchapol Tengrumpong](https://github.com/lullabies)
 - Place: Bangkok, Thailand
 - Bio: Programmer Analyst
