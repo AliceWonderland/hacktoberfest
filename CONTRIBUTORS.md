@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Joel John
+ - Place: Kerala, India
+ - Bio: First Year Engineering Student.
+ - GitHub: [joeljo2104](https://github.com/joeljo2104)
