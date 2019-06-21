@@ -1,3 +1,8 @@
+#### Name: [AGUSTIN VARGAS](https://github.com/chikiwawa)
+- Place: Fort Lauderdale, Florida
+- Bio: Project Manager
+- GitHub: [Agustin Vargas](https://github.com/chikiwawa)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
