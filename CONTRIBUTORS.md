@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Magno Macedo de Oliveira](https://github.com/magnoDev)
+- Place: Serra, Espírito Santo, Brazil
+- Bio: Experience with Pentaho Suits.
+- Github: [Magno Macedo de Oliveira](https://github.com/magnoDev)
