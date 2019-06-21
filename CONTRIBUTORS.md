@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leandro Bugnon](https://github.com/lbugnon)
+- Place: Argentina
+- Bio: Machine learning and signal processing research
+- Github: [Leandro Bugnon](https://github.com/lbugnon)
