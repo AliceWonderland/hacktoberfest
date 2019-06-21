@@ -2426,4 +2426,8 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matt Marzi](https://github.com/masecla22)
+- Place: Romania
+- Bio: Developer in everything. + 🐶
+- Github: [masecla22](https://github.com/masecla22)
