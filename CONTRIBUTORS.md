@@ -581,6 +581,11 @@ to explore life. Also, Python and Django Developer
 - Bio: ECE Undergraduate at IIIT-Delhi
 - GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
 
+#### Name: [arun pratap](https://github.com/Ryane076)
+- Place: Kanpur, INDIA
+- Bio: frontend developer
+- Github: [arun pratap](https://github.com/Ryane076)
+
 #### Name: [Dale Noe](https://github.com/dalenoe)
 - Place: Fairbury, Illinois, US
 - Bio: System administrator by day, devops by hobby.
