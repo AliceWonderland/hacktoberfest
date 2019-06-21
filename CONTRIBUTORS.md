@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Akshit](https://github.com/akshit777)
+- Place: India
+- Bio: Web developer, C++,C#, AI
+- Github: [Akshit](https://github.com/akshit777)
