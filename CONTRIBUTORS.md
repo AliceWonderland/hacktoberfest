@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Thaynnara Gonçalves](https://github.com/thaynnara007)
+- Place: campina Grande, PB, Brazil
+- Bio: graduating in Computer Science at UFCG
+- Github: [Thaynnara](https://github.com/thaynnara007)
