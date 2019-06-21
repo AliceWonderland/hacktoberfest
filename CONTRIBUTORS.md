@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anupam Das] (https://github.com/anupamdas104)
+- Place: Queens, New York, USA
+- Bio: Computer sciencce student
+- Github: [anupamdas104] (https://github.com/anupamdas104)
