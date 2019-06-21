@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Swetanjal Murati Dutta](https://github.com/swetanjal)
+- Place: Kolkata, India
+- Bio: Student, IIITH
+- Github: [swetanjal](https://github.com/swetanjal)
