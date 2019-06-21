@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Ana Letícia](https://github.com/anacamargos)
+ - Place: Belo Horizonte, BH, Brazil
+ - Bio: Student
+ - GitHub: [Ana Letícia](https://github.com/anacamargos)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
