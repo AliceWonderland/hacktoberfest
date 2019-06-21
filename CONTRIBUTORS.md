@@ -1839,6 +1839,11 @@ Noida
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
 
+#### Name: [Pijus Rancevas](https://github.com/pijusrancevas)
+- Place: Denmark
+- Bio: Software Engineer + visual arts
+- GitHub: [Pijus](https://github.com/pijusrancevas)
+
 #### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
 - Place: Hyderabad, Telangana, India
 - Bio: Trying to fit in coding society.
