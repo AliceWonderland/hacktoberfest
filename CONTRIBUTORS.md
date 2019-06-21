@@ -2210,6 +2210,11 @@ Noida
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
 
+#### Name: [Christian Huffman](https://github.com/TheNoodleMoose)
+- Place: Florida, United States
+- Bio: Student Studying Web Development
+- GitHub: [TheNoodleMoose](https://github.com/TheNoodleMoose)
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
