@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gerald Doh Ting Feng](https://github.com/geralddoh)
+- Place: Singapore
+- Bio: IT student from Temasek Polytechnic
+- Github: [Gerald Doh](https://github.com/geralddoh)
