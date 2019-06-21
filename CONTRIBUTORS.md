@@ -1,3 +1,8 @@
+#### Name: [Paul Seghers](https://github.com/paulseghers)
+- Place: København
+- Bio: Computer Science Student
+- GitHub: [paulseghers](https://github.com/paulseghers)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
