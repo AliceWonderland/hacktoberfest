@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Philip Wrinkle](https://github.com/officialdarksheao)
+- Place: Oak Ridge, Tenessee, USA
+- Bio: PHP stack professional software developer, .NET enthutiast, old school hacker and general mad scientist
+- Github: [OfficialDarksheao] (https://github.com/officialdarksheao)
