@@ -1743,6 +1743,10 @@ Noida
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
+### Name: [Onnys Anild Lopes Menete]
+- Place: Maputo, Mozambique
+- Bio: Student
+- GitHub: [Ocean](https://github.com/Onnys)
 
 #### Name: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
 - Place: Kyiv, Ukraine
