@@ -63,6 +63,11 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+### Name: [Ananya Gupta](https://github.com/AnanyaG-6)
+- Place: India
+- Bio: Developer, 2nd yr CSE student BTech.
+- GitHub: [Ananya Gupta](https://github.com/AnanyaG-6)
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
