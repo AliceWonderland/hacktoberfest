@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mahima](https://github.com/MAHIMA01)
+- Place: Delhi, India
+- Bio: Web Developer and AWS
+- Github: [MAHIMA01](https://github.com/MAHIMA01)
+
