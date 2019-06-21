@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [kabotage] (https://github.com/kabotage)
+- Place: Cubao City, Philippines
+- Bio: Slacker x College drop out
+- Github: [kabotage](https://github.com/kabotage)
