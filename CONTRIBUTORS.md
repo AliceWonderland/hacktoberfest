@@ -2418,6 +2418,11 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
+#### Name: [nikosolihin](https://github.com/nikosolihin/)
+- Place: Jakarta, Indonesia
+- Bio: Fullstack Engineer
+- Github: [nikosolihin](https://github.com/nikosolihin/)
+
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
