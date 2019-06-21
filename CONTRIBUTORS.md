@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tiago Bernardo](https://github.com/Tiago-OP)
+- Place: London, United Kingdom
+- Bio: C# Back End Developer
+- GitHub: [Tiago-OP](https://github.com/Tiago-OP)
