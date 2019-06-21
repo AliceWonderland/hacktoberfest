@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yashika Kalra](https://github.com/Yashika25)
+- Place: Delhi, India
+- Bio: Student, Android App Developer in the making
+- GitHub: [Yashika25](https://github.com/Yashika25)
