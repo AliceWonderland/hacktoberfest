@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chinmay Anand](https://github.com/ping2501)
+- Place: India
+- Bio: UX Designer
+- Github: [Chinmay Anand](https://github.com/ping2501)
