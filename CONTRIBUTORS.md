@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JRaiden16](https://github.com/jraiden16)
+- Place: Mexico City, Mexico
+- Bio: Software Developer. AI enthusiast. Gamer and newbie pianist
+- Github: [JRaiden16](https://github.com/jraiden16)
