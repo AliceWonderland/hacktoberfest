@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [muffomat](https://github.com/muffomat)
+- Place: Germany
+- Bio: Software Engineer, interested in Donuts
+- Github: [muffomat](https://github.com/muffomat)
