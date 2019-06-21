@@ -1,3 +1,9 @@
+﻿#### Name: [Ayush Agrawal](https://github.com/ayush1507)
+- Place: Raipur, Chattisgarh, INDIA
+- Bio: Android Developer, Gamer, Dog lover(I love dogs.)
+- GitHub: [ayush1507](https://github.com/ayush1507)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
