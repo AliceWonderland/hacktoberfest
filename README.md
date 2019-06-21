@@ -1,4 +1,5 @@
 # 🎃 HacktoberFest Starter Project 🎃
+<img src="https://static1.squarespace.com/static/55735b56e4b07409f8958a27/58ffa8bc893fc07baa0d1a2d/58ffa8cc5016e102f4cce55e/1493149909443/aliceinwonderland_regfront.jpg?format=200w">
 
 ** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
