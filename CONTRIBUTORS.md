@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sandeep Ranjan](https://github.com/flameAngular)
+- Place: Bhubaneswar, Odisha, India
+- Bio: Full Stack Javascript Developer.
+- GitHub: [flameAngular](https://github.com/flameAngular)
