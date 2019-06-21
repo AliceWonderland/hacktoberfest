@@ -753,6 +753,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer, Audiophile, Gamer
 - GitHub: [Eric Wolfe](https://github.com/erwolfe)
 
+#### Name: [Edewa Josh](https://github.com/edewajosh)
+- Place: Nairobi, Kenya
+- Bio: Programmer, Backend Developer, Budding datascientist
+- GitHub: [Edewa Josh](https://github.com/edewajosh)
+
 #### Name: [Eric](https://github.com/Eric-Tadeja/)
 - Place: Redmond, Washington
 - Bio: service engineer
