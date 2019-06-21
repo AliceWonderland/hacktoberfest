@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soumik Majumder](https://github.com/100mik)
+- Place: Mumbai, Maharashtra, India
+- Bio: A novice Web Developer getting into Open Source Development
+- GitHub: [100mik](https://github.com/100mik)
