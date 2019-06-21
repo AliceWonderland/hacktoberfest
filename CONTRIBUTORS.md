@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jaydeep Eraniya](https://github.com/Jaydeep1617)
+- Place: Gandhiinagar,India
+- Bio: Web developer MEAN stack
+- Github: [Jaydeep Eraniya](https://github.com/Jaydeep1617)
