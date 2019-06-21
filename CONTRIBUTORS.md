@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Johann Pablo](https://github.com/fierynyan)
+- Place: China
+- Bio: Front End Developer
+- Github: [FieryNein](https://github.com/fierynein)
