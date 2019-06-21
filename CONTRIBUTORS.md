@@ -871,6 +871,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [George Kunthara](https://github.com/gkunthara)
 
 #### Name: [Gilda Griffon](https://github.com/GildaGriffon)
+- Place: Zaragoza, Spain
+- Bio: Web developer
+- GitHub: [glaseca](https://github.com/glaseca
+
+#### Name: [Gilda Griffon](https://github.com/GildaGriffon)
 - Place: Barcelona, Spain
 - Bio: Cybersecurity Manager
 - GitHub: [GildaGriffon](https://github.com/GildaGriffon
