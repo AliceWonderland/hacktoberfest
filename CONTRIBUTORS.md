@@ -1,3 +1,7 @@
+#### Name: Shaurya Pratap Singh Tomar
+ - Place: Mandi,HP,India
+ - Bio: Student
+ - GitHub: [Shaurya](https://github.com/Shauryapst)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
