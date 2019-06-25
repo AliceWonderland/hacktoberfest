@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anant Bahuguna](https://github.com/anant-bahuguna)
+- Place: Delhi,India
+- Bio: Web Developer
+- Github: [Anant Bahuguna](https://github.com/anant-bahuguna)
