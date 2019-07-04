@@ -1,0 +1,12 @@
+// LANGUAGE: BIRL
+// ENV: BIRL
+// AUTHOR: Victor Pedrazzi
+// GITHUB: https://github.com/vspedr
+
+HORA DO SHOW
+  CE QUER VER ESSA PORRA? ("Hello, World!\n");
+  BORA CUMPADE 0;
+BIRL
+
+// Yes, this is an actual programming language based on a brazilian meme. Check it out:
+// https://birl-language.github.io/
