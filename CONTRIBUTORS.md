@@ -1,5 +1,5 @@
 #### Name: Vallenain
- - Place: Lyon, France
+ - Place: Lyon, France  
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
@@ -1986,6 +1986,11 @@ Noida
 - Place: NYC, New York, USA
 - Bio: Recent college grad attending Flatiron School coding bootcamp
 - GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
+
+#### Name: [Sadaf Tahir](https://github.com/sadaftahir)
+- Place: London, Greater London, United Kingdom
+- Bio: Computer Science Student, @Middlesex Univerisity
+- GitHub: [Sal](https://github.com/sadaftahir)
 
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
