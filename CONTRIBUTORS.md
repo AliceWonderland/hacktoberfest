@@ -1791,7 +1791,7 @@ Noida
 
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
- - Bio: Software Engineer @ plentymarkets
+ - Bio: Software Engineer @ plentymarkets
  - Github [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Paula Paysan](https://github.com/paulapaysan)
@@ -2019,7 +2019,7 @@ Noida
 
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
- - Bio: Electronics Undergrad @Jadavpur University 
+ - Bio: Electronics Undergrad @Jadavpur University 
  - Github [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Santanaraj Esguerra](https://github.com/akiyamamio16)
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Paulo Vinícius Fernandes](https://github.com/pvfls)
+- Place: Recife, Pernambuco, Brasil
+- Bio: Student on UFPE
+- Github: [pvfls](https://github.com/pvfls)
