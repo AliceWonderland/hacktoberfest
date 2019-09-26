@@ -870,6 +870,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student at Gonzaga University
 - GitHub: [George Kunthara](https://github.com/gkunthara)
 
+#### Name: [George Feros](https://github.com/Heagan)
+- Place: Johannesburg, South Africa
+- Bio: Student at WeThinkCode_
+- GitHub: [George Feros](https://github.com/Heagan)
+
 #### Name: [Gilda Griffon](https://github.com/GildaGriffon)
 - Place: Barcelona, Spain
 - Bio: Cybersecurity Manager
