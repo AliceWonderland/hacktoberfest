@@ -1649,6 +1649,11 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [Malik Al Ichsan](https://github.com/malikalichsan)
+- Place: Jakarta, DKI Jakarta, Indonesia
+- Bio: Web Developer
+- GitHub: [malikalichsan](https://github.com/malikalichsan)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
