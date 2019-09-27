@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [CJ Williams](https://github.com/CJWilliams20)
+- Place: London, UK
+- Bio: Freelance Developer and CS student at the University of St Andrews
+- GitHub: [CJ Williams](https://github.com/CJWilliams20)
