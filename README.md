@@ -140,6 +140,6 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
-# Additional references added by contributors
+_** Additional references added by contributors **_
 
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
