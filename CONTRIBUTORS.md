@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshat Gupta](https://github.com/akshatvg)
+- Place: Vellore, India
+- Bio: Frontend Web Developer 
+- Github: [Akshat Gupta](https://github.com/akshatvg)
