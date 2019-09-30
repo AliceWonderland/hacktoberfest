@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [AADHAV KANDASAMY SURESH](https://github.com/aadhavksuresh)
+- Place: Dubai
+- Bio: Studing Comp Sc.
+- GitHub: [aadhavksuresh](https://github.com/aadhavksuresh)
+
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
