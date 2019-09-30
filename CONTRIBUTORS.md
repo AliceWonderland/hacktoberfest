@@ -479,6 +479,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer at ReturnPath
 - Github: [cecyc](https://github.com/cecyc)
 
+#### Name: [Cendekia Putra](https://github.com/cendekia)
+- Place: Jakarta, DKI Jakarta, Indonesia
+- Bio: Software Engineer
+- GitHub: [cendekia](https://github.com/cecyc)
+
 #### Name: [Charlie Stanton](https://github.com/shtanton)
 - Place: Southend-On-Sea, England
 - Bio: JavaScript Tinkerer, Lover of Vim
