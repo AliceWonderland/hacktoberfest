@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Ashwin Tantri](https://github.com/ashwintantri)
+- Place: Mumbai, India
+- Bio: Individual interested in developing applications.
+- Github: [Ashwin Tantri](https://github.com/ashwintantri)
