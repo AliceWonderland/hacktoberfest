@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Rico Fitra](https://github.com/Ricftrw)
 - Place: Yogyakarta, Indonesia
 - Bio: Computer Science Student
-- GitHub: [Ricgtrw](https://github.com/Ricftrw)
+- GitHub: [Ricftrw](https://github.com/Ricftrw)
