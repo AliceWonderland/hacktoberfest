@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [BHARATH C S](https://github.com/bharath-acchu)
+- Place: INDIA
+- Bio: Student
+- GitHub: [Bharath-acchu](https://github.com/bharath-acchu)
