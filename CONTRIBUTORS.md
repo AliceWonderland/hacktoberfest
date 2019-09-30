@@ -1,3 +1,8 @@
+#### Name: Kishore
+- Place: Madurai, Tamil Nadu, India
+- Bio: Penetration tester.
+- GitHub: [kikilass](https://github.com/kikilass)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
