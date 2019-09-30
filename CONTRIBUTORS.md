@@ -1,3 +1,8 @@
+#### Name: Hbodas
+ - Place: Mumbai, India
+ - Bio: Student, IIT Bombay
+ - GitHub: [hybrid1999](https://github.com/HrushikeshBodas)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
