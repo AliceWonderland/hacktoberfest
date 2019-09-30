@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anirudh Kachroo](https://github.com/anirudh-kac)
+- Place: Bengaluru,India
+- Bio: Web developer, Competitive Coding
+- Github: [Anirudh Kachroo](https://github.com/anirudh-kac)
