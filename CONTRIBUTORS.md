@@ -1,3 +1,8 @@
+#### Name: [Shreya P](https://github.com/sanjeevbitx)
+ - Place: Bangalore, India
+ - Bio: computer science engineering Undergraduate
+ - Github [shreya2211](https://github.com/shreya2211)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
