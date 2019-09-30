@@ -27,6 +27,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+#### Name: [Shubham](https://github.com/tutushubham)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [tutushubham](https://github.com/tutushubham)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
