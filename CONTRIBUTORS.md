@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pulkit Jatav](https://github.com/paradoxpj)
+- Place: Noida, Uttar Pradesh, Kanpur
+- Bio: Musician, Reading and Coding enthusiast.
+- GitHub: [paradoxpj](https://github.com/paradoxpj)
