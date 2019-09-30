@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Garg] (https://github.com/Yash-Garg)
+- Place: Delhi, India
+- Bio: UI and UX Designer. Learning Android development
+- Github: [Yash-Garg](https://github.com/Yash-Garg)
