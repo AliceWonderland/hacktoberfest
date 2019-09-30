@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Mohammed Sohail
+ - Place: Vellore, India
+ - Bio: Android Developer. Undergraduate from VIT Vellore.
+ - GitHub: [YoursSohail](https://github.com/YoursSohail)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
