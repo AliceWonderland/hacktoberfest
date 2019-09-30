@@ -616,6 +616,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
+#### Name: [Danielli Costa](https://github.com/daniellic9)
+- Place: ES, Brazil
+- Bio: Computer Science student
+- GitHub: [daniellic9](https://github.com/daniellic9)
+
 #### Name: [Daniel Tudares](https://github.com/dan1eltudares)
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
