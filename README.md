@@ -1,6 +1,6 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-_** \_\_**Oct 24th, 2017 Update:**** THIS REPO IS TEMPORARILY **NOT MERGING NEW PRs\_\_ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **_
+_** \_\_**Oct 24th, 2017 Update:\***\* THIS REPO IS TEMPORARILY **NOT MERGING NEW PRs\_\_ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! \*\*_
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
@@ -140,6 +140,6 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
-## Additional references added by contributors
+# Additional references added by contributors
 
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
