@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [RACHIT GUPTA](https://rachitgupta.gq)
+- Place: my world, haha, side
+- Bio: boy?
+- GitHub: [Rachit](https://github.com/rachittt)
