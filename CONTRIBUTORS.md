@@ -2408,6 +2408,11 @@ Noida
 - Bio: Student FreeCodeCamp interested in PWA's
 - Github: [gipsi](https://github.com/gipsi)
 
+#### Name: [VinayakSh42](https://github.com/vinayaksh42)
+- Place: Jammu, India
+- Bio: C and machine learning
+- GitHub: [VinayakSh42](https://github.com/vinayaksh42)
+
 #### Name: [syamkumar](https://github.com/syam3526)
 - Place:kerala,india
 - Bio: data scientist
