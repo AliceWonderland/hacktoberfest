@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ali Azaz Alam](https://github.com/aliazaz)
+- Place: Pakistan
+- Bio: Android Application Developer
+- GitHub: [Ali Azaz Alam](https://github.com/aliazaz)
