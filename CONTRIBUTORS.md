@@ -2423,7 +2423,8 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Abhishek Bhalotia](https://github.com/AbhiBhalo)
+- Place: Bangalore,India
+- Bio:Data Scientist ,python
+- Github: [Abhishek Bhalotia](https://github.com/AbhiBhalo)
+
