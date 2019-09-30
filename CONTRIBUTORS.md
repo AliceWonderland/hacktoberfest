@@ -2428,7 +2428,6 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-
 #### Name: [Gaurav Gogia](https://github.com/gaurav-gogia)
 - Place: Gandhinagar, India
 - Bio: Student, Backend Developer
