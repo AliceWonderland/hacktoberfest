@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Classic](https://github.com/Classic298)
+- Place: Austria
+- Bio: Entry-level Web developer
+- Github: [Classic](https://github.com/Classic298)
