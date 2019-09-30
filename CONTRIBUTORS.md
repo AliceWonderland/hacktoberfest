@@ -8,6 +8,11 @@
  - Bio: 3rd year BCA student and a Graphic Designer
  - GitHub: [sidd-gupta](https://github.com/sidd-gupta)
  
+ #### Name: Mohammed Sohail
+ - Place: Vellore, India
+ - Bio: Android Developer. Undergraduate from VIT Vellore.
+ - GitHub: [YoursSohail](https://github.com/YoursSohail)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
