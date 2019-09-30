@@ -310,6 +310,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Major / UI/UX Designer
 - GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
 
+#### Name: [Aswin Gopinathan](https://github.com/infiniteoverflow)
+- Place: India
+- Bio: Widget Lover !!
+- GitHub: [BigWilie](https://github.com/infiniteoverflow)
+
 #### Name: [Attila Blascsak](https://github.com/blascsi)
 - Place: Hungary
 - Bio: Front-end dev. Love React!
