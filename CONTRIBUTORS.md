@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rico Fitra](https://github.com/Ricftrw)
+- Place: Yogyakarta, Indonesia
+- Bio: Computer Science Student
+- GitHub: [Ricgtrw](https://github.com/Ricftrw)
