@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [derNiklaas](https://github.com/derNiklaas)
+- Place: Germany
+- Bio: I am a 18 year old Student at TU Dortmund
+- GitHub: [derNiklaas](https://github.com/derNiklaas)
