@@ -1,3 +1,7 @@
+#### Name: Anshu Kumar Shandilya
+ - Place: Kalyani, West Bengal
+ - Bio: Android developer. Pursuing graduation in CS.
+ - GitHub: [ashandilya](https://github.com/ashandilya)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
