@@ -1223,6 +1223,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Informatics Student
 - GitHub: [JJPO96](https://github.com/JJPO96/)
 
+#### Name: [João Vítor](https://github.com/JoaoVSouto/)
+- Place: Natal, Brazil
+- Bio: Information Technology student at UFRN
+- GitHub: [JoaoVSouto](https://github.com/JoaoVSouto/)
+
 #### Name: [Juan Anaya Ortiz](https://github.com/JaoChaos)
 - Place: Granada, Spain
 - Bio: IT student at the University of Granada
