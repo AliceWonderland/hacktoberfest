@@ -482,7 +482,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Cendekia Putra](https://github.com/cendekia)
 - Place: Jakarta, DKI Jakarta, Indonesia
 - Bio: Software Engineer
-- GitHub: [cendekia](https://github.com/cecyc)
+- GitHub: [cendekia](https://github.com/cendekia)
 
 #### Name: [Charlie Stanton](https://github.com/shtanton)
 - Place: Southend-On-Sea, England
