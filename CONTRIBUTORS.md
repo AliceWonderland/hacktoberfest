@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Geek-ubaid](https://github.com/Geek-ubaid)
+- Place: Vellore,India
+- Bio: Machine learning and python developer
+- Github: [Geek-ubaid](https://github.com/Geek-ubaid)
