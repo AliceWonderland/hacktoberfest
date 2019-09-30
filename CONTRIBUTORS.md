@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
  
+#### Name: Vallenain
+ - Place: India 
+ - Bio: 3rd year BCA student and a Graphic Designer
+ - GitHub: [sidd-gupta](https://github.com/sidd-gupta)
+ 
  #### Name: Mohammed Sohail
  - Place: Vellore, India
  - Bio: Android Developer. Undergraduate from VIT Vellore.
