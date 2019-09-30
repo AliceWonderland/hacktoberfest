@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Agung Krisna](https://github.com/Agung-Krisna)
+- Place: Bali, Indonesia
+- Bio: Student, interested in learning HTML and Python
+- Github: [Agung Krisna] (https://github.com/Agung-Krisna)
