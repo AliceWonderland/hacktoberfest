@@ -1,3 +1,8 @@
+#### Name: Rahul Otwani
+ - Place: India
+ - Bio: Developer
+ - GitHub: [rahulotwani](https://github.com/rahulotwani)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
