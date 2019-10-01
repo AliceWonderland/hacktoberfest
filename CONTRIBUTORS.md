@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Arthur Cavalcante](https://github.com/arthurcavalcant)
-- Place: Campina Grande, Brazil
+- Place: Campina Grande, PB, Brazil
 - Bio: Computer Science student
 - Github: [Arthur Cavalcante](https://github.com/arthurcavalcant)
