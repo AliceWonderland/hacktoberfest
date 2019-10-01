@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John](https://github.com/flexifoilrage)
+- Place: UK
+- Bio: Programmer
+- Github: [flexifoilrage](https://github.com/flexifoilrage)
