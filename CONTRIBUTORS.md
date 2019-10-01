@@ -1779,6 +1779,12 @@ Noida
 - Bio: Undergraduate CS student / Software Developer
 - GitHub: [PanosVl](https://github.com/PanosVl)
 
+#### Name: [Patricia Parra](https:///pachicodes.com)
+- Place: New Jersey, USA
+- Bio: Developer in development
+- GitHub: [pachicodes](https://github.com/pachicodes
+
+
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
 - Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
