@@ -10,16 +10,11 @@ Institute Technology Adhi Tama Surabaya
 
 ### Interests
 
-- Software Engineering.
-- Full Stack Software Development.
-- Internet Marketing.
-- Music.
-- Gaming.
+Software Engineering, Internet Marketing, Gaming
 
 ### Development
 
-- PHP Dev ( Laravel, CI, Yii ).
-- Front With Jquery, Bootstrap.
+- PHP Framework
 
 ### Profile Link
 
