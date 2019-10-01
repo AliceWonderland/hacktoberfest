@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anish R](https://github.com/anish700)
+- Place: India
+- Bio: Software Developer/Student
+- Github: [Anish700](https://github.com/anish700)
