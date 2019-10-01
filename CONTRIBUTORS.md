@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tuan Nguyen](https://github.com/nntuan317)
+- Place: Ho Chi Minh, Vietnam
+- Bio: Mobile Developer
+- GitHub: [nntuan317](https://github.com/nntuan317)
