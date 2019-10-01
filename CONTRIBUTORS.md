@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Junianto Endra Kartika](https://github.com/J3ndra)
+- Place: Semarang, Indonesia
+- Bio: Student from SMK Negeri 7 Semarang (STM PEMBANGUNAN SEMARANG)
+- Github: [Junianto Endra Kartika](https://github.com/J3ndra)
