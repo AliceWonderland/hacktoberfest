@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ash](https://github.com/aejb)
+- Place: London, UK
+- Bio: Physics student, and bad coder
+- GitHub: [aejb](https://github.com/aejb)
