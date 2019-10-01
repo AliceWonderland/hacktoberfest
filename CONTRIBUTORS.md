@@ -1,3 +1,8 @@
+#### Name: SIDDHARTH KAK
+ - Place: Bangaluru, India
+ - Bio: Analyst,KPMG.
+ - GitHub: [Siddharth](https://github.com/siddharthkak8)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
