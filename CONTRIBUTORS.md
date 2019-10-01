@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [NiglioBianco](https://github.com/NiglioBianco/)
+- Place: Milan, Italy
+- Bio: Pizza lover
+- GitHub: [NiglioBianco](https://github.com/NiglioBianco/)
