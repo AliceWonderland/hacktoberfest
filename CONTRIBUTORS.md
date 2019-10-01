@@ -7752,6 +7752,11 @@ to explore life. Also, Python and Django Developer
 - Bio: caffeinated and curious
 - GitHub: [zkafkes](https://github.com/zkafkes)
 
+#### Name: [Vicky Koblinski](https://github.com/vickykoblinski)
+- Place: Atlanta, Georgia USA
+- Bio: javascript ninjette
+- GitHub: [zkafkes](https://github.com/vickykoblinski)
+
 #### Name: [Gareth Davies](https://github.com/gareth-d85)
 - Place: UK
 - Bio: Future Developer and Free code camp local group leader
