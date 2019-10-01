@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Tanishka Porwal](https://github.com/tanishka-porwal)
+- Place: Indore, India
+- Bio: Student
+- Github: [Tanishka](https://github.com/tanishka-porwal)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
