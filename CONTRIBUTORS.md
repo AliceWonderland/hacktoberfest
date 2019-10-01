@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anirut Teerabut](https://github.com/oatrice)
+- Place: Bangkok, Thailand
+- Bio: Android developer :100:, :stuck_out_tongue_winking_eye:, :musical_keyboard:
+- GitHub: [Oatrice](https://github.com/oatrice)
