@@ -24,7 +24,7 @@
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
- - Place: Delhi, India
+ - Place: New Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
