@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kevin Washington](https://github.com/kevinwsbr)
+- Place: Maceio, Brazil
+- Bio: Front-end developer and drone pilot
+- GitHub: [kevinwsbr](https://github.com/kevinwsbr)
