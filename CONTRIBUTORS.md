@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jkdarun] (https://github.com/jkdarun)
+-Place: India
+-Bio: Machine Learning Enthusiast
+-Github: [jkdarun](https://github.com/jkdarun)
