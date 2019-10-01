@@ -15,7 +15,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project
+## How to contribute to this project....
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
