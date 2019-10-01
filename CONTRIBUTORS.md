@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hazal Kara](https://github.com/hzkara)
+- Place: İstanbul, Turkey
+- Bio: Highschooler
+- Github: [Hazal Kara](https://github.com/hzkara)
