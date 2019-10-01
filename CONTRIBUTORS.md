@@ -1283,6 +1283,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web dev and graphic designer
 - GitHub: [kevinmora94](https://github.com/kevinmora94)
 
+#### Name: [Kevin Ward](https://github.com/Blueward12)
+- Place: Allen, Texas, US
+- Bio: Comp Sci student and music performer on the side. Snare drum enthusiast.
+- GitHub: [Blueward12](https://github.com/Blueward12)
+
 #### Name: [Khotibul Umam] (https://github.com/umaams)
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
