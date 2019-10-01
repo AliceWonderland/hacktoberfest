@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [leprecha1](https://github.com/leprecha1)
+- Place: Brazil
+- Bio: Web and Security developer Python
+- Github: [leprecha1](https://github.com/leprecha1)
