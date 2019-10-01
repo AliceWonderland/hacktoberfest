@@ -1,3 +1,9 @@
+
+#### Name: Qing Qing Yang 
+ - Place: Peoria, Illinois
+ - Bio: Student
+ - GitHub: [qqyang01](https://github.com/qqyang01)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
