@@ -1829,6 +1829,11 @@ Noida
 - Bio: Aspiring OSS Contributer
 - GitHub: [PhilTerz](https://github.com/PhilTerz)
 
+#### Name: [Phoebe Zhang](https://github.com/SnicklePickles)
+- Place: Melbourne, Australia
+- Bio: Tech Passionate Student
+- GitHub: [SnicklePickles](https://github.com/SnicklePickles)
+
 #### Name: [Piotr](https://github.com/khorne55)
 - Place: Limerick, Ireland
 - Bio: Computer Engineering Student :)
