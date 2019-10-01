@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matheus Calegaro](https://github.com/mathcale)
+- Place: Rio de Janeiro, Brazil
+- Bio: a software engineer who loves to teach and learn all things dev
+- Github: [Matheus Calegaro](https://github.com/mathcale)
