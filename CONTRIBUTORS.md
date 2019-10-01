@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Anand](https://github.com/harsh-not-haarsh)
+- Place: Jodhpur, India
+- Bio: Sport Programmer, Backend Developer
+- Github: [Harsh Anand](https://github.com/harsh-not-haarsh)
