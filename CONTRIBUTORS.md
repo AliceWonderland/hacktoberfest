@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bako Harry Rakotondratompo](https://github.com/harrylepap)
+- Place: Antananarivo, Madagascar
+- Bio: Web Developer and Linux Sysadmin
+- Github: [harrylepap](https://github.com/harrylepap)
