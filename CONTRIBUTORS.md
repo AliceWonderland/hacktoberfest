@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mrga Prda](https://github.com/mrgaprda)
+- Place: Slovenia
+- Bio: Computer science student
+- Github: [Ítalo Epifânio](https://github.com/mrgaprda)
+
