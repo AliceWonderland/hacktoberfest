@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Pratik Butani](https://github.com/pratikbutani)
+- Place: Ahmedabad, India
+- Bio: Android/Flutter Developer . Open Source Contributor . Writer . Speaker .
+- Github: [Pratik Butani](https://github.com/pratikbutani)
