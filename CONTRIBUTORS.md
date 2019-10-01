@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fredrik](https://github.com/frewacom)
+- Place: Uppsala, Sweden
+- Bio: Programmer
+- Github: [Frewacom](https://github.com/frewacom)
