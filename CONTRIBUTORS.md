@@ -1926,7 +1926,7 @@ Noida
 - GitHub: [lullabies](https://github.com/lullabies)
 
 #### Name: [Ravi Gupta](https://github.com/guptaravi5400)
-- Place: Delhi India
+- Place: Gurgaon India
 - Bio: Developer
 - GitHub: [Ravi Gupta](https://github.com/guptaravi5400)
 
