@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaibhav Bhardwaj](https://github.com/vaibhavbhj)
+- Place: Chennai, India
+- Bio: Web developer PHP and Python
+- Github: [Vaibhav Bhardwaj](https://github.com/vaibhavbhj)
