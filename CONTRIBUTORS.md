@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikita Jit](https://github.com/NikitaJit)
+- Place: Burla, India
+- Bio: Deep Learning enthusiast
+- Github: [Nikita Jit](https://github.com/NikitaJit)
