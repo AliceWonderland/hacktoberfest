@@ -1,3 +1,8 @@
+#### Name: [SirJoraH21]
+ - Place: Lviv, Ukraine
+ - Bio: Front-End Developer. Play on guitar.
+ - GitHub: [SirJoraH21](https://github.com/SirJoraH21)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
