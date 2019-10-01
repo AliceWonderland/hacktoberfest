@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [adityadesle](https://github.com/adityadesle)
+- Place: Vadodara , Gujarat
+- Bio: Web Developer Javascript
+- Github: [adityadesle](https://github.com/adityadesle)
