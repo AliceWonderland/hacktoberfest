@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aayush Rawal](https://github.com/aayusss)
+- Place: Gurgaon, India
+- Bio: Web Dev, Comp Sci Major
+- Github: [Aayush Rawal](https://github.com/aayusss)
