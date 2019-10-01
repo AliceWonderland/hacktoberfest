@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishwari Ranjan](https://github.com/hydroxyzimer)
+ - Place: Rajasthan,India
+ - Bio: talk is cheap show me the code
+ - GitHub: [Rishwari Ranjan](https://github.com/hydroxyzimer)
