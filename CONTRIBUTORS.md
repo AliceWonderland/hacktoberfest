@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hoang Nguyen](https://github.com/phuonghoang713)
+- Place: Ho Chi Minh City, VietNam
+- Bio: Full stack web developer Ruby and React
+- Github: [Hoang Nguyen](https://github.com/phuonghoang713)
