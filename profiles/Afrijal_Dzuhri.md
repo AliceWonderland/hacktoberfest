@@ -1,4 +1,4 @@
-# Alex Marrujo
+# Afrijal Dzuhri
 
 ### Location
 
