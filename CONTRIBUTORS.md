@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [s-Hale](https://github.com/s-Hale)
+- Place: United Kingdom
+- Bio: Developer
+- GitHub: [s-Hale](https://github.com/s-Hale)
