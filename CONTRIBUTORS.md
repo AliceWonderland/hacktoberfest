@@ -58,6 +58,12 @@
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+
+#### Name: [Nitisha Singh] (https://github.com/NitishaS-812k)
+ - Place: Kharagpur,India
+ - Bio: Currently studying Electronics and Communication Engineering and an open source enthusiast
+ - GitHub: [Nitisha Singh](https://github.com/NitishaS-812k)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
 - Bio: Software developer, studying B.Tech CSE
