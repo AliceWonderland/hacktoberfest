@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Maria Puji Rahayu](https://github.com/mariapujirahayu)
+- Place: Kediri, Indonesia
+- Bio: Ingin dapat kaosnya
+- Github: [Maria Puji Rahayu](https://github.com/mariapujirahayu)
