@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wadie](https://github.com/wadie)
+- Place: Germany
+- Bio: Goutham's reckoning
+- GitHub: [wadie](https://github.com/wadie)
