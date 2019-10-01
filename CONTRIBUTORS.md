@@ -1620,6 +1620,11 @@ Noida
 - Bio: Architect
 - Github: [brainmaniac] (https://github.com/brainmaniac)
 
+#### Name: [Donovan](https://github.com/DonoKun/)
+- Place: Los Angeles, California
+- Bio: Customer service worker trying to career change
+- GitHub: [DonoKun](https://github.com/DonoKun/)
+
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
