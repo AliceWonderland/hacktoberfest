@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Guilherme Caruso](https://github.com/GuilhermeCaruso)
+- Place: São Paulo, Brazil
+- Bio: Software Engineer Golang
+- Github: [Guilherme Caruso](https://github.com/GuilhermeCaruso)
