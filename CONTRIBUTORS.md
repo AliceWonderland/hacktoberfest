@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [Gustavo Martusewicz](https://github.com/gustavom)
+- Place: São Paulo, Brazil
+- Bio: Front End
+- Github: [Gustavo Martusewicz](https://github.com/gustavom)
