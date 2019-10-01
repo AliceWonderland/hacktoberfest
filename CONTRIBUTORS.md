@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mohammad MAlik](https://github.com/BatmaniNRobin)
+- Place: Richmond, VA
+- Bio: Senior CS Student
+Github: [Mohammad Malik](https://github.com/BatmaniNRobin)
