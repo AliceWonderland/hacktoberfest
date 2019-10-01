@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vadzim Belski] (https://github.com/VadzimBelski-ScienceSoft)
+- Place: Minsk, By
+- Bio: Solution Architect/Commerce consultant/PHP/Go/Python
+- Github: [Vadzim Belski] (https://github.com/VadzimBelski-ScienceSoft)
