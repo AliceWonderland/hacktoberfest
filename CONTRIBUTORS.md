@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Belo Horizonte, Brazil
+- Bio: Web developer NodeJS and ReactJS
+- Github: [Nelson Sinis](https://github.com/nelsonsinis)
