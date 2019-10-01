@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leonardo Sena](https://github.com/leosena21)
+- Place: Salvador, Brazil
+- Bio: Computer engineering student
+- Github: [Leonardo Sena](https://github.com/leosena21)
