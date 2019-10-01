@@ -2185,6 +2185,11 @@ Noida
 - Bio: Developer
 - GitHub: [Nylan17](https://github.com/nylan17/)
 
+#### Name: [Tanu Agrawal](https://github.com/TanuAgrawal123)
+ - Place: India
+ - Bio: Student doing Btech from Computer Science stream.
+ - GitHub: [Tanu Agrawal](https://github.com/TanuAgrawal123)
+
 #### Name: [Taylor Hudson](https://github.com/AllenCompSci)
 - Place: Allen, Texas, USA
 - Bio: Computer Scientist , C++ Developer, Java Developer, NodeJS, High School Computer Science Teacher, Math Teacher, Mathematicain
