@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Christian Moura](https://github.com/cdbm)
+- Place: Pernambuco, Brazil
+- Bio: CS student and Js Dev.
+- Github: [Ítalo Epifânio](https://github.com/cdbm)
