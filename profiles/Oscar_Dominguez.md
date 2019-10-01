@@ -17,7 +17,7 @@ Computer Science Degree at UPC (Universitat Politècnica de Catalunya)
 
 ### Development
 
-- Full Stack Developer: Java and JS
+- Software Developer
 
 ### Projects
 
