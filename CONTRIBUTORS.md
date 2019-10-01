@@ -494,6 +494,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Second year undergraduate(Computer Science)
 - GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
 
+#### Name: [Chandan Mishra](https://github.com/IIITian-Chandan)
+- Place: Indore, MP, India
+- Bio: Machine Learning Engineer.
+- GitHub: [Chandan Mishra](https://github.com/IIITian-Chandan)
+
 #### Name: [Chong Jia Wei](https://github.com/heyjiawei)
 - Place: Singapore
 - Bio: Transformer in disguise
