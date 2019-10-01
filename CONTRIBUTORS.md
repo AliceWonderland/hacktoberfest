@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Virat Sinha](https://github.com/Viratsinha)
+- Place: Jalandhar, India
+- Bio: Web developer PHP and Python
+- Github: [Virat Sinha](https://github.com/Viratsinha)
