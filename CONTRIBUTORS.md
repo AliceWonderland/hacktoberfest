@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [KEE MAGBANUA](https://github.com/samcode23)
+- Place: Philippines
+- Bio: Web Developer
+- GitHub: [samcode23](https://github.com/samcode23)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
