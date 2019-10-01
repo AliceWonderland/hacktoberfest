@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sebas](https://github.com/sebas)
+- Place: CA
+- Bio: Student
+- Github: [sebas](https://github.com/sebas)
+
+
