@@ -1,3 +1,7 @@
+#### Name: Nitish
+ - Place: Chandigarh,India
+ - Bio: second year Computer Science Student
+ - Github: [ANKAY](https://github.com/ankay212000)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
