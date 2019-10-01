@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [maxPiroddi](https://github.com/maxPiroddi)
+- Place: Sydney, Australia
+- Bio: Web developer & Infosec enthusiast
+- Github: [maxPiroddi](https://github.com/maxPiroddi)
+- 
