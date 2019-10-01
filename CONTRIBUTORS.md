@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Mohammad Quanit](https://github.com/Mohammad-Quanit/)
+- Place: Karachi, Pakistan
+- Bio: 💻 MEAN/MERN stack Developer . 📱 Mobile App Developer . 📝Writer . 🎤 Speaker. Would love to get a T-shirt 👕
+- Github: [Mohammad-Quanit](https://github.com/Mohammad-Quanit)
