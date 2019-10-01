@@ -783,6 +783,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Fullstack Web developer, Computer Engineering Master student
 - GitHub: [faouziamrouche](https://github.com/faouziamrouche)
 
+#### Name: [Kamal Iqlaas](https://github.com/Iqlaas)
+ - Place: Petaling Jaya, Selangor, Malaysia
+ - Bio: Head of ICT Digital Transformation, Wannabe Developer
+ - GitHub: [Kamal](https://github.com/Iqlaas)
+
 #### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
