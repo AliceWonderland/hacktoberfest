@@ -1,3 +1,8 @@
+#### Name: Shivam Birla
+ - Place: New Delhi, India
+ - Bio: Student in GGSIPU
+ - GitHub: [Shivam4747](https://github.com/Shivam4747)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
