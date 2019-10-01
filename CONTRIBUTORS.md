@@ -870,6 +870,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student at Gonzaga University
 - GitHub: [George Kunthara](https://github.com/gkunthara)
 
+#### Name: [Danilo de Menezes Freitas](https://github.com/danilomfreitas)
+- Place: Campina Grande, PB, Brazil
+- Bio: Student @ UFCG
+- GitHub: [Danilo de Menezes Freitas](https://github.com/danilomfreitas)
+
 #### Name: [Gilda Griffon](https://github.com/GildaGriffon)
 - Place: Barcelona, Spain
 - Bio: Cybersecurity Manager
