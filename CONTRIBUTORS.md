@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Damien Wade](https://github.com/suvojit-0x55aa)
+- Place: Jolu
+- Bio: CSE at Jolu
+- GitHub: [Damien Wade](https://github.com/suvojit-0x55aa)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
