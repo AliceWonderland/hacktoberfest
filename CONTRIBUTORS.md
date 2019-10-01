@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JT Kaufman](https://github.com/jtk-codes)
+- Place: Durham, US
+- Bio: Software engineer for networking applications
+- Github: [JT Kaufman](https://github.com/jtk-codes)
