@@ -83,6 +83,11 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+#### Name: [Adrian Skalitz](https://github.com/dasadi)
+- Place: Worms, Germany
+- Bio: Student interested in computer science 
+- GitHub: [dasadi](https://github.com/dasadi)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
