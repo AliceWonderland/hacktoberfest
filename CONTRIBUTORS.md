@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Shams Dhar](https://github.com/shams33)
+- Place: Kolkata, India
+- Bio: Mr.Robot
+- Github: [Shams Dhar](https://github.com/shams33)
