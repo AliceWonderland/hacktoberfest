@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vitória Viana](https://github.com/vitoriasviana)
+- Place: Natal, Brazil
+- Bio: student
+- Github: [Vitória Viana](https://github.com/vitoriasviana)
