@@ -200,6 +200,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Lucas Brabec](https://github.com/Brabec)
+- Place: Aracaju, SE, Brazil
+- Bio: A computer science student
+- GitHub: [Lucas Brabec](https://github.com/Brabec)
+
 #### Name: [Alistair](https://github.com/aowongster)
 - Place: San Diego, CA
 - Bio: love to read, learn, and code
