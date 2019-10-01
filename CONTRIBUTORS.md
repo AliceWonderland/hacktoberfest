@@ -949,6 +949,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Developer, I really like!
 - GitHub: [Henrique Duarte](https://github.com/mustorze)
 
+#### Name: [Heru Hartanto](https://github.com/elukuro)
+- Place: Jakarta, INA
+- Bio: Frontend web developer
+- GitHub: [Heru Hartanto](https://github.com/elukuro)
+
+
 #### Name: [Hoang Ha](https://github.com/halink0803)
 - Place: Hanoi, Vietnam
 - Bio: I love javascript! :cat:
