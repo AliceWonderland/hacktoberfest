@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Miloš Garunović](https://milosgarunovic.com)
+- Place: Belgrade, Serbia
+- Bio: Back-end developer
+- Github: [milosgarunovic](https://github.com/milosgarunovic)
