@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Taru Garg](https://github.com/Taru-garg)
+- Place: India
+- Bio: Student
+- GitHub: [Taru Garg](https://github.com/Taru-garg)
