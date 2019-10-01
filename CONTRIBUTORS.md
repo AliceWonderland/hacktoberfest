@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dave McHale](https://github.com/dmchale)
+- Place: CT, USA
+- Bio: Web developer
+- Github: [Dave McHale](https://github.com/dmchale)
