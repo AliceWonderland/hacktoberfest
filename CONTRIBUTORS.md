@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arman Singh](https://github.com/armansingh7982)
+- Place: Delhi, India
+- Bio: A passionate programmer and a beginner in Open Source
+- Github [Arman Singh](https://github.com/armansingh7982)
