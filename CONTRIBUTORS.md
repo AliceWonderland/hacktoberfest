@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anirudh Jwala](https://github.com/anirudh-jwala)
+- Place: Telangana, India
+- Bio: Flutter Developer
+- Github: [anirudh-jwala](https://github.com/anirudh-jwala)
