@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Abhishek Sharma] (https://github.com/abhishek-shrm)
+- Place: New Delhi, India
+- Bio: Full Stack Web Developer and Data Science Enthusiast
+- Github: [Abhishek Sharma] (https://github.com/abhishek-shrm)
