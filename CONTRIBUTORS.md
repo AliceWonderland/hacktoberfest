@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [wizzak](https://github.com/wizzak)
+- Place: Bad Sobernheim, Germany
+- Bio: Fullstack Webdeveloper
+- Github: [wizzak](https://github.com/wizzak)
