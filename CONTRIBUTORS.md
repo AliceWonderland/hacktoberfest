@@ -1024,7 +1024,7 @@
 
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University 
+- Bio: Computer Science Engineering student at Amity University
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Jerome Rumbaoa](https://github.com/jerumbaoa)
+- Place: Davao, Philippines
+- Bio: Python Enthusiast
+- GitHub: [Jerome Rumbaoa](https://github.com/jerumbaoa)
