@@ -7,6 +7,7 @@ Mustika Jaya, Bekasi Timur, Indonesia
 ### Academics
 
 Graduating in Pharmacy
+Pondok IT QODR
 
 ### Interests
 
