@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abdelrahman Kandil](https://github.com/Kandeel4411)
+- Place: Cairo, Egypt
+- Bio: CS Student & Programming enthusiast 
+- Github: [Kandeel4411](https://github.com/Kandeel4411)
