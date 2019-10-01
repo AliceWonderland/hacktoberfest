@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Satrio Wisnugroho](https://github.com/satriowisnugroho)
+- Place: Yogyakarta, Indonesia
+- Bio: Software Engineer
+- Github: [Satrio Wisnugroho](https://github.com/satriowisnugroho)
