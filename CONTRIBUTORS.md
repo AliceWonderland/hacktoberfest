@@ -2156,6 +2156,12 @@ Noida
 - Bio: Learning web development to help with a career change!
 - GitHub: [Stu Wares](https://github.com/StuWares)
 
+
+#### Name: [Sudesh Kumar](https://github.com/sudesh1611)
+- Place: New Delhi, India
+- Bio: Developer
+- GitHub: [Sudesh](https://github.com/sudesh1611)
+
 #### Name: [Supachai Pluemjitta](https://github.com/Galleria)
 - Place: Bangkok, Thailand
 - Bio: Developer
