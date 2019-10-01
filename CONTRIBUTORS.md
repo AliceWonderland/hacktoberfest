@@ -2418,6 +2418,11 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
+#### Name: [Donovan](https://github.com/DonoKun/)
+- Place: Los Angeles, CA
+- Bio: Customer service worker trying to career change
+- Github: [DonoKun](https://github.com/DonoKun/)
+
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
