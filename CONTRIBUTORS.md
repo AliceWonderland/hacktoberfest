@@ -658,6 +658,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - Github: [dhevi](https://github.com/dhevi)
 
+#### Name: [Dilek Uzulmez Tas](https://github.com/dilekuzulmez)
+ - Place: Turkey
+ - Bio: Software Engineer
+ - GitHub: [Dilek](https://github.com/dilekuzulmez)
+
 #### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
