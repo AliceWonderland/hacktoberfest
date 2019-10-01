@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JOSEPH OSTROMAN](https://github.com/Ostomaj)
+- Place: New City NY
+- Bio: Mathematics Teacher, Teaching Coding this year
+- GitHub: [JOSEPH OSTROMAN](https://github.com/Ostomaj)
