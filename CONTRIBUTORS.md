@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Michael Wales](https://github.com/walesmd)
+- Place: Chicago, IL, USA
+- Bio: VP Engineering @MoonriseDev
+- Github: [Michael Wales](https://github.com/walesmd)
