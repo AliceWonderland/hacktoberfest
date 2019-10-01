@@ -1,3 +1,8 @@
+#### Name:[Mayank Pathak](https://github.com/pathakmayank)
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: C++ coder, Google Assistant Developer, Web Developer, Competitive Programming Lover
+- Github: [pathakmayank](https://github.com/pathakmayank)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
