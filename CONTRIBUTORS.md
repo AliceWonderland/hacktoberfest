@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nnaji Victor](https://github.com/Nnaji-Victor)
+- Place: Lagos, Nigeria
+- Bio: Full-Stack Developer
+- Github: [Nnaji Victor](https://github.com/Nnaji-Victor)
