@@ -109,7 +109,7 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+Here is my `hello_world and how you doin?` example: [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
 
 ## BONUS!
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
