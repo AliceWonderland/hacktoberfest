@@ -38,6 +38,7 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
@@ -259,6 +260,10 @@ to explore life. Also, Python and Django Developer
 - Place: New Delhi, India
 - Bio: CSD IIITD
 - GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
+#### Name: [Archita gupta](https://github.com/archita1234)
+- Place : kanpur,India
+- bio: IT branch UIET chandigarh
+- Github: [archita1234](https://github.com/archita1234)
 
 #### Name: [Ankit Chhetri](https://github.com/ankitch)
 - Place: Kathmandu, Nepal
