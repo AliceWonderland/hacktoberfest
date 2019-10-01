@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pranit Brahmbhatt](https://github.com/pb-10)
+- Place: Vadodara, Gujarat, India
+- Bio: Web Developer, UI/UX designer, Flutter Developer, Game Developer, Content Writer, Blogger
+- GitHub: [pb-10](https://github.com/pb-10)
