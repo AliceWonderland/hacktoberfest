@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaibhav](https://github.com/ervaibhavkumar)
+- Place: Gurugram, India
+- Bio: Web developer and Deep Learning Enthusiast
+- Github: [Vaibhav](https://github.com/ervaibhavkumar)
