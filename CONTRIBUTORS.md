@@ -1779,6 +1779,11 @@ Noida
 - Bio: Undergraduate CS student / Software Developer
 - GitHub: [PanosVl](https://github.com/PanosVl)
 
+#### Name: [Paris Geis](https://github.com/ParisGeis)
+- Place: Peoria, Illinois, United States
+- Bio: Computer Science student and game developer at Bradley University
+- GitHub: [ParisGeis](https://github.com/ParisGeis)
+
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
 - Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
