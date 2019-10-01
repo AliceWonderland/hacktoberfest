@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dhroov Gupta](https://github.com/dhroov7)
+- Place: Bangalore, India
+- Bio: Full Stack developer
+- Github: [Dhroov Gupta](https://github.com/dhroov7)
