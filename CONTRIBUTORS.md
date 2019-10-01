@@ -2413,6 +2413,11 @@ Noida
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
+#### Name: [JoaoVSouto](https://github.com/JoaoVSouto)
+- Place: Natal, Brazil
+- Bio: IT student at UFRN and Frontend Developer
+- Github: [JoaoVSouto](https://github.com/JoaoVSouto)
+
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
 - Bio: financial software consultant
