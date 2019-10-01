@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [ABHAYA KIRTIVASAN](https://github.com/abhayak11)
+- Place: India
+- Bio: Computer Science Engineer, Python is cool!
+- GitHub: [abhayak11](https://github.com/abhayak11)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
