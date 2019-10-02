@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Nimish Verma
+ - Place: Ontario, Canada
+ - Bio: Computer Science Grad
+ - GitHub: [bigpythonimish](https://github.com/bigpythonimish)
