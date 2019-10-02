@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jishnu Pramod](https://github.com/jishnupramod)
+- Place: Kerala, India
+- Bio: Open source contributor, developer
+- Github: [Jishnu Pramod](https://github.com/jishnupramod)
