@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddharth Agarwal](https://github.com/sidag99)
+- Place: Delhi, India
+- Bio: Computer Science engineering student
+- Github: [sidag99](https://github.com/sidag99)
