@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Samar787](https://github.com/Samar787)
+-Place:Madhya Pradesh,India
+-Bio: Coder,Developer
+-Github: [Samar787](https://github.com/Samar787)
