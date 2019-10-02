@@ -2368,6 +2368,11 @@ Noida
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
 
+#### Name: [Yezhekel](https://github.com/yezhekel)
+- Place: West Virginia
+- Bio: Auto-Didact
+- Github: [Yezhekel](https://github.com/yezhekel)
+
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
