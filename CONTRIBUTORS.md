@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arnav Chavan](https://github.com/Arnav0400)
+- Place: Mumbai, India
+- Bio: ML enthusiast
+- Github: [Arnav Chavan](https://github.com/Arnav0400)
