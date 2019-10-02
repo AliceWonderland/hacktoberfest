@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joran Quinten](https://github.com/joranquinten)
+- Place: Eindhoven, Netherlands
+- Bio: Coding Coach, Web developer, Javascript
+- Github: [Joran Quinten](https://github.com/joranquinten)
