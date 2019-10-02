@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [toriqxvoxel](https://github.com/toriqvoxel)
+- Place: Jepara, Indonesia
+- Bio: NodeJS Backend Developer
+- Github: [toriqxvoxel](https://github.com/toriqvoxel)
