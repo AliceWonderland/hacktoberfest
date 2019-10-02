@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kyle Irvine](https://github.com/kirvine87)
+- Place: Glasgow, UK
+- Bio: Software Developer
+- Github: [kirvine87](https://github.com/kirvine87)
