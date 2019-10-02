@@ -1,3 +1,8 @@
+#### Name: Miles
+ - Place: Belgrade, Serbia
+ - Bio: Engineering management
+ - GitHub: [MilePaor](https://github.com/MilePaor)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
