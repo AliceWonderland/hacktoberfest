@@ -1584,6 +1584,11 @@ Noida
 - Bio: Ooooooh, nooooooo, not tonight!!
 - GitHub: [Michael Kaiser](https://github.com/patheticpat)
 
+#### Name: [Michael Lore](https://github.com/michaellore)
+- Place: NJ, United States
+- Bio: Web Developer
+- GitHub: [Michael Lore](https://github.com/michaellore)
+
 #### Name: [Michael Nyamande](https://github.com/mikeyny)
 - Place: Harare ,Zimbabwe
 - Bio: Eat , ~~Sleep~~ , Code
