@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kartikay Bhutani](https://github.com/kbhutani0001)
+- Place: Delhi, India
+- Bio: Web developer and Designer
+- Github: [kbhutani0001](https://github.com/kbhutani0001)
