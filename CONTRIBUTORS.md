@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Abhinav Bharti](https://github.com/abhinav23484)
+- Place: India
+- Bio: CSE undergratuate
+- Github: [Abhinav Bharti](https://github.com/abhinav23484)
