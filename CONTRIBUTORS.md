@@ -1,3 +1,7 @@
+#### Name: Devansh
+ - Place: INDIA
+ - Bio: Under Graduate student from VIT.
+ - GitHub: [Devansh](https://github.com/Devansh252)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
