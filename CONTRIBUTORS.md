@@ -1821,6 +1821,12 @@ Noida
 - Bio: Scala developer
 - GitHub: [navispeed](https://github.com/navispeed/)
 
+#### Name: [Tom Dell](https://github.com/tom-dell)
+- Place: Melbourne, Australia
+- Bio: analyst
+- GitHub: [tom-dell](https://github.com/tom-dell)
+
+
 #### Name: [Spencer](https://github.com/leaous/)
 - Place: Pittsburgh, Pennsylvania
 - Bio: student :)
