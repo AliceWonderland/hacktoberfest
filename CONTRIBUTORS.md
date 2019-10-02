@@ -1,3 +1,8 @@
+### Name: [Chelsea London](https://github.com/ctlondon)
+- Place: Manchester, NH, USA
+- Bio: Web Designer learning to be a Front End Web Developer. I have 2 adorable kitties!
+- GitHub: [ctlondon](https://github.com/ctlondon)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
