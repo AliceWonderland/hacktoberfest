@@ -1243,6 +1243,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
 
+#### Name:[A.Nivetha](https://github.com/niv789)
+     place:kerala ,India
+     Bio:First time trying hacktober
+     Github:[niv789](https://github.com/niv789)
+
 #### Name: [Justin de Leon](https://github.com/jusdeleon)
  - Place: Philippines
  - Bio: PHP Developer
