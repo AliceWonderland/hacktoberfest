@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [RaghavJindal2000](https://github.com/RaghavJindal2000)
+- Place: Delhi,India
+- Bio: Student Web developer 
+- Github: [RaghavJindal2000](https://github.com/RaghavJindal2000)
