@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Sujith Gudimetla](https://github.com/CaptainLazarus)
+- Place: Hyderabad , India
+- Bio: 3rd Yeaar College Student, IIIT Kalyani
+- Github: [Aditya Sujith Gudimetla](https://github.com/CaptainLazarus)
