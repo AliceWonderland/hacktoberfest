@@ -2432,3 +2432,8 @@ Noida
  - Place: Bangalore,India
  - Bio: Undergraduate in Information Technology
  - GitHub: [Tharun Kumar](https://github.com/tharun634)
+ 
+ #### Name: dharmick
+ - Place: surathkal,india
+ - Bio: Software engineer
+ - GitHub: [dharmick](https://github.com/dharmicksai)
