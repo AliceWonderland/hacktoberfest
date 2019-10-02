@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alif Naufal](https://github.com/alifnaufalyasin)
+- Place: Bandung, Indonesia
+- Bio: Student | I want to be a Data Scientist
+- GitHub: [Alif Naufal](https://github.com/alifnaufalyasin)
