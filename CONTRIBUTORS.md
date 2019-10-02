@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)  
+
+#### Name: [Gopesh Khandelwal](https://github.com/gopesh97)
+- Place: Delhi, India
+- Bio: Machine Learning Engineer?
+- GitHub: [Gopesh Khandelwal](https://github.com/gopesh97)
