@@ -845,6 +845,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
 
+#### Name: [Gabriel Rocha](https://github.com/gabrielmdr)
+- Place: São Gonçalo, Rio de Janeiro, Brasil
+- Bio: Graduate in Computer Science
+- Github: [Gabriel Rocha](https://github.com/gabrielmdr)
+
 #### Name: [Gabriel Obaldia](https://github.com/gobaldia)
 - Place: Uruguay
 - Bio: Full Stack Developer
