@@ -850,6 +850,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Gabriel Obaldia](https://github.com/gobaldia)
 
+#### Name: [Gabriel Alves](https://github.com/cptspookz)
+- Place: Brazil
+- Bio: CS Student, Security nerd
+- GitHub: [CptSpookz](https://github.com/cptspookz)
+
 #### Name: [Gareth Davies](https://github.com/gareth-d85)
 - Place: UK
 - Bio: Future Developer and Free code camp local group leader
