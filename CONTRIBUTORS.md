@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Piyush Khandelwal](https://github.com/piyush1009)
+- Place: India
+- Bio: 3rd year Computer Science Student, at JUET Guna
+- GitHub: [piyush1009](https://github.com/piyush1009)
