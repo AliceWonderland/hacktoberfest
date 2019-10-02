@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Michael Agana](https://github.com/michaelagana20)
+- Place: Philippines
+- Bio: I love DOGS! Too :dog:
+- GitHub: [Michael Agana](https://github.com/michaelagana20)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
