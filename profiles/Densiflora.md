@@ -10,7 +10,7 @@ Hard Knocks
 
 ### Interests
 
-- Hacking, hacking, and hacking. Also I love my cat.
+- Hacking, hacking, and hacking. Also I love my cat and kali linux.
 
 ### Development
 
