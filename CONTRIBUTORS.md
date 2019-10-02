@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: Tegar Jagat Geni Arya Perkasa (https://github.com/tegarjgap)
+- Place: Jakarta, Indonesia
+- Bio: I Front End developer
+- Github: tegarjgap (https://github.com/tegarjgap)
