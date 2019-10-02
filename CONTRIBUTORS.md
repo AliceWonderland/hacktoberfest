@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Tharun
+ - Place: Bangalore,India
+ - Bio: Undergraduate in Information Technology
+ - GitHub: [Tharun Kumar](https://github.com/tharun634)
