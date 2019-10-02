@@ -2057,6 +2057,11 @@ Noida
 - Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
 - Github: [Shankhalika Sarkar](https://github.com/Shankhalika)
 
+#### Name: [Shardul Singh](https://github.com/shardulsinghh)
+- Place: Pune, India
+- Bio: Software Engineer.
+- Github: [Shardul Singh](https://github.com/shardulsinghh)
+
 #### Name: [Shashwat Pulak](https://github.com/shpulak)
 - Place: Pune, Maharashtra, India
 - Bio: Full Stack developer and Tech enthusiast
