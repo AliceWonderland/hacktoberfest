@@ -22,6 +22,10 @@
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+#### Name: [Chandan Kumar Roy](https://github.com/chandan5362)
+- Place: Delhi,INDIA
+- Bio: A Machine learning enthusiast
+- GitHub: [Chandan Kumar Roy](https://github.com/chandan5362)
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
@@ -2427,3 +2431,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
