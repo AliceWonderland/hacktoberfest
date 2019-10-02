@@ -2373,6 +2373,11 @@ Noida
  - Bio: Software Engineer - Android Developer
  - GitHub: [yerenutku](https://github.com/yerenutku)
 
+#### Name: [Yusuke Hayashi](https://github.com/yusukeh0710)
+- Place: Japan
+- Bio: Software Engineer
+- Github [yusukeh0710](https://github.com/yusukeh0710)
+
 #### Name: [ZH2018](https://github.com/zh2018)
 - Place: USA
 - Bio: Newbie :D
