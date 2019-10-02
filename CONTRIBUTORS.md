@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ExpensiveDinner](https://github.com/ExpensiveDinner)
+- Place: California
+- Bio: Student
+- GitHub: [ExpensiveDinner](https://github.com/ExpensiveDinner)
