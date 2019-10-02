@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kess Tumisang](https://github.com/kesegotumisang/)
+- Place: Gaborone, Botswana
+- Bio: Developer by night
+- GitHub: [kesegotumisang](https://github.com/kesegotumisang/)
