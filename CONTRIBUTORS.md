@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Gupta](https://github.com/AKAnerdcaps)
+- Place: Kolkata, India and Tech Enthusiast
+- Bio: Web Developer
+- Github: [AKAnerdcaps](https://github.com/AKAnerdcaps)
