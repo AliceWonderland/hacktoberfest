@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Shivangi Bithel](https://github.com/shivangibithel)
+- Place: Chandigarh, India 
+- Bio: Developer, Software Engineer
+- GitHub: [shivangibithel](https://github.com/shivangibithel)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
