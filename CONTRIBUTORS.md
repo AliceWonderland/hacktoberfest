@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Igor Silveira](https://github.com/IgorSilveira7)
+- Place: Paraíba, Brazil
+- Bio: Computer Science Student
+- Github: [Igor Silveira](https://github.com/IgorSilveira7)
