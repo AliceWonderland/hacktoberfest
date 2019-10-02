@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Taufik Algi Fahri] (https://github.com/taufikalgi)
+- Place: Depok, Indonesia
+- Bio: Second year Computer Science Student
+- GitHub: [Taufik Algi Fahri] (https://github.com/taufikalgi)
