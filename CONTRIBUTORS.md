@@ -1,4 +1,4 @@
-#### Name: Mile
+#### Name: Miles
  - Place: Belgrade, Serbia
  - Bio: Engineering management
  - GitHub: [MilePaor](https://github.com/MilePaor)
