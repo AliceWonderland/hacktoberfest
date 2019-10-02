@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Owen Salter](https://devosmium.xyz)
+- Place: Massachusetts, USA
+- Bio: Lighting Designer, Radio Amateur, Java/Rust Enthusiast
+- Github: [Dev-Osmium](https://github.com/Dev-Osmium)
