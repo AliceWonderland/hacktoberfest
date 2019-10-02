@@ -2423,12 +2423,12 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
 #### Name: [Paulo Victor](https://github.com/Pulho)
 - Place: Recife, Brazil
 - Bio: Student of computer Engineer
 - Github: [Paulo Victor](https://github.com/Pulho)
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
