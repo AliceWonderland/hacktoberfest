@@ -2371,7 +2371,7 @@ Noida
 #### Name: [Yezhekel](https://github.com/yezhekel)
 - Place: West Virginia
 - Bio: Auto-Didact
-- Github: [Yezheke](https://github.com/yezhekel)
+- Github: [Yezhekel](https://github.com/yezhekel)
 
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
