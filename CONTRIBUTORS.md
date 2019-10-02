@@ -345,6 +345,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Life sciences student|Dev|Linux enthusiast
 - GitHub: [namhsuya](https://github.com/namhsuya/)
 
+#### Name: [Ananyan Xess](https://github.com/Ananyan25)
+- place: Bhubaneswar, India
+- Bio: CSE student at College of ebgineering and technology,Bhubaneswar
+- Github: (https://github.com/Ananyan25)
+
 #### Name: [Ayushverma8](https://github.com/Ayushverma8)
 - Place: Indore, TN, IN
 - Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads, invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
