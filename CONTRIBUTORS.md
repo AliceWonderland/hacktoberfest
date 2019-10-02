@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [lbexp] (https://github.com/lbexp)
+- Place: Indonesia
+- Bio: Front-end Web Developer
+- GitHub: [lbexp] (https://github.com/lbexp)
