@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Davi Luís](https://github.com/davizardb/)
+- Place: Fortaleza, Brazil
+- Bio: Web developer JS, React and Blockchain developer with Solidity
+- Github: [davizardb](https://github.com/davizardb/)
