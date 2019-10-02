@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name : [devYRPauli] (https://github.com/devYRPauli)
+#### Name : [devYRPauli](https://github.com/devYRPauli)
 - Place: Guna
-- Bio: Engineering Fresher
-- GitHub: [devYRPauli] (https://github.com/devYRPauli)
+- Bio: Engineering Student
+- GitHub: [devYRPauli](https://github.com/devYRPauli)
