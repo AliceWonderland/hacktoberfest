@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Desai](https://github.com/yhdesai)
+- Place: Jalgaon, Maharashtra, India
+- Bio: Android Developer, Full Stack Web Developer, Bug Bounty Hunter 
+- Github: [Yash Desai](https://github.com/yhdesai)
