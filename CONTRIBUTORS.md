@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Humberto Arcaya](https://github.com/bettoarcaya)
+- Place: Puerto la cruz, Anzoategui, Venezuela
+- Bio: Full-stack developer.
+- GitHub: [bettoarcaya](https://github.com/bettoarcaya)
