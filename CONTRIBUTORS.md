@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratik Anand](https://github.com/grufelous)
+- Place: Delhi, India
+- Bio: DelTech
+- Github: [Pratik Anand](https://github.com/grufelous)
