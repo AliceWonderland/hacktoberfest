@@ -24,6 +24,9 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
+## What you will get?
+Knowledge about open source contributions and swags which motivates a lot of developers like me.
+
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
