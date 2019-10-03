@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mózer Bence](https://github.com/Majzer)
+- Place: Budapest, Hungary
+- Bio: Software Engineering student at ELTE
+- Github: [Majzer](https://github.com/Majzer)
