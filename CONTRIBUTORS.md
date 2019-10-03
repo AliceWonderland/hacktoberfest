@@ -2423,6 +2423,10 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [suresh kumar] (https://github.com/sureshpathipati)
+- Place: Bengaluru, India
+- Bio: Software Engineer
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
