@@ -1,3 +1,8 @@
+#### Name: [WELLISSON GOMES](http://github.com/wellissongomes/)
+- Place: Paraiba, Brazil
+- Bio: programmer
+- GitHub: [wellissongomes](http://github.com/wellissongomes/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
