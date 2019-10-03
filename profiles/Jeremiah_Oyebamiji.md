@@ -12,9 +12,14 @@ Petroleum Training Institute, Warri, Nigeria
 
 - IoT.
 
+### Development
+
+- 
+
+
 ### Projects
 
-- Decatuts.
+- Decatuts. Web app that connects students/parents/guardian tutors within there location
 
 
 ### Profile Link
