@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Ahad](https://github.com/muhammadahad96)
+- Place: Karachi, Pakistan
+- Bio: Software Developer
+- Github: [Muhammad Ahad](https://github.com/muhammadahad96)
