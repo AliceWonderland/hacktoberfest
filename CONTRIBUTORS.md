@@ -1,7 +1,13 @@
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+ - GitHub: [Vallenain](https://github.com/Vallenain
+ 
+ #### Name: Hitendrita Panda
+ -Place: Bhubaneswar,India
+ -Bio: 3rd year B-tech undergraduate
+ -GitHub: [Hitendrita Panda]https://github.com/Hitendrita
+ 
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
