@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luana Porto](https://github.com/luanaporto)
+- Place: São Paulo, Brazil
+- Bio: Web developer
+- Github: [Ítalo Epifânio](https://github.com/luanaporto)
