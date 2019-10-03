@@ -1,3 +1,8 @@
+#### Name: m-fin
+ - Place: Chapel Hill, North Carolina
+ - Bio: UNC CS 2023
+ - GitHub: [m-fin](https://github.com/m-fin)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
