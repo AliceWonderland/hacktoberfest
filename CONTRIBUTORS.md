@@ -1,6 +1,6 @@
-#### Name: [GeneralPlatypus](https://github.com/GeneralPlatypus)
+﻿#### Name: [GeneralPlatypus](https://github.com/GeneralPlatypus)
  - place: maryland, USA
- - Bio: i work at fast food.
+ - Bio: i manage fast food at roy rodgers.
  - Github: [GeneralPlatypus](https://github.com/GeneralPlatypus)
  
 #### Name: Vallenain
