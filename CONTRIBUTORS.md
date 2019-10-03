@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aldrin Jenson](https://github.com/aldrin163)
+- Place: Kerala, India
+- Bio: First Year CS student
+- Github: [Aldrin Jenson](https://github.com/aldrin163)
