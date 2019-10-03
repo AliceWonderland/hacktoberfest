@@ -974,6 +974,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+#### Name: [Ida Nyman](https://github.com/idanyman)
+- Place: Stockholm, Sweden
+- Bio: Software Engineer
+- Github: [idanyman](https://github.com/idanyman)
+
 #### Name: [Igor Rzegocki](https://github.com/ajgon)
 - Place: Kraków, PL
 - Bio: I do Ruby for living, and hacking for fun
@@ -1474,9 +1479,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
