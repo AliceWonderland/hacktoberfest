@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jeremiah Oyebamiji](https://github.com/JerryG09)
+- Place: Lagos, Nigeria
+- Bio: Software developer Javascript (React and Node)
+- Github: [Ítalo Epifânio](https://github.com/JerryG09)
