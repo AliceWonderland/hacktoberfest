@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Jashpreet Malhotra](https://github.com/jashpreet)
+- Place: New Delhi,India
+- Bio: student , newbie android developer
