@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -2368,6 +2368,7 @@ Noida
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
 
+<<<<<<< HEAD
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -2432,3 +2433,18 @@ Noida
 - Place: Chennai, India
 - Bio: Django Developer and Python, Engeering
 - Github: [Skg Shivam](https://github.com/skgshivam)
+
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Olof Jondelius](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Architect
+- Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
