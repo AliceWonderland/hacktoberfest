@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -22,6 +22,11 @@
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+
+### Name: [PRATILIPI AICH](https://github.com/PratilipiAich)
+- Place: BANGALORE, INDIA
+- Bio: Love to code, develop, read, sketch and a lot more.
+- GitHub: https://github.com/PratilipiAich
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India

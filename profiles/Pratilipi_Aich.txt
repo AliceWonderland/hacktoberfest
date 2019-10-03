@@ -1,0 +1,34 @@
+# Pratilipi Aich
+
+### Location
+
+Bangalore, India
+
+### Academics
+
+Computer Science Engineering from Sir M. Visvesvaraya Institute of Technology
+
+### Interests
+
+- Coding
+- Reading
+- Sketching and Painting
+- Learning new languages.
+- Dancing
+- Singing
+- Learning new facts about things that interest me. ;P 
+
+### Development
+
+- Mostly projects by learning concepts online.
+- C++, C, JAVA, HTML, SQL, Android Studio(Beginner) and Ruby(Beginner).
+
+### Projects
+
+- [WebApp for Event Manager] (https://github.com/PratilipiAich/rails-events-app.git)
+- [Card App-Android] (https://github.com/PratilipiAich/MyCardApp.git)
+- [Website] (https://github.com/PratilipiAich/build-a-thon-1.git) For my college's photography club.
+
+### Profile Link
+
+[Pratilipi Aich](https://github.com/PratilipiAich)
