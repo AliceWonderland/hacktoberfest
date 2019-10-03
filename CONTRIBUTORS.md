@@ -2249,6 +2249,11 @@ Noida
 - Bio: UNC Charlotte coding bootcamp student.
 - GitHub: [tlm04070](https://github.com/tlm04070);
 
+#### Name: [Tushar Sharma](https://github.com/CeNiEi)
+- Place: New Delhi, INDIA
+-Bio: Student Btech 1st Year
+GitHub: [CeNiEi](https://github.com/CeNiEi)
+
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
 - Bio: Front-end Developer
