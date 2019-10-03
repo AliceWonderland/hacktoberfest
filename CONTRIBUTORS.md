@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Jeff Pinckney](https://github.com/jpinckney)
+- Place: Eagle Mountain, Utah
+- Bio: Web Developer c#
+- GitHub: [Jeff Pinckney](https://github.com/jpinckney)
