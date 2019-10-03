@@ -250,6 +250,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Center Technician
 - GitHub: [apickham](https://github.com/apickham)
 
+#### Name: [Andrew Gorman](https://github.com/andrewgorman)
+- Place: Iowa, USA
+- Personal Website: [Andrew Gorman Dev](www.andrewgorman.dev)
+
 #### Name: [Aniket](https://github.com/AniketRoy)
 - Place: New Delhi, India
 - Bio: Computer Science Under Graduate, Open Source Lover
