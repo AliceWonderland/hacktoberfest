@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hrithik Sharma](https://github.com/hrithik-hs)
+- Place: India
+- Bio: Student
+- Github: [hrithik-hs](https://github.com/hrithik-hs)
