@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chidiogo Ezeakunne](https://github.com/chidiogo-akunne)
+- Place: Lagos, Nigeria
+- Bio: Web developer JavaScript and Python
+- Github: [chidiogo-akunne](https://github.com/chidiogo-akunne)
