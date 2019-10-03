@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Skg Shivam](https://github.com/skgshivam)
 - Place: Chennai, India
-- Bio: Django Developer and Python
+- Bio: Django Developer and Python, Engeering
 - Github: [Skg Shivam](https://github.com/skgshivam)
