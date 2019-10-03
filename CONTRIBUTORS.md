@@ -37,6 +37,10 @@
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
+#### Name: [VINAYAK M R](https://github.com/vmr1532)
+- Place: cochin,kerala,india
+- Bio: A student happy to write code and poetry.
+- GitHub: [VINAYAK M ](htRtps://github.com/vmr1532)
 
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
