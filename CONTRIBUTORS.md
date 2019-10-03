@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Aggarwal](https://github.com/shuhbamcompro)
+- Place: New Delhi, India
+- Bio: Full Stack developer, Angular and Nodejs
+- Github: [shubhamcompro](https://github.com/shubhamcompro)
