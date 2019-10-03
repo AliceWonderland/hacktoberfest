@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [João Victor Andrade](https://github.com/Jandrade2k)
+- Place: São Paulo, Brazil
+- Bio: Web developer Javascript, Typescripty and Python
+- Github: [João Victor Andrade](https://github.com/Jandrade2k)
