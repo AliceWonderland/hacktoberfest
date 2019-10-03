@@ -410,6 +410,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I am a caffeine based artificial life form.
 - GitHub: [Brane](https://github.com/brane)
 
+#### Name: [Braelyn Rotman](https://github.com/BraelynRotman)
+- Place: Ontario, Canada
+- Bio: Computer Science Student
+- GitHub: [Braelyn Rotman](https://github.com/BraelynRotman)
+
 #### Name: [Brent Scheppmann](https://github.com/bareon)
 - Place: Garden Grove, CA, US
 - Bio: Student, Geophysicist
