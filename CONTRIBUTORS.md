@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Hilda
+ - Place: Vancouver, Canada
+ - Bio: Newbie
+ - GitHub: [hildakh](https://github.com/hildakh)
