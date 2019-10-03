@@ -823,6 +823,11 @@ to explore life. Also, Python and Django Developer
 - Place: Turkey
 - Bio: Computer Science student
 - GitHub: [Furkan Arabaci](https://github.com/illegaldisease)
+#### Name: [FURKAN GÖKSEL](https://github.com/firehunter27)
+- Place: Turkey
+- Bio: Student,Security Enthuiast, Coder
+- GitHub: [FireHunter27](https://github.com/firehunter27)
+
 
 #### Name: [Fush Chups](https://github.com/fushandchups)
 - Place: Christchurch, Canterbury, New Zealand
