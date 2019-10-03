@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Skg Shivam](https://github.com/skgshivam)
+- Place: Chennai, India
+- Bio: Django Developer and Python
+- Github: [Skg Shivam](https://github.com/skgshivam)
