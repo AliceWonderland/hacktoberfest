@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [Rahmat Hidayat](https://github.com/rahmat31)
+- Place: Indonesia
+- Bio: Game and code.
+- GitHub: [Rahmat Hidayat](https://github.com/rahmat31)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
