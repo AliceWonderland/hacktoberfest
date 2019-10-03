@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akanksha Singh](https://github.com/akanksha1212)
+- Place: Delhi, India
+- Bio: Student interested in ML and Data Science
+- Github: [akanksha1212](https://github.com/akanksha1212)
