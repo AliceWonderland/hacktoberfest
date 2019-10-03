@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lim Pei Hsin](https://github.com/limpeihsin15)
+- Place: Kuala Lumpur, Malaysia
+- Bio: Second Year Software Engineering Student
+- GitHub: [Lim Pei Hsin](https://github.com/limpeihsin15)
