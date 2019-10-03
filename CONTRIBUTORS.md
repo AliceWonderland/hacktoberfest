@@ -1,3 +1,8 @@
+#### Name: [SUNDEEP CHAND](https://github.com/SundeepChand)
+- Place: New Delhi, India
+- Bio: An undergraduate student of CSE.
+- GitHub: [SundeepChand](https://github.com/SundeepChand)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
