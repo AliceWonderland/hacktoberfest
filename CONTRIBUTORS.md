@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+ #### Name: Luscas
+ - Place: Brazil
+ - Bio: Cool guy.
+ - GitHub: [luccardoso51](https://github.com/luccardoso51)
+
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
