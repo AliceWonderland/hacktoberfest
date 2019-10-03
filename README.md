@@ -68,32 +68,32 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 ```markdown
 # Your Name
 
-### Location
+#### Location
 
 Your City/Country
 
-### Academics
+#### Academics
 
 Your School
 
-### Interests
+#### Interests
 
 - Some Things You Like
 
-### Development
+#### Development
 
 - Inventor of the My Pillow
 
-### Projects
+#### Projects
 
 - [My Project](GitHub Link) Short Description
 
-### Profile Link
+#### Profile Link
 
 [Your Name](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
+#### 3. Create a `Hello, World!` Script
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
