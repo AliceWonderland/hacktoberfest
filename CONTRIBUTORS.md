@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luiz Filipe M. Monge](https://github.com/majormonge)
+- Place: Presidente Prudente, Brazil
+- Bio: Web and game developer.
+- Github: [MajorMonge](https://github.com/majormonge)
