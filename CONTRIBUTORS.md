@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Evan Walters](https://github.com/evanwaltersdev)
+- Place: London, UK
+- Bio: Developer
+- GitHub: [evanwaltersdev](https://github.com/evanwaltersdev)
