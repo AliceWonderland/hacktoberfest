@@ -2122,6 +2122,11 @@ Noida
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
 - GitHub: [SrGrace](https://github.com/SrGrace)
 
+#### Name: [SpareMeTrix](https://github.com/sparemetrix)
+- Place: USA
+- Bio: Traumatic Brain Injury Survivor starting over relearning coding
+- GitHub: [SpareMeTrix](https://github.com/SpareMeTrix)
+
 #### Name: [Sparsh Garg](https://github.com/sparsh789)
 - Place: Hyderabad, Telangana, India
 - Bio: Student@IIIT,Hyderabad
