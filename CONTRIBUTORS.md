@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Suresh Kumar](https://github.com/sureshpathipati)
+- Place: Bangalore,India
+- Bio: Software Engineer
