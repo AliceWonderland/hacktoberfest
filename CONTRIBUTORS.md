@@ -1,3 +1,8 @@
+#### Name: Jordan (https://github.com/joyous30)
+ - Place: Urdaneta City Pangasinan, Philippines
+ - Bio: Self Thought Programmer, in love with Javascript
+ - GitHub: [joyous30](https://github.com/joyous30)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
