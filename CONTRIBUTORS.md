@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayodele Tolulope](https://github.com/toluwalope19)
+- Place: Lagos, Nigeria
+- Bio: Software Engineer JavaScript and Python
+- Github: [Ayodele Tolulope](https://github.com/toluwalope19)
