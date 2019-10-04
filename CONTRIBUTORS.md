@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+### Name: [Vidz-1]
+- Place: India
+- Bio: Competetive coder, Data Analyst, BlockChain enthusiast
+- Github: [vidz-1](https://github.com/vidz-1)
