@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Henry Onuorah](https://github.com/henryemekaonuorah92)
+- Place: Lagos, Nigeria
+- Bio: Software developer PHP, Javascript 
+- GitHub: [Porcupine55](https://github.com/henryemekaonuorah92)
