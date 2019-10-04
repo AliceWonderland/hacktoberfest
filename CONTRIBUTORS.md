@@ -1303,6 +1303,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Open Data and Open Knowledge activist
 - GitHub: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 
+
+#### Name: [Kushal Doshi](https://github.com/Kushald2805)
+- Place: Mumbai, India
+- Bio: Software Engineer
+- GitHub: [Kushal Doshi](https://github.com/Kushald2805)
+
 #### Name: [Kutsoragi](https://github.com/Kutsoragi)
 - Place: Madrid, Spain
 - Bio: Software Student
