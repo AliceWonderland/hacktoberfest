@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [SYED MODASSIR ALI](https://github.com/Mudassirali2802)
+- Place: Malda
+- Bio: B.Tech Computer Science and Engineering perseuading
+- GitHub: [Mudassir Ali](https://github.com/Mudassirali2802)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
