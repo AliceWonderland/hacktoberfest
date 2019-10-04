@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Stephen Fischer](https://github.com/teav)
+- Place: Cincinnati, OH, USA
+- Bio: Web developer Javascript, and Java
+- Github: [Stephen Fischer](https://github.com/teav)
