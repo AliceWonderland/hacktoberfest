@@ -2151,6 +2151,11 @@ Noida
 - Place: Philadelphia, PA
 - Bio: Security Analyst
 
+#### Name: [Steven Doss](https://github.com/snobbysteven)
+- Place: USA
+- Bio: Developer, .NET, Laravel, Java
+- GitHub: [snobbysteven](https://github.com/snobbysteven)
+
 #### Name: [Stuart Wares](https://github.com/StuWares)
 - Place: Tamworth, United Kingdom
 - Bio: Learning web development to help with a career change!
