@@ -2273,6 +2273,10 @@ Noida
 - Place: Germany
 - Bio: Webdeveloper, Sysadmin
 
+#### Name: [Vineeth Nair](https://github.com/vineeth-nair)
+- Place: Kerala, India
+- Bio: Front-end Developer
+
 #### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
 - Place: Paris, France
 - Bio: Solution Architect @ Eleven-Labs
