@@ -1,3 +1,8 @@
+#### Name: Rahul Saini (https://github.com/rs4231199)
+- Place: Mandi, India
+- Bio: second year CSE student
+- Github: rs4231199 (https://github.com/rs4231199)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
