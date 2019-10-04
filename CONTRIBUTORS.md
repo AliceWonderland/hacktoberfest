@@ -1,3 +1,8 @@
+#### Name: Sebastian
+ - Place: Colombia
+ - Bio: Software engineer in process.
+ - GitHub: [nestorsgarzonc](https://github.com/nestorsgarzonc)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
