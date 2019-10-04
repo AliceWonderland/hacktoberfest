@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alana Aragoni](https://github.com/alanaaragoni)
+- Place: Münster, Germany
+- Bio: Software developer
+- Github: [Alana Aragoni](https://github.com/alanaaragoni)
