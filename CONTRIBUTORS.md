@@ -1,3 +1,8 @@
+#### Name: [Giani Kurniawan](https://github.com/akanijade)
+- Place: United States
+- Bio: student
+- GitHub: [akanijade](https://github.com/akanijade)
+
 #### Name: [Chong Jia Wei](https://github.com/heyjiawei)
 - Place: Singapore
 - Bio: Transformer in disguise
