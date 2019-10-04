@@ -1,3 +1,9 @@
+
+#### Name: [VENKATA VAMSI](https://github.com/vammu920)
+- Place: WestBengal,India
+- Bio: Sophomore at Indian Institute of Technology KGP
+- GitHub: [Vammu920](https://github.com/vammu920)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
