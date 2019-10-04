@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lau](https://github.com/xhika)
+- Place: Gothenburg, Sweden
+- Bio: Student
+- Github: [Xhika](https://github.com/xhika)
