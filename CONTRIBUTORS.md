@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AMRITA SINGHA ROY](https://github.com/uzumakinaruto96)
+- Place: Kolkata, West Bengal, India
+- Bio: I am a Software Engineer
+- GitHub: [uzumakinaruto96](https://github.com/uzumakinaruto96)
