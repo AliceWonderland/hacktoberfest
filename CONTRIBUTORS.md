@@ -1,3 +1,8 @@
+#### Name: [ANUSHKA RAJ](https://github.com/Anushka-codergirl)
+- Place: Hajipur, Bihar, India
+- Bio: Codergirl who loves codes more than chocolates.
+- GitHub:[Anushka-codergirl ](https://github.com/Anushka-codergirl)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
