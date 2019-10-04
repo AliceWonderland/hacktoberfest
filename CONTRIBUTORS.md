@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Arupam Kumar Saha
+ - Place: Chennai, India
+ - Bio: Computer Science Engineering student at VIT Vellore , Tech enthusiast , Gamer , Coder .
+ - GitHub: [arupam](https://github.com/arupam)
