@@ -10,7 +10,7 @@ Indian Institute of Technology, Kharagpur
 
 ### Interests
 
-- Designs	
+- Design
 - Android app developer
 - Open Source
 - Web Designer

@@ -1,6 +1,6 @@
 
 #### Name: [VENKATA VAMSI](https://github.com/vammu920)
-- Place: India
+- Place: WestBengal,India
 - Bio: Sophomore at Indian Institute of Technology KGP
 - GitHub: [Vammu920](https://github.com/vammu920)
 
