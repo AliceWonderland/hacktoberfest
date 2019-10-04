@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Letícia Maciel](https://github.com/leehmaciel)
+- Place: Brazil
+- Bio: computer engineering student
+- Github: [leehmaciel](https://github.com/leehmaciel)
