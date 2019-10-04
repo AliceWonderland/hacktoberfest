@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Buddy Smith](https://github.com/buddyjasmith)
+- Place: Dallas, TX
+- Bio: Developer/Student
+- Github: [Buddy Smith](https://github.com/buddyjasmith)
