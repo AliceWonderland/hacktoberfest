@@ -42,7 +42,7 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     file.writelines(new_file_data)
 
 
-# Sorts the list of contributors and saves to file
+# Sort the list of contributors and saves to file
 # The real thing happens here.
 with open('CONTRIBUTORS.md', 'r+') as file:
     contributors = [contributor.strip() for contributor in file.read().split('####')
