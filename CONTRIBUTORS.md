@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name : [Panji Awwaludi Dzikriawan](https://github.com/PanjiAD/)
+- Place : Malang, Indonesia
+- Bio : College Student
+- Github : [PanjiAD](https://github.com/PanjiAD/) 
