@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [wicsm29](https://github.com/wicsm29)
+- Place: Newfoundland, Canada
+- Bio: Cancer Research
+- GitHub: [wicsm29](https://github.com/wicsm29)
