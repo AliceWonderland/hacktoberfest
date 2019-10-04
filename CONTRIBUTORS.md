@@ -636,6 +636,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Self-taught Web developer
 - GitHub: [Dawid Lipinski](https://github.com/lip3k)
 
+#### Name: [Dayan Freitas](https://github.com/Dayanfreitas)
+- Place: Santa Catarina, Brazil
+- Bio: Software Engineering student
+- GitHub: [DayanFreitas](https://github.com/Dayanfreitas)
+
 #### Name: [Debashish Nayak](https://github.com/theindianotaku)
 - Place: Roorkee, Uttarakhand, India
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
