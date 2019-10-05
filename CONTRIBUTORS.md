@@ -2353,6 +2353,11 @@ Noida
 - Bio: 2/4 into getting a free Hacktoberfest T-Shirt
 - GitHub: [Antonio Jesus Pelaez](https://github.com/twillzy)
 
+#### Name: [Marvin Tomizawa](https://github.com/marvintomizawa)
+- Place: Paraná, Brazil
+- Bio: Software Developer.
+- GitHub: [Marvin Tomizawa](https://github.com/marvintomizawa)
+
 #### Name: [Xavier Marques](https://github.com/wolframtheta)
 - Place: Corbera de Llobregat, Barcelona, Catalonia
 - Bio: Computer Science Major
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
