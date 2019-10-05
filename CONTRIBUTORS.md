@@ -1,3 +1,9 @@
+#### Name: Densiflora
+ - Place: Oregon
+ - Bio: Love to hack stuff
+ - GitHub: [densiflora](https://github.com/densiflora)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
