@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ricardo Gouveia](https://github.com/ricardogouveia3)
+- Place: São Paulo, Brazil
+- Bio: Front-end dev and designer
+- Github: [ricardogouveia3](https://github.com/ricardogouveia3)
