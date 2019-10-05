@@ -1,3 +1,8 @@
+#### Name: [KSHITIJ AGRAWAL](https://github.com/kkshitij-agrawal)
+- Place: India
+- Bio: second year Computer Science and Design Student, IIIT Delhi
+- GitHub: [kkshitij-agrawal](https://github.com/kkshitij-agrawal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
