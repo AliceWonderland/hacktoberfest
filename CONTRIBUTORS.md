@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Karamel](https://github.com/Karamel2002)
+- Place: Hanoi, Vietnam
+- Bio: Photographer/ Designer
+- GitHub: [Karamel2002](https://github.com/Karamel2002)
