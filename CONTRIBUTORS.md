@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prajesh Puri](https://github.com/Prajeshpuri)
+- Place: New Delhi, India
+- Bio: Student and Web Developer 
+- Github: [Prajeshpuri](https://github.com/Prajeshpuri)
