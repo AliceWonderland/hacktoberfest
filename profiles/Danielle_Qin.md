@@ -14,4 +14,4 @@
 
 ### Profile Link
 
-[Danielle Qin](https://github.com/fantaesy)
+[fantaesy](https://github.com/fantaesy)
