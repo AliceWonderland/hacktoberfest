@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [PARTH SARTHI PRASAD](https://github.com/parthsarthiprasad)
+- Place: India
+- Bio: second year Computer Science Student, full stack developer 
+- GitHub: [parth sarthi prasad](https://github.com/parthsarthiprasad)
