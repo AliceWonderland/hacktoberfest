@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ZORAIZ ASIF](https://github.com/zoraizasif)
+- Place: Lahore
+- Bio: Angular Developer
+- GitHub: [Zoraiz Asif](https://github.com/zoraizasif)
