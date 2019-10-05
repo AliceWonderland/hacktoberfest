@@ -1951,8 +1951,8 @@ Noida
 - GitHub: [Rizki Ramadhana](https://github.com/rizkiprof)
 
 #### Name: [Rohit Mathew](https://github.com/rohitjmathew)
-- Place: Bangalore, Karnataka, India
-- Bio: Android Developer, Freelancer and Tech Enthusiast
+- Place: Mumbai, Maharashtra, India
+- Bio: Full Stack Developer, former Intern @ HackerRank and Currently SDE @ Turtlemint
 - GitHub: [Rohit Mathew](https://github.com/rohitjmathew)
 
 #### Name: [Rohit Motwani](https://github.com/rohittm)
