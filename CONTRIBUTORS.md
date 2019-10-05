@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratyay Banerjee](https://github.com/Neilblaze)
+- Place: Kolkata,West Bengal,India
+- Bio: Junior Software developer
+- GitHub: [Neilblaze](https://github.com/Neilblaze)
