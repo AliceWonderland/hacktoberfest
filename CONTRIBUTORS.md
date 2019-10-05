@@ -1263,6 +1263,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I am a Solution Architect and work for a large SaaS organization
 - GitHub: [Karthick Thoppe](https://github.com/karthicktv)
 
+#### Name: [Katakam Mallikarjun](https://github.com/Mallik813)
+- Place: Andhra Pradesh, India
+- Bio: I am a Student currently pursuing Bachelors degree in Information Technology
+- GitHub: [Mallik813](https://github.com/Mallik813)
+
 #### Name: [Katherine S](https://github.com/kms6bn)
 - Place: San Francisco
 - Bio: Data Scientist
