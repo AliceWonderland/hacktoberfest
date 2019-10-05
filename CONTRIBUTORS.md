@@ -2418,12 +2418,17 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+#### Name: [xenocideiwki](https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+- GitHub: [xenocidewiki](https://github.com/xenocidewiki)
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Vítor Barbosa](https://github.com/vitorrsbarbosa)
+- Place: Maringá, Brazil
+- Bio: Automation QA and Software Engineering student
+- Github: [vitorrsbarbosa](https://github.com/vitorrsbarbosa)
