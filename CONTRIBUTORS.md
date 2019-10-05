@@ -1,3 +1,8 @@
+#### Name: [Yashvardhan Malpani](GitHub link)
+- Place: India
+- Bio: Student
+- GitHub: [yashmalpani](https://github.com/yashmalpani)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
