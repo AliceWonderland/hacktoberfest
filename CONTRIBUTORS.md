@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rafael Oliveira](https://github.com/rafbel)
+- Place: Irvine, CA
+- Bio: Master of Software Engineering at UCI
+- GitHub: [rafbel](https://github.com/rafbel)
