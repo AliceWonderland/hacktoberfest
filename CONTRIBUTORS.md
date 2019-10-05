@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Patrick Lawler](https://github.com/plawler92)
+- Place: Chicago, Illinois
+- Bio: Data engineer
+- Github: [Patrick Lawler](https://github.com/plawler92)
