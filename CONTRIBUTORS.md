@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditi Pancholi](https://github.com/aditipancholi)
+- Place: Ahmedabad, India
+- Bio: Just a beginner in Web-Dev
+- Github: [Ítalo Epifânio](https://github.com/aditipancholi)
