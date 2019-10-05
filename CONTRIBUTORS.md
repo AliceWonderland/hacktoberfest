@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manil Dayma] (https://github.com/manildayma)
+- Place: New Delhi, India
+- Bio: Augmented Reality Developer || Buid Your Imagination Into Application.
+- GitHub: [manildayma] (https://github.com/manildayma)
