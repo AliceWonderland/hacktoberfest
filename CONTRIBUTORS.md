@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vipul Singh](github.com/vipul-08)
+- Place: Mumbai, India
+- Bio: I am Android Developer
+- GitHub: [vipul-08](github.com/vipul-08)
