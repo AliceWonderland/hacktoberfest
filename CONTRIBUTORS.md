@@ -1839,6 +1839,11 @@ Noida
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
 
+#### Name: [Prachi Sabarad](https://github.com/Prachi-05)
+- Place: India
+- Bio: A Computer Science Student, I like solving logical puzzles.
+- GitHub: [Prachi-05](https://github.com/Prachi-05)
+
 #### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
 - Place: Hyderabad, Telangana, India
 - Bio: Trying to fit in coding society.
