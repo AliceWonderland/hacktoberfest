@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+ #### Name: Michele
+  - Place: Brescia, Italy
+  - Bio: IT student.
+  - GitHub: [taglioIsCoding](https://github.com/taglioIsCoding)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
