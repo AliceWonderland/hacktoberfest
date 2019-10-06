@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanushree Chandavarker](https://github.com/tanushree57)
+- Place: Goa, India
+- Bio: An entrepreneur who started a company straight out of college.
+- GitHub: [tanushree57](https://github.com/tanushree57)
