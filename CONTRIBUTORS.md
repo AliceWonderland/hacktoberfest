@@ -1368,6 +1368,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I have 19 years, course Analysis and Development System.
 - GitHub: [LeticiaFatimaa](https://github.com/leticiafatimaa)
 
+#### Name: [Lancelot](https://github.com/lancelot1337)
+- Place: Delhi, India
+- Bio: CS Student
+- GitHub: [Lancelot](https://github.com/lancelot1337)
+
 #### Name: [Lisa Nguyen](https://github.com/LisaNguyen)
 - Place: Dublin, Ireland
 - Bio: Front-end developer
