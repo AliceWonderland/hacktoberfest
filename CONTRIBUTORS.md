@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kevin Harvell](https://github.com/kevharvell)
+- Place: Dallas, TX
+- Bio: Software Developer intern - graduating CS degree in December!
+- GitHub: [Kevin Harvell](https://github.com/kevharvell)
