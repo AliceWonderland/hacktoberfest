@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zack Shorts](https://github.com/zackshorts)
+- Place: Dallas, Texas
+- Bio: Software Engineer
+- Github: [Zack Shorts](https://github.com/zackshorts)
