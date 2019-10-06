@@ -38,6 +38,10 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [SKAND](https://github.com/skandagpt)
+- Place: Rajasthan
+- Bio: Student
+- GitHub: [Skand Gupta](https://github.com/skandagpt)
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
