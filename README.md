@@ -48,7 +48,7 @@ git push origin branch-name
 ```
 
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
+* Wait for your PR review and merge approval.
 * __Star this repository__ if you had fun!
 
 ## Choose from these tasks
@@ -111,7 +111,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 
 Here is my `hello_world` example: [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
 
-## BONUS!
+#### BONUS!
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
@@ -130,5 +130,5 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
-## Additional references added by contributors
+### Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
