@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joshika](https://github.com/joshika1087)
+- Place: Patna, India
+- Bio: Machine Learning Enthusiast
+- Github: [joshika1087](https://github.com/joshika1087)
