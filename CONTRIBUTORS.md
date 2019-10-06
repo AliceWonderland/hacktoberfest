@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tezan Sahu](https://tezansahu.github.io)
+- Place: Mumbai, India
+- Bio: Developer, Blockchain & Deep Learning Enthusiast
+- Github: [Tezan Sahu](https://github.com/tezansahu)
