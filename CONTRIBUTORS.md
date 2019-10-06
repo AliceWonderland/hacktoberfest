@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nicholas Carnival](https://github.com/ncarn2)
+- Place: Colorado, United States 
+- Bio: Computer Science Student
+- Github: [Nicholas Carniavl](https://github.com/ncarn2)
