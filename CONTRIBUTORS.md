@@ -2418,6 +2418,11 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
+#### Name: [SAM WILSON](https://github.com/SAMWILSONIN)
+- Place: India
+- Bio: I like to program things
+- GitHub: [AP Pranav](https://github.com/samwilsonin)
+
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
