@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhinav Akhil](https://github.com/abhinavakhil)
+- Place: jalandhar,India
+- Bio: Web developer.
+- Github: [Abhinav Akhil](https://github.com/abhinavakhil)
