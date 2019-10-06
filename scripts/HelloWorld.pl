@@ -3,5 +3,6 @@
 * AUTHOR: Rupesh Kumar
 * GITHUB: https://github.com/vmcniket*
 */
-
-print “Hello, world!”;
+/*
+print"Hello, World"
+/*
