@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshat Chhajer](https://github.com/akshatcx)
+- Place: Hyderabad, India
+- Bio: Web developer
+- Github: [Akshat Chhajer](https://github.com/akshatcx)
