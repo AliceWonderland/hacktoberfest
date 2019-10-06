@@ -1,0 +1,7 @@
+//This script is written in c++
+#include<iostream.h>
+int main()
+{
+  cout<<"Hello World!!"<<endl;
+  return 0;
+}  
