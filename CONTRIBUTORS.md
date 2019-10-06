@@ -464,6 +464,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love open source and coffee! New grad looking for work!
 - GitHub: [Campion Fellin](https://github.com/campionfellin)
 
+#### Name: [Carla Costas](https://github.com/costassolla)
+- Place: Seattle, WA, USA
+- Bio: Programmer and drummer.
+- GitHub: [Carla Costas](https://github.com/costassolla)
+
 #### Name: [Carlos Federico Lahrssen](https://github.com/carloslahrssen)
 - Place: Miami, Florida, USA
 - Bio: CS Student at Florida International University
