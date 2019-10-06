@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zack Miles](https://github.com/zmiles17)
+- Place: Atlanta, GA, USA
+- Bio: Software Developer
+- GitHub: [zmiles17](https://github.com/zmiles17)
