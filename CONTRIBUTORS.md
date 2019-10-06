@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sneha Mishra] (https://github.com/Medulla9991)
+-Place: Odisha , India
+-Bio: Web Developer and an intermediate competitive coder
+-Github:[Medulla9991](https://github.com/Medulla9991)
