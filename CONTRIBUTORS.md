@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sutan Gading Fadhillah Nasution](https://github.com/sutanlab)
+- Place: Bogor, Indonesia
+- Bio: JavaScript Developer
+- Github: [Sutan Nasution](https://github.com/sutanlab)
