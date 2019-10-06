@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Spectrum705](https://github.com/spectrum705)
+- Place: India
+- Bio: IT student 
+- Github: [https://github.com/spectrum705]
