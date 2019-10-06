@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Yogi Prasetyawan](https://github.com/yogs22)
 - Place: Yogyakarta, Indnonesia
-- Bio: Lodging Software Engineer
+- Bio: Software Engineer in Property Industry
 - Github: [Yogi Prasetyawan](https://github.com/yogs22)
