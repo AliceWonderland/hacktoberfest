@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [PERIN SHAH](https://github.com/freeformelm)
+- Place: Gujarat,India
+- Bio: A student who is busy building up communities.
+- GitHub: [Perin Shah](https://github.com/Peruvilla)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
