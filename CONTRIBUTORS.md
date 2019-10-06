@@ -310,6 +310,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Major / UI/UX Designer
 - GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
 
+### Name: [Aswin CP](https://github.com/Aswinpookkatt)
+- Place: India
+- Bio: Computer Science / Web Developer
+- GitHub: [aswinpookkatt](https://github.com/Aswinpookkatt)
+
+
 #### Name: [Attila Blascsak](https://github.com/blascsi)
 - Place: Hungary
 - Bio: Front-end dev. Love React!
