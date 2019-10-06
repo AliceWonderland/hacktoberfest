@@ -1,3 +1,8 @@
+#### Name: [Sahil Saha](https://github.com/sahilsaha7773)
+- Place: Maynaguri, West Bengal, India
+- Bio: Google Code-in 2018 grand prize winner
+- GitHub: [sahilsaha7773](https://github.com/sahilsaha7773)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
