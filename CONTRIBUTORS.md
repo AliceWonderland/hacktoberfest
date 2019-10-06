@@ -440,6 +440,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android development and a sprinkle of back end web!
 - Github: [Bryen V](https://github.com/bryen95)
 
+#### Name: [BSI](https://github.com/kingstroke)
+- Place: In
+- Bio: Programmer
+- GitHub: [S7R0K3R](https://github.com/kingstroke)
+
 #### Name: [CAPS Padilla](https://github.com/CarlosPadilla)
 - Place: Jalisco, Mexico
 - Bio: A handsome guy with the best work ever
