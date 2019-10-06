@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vikrant Srivastava](https://github.com/srivkrnt)
+- Place: Guna, India
+- Bio: Pagal
+- Github: [vikrant](https://github.com/srivkrnt)
