@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yogi Prasetyawan](https://github.com/yogs22)
+- Place: Yogyakarta, Indnonesia
+- Bio: Lodging Software Engineer
+- Github: [Yogi Prasetyawan](https://github.com/yogs22)
