@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Diogo Dores](https://github.com/DiogoDores)
+- Place: Porto, Portugal
+- Bio: Informatics and Computing Student @FEUP
+- Github: [DiogoDores](https://github.com/DiogoDores)
