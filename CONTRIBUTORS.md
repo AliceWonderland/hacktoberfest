@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Artur Polo Norte
+ - Place: Recife, Brazil
+ - Bio: Engineering student
+ - GitHub: [arturhvcpn](https://github.com/arturhvcpn)
