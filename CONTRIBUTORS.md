@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kasper Zutterman](https://kasperzutterman.github.io/)
+- Place: Ghent, Belgium
+- Bio: Third year Information Engineering student at Ghent University
+- Github: [KasperZutterman](https://github.com/KasperZutterman)
