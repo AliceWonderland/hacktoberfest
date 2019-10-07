@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: New Delhi, India
+ - Bio: CSE sophomore
+ - GitHub: [Anmol270900](https://github.com/Anmol270900)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
