@@ -696,6 +696,7 @@ s in Computer Science
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
 #### Name: [Ryan Torrance](https://github.com/torrance.jr)
-- Place: West Chester, Pa, USA
-- Bio: Full Stack Developer
+- Place: Scottsdale, AZ, USA
+- Bio: Ruby Developer
 - GitHub: [Ryan Torrance](https://github.com/torrance.jr)
+- Company: RVnGO.com
