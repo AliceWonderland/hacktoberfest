@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prince Kumar](https://github.com/onemoreprince)
+- Place: New Delhi, India
+- Bio: Web developer - WordPress
+- Github: [Prince Kumar](https://github.com/onemoreprince)
