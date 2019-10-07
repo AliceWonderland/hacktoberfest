@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ally Lyes](https://github.com/Geillish)
+- Place: Cork, Ireland
+- Bio: Student doing Web and Python
+- Github: [Geillish](https://github.com/Geillish)
