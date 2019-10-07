@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tiago Silva](https://github.com/tiago154)
+- Place: Campinas, Brazil
+- Bio: Software developer
+- Github: [Tiago Silva](https://github.com/tiago154)
