@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Mátyás Dávid](https://github.com/davimatyi)
+- Place: Hungary
+- Bio: Java developer
+- GitHub: [davimatyi](https://github.com/davimatyi)
