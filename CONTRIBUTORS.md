@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Juan Cabanillas](https://github.com/jmlopez2332)
+- Place: Perú
+- Bio: Python, C#, Software Engineer
+- Github: [jmlopez2332](https://github.com/jmlopez2332)
