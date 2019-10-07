@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Virendra patankar](https://github.com/veer11997)
+- Place: Bhopal, India
+- Bio: Web developer java and Python
+- Github: [Virendra patankar](https://github.com/veer11997)
