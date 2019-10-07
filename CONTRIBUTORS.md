@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Osayawe Ogbemudia Terry](https://github.com/terdia)
+- Place: Köln, Germany
+- Bio: Web developer - PHP, Nodejs, React, GraphQL
+- Github: [Osayawe Ogbemudia Terry](https://github.com/terdia)
