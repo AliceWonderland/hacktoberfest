@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kalpesh Gupta](https://github.com/kalpesh30)
+- Place: Rawatbhata, India
+- Bio: Android Developer
+- Githib: [Kalpesh Gupta](https://github.com/kalpesh30)
