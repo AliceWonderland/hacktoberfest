@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Coolxer](https://github.com/agnieszka-miszkurka)
+- Place: Poland
+- Bio: second year IT Student, computer programmer, IT passionate
+- GitHub: [coolxer](https://github.com/Coolxer)
