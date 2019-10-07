@@ -1,3 +1,8 @@
+#### Name: [Benjamin Anthony](www.github.com/247benji)
+- Place: Somerset, UK
+- Bio: Trainee Software Developer
+- GitHub: [Benjamin Anthony](www.github.com/247benji)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
