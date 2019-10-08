@@ -23,7 +23,8 @@ Techno India Group Academia, South Kolkata
 
 ### Projects
 
-- [My Project](https://github.com/SayanBan) SOPHOMORE STUDENT | DEVELOPER | WEB ENTHUSIAST
+- [My Project](https://github.com/SayanBan) 
+  SOPHOMORE STUDENT | DEVELOPER | WEB ENTHUSIAST
 
 ### Profile Link
 
