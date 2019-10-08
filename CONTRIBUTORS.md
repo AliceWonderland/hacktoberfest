@@ -1709,6 +1709,11 @@ Noida
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
 - GitHub: [Niall Cartwright](https://github.com/Nairu)
 
+#### Name: [Nicole Neary](https://github.com/kiyominox)
+- Place: Edmonton, Alberta, Canada
+- Bio: Originally from Bell Island, Newfoundland and Labrador, Canada.
+- GitHub: [KiyomiNox](https://github.com/kiyominox)
+
 #### Name: [Niket Mishra](https://github.com/niketmishra)
 - Place: New Delhi, Delhi, India
 - Bio: B.Tech Student in Information Technology
