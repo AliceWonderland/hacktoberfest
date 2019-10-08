@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sagnik Chattopadhyaya](https://github.com/sagnik20)
+- Place: Kolkata, India
+- Bio: Student, Competitive Coder
+- GitHub: [Sagnik Chattopadhyaya](https://github.com/sagnik20)
