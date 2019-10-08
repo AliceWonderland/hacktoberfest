@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [José Lucas](https://github.com/lukpod1)
+- Place: Recife, Pernambuco, Brazil
+- Bio: Java Developer Intern at GW Sistemas 
+- GitHub: [lukpod1](https://github.com/lukpod1)
