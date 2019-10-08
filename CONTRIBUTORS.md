@@ -2117,6 +2117,11 @@ Noida
 - Bio: Love to learn new technologies
 - GitHub: [vsnehil92](https://github.com/vsnehil9
 
+#### Name: [SOMONNOY BANERJEE](https://github.com/Somonnoy44)
+- Place: UTTAR PRADESH,INDIA
+- Bio: A code cadet striving to learn new technologies.
+- GitHub: [Somonnoy44](https://github.com/Somonnoy44)
+
 #### Name: [Sourav Verma](https://github.com/SrGrace)
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
