@@ -1,3 +1,10 @@
+
+#### Name: Ajriel
+ - Place: Tangerang, Indonesia
+ - Bio: Student, a Geek
+ - GitHub: [Ajriel](https://github.com/ajrielrm)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
