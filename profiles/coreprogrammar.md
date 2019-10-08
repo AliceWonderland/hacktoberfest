@@ -14,7 +14,6 @@ Pursuing B.Tech. in Computer Science and Engineering, UPTU Uttar Pradesh
 - Travelling
 - Gaming
 - Love to learn new languages
-- Gym
 
 ### Development
 
