@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Bhatt](https://github.com/bhattshubham15)
+- Place: Gurugram, Haryana, India
+- Bio: Software Engineer?
+- GitHub: [bhattshubham15](https://github.com/bhattshubham15)
