@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [RegularITCat](https://github.com/RegularITCat)
+- Place: Russia, Siberia
+- Bio: I love a cactus named Kesha and I'm dying of cold here with my bear named Ice!
+- GitHub: [RegularITCat](https://github.com/RegularITCat)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
