@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [kristycurrier](https://github.com/kristycurrier)
+- Place: Detroit, Michican, USA
+- Bio: Software Developer, C#/.Net, SQL, TypeScript
+- Github: [kristycurrier](https://github.com/kristycurrier)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
