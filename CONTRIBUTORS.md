@@ -1,3 +1,7 @@
+#### Name: [Shreesh](https://github.com/shreesh1)
+ - Place: India
+ - Bio: Student
+ - Github: [Shreesh](https://github.com/shreesh1)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
