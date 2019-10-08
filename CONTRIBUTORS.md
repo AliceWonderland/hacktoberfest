@@ -1,3 +1,8 @@
+#### Name: [Rishabh Gupta](https://github.com/imrishabh18)
+ - Place: Bengaluru, INDIA
+ - Bio: First year Information Science Student.
+ - GitHub: [imrishabh18](https://github.com/Vallenain)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
