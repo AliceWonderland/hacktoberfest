@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Baptiste Azéma](https://github.com/AzemaBaptiste)
+- Place: Paris, France
+- Bio: 👨‍🔧
+- Github: [Baptiste Azéma](https://github.com/AzemaBaptiste)
