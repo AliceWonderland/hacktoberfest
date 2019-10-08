@@ -1,3 +1,8 @@
+#### Name: [Farel Fathin]
+ - Place: Indonesia
+ - Bio: Developer.
+ - GitHub: [Farel] (github.com/killer-of-moon)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
