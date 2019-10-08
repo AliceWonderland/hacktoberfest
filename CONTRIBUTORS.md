@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: [Sayan Bandyopadhyay](https://github.com/SayanBan)
+- Place: West Bengal, India
+- Bio: B.Tech Student, Web Enthusiast
+- GitHub: [https://github.com/SayanBan](https://github.com/SayanBan)
+
+#### Name: Vallenain(https://github.com/Vallenain)
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
