@@ -140,6 +140,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I like free T-shirts and I cannot lie.
 - GitHub: [allesmi](https://github.com/akram-rameez)
 
+#### Name: [A Aditya](https://github.com/adi-0810)
+- Place: Mumbai, India
+- Bio: Engineering Student.
+- GitHub: [adi-0810](https://github.com/adi-0810)
+
 #### Name: [Akshat Maheshwari](https://github.com/akshat14714)
  - Place: Hyderabad, India
  - Bio: CSE Undergrad in IIIT Hyderabad
