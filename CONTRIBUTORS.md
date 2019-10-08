@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Omer Younus](https://github.com/omeryounus)
+- Place: Regina, Canada
+- Bio: Full Stack developer - Python, Java
+- Github: [Omer Younus](https://github.com/omeryounus)
