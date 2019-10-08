@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hari Prasetia](https://github.com/hariprasetia)
+- Place: Jakarta, Indonesia
+- Bio: Software and Data Engineer
+- Github: [Hari Prasetia](https://github.com/hariprasetia)
