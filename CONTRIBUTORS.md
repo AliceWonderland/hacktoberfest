@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Sankat Mochan](https://github.com/smochan)
+- place: Patna, Bihar, India
+- Bio: 1st year student of Btech in IT
+- github: [smochan](https://github.com/smochan)
