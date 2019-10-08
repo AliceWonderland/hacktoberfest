@@ -556,6 +556,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Entrepreneur, product manager, traveller
  - Github: [colinzhang](https://github.com/colinzhang)
 
+#### Name: [Shahrukh Khan](https://github.com/coreprogrammar)
+- Place: Delhi, India
+- Bio: Computer Science Engineering Student/Coder
+- GitHub: [coreprogrammar](https://github.com/coreprogrammar)
+
 #### Name: [Cristiano Bianchi](https://github.com/crisbnk)
 - Place: Italy
 - Bio: Love to learn something new everyday
