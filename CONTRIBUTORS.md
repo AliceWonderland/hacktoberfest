@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nayanajith Priyasad](https://github.com/nayane95)
+- Place: Colombo Sri Lanka
+- Bio: Computer Science Student
+- Github: [nayane95](https://github.com/nayane95)
