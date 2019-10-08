@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anime Catgirl](https://github.com/AnimeCatgirl)
+- Place: Freedomland, USA
+- Bio: JS developer
+- GitHub: [AnimeCatgirl](https://github.com/AnimeCatgirl)
