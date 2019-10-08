@@ -1183,6 +1183,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student
 - GitHub: [Jonas Fabisiak](https://github.com/RenCloud)
 
+#### Name: [Jonas Aguiar](https://github.com/jonasaguiar)
+- Place: Campina Grande, Paraiba, Brazil
+- Bio: Science Computer Student
+- GitHub: [Jonas Aguiar](https://github.com/jonasaguiar)
+
 #### Name: [Jose David](https://github.com/jose4125)
 - Place: Bogotá, Colombia
 - Bio: Web Developer
