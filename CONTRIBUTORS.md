@@ -1,3 +1,8 @@
+#### Name: Leadro F
+ - Place: Alagoas, Brasil
+ - Bio: Teacher. Graduated from Cesmac.
+ - GitHub: [leofls](https://github.com/leofls)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
