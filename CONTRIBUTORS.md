@@ -57,6 +57,11 @@
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+ 
+#### Name: [Mateus Garcia](https://github.com/naturesprophet)
+ - Place: Espírito Santo, Brazil
+ - Bio: Backend Developer and DevOps
+ - GitHub: [Natures Prophet](https://github.com/naturesprophet)
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
