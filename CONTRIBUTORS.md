@@ -2,7 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+ 
+#### Name:Rovit Lawrence Fernandes
+ -Place:Mangalore,India
+  -Bio:Second year Computer Science Student
+  -GitHub:[rovit123](https://github.com/rovit123) 
+  
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
