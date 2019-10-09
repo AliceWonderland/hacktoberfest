@@ -635,3 +635,7 @@ s in Computer Science
 - Bio: I love guitar!
 - GitHub: [JoeScho](https://github.com/JoeScho)
 
+#### Name: [Andin Fokunang](https://github.com/switchgirl95)
+- Place: Yaounde, Cameroon
+- Bio: A girl who wants to have an impact on the world with her code
+- GitHub: [switchgirl95](https://github.com/switchgirl95)
