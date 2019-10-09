@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joseph Perez](https://github.com/joseph-perez)
+- Place: Albuquerque, NM
+- Bio: Software Developer PHP and JS?
+- GitHub: [joseph-perez](https://github.com/joseph-perez)
