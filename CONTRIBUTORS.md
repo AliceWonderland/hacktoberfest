@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [David Inojosa](https://github.com/DavidInojosa)
+- Place: Brazil
+- Bio: Computer Science Student / Interested in AI and Mobile Development
+- GitHub: [DavidInojosa](https://github.com/DavidInojosa)
