@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+### Name: [Mazhar Ali Baig] (https://github.com/mazharalibaig)
+- Place: Hyderabad, Telangana
+- Bio: Clueless Student majoring in computer Science
+- Github: [Mazhar Ali Baig] (https://github.com/mazharalibaig)
