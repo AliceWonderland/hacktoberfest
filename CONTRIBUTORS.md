@@ -1,3 +1,8 @@
+#### Name: [Aman Jagdev](https://github.com/amanjagdev)
+- Place: India
+- Bio: Currently Into Web Development
+- GitHub: [amanjagdev](https://github.com/amanjagdev)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
