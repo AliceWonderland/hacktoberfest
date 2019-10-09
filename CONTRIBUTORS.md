@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daniel Campos](https://github.com/DanielCamposs98)
+- Place: Culiacán, Sinaloa, México.
+- Bio: Systems Enginner Student & Java Lover.
+- GitHub: [Daniel Campos](https://github.com/DanielCamposs98)
