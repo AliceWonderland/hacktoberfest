@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Vrinda Goyal
+ - Place: Noida, India
+ - Bio: Software engineer, studying CSE(3rd year).
+ - GitHub: [Vrinda](https://github.com/vrinda22)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
