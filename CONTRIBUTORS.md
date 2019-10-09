@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Deepika Katiyar](https://github.com/deepika309)
 - Place: New Delhi, India
 - Bio: Software Developer
-- Github: [Deepika Katiyar](https://github.com/deepika309)
+- Github: [Deepika309](https://github.com/deepika309)
