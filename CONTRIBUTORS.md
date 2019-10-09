@@ -1,3 +1,26 @@
+#### Name: [Leonardo Miraglia](https://github.com/leomendesm)
+- Place: Caraguatatuba, São Paulo, Brazil
+- Bio: :desktop_computer: Frontend Developer
+- GitHub: [leomendesm](https://github.com/leomendesm)
+
+#### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
+ - Place: Udupi, India
+ - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+ 
+#### Name: [Sam Flores](https://github.com/samflores23)
+ - Place: Chicago, IL, USA
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
+ - GitHub: [samflores23](https://github.com/samflores23)
+
+ #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
+
+#### Name: [Omid Nikrah](https://github.com/omidnikrah)
+ - Place: Tehran, Tehran, Iran
+ - Bio: Front-end developer
+ - GitHub: [omidnikrah](https://github.com/omidnikrah)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
