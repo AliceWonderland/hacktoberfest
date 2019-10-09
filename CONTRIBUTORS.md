@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Daniel Campos](https://github.com/DanielCamposs98)
-- Place: Culiacán, Sinaloa, México.
-- Bio: Systems Enginner Student & Java Lover.
+- Place: Culiacan, Sinaloa, Mexico.
+- Bio: Systems Enginner Student and Java Lover.
 - GitHub: [Daniel Campos](https://github.com/DanielCamposs98)
