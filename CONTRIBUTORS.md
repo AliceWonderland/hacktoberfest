@@ -556,6 +556,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Entrepreneur, product manager, traveller
  - Github: [colinzhang](https://github.com/colinzhang)
 
+ #### Name: [Andrew Elliott](https://www.linkedin.com/in/robert-elliott-501008163/)
+ - Place: Nashville, Tn, USA
+ - Bio: Jr Developer, Music lover, Husband
+ - Github: [Critchkn](https://github.com/Critchkn)
+
 #### Name: [Cristiano Bianchi](https://github.com/crisbnk)
 - Place: Italy
 - Bio: Love to learn something new everyday
