@@ -773,6 +773,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
 - GitHub: [Evan Culver](https://github.com/eculver)
 
+#### Name: [Elisa Martin](https://github.com/elisamartin)
+- Place: Barcelona, Spain
+- Bio: Fullstack Web Developer, Lambda School alumni
+- GitHub: [Elisa Martin](https://github.com/elisamartin)
+
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
