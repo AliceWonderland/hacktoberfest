@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ryan Hanlon](https://github.com/Hanlon199)
+- Place: Connceticut, USA
+- Bio: Software Engineer 
+- Github: [Ryan Hanlon](https://github.com/Hanlon199)
