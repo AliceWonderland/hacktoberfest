@@ -18,4 +18,4 @@ Cesar School
 
 ### Profile Link
 
-[https://github.com/DavidInojosa]
+[DavidInojosa](https://github.com/DavidInojosa)
