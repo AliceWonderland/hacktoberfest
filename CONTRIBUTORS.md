@@ -1,3 +1,8 @@
+#### Name: Kiki (https://github.com/kieks14)
+ - Place: Arnhem, the Netherlands
+ - Bio: Mechanical engineering graduate, desperate to learn how to code :)
+ - GitHub: [kieks14](https://github.com/kieks14)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
