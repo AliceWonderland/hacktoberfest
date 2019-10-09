@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Emil Marian](https://github.com/emilmarian)
+- Place: Baia Mare, Romania
+- Bio: Software Engineer
+- Github: [Emil Marian](https://github.com/emilmarian)
