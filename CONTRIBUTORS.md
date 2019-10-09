@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [venkatavamsy](https://github.com/venkatavamsy)
+- Place: Bangalore,India
+- Bio: A co-mammal on earth, Versatile Developer by profession 
+- Github: [Venkata Vamsy](https://github.com/venkatavamsy)
