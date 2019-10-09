@@ -1298,6 +1298,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Student
 - GitHub: [Konstantin](https://github.com/Kola50011)
 
+#### Name: [Krupal raj](https://github.com/krupalraj)
+- Place: coimbatore, India
+- Bio: Computer Science Student
+- GitHub: [krupal](https://github.com/krupalraj)
+
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
