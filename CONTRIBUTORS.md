@@ -1,3 +1,8 @@
+#### Name: Redvan
+ - Place: New York, USA
+ - Bio: Software Developer. Full time student @ Microverse bootcamp.
+ - GitHub: [Redvan](https://github.com/Redvanisation)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
