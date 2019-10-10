@@ -1,3 +1,8 @@
+#### Name: [Anuj Kumar](https://github.com/anujgenius2004)
+- Place: Jharkhand, India
+- Bio: I am a student
+- GitHub: [Anuj Kumar](https://github.com/anujgenius2004)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
