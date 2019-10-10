@@ -1,3 +1,7 @@
+### Name: Kartik Khariwal
+  -Place : Delhi,India
+  -Bio: Btech Student@DTU
+  Github: (https://github.com/KartikKhariwal)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
