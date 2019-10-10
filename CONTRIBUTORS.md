@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Aakash](https://github.com/Aakash-AA)
+ - Place: India
+ - Bio: Student seeking to contribute to open source projects
+ - GitHub: [Aakash](https://github.com/Aakash-AA)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
