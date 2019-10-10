@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vishwanath Muddu](https://github.com/v-Muddu)
+- Place: IL, USA
+- Bio: Software Engineer
+- Github: [Vishwanath Muddu](https://github.com/v-Muddu)
