@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Javvaji Sumanth](https://github.com/JavvajiSumanth)
+- Place: Hyderabad
+- Bio: Machine Learning Python Data Scientist
+- Github: [Javvaji Sumanth] (https://github.com/JavvajiSumanth)
