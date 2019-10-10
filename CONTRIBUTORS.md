@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Upasana Deka](https://github.com/upasanadeka)
+- Place: Delhi, India
+- Bio: Undergrad Web Developer
+- Github: [upasanadeka](https://github.com/upasanadeka)
