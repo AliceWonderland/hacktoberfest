@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dilshad](https://github.com/aadilmehdis/)
+- Place: Hyderabad, India
+- Bio: Web developer PHP and Python
+- Github: [Dilshad](https://github.com/aadilmehdis/)
