@@ -1263,6 +1263,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I am a Solution Architect and work for a large SaaS organization
 - GitHub: [Karthick Thoppe](https://github.com/karthicktv)
 
+#### Name: [Katherine Fernandes](https://github.com/katherinefernandes)
+- Place: Copenhagen, Denmark
+- Bio: Engineering student
+- Github: [katherinefernandes](https://github.com/katherinefernandes)
+
 #### Name: [Katherine S](https://github.com/kms6bn)
 - Place: San Francisco
 - Bio: Data Scientist
