@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bhavesh Gupta](https://github.com/bhavesh-g)
+- Place: Haryana, India
+- Bio: Web developer and Python
+- Github: [Bhavesh Gupta](https://github.com/bhavesh-g)
