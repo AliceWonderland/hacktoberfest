@@ -2156,6 +2156,11 @@ Noida
 - Bio: Learning web development to help with a career change!
 - GitHub: [Stu Wares](https://github.com/StuWares)
 
+#### Name: [SUBHADEEP DEYASHI](https://github.com/subhadeep-deyashi)
+- Place: Kolkata, India
+- Bio: Programmer who loves to code, 4th year(CSE)
+- GitHub: [subhadeep-deyashi](https://github.com/subhadeep-deyashi)
+
 #### Name: [Supachai Pluemjitta](https://github.com/Galleria)
 - Place: Bangkok, Thailand
 - Bio: Developer
