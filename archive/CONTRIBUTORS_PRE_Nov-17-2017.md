@@ -268,6 +268,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Junaid Choudhary](https://github.com/justjunaid)
+- Place: New Delhi, India
+- Bio: Developer
+- GitHub: [Junaid Choudhary](https://github.com/justjunaid)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
