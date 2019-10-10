@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tumo505](https://github.com/Tumo505)
+- Place: Gaborone, Botswana
+- Bio: Web and mobile app developer
+- Github: [Tumo505](https://github.com/Tumo505)
