@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DENVER ARQUIZA](https://github.com/loginaccount)
+- Place: Manila, Philippines
+- Bio: IT Developer
+- GitHub: [loginaccount](https://github.com/loginaccount)
