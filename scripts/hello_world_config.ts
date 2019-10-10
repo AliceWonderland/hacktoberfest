@@ -1,0 +1,1 @@
+export const ENGLISH_HELLO = 'English Hello';
