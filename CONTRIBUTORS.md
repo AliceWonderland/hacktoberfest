@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alexander Tischenko](https://github.com/sashaaero)
+- Place: Saint-Petersburg, Russia
+- Bio: PonyORM Developer
+- Github: [Alexander Tischenko](https://github.com/sashaaero)
