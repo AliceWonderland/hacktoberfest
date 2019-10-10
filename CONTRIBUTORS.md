@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Syed Manzar](https://github.com/smanzar)
+- Place: Karachi, Pakistan
+- Bio: Web Designer
+- Github: [smanzar](https://github.com/smanzar)
