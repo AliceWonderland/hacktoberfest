@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [olagesin](https://github.com/feyiiOlagesin)
+-Place: Lagos, Nigeria
+-Bio: Data Scientist
+-Github: [feyiiOlagesin](https://github.com/feyiiOlagesin)
