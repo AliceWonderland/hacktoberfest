@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+ #### Name:[fayiz-ck17875](https://github.com/fayiz-ck17875)
+ - Place: kerala,India
+ - Bio: student
+ - Github: [fayiz-ck17875](https://github.com/fayiz-ck17875)
