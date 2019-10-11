@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriel Cardoso](https://github.com/cardoso010)
+- Place: Bauru, Brazil
+- Bio: Software developer
+- Github: [Gabriel Cardoso](https://github.com/cardoso010)
