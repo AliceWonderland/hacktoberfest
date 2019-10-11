@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+
+#### Name: [Virginia Cruz](https://github.com/virginiarcruz)
+- Place: Fortaleza, Brazil
+- Bio: FrontEnd Developer
+- Github: [Virginia Cruz](https://github.com/virginiarcruz)
