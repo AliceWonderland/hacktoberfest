@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Sarin M
+ - Place: Kerala, India
+ - Bio: Computer Science and Engineering Student
+ - GitHub: [sarinmsari](https://github.com/sarinmsari)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
