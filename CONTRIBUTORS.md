@@ -494,6 +494,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Second year undergraduate(Computer Science)
 - GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
 
+#### Name: [FADHIL ABDULLA](https://github.com/f-adhil)
+- Place: kannur,kerala
+- Bio: first year undergraduate(electronics and communiation)
+- GitHub: [f-adhil](https://github.com/f-adhil)
+
 #### Name: [Chong Jia Wei](https://github.com/heyjiawei)
 - Place: Singapore
 - Bio: Transformer in disguise
