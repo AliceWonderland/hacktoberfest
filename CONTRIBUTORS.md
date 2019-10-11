@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tcgronk](https://github.com/tcgronk)
+- Place: California, USA
+- Bio: Web developer & Code Newbie
+- Github: [Tcgronk](https://github.com/tcgronk)
