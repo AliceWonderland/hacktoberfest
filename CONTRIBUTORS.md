@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mustafiz Kaifee](https://github.com/Mustafiz04)
+- Place: Jamshedpur, India
+- Bio: Web Developer, Java, Python | Lifelong learning
+- GitHub: [Mustafiz04](https://github.com/Mustafiz04)
