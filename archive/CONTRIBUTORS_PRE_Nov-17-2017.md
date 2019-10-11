@@ -1,3 +1,9 @@
+#### Name: [Manish Kumar](https://github.com/RManish76)
+- Place: India
+- Bio: second year Electrical Engineering Student.
+- GitHub: [RManish76](https://github.com/RManish76)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
