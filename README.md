@@ -134,4 +134,4 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
 
 ## Hacktoberfest works better
-check out [hacktoberfest](https://hacktoberfest.digitalocean.com)
+check out. [hacktoberfest](https://hacktoberfest.digitalocean.com)
