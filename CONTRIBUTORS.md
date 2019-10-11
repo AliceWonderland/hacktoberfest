@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [VAIBHAV](https://github.com/iam2002)
+- Place: India
+- Bio: First year UGC Computer Science Student, Sketch Artist <3
+- GitHub: [Vaibhav](https://github.com/iam2002)
