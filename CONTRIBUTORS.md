@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Olamide Aboyeji](https://github.com/aolamide)
+- Place: Lagos, Nigeria
+- Bio: Student - Web developer
+- Github: [Olamide Aboyeji](https://github.com/aolamide)
