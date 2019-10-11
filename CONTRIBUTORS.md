@@ -1000,6 +1000,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
 - Github: [Ishan Jain](https://github.com/ishanjain28)
 
+#### Name: [Ishan Sharma](https://github.com/ishandeveloper)
+- Place: Jalandhar,Punjab, India
+- Bio: .NET | Machine Learning | AI |Web Developer | UI/UX Designer | App Developer || Python | Bootstrap
+- Github: [ishandeveloper](https://github.com/ishandeveloper)
+
 #### Name: [Italo Góis](https://github.com/italogois)
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Front End Developer
