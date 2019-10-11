@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: Dhanush
+ - Place: India
+ - Bio: Student pursuing a Bachelor's degree in Computer Science
+ - GitHub: [Dhanush-05](https://github.com/Dhanush-05)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
