@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+####  Name: Surya Madhavan
+- Place : Mumbai,India
+- Bio: second year in ECE , love code 
+- GitHub : [greykoalacode](https://github.com/greykoalacode)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
