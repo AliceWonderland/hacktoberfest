@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Lucas Marinzeck
+ - Place: Ribeirão Preto, Brazil
+ - Bio: Software engineer.
+ - GitHub: [lucasmarinzeck](https://github.com/lucasmarinzeck)
