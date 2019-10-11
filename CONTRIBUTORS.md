@@ -1,3 +1,8 @@
+#### Name: [Sri Harsha G](https://github.com/GSri30)
+- Place: Hyderabad, Telangana, India
+- Bio: A 17 year old little one having hunger to explore and learn new things (including how to make a pull request! XD)
+- GitHub: [GSri30](https://github.com/GSri30)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
