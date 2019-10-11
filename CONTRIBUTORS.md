@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [akorede12](https://github.com/akorede12)
+-place: Lagos. Nigeria
+-Bio: python developer,tensorflow developer and blockchain developer
+-Github: [Aboaba Akorede]()
