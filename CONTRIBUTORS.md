@@ -3,7 +3,7 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
-#### Name: Surya Madhavan
+####  Name: Surya Madhavan
 - Place : Mumbai,India
 - Bio: second year in ECE , love code 
 - GitHub : [greykoalacode](https://github.com/greykoalacode)
