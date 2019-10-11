@@ -185,6 +185,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Web Developer
  - GitHub: [apfaff](https://github.com/apfaff)
 
+#### Name: [Manavendra Sen](https://github.com/manavendrasen)
+- Place: Jaipur, India
+- Bio: Undergrad Information Technology Student at Manipal Universuty Jaipur, interested in ML
+- GitHub: [manavendrasen](https://github.com/manavendrasen)
+
 #### Name: [Alexander Voigt](https://github.com/alexandvoigt)
 - Place: San Francisco, CA, USA
 - Bio: Software Engineer
