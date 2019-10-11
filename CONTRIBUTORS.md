@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriel Affonso](https://github.com/inutilismo)
+- Place: São Paulo, Brazil
+- Bio: Back-End developer
+- Github: [Inutilismo](https://github.com/inutilismo)
