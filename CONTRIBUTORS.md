@@ -1,3 +1,7 @@
+#### Name: [NAVANIT NANDAKUMAR](https://github.com/navanxt)
+- Place: Kochi, Kerala, India
+- Bio: First year electronics student, love coding.
+- GitHub: [navanxt](https://github.com/navanxt)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
