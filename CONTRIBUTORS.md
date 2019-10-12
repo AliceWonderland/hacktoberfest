@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishab Mudliar](https://github.com/Dazedtiara6677)
+- Place: Nagpur,India
+- Bio: Learning web development,1st year computer science engineer 
+- Github: [Rishab Mudliar](https://github.com/Dazedtiara6677)
