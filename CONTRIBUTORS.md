@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+ #### Name: Mulubwa
+ - Place: Lusaka, Zambia
+ - Bio: web developer @ BongoHive.
+ - GitHub: [Mulubwa17](https://github.com/Mulubwa17)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
