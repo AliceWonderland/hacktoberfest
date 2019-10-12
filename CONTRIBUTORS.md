@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mike] (https://github.com/mb2dev)
+ - Place: Paris, France
+ - Bio: Software engineer. Graduated from ESGI.
+ - GitHub: [mb2Dev](https://github.com/mb2dev)
