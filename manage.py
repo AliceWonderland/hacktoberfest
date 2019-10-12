@@ -16,7 +16,7 @@ def format_contributor(contrib):
     """
     Helper function to format the details properly.
     """
-    name_str = 'Name: ['
+    name_str = 'Name: ['                     //This will initialize Name to a string
     contrib = contrib.replace('：', ':')
     contrib = contrib.replace('htpps', 'https')
     contrib = contrib.replace('Name:[', name_str)
