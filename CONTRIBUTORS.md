@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Luiza Magalhães](https://github.com/LuizaMagalhaes)
+- Place: São Paulo, São Paulo, Brazil
+- Bio: Full stack developer (Ruby on rails)
+- GitHub: [Luiza Magalhães](https://github.com/LuizaMagalhaes)
