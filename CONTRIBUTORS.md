@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Adnan Sayyed](https://github.com/sayyedadnan)
+- Place: Maryland, USA
+- Bio: Aspiring Computer scientist 
+- Github: [Ítalo Epifânio](https://github.com/sayyedadnan)
