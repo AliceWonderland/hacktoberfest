@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sudhansu3299] (https://github.com/sudhansu3299)
+- Place: India
+- Bio: second year Computer science student
+- Github: [sudhansu3299] (https://github.com/sudhansu3299)
