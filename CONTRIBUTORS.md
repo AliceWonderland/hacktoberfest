@@ -1,3 +1,8 @@
+#### Name: [MELISSA PEIFFER](https://github.com/mpeiffer)
+- Place: Arizona
+- Bio: CS Student, sticker fanatic
+- GitHub: [mpeiffer](https://github.com/mpeiffer)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
