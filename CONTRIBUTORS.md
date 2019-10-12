@@ -1,3 +1,9 @@
+
+#### Name: [PIYUSH TIWARI](https://github.com/PamperedGenius6098)
+- Place: India
+- Bio: High School Student, in love with Python <3
+- GitHub: [PamperedGenius6098](https://github.com/PamperedGenius6098)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
