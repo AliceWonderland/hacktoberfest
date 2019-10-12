@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sarang RK](https://github.com/MR-Opz)
+Place:India
+-Bio:Computer Science Student
+-Github: [Sarang RK](https://github.com/MR-Opz)
