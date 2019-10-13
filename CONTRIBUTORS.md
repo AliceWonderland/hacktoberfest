@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shungo Najima](https://github.com/itepifanio)
+- Place: Singapore, Singapore
+- Bio: CS Major from UCSD
+- Github: [najima44855](https://github.com/najima44855)
