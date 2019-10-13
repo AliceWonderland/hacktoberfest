@@ -125,6 +125,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - GitHub: [akanijade] (https://github.com/akanijade/)
 
+#### Name: [Zala] (https://github.com/zala123/)
+- Place: Slovenia
+- Bio: Student
+- GitHub: [zala123] (https://github.com/zala123/)
+
 #### Name: [Akash Goel] (https://github.com/akashgoel1197)
 - Place: India
 - Bio: Gamer
