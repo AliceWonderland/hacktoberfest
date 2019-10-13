@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [mrforprogrammer](https://github.com/mrforprogrammer)
+- Place: Samara, Russia
+- Bio: Tester
+- GitHub: [mrforprogrammer](https://github.com/mrforprogrammer)
