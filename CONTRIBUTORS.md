@@ -2037,6 +2037,11 @@ Noida
 - Bio: ECE Undergraduate
 - GitHub: [Sarthak Bhagat](https://github.com/sarthak268)
 
+#### Name: [Scope Wow](https://github.com/scope2018)
+- Place: DC, USA
+- Bio: Software Engineer
+- GitHub: [Scope Woe](https://github.com/scope2018)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
