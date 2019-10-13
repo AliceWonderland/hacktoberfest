@@ -1,3 +1,8 @@
+#### Name: Adithya Sunil
+- Place: Hyderabad, Telangana,India
+- Bio: 1st year student
+- GitHub: [adithyasunil26](https://github.com/Vallenain/adithyasunil26)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
