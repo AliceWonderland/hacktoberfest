@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ritty Thomas] (https://github.com/rittythomas)
+- Place : Kerala, India
+- Bio: CS Student
+- Github : [rittythomas] (https://github.com/rittythomas)
