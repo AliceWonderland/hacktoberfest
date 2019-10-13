@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [gabbigum](https://github.com/gabbigum)
+- Place: Edinburgh, Scotland
+- Bio: Software Engineering Student
+- GitHub: [gabbigum](https://github.com/gabbigum)
