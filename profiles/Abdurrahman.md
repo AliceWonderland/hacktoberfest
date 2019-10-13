@@ -2,7 +2,7 @@
 
 ### Location
 
-Pekalongan, Central Java, Indonesia
+Solo, Central Java, Indonesia
 
 ### Community
 

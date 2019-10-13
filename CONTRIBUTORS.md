@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Abdurrahman](https://github.com/abdrrahmenz)
-- Place: Pekalongan, Indonesia
+- Place: Solo, Indonesia
 - Bio: Android Developer
 - Github: [Abdurrahman](https://github.com/abdrrahmenz)
