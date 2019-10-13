@@ -26,8 +26,13 @@
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
- - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
-
+ - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512
+ 
+#### Name: [VIVEK](https://github.com/vivekgopalshetty)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [https://github.com/vivekgopalshetty]
+ 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
