@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Nalini](https://github.com/adinalini)
+- Place: Haryana, India
+- Bio: Student, Blockchain enthusiast
+- Github: [Adinalini](https://github.com/adinalini)
