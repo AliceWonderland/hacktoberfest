@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Arsevys](https://github.com/arsevys)
+- Place:Lima , Peru
+- Bio: DEvelopper Blockchain
+- Github: [Arsevys](https://github.com/arsevys)
