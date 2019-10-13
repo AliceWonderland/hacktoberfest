@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shruti Santosh] (https://github.com/shruti-santosh)
+- Place: Kerala, India
+- Bio: I'm new to all this
+- Github: [shruti-santosh] (https://github.com/shruti-santosh)
