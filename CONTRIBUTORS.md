@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Regem Semilla](https://github.com/GemzBond)
+- Place: Philippines
+- Bio: Web developer 
+- Github: [GemzBond](https://github.com/GemzBond)
