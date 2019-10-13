@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Vishal Tapase](https://github.com/VishalTapase)
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [Vishal Tapase](https://github.com/VishalTapase)
