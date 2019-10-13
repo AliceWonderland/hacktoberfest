@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vedant Mishra](https://github.com/vedant8970)
+-Place: Lucknow, India
+-Bio:- Web Devloper
+-Github:- [Vedant Mishra](https://github.com/vedant8970)
