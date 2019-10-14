@@ -2333,6 +2333,11 @@ Noida
 - Bio: Front-end Developer
 - GitHub: [Wan Wan](https://github.com/lf2com)
 
+#### Name: Waun Broderick
+ - Place: Peterborough, Ontario
+ - Bio: Full-Stack Developer @ Gyroscopic
+ - GitHub: [Waun Broderick](https://github.com/WaunBroderick)
+
 #### Name: [Warrin Pipon](https://github.com/lgdroidz)
 - Place: Davao, Philippines
 - Bio: Web Developer
