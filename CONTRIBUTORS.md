@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alicialic](https://github.com/alicialic)
+- Place: Jakarta, Indonesia
+- Bio: Web developer
+- Github: [Alicialic](https://github.com/alicialic)
