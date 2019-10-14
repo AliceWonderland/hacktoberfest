@@ -1424,10 +1424,10 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Mai](https://github.com/mai-am/)
 - Place: Oslo, Norway
-- Bio: Back-end developer
-- GitHub: [Mai-Am](https://github.com/MahdiMajidzadeh/)
+- Bio: Full-stack developer
+- GitHub: [Mai-Am](https://github.com/mai-am/)
 
-#### Name: [Mahdi Majidzadeh](https://github.com/mai-am/)
+#### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Place: Qom, Qom, Iran
 - Bio: back-end develoer and seo expert
 - GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
