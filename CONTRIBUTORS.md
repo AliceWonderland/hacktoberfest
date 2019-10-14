@@ -1,3 +1,8 @@
+#### Name: Shivendra Saurav
+ - Place: Bengaluru, India
+ - Bio: UI/UX Designer
+ - Github: [shivendrasaurav](https://github.com/shivendrasaurav)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
