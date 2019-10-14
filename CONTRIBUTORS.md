@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bennie van der Walt](https://github.com/bvdwalt)
+- Place: Pretoria, South Africa
+- Bio: C# .NET developer
+- Github: [Bennie van der Walt](https://github.com/bvdwalt)
