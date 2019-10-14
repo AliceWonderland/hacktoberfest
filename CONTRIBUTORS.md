@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yudi Purwanto](https://github.com/zhiephie)
+ - Place: Jakarta, Indonesia
+ - Bio: Software Engineer.
+ - GitHub: [Yudi Purwanto](https://github.com/zhiephie)
