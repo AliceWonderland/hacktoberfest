@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anto](https://github.com/callmeanto)
+- Place: Caracas, Venezuela
+- Bio: Computer Science student and math lover, at nights imma software developer
+- Github: [gipsi](https://github.com/callmeanto)
