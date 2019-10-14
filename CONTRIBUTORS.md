@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishi Khanna](https://github.com/RishiRich94/)
+- Place: City, State, Country
+- Bio: Recently Gradudated Developer working in Full Stack
+- GitHub: [RishiRich94](https://github.com/RishiRich94/)
