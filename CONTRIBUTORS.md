@@ -1,3 +1,8 @@
+#### Name: Mrigakshi
+ - Place: Punjab, India
+ - Bio: Software engineer. Graduated from Chandigarh University.
+ - GitHub: [mrigakshi30](https://github.com/mrigakshi30)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
