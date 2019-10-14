@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Axel Rammon](https://github.com/axelrammon)
+- Place: Natal, Brazil
+- Bio: Web developer Javascript
+- Github: [Axel Rammon](https://github.com/axelrammon)
