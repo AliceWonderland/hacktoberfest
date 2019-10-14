@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kapeesh Kaul](https://github.com/kapeesh-kaul)
+- Place: India
+- Bio: CS Student at SRMIST
+- Github: [kapeesh-kaul](https://github.com/kapeesh-kaul)
