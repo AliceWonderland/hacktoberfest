@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Galih Sansabilla](https://github.com/sansabillagalih)
+- Place: Bandung, Indonesia
+- Bio: Student at International Woman University
+- GitHub: [sansabillagalih](https://github.com/sansabillagalih)
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
