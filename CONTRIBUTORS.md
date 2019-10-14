@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanuj wagadre](https://github.com/i-tanuj)
+- Place: Bhopal, India
+- Bio: java and Python developer
+- Github: [Tanujwagadre](https://github.com/i-tanuj)
+
+
