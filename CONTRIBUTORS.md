@@ -1,3 +1,9 @@
+#### Name: KHAIRI
+ - Place: Bekasi, Indonesia
+ - Bio: Junior Programmer
+ - GitHub: [KHAIRI] (https://github.com/khairiansyah)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
