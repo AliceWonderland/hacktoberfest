@@ -1,3 +1,8 @@
+#### Name: Rasya Hamdi
+ - Place: Indonesia, Bekasi, Lippo Cikarang
+ - Bio: Programer
+ - GitHub: [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
