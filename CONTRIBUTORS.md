@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Edwin Ho](https://github.com/eaho1)
+- Place: Lake Forest, CA, United States
+- Bio: Python/C# SDET and Game Developer
+- GitHub: [eaho1](https://github.com/eaho1)
