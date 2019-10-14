@@ -1015,6 +1015,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [NATALIA](https://github.com/nataliaev21)
+- Place: Odisha
+- Bio: Student Programmer
+- GitHub: [Natalia](https://github.com/nataliaev21)
+
 #### Name: [JOE SCHO](https://github.com/JoeScho)
 - Place: London, UK
 - Bio: I love guitar!
