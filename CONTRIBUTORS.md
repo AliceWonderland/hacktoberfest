@@ -2423,6 +2423,11 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Prachi Sarda](https://github.com/PrachiSarda)
+- Place: New Delhi, India
+- Bio: Undergrad Student, Delhi Technological University
+- GitHub: [Prachi Sarda](https://github.com/PrachiSarda/)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
