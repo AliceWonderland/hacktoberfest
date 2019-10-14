@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tafadzwa Muteke](https://github.com/tmuteke)
+- Place: Harare, Zimbabwe
+- Bio: Designer, developer
+- Github: [tmuteke](https://github.com/tmuteke)
