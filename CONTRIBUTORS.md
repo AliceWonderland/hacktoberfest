@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Justin McCarthy](https://github.com/mccar085)
+- Place: San Diego, California
+- Bio: Comp Sci Student
+- Github: [Justin McCarthy](https://github.com/mccar085)
