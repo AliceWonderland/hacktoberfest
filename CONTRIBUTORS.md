@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Elise Guezel](https://github.com/Elisecroft)
+- Place: Nantes (France)
+- Bio: I'm a JavaScript Student
+- GitHub: [Elisecroft](https://github.com/Elisecroft)
