@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratyush M](https://github.com/pratyushmp/)
+- Place: Bangalore, India
+- Bio: Student, 3rd Year
+- Github: [Pratyush M](https://github.com/pratyushmp/)
