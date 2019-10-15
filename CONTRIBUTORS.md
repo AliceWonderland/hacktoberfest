@@ -375,6 +375,11 @@ to explore life. Also, Python and Django Developer
  - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
  - GitHub: [Bennie Mosher](https://github.com/benniemosher)
 
+### Name : [Bhagya Rana](https://github.com/BhagyaRana)
+ - Place: India
+ - Bio: Computer Science UG 
+ - GitHub: [Bhagya Rana](https://github.com/BhagyaRana)
+
 #### Name: [Bharath Kumar](https://github.com/iambk)
  - Place: India
  - Bio: Computer Science Undergraduate
