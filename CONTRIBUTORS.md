@@ -2117,6 +2117,11 @@ Noida
 - Bio: Love to learn new technologies
 - GitHub: [vsnehil92](https://github.com/vsnehil9
 
+#### Name: [Soodeshna Bappoo](https://github.com/sbappoo)
+- Place: Mauritius
+- Bio: Software Developer 
+- Github: [sbappoo](https://github.com/sbappoo)
+
 #### Name: [Sourav Verma](https://github.com/SrGrace)
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
