@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prathyusha](https://github.com/PrathyushaPolepalli)
+- Place: Ponda, Goa, India
+- Bio: Student at NIT Goa
+- GitHub: [Prathyusha Polepalli](https://github.com/PrathyushaPolepalli)
