@@ -479,6 +479,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer at ReturnPath
 - Github: [cecyc](https://github.com/cecyc)
 
+#### Name: [Celeste Zapata](https://github.com/zetadeceleste)
+- Place: Mendoza, Argentina
+- Bio: Front-end Developer
+- GitHub: [zetadeceleste](https://github.com/zetadeceleste)
+
 #### Name: [Charlie Stanton](https://github.com/shtanton)
 - Place: Southend-On-Sea, England
 - Bio: JavaScript Tinkerer, Lover of Vim
