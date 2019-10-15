@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [djsdvg](https://github.com/djsdvg)
+
+- Place: Verona, Italy
+- Bio: Computer Science Student
+- Github: [djsdvg](https://github.com/djsdvg)
