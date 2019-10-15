@@ -1779,6 +1779,11 @@ Noida
 - Bio: Undergraduate CS student / Software Developer
 - GitHub: [PanosVl](https://github.com/PanosVl)
 
+#### Name: [PARAS KAUSHIK](https://github.com/parask11)
+- Place: New Delhi, India
+- Bio: Computer Engineering Student
+- GitHub: [parask11](https://github.com/parask11)
+
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
 - Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
