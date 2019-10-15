@@ -1970,6 +1970,11 @@ Noida
 - Bio: A Coder!!
 - GitHub: [codealtgeek](https://github.com/codealtgeek)
 
+#### Name: [Rosario](https://github.com/tirannosario)
+- Place: Turin, Italy
+- Bio: A Computer Science Student
+- GitHub: [tirannosario](https://github.com/tirannosario)
+
 #### Name: [Rupesh Kumar](https://github.com/vmcniket)
 - Place: India
 - Bio: KIIT University IT student
