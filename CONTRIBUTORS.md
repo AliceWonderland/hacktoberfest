@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shambhav Tyagi](https://github.com/shambhav11)
+- Place: Varanasi, India
+- Bio: Android and Java Developer
+- Github: [Shambhav Tyagi](https://github.com/shambhav11)
