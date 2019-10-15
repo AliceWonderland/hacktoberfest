@@ -469,6 +469,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CS Student at Florida International University
 - GitHub: [Carlos Lahrssen](https://github.com/carloslahrssen)
 
+#### Name: [Varnit Mittal](https://github.com/varnitmittal/)
+ - Place: New Delhi, India
+ - Bio: Interested in Deep Learning, Computer Vision & AI Research.
+ - GitHub: [varnitmittal](https://github.com/varnitmittal/)
+
 #### Name: [Casey Schroeder] (https://github.com/cdschroeder)
 - Place: Cincinnati, OH, USA
 - Bio: Technical writer, gamer, coffee lover.
