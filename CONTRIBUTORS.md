@@ -27,6 +27,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+ #### Name: [SACHITH](https://github.com/sachith-1)
+ - Place: Badulla,Sri lanka
+ - Bio: Student
+ - GitHub: [sachith-1](https://github.com/sachith-1)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
