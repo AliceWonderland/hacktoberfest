@@ -799,6 +799,11 @@ to explore life. Also, Python and Django Developer
 - Github: [fercreek](https://github.com/fercreek)
 - Website: [Blog](https://fercontreras.com/)
 
+#### Name: [Divyam Goyal](https://github.com/idivyamgoyal)
+ - Place: New Delhi, India
+ - Bio: Interested in Deep Learning, Computer Vision & AI Research and Statistics.
+ - GitHub: [idivyamgoyal](https://github.com/idivyamgoyal)
+
 #### Name: [Fran Acién](https://github.com/acien101)
 - Place: Madrid, Spain
 - Bio: Full of empty
