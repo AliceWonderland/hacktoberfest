@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aaron Leopold](https://github.com/aaronleopold)
+ - Place: Gainesville, Florida
+ - Bio: Student
+ - GitHub: [aaronleopold](https://github.com/aaronleopold)
