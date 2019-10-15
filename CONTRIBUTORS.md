@@ -1,3 +1,7 @@
+#### Name: [A Nithin Krishna](https://github.com/nithinkrishna49)
+- Place: Bangalore,Karnataka,India
+- Bio: Student at IIT Kharagpur
+- GitHub: [nithinkrishna49](https://github.com/nithinkrishna49)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
