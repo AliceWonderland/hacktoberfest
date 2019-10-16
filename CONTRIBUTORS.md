@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kush](https://github.com/kush1307)
+- Place: Gujarat,India
+- Bio:Student
+- GitHub:[Kush](https://github.com/kush1307)
