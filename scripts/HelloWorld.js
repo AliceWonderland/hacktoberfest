@@ -1,17 +1,11 @@
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Jeevan Chapagain
-// GITHUB: https://github.com/jeevanc
-/* REQUIREMENTS: 
-    - Express.js (built-in, https://www.npmjs.com/package/express)
-*/
+const code = [72, 101, 108, 108, 111, 0, 87, 111, 114, 108, 100]
 
-var express = require('express');
-var router = express.Router();
+let codeToAscii = function(element) {
+    return String.fromCharCode(element)
+}
 
+let result = code.map(codeToAscii).reduce(function (accumulator, currentValue) {
+    return accumulator + currentValue
+})
 
-router.get('/', function(req, res, next) {
-  res.send('Hello World!');
-});
-
-module.exports = router;
+console.log(result)
