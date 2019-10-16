@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rahul Jain](https://github.com/rahuldkjain)
+- Place: Bangalore, India
+- Bio: Front End Developer 
+- Github: [Rahul Jain](https://github.com/rahuldkjain)
