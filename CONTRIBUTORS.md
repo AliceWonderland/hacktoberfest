@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rodrigo Ferreira](https://github.com/ferreiraRodrigo)
+- Place: Rio de Janeiro, Brasil
+- Bio: Computer Science student. Learn how to code for web and making games.
+- GitHub: [Rodrigo Ferreira](https://github.com/ferreiraRodrigo)
