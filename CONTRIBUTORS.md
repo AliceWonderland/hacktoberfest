@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hasal Fernando](https://github.com/hasalfernando)
+- Place: Colombo, Sri Lanka
+- Bio: Developer
+- Github: [Hasal Fernando](https://github.com/hasalfernando)
