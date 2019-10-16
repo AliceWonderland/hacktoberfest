@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manav Mehra](https://github.com/manavmehra96/)
+- Place: Toronto, Canada
+- Bio: Student UWaterloo
+- Github: [manavmehra96](https://github.com/manavmehra96/)
