@@ -1,3 +1,8 @@
+#### Name: Ryan Lee
+ - Place: Massachusetts, USA
+ - Bio: Front-end Dev. Beer lover, drummer, dog dad :dog:.
+ - GitHub: [jazzninja](https://github.com/jazzninja)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
