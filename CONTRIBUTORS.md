@@ -1,3 +1,8 @@
+#### Name: [PRANNAY HEBBAR](https://github.com/Pran-ker)
+- Place: Pune , India
+- Bio: First year at VIT Vellore
+- GitHub: [PRANNAY HEBBAR](https://github.com/Pran-ker)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
