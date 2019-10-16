@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Damian Diaz](https://github.com/damiandiaz212)
+- Place: Baldwin, NY, US
+- Bio: Student developer
+- GitHub: [damiandiaz212](https://github.com/damiandiaz212)
