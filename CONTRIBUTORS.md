@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -12,6 +12,11 @@
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
+
+#### Name: [PRAVALLIKA KURA](https://github.com/PravallikaKura)
+- Place: Hyderabad
+- Bio: Student
+- GitHub: [PravallikaKura](https://github.com/PravallikaKura)
 
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
