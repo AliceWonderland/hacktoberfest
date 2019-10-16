@@ -265,6 +265,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Backend Developement | Snake Charmer | Student
 - GitHub: [Ankit Chhetri](https://github.com/ankitch)
 
+#### Name: [Ankit Garg](https://github.com/ankitgargsma)
+- Place: Noida, Uttar Pradesh, India
+- Bio: Machine Learning Enthusiast. Web Developer.
+- GitHub: [Ankit Garg](https://github.com/ankitgargsma)
+
 #### Name: [Ankit Rai](https://github.com/ankitrai96)
 - Place: Greater Noida, Uttar Pradesh, India
 - Bio: A high functioning geek, et cetera.
