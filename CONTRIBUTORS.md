@@ -1,3 +1,8 @@
+#### Name: Rohith
+ - Place: India
+ - Bio: Student, ECE
+ - Portfolio: http://rohithdevarshetty.github.io
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
