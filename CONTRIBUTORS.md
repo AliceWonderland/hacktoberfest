@@ -2002,6 +2002,11 @@ Noida
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
+#### Name: Sayali Patil
+ - Place: Navi Mumbai, India
+ - Bio: Student  SIES Graduate School of Technology.
+ - GitHub: [Sayali](https://github.com/sayali1998)
+
 #### Name: [Sai Praneeth](https://github.com/saip009)
 - Place: Mumbai, India
 - Bio: Programmer
