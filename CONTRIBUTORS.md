@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Riki](https://github.com/nowithki)
+- Place: Jakarta, Indonesia
+- Bio: Junior programmer and permanent student
+- Github: [nowithki](https://github.com/nowithki)
