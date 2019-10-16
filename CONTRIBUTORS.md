@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sid Pagariya](https://github.com/sidpagariya)
+- Place: Ann Arbor, Michigan
+- Bio: Passionate pumped programmer
+- GitHub: [sidpagariya](https://github.com/sidpagariya)
