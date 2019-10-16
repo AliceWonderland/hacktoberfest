@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Stanley Zhao] (https://github.com/OGr0cket)
+- Place: New York
+- Bio: Student
+Github: [Stanley Zhao] (https://github.com/OGr0cket)
