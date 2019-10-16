@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Flavia
+// GITHUB: https://github.com/flaviamedici
+
+console.log('Hello, World!');

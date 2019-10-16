@@ -160,6 +160,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Aspiring Front-end Web Dev
 - Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 
+
 #### Name: [Alex Blum](https://github.com/alexblum)
  - Place: Germany
  - Bio: Webdeveloper
@@ -798,6 +799,13 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - Github: [fercreek](https://github.com/fercreek)
 - Website: [Blog](https://fercontreras.com/)
+
+#### Name: [Flavia](https://github.com/flaviamedici)
+- Place: Seattle, WA
+- Bio: Front-End Web Developer
+- Github: (https://github.com/flaviamedici)
+- Website: (https://flaviamedici.com/)
+
 
 #### Name: [Fran Acién](https://github.com/acien101)
 - Place: Madrid, Spain
