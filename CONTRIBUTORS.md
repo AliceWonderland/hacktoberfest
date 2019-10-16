@@ -1,3 +1,9 @@
+#### Name: [Fabio Chiarani](https://github.com/Xiryl)
+- Place: Italy, IT
+- Bio: Student & Developer
+- GitHub: [Fabio Chiarani](https://github.com/Xiryl)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
