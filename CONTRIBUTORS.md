@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Iishi Patel](https://github.com/iishipatel)
+- Place: New Delhi, India
+- Bio: Machine Learning and Backend Developer
+- Github: [iishipatel](https://github.com/iishipatel)
