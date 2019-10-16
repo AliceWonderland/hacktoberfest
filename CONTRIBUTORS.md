@@ -575,6 +575,11 @@
 - Bio: 3rd Year CS undergrad at IIIT Hyderabad.
 - GitHub: [Noveen Sachdeva](https://github.com/noveens)
 
+#### Name: [Yash Goyal](https://github.com/yash-iiith)
+ - Place: Hyderabad, Telangana, India
+ - Bio: Researcher at IIIT Hyderabad.
+ - GitHub: [Yash Goyal](https://github.com/yash-iiith)
+
 #### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
 - Place: Seattle, WA, USA
 - Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
