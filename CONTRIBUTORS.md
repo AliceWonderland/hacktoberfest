@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Garfianto Dwi](https://github.com/fiiann)
+- Place: Semarang, Indonesia
+- Bio: Android Programmer 
+- Github: [Garfianto Dwi](https://github.com/fiiann)
