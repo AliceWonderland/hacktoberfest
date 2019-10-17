@@ -1233,6 +1233,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
+#### Name: [Jules Le Bris](https://github.com/ripoul)
+- Place: France
+- Bio: Python enthousiast
+- GitHub: [ripoul](https://github.com/ripoul)
+
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
