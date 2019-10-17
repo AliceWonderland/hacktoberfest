@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [satwik srivastava](https://github.com/satwik707)
+- Place: chennai,India
+- Bio: Web developer javascript
+- Github: [Ítalo Epifânio](https://github.com/satwik707)
