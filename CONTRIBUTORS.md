@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Noobcoder](https://github.com/agnieszka-miszkurka)
+- Place: India
+- Bio: IT Undergrad
+- GitHub: [noobcoder-star](https://github.com/noobcoder-star)
