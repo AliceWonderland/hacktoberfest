@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Garfianto Dwi](https://github.com/fiiann)
 - Place: Semarang, Indonesia
-- Bio: Android Programmer newbie
+- Bio: Android Programmer 
 - Github: [Garfianto Dwi](https://github.com/fiiann)
