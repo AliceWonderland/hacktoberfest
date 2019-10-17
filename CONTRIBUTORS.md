@@ -1649,6 +1649,11 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [Muslim Al Fatih](https://github.com/muslimalfatih)
+- Place: Jakarta, Indonesia
+- Bio: Front End Developer
+- GitHub: [muslimalfatih](https://github.com/muslimalfatih)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
