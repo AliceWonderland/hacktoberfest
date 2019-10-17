@@ -1,3 +1,8 @@
+#### Name: Matheus Del Claro
+ - Place: Brazil
+ - Bio: Computer Science Graduated. React/React Native/Node.js developer
+ - GitHub: [mdelclaro](https://github.com/mdelclaro)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
