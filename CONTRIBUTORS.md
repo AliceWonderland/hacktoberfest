@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Geraldo Braz](https://github.com/geraldobraz)
+- Place: Recife, Brazil
+- Bio: Fullstack Developer and Python
+- Github: [Geraldo Braz](https://github.com/geraldobraz)
