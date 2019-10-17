@@ -1,3 +1,8 @@
+#### Name: Karun Pabbi
+ - Place: Bangalore,India
+ - Bio: System engineer.
+ - GitHub: [karunpabbi](https://github.com/karunpabbi)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
