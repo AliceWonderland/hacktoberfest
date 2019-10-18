@@ -1,3 +1,8 @@
+#### Name: Edwin Harly
+- Place: Medan, North Sumatra, Indonesia
+- Bio: Web Developer
+- GitHub: [Edwin Harly](https://github.com/edwinharly)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
