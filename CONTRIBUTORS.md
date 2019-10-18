@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Paola Wechs](https://github.com/pwechs83)
+- Place: Germany
+- Bio: Web developer PHP
+- Github: [Paola Wechs](https://github.com/pwechs83)
