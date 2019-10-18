@@ -1248,6 +1248,11 @@ to explore life. Also, Python and Django Developer
  - Bio: PHP Developer
  - Github: [jusdeleon](https://github.com/jusdeleon)
 
+#### Name: [Julian Prasetyo](https://github.com/picobug)
+- Place: Surabaya, Jawa Timur, Indonesia
+- Bio: Frontend Developer especially VueJS & NuxtJS
+- GitHub: [picobuge](https://github.com/picobug)
+
 #### Name: [K Foster](https://foster.im)
 - Place: West Sussex, UK
 - Bio: Web Developer
