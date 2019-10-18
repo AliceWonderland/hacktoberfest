@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Uğur Soğukpınar](https://github.com/ugursogukpinar)
+- Place: İstanbul, Turkey
+- Bio: Software Developer
+- GitHub: [Uğur Soğukpınar](https://github.com/ugursogukpinar)
