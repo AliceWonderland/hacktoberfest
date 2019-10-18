@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Daffa Arya Shofwan
+ - Place: Jakarta Utara,Tg.Priok
+ - Bio: Software engineer.
+ - GitHub: [Daffaarya](https://github.com/Daffaarya)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
