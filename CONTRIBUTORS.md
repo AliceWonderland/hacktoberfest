@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [AurumnPegasus] (https://github.com/AurumnPegasus)
+#### Name: [AurumnPegasus] 
 - Place: Hyderabad, India
 - Bio: Student, Coder
 - GitHub: [AurumnPegasus] (https://github.com/AurumnPegasus)
