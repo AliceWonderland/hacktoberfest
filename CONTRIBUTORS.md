@@ -1,3 +1,8 @@
+#### Name: [CAROLINA CULLINGTON](https://github.com/CarolinaCullington)
+ - Place: Colchester, Essex, UK
+ - Bio: Software Engineer. Getting to grips with Git, Visual Studio Code and Hacktoberfest!  I know I'm a bit late to this party - 2019! :-)
+ - GitHub: [Vallenain](https://github.com/CarolinaCullington)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
