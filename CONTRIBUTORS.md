@@ -641,6 +641,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
 - GitHub: [theindianotaku](https://github.com/theindianotaku)
 
+#### Name: [Devin Mork](https://github.com/Demo318)
+- Place: Minnesota, USA
+- Bio: Event Production professional teaching himself how to code.
+- GitHub: [Demo318](https://github.com/Demo318)
+
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
 
