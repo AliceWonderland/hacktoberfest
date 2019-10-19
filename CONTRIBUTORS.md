@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Haidar Rifki](https://github.com/haidarrifki)
+- Place: Surakarta, Central Java, Indonesia
+- Bio: Backend Developer & SysAdmin
+- GitHub: [Haidar Rifki](https://github.com/haidarrifki)
