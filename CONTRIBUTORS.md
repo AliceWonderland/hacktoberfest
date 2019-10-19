@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fajri](https://github.com/fajrizulfikar)
+- Place: Bekasi, Indonesia
+- Bio: Fullstack Developer
+- Github: [fajrizulfikar](https://github.com/fajrizulfikar)
