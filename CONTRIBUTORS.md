@@ -1,7 +1,7 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: Rutvik
+ - Place: Layson,Gujarat
+ - Bio: Hrdware engineer. Graduated from INSA Lyon.
+ - GitHub: [Rutvik](https://github.com/Vallenain)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
