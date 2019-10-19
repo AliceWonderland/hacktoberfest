@@ -1,3 +1,8 @@
+#### Name: Ana Laura Fernandes
+ - Place: Belo Horizonte, Brasil
+ - Bio: Graduating in Computer Science from PUC Minas.
+ - GitHub: [analaurafernandes](https://github.com/analaurafernandes)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
