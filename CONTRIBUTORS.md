@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sripushkar Julapally](https://github.com/sripushkar)
+- Place: Atlanta, GA, USA
+- Bio: App Developer for iOS
+- GitHub: [Sripushkar](https://github.com/sripushkar)
