@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/EarlofSquirrel)
 
 #### Name: [EarlofSquirrel]
-- Place: Natal, Brazil
+- Place: Houston, TX
 - Bio: Student learning python and HTML
 - Github: [EarlofSquirrel](https://github.com/EarlofSquirrel)
