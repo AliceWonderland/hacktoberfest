@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [JYOTIMAN LAHKAR](https://github.com/Zyo86)
+- Place: GUWAHATI,INDIA
+- Bio: I Love Music.
+- GitHub: [Jyotiman Lahkar](https://github.com/Zyo86)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
