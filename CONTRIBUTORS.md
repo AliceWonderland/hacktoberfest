@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+####Name: [Shams Tabrez](https://github.com/Shams261)
+    • Place: West Bengal, India
+    • Bio    : Student
+    • GitHub: [Shams261](https://github.com/Shams261)
