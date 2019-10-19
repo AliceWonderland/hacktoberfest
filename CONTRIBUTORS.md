@@ -1,3 +1,8 @@
+#### Name: [Sebastian Groń](https://github.com/SeboPG)
+- Place: IT :)
+- Bio: IT :-)
+- GitHub: [SeboPG](https://github.com/SeboPG)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
