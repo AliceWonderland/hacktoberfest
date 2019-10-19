@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ariana](https://github.com/dabonadobe)
+- Place: Northern Ireland
+- Bio: Student
+- GitHub: [dabonadobe](https://github.com/dabonadobe)
