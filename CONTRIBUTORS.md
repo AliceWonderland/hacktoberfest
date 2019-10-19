@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ALICE CHU](https://github.com/pinkangelin4u)
+- Place: DC
+- Bio: Software Developer
+- GitHub: [Alice Chu](https://github.com/pinkangelin4u)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
