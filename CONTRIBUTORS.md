@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jordan Broome](https://github.com/jordanbroome)
+- Place: Lubbock, Texas
+- Bio: Electrical Engineer and Code newbie
+- Github: [jordanbroome](https://github.com/jordanbroome)
