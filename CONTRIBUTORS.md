@@ -1,3 +1,8 @@
+#### Name: Jiippoozz
+ - Place: Bangkok, Thailand
+ - Bio: Freelancer
+ - GitHub: [jiippoozz](https://github.com/jiippoozz)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
