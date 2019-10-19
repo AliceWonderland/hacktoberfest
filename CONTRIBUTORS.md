@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joel Johnson] (https://github.com/quantum-jo)
+- Place: India
+- Bio: Web developer
+- GitHub: [quantum-jo] (https://github.com/quantum-jo)
