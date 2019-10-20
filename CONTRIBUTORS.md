@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Pritam 
+ - Place: Mumbai, India
+ - Bio: Software Engineer.
+ - GitHub: [pritamnegi](https://github.com/pritamnegi)
