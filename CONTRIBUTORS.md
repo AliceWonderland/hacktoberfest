@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arjun Krishna](https://github.com/decoded-cipher)
+- Place: India, Kerala
+- Bio: Frond-end Developer
+- Github: [Arjun Krishna](https://github.com/decoded-cipher)
