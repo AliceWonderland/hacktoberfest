@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lukáš Loukota](https://github.com/loukotal)
+- Place: Prague, Czech Republic
+- Bio: Backend developer - Python
+- Github: [loukotal](https://github.com/loukotal)
