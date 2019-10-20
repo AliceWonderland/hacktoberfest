@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jonathan](https://github.com/TheTw3ys)
+- Place: Mansfeld(Saxony-Anhalt), Germany
+- Bio: Student at [Hettstedt](https://gymnasium-hettstedt.de)  
+- Github: [TheTw3ys](https://Github.com/TheTw3ys)
