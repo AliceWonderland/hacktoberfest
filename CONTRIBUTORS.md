@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: [NITESH NANDA](https://github.com/niteshnanda02)
+- Place: New Delhi
+- Bio: Third year Computer Science Student, android developer
+- GitHub: [niteshnanda02](https://github.com/niteshnanda02)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
