@@ -1,3 +1,7 @@
+#### Name: [Brandon Fizer](https://BrandonFizer.com)
+ - Place: Fayetteville, NC
+ - Bio: Full Stack Software Engineer.
+ - GitHub: [Track7Dev](https://github.com/Track7Dev)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
