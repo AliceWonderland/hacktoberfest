@@ -1439,6 +1439,13 @@ to explore life. Also, Python and Django Developer
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
+#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
+- Place: New Delhi, India
+- Bio: Computer Science Engineering student at Amity University
+Noida
+-Github: [Manas kashyap](https://github.com/Manas-kashyap)
+-WEBSITE: manas-kashyap.github.io
+
 #### Name: [Mandy Real](https://github.com/mandyreal)
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe
