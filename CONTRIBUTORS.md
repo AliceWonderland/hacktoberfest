@@ -2428,6 +2428,6 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 #### Name: [Abhiram Vijayan] (https://github.com/AbhiramVijayan)
-- Place:kerala,india
--Bio: abhiRAM
--Github: [AbhiramVijayan] (https://github.com/AbhiramVijayan)
+Place: Kerala,India
+Bio: the programmer who had no title
+Github:[AbhiramVijayan] (https://github.com/AbhiramVijayan)
