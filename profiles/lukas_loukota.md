@@ -20,7 +20,7 @@ Prague, Czech Republic
 
 ### Projects
 
-- [Teachable Pong](Teachable Machine Example) Based on Google's Teachable Machine. It allows you to play Pong using your webcam. 
+- [Teachable Pong](https://loukotal.github.io/TeachablePong/) Based on Google's Teachable Machine. It allows you to play Pong using your webcam. 
 
 ### Profile Link
 
