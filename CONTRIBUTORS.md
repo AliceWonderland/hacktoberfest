@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fredrik Svantesson](https://github.com/haikarainen)
+- Place: Bengaluru, India
+- Bio: Full Stack developer
+- Github: [Ítalo Epifânio](https://github.com/haikarainen)
