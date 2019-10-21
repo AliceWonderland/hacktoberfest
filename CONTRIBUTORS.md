@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kendall_Jordaan](https://github.com/MajorNoob92)
+- Place: South Africa
+- Bio: Junior Developer learning new things
+- GitHub: [MajorNoob92](https://github.com/MajorNoob92)
