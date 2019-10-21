@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luiz Miguel](https://github.com/luizmo)
+- Place: Minas Gerais, Brazil
+- Bio: FrontEnd Developer, student of Information Systems
+- Github: [Luiz Miguel](https://github.com/luizmo)
