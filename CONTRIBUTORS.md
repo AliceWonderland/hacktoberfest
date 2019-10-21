@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mayur Samnani](https://github.com/mayursamnani36)
+- Place: Guwahati, India
+- Bio: Web developer Python and javascript
+- Github: [mayursamnani36](https://github.com/mayursamnani36)
