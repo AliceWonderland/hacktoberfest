@@ -556,6 +556,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Entrepreneur, product manager, traveller
  - Github: [colinzhang](https://github.com/colinzhang)
 
+ #### Name: [Corentin Normant](https://github.com/lixxday)
+ - Place: Paris, France
+ - Bio: Web Developer
+ - Github: [Lixxday](https://github.com/lixxday)
+
 #### Name: [Cristiano Bianchi](https://github.com/crisbnk)
 - Place: Italy
 - Bio: Love to learn something new everyday
