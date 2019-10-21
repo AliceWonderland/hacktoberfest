@@ -48,7 +48,7 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     contributors = [contributor.strip() for contributor in file.read().split('####')
                                 if contributor]
     contributors = [format_contributor(contrib) for contrib in contributors]
-    contributors = sorted(contributors)
+    contributors = sorted(contributors, key=str.casefold)
     file.seek(0)
     file.truncate()
     file.writelines(contributors)
