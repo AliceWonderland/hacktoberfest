@@ -8,7 +8,7 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
-#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)still contributo
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [darkitty](https://github.com/darkitty)
+- Place: Rennes, France
+- Bio: Linux, open-source lover, CTF hunter
+- Github: [darkitty](https://github.com/darkitty)
