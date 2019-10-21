@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vishnu Vijayan](https://github.com/VishnuuVijayan)
+- Place: Kerala, INDIA
+- Bio: Web developer - React
+- Github: [VishnuuVijayan](https://github.com/VishnuuVijayan)
