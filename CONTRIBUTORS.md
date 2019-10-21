@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kiran Singh](https://github.com/kiranramsingh)
+- Place: Vizag, India
+- Bio: Web developer, RPA Developer
+- Github: [Kiran Singh](https://github.com/kiranramsingh)
