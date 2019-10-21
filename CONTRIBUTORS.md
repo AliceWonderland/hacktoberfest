@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Timmy Turner](https://github.com/tturner13)
+- Place: Belgium
+- Bio: SEO consultant
+- Github: [Tturner13](https://github.com/tturner13)
