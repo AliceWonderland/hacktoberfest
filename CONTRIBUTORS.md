@@ -570,6 +570,11 @@ to explore life. Also, Python and Django Developer
  - Place: Kandy, Sri Lanka
  - Bio: Software Engineering Student/ Web Developer
  - GitHub: [davehowson](https://github.com/davehowson)
+ 
+ #### Name: [David Krischke](https://github.com/dhinske)
+ - Place: Hamburg, Germany
+ - Bio: DevOps Engineer
+ - GitHub: [dhinske](https://github.com/dhinske)
 
 #### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
 - Place: Seattle, WA, USA
