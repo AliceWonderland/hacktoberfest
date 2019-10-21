@@ -1,3 +1,8 @@
+#### Name: [Karan Thanvi](https://github.com/karancode)
+- Place: Tokyo, Japan
+- Bio: Platform Engineer :panda_face:
+- GitHub: [karancode](https://github.com/karancode)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
