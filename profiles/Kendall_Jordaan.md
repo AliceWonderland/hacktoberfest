@@ -1,6 +1,7 @@
 # Your Name
 Kendall Jordaan
 
+
 ### Location
 
 Johannesburg, South Africa
