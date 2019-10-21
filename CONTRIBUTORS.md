@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suman Ghosh](https://github.com/ghoshsuman845)
+- Place: Haryana, India
+- Bio: Web development Intern in Angular, Ionic
+- Github: [ghoshsuman845](https://github.com/ghoshsuman845)
