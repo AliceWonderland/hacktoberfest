@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [darkitty](https://github.com/darkitty)
 - Place: Rennes, France
-- Bio: Linux and open-source lover
+- Bio: Linux, open-source lover, CTF hunter
 - Github: [darkitty](https://github.com/darkitty)
