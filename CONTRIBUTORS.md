@@ -1,3 +1,7 @@
+#### Name: Pratik Jaluka
+ - Place: Bhubaneswar,India
+ - Bio: Student,KIIT India
+ - GitHub: [Pratik Jaluka](https://github.com/pjaluka13)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
