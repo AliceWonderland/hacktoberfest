@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Alex H](https://github.com/Pillborn)
+#### Name: [Pillborn](https://github.com/Pillborn)
 - Place: Allen, Texas
 - Bio: I like cars
 - Github: [Pillborn](https://github.com/Pillborn)
