@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bruno Damacena](https://brunodamacena.github.io/)
+- Place: Minas Gerais, Brazil
+- Bio: Computer Engineering Student and Backend Developer (VB.NET, Python and C++)
+- GitHub: [brunodamacena](https://github.com/brunodamacena)
