@@ -88,6 +88,11 @@
 - Bio: Web Developer
 - GitHub: [a-m-a-z](https://github.com/a-m-a-z)
 
+#### Name: [Max Base](https://github.com/BaseMax/)
+- Place: Remote, Global
+- Bio: My nickname is Max, Programming language developer, Full-stack programmer. I love computer scientists, researchers, and compilers.
+- GitHub: [Max Base](https://github.com/BaseMax/)
+
 #### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
