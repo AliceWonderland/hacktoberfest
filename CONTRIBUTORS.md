@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Allison Sampaio](https://github.com/allisonsampaio)
+- Place: Campo Mourao, Brazil
+- Bio: Computer Student and Developer
+- Github: [Allison Sampaio](https://github.com/allisonsampaio)
