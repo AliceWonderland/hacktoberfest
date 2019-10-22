@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joshua Martinez](https://github.com/kwp731)
+- Place: Dallas, TX, USA
+- Bio: Philosopher
+- GitHub: [icyGhoulish](https://github.com/kwp731)
