@@ -1,8 +1,8 @@
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
-
+ - GitHub: [Vallenain](https://github.com/Vallenain) 
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+ 
+ #### Name: Bharat
+ - Place: Calicut, India
+ - Bio: Software engineer. NASA
+ - GitHub: [Bharat Reddy](https://github.com/Bharat-Reddy)
