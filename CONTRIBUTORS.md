@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [blazinggun](https://github.com/blasttrash)
+- Place: Pittsburgh, USA
+- Bio: SWE New Grad
+- Github: [blazinggun](https://github.com/blasttrash)
