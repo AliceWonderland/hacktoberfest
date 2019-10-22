@@ -1,3 +1,8 @@
+#### Name: [SARTAJ ROSHAN](https://github.com/sartajroshan)
+- Place: Malappuram, Kerala, India
+- Bio: Android developer
+- GitHub: [sartajroshan](https://github.com/sartajroshan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2427,3 +2432,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sartaj Roshan](https://github.com/sartajroshan)
+- Place:kerala,india
+- Bio: java developer
+- Github: [sartajroshan](https://github.com/sartajroshan)
