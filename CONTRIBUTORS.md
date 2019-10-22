@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Mark Suter
+- Place: Ohio, USA
+- Bio: A Computer Tech Teacher
+- GitHub: Garlicsuter (https://github.com/garlicsuter)
