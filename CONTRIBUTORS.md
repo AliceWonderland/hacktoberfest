@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aman Jain](https://github.com/amannayak0007)
+- Place: Noida, India
+- Bio: iOS Engineer
+- Github: [Aman Jain](https://github.com/amannayak0007)
