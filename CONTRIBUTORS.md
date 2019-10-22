@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parithimalan A](https://github.com/superhakar)
+- Place: Bangalore,India
+- Bio: Student
+- Github: [superhakar](https://github.com/superhakar)
