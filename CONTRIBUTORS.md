@@ -1,6 +1,9 @@
 #### Name: Vallenain
  - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
+#### Name: [AMIT CHAMBIAL](https://github.com/devaman)
+- Place: PUNJAB,INDIA
+- Bio: COMPUTER GEEK
+- GitHub: [AMIT CHAMBIAL](https://github.com/devaman)- Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -28,19 +31,14 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
-#### Name: [AP PRANAV](https://github.com/pranav-cs)
+
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
-- Bio: A student happy to write code and poetry.
-- GitHub: [Apoorva Sharma](https://github.com/okatticus)
-
-#### Name: [Aayush Sharma](https://github.com/aayusharma)
-- Place: Mandi, Himachal Pradesh, India
-- Bio: IITian
+- Bio: A student happy to write code a
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
 #### Name: [Abdullateef](https://github.com/abdullateef97)
@@ -580,6 +578,11 @@ to explore life. Also, Python and Django Developer
 - Place: New Delhi, India
 - Bio: ECE Undergraduate at IIIT-Delhi
 - GitHub: [Daksh Chaturvedi](https://github.com/daksh249)
+
+#### Name: [ABDUL RAOUF](https://github.com/abdulraouf9567)
+- Place: Kerala,INDIA
+- Bio: Computer Science &Engineering student 
+-Github: [abdulraouf9567](https://github.com/abdulraouf9567)
 
 #### Name: [Dale Noe](https://github.com/dalenoe)
 - Place: Fairbury, Illinois, US
