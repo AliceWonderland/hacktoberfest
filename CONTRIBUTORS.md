@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ante Plazanić](https://github.com/plaza223)
+- Place: Croatia
+- Bio: self-taught web dev with forte in CSS(SASS)
+- GitHub: [plaza223](https://github.com/plaza223)
