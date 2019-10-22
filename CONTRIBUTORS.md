@@ -1,3 +1,8 @@
+#### Name: Rizky
+ - Place: Jakarta, Indonesia
+ - Bio: Computer Engineering Stundent.
+ - GitHub: [ratmgr](https://github.com/ratmgr)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
