@@ -1,4 +1,4 @@
-# ali asodefard
+# Ali Asodefard
 
 ### Location
 
@@ -6,11 +6,11 @@ Iran
 
 ### Academics
 
-University of qeshm
+University of Iran
 
 ### Interests
 
-- codepython
+- I love gun/linux and prgraming python
 
 ### Profile Link
 
