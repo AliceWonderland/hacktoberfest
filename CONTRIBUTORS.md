@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ali Asodefard](https://github.com/asode)
+- Place: Iran
+- Bio: I love gun/linux and programing python
+- Github: [Ali Asodefard](https://github.com/asode)
