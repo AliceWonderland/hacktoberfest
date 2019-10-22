@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suyog Pawar](https://github.com/sUyoG-002)
+- Place: Pune,India
+- Bio: Web developer 
+- Github: [Suyog Pawar](https://github.com/sUyoG-002)
+
