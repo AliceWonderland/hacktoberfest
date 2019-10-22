@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gustavo Bueno](https://github.com/gusbueno)
+- Place: Barcelona, Spain
+- Bio: Javascript engineer
+- Github: [Ítalo Epifânio](https://github.com/gusbueno)
