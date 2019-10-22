@@ -1233,6 +1233,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
+#### Name: [Judson Kerller Alves Morais Junior](https://github.com/chefjuanpi)
+- Place: Natal, RN, Brazil
+- Bio: IT student
+- GitHub: [juds-kerller](https://github.com/juds-kerller)
+
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
