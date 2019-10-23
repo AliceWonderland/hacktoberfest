@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Egi Meisandi
+ - Place: Bandung, Indonesia
+ - Bio: System and Network Engineer.
+ - GitHub: [EgiMeisandi](https://github.com/EgiMeisandi)
