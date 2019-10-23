@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sparkey667](https://github.com/sparkey667)
+- Place: Connecticut, USA
+- Bio: Recent college graduate with lots of debt
+- Github: [sparkey667](https://github.com/sparkey667)
