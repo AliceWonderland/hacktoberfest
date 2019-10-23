@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+### Name : [surarijit](https://github.com/surarijit)
+-Place : Durgapur, India
+-Bio : IIT'an, open source enthusiast
+-Github : https://github.com/surarijit [surarijit]
