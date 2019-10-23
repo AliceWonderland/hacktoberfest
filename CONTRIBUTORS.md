@@ -1,3 +1,8 @@
+#### Name: [TARUN SINGH](https://github.com/thetseffect)
+ - Place: Jaipur, India
+ - Bio: Machine Learning Engineer [to be]. 
+- GitHub: [thetseffect](https://github.com/thetseffect)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
