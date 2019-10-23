@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rotem Kincaid] https://github.com/RotemKincaid
+- Place: Phoenix, AZ, USA
+- Bio: Junior Software Engineer at Nikola Motor Company
+- Github: [RotemKincaid] https://github.com/RotemKincaid
