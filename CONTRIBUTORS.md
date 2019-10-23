@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Emmanuel Roy] (https://github.com/EmmanuelRoyOurBoy)
+- Place: Coppell, Texas
+- Bio: High School Freshman
+- Github: [EmmanuelRoyOurBoy] (https://github.com/EmmanuelRoyOurBoy)
