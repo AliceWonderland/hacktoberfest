@@ -21,7 +21,12 @@
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
-- GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+
+- GitHub: [AMIT CHAMBIAL](https://github.com/devaman
+### SHubhi Mishra 
+Place- Jabalpur, India
+Github: https://github.com/smishra2903
+***
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
