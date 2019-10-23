@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wooniety](https://github.com/Wooniety)
+- Place: Singapore
+- Bio: Aspiring cybersecurity student
+- Github: [Wooniety](https://github.com/Wooniety)
