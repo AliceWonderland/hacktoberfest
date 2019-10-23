@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Richard Kevin](https://github.com/richardkevin)
+- Place: Rio de Janeiro, Brazil
+- Bio: Softare Developer
+- Github: [Richard Kevin](https://github.com/richardkevin)
