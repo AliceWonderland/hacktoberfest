@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name [Sam Drugan](https:/github.com/fortythreesam)
+- Place: Ireland
+- Bio: Software Developer
+- Github: [Sam Drugan](httos:/github.com/fortythreesam)
