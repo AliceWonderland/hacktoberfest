@@ -835,6 +835,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [GELONIT](https://github.com/Gelonit)
+- Place: CRETE, GREECE
+- Bio: Future Game Designer
+- GitHub: [Gelonit](https://github.com/Gelonit)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
