@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [KobeSan] (https://github.com/KobeSan)
+- Place: Nantes, France
+- Bio: Web developer JS and React student
+- Github: [KobeSan](https://github.com/KobeSan)
