@@ -1,3 +1,8 @@
+#### Name: [Karan Mittal](https://github.com/konnster99)
+ - Place: Vellore,India
+ - Bio: 2nd year IT student at VIT.
+ - GitHub: [Karan Mittal](https://github.com/konnster99)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
