@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Hunain Humail] (https://github.com/HunainHumail)
+- Place: Karachi, Pakistan
+- Bio: Mobile App Developer, AI Engineer, Android, Flutter
+- Github: [Hunain Humail] (https://github.com/HunainHumail)
