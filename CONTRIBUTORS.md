@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ ### Shubhi Mishra 
+ -Place: Jabalpur, India
+ -Github: https://github.com/smishra2903
+ ***
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
