@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Uniiquee](https://github.com/uniiquee)
+- Place: Germany
+- Bio: Beginner
+- GitHub: [Uniiquee](https://github.com/uniiquee)
