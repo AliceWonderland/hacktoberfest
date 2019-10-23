@@ -1,3 +1,8 @@
+#### Name: Lisa Tidball
+- Place: Newark, Delaware
+- Bio: Software engineer and cat lover
+- GitHub: https://github.com/li3097
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
