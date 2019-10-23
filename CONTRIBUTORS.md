@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [pNittaHill] (https://github.com/pNittaHill)
+- Place: San Diego, California
+- Bio: Learning computer programmer
+- Github: [pNittaHill] (https://github.com/pNittaHill)
