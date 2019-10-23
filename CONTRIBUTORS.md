@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John-reid Adams](https://github.com/ItsThatDevJohnAgain)
+- Place: Cape Town, South Africa 
+- Bio: Student, aspiring world changer
+- Github: [ItsThatDevJohnAgain](https:github.com//ItsThatDevJohnAgain)
