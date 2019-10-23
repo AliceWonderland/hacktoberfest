@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Vimukthi Bandara](https://github.com/breezage)
+- Place: Colombo,Sri Lanka
+- Bio: An undergraduate in love with flutter.
+- GitHub: [Vimukthi Bandara](https://github.com/breezage)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
