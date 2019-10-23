@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Durosinmi Sikiru](https://github.com/EngineerSk)
+- Place: Lagos, Nigeria
+- Bio: Android mobile developer
+- Github: [Durosinmi Sikiru](https://github.com/EngineerSk)
