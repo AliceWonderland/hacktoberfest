@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shobhit Agarwal](https://github.com/shobhit1997)
+- Place: Noida, India
+- Bio: Backend And Cloud Developer
+- Github: [shobhit1997](https://github.com/shobhit1997)
