@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adwaith D](https://github.com/adwaith007/)
+- Place: Tiruchirappalli, Tamilnadu, India
+- Bio: Web Developer
+- GitHub: [adwaith007](https://github.com/adwaith007/)
