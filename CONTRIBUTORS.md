@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ukutegbe Patrick](https://github.com/jeffcorp)
+- Place: Lagos, Nigeria
+- Bio: Software developer: Android, Web, Python
+- Github: [Ukutegbe Patrick](https://github.com/jeffcorp)
