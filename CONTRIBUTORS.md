@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Sankarsh
+ - Place: Hyderabad, India
+ - Bio: Final year Computer Science student from MVSR Engineering College, Hyderabad.
+ - Github: [Sankarsh](https://github.com/sankarsh98)
+ 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
