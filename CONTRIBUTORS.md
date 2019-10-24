@@ -1163,6 +1163,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - Github: [John Rexter Flores](https://github.com/alldeads)
 
+#### Name: [John S. De Stefano Jr.](https://github.com/deesto)
+- Place: NY, USA
+- Bio: Engineer
+- Github: [deesto](https://github.com/deesto)
+
 #### Name: [Jon Lee](https://github.com/githubbbbbbbbbbbbb)
 - Place: Canada
 - Bio: Student
