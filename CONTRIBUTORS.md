@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yuri Soffner](https://github.com/ysoffner)
+- Place: SP, Brazil
+- Bio: CLoud Engineer
+- Github: [Yuri Soffner](https://github.com/ysoffner)
