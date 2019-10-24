@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ze Paiva](https://github.com/ZePaiva)
+- Place: Aveiro, Portugal
+- Bio:Computer Science Stdent
+- Github: [ZePaiva](https://github.com/ZePaiva)
