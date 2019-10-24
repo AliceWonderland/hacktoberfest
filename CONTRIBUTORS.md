@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gyanendra Singh](https://github.com/N0r1h)
+- Place: Allahabad, India
+- Bio: Computer Science student at IIIT Allahabad
+- Github: [Gyanendra Singh](https://github.com/N0r1h)
