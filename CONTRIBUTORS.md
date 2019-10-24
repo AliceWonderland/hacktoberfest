@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manish](https://github.com/mv1801)
+- Place: MP, india
+- Bio: web developer(python, html,  css)
+- Github: [Manish](https://github.com/mv1801)
