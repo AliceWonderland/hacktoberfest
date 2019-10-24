@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Fachru Dahri](https://github.com/fachrudahri)
 - Place: Deli Serdang, Indonesia
 - Bio: Web developer JavaScript
-- Github: [Ítalo Epifânio](https://github.com/fachrudahri)
+- Github: [Fachru Dahri](https://github.com/fachrudahri)
