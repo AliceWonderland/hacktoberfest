@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Swift-ui] (https://github.com/Swift-ui)
+- Place: izmir
+- Bio: Swift Developer
+- GitHub: [Swift-ui] (https://github.com/Swift-ui)
