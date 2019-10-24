@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soham Roy](https://github.com/wolflegend99)
+- Place: Bombay, Maharashtra
+- Bio: Web and game developer
+- Github: [Soham Roy](https://github.com/wolflegend99)
