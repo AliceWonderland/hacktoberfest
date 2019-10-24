@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [vitaliaventel] (https://github.com/vitaliaventel)
+- Place: Ukraine, Kyiv
+- Bio: Salesforce Software Engineer
+- GitHub: [vitaliaventel] (https://github.com/vitaliaventel)
