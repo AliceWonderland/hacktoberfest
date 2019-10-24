@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Trinculo54](https://github.com/Trinculo54)
+- place: Massachusetts
+- Bio: Scriptor, Web developer
+- Github: [Trinculo54](https://github.com/Trinculo54)
