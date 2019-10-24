@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fachru Dahri](https://github.com/fachrudahri)
+- Place: Deli Serdang, Indonesia
+- Bio: Web developer JavaScript
+- Github: [Ítalo Epifânio](https://github.com/fachrudahri)
