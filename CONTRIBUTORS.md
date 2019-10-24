@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akram Bourouina](https://github.com/n0x-lgtm)
+- Place: Algiers, Algeria
+- Bio: Computer Science student
+- Github: [Akram Bourouina](https://github.com/n0x-lgtm)
