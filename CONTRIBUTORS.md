@@ -611,6 +611,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [djbaker](https://github.com/djbaker)
 
+#### Name: [Daniel Caballero Parga](https://github.com/dcparga)
+- Place: Girona, Spain
+- Bio: Born in Figueres. Walking the streets of Girona. Seeing the world through a camera viewfinder
+- GitHub: [dcparga](https://github.com/dcparga)
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
