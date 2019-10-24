@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Drazen Biljak](https://github.com/dbiljak)
+- Place: Split, Croatia
+- Bio: Backend developer
+- Github: [dbiljak](https://github.com/dbiljak)
