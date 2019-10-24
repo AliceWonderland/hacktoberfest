@@ -4,7 +4,7 @@
 
 import time
 
-message = 'Hola World! Amigos.'
+message = 'Hello, World! Whats up?.'
 for ch in message:
 	print ch,
 	time.sleep(0.5)
