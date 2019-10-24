@@ -713,6 +713,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Studying MEng at Swansea Uni and part time SysAdmin
 - GitHub: [Raptosaur](https://github.com/raptosaur)
 
+#### Name: [Elisabeth Miller](https://github.com/libbymiller09)
+- Place: Portland, Oregon, USA
+- Bio: Aspiring front-end developer. I also love baking, hiking, and sewing.
+- GitHub: [Libbymiller09](https://github.com/libbymiller09)
+
 #### Name: [Elliot Yun](https://github.com/Ellest)
 - Place: Madison, Wisconsin
 - Bio: SQL Developer looking for an SE role. Aspiring ML Engineer. Check out my github :)
