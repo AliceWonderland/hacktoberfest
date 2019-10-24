@@ -98,6 +98,11 @@
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
 
+#### Name: [Ahmat Dani Setiawan](https://github.com/Maxxoto)
+- Place: Surabaya, East Java , Indonesia
+- Bio: Odoo Developer , Fullstack Web , Love Travelling
+- GitHub: [maxxoto](https://github.com/Maxxoto)
+
 #### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
 - Place: Hyderabad, India
 - Bio: iOS Developer
