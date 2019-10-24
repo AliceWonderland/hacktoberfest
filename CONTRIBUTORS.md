@@ -105,7 +105,8 @@
 
 #### Name: [Aimee Tacchi](https://github.com/darkxangel84)
 - Place: England, UK
-- Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
+- Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also
+love travelling.
 - GitHub: [darkxangel84](https://github.com/darkxangel84)
 
 #### Name: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
@@ -192,7 +193,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Alina Christenbury](https://github.com/AlinaWithAFace)
 - Place: Newark, DE
-- Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or gamedev
+- Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or
+gamedev
 - GitHub: [AlinaWithAFace](https://github.com/AlinaWithAFace)
 
 #### Name: [Alisson Vargas](https://github.com/alisson-mich)
@@ -347,7 +349,9 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Ayushverma8](https://github.com/Ayushverma8)
 - Place: Indore, TN, IN
-- Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads, invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
+- Bio: I'm living the best part of my life and the life that I always wanted to. Surrounded by
+amazing people everyday. Rich in happiness, meager in hate. Seduce me with bikes and roads,
+invite me to trekking and long drives. I love food and sleep. I'm driven by music and art.
 - GitHub: [Ayush](https://github.com/Ayushverma8)
 
 #### Name: [Ben Edelson]
@@ -573,7 +577,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
 - Place: Seattle, WA, USA
-- Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
+- Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments
+(like this project)
 - Github: Wow isn't this right up there ^ [Dennis Orzikh](https://github.com/orzikhd)
 
 #### Name: [Daksh Chaturvedi](https://github.com/daksh249)
@@ -638,7 +643,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Debashish Nayak](https://github.com/theindianotaku)
 - Place: Roorkee, Uttarakhand, India
-- Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
+- Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese
+culture and photography
 - GitHub: [theindianotaku](https://github.com/theindianotaku)
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
@@ -705,7 +711,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Elijah Andrews](https://github.com/xorgon)
 - Place: Southampton, United Kingdom
-- Bio: I am a Christian, gamer, amateur developer and a few other things. I study Aeronautics and Astronautics at University of Southampton.
+- Bio: I am a Christian, gamer, amateur developer and a few other things.
+I study Aeronautics and Astronautics at University of Southampton.
 - GitHub: [Xorgon](https://github.com/xorgon)
 
 #### Name: [Elijah](https://github.com/raptosaur)
@@ -770,7 +777,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Evan Culver](https://github.com/eculver)
 - Place: San Francisco, CA, USA
-- Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
+- Bio: I work at Uber on data storage, tooling and OOS - checkout
+[our work](https://github.com/uber-go/dosa)!
 - GitHub: [Evan Culver](https://github.com/eculver)
 
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
@@ -997,7 +1005,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Ishan Jain](https://github.com/ishanjain28)
 - Place: Roorkee, Uttrakhand, India
-- Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
+- Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go.
+Also, Love Rust!.
 - Github: [Ishan Jain](https://github.com/ishanjain28)
 
 #### Name: [Italo Góis](https://github.com/italogois)
@@ -1122,7 +1131,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
 - Place: Mauritius
-- Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
+- Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#,
+Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
 - GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
 - Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
 
@@ -1155,7 +1165,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [John "JB" Brock](https://github.com/peppertech)
 - Place: Seattle, Washington, USA
-- Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
+- Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source
+project
 - GitHub: [Peppertech](https://github.com/peppertech)
 
 #### Name: [John Rexter Flores](https://github.com/alldeads)
@@ -1275,7 +1286,8 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Ken Kelly](https://github.com/kenhkelly)
 - Place: Coconut Creek, FL, USA
-- Bio: Founder & Lead Engineer at Hoy Marketing Solutions. I write software for the web, mobile, and desktop.
+- Bio: Founder & Lead Engineer at Hoy Marketing Solutions. I write software for the web, mobile,
+and desktop.
 - GitHub: [kenhkelly](https://github.com/kenhkelly)
 
 #### Name: [Kevin Mora](https://github.com/kevinmora94)
@@ -1511,7 +1523,8 @@ Noida
 
 #### Name: [Mateus Fernandes Machado](https://github.com/mateusfmachado)
 - Place: Patrocínio, MG, BRA
-- Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
+- Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech
+Enthusiast
 - Github: [Mateus Machado](https://github.com/mateusfmachado)
 
 #### Name: [Matheus Lucena](https://github.com/matehuslucena)
@@ -1536,7 +1549,8 @@ Noida
 
 #### Name: [Matteo Mensi](https://github.com/Snatched)
 - Place: Italy
-- Bio: Chemical Engineering student. C++ developer. I (try to) make high-performance computational programs to help with scientific research.
+- Bio: Chemical Engineering student. C++ developer. I (try to) make high-performance computational
+programs to help with scientific research.
 - GitHub: [Snatched](https://github.com/Snatched)
 
 #### Name: [Matteo Testa](https://github.com/maojh)
@@ -1781,7 +1795,8 @@ Noida
 
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
-- Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
+- Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids.
+Oh and I like games.
 - GitHub: [flipace](https://github.com/flipace)
 
 #### Name: [Patrick S](https://github.com/patsteph)
@@ -1989,7 +2004,8 @@ Noida
 
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
-- Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
+- Bio: Dude trying to become a IT guy somewhere. Also reads
+[The Register](https://www.theregister.co.uk).
 - GitHub: [tilda](https://github.com/tilda)
 
 #### Name: [SAIDEEP DICHOLKAR](https://github.com/saideepd)
@@ -2426,4 +2442,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifanio
+
+#### Name: [Kaleigh White](https://github.com/whitek2)
+- Place: Pennsylvania, United States
+- Bio: Sophomore theatre and informatics double major at Allegheny College
+- GitHub: [Kaleigh White](https://github.com/whitek2)
