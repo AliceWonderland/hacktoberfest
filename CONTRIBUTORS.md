@@ -616,6 +616,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
+#### Name: [Daniel Pérez](https://github.com/djdany95)
+- Place: Vigo, España
+- Bio: FullStack developer
+- GitHub: [Djdany95](https://github.com/djdany95)
+
 #### Name: [Daniel Tudares](https://github.com/dan1eltudares)
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
