@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Richelmy Cezar Lopes](https://github.com/richelmylopes)
+- Place: Pradopolis, São Paulo - Brazil
+- Bio: Estudante
+- Github: [Richelmy Cezar Lopes](https://github.com/richelmylopes)
