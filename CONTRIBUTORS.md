@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prayas Mittal](https://github.com/prayas26)
+- Place: Mumbai, Maharashtra, India
+- Bio: Software Developer
+- GitHub: [prayas26](https://github.com/prayas26)
