@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amila](https://github.com/amilabgunarathne)
+- Place: Sri Lanka
+- Bio: Mobile developer
+- Github: [Amila](https://github.com/amilabgunarathne)
