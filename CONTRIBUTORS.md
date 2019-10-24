@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Chaitanya Yanamala] (https://github.com/chaitanyaGitHub1)
+- Place: Hyd, India
+- Bio: Web devloper Backend NodeJs
+- Github: [ChaitanyaGitHub1](https://github.com/chaitanyaGitHub1)
