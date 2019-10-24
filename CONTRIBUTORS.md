@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [João Lira](https://github.com/jpmagi10)
+- Place: Pernambuco, Brazil
+- Bio: Web developer Angular
+- Github: [João Lira](https://github.com/jpmagi10)
