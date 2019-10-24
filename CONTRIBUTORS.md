@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Douglas Cunha](https://github.com/xlDoug)
+- Place: Sao Paulo, Brazil
+- Bio: Software Engineer
+- Github: [Doug](https://github.com/xlDoug)
