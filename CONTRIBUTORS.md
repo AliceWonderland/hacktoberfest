@@ -1,3 +1,8 @@
+#### Name: Vineet Kothari
+- Place: India
+ - Bio: First year undergraduate student.
+ - GitHub: [vineet1020] https://github.com/vineet1020
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
