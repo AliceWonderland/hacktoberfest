@@ -1,3 +1,8 @@
+#### Name: [MAURIZIO BATTAGHINI](https://twitter.com/battago)
+- Place: Italy
+- Bio: Professional swimmer, nerd, gamer & developer (specialized in Front-end). I have written “hello world” in 200 different ways.
+- GitHub: [ibbatta](https://github.com/ibbatta)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
