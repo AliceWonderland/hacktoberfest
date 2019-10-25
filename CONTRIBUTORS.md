@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akhil Jain](https://github.com/Shadowfox38)
+- Place: New Delhi, Delhi, India
+- Bio: Student
+- GitHub: [shadowfox38](https://github.com/Shadowfox38)
