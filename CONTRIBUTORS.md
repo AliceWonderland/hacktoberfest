@@ -2220,6 +2220,11 @@ Noida
 - Bio: College student
 - GitHub: [Thomas Lee](https://github.com/pbzweihander)
 
+#### Name: [Thomas Vilan](https://github.com/Solumeus)
+- Place: Florida, United States
+- Bio: Electrical Engineering student
+- GitHub: [Thomas Vilan](https://github.com/Solumeus)
+
 #### Name: [Tiago Severino](https://github.com/TiagoSeverino)
 - Place: Lisbon, Portugal
 - Bio: I code for fun!
