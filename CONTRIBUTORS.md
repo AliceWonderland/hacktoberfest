@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lruxio](https://github.com/oofteerapud02)
+- Place: Lampang, Thailand
+- Bio: Student
+- GitHub: [Lruxio](https://github.com/oofteerapud02)
+
