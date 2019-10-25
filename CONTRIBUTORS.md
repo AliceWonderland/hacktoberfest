@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ítalo Epifânio](https://github.com/kencana16)
+- Place: Semarang, indonesia
+- Bio:html, css
+- Github: [kencana16](https://github.com/kencana16)
