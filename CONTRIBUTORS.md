@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nidhisha](https://github.com/cod3luv3r)
+- Place: Kochi, Kerala, India
+- Bio: iOS Developer | Interested in Machine Learning
+- GitHub: [cod3luv3r](https://github.com/cod3luv3r)
