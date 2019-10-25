@@ -2210,6 +2210,11 @@ Noida
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
 
+### Name: [Thanasit Suwanposri](https://github.com/men1164)
+- Place: Bangkok, Thailand
+- Bio: College Student, I love coding!
+- GitHub: [men1164](https://github.com/men1164)
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
