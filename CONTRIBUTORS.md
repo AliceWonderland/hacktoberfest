@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [André I. Smaniotto](https://github.com/aismaniotto)
+- Place: Nova Trento, Santa Catarina, Brazil
+- Bio: Developer and big data enthusiast.
+- GitHub: [aismaniotto](https://github.com/aismaniotto)
