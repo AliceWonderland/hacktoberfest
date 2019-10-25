@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Janaka Edirisinghe](https://github.com/janaka531)
+- Place: Colombo, Sri Lanka
+- Bio: UG student (software engineering) 
+- Github: [Janaka Edirisinghe](https://github.com/janaka531)
