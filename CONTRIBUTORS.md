@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dheva Marga Putra](https://github.com/DhevaMargaPutra)
+- Place: Semarang, Jawa Tengah, Indonesia
+- Bio: Web Developer, muslim 🕌
+- GitHub: [DhevaMargaPutra](https://github.com/DhevaMargaPutra)
