@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nimisha](https://github.com/nimisha-nnn)
+- Place: India
+- Bio: Charted Accountant | Newbie coder
+- Github: [Nimisha](https://github.com/nimisha-nnn)
