@@ -78,6 +78,11 @@
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
+#### Name: [Aditya Trivedi](https://github.com/ad1tyat)
+- Place: Ahmedabad, India
+- Bio: Computer Science Student, TV Buff, Meme Lover and avid quizzer!
+- GitHub: [ad1tyat](https://github.com/ad1tyat)
+
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
