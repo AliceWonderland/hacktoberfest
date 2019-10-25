@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Olli](https://github.com/DieAkuteSense)
+- Place: Munich, Germany
+- Bio: Software Developer and currently studying at Munich University of Applied Sciences
+- GitHub: [DieAkuteSense](https://github.com/DieAkuteSense)
