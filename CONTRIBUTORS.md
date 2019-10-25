@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Salmento Chitlango](https://github.com/salmento)
+- Place: Maputo, Mozambqiue
+- Bio: Student
+- Github: [Salmento Chitlango](https://github.com/itepifanio)
