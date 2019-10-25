@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Quanta-of-solitude](https://github.com/Quanta-of-solitude)
+- Place: Guwahati, Assam
+- Bio: Procrastinator, Noob, Python enthusiast
+- Github: [Quanta-of-solitude](https://github.com/Quanta-of-solitude)
