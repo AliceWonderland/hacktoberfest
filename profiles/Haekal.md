@@ -9,9 +9,9 @@ Qodr Community - IT & Religion Academy
 
 ### Interest
 
-- Art
-- Market
-- Travel
+- Arts
+- Marketing
+- Traveling
 
 ### Development
 
