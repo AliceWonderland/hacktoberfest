@@ -1,3 +1,8 @@
+#### Name: [UNISAKI](https://github.com/koolkidyeet)
+- Place: New York City, New York, America
+- Bio: I am a human that likes to golf. I'm also a student
+- GitHub: [koolkidyeet](https://github.com/koolkidyeet)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
