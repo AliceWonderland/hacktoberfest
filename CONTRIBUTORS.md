@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -2269,9 +2269,15 @@ Noida
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
+
+#### Name: [Uyen Nguyen](https://github.com/NguyenU)
+- Place: India
+- Bio: Android Developer, Operating Systems Enthusiast
+- GitHub: [darkLord19](https://github.com/darkLord19)
+
 #### Name: [V3NG](https://github.com/ianklemm)
-- Place: Germany
-- Bio: Webdeveloper, Sysadmin
+- Place: USA
+- Bio: Developer
 
 #### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
 - Place: Paris, France
