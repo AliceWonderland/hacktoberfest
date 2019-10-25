@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [HASSAAN AHMAD](https://github.com/hassaanahmad47)
+- Place: Utah, USA
+- Bio: Student FreeCodeCamp
+- Github: [HASSAAN AHMAD](https://github.com/hassaanahmad47)
