@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Singhal](https://github.com/codaked-Adi)
+- Place: Delhi, India
+- Bio: Web developer Flutter
+- Github: [codaked-Adi](https://github.com/codaked-Adi)
