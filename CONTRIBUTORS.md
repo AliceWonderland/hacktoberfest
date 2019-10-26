@@ -663,6 +663,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Front end web developer.
 - GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
 
+#### Name: [Drew Vlasnik](https://github.com/drewvlaz)
+- Place: Pittsburgh, United States
+- Bio: Aspiring Machine Learning Engineer.
+- GitHub: [drewvlaz](https://github.com/drewvlaz)
+
 #### Name: [Dushyant Rathore](https://github.com/dushyantRathore)
 - Place: New Delhi, India
 - Bio: Student
