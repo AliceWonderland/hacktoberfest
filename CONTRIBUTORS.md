@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [mariliacss](https://github.com/mariliacss)
+- Place: Campinas, Brazil
+- Bio: dev and designer
+- GitHub: [mariliacss](https://github.com/mariliacss)
