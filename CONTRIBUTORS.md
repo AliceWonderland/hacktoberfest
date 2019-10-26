@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [DAMIAN ROTTA](https://github.com/Dipiert)
+- Place: Bs As, Argentina
+- Bio: Shameless tryharder.
+- GitHub: [Dipiert](https://github.com/Dipiert)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
