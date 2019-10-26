@@ -8,7 +8,7 @@ What this script does?
 Running the script -
 python3 manage.py
 
-PS: DO NOT USE PYTHON 2
+PS: DOES'NT WORK IN PYTHON 2
 """
 import re
 
@@ -52,3 +52,4 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     file.seek(0)
     file.truncate()
     file.writelines(contributors)
+#end
