@@ -1,3 +1,8 @@
+#### Name: [Aditya Krishnan](https://github.com/aditya11997)
+ - Place: Mumbai, India
+ - Bio: Student
+ - GitHub: [Aditya Krishnan](https://github.com/aditya11997)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
