@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Giorgio Pomettini](https://github.com/Pomettini)
+- Place: Rome, Italy
+- Bio: Unity developer and Rust fanboy
+- Github [Giorgio Pomettini](https://github.com/Pomettini)
