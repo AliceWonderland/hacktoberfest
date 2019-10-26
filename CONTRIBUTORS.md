@@ -1,3 +1,8 @@
+### Name : Pranjal Agrawal
+  -Place: Himachal Pradesh,India
+  -Bio: Electonincs and Communication Engineering Student,IIIT Una.
+  -GitHub: [264pranjal]https://github.com/264pranjal
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
