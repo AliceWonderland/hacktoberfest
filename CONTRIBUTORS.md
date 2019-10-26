@@ -1288,6 +1288,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
 
+#### Name: [Khushnuma Grover](https://github.com/khushgrover)
+- Place: Patiala, Punjab, India
+- Bio: I love to be creative, college student
+- GitHub: [Khushnuma Grover](https://github.com/khushgrover)
+
 #### Name: [Klaudia K.](https://github.com/KalpiKK)
 - Place: Poland
 - Bio: IT Student at the University of Wroclaw
