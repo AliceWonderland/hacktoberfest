@@ -203,7 +203,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Alistair](https://github.com/aowongster)
 - Place: San Diego, CA
 - Bio: love to read, learn, and code
-- GitHub: [Alistair](https://github.com/aowongster)
+- GitHub: [Alistair](https://github.coi/aowongster)
 
 #### Name: [Allan Dorr](https://github.com/aldorr)
 - Place: Hamburg, Germany
@@ -1543,6 +1543,11 @@ Noida
 - Place: Milan, Italy
 - Bio: Design&Arts
 - GitHub: [maojh](https://github.com/maojh)
+
+#### Name: [Mirza Younuns Baig](https://github.com/Mirza-Younus-Baig)
+- Place: Hyderabad, India
+- Bio: Computer Science
+- GitHub: [Mirza-Younus-Baig](https://github.com/Mirza-Younus-Baig)
 
 #### Name: [Matthew Burke](https://github.com/MatthewBurke1995)
 - Place: Sydney, Australia
