@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Siddhant Mishra](https://github.com/sidjmishra)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Siddhant Mishra](https://github.com/sidjmishra)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
