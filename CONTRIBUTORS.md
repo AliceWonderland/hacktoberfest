@@ -2273,6 +2273,11 @@ Noida
 - Place: Germany
 - Bio: Webdeveloper, Sysadmin
 
+#### Name: [Shubham Giri](https://github.com/iamshubhamg)
+- Place: India
+- Bio: second year Computer Science Student, in love with GITHUB <3
+- GitHub: [iamshubhamg](https://github.com/iamshubhamg)
+
 #### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
 - Place: Paris, France
 - Bio: Solution Architect @ Eleven-Labs
