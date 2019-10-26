@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name [Pinarzaimoglu](https://github.com/Pinarzaimoglu)
+- Place: Canakkale, Turkey
+- Bio  : Student
+- Github: [Pinarzaimoglu](https://github.com/Pinarzaimoglu)
