@@ -2413,6 +2413,11 @@ Noida
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
+#### Name: [Tahsin Safa Elmali](https://github.com/SafaElmali)
+ - Place: Istanbul, Turkey
+ - Bio: Junior Software Developer - Frontend Developer
+ - GitHub: [SafaElmali](https://github.com/SafaElmali)
+
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
 - Bio: financial software consultant
