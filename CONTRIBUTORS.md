@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shreyan Mehta](https://github.com/duke7able)
+- Place: Gandhinagar, Gujarat, India
+- Bio: Full stack web dev
+- GitHub: [Shreyan Mehta](https://github.com/duke7able)
