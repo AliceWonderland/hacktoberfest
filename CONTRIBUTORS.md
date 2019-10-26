@@ -1,3 +1,8 @@
+#### Name: Andi Insanudin
+- Place: Bandung, Indonesia
+- Bio: Frontend Dev
+- Github: [andiisfh](https://github.com/andiisfh)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
