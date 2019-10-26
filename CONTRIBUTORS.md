@@ -1,3 +1,7 @@
+#### Name: Ekim
+ - Place: Yurkey, istanbul
+ - Bio: youngster who wants to code
+ - GitHub:[EKİM YÜKSELBABA]https://github.com/eforekim
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
