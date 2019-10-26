@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Zorex Salvo](https://zorexsalvo.com)
+- Place: Rizal, Philippines
+- Bio: Developer
+- Github: [Zorex Salvo](https://github.com/zorexsalvo)
