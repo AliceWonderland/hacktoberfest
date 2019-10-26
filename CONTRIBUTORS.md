@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Govind Maheshwari
+ - Place: Noida, India
+ - Bio: Computer Science Student from JIIT.
+ - GitHub: [Govind Maheshwari](https://github.com/govindmaheshwari2)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
