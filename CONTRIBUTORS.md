@@ -1,3 +1,7 @@
+#### Name: Romi Bia Santo
+ - Place: Ketapang, Indonesia
+ - Bio: Dev
+ - GitHub: [Romi](https://github.com/romibs13)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
