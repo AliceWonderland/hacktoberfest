@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Iqbal Mandiyansah](https://github.com/kode2an)
+- Place: Tangerang, Indonesia
+- Bio: Web developer
+- Github: [Iqbal Mandiyansah](https://github.com/kode2an)
