@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+### Name: [Vikachubro21](https://github.com/Vikachubro21)
+- Place: Sugar Land TX
+- Bio: 10th Grader and not a Master Coder!
+- Github: [Vikachubro21](https://github.com/Vikachubro21)
