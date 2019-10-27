@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alfansuri](https://github.com/Alfansuri)
+- Place: Kutai Timur, Indonesia
+- Bio: Learn web dev and other thing about IT
+- Github: [Alfansuri](https://github.com/Alfansuri)
