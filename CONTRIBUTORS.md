@@ -1433,6 +1433,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Engineering student at Amity University
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
+#### Name: [Yevheniy Solovey](https://github.com/JeniaSolovey)
+- Place: Lublin, Poland
+- Bio: Fullstack developer?
+- GitHub: [JeniaSolovey](https://github.com/JeniaSolovey)
+
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
 - Bio: Computer Science Engineering student at Amity University
