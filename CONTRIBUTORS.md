@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Tanishq Mishra](https://github.com/tanishq-mishra)
+- Place: Gurgaon, Haryana, India
+- Bio: A Computer Science Student pursuing a Bachelor's Degree, and a budding flutter Developer
+- GitHub: [tanishq-mishra](https://github.com/tanishq-mishra)
