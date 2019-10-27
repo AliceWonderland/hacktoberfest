@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John Clements](https://github.com/SgtJSniper92)
+- Place: England, United Kingdom
+- Bio: Cyber enthusiast, Python engineer. Computer IT Network and Infrastructure graduate
+- Github: [John Clements](https://github.com/SgtJSniper92)
