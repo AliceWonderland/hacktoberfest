@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [pethon](https://github.com/pethon)
+2427 - Place: Chiba, Japan
+2428 - Bio: Engineer
+2429 - Github: [pethon](https://github.com/pethon)
