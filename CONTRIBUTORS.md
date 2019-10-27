@@ -1950,6 +1950,11 @@ Noida
 - Bio: Student / Front-end Developer
 - GitHub: [Rizki Ramadhana](https://github.com/rizkiprof)
 
+### Name: [Rohit Choudhari](https://github.com/InfernapeXavier)
+- Place: Gainesville, FL, USA
+- Bio: Graduate Student at University of Florida
+- GitHub: [Rohit Choudhari](https://github.com/InfernapeXavier)
+
 #### Name: [Rohit Mathew](https://github.com/rohitjmathew)
 - Place: Bangalore, Karnataka, India
 - Bio: Android Developer, Freelancer and Tech Enthusiast
