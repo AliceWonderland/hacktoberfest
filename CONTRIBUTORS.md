@@ -974,6 +974,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer
 - Github: [imyrfield](https://github.com/imyrfield)
 
+### Name: [Imas Neupane](https://github.com/iMoose)
+- Place: Christchurch, New Zealand
+- Bio: Software Engineer
+- GitHub: [Imas Neupane](https://github.com/iMoose)
+
 #### Name: [Igor Rzegocki](https://github.com/ajgon)
 - Place: Kraków, PL
 - Bio: I do Ruby for living, and hacking for fun
