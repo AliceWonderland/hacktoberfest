@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rafael Rosseto](https://github.com/rafael-rosseto)
+- Place: São Paulo, Brazil
+- Bio: Computer Science Student at São Paulo State University
+- Github: [rafael-rosseto](https://github.com/rafael-rosseto)
