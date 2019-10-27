@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hamad AlGhanim](https://github.com/Dreamersoul)
+- Place: Kuwait City, Kuwait
+- Bio: Ruby on Rails and Flutter Developer 
+- Github: [Dreamersoul](https://github.com/Dreamersoul)
