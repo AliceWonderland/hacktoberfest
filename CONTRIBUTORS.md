@@ -1478,6 +1478,11 @@ Noida
  - Place: /
  - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
+ 
+#### Name: [Jakob](https://github.com/J4K0B)
+- Place: Brunswick, Germany
+- Bio: CS student
+- GitHub: [J4K0B](https://github.com/J4K0B)
 
 #### Name: [Mark](https://github.com/Mxrk)
  - Place: /
