@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshama](https://github.com/Akshama)
+- Place: Delhi, India
+- Bio: Network Security Engineer
+- Github: [Akshama](https://github.com/Akshama)
