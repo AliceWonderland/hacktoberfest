@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Cristina Dias](https://github.com/crisgit/)
+- Place: Rio de Janeiro, Brazil
+- Bio: Web developer
+- Github: [Cristina Dias](https://github.com/crisgit/)
+
