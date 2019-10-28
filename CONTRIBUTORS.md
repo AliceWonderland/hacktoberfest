@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pocci Fabio](https://github.com/phomea)
+- Place: Pistoia, Italy
+- Bio: Web developer PHP, JS, CSS
+- Github: [Pocci Fabio](https://github.com/phomea)
