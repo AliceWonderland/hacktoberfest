@@ -1,3 +1,8 @@
+#### Name: Vishal
+ - Place: Salempur,Uttar Pradesh, India
+ - Bio: Software engineer. A Computer Science UG Student.
+ - GitHub: [Vishal Tiwari](https://github.com/Vishu1694)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
