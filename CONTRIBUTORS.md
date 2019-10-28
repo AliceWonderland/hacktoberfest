@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [yulaGuivala](https://github.com/yulaGuivala)
+- Place: Maputo,Mozambique
+- Bio: Web developer PHP CSS 
+- Github: [yulaGuivala](https://github.com/yulaGuivala)
