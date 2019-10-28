@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leandro Rodrigues](https://github.com/Leandrigues/)
+- Place: São Paulo, Brazil
+- Bio: Computer science student
+- GitHub: [Leandrigues](https://github.com/Leandrigues/)
