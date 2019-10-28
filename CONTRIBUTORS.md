@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [COREY HAMMOND](https://github.com/corey-hammond)
+- Place: Rockin, CA, USA
+- Bio: Junior Full-Stack Developer
+- GitHub: [corey-hammond](https://github.com/corey-hammond)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
