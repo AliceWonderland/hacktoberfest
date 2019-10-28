@@ -1,3 +1,8 @@
+#### Name: [Karan Puri](https://github.com/Karan710)
+- Place: Ambala, Haryana, India
+- Bio: Final Year Computer Science Student, Loves Gaming.
+- Github: [Karan Puri] (https:github.com/Karan710)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
