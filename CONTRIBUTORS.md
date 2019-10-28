@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [wtsia](https://github.com/wtsia)
+- Place: San Francisco, CA, USA
+- Bio: Aspiring Software Engineer
+- GitHub: [wtsia](https://github.com/wtsia)
