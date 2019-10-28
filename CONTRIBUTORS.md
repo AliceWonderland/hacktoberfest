@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [SUVAM PRASAD](https://github.com/SuvamPrasd)
+- Place: Guwahati, Assam, India
+- Bio: 2nd year BCA student and Computer expert
+- GitHub: [SuvamPrasd](https://github.com/SuvamPrasd)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
