@@ -1,8 +1,3 @@
-#### Name: [FAISAL](https://github.com/faisalsaysin)
-- Place: India
-- Bio: In love Web development
-- GitHub: [Faisal](https://github.com/faisalsaysin)
-
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
