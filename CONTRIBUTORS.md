@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Carlos Padilla](https://github.com/Sprunker)
+- Place: Guadalajara, Jalisco
+- Bio: Estudiante en CUCEI, Ingeniero en Informática, C#
+- GitHub: [Carlos Padilla](https://github.com/Sprunker)
