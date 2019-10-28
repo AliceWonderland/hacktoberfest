@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [NeoxN3il](https://github.com/X3NOSIZ)
+- Place: Kolkata, IND
+- Bio: Jr. Web developer and Cloud Compute Enthusiast
+- Github: [NeoxN3il](https://github.com/X3NOSIZ)
