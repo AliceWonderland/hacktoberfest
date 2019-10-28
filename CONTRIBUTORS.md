@@ -1,3 +1,8 @@
+#### Name: [Tanmay Srivastava](https://github.com/Tanmay17)
+- Place: Hyderabad, India
+- Bio: Software Developer
+- GitHub: [Tanmay17](https://github.com/Tanmay17)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
