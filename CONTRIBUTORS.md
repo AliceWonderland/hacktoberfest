@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adarsh Learner](https://github.com/learneradarsh)
+  - Place: Sultanpur,Uttar Pradesh,India
+  - Bio: Learner | Front-End Developer | Hactivist
+  - GitHub: [Adarsh Learner](https://github.com/learneradarsh)
