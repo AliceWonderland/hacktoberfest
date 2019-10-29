@@ -2431,4 +2431,4 @@ Noida
 ### Name: [Mujhtech](https://github.com/mujhtech)
 - Place: Oyo state, Nigeria
 - Bio: Web developer PHP and Javascript 
-- Github: [Ítalo Epifânio](https://github.com/mujhtech)
+- Github: [Mujhtech](https://github.com/mujhtech)
