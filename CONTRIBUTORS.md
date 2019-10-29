@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: MAYUR
+ - Place: VADODARA, GUJARAT, INDIA
+ - Bio: CSE Student.
+ - GitHub: [MAYUR THAKKAR](https://github.com/MThakkar121)
