@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shrey](https://github.com/shreystechtips)
+- Place: United States
+- Bio: Love Coding
+- GitHub: [Git](https://github.com/shreystechtips)
