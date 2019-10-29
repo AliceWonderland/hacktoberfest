@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luca Gouveia](https://github.com/luca-gouveia)
+- Place: Natal, Brazil
+- Bio: Computer Student | Developer (Java) | Python enthusiast
+- Github: [luca-gouveia](https://github.com/luca-gouveia)
