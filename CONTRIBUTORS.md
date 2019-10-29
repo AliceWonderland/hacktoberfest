@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pranav Annam](https://github.com/pranavannam2805)
+- Place: Maharashtra, India
+- Bio: Student (Engineering)
+- Github: [pranavannam2805](https://github.com/pranavannam2805)
