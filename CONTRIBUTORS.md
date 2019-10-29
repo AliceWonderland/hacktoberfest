@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Lynn
+ -Place: Oregon, United States
+ -Bio: High school student, new to computer science 
+ -GitHub: [Starfire1853] (https://github.com/Starfire1853)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
