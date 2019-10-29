@@ -2431,4 +2431,4 @@ Noida
 #### Name: MAYUR
  - Place: VADODARA, GUJARAT, INDIA
  - Bio: CSE Student.
- - GitHub: [Vallenain](https://github.com/MThakkar121)
+ - GitHub: [MAYUR THAKKAR](https://github.com/MThakkar121)
