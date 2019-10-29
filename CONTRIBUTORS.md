@@ -19,6 +19,11 @@
 - Bio: Computer Science Major
 - GitHub: [Stephen Dzialo](https://github.com/dzials)
 
+#### Name: [Yelk11](https://github.com/yelk11)
+- Place: USA
+- Bio: Information technology major
+- GitHub: [Yelk11](https://github.com/yelk11)
+
 #### Name: [Taf Meister](https://github.com/tashrafy)
 - Place: NYC
 - Bio: Developer =]
