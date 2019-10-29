@@ -2249,6 +2249,11 @@ Noida
 - Bio: UNC Charlotte coding bootcamp student.
 - GitHub: [tlm04070](https://github.com/tlm04070);
 
+#### Name: [Tristan](https://github.com/liopia)
+- Place: Portland, Oregon, USA
+- Bio: Developer who should be doing more substantial pull requests for Hacktoberfest. I swear next year I'll have the time.
+- GitHub: [Liopia](https://github.com/liopia)
+
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
 - Bio: Front-end Developer
