@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Aniket Kumar] (https://github.com/ddninja)
+- Place: Natal,Brazil
+- Bio: Undergraduate Student of Information Technology
+- Github: [ddninja] (https://github.com/ddninja)
