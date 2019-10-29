@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: INdonesia, Nusa Tenggara Barat
+ - Bio: Informatics engineer in University of Bumigora
+ - GitHub: [hafifamudi](https://github.com/hafifamudi)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
