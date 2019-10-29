@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Mujhtech](https://github.com/mujhtech)
+- Place: Oyo state, Nigeria
+- Bio: Web developer PHP and Javascript 
+- Github: [Ítalo Epifânio](https://github.com/mujhtech)
