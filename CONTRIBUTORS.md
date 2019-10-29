@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Shubham]((https://github.com/shubhkk07)
+ -Place: India
+ -Bio: Flutter lover
+ - GitHub: [Shubham](https://github.com/shubhkk07)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
