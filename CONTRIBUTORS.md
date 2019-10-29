@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prabhat Kumar de Oliveira](https://github.com/Bart-BK)
+- Place: Brazil
+- Bio: Web Developer, Data Scientist, AI enthusiastic
+- Github: [Prabhat](https://github.com/Bart-BK)
