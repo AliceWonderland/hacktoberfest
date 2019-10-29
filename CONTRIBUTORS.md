@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ivan Tolstov](https://github.com/itepifanio)
+- Place: Moldova, Ribnita
+- Bio: JavaScript developer
+- Github: [everthinq](https://github.com/itepifanio)
