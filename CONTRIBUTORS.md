@@ -1,3 +1,8 @@
+#### Name: VANI TANEJA
+ - Place: Uttar Pradesh, India
+ - Bio: Budding Software Developer
+ - GitHub: [Vani](https://github.com/vanitaneja22)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
