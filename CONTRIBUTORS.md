@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vlăduț Ilie](https://github.com/vladutilie)
+- Place: Cluj-Napoca, Cluj, Romania
+- Bio: WordPress Developer
+- GitHub: [vladutilie](https://github.com/vladutilie)
