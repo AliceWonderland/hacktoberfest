@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [William Qi](https://github.com/WillQi)
+- Place: Canada, Edmonton
+- Bio: Student with an interest in Computer Science.
+- Github: [WillQi](https://github.com/WillQi)
