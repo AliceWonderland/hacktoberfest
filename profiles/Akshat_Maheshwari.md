@@ -1,12 +1,12 @@
-# Akshat Maheshwari
+# Ashutosh Pandya
 
 ### Location
 
-Hyderabad, India
+Dewas, India
 
 ### Academics
 
-B.Tech. in Computer Science and Engineering, IIIT Hyderabad (2016-current)
+B.Tech. in Computer Science and Engineering from SVVV Indore (2016-current)
 
 ### Development
 
@@ -14,10 +14,10 @@ B.Tech. in Computer Science and Engineering, IIIT Hyderabad (2016-current)
 - JavaScript
 - Python
 - HTML/CSS/Bootstrap
-- Ruby on Rails
-- Flask
-- Django
+- Android
+- Java
+- Go Lang
 
 ### Profile Link
 
-[akshat14714](https://github.com/akshat14714/)
+[AshuPandya](https://github.com/AshuPandya)
