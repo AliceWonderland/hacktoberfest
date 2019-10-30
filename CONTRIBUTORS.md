@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Aayush Shah](https://github.com/shahaayush1999)
+ - Place: Mumbai, India
+ - Bio: Student @ College of Engineering Pune.
+ - GitHub: [shahaayush1999](https://github.com/shahaayush1999)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
