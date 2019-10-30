@@ -2052,6 +2052,11 @@ Noida
 - Bio: PhD student in Software Engineering
 - Github: [Shade Ruangwan](https://github.com/sruangwan)
 
+#### Name: Sonalika
+ - Place: Delhi, India
+ - Bio: 2nd year IT Undergrad.
+ - GitHub: [Sonalika](https://github.com/sonalikaroy13)
+
 #### Name: [Shankhalika Sarkar](https://github.com/Shankhalika)
 - Place: Karnataka, India
 - Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
