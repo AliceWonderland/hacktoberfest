@@ -1,3 +1,8 @@
+#### Name: [Rafael Davis](https://github.com/RafaelDavisH)
+- Place: Los Angeles, CA, USA
+- Bio: Web Developer | Open Source Contributor | Independent Consulting at Udacity.
+- GitHub: [RafaelDavisH](https://github.com/RafaelDavisH)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
