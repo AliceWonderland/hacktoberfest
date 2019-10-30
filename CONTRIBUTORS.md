@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ali Can Kuştemur](https://github.com/alicankustemur)
+- Place: Istanbul, Turkey
+- Bio: DevOps / SRE
+- Github: [Ali Can Kuştemur](https://github.com/alicankustemur)
