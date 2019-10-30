@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shardul Semwal](https://github.com/Shardul555)
+- Place:IIT Mandi,Himanchal Pradesh,India
+-Bio-Btech student
+-Github: [Shardul Semwal](https://github.com/Shardul555)
