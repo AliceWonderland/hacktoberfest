@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Pires](https://github.com/lps6)
+- Place: Recife, Brazil
+- Bio: Game developer Unreal and Python
+- Github: [Lucas Pires](https://github.com/lps6)
