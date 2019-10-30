@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Shrey  Tyagi](https://github.com/aayusharma)
+- Place: Chennai,Tamil Nadu, India
+- Bio: Student 
+- GitHub: [Shrey-Tyagi](https://github.com/Shrey-Tyagi)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
