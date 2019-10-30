@@ -1108,3 +1108,8 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Zak](https://github.com/zakaria-soufiani)
+- Place: Sydney, Australia
+- Bio: Backend dev
+- GitHub: [Zak](https://github.com/zakaria-soufiani)
+
