@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaibhav D. Aren](https://github.com/vaibhavdaren)
+- Place: Delhi,India
+- Bio: Python Dev
+- Github: [Vaibhav Aren](https://github.com/vaibhavdaren)
