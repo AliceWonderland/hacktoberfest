@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [RUCHI KUMARI](https://github.com/helloruchi)
+- Place: PATNA,BIHAR,INDIA
+- Bio: GEEK
+- GitHub: [RUCHI KUMARI](https://github.com/helloruchi)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
