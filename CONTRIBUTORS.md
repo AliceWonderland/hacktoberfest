@@ -1,3 +1,8 @@
+#### Name: Oskar
+ - Place: Linköping, Sweden
+ - Bio: I love my dog. So much.
+ - GitHub: [IAmBullsaw](https://github.com/IAmBullsaw)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
