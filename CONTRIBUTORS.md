@@ -1444,6 +1444,11 @@ Noida
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
 
+#### Name: [Marcell Kiss](https://github.com/kissmarcell)
+- Place: Hungary
+- Bio: Cat lover
+- GitHub: [kissmarcell](https://github.com/kissmarcell)
+
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
 - Bio: Cat lover
