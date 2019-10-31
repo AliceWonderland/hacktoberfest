@@ -1,3 +1,8 @@
+#### Name: Mario
+ - Place: Skopje, Macedonia
+ - Bio: Upcoming software engineer. Currently interested in AI and ML.
+ - GitHub: [mcincaroski](https://github.com/mcincaroski)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
