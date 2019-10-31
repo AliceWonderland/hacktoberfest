@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Greg James](https://github.com/gregyjames)
+- Place: Chicago, Il
+- Bio: Student developer. Fan of R and Python
+- Github: [gregyjames](https://github.com/gregyjames)
