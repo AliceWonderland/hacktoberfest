@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Liam Le](https://github.com/liamfullsnack)
+- Place: Hanoi, Vietnam
+- Bio: Java Developer
+- Github: [liamfullsnack](https://github.com/liamfullsnack)
