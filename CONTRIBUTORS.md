@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [AARUSHI TIWARI](https://github.com/Aarushitiwari)
+- Place: New Delhi, India
+- Bio: Exploring open source!
+- GitHub: [AARUSHI TIWARI](https://github.com/Aarushitiwari)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
