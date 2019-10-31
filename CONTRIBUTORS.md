@@ -440,6 +440,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Android development and a sprinkle of back end web!
 - Github: [Bryen V](https://github.com/bryen95)
 
+#### Name : [Budiono Santoso](https://www.linkedin.com/in/budionosan)
+- Place : Jakarta, Indonesia
+- Github : [Budiono Santoso](https://www.github.com/budionosan)
+
 #### Name: [CAPS Padilla](https://github.com/CarlosPadilla)
 - Place: Jalisco, Mexico
 - Bio: A handsome guy with the best work ever
