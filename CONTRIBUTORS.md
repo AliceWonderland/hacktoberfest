@@ -2072,6 +2072,11 @@ Noida
 - Bio: Front End Developer who loves cats and gaming!
 - GitHub: [Minimilk93](https://github.com/Minimilk93)
 
+#### Name: [Shivani Arun](https://github.com/ShivaniArun)
+- Place: Noida,INDIA
+- Bio: Undergraduate at NIET
+- GitHub: [ShivaniArun](https://github.com/ShivaniArun)
+
 #### Name: [Shobhit Agarwal](https://github.com/shobhit1997)
 - Place: JSSATE, NOIDA ,INDIA
 - Bio: Student/Andriod Developer
