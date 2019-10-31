@@ -909,6 +909,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [Gui An Lee](https://github.com/piroton)
 
+
+#### Name: [Guncha](https://github.com/ypungag)
+- Place: Bavaria, Germany
+- Bio: Student
+- Github: [Guncha](https://github.com/youngag)
+
 #### Name: [Gustavo Pacheco Ziaugra](https://github.com/GustavoZiaugra)
 - Place: São Paulo, Brazil.
 - Bio: Technology Guy / Student
