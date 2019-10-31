@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ribhav Sharma](https://github.com/ribhavsharma)
+- Place: Delhi, India
+- Bio: Designer and Pianist.
+- Github: [Ribhav Sharma](https://github.com/ribhavsharma)
