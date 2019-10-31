@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daniel Sones](https://github.com/Dan-Sones)
+- Place: England
+- Bio: Aspiring software developer
+- Github: [Daniel Sones](https://github.com/Dan-Sones)
