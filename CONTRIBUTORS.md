@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Talita](https://github.com/thcf16)
+- Place: Curitiba, Brazil
+- Bio: Computer Sciente Studen
+- Github: [Ítalo Epifânio](https://github.com/thcf16)
