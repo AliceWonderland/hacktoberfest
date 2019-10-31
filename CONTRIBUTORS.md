@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Stephanie Nguyen](https://github.com/nnsteph10)
+- Place: Syracuse, USA
+- Bio: Lab technician 
+- Github: [Stephanie Nguyen](https://github.com/nnsteph10)
