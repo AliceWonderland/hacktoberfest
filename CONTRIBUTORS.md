@@ -541,6 +541,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Design, Develop, Produce!
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
+#### Name: [Cameron Craig](https://github.com/craigrc)
+- Place: Scotland, United Kingdom
+- Bio: Rock climber and CS Student
+- GitHub: [craigrc](https://github.com/craigrc)
+
 #### Name: [CodHeK](https://github.com/CodHeK)
 - Place: Mumbai, India
 - Bio: Cuber/Coder
