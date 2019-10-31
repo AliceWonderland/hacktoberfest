@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gaurav Jain](https://github.com/GauravJain98)
+- Place: New Delhi, India
+- Bio: Web developer Django Python
+- Github: [Gaurav Jain](https://github.com/GauravJain98)
