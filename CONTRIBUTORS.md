@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jnguy11] (https://github.com/jnguy11)
+- Place: Vancouver, BC, Canada
+- Bio: Full-stack web developer student
+- GitHub: [jnguy11](https://github.com/jnguy11)
