@@ -245,6 +245,8 @@ to explore life. Also, Python and Django Developer
 - Bio: High School Student, passionate about math, coding and open source
 - Github: [ZaninAndrea](https://github.com/ZaninAndrea)
 
+#### Name: [Spencer Ng]
+
 #### Name: [Andrew Pickham](https://github.com/apickham)
 - Place: Fredericksburg, VA USA
 - Bio: Data Center Technician
