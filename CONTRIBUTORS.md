@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [udayi01](https://github.com/udayi01)
+- Place: USA
+- Bio: Data Engineer
+- Github: [udayi01](https://github.com/udayi01
