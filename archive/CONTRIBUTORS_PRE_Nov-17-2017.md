@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Hugo Bezerra](https://github.com/HB-fga)
+- Place: Distrito Federal, Brazil
+- Bio: C and C++ programmer, Game Dev
+- Github: [Hugo Bezerra](https://github.com/HB-fga)
