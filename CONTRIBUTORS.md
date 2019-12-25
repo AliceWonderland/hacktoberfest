@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Jndachenhaus](https://github.com/jndachenhaus) 
+- Place: United States 
+- Bio: High school student, going to Purdue for CS
+- GitHub: [jndachenhaus](https://github.com/jndachenhaus) 
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
