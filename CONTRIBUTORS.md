@@ -1,7 +1,26 @@
+#### Name: [Sam Flores](https://github.com/samflores23)
+ - Place: Chicago, IL, USA
+ - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
+ - GitHub: [samflores23](https://github.com/samflores23)
+
+#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+  - Place: Indore, India
+  - Bio: Engineering Student @ IET DAVV Indore
+
+#### Name: [Omid Nikrah](https://github.com/omidnikrah)
+ - Place: Tehran, Tehran, Iran
+ - Bio: Front-end developer
+ - GitHub: [omidnikrah](https://github.com/omidnikrah)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Eike](https://github.com/ejke)
+- Place: Glasgow, UK
+- Bio: Front end dev
+- GitHub: [ejke](https://github.com/ejke)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland

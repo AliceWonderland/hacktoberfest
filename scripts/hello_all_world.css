@@ -1,0 +1,37 @@
+/*
+// LANGUAGE: CSS
+// ENV: none
+// AUTHOR: Ejke
+// GITHUB: https://github.com/ejke
+*/ 
+
+body {
+	position: absolute;
+	top: 15%;
+	left: 3%;
+}
+body:before {
+	content: 'Hello World!';
+	font-family: monospace;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #666600;
+	color: #ffff80;
+	padding: 4rem;
+	background: linear-gradient(to right, #00f498 , #99ffcc);
+
+	animation-name: pulp;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+@keyframes pulp {
+	 0% {padding: 0rem; border-radius: 0%;}
+	 4% {padding: 0rem; border-radius: 0%;}
+	25% {padding: 4rem; border-radius: 100% 0%;}
+	29% {padding: 4rem; border-radius: 100% 0%;}
+  	50% {padding: 0rem; border-radius: 0%;}
+  	54% {padding: 0rem; border-radius: 0%;}
+	75% {padding: 4rem; 	border-radius: 0% 100%;}
+	79% {padding: 4rem; 	border-radius: 0% 100%;}
+  	100% {padding: 0rem; border-radius: 0%;}
+}
+
