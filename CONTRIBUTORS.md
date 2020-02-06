@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Altemush Bhatti](https://github.com/alti21)
+- Place: Concord, California
+- Bio: New Front End Web Developer
+- GitHub: [alti21](https://github.com/alti21)
