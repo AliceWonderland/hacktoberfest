@@ -1,0 +1,13 @@
+;; Hello world in Fjölnir
+
+"hello" < main
+{
+    main ->
+    stef(;)
+    stofn
+        skrifastreng(;"Hello, world!"),
+    stofnlok
+}
+*
+"GRUNNUR"
+;
