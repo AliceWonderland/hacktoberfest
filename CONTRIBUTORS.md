@@ -1,3 +1,8 @@
+#### Name: [Sachin Verma](https://github.com/sachinverma53121)
+- Place: New Delhi, Delhi, India
+- Bio: Web Developer | Student
+- GitHub: [sachinverma53121](https://github.com/sachinverma53121)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
