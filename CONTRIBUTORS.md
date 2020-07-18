@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Elio Jordan Lopes devELIO](https://github.com/lopeselio)
+- Place: Sirvoi, Goa, India
+- Bio: Mobile and Web developer
+- GitHub: [lopeselio](https://github.com/lopeselio)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
