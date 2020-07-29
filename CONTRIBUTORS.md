@@ -2423,7 +2423,17 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Raghu](https://github.com/FarmboyRaghu)
+- Place: Chennai, Tamil Nadu, India
+- Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
+- GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Paulo Salgado](https://github.com/paulosalgado)
+- Place: Ribeirão Preto, São Paulo, Brazil
+- Bio: Software Engineer
+- GitHub: [paulosalgado](https://github.com/paulosalgado)
