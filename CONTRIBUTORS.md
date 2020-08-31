@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [VAMSI](https://github.com/vamsireddy22)
+- Place: India
+- Bio: Web Developer
+- GitHub: [vamsi](https://github.com/vamsireddy22)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
