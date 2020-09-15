@@ -395,6 +395,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Shubham jain](http://github.com/sj00coder)
+-Place: Firozabad,India
+-Bio: B.tech(2nd year,CSE),Love to code
+- Github: [Shubham jain](https://github.com/sj00coder)
+
+
 #### Name: [Branden] (https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
