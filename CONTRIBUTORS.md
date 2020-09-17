@@ -1844,6 +1844,11 @@ Noida
 - Bio: Trying to fit in coding society.
 - GitHub: [Pranav Bhasin](https://github.com/pranavbhasin96)
 
+#### Name:[Pranjal Agarwal](https://github.com/Pranjal9999999)
+- Place: Jaipur, India
+- Bio: Android Developer
+- GitHub:[Pranjal9999999](https://github.com/Pranjal9999999)
+
 #### Name: [Pranjal Singh] (https://github.com/pranjal44)
 - Place: Delhi, India
 - Bio: Beginner
