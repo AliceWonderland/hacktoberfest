@@ -1035,6 +1035,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student / Designer
 - GitHub: [Jakub Bačo](https://github.com/vysocina)
 
+#### Name: [Jakab Csaba](https://github.com/eddiefrom)
+- Place: Debrecen, Hungary
+- Bio: Junior Software Developer
+- GitHub: [Jakab Csaba](https://github.com/eddiefrom)
+
 #### Name: [James Henderson](https://github.com/prohunt)
 - Place: Raleigh, NC, United States
 - Bio: Inquisitive, Loves coding, also vegan
