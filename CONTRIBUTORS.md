@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Celeste Zapata](https://github.com/zetadeceleste)
+- Place: Mendoza, Argentina
+- Bio: Web designer & developer | https://www.celestezapata.com
+- Github: [zetadeceleste](https://github.com/zetadeceleste)
