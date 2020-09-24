@@ -1,3 +1,7 @@
+#### Name: Priyanshu Ranjan
+-   Place: India
+- Bio:second year computer science student
+- Github: [Priyanshu2802](https://github.com/Priyanshu2802)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
