@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Kavish Agnihotri](https://github.com/Kavish-Agnihotri)
+- Place: Ujjain, India
+- Bio: Full Stack Developer
+- Github: [Kavish Agnihotri ](https://github.com/Kavish-Agnihotri)
