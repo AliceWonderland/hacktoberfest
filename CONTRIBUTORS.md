@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Mayur](https://github.com/mayursamnani36)
+- Place: Rajasthan, India
+- Bio: Web Developer
+- Github: [Mayur](https://github.com/mayursamnani36)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
