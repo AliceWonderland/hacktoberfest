@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Umang Sinha](https://github.com/umang-sinha)
+- Place: Goa, India
+- Bio: Android Developer and Learning Web Developer
+- Github: [Umang Sinha](https://github.com/umang-sinha)
