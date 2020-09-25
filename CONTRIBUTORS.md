@@ -1,3 +1,8 @@
+#### Name: [RAY HENDRICKS](https://github.com/https://github.com/rayhendricks)
+ - Place: Seattle, WA, USA
+ - Bio: Bioinformatics Enthusiest and Developer. 
+ - GitHub: [rayhendricks](https://github.com/https://github.com/rayhendricks)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
