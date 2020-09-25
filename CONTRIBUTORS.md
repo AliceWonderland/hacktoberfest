@@ -1719,6 +1719,11 @@ Noida
 - Bio: Web Developer
 - GitHub: [SmilesandCode](https://github.com/smilesandcode)
 
+#### Name: Ayush
+ - Place: Noida, India
+ - Bio: Hobby Programmer
+ - GitHub: [ayushmaloo](https://github.com/ayushmaloo)
+
 #### Name: [Nishant Rai](https://github.com/iamnishantrai)
 - Place: Noida,India
 - Bio: Student
