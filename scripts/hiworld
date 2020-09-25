@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Joas
+// GITHUB: https://github.com/CyberSecurityUP
+
+console.log('Hi, World!');
