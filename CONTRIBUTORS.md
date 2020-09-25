@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devansh Batra](https://github.com/devanshbatra)
+- Place: India
+- Bio: Web developer nodejs
+- Github: [devanshbatra](https://github.com/devanshbatra)
