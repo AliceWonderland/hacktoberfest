@@ -395,6 +395,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Boaz Kaufman](https://github.com/Ernulphus)
+- Place: Brooklyn, NY
+- Bio: Computational Classicist at Hunter College
+- GitHub: [Ernulphus](https://github.com/Ernulphus)
+
 #### Name: [Branden] (https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
