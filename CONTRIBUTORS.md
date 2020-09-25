@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ramon Domingos](https://github.com/ramondomiingos)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ramon Domingos](https://github.com/ramondomiingos)
