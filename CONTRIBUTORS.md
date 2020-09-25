@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avinash sharma](https://github.com/avinashsharma080)
+- Place: chhatisgarh,India
+- Bio: Web developer nodejs , flutter developer and Python
+- Github: [Avinashsharma080](https://github.com/avinashsharma080)
