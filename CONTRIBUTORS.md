@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jai Janyani](https://github.com/JAIJANYANI)
+- Place: Haryana, India
+- Bio: Data Engineer
+- Github: [Jai Janyani](https://github.com/JAIJANYANI)
