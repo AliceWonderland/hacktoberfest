@@ -1,3 +1,8 @@
+#### Name: Jaideep Ghosh
+ - Place: Bangalore, India
+ - Bio: Software engineer @GeekyAnts.
+ - GitHub: @[jaideepghosh](https://github.com/jaideepghosh)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
