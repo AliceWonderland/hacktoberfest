@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [officialputuid](https://github.com/officialputuid)
+- Place: Denpasar, Bali, Indonesia
+- Bio: Web & Android Developers
+- GitHub: [officialputuid](https://github.com/officialputuid)
