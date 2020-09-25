@@ -2220,11 +2220,6 @@ Noida
 - Bio: College student
 - GitHub: [Thomas Lee](https://github.com/pbzweihander)
 
-#### Name: [Thomas Mort](https://github.com/Tommygun200202)
-- Place: Wirral, United Kingdom
-- Bio: I am a high school student who loves Twenty One Pilots!
-- GitHub: [Tommygun200202](https://github.com/Tommygun200202)
-
 #### Name: [Tiago Severino](https://github.com/TiagoSeverino)
 - Place: Lisbon, Portugal
 - Bio: I code for fun!
@@ -2433,4 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-
+#### Name: [Thomas Mort](https://github.com/Tommygun200202)
+- Place: Wirral, United Kingdom
+- Bio: I am a College Student studying Games and Animation! 
+- GitHub: [Tommygun200202](https://github.com/Tommygun200202)
