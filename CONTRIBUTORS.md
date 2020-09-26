@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Yuvraj Singh](https://github.com/YuvrajSHAD)
+- Place: Haryana, India
+- Bio: Student At Chitkara University of BE.CSE
+- GitHub: [YuvrajSHAD](https://github.com/YuvrajSHAD)
