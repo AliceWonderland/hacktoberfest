@@ -2077,6 +2077,11 @@ Noida
 - Bio: Student/Andriod Developer
 - GitHub: [shobhit1997](https://github.com/shobhit1997)
 
+#### Name: [Shobhit Rathi](https://github.com/ShobhitRathi)
+- Place: New Delhi, India
+- Bio: python programmer and frontend developer
+- GitHub: [ShobhitRathi](https://github.com/ShobhitRathi)
+
 #### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Undergrad at IIITA
