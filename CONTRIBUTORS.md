@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Magicansk](https://github.com/magicansk)
+- Place: San Francisco, CA, USA
+- Bio: System Network Engineer
+- GitHub: [Magicansk](https://github.com/magicansk)
