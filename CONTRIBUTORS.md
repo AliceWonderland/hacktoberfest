@@ -88,6 +88,11 @@
 - Bio: Web Developer
 - GitHub: [a-m-a-z](https://github.com/a-m-a-z)
 
+### Name: [George Mani](https://github.com/georgemani1225)
+- Place: Kerala, India
+- Bio: Android Developer
+- Github: [George Mani](https://github.com/georgemani1225)
+
 #### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
