@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [parth191220](https://github.com/parth191220)
+- Place: Indore , India
+- Bio: Software Developer
+- Github: [parth191220](https://github.com/parth191220)
+
+
