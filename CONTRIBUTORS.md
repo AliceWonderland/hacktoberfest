@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Abdul Muttaqin](https://github.com/fdciabdul)
+- Place: Bogor, West Java, Indonesia
+- Bio: Junior Developer
+- GitHub: [fdciabdul](https://github.com/fdciabdul)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
