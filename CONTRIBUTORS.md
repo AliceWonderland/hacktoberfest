@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: [DHRUV BHATIA](https://github.com/dhruv-bhatia246)
+- Place: INDIA
+- Bio: Second year Computer Science Student
+- GitHub: [DHRUV BHATIA](https://github.com/dhruv-bhatia246)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
