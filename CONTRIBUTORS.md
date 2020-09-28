@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name [Faqih Sopyan](https://github.com/msopyan)
+- Place: Sukabumi, West Java, Indonesia
+- Bio: Digital Product Design & Developer
+- Github: [msopyan] (https://github.com/msopyan)
