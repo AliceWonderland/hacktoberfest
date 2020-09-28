@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Cameron Housley](https://github.com/ghostiespooik)
+- Place: Utah, USA
+- Bio: Wannabe developer. Full time failure.
+- Github: [GhostieSpook](https://github.com/ghostiespook)
