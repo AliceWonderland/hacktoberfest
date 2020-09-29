@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [yogeshdiv](https://github.com/yogeshdiv)
+- Place: maharashtra, india
+- Bio: student 
+- Github: [yogeshdiv](https://github.com/yogeshdiv)
