@@ -1895,6 +1895,11 @@ Noida
 - Bio: Software Developer
 - GitHub: [rafaelbezerra195](https://github.com/rafaelbezerra195)
 
+#### Name: [Rafael Castro](https://github.com/rafaelcsva)
+- Place: Goiania, Goias, Brazil
+- Bio: Computer Science student
+- GitHub: [rafaelcsva](https://github.com/rafaelcsva)
+
 #### Name: [Rafael Lima](https://github.com/rafaelkalan)
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Youger software engineer
