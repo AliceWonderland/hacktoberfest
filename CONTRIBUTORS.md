@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Animesh Pathak](https://github.com/sonichigo)
+- Place: Delhi,India
+- Bio: Data Analyst
+- Github: [Ítalo Epifânio](https://github.com/sonichigo)
