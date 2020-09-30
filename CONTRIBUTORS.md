@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sayak Naskar](https://www.github.com/hacky1997)
+- Place: West Bengal, India
+- Bio: Ethical hacker, Pentester, Red Teamer and Web developer
+- GitHub: [Sayak Naskar](https://www.github.com/hacky1997)
+
