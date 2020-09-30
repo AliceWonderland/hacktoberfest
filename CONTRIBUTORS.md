@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [ANKUR KESHARWANI](https://github.com/kesari007)
+- Place: India
+- Bio: A newbie in the world of open source
+- GitHub: [Ankur Kesharwani](https://github.com/kesari007)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
