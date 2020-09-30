@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deepak Tiwari](https://github.com/Deepak-dex)
+- Place: Mumbai, India
+- Bio: Python enthusiasts
+- Github: [Deepak Tiwari](https://github.com/Deepak-dex)
