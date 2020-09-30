@@ -1,3 +1,8 @@
+### Name: Kulendu
+- Place: Guwahati, India
+- Bio: An CSE undergrad student also ML/DL enthusiast
+- GitHub: [kulendu](https://github.com/kulendu)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
