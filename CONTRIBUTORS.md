@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [M Hafid Masruri](https://github.com/ackerman17)
+- Place: Lumajang,Indonesian
+- Bio: Full Stack Javascript Developer
+- Github: [ackerman17](https://github.com/ackerman17)
