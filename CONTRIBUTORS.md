@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Mihir](https://github.com/kali-hacker-virtual)
+- Place: Mumbai, Maharashtra, India
+- Bio: Student
+- GitHub: [kali-hacker-virtual](https://github.com/kali-hacker-virtual/)
