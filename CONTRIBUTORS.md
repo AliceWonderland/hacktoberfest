@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anubhav Tyagi](https://github.com/anubhav-08)
+- Place: India
+- Bio: Web developer, Competitive Coding, C++ and Python
+- Github: [Ítalo Epifânio](https://github.com/anubhav-08)
