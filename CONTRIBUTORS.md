@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name [AuroPython](https://github.com/AuroPython)
+ - Place: Belém, Brazil
+ - Bio: Brazilian student and programmer, i make some bots with python and right now i'm learning C++ for game development and C for robotics
+ - Github: [AuroPython](https://github.com/AuroPython)
