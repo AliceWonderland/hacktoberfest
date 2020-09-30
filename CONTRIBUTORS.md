@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rizky Nugraha Herliyanto](https://github.com/lordacil)
+- Place: Kota Banjar, Indonesia
+- Bio: Android Developer && Linux Enthusiasm
+- Github: [Rizky Nugraha Herliyanto](https://github.com/lordacil)
