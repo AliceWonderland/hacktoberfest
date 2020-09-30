@@ -300,6 +300,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at Universiy of Muhammadiyah Jakarta
 - GitHub: [Arie Kurniawan](https://github.com/arkwrn)
 
+#### Name: [Arshdeep singh](https://github.com/botarsh)
+- Place: Delhi, India
+- Bio: Python Developer
+- Github [botarsh](https://github.com/botarsh)
+
 #### Name: [Arpit Gogia](https://github.com/arpitgogia)
 - Place: Delhi, India
 - Bio: Python Developer
