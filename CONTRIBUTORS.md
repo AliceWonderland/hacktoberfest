@@ -1,3 +1,7 @@
+#### Name: Rittik Dasgupta
+- Place: Digboi, Assam, India
+- Bio: Second Year Electronics and Communication Engineering Student, Developer
+- GitHub: [Rittik Dasgupta](https://github.com/hrk2023)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
