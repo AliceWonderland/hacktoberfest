@@ -1,3 +1,8 @@
+#### Name: [VAISHNAVI SAXENA](https://github.com/vaishnavi-1)
+- Place:  Gorakhpur,Uttar Pradesh,India
+- Bio: Engineering Student 
+- GitHub: [vaishnavi-1](https://github.com/vaishnavi-1)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
