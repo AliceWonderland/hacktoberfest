@@ -1935,10 +1935,10 @@ Noida
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
 
-#### Name: [Rene Israel](https://github.com/reneisrael)
-- Place: Mexico
-- Bio: En decadencia
-- GitHub: [Rene Israel](https://github.com/reneisrael)
+#### Name: [Rimjhim Prasanna](https://github.com/rims2020)
+- Place: India
+- Bio: Tech enthusiast Programmer and a Developer
+- GitHub: [Rimjhim Prasanna]((https://github.com/rims2020)
 
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
