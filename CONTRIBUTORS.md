@@ -22,6 +22,10 @@
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+#### Name: [ABHISHEK VISHWAKARMA](https://github.com/Abhishek765)
+- Place: Tezpur(Assam),INDIA
+- Bio: student (passionate developer)
+- GitHub: [ABHISHEK VISHWAKARMA](https://github.com/Abhishek765)
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
