@@ -6,11 +6,11 @@ Techno India University
 
 ### Interests
 
-- Ethical Hacking & Web Development
+- Ethical Hacking, Red Teaming & Web Development
 
 ### Development
 
-- Python
+- Python, Java, Bash, Shell, Batch
 
 ### Projects
 

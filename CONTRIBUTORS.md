@@ -2429,6 +2429,7 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Sayak Naskar](https://www.github.com/hacky1997)
-- Place: Kolkata, West Bengal, India
-- Bio: Ethical hacker, pentester and developer
+- Place: West Bengal, India
+- Bio: Ethical hacker, Pentester, Red Teamer and Web developer
 - GitHub: [Sayak Naskar](https://www.github.com/hacky1997)
+
