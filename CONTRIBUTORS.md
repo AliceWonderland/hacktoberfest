@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Suryansh Yadav] (https://github.com/suryanshyadav)
+- Place: Uttar Pradesh, India
+- Bio: Preparing for IIT
+-Github: [SuryanshYada07](https://github.com/suryanshyadav07
