@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vinícius Azevedo](https://github.com/viniciussousaazevedo)
+- Place: João Pessoa, Brazil
+- Bio: Computer Science student at Federal University of Campina Grande
+- Github: [Vinícius Azevedo](https://github.com/viniciussousaazevedo)
