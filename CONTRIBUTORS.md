@@ -6,7 +6,7 @@
 #### Name: Vaishnavi
  - Place: Pune, India
  - Bio: Third year IT engineering
- - GitHub: [Vallenain](https://github.com/vaishnavi2408)
+ - GitHub: [VJ](https://github.com/vaishnavi2408)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
