@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Mesquita](https://github.com/luccasoli)
+- Place: Fortaleza - CE, Brazil
+- Bio: Web and Mobile Developer
+- GitHub: [Lucas Mesquita](https://github.com/luccasoli)
