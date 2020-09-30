@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Laksh Dhamija](https://github.com/lakshdhamija)
+- Place: New Delhi, India
+- Bio: SDE Intern (MERN stack)
+- Github: [Laksh Dhamija](https://github.com/lakshdhamija)
