@@ -1,3 +1,9 @@
+#### Name: Subhi
+
+- Place: Mumbai, india
+- Bio: Android Developer
+- GitHub: [Subhi Pandey](https://github.com/subhipandey)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
