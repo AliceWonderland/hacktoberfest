@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikita Chavan](https://github.com/nikki156)
+- Place: Mahad, Maharashtra, India
+- Bio: Frontend and UI/UX enthusiast
+- GitHub: [nikki156](https://github.com/nikki156)
+
