@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Guntur Dwi C](https://github.com/pearces17)
+- Place: Yogyakarta, Indonesia
+- Bio: AI Engineer
+- Github: [Guntur Dwi C](https://github.com/pearces17)
