@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saiyam Jain](https://github.com/cybersaiyam)
+- Place: Delhi, India
+- Bio: Web Developer and AI Enthusiast
+- Github: [CyberSaiyam](https://github.com/cybersaiyam)
