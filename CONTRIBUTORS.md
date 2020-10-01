@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: [MAELY BRANDÃO](https://github.com/mxlysb)
+- Place: Paraiba, Brasil
+- Bio: Computer Science - UFCG
+- GitHub: [Maely Brandão](https://github.com/mxlysb)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
