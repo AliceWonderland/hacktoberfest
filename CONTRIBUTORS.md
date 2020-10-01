@@ -374,6 +374,11 @@ to explore life. Also, Python and Django Developer
  - Place: Windsor, CO
  - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
  - GitHub: [Bennie Mosher](https://github.com/benniemosher)
+ 
+#### Name: [Bharat Sharma](https://github.com/heybharatt)
+ - Place: India
+ - Bio: Computer Science Undergraduate
+ - GitHub: [iambk](https://github.com/heybharatt)
 
 #### Name: [Bharath Kumar](https://github.com/iambk)
  - Place: India
