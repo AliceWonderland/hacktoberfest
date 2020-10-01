@@ -33,6 +33,12 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+
+#### Name: [BHUVAN SHUKLA](https://github.com/Bhuvan804/)
+- Place: India
+- Bio: Full-Stack Web Developer
+- GitHub: [BHUVAN SHUKLA](https://github.com/Bhuvan804/)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
