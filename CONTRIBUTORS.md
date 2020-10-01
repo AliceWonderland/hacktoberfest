@@ -1,3 +1,8 @@
+#### Name: Reza Fachrizal
+ - Place: Yogyakarta, Indonesia
+ - Bio: 7th Survey Technology student. Gadjah Mada University.
+ - GitHub: [fachrezal](https://github.com/fachrezal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
