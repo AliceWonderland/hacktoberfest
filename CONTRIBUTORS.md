@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Symon Cristhian
+ - Place: Manaus, Brazil
+ - Bio: Software Engineer student at Universidade Federal do Amazonas.
+ - GitHub: [Symon Cristhian](https://github.com/s4imu)
