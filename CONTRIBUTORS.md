@@ -1,3 +1,7 @@
+#### Name : Tanmoy chowdhury
+  - place : India
+  - bio : grad student of computer science .
+  - github : (https://github.com/tanmoy1234)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
