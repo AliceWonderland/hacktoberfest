@@ -1,3 +1,8 @@
+#### Name : Faizan Alam(https://github.com/Faizan-Alam-1)
+ - Place : Patna , India 
+ - Bio : Fresher(2020) undergraduate , Computer science Student.
+ - GitHub : [Faizan-Alam](https://github.com/Faizan-Alam-1)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
