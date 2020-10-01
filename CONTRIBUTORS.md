@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rahul Seetharaman](https://github.com/rahulseetharaman)
+- Place: Chennai, India
+- Bio: Deep Learning Enthusiast
+- Github: [Rahul Seetharaman](https://github.com/rahulseetharaman)
