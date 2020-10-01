@@ -2393,6 +2393,11 @@ Noida
 - Bio: caffeinated and curious
 - GitHub: [zkafkes](https://github.com/zkafkes)
 
+#### Name: Saket Gupta
+-Place:India
+-Bio:android
+-Gihub: Saket210
+
 #### Name: [coastalchief](https://github.com/coastalchief)
 - Place: Germany
 - Bio: dev
