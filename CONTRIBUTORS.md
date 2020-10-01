@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ioannis Bonatakis](https://github.com/b10n1k)
+- Place: Prague, CZ
+- Bio: QA engineer
+- Github: [b10n1k](https://github.com/b10n1k)
