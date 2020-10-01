@@ -285,6 +285,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Antriksh Agarwal](https://github.com/evamy)
+- Place: Dallas, Texas, United States
+- Bio: Software Engineer at Microsoft
+- GitHub: [Antriksh Agarwal](https://github.com/evamy)
+
 #### Name: [Anupam Dagar](https://github.com/Anupam-dagar)
 - Place: Allahabad, India
 - Bio: I am like a code currently in development.
