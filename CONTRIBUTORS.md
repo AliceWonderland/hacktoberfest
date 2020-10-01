@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kaan ARI](https://github.com/kaanaritr)
+- Place: Ankara, Turkey
+- Bio: Python, Digital Circuit Design (VHDL), C, C++
+- Github: [Kaan ARI](https://github.com/kaanaritr)
