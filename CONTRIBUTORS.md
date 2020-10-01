@@ -2168,7 +2168,7 @@ Noida
 
 #### Name: [Swapnil Panwala](https://github.com/panwalas)
 - Place: New Delhi, India
-- Bio: CSE Student at Bennett University
+- Bio: Machine Learning Enthusiast
 - GitHub: [PanwalaS](https://github.com/panwalas)
 
 #### Name: [Sylwester](https://github.com/sla)
