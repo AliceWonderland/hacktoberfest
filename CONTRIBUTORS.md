@@ -2423,6 +2423,11 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Sumit Raj] (https://github.com/sumit-raj-au5)
+- Place: Patna, Bihar, India
+- Bio: A tech enthusiast who is trying to self learn.
+- GitHub: [sumit-raj-au5] (https://github.com/sumit-raj-au5)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
