@@ -1,3 +1,7 @@
+### Name: [Ramandeep Singh] (https://github.com/sing6709)
+ - Place: Brussels, Belgium
+ - Bio: Last year student in Computer Science at Odisee Hogeschool
+ - Github: [sing6709] (https://github.com/sing6709)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
