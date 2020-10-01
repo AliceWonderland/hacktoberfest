@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [SIDDARTH AWASTHI](https://github.com/siddarth308)
+- Place: BHUBANESWAR, INDIA
+- Bio: I love Gaming.
+- GitHub: [siddarth308](https://github.com/siddarth308)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
