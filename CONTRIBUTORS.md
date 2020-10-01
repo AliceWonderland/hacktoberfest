@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Andrew Mbugua](https://github.com/AndrewMbugua)
+- Place: Nakuru,Kenya
+- Bio: Computer scientist
+- Github: [Andrew Mbugua](https://github.com/AndrewMbugua)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
