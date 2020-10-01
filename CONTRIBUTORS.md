@@ -1,3 +1,9 @@
+#### Name: [Sakshi Sharma](https://github.com/sakshisharma8)
+- Place: India
+- Bio: Final Year Student
+- GitHub: [Sakshi Sharma](https://github.com/sakshisharma8)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
