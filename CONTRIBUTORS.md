@@ -265,6 +265,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Backend Developement | Snake Charmer | Student
 - GitHub: [Ankit Chhetri](https://github.com/ankitch)
 
+#### Name: [Shivang](https://github.com/shivang0)
+- Place: Mumbai , Maharashtra , India
+- Bio:  Web Design & Security Researcher
+- GitHub: [Shivang0](https://github.com/shivang0)
+
 #### Name: [Ankit Rai](https://github.com/ankitrai96)
 - Place: Greater Noida, Uttar Pradesh, India
 - Bio: A high functioning geek, et cetera.
