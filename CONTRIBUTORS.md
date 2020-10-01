@@ -1,3 +1,7 @@
+#### Name: Sanskriti
+  - Place: Bihar,India
+  - Bio:third year computer science student,techoholic
+  -Github: [sans712](https://github.com/sans712)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
