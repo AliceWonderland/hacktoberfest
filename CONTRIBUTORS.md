@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Maria Eduarda de Azevedo](https://github.com/MariaEduardaDeAzevedo)
+- Place: Campina Grande, Brazil
+- Bio: Computer Science student, Python lover and web dev enthusiastic
+- Github: [Ítalo Epifânio](https://github.com/MariaEduardaDeAzevedo)
