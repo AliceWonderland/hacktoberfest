@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ivan Marrêta](https://github.com/ivanmarreta)
+- Place: Lisbon, Portugal
+- Bio: Software Engineer
+- Github: [Ivan Marrêta](https://github.com/ivanmarreta)
