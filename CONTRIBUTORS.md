@@ -1940,6 +1940,11 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+#### Name: [Rhythm Gilhotra](https://github.com/RhythmGilhotra)
+- Place: India
+- Bio: Senior Year Student Pursuing BE
+- GitHub: [RhythmGilhotra](https://github.com/RhythmGilhotra)
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
