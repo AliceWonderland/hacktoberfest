@@ -103,6 +103,11 @@
 - Bio: iOS Developer
 - GitHub: [Aiman Abdullah Anees](https://github.com/aimananees)
 
+#### Name: [Coding Geek](https://github.com/codingeekks)
+- Place: India
+- Bio: Computer Science Student
+- GitHub: [codingeekks](https://github.com/codingeekks)
+
 #### Name: [Aimee Tacchi](https://github.com/darkxangel84)
 - Place: England, UK
 - Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
