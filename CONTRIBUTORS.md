@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Samarth Bhandari](https://github.com/b-samarth)
+- Place: Prayagraj, Uttar Pradesh, India
+- Bio: Android Developer, Competitive Programmer
+- GitHub: [Samarth Bhandari](https://github.com/b-samarth)
