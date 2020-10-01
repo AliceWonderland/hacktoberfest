@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rimjhim Singh](https://github.com/Rimjhim27)
+- Place: Thane, Maharashtra, India
+- Bio: Android App Developer and Cyber Security Enthusiast
+- Github: [Rimjhim Singh](https://github.com/Rimjhim27)
