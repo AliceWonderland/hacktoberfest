@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Iele Passos](https://github.com/ielepassos)
+- Place: Campina Grande, Paraiba, Brazil
+- Bio: PyladiePb and computer science student at UFCG
+- Github: [ielepassos](https://github.com/ielepassos)
+
