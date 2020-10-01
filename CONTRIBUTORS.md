@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kanishk Sharma](https://github.com/kanishk014)
+- Place: Delhi, India
+- Bio: Web Developer and Java Enthusiast
+- GitHub: [Kanishk Sharma](https://github.com/kanishk014)
