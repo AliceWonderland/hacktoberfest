@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [skar4242](https://github.com/skar4242)
+- Place: Mijas, Spain
+- Bio: C# Dev and Powershell scripter
+- Github: [skar4242](https://github.com/skar4242)
