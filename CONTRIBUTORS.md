@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aman Mahajan](https://github.com/amanmj)
+- Place: Los Angeles, USA
+- Bio: Graduate Student at University of Southern California
+- Github: [Ítalo Epifânio](https://github.com/amanmj)
