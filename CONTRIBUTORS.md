@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yudha Febri Rastuama](https://github.com/yufebra)
+- Place: Blora, Central Java, Indonesia
+- Bio: Students and newbie web developer
+- GitHub: [Yudha Febri Rastuama](https://github.com/yufebra)
