@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Evan Cooper](https://github.com/EvanCooper9)
+- Place: Ottawa, Canada
+- Bio: iOS App Developer
+- Github: [EvanCooper9](https://github.com/EvanCooper9)
