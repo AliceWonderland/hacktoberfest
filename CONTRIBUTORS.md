@@ -2358,6 +2358,11 @@ Noida
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [Yash Gupta](https://github.com/giyasht)
+- Place: Rajasthan,India
+- Bio: UG2 CSE
+- Github: [giyasht](https://github.com/giyasht)
+
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
