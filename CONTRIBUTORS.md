@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gaurav Keswani](https://github.com/Gaurav3170)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Front End Web Developer And Data Analyst . I like to work on Machine Learning and analyzing the various techniques to visualize the datasets of an organization.
+- GitHub: [Gaurav Keswani](https://github.com/Gaurav3170)
