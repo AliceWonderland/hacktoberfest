@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Naveen Bandarage](http://naveenbandarage.com/)
+- Place: Wellington, New Zealand
+- Bio: Software Engineering Student - AI and Web Dev
+- Github: [Naveen Bandarage](https://github.com/NaveenBandarage)
