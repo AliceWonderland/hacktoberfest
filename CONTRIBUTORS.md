@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SWASTIK RAJ SINGH] (https://github.com/Swastik1710)
+- Place: Jamshedpur, Jharkhand, India
+- Bio: Front End Web Developer
+- Github: [Swastik1710] (https://github.com/Swastik1710)
