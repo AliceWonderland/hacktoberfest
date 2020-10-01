@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Heet Vakharia](https://github.com/heet-vakharia)
+- Place: India
+- Bio: MERN Stack Developer
+- GitHub: [heet-vakharia](https://github.com/heet-vakharia)
+gh repo clone heet-vakharia/hacktoberfest
