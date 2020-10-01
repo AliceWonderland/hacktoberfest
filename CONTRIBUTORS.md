@@ -265,6 +265,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Backend Developement | Snake Charmer | Student
 - GitHub: [Ankit Chhetri](https://github.com/ankitch)
 
+#### Name: [Divyanshu Soni](https://github.com/dcs-soni)
+- Place: Ahmedabad, Gujarat
+- Bio: Programming Enthusiast | IoT | Thinker
+- GitHub: [Divyanshu Soni](https://github.com/dcs-soni)
+
 #### Name: [Ankit Rai](https://github.com/ankitrai96)
 - Place: Greater Noida, Uttar Pradesh, India
 - Bio: A high functioning geek, et cetera.
