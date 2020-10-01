@@ -28,6 +28,12 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+ 
+#### Name: [ANUBHAV RAWAT](https://github.com/anurawat01)
+ - Place: Uttar Pradesh, India
+ - Bio: Student
+ - GitHub: [anurawat01](https://github.com/anurawat01)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
