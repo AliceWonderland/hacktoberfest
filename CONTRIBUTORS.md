@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rbayuokt](https://github.com/rbayuokt)
+- Place: Indonesia
+- Bio: Frontend Developer
+- Github: [Rbayuokt](https://github.com/rbayuokt)
