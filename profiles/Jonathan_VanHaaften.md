@@ -6,10 +6,10 @@ Golden BC, Canada
 
 ### Interests
 
-Skiing
-Cooking
-Learing to code
-Wine
+Skiing,
+Cooking,
+Learing to code,
+Wine,
 Travel
 
 ### Profile Link
