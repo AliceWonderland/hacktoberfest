@@ -2166,6 +2166,11 @@ Noida
 - Bio: CSE Student at IIITD
 - GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
 
+#### Name: [Swapnil Panwala](https://github.com/panwalas)
+- Place: New Delhi, India
+- Bio: Machine Learning Enthusiast
+- GitHub: [PanwalaS](https://github.com/panwalas)
+
 #### Name: [Sylwester](https://github.com/sla)
 - Place: Poland
 - Bio: JAVA
