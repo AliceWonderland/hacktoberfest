@@ -2432,3 +2432,4 @@ Noida
 - Place: India
 - Bio: MERN Stack Developer
 - GitHub: [heet-vakharia](https://github.com/heet-vakharia)
+gh repo clone heet-vakharia/hacktoberfest
