@@ -1729,6 +1729,11 @@ Noida
 - Bio: Student
 - Github: [noradiegwu](https://github.com/noradiegwu)
 
+#### Name: [Noëlie Roux](https://twitter.com/noelie_roux)
+- Place: Paris, France
+- Bio: FrontEnd Engineer, Esport lover
+- Github: [Noelierx](https://github.com/Noelierx)
+
 #### Name: [Noveen Sachdeva](https://github.com/noveens)
 - Place: Hyderabad, Telangana, India
 - Bio: 3rd Year CS undergrad at IIIT Hyderabad.
