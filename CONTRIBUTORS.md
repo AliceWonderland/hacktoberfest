@@ -2082,6 +2082,11 @@ Noida
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
 
+#### Name: [SHYAMASHRITA CHATTERJEE](https://github.com/Shyamashrita)
+- Place: India
+- Bio: First Time Participation in Open Source Contribution.
+- GitHub: [Shyamashrita](https://github.com/Shyamashrita)
+
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
 - Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
