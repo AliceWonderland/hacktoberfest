@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+### Name:[gourav kumar2] (https://github.com/gouravkmar2)
+-Place:Allahabad,India
+-Bio: EE undergrad
+-Github:(https://github.com/gouravkmar2)
