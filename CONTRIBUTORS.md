@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Danil Rodin] (https://github.com/umbrellait-danil-rodin)
+- Place: Russian Federation
+- Bio: Full-stack developer
+- GitHub: [umbrellait-danil-rodin] (https://github.com/umbrellait-danil-rodin)
