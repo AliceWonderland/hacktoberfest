@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Tyler](https://github.com/Tylerdurdenn)
+- Place:India
+- Bio: Data Analyst 
+- Github: [tyler](https://github.com/Tylerdurdenn)
