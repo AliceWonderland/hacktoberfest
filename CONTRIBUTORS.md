@@ -1,3 +1,8 @@
+#### Name: [Rahul Dua]
+- Place: India
+- Bio: Developer
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
