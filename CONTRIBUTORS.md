@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Xinyi Xiang](https://github.com/xinyixiang)
+- Place: Houston, US
+- Bio: Undergrad
+- GitHub: [Xinyi Xiang](https://github.com/xinyixiang)
