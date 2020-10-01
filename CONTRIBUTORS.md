@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishikesh](https://github.com/Rishikesh-12)
+- Place: New Delhi, India
+- Bio: Software/Web Dev
+- Github: [Rishikesh](https://github.com/Rishikesh-12)
