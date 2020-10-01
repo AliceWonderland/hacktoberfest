@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parth Saxena](https://github.com/parthsaxena2005)
+- Place: India
+- Bio: Student, Low budget Gamer, sed lyf
+- GitHub: [Parth Saxena](https://github.com/parthsaxena2005)
