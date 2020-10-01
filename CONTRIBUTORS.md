@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Smriti Rout](https://github.com/smriti2311)
+- Place: Uttar Pradesh, India
+- Bio: B.tech Student, data science enthusiast
+- GitHub: [Smriti Rout](https://github.com/smriti2311)
