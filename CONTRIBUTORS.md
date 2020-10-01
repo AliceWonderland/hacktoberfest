@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [maheshjindal](https://github.com/maheshjindal)
+- Place: Chandigarh,India
+- Bio: Data Engineer
+- Github: [maheshjindal](https://github.com/maheshjindal)
