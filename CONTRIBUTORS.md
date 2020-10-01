@@ -1,3 +1,8 @@
+#### Name: Ishaan Jain
+ - Place: Jaipur, India
+ - Bio: Computer Engineeer. Student in RTU, Kota.
+ - GitHub: [Ishaan Jain](https://github.com/ishaanjain1898)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
