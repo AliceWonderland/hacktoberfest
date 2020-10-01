@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Gupta](https://github.com/xcyberpunkx0)
+- Place: Durgapur,West Bengal,India
+- Bio: CS Student
+- GitHub: [Aditya Gupta](https://github.com/xcyberpunkx0)
