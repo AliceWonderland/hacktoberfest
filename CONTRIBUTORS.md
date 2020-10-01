@@ -1839,6 +1839,11 @@ Noida
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
 
+### Name: Pradhumn Dave
+- Place: Jodhpur, Rajasthan, India
+- Bio: [Petroleum Engineer in tech](https://pradhumndave.tech/)
+- GitHub: [Pradhumn Dave](https://github.com/davedevelopers)
+
 #### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
 - Place: Hyderabad, Telangana, India
 - Bio: Trying to fit in coding society.
