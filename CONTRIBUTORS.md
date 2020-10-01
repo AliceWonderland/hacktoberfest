@@ -310,6 +310,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Major / UI/UX Designer
 - GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
 
+#### Name: [Ashley Roy](https://github.com/ATR-oCiTy)
+- Place: India
+- Bio: Data Scientist
+- GitHub: [ATR-oCiTy](https://github.com/marrujoalex)
+
 #### Name: [Attila Blascsak](https://github.com/blascsi)
 - Place: Hungary
 - Bio: Front-end dev. Love React!
