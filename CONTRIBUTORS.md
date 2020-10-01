@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kerin Pithawala](https://github.com/Kerveyfelix)
+- Place: Navsari,Gujarat,India
+- Bio: Open Source enthusiat currently studying computer engineering
+- GitHub: [Kerveyfelix](https://github.com/Kerveyfelix)
