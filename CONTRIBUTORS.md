@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Nirmit](https://github.com/Nirmit2207)
+- Place: Rajasthan, India
+- Bio: CSE student
+- GitHub: [Nirmit2207](https://github.com/Nirmit2207)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
