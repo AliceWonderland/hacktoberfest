@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anna Beatriz Lucena Lira](https://github.com/annabeatrizlucena)
+- Place: Campina Grande, Paraíba,  Brazil
+- Bio: Computer Science Student at UFCG
+- Github: [annabeatrizlucena](https://github.com/annabeatrizlucena)
