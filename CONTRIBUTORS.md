@@ -1,3 +1,8 @@
+#### Name: [MUHAMMAD AZHAR]
+ - Place: LAHORE, PAKISTAN
+ - Bio: Software engineer. Graduated from UET Lahore.
+ - GitHub: [muazhar](https://github.com/muazhar)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
