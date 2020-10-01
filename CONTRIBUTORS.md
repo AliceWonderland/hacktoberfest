@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MIONNET Jean](https://github.com/jeanmionnet)
+- Place: Grenoble, France
+- Bio: Student
+- Github: [jeanmionnet](https://github.com/jeanmionnet)
