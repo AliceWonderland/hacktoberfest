@@ -2,7 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+#### Name: Kajori Ghosh
+ - Place: Kolkata, India
+ - Bio: Software engineer. Pursuing Btech CSE
+ - GitHub: [Kajori Ghosh](https://github.com/Kajori4)
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
