@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [RTKSoftware](https://github.com/RTKSoftware)
+- Place: USA
+- Bio: Software Engineer
+- GitHub: [RTKSoftware](https://github.com/RTKSoftware)
