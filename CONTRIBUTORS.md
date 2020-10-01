@@ -1,3 +1,9 @@
+#### Name: ANTAS GUPTA
+ - Place: Delhi, India
+ - Bio: In Final Year of my Graduation (B.TECH). 
+ - GitHub: [ANTAS GUPTA] https://github.com/ANTASGUPTA
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
