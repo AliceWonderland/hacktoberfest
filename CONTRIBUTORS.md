@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [perhaybe](https://github.com/perhaybe)
+- Place: Kazan, Russia
+- Bio: python newbie
+- Github: [perhaybe](https://github.com/perhaybe/)
