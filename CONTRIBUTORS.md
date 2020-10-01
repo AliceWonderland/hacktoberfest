@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joshua Oloton] (https://github.com/JoshuaOloton)
+- Place: Lagos, Nigeria
+- Bio: 3rd year Computer Engineering Undergrad
+- Github: [JoshuaOloton] (https://github.com/JoshuaOloton)
