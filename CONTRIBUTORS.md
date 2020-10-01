@@ -1,3 +1,8 @@
+#### Name: Abhikant
+ - Place: Noida, India
+ - Bio: Student at JIIT.
+ - GitHub: [Abhikant](https://github.com/Abhikant28)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
