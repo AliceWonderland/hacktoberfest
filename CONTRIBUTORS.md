@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Goswami](https://github.com/goswamishubham)
+- Place: Meerut, UP, India
+- Bio: Flutter Developer
+- Github: [Shubham Goswami](https://github.com/goswamishubham)
