@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Johnny Console](https://github.com/TechyScientist)
+- Place: Sault Ste. Marie, Ontario, Canada
+- Bio: 4th year BSc Computer Science, Algoma University
+- GitHub: [TechyScientist](https://github.com/TechyScientist)
