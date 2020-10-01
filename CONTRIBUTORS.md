@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [tb-rules10](https://github.com/tb-rules10)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [tb-rules10](https://github.com/tb-rules10)
