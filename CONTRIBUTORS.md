@@ -68,6 +68,11 @@
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Aditya Bhawsar](https://github.com/aditya-bhawsar)
+- Place: Betul, Madhya Pradesh, India
+- Bio: B.E (CSE) Student
+- GitHub: [Aditya Bhawsar](https://github.com/aditya-bhawsar)
+
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
