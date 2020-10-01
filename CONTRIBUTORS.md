@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jsp](https://github.com/agungjsp)
+- Place: Jakarta, Indonesia
+- Bio: iOS Developer
+- Github: [jsp](https://github.com/agungjsp)
