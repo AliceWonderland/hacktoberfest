@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Dikshit](https://github.com/dshubham25)
+- Place: Delhi, India
+- Bio: NLP, and SWE student
+- Github: [dshubham25](https://github.com/dshubham25)
