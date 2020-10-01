@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Renato Ramos Nascimento](https://github.com/renato04)
+- Place: Mogi das Cruzes, São Paulo, Brazil
+- Bio: Software Developer
+- Github: [Renato Ramos Nascimento](https://github.com/renato04)
