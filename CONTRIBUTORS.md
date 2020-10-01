@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hardik Sharma](https://github.com/MPL0Y)
+ - Place: New Delhi, India
+ - Bio: Data Science enthusiast
+ - GitHub: [MPL0Y](https://github.com/MPL0Y)
