@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+### Name: [Akanbi Usman] (https://github.com/akanbiusman)
+- Place: Mushin, Lagos, Nigeria
+- Bio: Frontend developer
+- Github: [Akanbi Usman] (https://github.com/akanbiusman)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
