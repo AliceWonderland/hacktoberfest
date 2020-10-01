@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MLGEditz](https://github.com/mlgeditz)
+- Place: The Netherlands
+- Bio: Java / Web Developer
+- Github: [MLGEditz](https://github.com/mlgeditz)
