@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Baibhav Anand Jha](https://github.com/baibhavanand)
+- Place: Kathmandu, Bagmati, Nepal
+- Bio: Bug bounty hunter and parttime web developer.
+- GitHub: [Baibhav Anand](https://github.com/baibhavanand)
