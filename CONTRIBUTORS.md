@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Antônio Bernardino da Silva](https://github.com/tonybsilva-dev)
+- Place: Paraiba, Brazil
+- Bio: Web developer Node and React
+- Github: [Antônio Bernardino da Silva](https://github.com/tonybsilva-dev)
