@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -1638,6 +1638,11 @@ Noida
 - Place: Bangkok, Thailand
 - Bio: Interactive Developer
 - GitHub: [Mon555](https://github.com/mon555)
+
+#### Name: [Mouni Nischal](https://github.com/Coolchirutha)
+- Place: Visakhapatnam, Andhra Pradesh, India
+- Bio: Aspiring Full Stack Web Developer
+- GitHub: [Coolchirutha](https://github.com/Coolchirutha)
 
 #### Name: [Murilo Arruda](https://github.com/Passok11)
 - Place: Petrópolis, Rio de Janeiro, Brazil
