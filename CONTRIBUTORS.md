@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [André Gama](https://github.com/andregamma/)
+- Place: Brasil
+- Bio: I am a student, frontend developer in my spare time and starting to work.
+- GitHub: [andregamma](https://github.com/andregamma/)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
