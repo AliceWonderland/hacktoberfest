@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [prasadpawarr](https://github.com/prasadpawarr)
+- Place: Pune, India
+- Bio: Backend Engineer (Python, Django)
+- Github: [prasadpawarr](https://github.com/prasadpawarr)
