@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [SUBHOPRIYO SADHUKHAN](https://github.com/TechDevSubhopriyo)
+- Place: India
+- Bio: Second year ECE Student, in love with Kolkata 
+- GitHub: [TechDevSubhopriyo](https://github.com/TechDevSubhopriyo)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
