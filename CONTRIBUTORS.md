@@ -1248,6 +1248,11 @@ to explore life. Also, Python and Django Developer
  - Bio: PHP Developer
  - Github: [jusdeleon](https://github.com/jusdeleon)
 
+#### Name: [Kalash Jindal](https://github.com/erickeagle)
+- Place: India
+- Bio: Computer Science Student
+- GitHub: [erickeagle](https://github.com/erickeagle)
+
 #### Name: [K Foster](https://foster.im)
 - Place: West Sussex, UK
 - Bio: Web Developer
