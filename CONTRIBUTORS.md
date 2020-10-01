@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dat Adithya](https://github.com/dat-adi)
+- Place: Hyderabad, Telangana, India
+- Bio: A computer science student, who likes light novels.
+- GitHub: [dat-adi](https://github.com/dat-adi)
