@@ -1623,3 +1623,9 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+
+#### Name: [Iele Passos](https://github.com/ielepassos)
+- Place: Campina Grande, Paraiba, Brazil
+- Bio: PyladiePB and computer science student at UFCG
+- Github: [ielepassos] (https://ielepassos)
