@@ -1,3 +1,8 @@
+#### Name: [NISCHAL SONI](https://github.com/nischalsoni)
+- Place: Rajasthan, India
+- Bio: I'm just a college student who has recently started programming
+- GitHub: [Nischal Soni](https://github.com/nischalsoni)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
