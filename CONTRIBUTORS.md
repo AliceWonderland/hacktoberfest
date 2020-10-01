@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Firman](https://github.com/DARYAXE)
+- Place: East Java, Indonesia 
+- Bio: Student
+- Github: [DARYAXE](https://github.com/DARYAXE)
