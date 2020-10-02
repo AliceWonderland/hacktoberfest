@@ -1,3 +1,8 @@
+#### Name: Aayush
+ - Place: India
+ - Bio: Student
+ - Github: [Aayush](https://github.com/Aayushpatil77)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
