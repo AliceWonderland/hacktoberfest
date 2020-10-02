@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Nikhit S](https://github.com/nikhit-s)
+- Place: Kerala, India
+- Bio: Ethical Hacker
+- Github: [Nikhit S](https://github.com/nikhit-s)
