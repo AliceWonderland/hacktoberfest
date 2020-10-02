@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [PriyanshTri](https://github.com/PriyanshTri)
+- Place: Mathura, India
+- Bio: Web developer Ethical hacking and Python
+- Github: [PriyanshTri](https://github.com/PriyanshTri)
