@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Reski Arianto](https://github.com/tomorisakura)
+- Place: Yogyakarta, Indonesia
+- Bio: Collage Student & Junior Android Developer & Junior Node Js Developer
+- Github: [Reski Arianto](https://github.com/tomorisakura)
