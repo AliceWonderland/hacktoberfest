@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ADITI JAIN](https://github.com/aditi597)
+- Place: Agra, India
+- Bio: Engineering Student and eagerly waiting to start a career in Software Development.
+- Github: [Aditi Jain](https://github.com/aditi597)
