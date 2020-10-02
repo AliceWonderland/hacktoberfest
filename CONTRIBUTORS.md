@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Jack Bashford
+ - Place: Canberra, Australia
+ - Bio: Software Engineering Student and Fullstack Web Developer
+ - GitHub:  [Jack Bashford](https://github.com/CGS-Jack-Bashford)
