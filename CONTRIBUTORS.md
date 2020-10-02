@@ -175,6 +175,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Mayank Shrivastava](https://github.com/MayankShrivastava17)
+- Place: India
+- Bio: Student
+- Github: [MayankShrivastava17](https://github.com/MayankShrivastava17)
+
 #### Name: [Alexander Miller](https://github.com/allesmi)
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
