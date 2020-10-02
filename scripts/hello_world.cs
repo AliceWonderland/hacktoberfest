@@ -12,4 +12,4 @@ namespace Hacktoberfest
             Console.WriteLine("Hello, World!");
         }
     }
-}
+};
