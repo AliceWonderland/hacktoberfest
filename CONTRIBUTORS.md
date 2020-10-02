@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+ #### Name: [Tanmay Anand](https://github.com/tanmayanandx)
+- Place: India
+- Bio: second year Computer Science Student, in love with NYC <3
+- GitHub: [tanmayanandx](https://github.com/tanmayanandx)
