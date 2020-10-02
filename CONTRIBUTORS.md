@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Sheetal](https://github.com/Sheetal777)
+- Place: Ranchi, India
+- Bio: Student, python dev
+- Github: [Sheetal](https://github.com/Sheetal777)
