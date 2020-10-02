@@ -1,3 +1,8 @@
+#### Name: Arnav
+ - Place: Ambala, India
+ - Bio: Undergrad student at IIT (ISM) Dhanbad
+ - GitHub: [Arnav](https://github.com/arnav1598)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
