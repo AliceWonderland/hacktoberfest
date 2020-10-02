@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: Vishal Pallagani
+ - Place: India
+ - Bio: B.Tech in Computer Science and Engineering.
+ - GitHub: [VishalPallagani](https://github.com/VishalPallagani)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
