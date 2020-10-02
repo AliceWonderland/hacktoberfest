@@ -1,3 +1,8 @@
+#### Name: Jyoti
+ - Place: Amethi,India
+ - Bio: Final year cse student.
+ - GitHub: [Jyoti](https://github.com/jyoti88)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
