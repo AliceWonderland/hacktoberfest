@@ -1,3 +1,8 @@
+#### Name: Bikram Kharal
+ - Place: Rupandehi,Nepal
+ - Bio: I love Pentesting.
+ - GitHub: [Bikram kharal](https://github.com/bikramkharal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
