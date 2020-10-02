@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name:[Abhishek Kumar Singh](https://github.com/Abhishek-s20)
+ - Place: Punjab, India
+ - Bio: Student at LPU.
+ - GitHub: [Abhishek-s20](https://github.com/Abhishek-s20)
