@@ -1804,6 +1804,11 @@ Noida
 - Bio: Student and newbie software developer
 - GitHub: [phscherer](https://github.com/phscherer)
 
+#### Name: [Paulo Roberto Monteiro de Lima Júnior](https://github.com/prmlimajr)
+- Place: Brazil
+- Bio: Computer Science student
+- GitHub: [prmlimajr](https://github.com/prmlimajr)
+
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
