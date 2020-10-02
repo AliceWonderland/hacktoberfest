@@ -1,3 +1,8 @@
+#### Name: [VARAD PANKE](https://github.com/varadp871)
+ - Place: Pune, India
+ - Bio: React Developer. Student At VIT, Pune.
+ - GitHub: [Varad Panke](https://github.com/varadp871)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
