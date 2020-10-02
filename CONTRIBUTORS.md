@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ragnarok
+ - Place: UP, India.
+ - Bio: Student.
+ - GitHub: [Ragnarok1023](https://github.com/Ragnarok1023)
