@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ali Ahmad Raza
+ - Place: UttarPradesh, INDIA
+ - Bio: b.tech student
+ - GitHub: [raza4399](https://github.com/raza4399)
