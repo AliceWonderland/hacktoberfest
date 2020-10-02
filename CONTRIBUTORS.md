@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gitartha Kashyap] (https://github.com/withewolf-dev)
+ - Place: Dibrugarh, India
+ - Bio: Computer Sci. undergrad. Learning fullstack Web development.
+ - GitHub: [withewolf-dev](https://github.com/withewolf-dev)
