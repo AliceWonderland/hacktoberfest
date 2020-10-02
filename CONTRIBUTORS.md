@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: Abdul Malik
+ - Place: Jakarta, Indonesia
+ - Bio: Javascript web developer.
+ - GitHub: [abdulmalikk](https://github.com/abdulmalikk)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
