@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arihant Bansal](https://github.com/arihantbansal)
+- Place: Mumbai, India
+- Bio: Student Developer
+- GitHub: [arihantbansal](https://github.com/arihantbansal/hacktoberfest)
