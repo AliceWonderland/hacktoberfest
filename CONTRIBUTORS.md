@@ -1,3 +1,8 @@
+#### Name: [MAHENDRA KUMAR RAICHUR](https://github.com/Mahendra14)
+- Place: India
+- Bio: Fourth year Computer Science Student.
+- GitHub: [Mahendra14](https://github.com/Mahendra14)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
