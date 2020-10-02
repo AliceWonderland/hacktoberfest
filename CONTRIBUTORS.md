@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+ 
+ #### Name: [Gustav Rasmussen](https://github.com/Mandroid-42)
+- Place: Denmark
+- Bio: first year Computer Science Student
+- GitHub: [Mandroid-42](https://github.com/Mandroid-42)
