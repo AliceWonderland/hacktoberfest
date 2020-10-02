@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Koranin Duangmala](https://github.com/kdbeer)
+- Place: Thailand
+- Bio: Web developer, Backend Developer
+- Github: [kdbeer](https://github.com/kdbeer)
