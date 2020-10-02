@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 ####  Nome: [ Antônio Bernardino da Silva ] (https://github.com/Tonybsilva-dev) 
-- Local: Campina Grande, PB, Brazil
- - Biografia: Ciência da Computação - UFPB IV
+- Local: Campina Grande, Brazil
+- Biografia: Ciência da Computação - UFPB IV
 - GitHub: [ Tonybsilva-dev ] (https://github.com/Tonybsilva-dev)
