@@ -2423,7 +2423,7 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Mehran Firdous](https://github.com/MEHRANFIRDOUS)
+- Place: sopore, Kashmir
+- Bio: student intrested in python
+- Github: [MEHRANFIRDOUS](https://github.com/MEHRANFIRDOUS)
