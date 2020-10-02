@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samuel Henry](https://github.com/samueljim)
+- Place: Brisbane
+- Bio: Web developer node and gatsby 
+- Website: [samueljim.com](https://samueljim.com/)
