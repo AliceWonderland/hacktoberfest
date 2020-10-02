@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayushi Pasrija](https://github.com/theayushipasrija)
+- Place: New Delhi, India
+- Bio: Student
+- Github: [Ayushi Pasrija](https://github.com/theayushipasrija)
