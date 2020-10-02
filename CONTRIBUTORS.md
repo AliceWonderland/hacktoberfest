@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Disha Hati](https://github.com/Disha-Hati)
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Student @CMRIT
+- Github: [Disha-Hati](https://github.com/Disha-Hati)
