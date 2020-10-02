@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jonatas Ferreira](https://github.com/jonatas-lima)
+- Place: Campina Grande, Brazil
+- Bio: Computer Science undergraduate
+- Github: [Jonatas Ferreira](https://github.com/jonatas-lima)
