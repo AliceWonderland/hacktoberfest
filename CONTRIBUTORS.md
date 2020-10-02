@@ -1,3 +1,8 @@
+#### Name: [Martand Yadav](https://github.com/Martandz)
+ - Place: Pune, Maharashtra, India
+ - Bio: Software engineer. Graduated from Pune University.
+ - GitHub: [Martandz](https://github.com/Martandz)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
