@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [KRISHNA TYAGI](https://github.com/KrishnaTyagi01)
+- Place: Delhi,INDIA
+- Bio: FULL STACK DEV
+- GitHub: [KrishnaTyagi01](https://github.com/KrishnaTyagi01)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
