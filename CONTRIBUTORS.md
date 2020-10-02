@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ #### Name: ANIKET
+ - Place: delhi, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/aniket102-sh)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
