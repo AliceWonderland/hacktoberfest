@@ -2052,6 +2052,12 @@ Noida
 - Bio: PhD student in Software Engineering
 - Github: [Shade Ruangwan](https://github.com/sruangwan)
 
+#### Name: [Shaheer Hasan](https://github.com/Shaheer-rossoneri14)
+- Place: Bangalore, Karnataka, India
+- Bio: 2nd Year IS Undergrad. I love Football and coding.
+- GitHub: [Shaheer-rossoneri14](https://github.com/Shaheer-rossoneri14)
+
+
 #### Name: [Shankhalika Sarkar](https://github.com/Shankhalika)
 - Place: Karnataka, India
 - Bio: Current Final Year CS Undergrad. I love poetry, tea and dogs.
