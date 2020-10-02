@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jakub Złotek](https://github.com/JakubZlotek)
+- Place: Poland
+- Bio: dog lover
+- Github: [JakubZlotek](https://github.com/JakubZlotek)
