@@ -1,0 +1,30 @@
+# Shreyon Sinha
+
+## Kolkata 
+
+West Bengal , India
+
+### Academics
+
+Calcutta Public School (upto 10th Standard)
+Indira Gandhi Memorial High School ( 10+2 )
+University of Engineering and Management ( currently in 1st Year )
+
+### Interests
+
+- Coding 
+- Reading tech articles
+- Movies/Series
+
+### Development 
+
+- Nothing as such
+
+### Projects
+
+- [Amazon Clone](https://github.com/ShreyonSinha/Amazon_Clone) ReactJs application
+- [Landing Page for a Website](https://github.com/ShreyonSinha/Acme_WebSolutions) Proper CSS and HTML project
+
+### Profile Link
+
+[Shreyon Sinha](https://github.com/ShreyonSinha)
