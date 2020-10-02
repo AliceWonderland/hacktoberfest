@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chris](https://github.com/Nightsmore)
+- Place: Sacramento, CA, USA
+- Bio: .NET Student Developer
+- GitHub: [Nightsmore](https://github.com/Nightsmore)
