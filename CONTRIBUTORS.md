@@ -1,8 +1,3 @@
-#### Name: Saurabhtopthon01
- - Place: India
- - Bio: second year electronics and instrumentation,DAVV.
- - GitHub: [Saurabhtopthon01](https://github.com/saurabhtopthon01)
-
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
