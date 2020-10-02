@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Filipe Oliveira](https://github.com/filipewk)
+- Place: Foz do Iguaçu, PR, Brazil
+- Bio: Student
+- GitHub: [Filipe Oliveira](https://github.com/filipewk)
