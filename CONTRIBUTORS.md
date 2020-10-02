@@ -1,3 +1,8 @@
+#### Name: [Pedro Gesta](https://github.com/pedrogestajr)
+- Place: Sydney, NSW, AU
+- Bio: A Front-end developer getting into the open source world.
+- GitHub: [pedrogestajr](https://github.com/pedrogestajr)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
