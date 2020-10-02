@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Taimoor Ali](https://github.com/taimoor0217)
+- Place: Lahore, Pakistan
+- Bio: Software Engineer, Javascript
+- Github: [taimoor0217](https://github.com/taimoor0217)
