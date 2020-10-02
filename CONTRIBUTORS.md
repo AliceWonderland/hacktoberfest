@@ -1,3 +1,8 @@
+#### Name: Naman Jain
+ - Place: India
+ - Bio: B.Tech IT Final year student
+ - Github: [NAMAN9JAIN] (https://github.com/NAMAN9JAIN)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
