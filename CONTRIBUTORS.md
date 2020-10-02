@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Martin Espericueta](https://github.com/MarespTech)
+- Place: Baja California, Mexico
+- Bio: Mechatronic and Fullstack Web developer 
+- Github: [Martin Espericueta](https://github.com/MarespTech)
