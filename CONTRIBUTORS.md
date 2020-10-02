@@ -1970,6 +1970,11 @@ Noida
 - Bio: A Coder!!
 - GitHub: [codealtgeek](https://github.com/codealtgeek)
 
+#### Name: [Ruan Victor](https://github.com/ruandev)
+- Place: Brazil
+- Bio: Apenas um rapaz latinoamericano
+- GitHub: [ruandev](https://github.com/ruandev)
+
 #### Name: [Rupesh Kumar](https://github.com/vmcniket)
 - Place: India
 - Bio: KIIT University IT student
