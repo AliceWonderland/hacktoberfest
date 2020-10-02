@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avishka](https://github.com/avishka24)
+- Place: Bathinda, INDIA
+- Bio: Beginner in Web Development
+- Github: [Avishka](https://github.com/avishka24)
