@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [TigerAsH94](https://github.com/TigerAsH94)
+- Place: Romania
+- Bio: Front-End Developer
+- Github: [TigerAsH94](https://github.com/TigerAsH94)
