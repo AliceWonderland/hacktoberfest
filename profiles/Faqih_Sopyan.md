@@ -4,7 +4,7 @@
 
 Sukabumi, Indonesia
 
-### Research
+### Researcher
 
 Think Policy Society
 
@@ -18,7 +18,7 @@ Think Policy Society
 
 ### Projects
 
-- [TTS](https://github.com/msopyan/tts) Generate voice audio
+- [TTS](https://github.com/msopyan/tts) Generate tect to voice audio 
 
 ### Profile Link
 
