@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Bayu Pratama](https://github.com/swtlbyz)
+- Place: Depok, West Java, Indonesia
+- Bio: Web developer wannabe
+- Github: [Bayu Pratama](https://github.com/swtlbyz)
