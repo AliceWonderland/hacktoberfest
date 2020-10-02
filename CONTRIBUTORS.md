@@ -1859,6 +1859,11 @@ Noida
 - Bio: I tell tales!
 - GitHub: [Pratyum](https://github.com/Pratyum)
 
+#### Name: [Pratyush Chowdhury](https://github.com/PratDaBrat)
+- Place: India
+- Bio: Student at IIT-BHU (Varanasi)
+- GitHub: [PratDaBrat](https://github.com/PratDaBrat)
+
 #### Name: [Pronomita Dey] (https://github.com/PronomitaDey)
 - Place : India
 - Bio : Front End Developer. Open Source Enthusiast. Learner.
