@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Michele Tagliani](https://github.com/taglioIsCoding)
+- Place: Brescia, Italy
+- Bio: Web developer and engineering student
+- Github: [Michele Tagliani](https://github.com/taglioIsCoding)
