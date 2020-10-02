@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fawaz AR](https://github.com/fawazalrasyid)
+- Place: Jakarata, Indonesia
+- Bio: Mobile Developer (Android & Flutter)
+- Github: [Ítalo Epifânio](https://github.com/fawazalrasyid)
