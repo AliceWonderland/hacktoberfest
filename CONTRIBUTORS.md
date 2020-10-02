@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SACHIN NAIK](GitHub link)
+- Place: DELHI , DELHI, INDIA
+- Bio: Student and open to new source
+- GitHub: [nsachin08](https://github.com/nsachin08)
