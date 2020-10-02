@@ -1,3 +1,8 @@
+#### Name: Pulkit
+ - Place: Patiala, India
+ - Bio: Computer Engineering Student
+ - GitHub: [pulkitgupta2k](https://github.com/pulkitgupta2k)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
