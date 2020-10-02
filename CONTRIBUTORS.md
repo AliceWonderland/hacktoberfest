@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jhonatan Beltran](https://github.com/jhonatanbeltran)
+- Place: Cucuta, Colombia
+- Bio: Web developer-FrontEnd
+- Github: [Jhonatan Beltran](https://github.com/jhonatanbeltran)
