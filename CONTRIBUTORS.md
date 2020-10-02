@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [AnielaMW](https://github.com/AnielaMW)
+- Place: New York, USA
+- Bio: Salesforce Consultant and QA
+- Github: [AnielaMW](https://github.com/AnielaMW)
