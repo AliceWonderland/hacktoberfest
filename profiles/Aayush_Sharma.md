@@ -6,7 +6,7 @@ Mandi, Himachal Pradesh, India
 
 ### Academics
 
-Indian Institute of Technology, Mandi
+Indian Institute of Technology, Mandi(doesnt exit)
 
 ### Interests
 
@@ -23,4 +23,4 @@ Indian Institute of Technology, Mandi
 
 ### Profile Link
 
-[Aayush Sharma](https://github.com/aayusharma)
+[Aayush Sharma](https://github.com/aayusharma) 
