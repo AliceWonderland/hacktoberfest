@@ -1,3 +1,11 @@
+#### Name: [Vineet Jain ](https://github.com/vin003) ***adding my link 
+- Place: UP ,INDIA
+- Bio:  Software Developer at RJI
+- GitHub : https://github.com/vin003
+
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
