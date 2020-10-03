@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [hungster](https://github.com/hungster)
+- Place: Australia
+- Bio: Web developer PHP and Python
+- Github: [Hungster](https://github.com/hungster)
