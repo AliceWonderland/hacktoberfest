@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+ #### Name: [Tawishi](https://github.com/Tawishi)
+  - Place: Jammu, J&K(UT), India
+  - Bio: ML enthusiast 
+  - GitHub: [Tawishi](https://github.com/Tawishi)
