@@ -1,12 +1,11 @@
-/* LANGUAGE: C
- * AUTHOR: Josh Gadeken
- * GITHUB: https://github.com/process1183
- */
-
-#include <stdio.h>
-
+#include<stdio.h>
 int main()
 {
-    printf("Hello, world!\n");
-    return 0;
+	char name[20];
+	printf("Enter your name\n");
+	scanf("%[^\n]s",name);
+	printf("\n\tHello World\n");
+	printf("\n\n\tHello %s\n",name);
+
+	return 0;
 }
