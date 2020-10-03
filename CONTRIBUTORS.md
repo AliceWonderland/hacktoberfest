@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Maulana] (https://github.com/lanacoeg)
+- Place: Cirebon, Indonesia
+- Bio: Pengen jadi programmer apa aja yang penting bisa kerja dari rumah
+- Github [Maulana] (https://github.com/lanacoeg)
