@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luiz Pansarini](https://github.com/LuizHAP)
+- Place: São Paulo, Brasil
+- Bio: Frontend Developer, CRO & SEO Analyst
+- Github: [Luiz Pansarini](https://github.com/LuizHAP)
