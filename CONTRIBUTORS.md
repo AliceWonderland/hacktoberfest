@@ -130,6 +130,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
+#### Name: Vansh Mehra
+- Place: India
+- Bio: Web developer
+- GitHub: [aj-923](https://github.com/aj-923)
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
