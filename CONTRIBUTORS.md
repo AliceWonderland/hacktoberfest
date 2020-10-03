@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Piyush Pareek](https://github.com/PiyushPareek7221)
+- Place: Jaipur, Rajasthan, India
+- Bio: MERN Stack and Python developer || Graphic Designer
+- GitHub: [PiyushPareek7221](https://github.com/PiyushPareek7221)
