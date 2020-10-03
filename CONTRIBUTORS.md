@@ -1623,3 +1623,13 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [NurIkhwanAnnafis](https://github.com/NurIkhwanAnnafis)
+- Place: Surabaya, Tulungagung
+- Bio: Web developer React JS and NextJS, Game Developer (Unity3d)
+- Github: [NurIkhwanAnnafis](https://github.com/NurIkhwanAnnafis)
