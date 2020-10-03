@@ -1055,6 +1055,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full stack .NET developer (and .NET Core blogger)
 - GitHub: [GaProgMan](https://github.com/GaProgMan)
 
+#### Name: [JANITH UDAYANGA](https://github.com/janith96)
+- Place: Sri Lanka
+- Bio: Student @USJP
+- GitHub: [agnieszka-miszkurka](https://github.com/janith96)
+
 #### Name: [Jasdy Syarman](https://github.com/akutaktau)
 - Place: Malaysia
 - Bio: PHP Programmer
