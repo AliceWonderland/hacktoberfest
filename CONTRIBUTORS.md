@@ -1,3 +1,8 @@
+#### Name: KIGAMEKUN
+ - Place: Indonesia
+ - Bio: Software engineer student. 
+ - GitHub: [KIGAMEKUN](https://github.com/KIGAMEKUN)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
