@@ -10,7 +10,9 @@ Kamphaeng Phet Rajabhat University
 
 ### Interests
 
-- Kotlin, Java, Android
+- Kotlin
+- Java
+- Android
 
 ### Development
 
