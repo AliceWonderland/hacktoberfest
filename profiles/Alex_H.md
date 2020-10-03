@@ -10,11 +10,11 @@ University of Texas at Dallas
 
 ### Interests
 
-- The free hacktoberfest t-shirt
+The free hacktoberfest t-shirt
 
 ### Development & Projects
 
-- None ongoing currently
+None ongoing currently
 
 ### Profile Link
 
