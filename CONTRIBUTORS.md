@@ -98,6 +98,11 @@
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
 
+#### Name: [SUDEEP SHUKLA](https://github.com/AliceWonderland)
+- Place: Uttarpradesh, India
+- Bio: I love Coding! 
+- GitHub: [SudeepShukla](https://github.com/sudeepshukla930)
+
 #### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
 - Place: Hyderabad, India
 - Bio: iOS Developer
