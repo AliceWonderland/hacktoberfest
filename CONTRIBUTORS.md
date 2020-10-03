@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: [Ethan Castillo](https://github.com/eecastillo)
+- Place: Tepic, Nayarit, Mexico
+- Bio: Electronics engineer student.
+- GitHub: [eecastillo](https://github.com/eecastillo)
+
+#### Name: [Vallenain]
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
