@@ -165,6 +165,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
 
+### Name: [Alex "Atlas" Chapman](https://github.com/achapman674)
+- Place: Richmond, Virginia
+- Bio: First year Programming Student and aspiring Video Game Developer
+- GitHub: [Alex Chapman](https://github.com/achapman674)
+
 #### Name: [Alex Choi](https://github.com/running-cool)
  - Place: Athens, GA
  - Bio: Student
