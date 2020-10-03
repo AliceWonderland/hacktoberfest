@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [RICO RICHOVSKY](https://github.com/rico6651)
+- Place: California
+- Bio: Software Developer
+- GitHub: [Rico Richovsky](https://github.com/rico6651)
