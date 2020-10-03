@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Mohammed Abdelghani ZITANI](https://github.com/ZITANIMohamed98)
+- Place: Algiers,Algeria
+- Bio: Fullstack Web developer
+- Github: [ZITANIMohamed98](https://github.com/ZITANIMohamed98)
