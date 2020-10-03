@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Shrey Khanduja](https://github.com/ShreyKhanduja)
+- Place: India
+- Bio: 1st year college student
+- GitHub: [ShreyKhanduja](https://github.com/ShreyKhanduja)
