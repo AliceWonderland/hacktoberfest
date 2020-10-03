@@ -1930,6 +1930,11 @@ Noida
 - Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
 - GitHub: [Raymond Duckworth](https://github.com/raymondxduckworth/)
 
+#### Name: [Raynaldo Sutisna](https://github.com/raaynaldo)
+- Place: Silver Spring, MD
+- Bio: Web Developer C# & JavaScript, Problem Solver and Learner 
+- Github: [Raynaldo Sutisna](https://github.com/raaynaldo)
+
 #### Name: [Ren Cummings](https://github.com/nrenc027)
 - Place: Dayton,OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
