@@ -32,6 +32,12 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 git clone https://github.com/your-username/hacktoberfest.git
 ```
 
+* Go to the new directory
+
+```markdown
+cd hacktoberfest
+```
+
 * Create a branch
 
 ```markdown
