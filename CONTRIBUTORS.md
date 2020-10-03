@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shardul Silswal](https://github.com/shardul08)
+- Place: India
+- Bio: developer
+- Github: [Shardul08](https://github.com/shardul08)
