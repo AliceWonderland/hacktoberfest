@@ -1,3 +1,7 @@
+### Name: gogog
+Place: madikeri, India
+Bio: Student
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
