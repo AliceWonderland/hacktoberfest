@@ -1,5 +1,5 @@
-// LANGUAGE: Javascript
-// ENV: iagotito_hello.js
+// LANGUAGE: C
+// ENV: iagotito-hello.c
 // AUTHOR: Iago Tito
 // GITHUB: https://github.com/iagotito
 
