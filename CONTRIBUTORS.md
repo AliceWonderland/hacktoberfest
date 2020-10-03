@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [FAVOUR CHUKWUEDO](https://github.com/favourch)
+- Place: Nigeria
+- Bio: I am a Cloud Enthusiast, Software developer and I write technical articles at dawn. I am passionate about helping businesses find their place on the cloud and provide support that makes them define success, the SDGs, S.T.E.M, Technology and an unrepentant community builder.
+- GitHub: [favourch](https://github.com/favourch)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
