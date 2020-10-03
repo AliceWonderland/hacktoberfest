@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hemanth Mudra](https://github.com/hmswrth)
+- Place: Chennai, India
+- Bio: Full stack developer
+- Github: [Hemanth Mudra](https://github.com/hmswrth)
