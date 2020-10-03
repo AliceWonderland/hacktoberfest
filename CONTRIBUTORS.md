@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akash Kumar](https://github.com/aaakashkumar)
+
+- Place: Kolkata, India
+- Bio: Software Engineer
+- Github: [aaakashkumar](https://github.com/aaakashkumar)
