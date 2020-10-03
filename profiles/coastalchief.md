@@ -1,18 +1,22 @@
-# coastalchief
+# Foluso
 
 ### Location
-Germany
+Ikeja, Lagos
 
 ### Academics
-not really
+University of Lagos
 
 ### Interests
-- [x] coding for fun
-- [x] playing videogames for fun
-- [x] sports
+- [x] Innovating
+- [x] Coding
+- [x] Watching movies
 
 ### Development
-- [x] ruby for fun
+- [x] C++ Authentication System
 
 ### Projects
-[Github Link](https://github.com/coastalchief)
+[Github Link](https://github.com/ayfolut/c++_auth) An authentication console program written in c++
+
+### Profile Link
+[ayfolut](https://github.com/ayfolut)
+

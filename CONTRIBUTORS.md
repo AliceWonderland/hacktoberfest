@@ -1,3 +1,8 @@
+#### Name: [AYODELE FOLUSO](https://github.com/ayfolut)
+- Place: Ikeja, Lagos, Nigeria
+- Bio: I love innovating
+- GitHub: [ayfolut](https://github.com/ayfolut)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
