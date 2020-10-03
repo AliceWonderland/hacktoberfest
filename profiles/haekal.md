@@ -1,25 +1,27 @@
 # Rahmandika Haekal
 
 ### Location
-
-ID
+Pekalongan, Center Java, Indonesian
 
 ### Academics
 
-QODR Community, Programming School
+Qodr Community - IT & Religion Academy
 
-### Interest 
+### Interest
 
-- Computers
-- Art
-- Game
-- Sound Effect Film
-- Swim
+- Arts
+- Marketing
+- Traveling
 
-### Languages
+### Development
 
-- Javascript (VueJS)
+- Handling Design Web on Muslimpergi.com
+- Freelancer at Home - Front-end Web Development
+
+### Projects
+
+- Muslimpergi.com - Make people easily goes to makkah
 
 ### Profile Link
 
-[scoutdev](https://github.com/treksaurus)
+[Rahmandika Haekal](https://github.com/rahmandikahaekal)
