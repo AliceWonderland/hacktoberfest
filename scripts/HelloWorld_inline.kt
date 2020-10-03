@@ -12,7 +12,7 @@ inline class Name(val s: String) {
 }    
 
 fun main() {
-    val name = Name("Kotlin")
+    val name = Name("World")
     name.greet() // method `greet` is called as a static method
     println(name.length) // property getter is called as a static method
 }
