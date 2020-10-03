@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Ad1-18](https://github.com/Ad1-18)
+- Place: India
+- Bio: Web Developer
+-Github: [Ad1-18](https://github.com/Ad1-18)
