@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Adk](https://github.com/CustomUser47)
+- Place: Kochi, India
+- Bio: Noooooooobb!!
+- Github: [Custom User47](https://github.com/CustomUser47)
