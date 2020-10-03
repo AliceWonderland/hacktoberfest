@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ananya Jain](https://github.com/AnanyaJain306)
+- Place: Lucknow, UP, India
+- Bio: CSE student
+- Github: [AnanyaJain306](https://github.com/AnanyaJain306)
