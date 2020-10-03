@@ -2412,6 +2412,10 @@ Noida
 - Place:kerala,india
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
+#### Name: [Srishti Maggo](https://github.com/srishtimaggo15)
+- Place: Delhi,India
+- Bio: 3yr Computer Science Engineering student, Web developer, Graphic Designer
+- Github: [Srishti Maggo](https://github.com/srishtimaggo15)
 
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
