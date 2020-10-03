@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saral Karki](https://github.com/Saral33)
+- Place: Lalitpur,Nepal
+- Bio: Front end developer
+- Github: [Saral33](https://github.com/Saral33)
