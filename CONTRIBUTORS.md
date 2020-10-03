@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dev Sharma](https://github.com/devji08)
+- Place: U.P., India
+- Bio: React Developer
+- Github: [devji08](https://github.com/devji08)
