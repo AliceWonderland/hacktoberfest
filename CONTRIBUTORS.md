@@ -1,3 +1,8 @@
+#### Name: Vanessa
+  - Place: Austria
+  - Bio: None
+  - Github: [Vanessa](https://github.com/drei20)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
