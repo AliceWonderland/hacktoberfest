@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jayesh-Gupta](https://github.com/Jayesh-Gupta)
+- Place: Madhya Pradesh,India
+- Bio: Student,Web developer Python
+- Github: [Jayesh-Gupta](https://github.com/Jayesh-Gupta)
