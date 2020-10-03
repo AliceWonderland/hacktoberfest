@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Syed Thowfeeq Ahmed]
+- Place: warangal, Telangana, India
+- Bio: Engineer in web technologies.
+- GitHub: [thowfeeq178](https://github.com/thowfeeq178)
