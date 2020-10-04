@@ -33,10 +33,9 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     new_file_data = []
     for line in file.readlines():
         line = re.sub('^#{1,3} ', '#### ', line)
-        if(line.startswith(' ##')):
-            new_file_data.append(line.lstrip())
-        else:
-            new_file_data.append(line)
+        
+        new_file_data.append(line.lstrip()) if (line.startswith(' ##')) else new_file_data.append(line) 
+        
     file.seek(0)
     file.truncate()
     file.writelines(new_file_data)
