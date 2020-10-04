@@ -1,0 +1,26 @@
+import java.util.*;
+public class binary
+{
+	public static void main(String[]args)
+	{
+		int dec, r, q,i=1,j;
+		int oct[]= new int[25];
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter the decimal no.");
+		 dec= sc.nextInt();
+		q=dec;
+		while(q!=0)
+		{
+			oct[i++]=q%8;
+			q=q/8;
+			{
+				System.out.println("the octal number is:");
+				for(j=i-1;j>0;j--)
+				{
+					System.out.println(oct[j]);
+				}
+				System.out.println("\n");
+			}
+		}
+	}
+}
