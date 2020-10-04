@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Syamil Abdillah](https://github.com/syamilAbdillah)
+- Place: Jawa Barat, Indonesia
+- Bio: Fullstack Js developer
+- Github: [Syamil Abdillah](https://github.com/syamilAbdillah)
