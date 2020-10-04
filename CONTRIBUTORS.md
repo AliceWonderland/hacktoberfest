@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soumya Dey](https://soumya-dey.github.io/)
+- Place: Kolkata, West Bengal, India
+- Bio: Full Stack Web Developer and Student of CS
+- Github: [Soumya Dey](https://github.com/Soumya-Dey)
