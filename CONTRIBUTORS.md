@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bima Laroi](https://github.com/bimaexz)
+- Place: Pekalongan, Indonesia
+- Bio: Web Developer and Sinematographer
+- Github: [Bima Laroi](https://github.com/bimaexz)
