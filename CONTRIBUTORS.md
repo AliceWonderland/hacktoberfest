@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andrew Alagna](https://github.com/aalagna04)
+- Place: Queens, New York, United States
+- Bio:Working on my bachelors in computer science and developing mobile apps in my spare time. 
+- GitHub: [aalagna04](https://github.com/aalagna04) 
