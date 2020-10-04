@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DHRUV MITTAL](GitHub link)
+- Place: Ghaziabad, UP, India
+- Bio: CS Student
+- GitHub: [d14mittal](https://github.com/d14mittal)
