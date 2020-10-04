@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [ESHA SHERRING](https://github.com/Esha-Sherring)
+- Place: Allahabad,India
+- Bio: second year Computer Science Student passionate about coding and coffee
+- GitHub: [Esha-Sherring](https://github.com/Esha-Sherring)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
