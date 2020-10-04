@@ -2002,6 +2002,11 @@ Noida
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
+#### Name: [SAHIL SAYANI](https://github.com/SahilSayani)
+- Place: Mumbai, India
+- Bio: Computer Science Engineering Student & Tech Enthusiast
+- GitHub: [SahilSayani](https://github.com/SahilSayani)
+
 #### Name: [Sai Praneeth](https://github.com/saip009)
 - Place: Mumbai, India
 - Bio: Programmer
