@@ -1,3 +1,8 @@
+#### Name: [hamiecod](https://github.com/hamiecod)
+- Place: India
+- Bio: Student, Self made programmer
+- GitHub: [agnieszka-miszkurka](https://github.com/hamiecod)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
