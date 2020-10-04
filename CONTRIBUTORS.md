@@ -1,3 +1,8 @@
+#### Name: Piyush
+ - Place: Gujarat, INDIA
+ - Bio: Web Developer. Graduated from INDIA.
+ - GitHub: [Piyush] (https://github.com/Piyush-Paliwal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
