@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rogue Halo](https://github.com/rogue-halo)
+- Place: Scotland
+- Bio: Programmer, Student, Cyber Security Enthusiast
+- Github: [Rogue Halo](https://github.com/rogue-halo)
