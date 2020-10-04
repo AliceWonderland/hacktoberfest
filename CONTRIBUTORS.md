@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Haneena](https://github.com/hanx007)
+- Place: India
+- Bio: Web developer/designer
+- GitHub: [hanx007](https://github.com/hanx007)
