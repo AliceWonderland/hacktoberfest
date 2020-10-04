@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Davin Cuaso](https://github.com/davincuaso)
+- Place: Manila, Philippines
+- Bio: Web developer and
+- Github: [davincuaso](https://github.com/davincuaso)
