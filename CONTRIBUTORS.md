@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prashuk Jain](https://github.com/prashuk1998)
+- Place: Uttar Pradesh, India
+- Bio: Machine Learning, Android App Development
+- Github: [Prashuk Jain](https://github.com/prashuk1998)
