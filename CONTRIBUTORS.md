@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Vanshaj](https://github.com/vanshaj234)
+-Place: India
+-Bio: Web Developer
+-Github: [Vanshaj](https://github.com/vanshaj234)
