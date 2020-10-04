@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Micaela Cerilla](https://github.com/Mica56)
+- Place: Taguig City, Philippines
+- Bio: Computer Science Student
+- GitHub: [Mica56](https://github.com/Mica56)
