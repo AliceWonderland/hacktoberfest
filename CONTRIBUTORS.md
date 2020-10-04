@@ -1,3 +1,7 @@
+#### Name: anjali j(https://github.com/anjalijp)
+- Place - kerala, india
+- Bio: computer science student
+- Github:[anjali j](https://github.com/anjalijp)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
