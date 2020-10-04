@@ -1,3 +1,8 @@
+#### Name: [Vaibhav Jain](https://github.com/vaibhavjain30699)
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Student, ABV-IIITM, Gwalior
+- GitHub: [Vaibhav](https://github.com/vaibhavjain30699)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
