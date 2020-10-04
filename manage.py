@@ -5,7 +5,7 @@ What this script does?
 - Replace every heading with '####'
 - Sort the list of contributors
 
-Running the script -
+Running the script in -
 python3 manage.py
 
 PS: DO NOT USE PYTHON 2
