@@ -2398,6 +2398,11 @@ Noida
 - Bio: dev
 - GitHub: [coastalchief](https://github.com/coastalchief)
 
+#### Name: [AdemDev](https://github.com/coastalchief)
+- Place: Belgium
+- Bio: Android developer
+- GitHub: [ademgunay](https://github.com/ademgunay)
+
 #### Name: [filedesless](https://hightechlowlife.info)
 - Place: Québec, Canada
 - Bio: CompSci from ULaval reporting in
