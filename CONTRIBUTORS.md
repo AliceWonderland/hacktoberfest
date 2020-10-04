@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Roshan Kumar](https://github.com/Roshaen)
+- Place: Bihar, India
+- Bio: Web developer Javascript and Python
+- Github: [Roshaen](https://github.com/Roshaen)
