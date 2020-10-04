@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Ekansh
+ - Place: Delhi, India
+ - Bio: AR/VR Developer, Currently in last year from GGSIPU
+ - GitHub: [Yaugan](https://github.com/Yaugan)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
