@@ -1,3 +1,6 @@
+#### Namw: [Sarthak Gupta](https://github.com/sarthakgupta2000)
+- Place: India
+- Bio: Open source contributer
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
