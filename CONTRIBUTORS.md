@@ -2430,4 +2430,5 @@ Noida
 
 #### Name: [Roshan Kumar](https://github.com/Roshaen)
 - Place: Bihar, India
+- Bio: Web developer Javascript and Python
 - Github: [Roshaen](https://github.com/Roshaen)
