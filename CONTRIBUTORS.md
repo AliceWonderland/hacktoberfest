@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Kaustubh](https://github.com/kaustubhd)
+- Place: Horang County, Canada
+- Bio: Python and JS Enthusiast
+- Github: [kaustubhd](https://github.com/kaustubhd)
