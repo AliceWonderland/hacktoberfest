@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Tejan Singh](https://github.com/tejan-singh)
 - Place: Natal, Brazil
 - Bio: Web developer JavaScript and Python
-- Github: [Ítalo Epifânio](https://github.com/tejan-singh)
+- Github: [Tejan Singh](https://github.com/tejan-singh)
