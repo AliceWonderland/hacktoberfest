@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 HACKTOBERFEST STARTER PROJECT 🎃
 
 ** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
