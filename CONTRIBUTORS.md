@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gaurav Gupta](https://github.com/gauravgupta24)
+- Place: Assam,India
+- Bio: CS Student
+- Github: gauravgupta24(https://github.com/gauravgupta24)
