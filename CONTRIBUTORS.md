@@ -2427,3 +2427,11 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name:[ISHANTT GARG](https://github.com/ishgary)
+ - Place:Dehradun, India
+ - Bio: Student
+ - Github:[Ishant Garg](https://github.com/ishgary)
+
+
