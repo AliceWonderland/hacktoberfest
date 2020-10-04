@@ -1,3 +1,8 @@
+#### Name: [Sujal Kumar Poddar](https://github.com/SujalKr)
+- Place: Kolkata, West Bengal, India
+- Bio: CS Major Student
+- GitHub: [SujalKr](https://github.com/SujalKr)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
