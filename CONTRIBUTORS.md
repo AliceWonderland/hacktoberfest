@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avijit Mondal](https://github.com/avijitmondal)
+- Place: Kolkata, India
+- Bio: Software Engineer
+- Github: [Avijit Mondal](https://github.com/avijitmondal)
