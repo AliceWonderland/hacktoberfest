@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Rishav Kumar](https://github.com/hr1shu)
+- Place: PUNJAB, INDIA
+- Bio: Web developer and Python Dveloper
+- Github: [Rishav Kumar](https://github.com/hr1shu)
