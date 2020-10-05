@@ -2434,4 +2434,7 @@ Noida
  - Bio: Student
  - Github:[Ishant Garg](https://github.com/ishgary)
 
-
+### Name:[ANJALI GARG](https://github.com/anjali726)
+ -Place:Dehradun,India
+ -Bio:Student
+ -Github:[Anjali Garg](https://github.com/anjali726)
