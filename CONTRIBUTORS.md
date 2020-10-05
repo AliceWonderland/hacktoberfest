@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nilesh Singh](https://github.com/nileshsingh9495)
+- Place: Mumbai, India
+- Bio: Student
+- Github: [Nilesh Singh](https://github.com/nileshsingh9495)
