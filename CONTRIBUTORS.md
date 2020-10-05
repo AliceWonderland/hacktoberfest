@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Vallenain
+ - Place: Patna, India
+ - Bio: Software engineer. Student of Banaras Hindu University.
+ - GitHub: [Vallenain](https://github.com/hkmr)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
