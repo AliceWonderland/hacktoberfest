@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Misael](https://github.com/MisaelSantos)
+- Place: Rondonópolis, Mato Grosso, Brazil
+- Bio: I like ice cream
+- GitHub: [Misa Misa](https://github.com/MisaelSantos)
