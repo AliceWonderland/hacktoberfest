@@ -1,3 +1,8 @@
+#### Name: [HAYDAR ALI](https://github.com/haydar-ali)
+- Place: California
+- Bio: Software Developer
+- GitHub: [HAYDAR ALI](https://github.com/haydar-ali)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
