@@ -115,6 +115,11 @@ Here is my `hello_world` example: [hello_world_alicewonderland.js](https://githu
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
+## Prizes
+T-shirts (or the option to plant a tree) will be awarded on a first-come, first-serve basis to the first 70,000 participants who successfully complete the Hacktoberfest challenge. We’ll start sending out emails with more details on redeeming T-shirts throughout the month, so stay tuned.
+When completing four pull requests, you will have the option to choose either a Hacktoberfest shirt in white or blue, OR the option to donate a tree. You will not have the option to choose both swag options.
+
+However, if you want to plant a tree on your own, you can do so here: tree-nation.com/profile/digitalocean.
 
 ## Reference links
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
