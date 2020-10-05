@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Maniraj Gautam](https://github.com/Lucifermaniraj)
+ - Place: Rupandehi, Nepal
+ - Bio: Student. Graduating BCA from Butwal Kalika Campus.
+ - GitHub: [Maniraj Gautam](https://github.com/Lucifermaniraj)
