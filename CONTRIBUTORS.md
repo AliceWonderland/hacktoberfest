@@ -1,3 +1,7 @@
+#### Name: Devansh Bindlish
+ - Place: Delhi, India
+ - Bio: Software engineer. USICT, GGSIPU.
+ - GitHub: [Devansh3059](https://github.com/Devansh3059)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
