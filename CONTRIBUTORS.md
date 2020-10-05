@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ashish Kumar Panigrahy](https://github.com/ashish-hacker)
+- Place: Bhubaneswar, Odisha, India
+- Bio: Data Science Enthusiast, Computer Science student
+- GitHub: [ashish-hacker](https://github.com/ashish-hacker)
