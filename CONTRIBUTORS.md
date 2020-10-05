@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ghazali](https://github.com/gshacklebolt)
+- Place: Munger, Bihar, India
+- Bio: Project Engineer
+- Github: [gshacklebolt](https://github.com/gshacklebolt)
