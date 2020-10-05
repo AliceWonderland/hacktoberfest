@@ -1,3 +1,8 @@
+#### Name: [ANKAN DAS](https://github.com/AnkanDas22)
+ - Place: Madhyamgram, West Bengal, India
+ - Bio: Software developer, pursuing B.Tech CSE from UEM Kolkata
+ - GitHub: [AnkanDas22](https://github.com/AnkanDas22)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
