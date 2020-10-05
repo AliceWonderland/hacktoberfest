@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: Chayan Das
+ - Place: Kolkata, India
+ - Bio: B.Tech. 1st year Computer Science Student
+ -GitHub:[Chayan Das](https://github.com/Chayandas1234)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
