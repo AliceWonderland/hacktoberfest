@@ -1,3 +1,7 @@
+#### Name: Atul
+ - Place: London, England
+ - Bio: Software engineer. Graduated London School of Enfineering.
+ - GitHub: [Atul](https://github.com/masterjj)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
