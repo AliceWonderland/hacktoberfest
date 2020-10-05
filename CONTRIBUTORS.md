@@ -31,7 +31,7 @@
  
 #### Name: [SAHAS](https://github.com/sahas-01)
  - Place: Chennai, India
- - Bio: 1st year B.Tech Computer Science student
+ - Bio: Computer enthusiast, 1st year B.Tech Computer Science student
  - Github: [sahas-01] (https://github.com/sahas-01)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
