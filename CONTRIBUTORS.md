@@ -1,3 +1,9 @@
+#### Name: [DAKSH SARDANA](https://github.com/dakshsard)
+
+ - Place: Lucknow, India
+ - Bio:   3rd year engineering student
+ - GitHub:[Daksh Sardana](https://github.com/dakshsard)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
