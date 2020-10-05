@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[sakisrealop](https://github.com/sakisrealop)
+- Place: Mumbai, India
+- Bio: python dev
+- Github: [sakisrealop](https://github.com/sakisrealop)
