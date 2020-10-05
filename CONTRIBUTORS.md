@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harpreet Madaan](https://github.com/Harpreet199)
+- Place: Faridabad, India
+- Bio: Developer, Blogger, Tech Geek, Quick Learner
+- Github: [Harpreet Madaan](https://github.com/Harpreet199)
+
