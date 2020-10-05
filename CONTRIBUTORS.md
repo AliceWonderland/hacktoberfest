@@ -16581,3 +16581,9 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+
+#### Name: [Henrique Melanda](https://github.com/hjdesigner)
+- Place: São Paulo, Brazil
+- Bio: I am a Brazilian developer passionate about writing code for the web.
+- GitHub: [hjdesigner](https://github.com/hjdesigner)
