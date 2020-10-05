@@ -1,3 +1,8 @@
+#### Name: [Rishabh Rawat](https://github.com/dev-RishabhRawat)
+- Place: kanpur , India
+- Bio: I am pursuing MCA and i love to code.... i am website developer , I know many programming Languages like C , C++ , java , javaScript and i am a quick learner.
+- GitHub: [Rishabh Rawat](https://github.com/dev-RishabhRawat)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
