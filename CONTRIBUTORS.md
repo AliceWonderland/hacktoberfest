@@ -1,3 +1,7 @@
+#### Name: Tejas Nopany
+ - Place: Bangalore, India
+ - Bio: Student at DSI 
+ - GitHub: [tejasnopany](https://github.com/tejasnopany)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
