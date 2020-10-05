@@ -5,7 +5,7 @@
 
 #### Name: Rasul Khan
  - Place: Silchar, India
- - Bio: Final Year B.Tech Undergrad.
+ - Bio: Final Year B.Tech Undergrad NITS.
  - GitHub: [Rasul Khan](https://github.com/lusar98)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
