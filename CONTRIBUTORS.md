@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sashank Madipally](https://github.com/k-sashank)
+- Place: Mumbai, India
+- Bio: Machine Learning/Deep Learning ENgineer
+- Github: [Sashank Madipally](https://github.com/k-sashank)
