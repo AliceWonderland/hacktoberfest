@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [pianista215](https://github.com/pianista215)
+- Place: Spain
+- Bio: Big Data Developer
+- Github: [pianista215](https://github.com/pianista215)
