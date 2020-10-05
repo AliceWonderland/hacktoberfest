@@ -1,3 +1,6 @@
+#### NAME: ROCKYHANDSM2K
+ - PLACE: ANONYMOUS ISLAND
+ - BIO: HACKED MANY SCHOOLS WEBSITE AND SLD ITS DATA 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
