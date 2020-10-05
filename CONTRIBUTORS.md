@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kaustav Acharjee](https://github.com/krome511)
+- Place: Mumbai, India
+- Bio: ML Entusiast and a music lover
+- GitHub: [krome511](https://github.com/krome511)
