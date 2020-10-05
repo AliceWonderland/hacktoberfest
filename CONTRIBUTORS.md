@@ -1,3 +1,8 @@
+#### Name: [Cris Andrade](https://github.com/acrisandrade)
+- Place: Rio de Janeiro, Brasil
+- Bio: Olá,estou em aprendizado!
+- GitHub: [acrisandrade](https://github.com/acrisandrade)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
