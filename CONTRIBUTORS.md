@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [teonji](https://github.com/teonji)
+- Place: Milan, Italy
+- Bio: Full stack developer - node - vue - react
+- GitHub: [teonji](https://github.com/teonji)
