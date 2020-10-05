@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Anupam yadav] (https://www.affiliatemarketting.tech)
+Place: Mumbai, india
+- Bio: Web developer Affiliate markater & Digital marketing expert
+- Github: (github.com/anupamyadav09)
