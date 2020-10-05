@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Michael Liu](https://github.com/buzhibujuelb)
+- Place: Chengdu, Sichuan, China
+- Bio: Middle school student
+- GitHub: [buzhibujuelb](https://github.com/buzhibujuelb)
