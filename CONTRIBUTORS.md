@@ -1,7 +1,7 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: Krishna Mridha
+ - Place: Gujarat, India
+ - Bio: Student, Marwadi University.
+ - GitHub: [kirsna] (https://github.com/KrishnaMridha)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
