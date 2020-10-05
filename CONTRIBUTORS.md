@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Umang Seth](https://github.com/umangrules)
+- Place: Lucknow, U.P, INDIA
+- Bio: I love Food.
+- GitHub: [umangrules](https://github.com/umangrules)
