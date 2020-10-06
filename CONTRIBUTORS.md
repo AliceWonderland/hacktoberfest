@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Vivek Bhand] (https://github.com/VivekBhand)
+- Place: Mumbai, India
+- Bio: Second year undergraduate student computer science
+- Github: [VivekBhand] (https://github.com/VivekBhand) 
+
