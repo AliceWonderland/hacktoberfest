@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ritika Jain]( https://github.com/Ritikajain18)
+- Place: Delhi, India
+- Bio: Data Scientist
+- Github: [Ritikajain18]( https://github.com/Ritikajain18)
