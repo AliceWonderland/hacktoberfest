@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [AAYUSH ASHOK](https://github.com/aayush-ashok)
+- Place: India
+- Bio: Third year Computer Science Student,
+- GitHub: [aayush-ashok](https://github.com/aayush-ashok)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
