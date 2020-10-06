@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Stacy D](https://github.com/ExponentComb)
+- Place: Johannesburg, South Africa
+- Bio: Quants Analyst / Data Scientist working in banking
+- Github: [ExponentComb](https://github.com/ExponentComb)
