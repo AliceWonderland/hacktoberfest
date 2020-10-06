@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Sudini Hemanth Reddy](https://github.com/Hemanth987)
-- Place: Hyderbad, Telangana ,INDIA 
+- Place: Hyderbad, Telangana, India
 - Bio: Full Stack Developer and Entrepreneur
-- Github: [Hemanth987](https://github.com/Hemanth987)
+- GitHub: [GitHub account name](https://github.com/Hemanth987)
