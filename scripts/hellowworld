@@ -1,0 +1,13 @@
+ .globl _start
+_start:
+        movb $4, %al
+        xor %ebx, %ebx
+        inc %ebx
+        movl $hello, %ecx
+        xor %edx, %edx
+        movb $11, %dl
+        int $0x80               ;;; sys_write(1, $hello, 11)
+        xor %eax, %eax
+        inc %eax
+        int $0x80               ;;; sys_exit(something) hello:
+        .ascii "Hello world" 
