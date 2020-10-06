@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [tomki2](https://github.com/tomki2)
+- Place: USA
+- Bio: student
+- Github: [tomki2](https://github.com/tomki2)
