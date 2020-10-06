@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [FERNANDO MOTA](https://github.com/f3rn4nd0000)
+- Place: Brazil
+- Bio: Half-Life Lover
+- GitHub: [f3rn4nd0000](https://github.com/f3rn4nd0000)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
