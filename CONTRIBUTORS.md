@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MATHEUS OLIVEIRA](https://github.com/matheuss3)
+- Place: Espirito Santo, Brazil
+- Bio: BI Assistant
+- GitHub: [Matheus Oliveira](https://github.com/matheuss3)
