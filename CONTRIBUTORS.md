@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devnarayan Patel](https://github.com/devnarayanp02)
+- Place: Raigarh, Chhattishgarh, India
+- Bio: Python Programmer, Beginner
+- GitHub: [devnarayanp02](https://github.com/devnarayanp02)
