@@ -1,4 +1,4 @@
-#### Name: Vallenain
+a#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanushree Shaw](https://github.com/itepifanio)
+- Place: Kolkata, West Bengal
+- Bio: A second year CSE Student
+- Github: [TanushreeShaw](https://github.com/TanushreeShaw)
