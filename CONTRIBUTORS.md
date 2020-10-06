@@ -829,6 +829,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Earhquake enthusiast
 - GitHub:[fushandchups] (https://github.com/fushandchups)
 
+#### Name: [chamith](https://github.com/chamith96)
+- Place: sri lanka
+- Bio: love java
+- GitHub:[fushandchups] (https://github.com/chamith96)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
