@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: Rahul kumar
+ - Place: Bihar, india
+ - Bio: CS STUDENT. Graduated in 2023.
+ - GitHub: [Vallenain](https://github.com/pcrahul702)
