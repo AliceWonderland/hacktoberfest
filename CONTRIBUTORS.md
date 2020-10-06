@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Syahrul gans](https://github.com/Syhrularv)
+- Place: Surabaya, ID, Indonesia
+- Bio: newbie programming
+- Github: [Syhrularv](https://github.com/Syhrularv)
+
