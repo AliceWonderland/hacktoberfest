@@ -6,10 +6,12 @@ Colombo, Sri Lanka
 
 ### Academics
 
-Undergraduate in BSc(Hons)Software Engineering at Plymouth University
+Graduate in BSc(Hons)Software Engineering at Plymouth University
+Intern at Ateam Software
 
 ### Interests
 
+- AI, Machine Learning, Big data
 - Android and iOS mobile application
 - Java, C, C#, HTML/CSS, PHP, MySQL, flutter
 - UI/UX
