@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Shivangi Singh](https://github.com/Shivangi1906)
+- Place: Uttar Pradesh,India
+- Bio: Webdeveloper
+- GitHub: [Shivangi1906](https://github.com/Shivangi1906)
