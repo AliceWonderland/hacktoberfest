@@ -1,3 +1,8 @@
+#### Name: [Sena Ji] (https://github.com/sena-ji)
+ - Place: Los Angeles, California, USA
+ - Bio: Computer science student! Switched during my Junior year of University.
+ - Github: [sena-ji] (https://github.com/sena-ji) 
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
