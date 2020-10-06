@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [tomki2](https://github.com/tomki2)
-- Place: USA
+- Place: CA, USA
 - Bio: student
 - Github: [tomki2](https://github.com/tomki2)
