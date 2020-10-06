@@ -1,3 +1,7 @@
+#### Name: [Deb](https://github.com/Dev582)
+- Place: India
+- Bio: Student
+- Github: [Dev582](https://github.com/Dev582)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
