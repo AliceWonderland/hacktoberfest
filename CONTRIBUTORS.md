@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [syyam noor](https://github.com/syyam)
+- Place: Lahore, Pakistan
+- Bio: Software writer
+- Github: [syyam](https://github.com/syyam)
