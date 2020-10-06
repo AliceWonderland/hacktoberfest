@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [VIVEK SINGH](https://github.com/vschs007)
+- Place: India
+- Bio: In search of awesomeness
+- GitHub: [Vivek Singh](https://github.com/vschs007)
