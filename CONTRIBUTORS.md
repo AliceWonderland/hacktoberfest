@@ -1,3 +1,8 @@
+#### Name: Ayush
+- place: Mumbai, India
+- bio: #hacktoberfest
+- github: https://github.com/ayush-11749
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
