@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [IQBAL](https://github.com/kingrootid)
+- Place: Bekasi, Indonesia
+- Bio: Web developer PHP
+- Github: [IQBAL](https://github.com/kingrootid)
