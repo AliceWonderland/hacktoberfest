@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Sudini Hemanth Reddy](https://github.com/Hemanth987)
 - Place: Hyderbad, Telangana, India
 - Bio: Full Stack Developer and Entrepreneur
-- GitHub: [GitHub account name](https://github.com/Hemanth987)
+- GitHub: [Hemanth987](https://github.com/Hemanth987)
