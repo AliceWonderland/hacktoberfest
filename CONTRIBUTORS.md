@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Katy Sage](https://github.com/KatySage)
+- Place: Atlanta, Georgia USA
+- Bio: just starting out as a full stack dev!
+- Github: [KatySage](https://github.com/KatySage)
