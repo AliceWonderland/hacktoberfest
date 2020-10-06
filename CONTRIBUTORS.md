@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Sad Banana] (https://github.com/pratyush021)
+- Place	: Odisha, India
+- Bio 		: Machine learning Engineer
+- Github 	: https://github.com/pratyush021
