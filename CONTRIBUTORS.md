@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishabh Jha](https://github.com/git-rishabh-jha)
+- Place: Delhi, India
+- Bio: Student, ML/AI enthusiast
+- Github: [git-rishabh-jha](https://github.com/git-rishabh-jha)
