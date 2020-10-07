@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Muhammad Farras Rayhand
+- Place: Samarinda, Kalimantan Timur, Indonesia
+- Bio: College Student. -
+- GitHub: [farrasrayhand](https://github.com/farrasrayhand)
