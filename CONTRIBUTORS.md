@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [cmurugan506] (https://github.com/cmurugan506)
+- PLace: Murugan,India
+-Bio: student
+-Github:[cmurugan506] (https://github.com/cmurugan506)
