@@ -4,7 +4,7 @@ India
 ### Academics
 Under-graduate
 ### Interests
-Drawing, code
+Drawing, code, Reading
 ### Development
 Android Development
 ### Profile Link
