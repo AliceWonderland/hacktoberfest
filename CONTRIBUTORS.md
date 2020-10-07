@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anirudh Venkat Satya Pappu](https://github.com/anirudhvsp)
+- Place: Chhattisgarh,India
+- Bio: Computer Science Engineering Student, Loves Data Science
+- GitHub: [Anirudhvsp](https://github.com/anirudhvsp)
