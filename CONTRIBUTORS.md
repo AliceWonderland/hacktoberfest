@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sebastian Groń](https://github.com/SeboPG)
+- Place: Nowy Sącz, Poland
+- Bio: IT :)
+- GitHub: [SeboPG](https://github.com/SeboPG)
