@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [AMIT CHAMBIAL](https://github.com/Inamori-Asuto)
+- Place: Uttarakhand,INDIA
+- Bio: NERD
+- GitHub: [Asuto](https://github.com/Inamori-Asuto)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
