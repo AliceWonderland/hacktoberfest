@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Ghaiyur Naqui Ahmad](https://www.linkedin.com/in/ghaiyur/)
+- Place   : Bangalore, India
+- Bio     : Software Developer | Data Scientist | Python3
+- Github  : [Ghaiyur](https://github.com/Ghaiyur)
