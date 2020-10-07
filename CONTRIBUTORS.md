@@ -616,6 +616,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
+#### Name: [Daniel Freire](https://github.com/proxyanon)
+- Place: Pernambuco, Brazil
+- Bio: I'm sad
+- GitHub: [Daniel Freire](https://github.com/proxyanon)
+
 #### Name: [Daniel Tudares](https://github.com/dan1eltudares)
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
