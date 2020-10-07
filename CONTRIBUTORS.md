@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [LUCAS MENEZES](https://github.com/lvmenezes)
+ - Place: Pernambuco, Brazil
+ - Bio: Dev. in HellCife
+ - GitHub: [lvmenezes](https://github.com/lvmenezes)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
