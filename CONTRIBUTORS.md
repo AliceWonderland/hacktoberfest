@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samiran Kodgire](https://github.com/Ksamiran)
+- Place: Pune, Maharashtra, India
+- Bio: Sleepy but still here
+- GitHub: [Ksamiran](https://github.com/Ksamiran)
