@@ -1,6 +1,8 @@
 #### Name: Ishani Samanta
  -Place: Kolkata, India
+
  -Bio: Computer Science Student
+ 
  -Github: [ishanisamanta](https://github.com/ishanisamanta)
 
 #### Name: Vallenain
