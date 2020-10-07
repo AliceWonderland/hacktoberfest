@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Swapnanil Ray](https://github.com/redhatpanda)
+- Place: Kolkata, India
+- Bio: Web Dev, CySec Ethusiast, Gamer
+- Github: [Swapnanil Ray](https://github.com/redhatpanda)
