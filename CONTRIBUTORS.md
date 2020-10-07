@@ -1,3 +1,8 @@
+#### Name: Vaibhav Bansal
+ - Place: India
+ - Bio: Computer Engineering student
+ - GitHub: [Vaibhavbansal93](https://github.com/vaibhavbansal93)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
