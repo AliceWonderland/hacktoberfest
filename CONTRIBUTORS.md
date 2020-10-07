@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bruk Tedla](https://github.com/brukted)
+- Place: Ethiopia
+- Bio: University freshman student
+- Github: [Bruk Tedla](https://github.com/brukted)
