@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Kamal Ramadhani](https://github.com/mkamaalr)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: Rocket ship builder, pizza expert, loves the Giants, parent.
+- Github: [Kamal](https://github.com/mkamaalr)
