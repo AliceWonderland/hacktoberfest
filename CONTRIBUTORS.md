@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raymond Belamo](https://github.com/raymondbelamo)
+- Place: Abuja, Nigeria
+- Bio: Web developer 
+- Github: [Raymond Belamo](https://github.com/raymondbelamo)
