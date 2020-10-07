@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jeff Andrade](https://github.com/jersobh)
+- Place: Belo Horizonte, Brazil
+- Bio: I'm a full stack developer, focused on Python
+- GitHub: [jersobh](https://github.com/jersobh)
