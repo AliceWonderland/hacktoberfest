@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Safal Mahat](https://github.com/Safal08)
+- Place: Kathmandu, Nepal
+- Bio: A hardworking computer science student who love always get updated with new innovation.
+- GitHub: [Sáfàl Máhàt](https://github.com/Safal08)
