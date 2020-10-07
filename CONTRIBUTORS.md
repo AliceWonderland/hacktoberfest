@@ -1,3 +1,8 @@
+#### Name: [M RIFQI AZKIYA](https://github.com/mrazkiya)
+- Place: Indonesia
+- Bio: third year Informatics Engineering Student.
+- GitHub: [mrazkiya](https://github.com/mrazkiya)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
