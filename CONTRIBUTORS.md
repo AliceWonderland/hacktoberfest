@@ -914,6 +914,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Technology Guy / Student
 - GitHub: [Gustavo Ziaugra](https://github.com/GustavoZiaugra)
 
+#### Name: [Gustavo Seiji Kamihara](https://github.com/japoncio3k)
+- Place: São Paulo, Brazil.
+- Bio: Math Student
+- GitHub: [japoncio3k](https://github.com/japoncio3k)
+
 #### Name: [Haley C Smith](https://github.com/haleycs)
 - Place: Orlando, Florida
 - Bio: Web Designer/Developer
