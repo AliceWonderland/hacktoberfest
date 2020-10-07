@@ -9,3 +9,4 @@ public class HelloJavaN {
         System.out.println("Hello, world!");
     }
 }
+text{'hello word'}
