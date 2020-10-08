@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matteo Messmer](https://github.com/matteomessmer)
+- Place: Trento, Italy
+- Bio: CS Student at UniBZ
+- GitHub: [matteomessmer](https://github.com/matteomessmer)
