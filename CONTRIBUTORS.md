@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Hritik Chaturvedi] (https://github.com/hritikchaturvedi11)
+- Place: Mumbai, India
+- Bio: Machine Learning and data science enthusiast.
+- Github: [hritikchaturvedi11] (https://github.com/hritikchaturvedi11)
