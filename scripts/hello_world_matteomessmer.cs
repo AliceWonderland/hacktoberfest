@@ -1,3 +1,8 @@
+// LANGUAGE: C#
+// ENV: .NET
+// AUTHOR: Matteo Messmer
+// GITHUB: https://github.com/matteomessmer
+
 using System;
 
 namespace HelloWorld
