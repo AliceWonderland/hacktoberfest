@@ -1,0 +1,13 @@
+//Language : C++
+//Author : Adhiti Shaili
+//GitHub : https://github.com/AdhitiS
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World!";
+    return 0;
+}
