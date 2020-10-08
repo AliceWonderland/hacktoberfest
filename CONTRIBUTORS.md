@@ -1,3 +1,8 @@
+#### Name: [ADITEYA SRIVASTAVA](https://github.com/aditeyaS)
+ - Place: Ghaziabad, India
+ - Bio: Student
+ - GitHub: [aditeyaS](https://github.com/aditeyaS)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
