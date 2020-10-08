@@ -1,3 +1,8 @@
+#### Name: [YASH BAJORIA](https://github.com/yashbajoria/)
+- Place: Guwahati, India
+- Bio: Final year CSE undergrad from NIT Silchar. Passionate about Astrophysics and developing software solutuions.
+- GitHub: [yashbajoria](https://github.com/yashbajoria/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
