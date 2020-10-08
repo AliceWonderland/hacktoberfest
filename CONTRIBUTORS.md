@@ -1719,6 +1719,11 @@ Noida
 - Bio: Web Developer
 - GitHub: [SmilesandCode](https://github.com/smilesandcode)
 
+#### Name: [Nishant Agarwal](https://github.com/eric774)
+- Place: Jaipur, Rajasthan,India
+- Bio: Student
+- Github: [eric774] (https://github.com/eric774)
+
 #### Name: [Nishant Rai](https://github.com/iamnishantrai)
 - Place: Noida,India
 - Bio: Student
