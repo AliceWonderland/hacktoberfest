@@ -9,6 +9,7 @@ Running the script -
 python3 manage.py
 
 PS: DO NOT USE PYTHON 2
+    There are some features different that might not work in Python-2
 """
 import re
 
