@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devansh Singh](https://github.com/Devansh3712)
+- Place: Uttar Pradesh, India
+- Bio: High School Student studying python
+- Github: [Devansh Singh](https://github.com/Devansh3712)
