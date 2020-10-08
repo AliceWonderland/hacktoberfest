@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shamly Gamage] (https://github.com/ShamlyGamage)
+- Place: Galle, Sri Lanka
+- Bio: Graphic Designer
+- GitHub: [ShamlyGamage] (https://github.com/ShamlyGamage)
