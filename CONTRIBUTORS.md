@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amanda Thompson](https://github.com/mandathompson)
+- Place: Summersville, West Virginia, United States
+- Bio: Student, full stack developer
+- GitHub: [Amanda Thompson](https://github.com/mandathompson)
