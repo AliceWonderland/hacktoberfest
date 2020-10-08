@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Roshan Agarwalla](https://github.com/roshanagarwalla)
+- Place: Assam, India
+- Bio: Python, Web development
+- Github: [Roshan Agarwalla](https://github.com/roshanagarwalla)
