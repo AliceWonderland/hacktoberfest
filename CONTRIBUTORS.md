@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yoga Asnawi](https://github.com/yoga-asnawi)
+- Place: Jakarta, Indonesia
+- Bio : Mahasiswa
+- Github: [Yoga-asnaiw](https://github.com/yoga-asnawi/hacktoberfest.git)
