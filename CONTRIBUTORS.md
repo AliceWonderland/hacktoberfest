@@ -678,6 +678,11 @@ to explore life. Also, Python and Django Developer
 - Bio: \x90\x90\x90\x90
 - GitHub: [Dvir](https://github.com/dvur12)
 
+#### Name: [Dwi Guna](https://github.com/dwiguna81)
+- Place: Bali, Indonesia
+- Bio: Junior Programming
+- Github: [Dwi Guna](https://github.com/dwiguna81)
+
 #### Name: [Dzmitry Kasinets](https://github.com/dkasinets)
 - Place: Brooklyn, NY, USA
 - Bio: CS student at Brooklyn College, and The Game of Thrones fan :3
