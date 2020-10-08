@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vipin Chaudhary](https://github.com/chaudharyv714)
+- Place: Faridabad, India
+- Bio: Undergrad Student and an intermediate Web Developer
+- Github: [Vipin Chaudhary](https://github.com/chaudharyv714)
