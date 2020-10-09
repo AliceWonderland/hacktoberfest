@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Rhythm Mahajan](https://github.com/toothless07)
+- Place: Punjab,India
+- Bio: B.tech at IIT BHU
+- Github: [Rhythm Mahajan](https://github.com/toothless07)
+
