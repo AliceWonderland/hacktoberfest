@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ashutosh Mishra](https://github.com/ashutoshm1771)
+- Place: Kathmandu, Nepal
+- Bio: Student, SWE-to-be
+- Github: [Ashutosh Mishra](https://github.com/ashutoshm1771)
