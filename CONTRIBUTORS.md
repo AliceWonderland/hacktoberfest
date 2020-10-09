@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Jeff Attride
+ - Place: Cork, Ireland
+ - Bio: Computer Science student
+ - GitHub: [Jeff Attride](https://github.com/Jeffride)
