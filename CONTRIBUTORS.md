@@ -2358,6 +2358,11 @@ Noida
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [Yash Gupta](https://github.com/yash9685)
+- Place: Raipur, Chhattisgarh, India
+- Bio: Software Engineer | Database developer
+- GitHub: [yash9685](https://github.com/yash9685)
+
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
