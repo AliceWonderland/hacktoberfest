@@ -1353,6 +1353,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Associate Degree analysis and systems development
 - GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
 
+#### Name: [Leonardo Luís Dalcegio](https://github.com/LeoDalcegio)
+- Place: Santa Catarina, Brazil
+- Bio: .NET, JS Developer
+- GitHub: [Leonardo Luís Dalcegio](https://github.com/LeoDalcegio)
+
 #### Name: [Leonardo Wajnsztok](https://github.com/leotok)
 - Place: Rio de Janeiro, Brazil
 - Bio: Computer Engineering student at PUC-Rio
