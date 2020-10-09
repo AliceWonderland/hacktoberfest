@@ -1,3 +1,8 @@
+#### Name: [Shahzaib Ahmad](https://github.com/shahzaibahmad3)
+- Place: Noida, UP, India
+- Bio: Computer Science Engineer
+- GitHub: [shahzaibahmad3](https://github.com/shahzaibahmad3)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
