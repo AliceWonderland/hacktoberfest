@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alyssa Hardwick](https://github.com/alyssahardwick)
+- Place: Saint Louis, MO
+- Bio: Front-end developer
+- Github: [Alyssa Hardwick](https://github.com/alyssahardwick)
