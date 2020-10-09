@@ -1,0 +1,17 @@
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+table,th,td,tr{
+  background-color: skyblue;
+  color: white;
+  text-align: center;
+  border:2px solid black;
+}
+td {
+}
+img {
+  width: 70px;
+  height: :80px;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{%  load static %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>index</title>
+    <link rel='stylesheet' href="{% static 'demoapp1/css/my_css.css' %}" >
+  </head>
+  <body>
+    <h1>{{var1}}</h1>
+    <h1>{{var2}}</h1>
+      {% for u in users %}
+        <dl>
+          <dt>User:</dt><img src='{% static "demoapp1/images/pic.jpg" %}' >
+          <dd>First Name: {{ u.First_name }}</dd>
+          <dd>Last Name: {{ u.Last_name }}</dd>
+          <dd>Email: {{ u.email }}</dd>
+      {% endfor %}
+  </body>
+</html>
