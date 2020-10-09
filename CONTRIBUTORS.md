@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SamakshSingh](https://github.com/SamakshSingh/)
+- Place: New Delhi, India
+- Bio: Java & Python Developer
+- Github: [SamakshSingh](https://github.com/SamakshSingh/)
