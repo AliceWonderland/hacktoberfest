@@ -32,6 +32,10 @@
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
+#### Name: [NIKITA JAIN](https://github.com/nikita812)
+- Place: India
+- Bio: imma web developer
+- GitHub: [NIKITA JAIN](https://github.com/nikita812)
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
