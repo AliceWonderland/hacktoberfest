@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshita Gupta](https://github.com/akshitagupta20)
+- Place: Kota,India
+- Bio: Student, Open source Enthusiast
+- Github: [Akshita Gupta](https://github.com/akshitagupta20)
