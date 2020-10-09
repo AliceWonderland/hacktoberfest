@@ -1,3 +1,8 @@
+﻿#### Name: Shivam Bhat
+ - Place: Jammu & Kashmir, India
+ - Bio: Operations analyst at Amazon. Graduated from JNTU Hyderabad.
+ - GitHub: [shivambhat](https://github.com/shivambhat)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
