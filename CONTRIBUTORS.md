@@ -1,3 +1,8 @@
+#### Name: [THISURA97](https://github.com/THISURA97)
+ - Place: Kalutara,Sri Lanka
+ - Bio: Undergraduate,SLIIT
+ - GitHub: [THISURA97](https://github.com/THISURA97)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
