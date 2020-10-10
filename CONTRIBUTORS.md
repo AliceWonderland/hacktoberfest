@@ -180,6 +180,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student/Web Developer
 - GitHub: [allesmi](https://github.com/allesmi)
 
+#### Name: [Ashna Basotia](https://github.com/Ashnabasotia)
+- Place: Kanpur, India
+- Bio: A Btech Cse student
+- GitHub: [Ashnabasotia](https://github.com/Ashnabasotia)
+
 #### Name: [Alexander Pfaff](https://github.com/apfaff)
  - Place: Cologne, Germany
  - Bio: Web Developer
