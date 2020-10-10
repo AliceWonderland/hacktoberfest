@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arifinoid](https://github.com/arifinoid)
+ - Place: Jakarta, Indonesia
+ - Bio: Software engineer. Full stack developer.
+ - GitHub: [arifinoid](https://github.com/arifinoid)
