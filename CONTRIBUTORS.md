@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rodrigo Simon](https://github.com/rodrigobsimon)
+- Plane: Rio de Janeiro, Brazil 
+- Bio: Student
+- Github: [Rodrigo Simon](https://github.com/rodrigobsimon)
