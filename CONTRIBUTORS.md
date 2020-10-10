@@ -2413,6 +2413,11 @@ Noida
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
+#### Name: [Prateek](https://github.com/prateekgarg)
+- Place: Seattle, WA
+- Bio: Software Engineer
+- Github: [prateekgarg](https://github.com/prateekgarg)
+
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
 - Bio: financial software consultant
