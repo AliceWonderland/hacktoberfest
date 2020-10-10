@@ -514,6 +514,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Hire me! Need a VP of Engineering, Director of Software, CTO?
 - GitHub: [Christian Skala](https://github.com/chrishiggins29)
 
+#### Name: [Christine Tu](https://github.com/christinetu)
+- Place: Sacramento, CA, USA
+- Bio: Junior Software Developer :) 
+- GitHub: [Christine Tu](https://github.com/christinetu)
+
 #### Name: [Christoph](https://github.com/iamchrishckns)
 - Place: Germany
 - Bio: I'm a german developer who loves to create things :)
