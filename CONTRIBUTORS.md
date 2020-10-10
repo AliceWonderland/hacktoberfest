@@ -415,6 +415,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Geophysicist
 - GitHub: [Brent Scheppmann](https://github.com/bareon)
 
+#### Name: [Brian Tham](https://briantham.io)
+- Place: Singapore
+- Bio: Student, Tech Enthusiast, Passionate Gamer
+- Github: [Nightey3s](https://github.com/Nightey3s)
+
 #### Name: [BrunoSXS](https://github.com/brunosxs)
 - Brazil
 - Bio: I like turtules.
