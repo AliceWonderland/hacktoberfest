@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andreea-Daniela Ene](https://github.com/AndreeaEne)
+- Place: Bucharest, Romania
+- Bio: UX/UI Designer
+- GitHub: [Andreea-Daniela Ene](https://github.com/AndreeaEne)
