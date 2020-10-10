@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jay Sharma](https://github.com/JaySharma11)
+- Place: Gujarat, India
+- Bio: Web Dev
+- GitHub: [Jay Sharma](https://github.com/JaySharma11)
