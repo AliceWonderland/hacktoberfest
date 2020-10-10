@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Shailesh ](https://github.com/Shailesh12-svg)
+-Place:India
+-Bio: Student 
+-Github:[Shailesh12](https://github.com/Shailesh12-svg)
