@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Aaron Chocolate](https://github.com/chop-code)
+- Place: United Kingdom
+- Bio: Computer Science Student in the UK hoping to start learning about contributing to the GitHub community.
+- GitHub: [chop-code](https://github.com/chop-code)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
