@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriel Yong](https://github.com/Gabrielyong38)
+- Place: Singapore
+- Bio: Graphical designer
+- GitHub: [gabrielyong38](https://github.com/Gabrielyong38)
