@@ -93,6 +93,11 @@
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
+#### Name: [Anish Kumar](https://github.com/AKA333)
+- Place: Patna, India
+- Bio: Computer Science Engineer
+- Github: [AKA333](https://github.com/AKA333)
+
 #### Name: [Ahmad Thames](https://github.com/ahmadthames)
 - Place: Houston, TX, USA
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
