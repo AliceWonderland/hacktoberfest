@@ -1839,6 +1839,11 @@ Noida
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
 
+#### Name: [Pragya Bansal](https://github.com/pragyabansal02)
+- Place: Pune, India
+- Bio: Gaming Enthusiast, Developer. 
+- GitHub: [Pragya Bansal](https://github.com/pragyabansal02)
+
 #### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
 - Place: Hyderabad, Telangana, India
 - Bio: Trying to fit in coding society.
