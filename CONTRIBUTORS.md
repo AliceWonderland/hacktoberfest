@@ -2430,5 +2430,5 @@ Noida
 
 ### Name: [Abhishek Kansal](https://github.com/abhishekkansal)
 - Place: India
-- Bio: Third year Computer Science Student.
+- Bio: Computer Science Student with Java and DB.
 - GitHub: [abhishekkansal](https://github.com/abhishekkansal)
