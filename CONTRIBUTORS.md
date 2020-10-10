@@ -1288,6 +1288,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
 
+#### Name: [Kiruthiharn B.] (https://github.com/Kiruthiharan)
+- Place: Nuwara Eliya, Sri Lanka
+- Bio: Computer Science Undergrad.
+- GitHub: [Kiruthiharan](https://github.com/Kiruthiharan)
+
 #### Name: [Klaudia K.](https://github.com/KalpiKK)
 - Place: Poland
 - Bio: IT Student at the University of Wroclaw
