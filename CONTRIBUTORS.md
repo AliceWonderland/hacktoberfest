@@ -1624,6 +1624,11 @@ Noida
 - Bio: Software Engineer
 - GitHub: [mintoo511](https://github.com/mintoo511)
 
+#### Name: [Pasan Nethsara](https://github.com/pasanaa)
+- Place: Panadura, Sri Lanka
+- Bio: Intern Software Engineer
+- GitHub: [pasanaa](https://github.com/pasanaa)
+
 #### Name: [Mitchell Haugen](https://github.com/haugenmitch)
 - Place: VA, USA
 - Bio: Programmer
