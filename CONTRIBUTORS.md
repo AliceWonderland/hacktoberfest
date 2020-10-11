@@ -1,3 +1,8 @@
+#### Name: Egor
+ - Place: Moscow, Russia
+ - Bio: Software Engineer, second year if computer science in Moscow Institute of Physics and Technology.
+ - Github: [pf4nnkuch3n](https://github.com/pf4nnkuch3n)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
