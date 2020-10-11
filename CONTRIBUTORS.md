@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kunwar Apoorvaditya](https://github.com/kunwar-code)
+- Place: Allahabad,India
+- Bio:Big Foodie, Student
+- Github: [Kunwar Apoorvaditya](https://github.com/kunwar-code)
