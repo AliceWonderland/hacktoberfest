@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Hamza](https://github.com/m-hamzashakeel)
+- Place: Islamabad, Pakistan
+- Bio: Flutter Developer, Python, ML
+- Github: [Ítalo Epifânio](https://github.com/m-hamzashakeel)
