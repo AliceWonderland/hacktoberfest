@@ -2403,6 +2403,11 @@ Noida
 - Bio: CompSci from ULaval reporting in
 - GitHub: [aiglebleu](https://github.com/aiglebleu)
 
+#### Name: [vrindajadwani](https://github.com/vrindajadwani)
+- Place: India
+- Bio: Tech Enthusiast
+- GitHub: [vrindajadwani](https://github.com/vrindajadwani)
+
 #### Name: [gipsi](gipsi.github.io)
 - Place: South-East, UK
 - Bio: Student FreeCodeCamp interested in PWA's
