@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Taruna Saini](https://github.com/Taruna06)
+- Place: Panchkula, India
+- Bio: Web developer
+- Github: [Taruna06](https://github.com/Taruna06)
