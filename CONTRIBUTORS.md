@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Bilal](https://github.com/Muhammad-Bilal-MB)
+- Place: Attock, Pakistan
+- Bio: Python Developer and Machine Learning Student
+- Github: [Muhammad-Bilal-MB](https://github.com/Muhammad-Bilal-MB)
