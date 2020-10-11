@@ -1987,6 +1987,11 @@ Noida
 - Bio: Recent college grad attending Flatiron School coding bootcamp
 - GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
 
+#### Name: [Taufik Amaryansyah](https://github.com/amary21)
+- Place: Yogyakarta, Indonesia
+- Bio: Student
+- GitHub: [amary21](https://github.com/amary21)
+
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
