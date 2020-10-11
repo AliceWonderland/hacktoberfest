@@ -2042,6 +2042,11 @@ Noida
 - Bio: Software Engineer
 - GitHub: [Scope Woe](https://github.com/scope2018)
 
+#### Name: [Scope Woe](https://github.com/scope2018)
+- Place: DC, USA
+- Bio: Software Engineer
+- GitHub: [Scope Woe](https://github.com/scope2018)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
