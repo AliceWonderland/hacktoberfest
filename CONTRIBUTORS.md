@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alessandro](https://github.com/alexnicco98)
+- Place: Gavorrano, Italy
+- Bio: Computer Science Student in Pisa
+- Github: [alexnicco98](https://github.com/alexnicco98)
