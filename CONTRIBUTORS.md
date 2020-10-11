@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ashutosh Pandey](https://github.com/DataCrusade1999)
+- Place: Uttar Pradesh, India
+- Bio: Student,Data Science Enthusiast
+- Github: [Ashutosh Pandey](https://github.com/DataCrusade1999)
