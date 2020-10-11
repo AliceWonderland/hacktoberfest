@@ -2176,6 +2176,11 @@ Noida
 - Bio: Currently studying computerscience at Aarhus University
 - Github: [Søren Eriksen](https://github.com/soer7022)
 
+#### Name: [Taran Rishit](https://github.com/yokaiemporer)
+- Place: Hyderabad,Telangana
+- Bio: currently systems engineer at TCS Hyd
+- GitHub: [YokaiEmporer](https://github.com/yokaiemporer)
+
 #### Name: [Taf Meister](https://github.com/tashrafy)
 - Place: NYC
 - Bio: Developer =]
