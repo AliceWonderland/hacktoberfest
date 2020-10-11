@@ -2249,6 +2249,11 @@ Noida
 - Bio: UNC Charlotte coding bootcamp student.
 - GitHub: [tlm04070](https://github.com/tlm04070);
 
+#### Name: [Treesa Jose](https://github.com/treezjoz)
+- Place: Alappuzha, Kerala, India
+- Bio: Computer Science Engineering student
+- Github: [treezjoz](https://github.com/treezjoz)
+
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
 - Bio: Front-end Developer
