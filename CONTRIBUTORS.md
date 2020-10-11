@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SATISH RANJAN ROUT](https://github.com/TheCruiser)
+- Place: Bhubaneswar, Odisha
+- Bio: Student, Computer Science and Engineering
+- GitHub: [Satish Ranjan Rout](https://github.com/TheCruiser)
