@@ -66,19 +66,17 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
-# Your Name
-
+# Akshay Saxena
 ### Location
-
-Your City/Country
+Ujjian/India
 
 ### Academics
 
-Your School
+K.M.S
 
 ### Interests
 
-- Some Things You Like
+- Programming
 
 ### Development
 
@@ -86,11 +84,10 @@ Your School
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
-
+- [Instagram Bot](https://github.com/SoulCoder65/Instagram-Bot) Automate Instagram Using Selenium Python
 ### Profile Link
 
-[Your Name](GitHub Link)
+[Akshay Saxena](https://github.com/SoulCoder65)
 ```
 
 ### 3. Create a `Hello, World!` Script
