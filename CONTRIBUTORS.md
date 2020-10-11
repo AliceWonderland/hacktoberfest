@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [msRob0t] (https://github.com/msRob0t)
+- Place: Greece
+- Bio: Electrical and Computer Engineering 
+- GitHub: [msRob0t] (https://github.com/msRob0t)
