@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Coffee Beani](https://github.com/coffeebeani/)
+- Place: Toronto, Canada
+- Bio: dev
+- Github: [coffeebeani](https://github.com/coffeebeani)
