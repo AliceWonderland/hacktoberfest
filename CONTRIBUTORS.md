@@ -1,3 +1,8 @@
+#### Name: [Anjali Singh](https://github.com/anjali-coder)
+- Place: Singapore
+- Bio: Engineer, Want to make a difference
+- GitHub: [Anjali Singh](https://github.com/anjali-coder)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
