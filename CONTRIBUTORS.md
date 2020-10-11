@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Shwetabh patel](https://github.com/Cold06)
+- Place:Uttar pradesh, India
+- Bio: Student
+- Github:[Shwetabh patel](https://github.com/Cold06)
