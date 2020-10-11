@@ -1774,6 +1774,11 @@ Noida
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
 
+#### Name: [PALKIT LOHIA](https://github.com/spookbite)
+- Place: Kolkata, India
+- Bio: Undergraduate Economics student
+- GitHub: [spookbite](https://github.com/spookbite)
+
 #### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
 - Place: Athens, Greece
 - Bio: Undergraduate CS student / Software Developer
