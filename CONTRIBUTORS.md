@@ -144,6 +144,11 @@ to explore life. Also, Python and Django Developer
  - Place: Hyderabad, India
  - Bio: CSE Undergrad in IIIT Hyderabad
  - Github: [akshat14714](https://github.com/akshat14714/)
+ 
+#### Name: [Sandi Aris](https://github.com/sandi-aris)
+- Place: Jakarta, Indonesia
+- Bio: Java Developer
+- Github: [Sandi Aris](https://github.com/sandi-aris)
 
 #### Name: [Akshit Kharbanda](https://github.com/akshit04)
 - Place: Delhi, India
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
