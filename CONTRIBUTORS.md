@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sandi Aris](https://github.com/sandi-aris)
+- Place: Jakarta, Indonesia
+- Bio: Java Developer
+- Github: [Sandi Aris](https://github.com/sandi-aris)
