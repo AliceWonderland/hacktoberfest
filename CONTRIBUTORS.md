@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lisa Downie](https://github.com/LDdevs)
+- Place: Lisa Downie
+- Bio: self-taught web dev branching out to mobile and game
+- Github: [Lisa Downie](https://github.com/LDdevs)
