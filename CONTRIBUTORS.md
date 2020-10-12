@@ -2066,6 +2066,11 @@ Noida
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
 
+#### Name: [Pedro Vicari](https://github.com/pvicari)
+- Place: Sao Paulo, Brazil
+- Bio: Front-end developer
+- GitHub: [PVICARI](https://github.com/pvicari)
+
 #### Name: [Sourav Verma](https://github.com/SrGrace)
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
