@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prakash A](https://github.com/iamprakash13)
+- Place: TamilNadu, India
+- Bio: Mobile App Developer Android and Flutter
+- Github: [iamprakash13](https://github.com/iamprakash13)
