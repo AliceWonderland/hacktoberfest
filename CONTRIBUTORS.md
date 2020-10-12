@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Michael Hoefler](https://github.com/hoefler02)
+- Place: United States
+- Bio: Runner and CTF Player
+- Github: [hoefler02](https://github.com/hoefler02)

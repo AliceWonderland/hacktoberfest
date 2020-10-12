@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Script for managing the CONTRIBUTOR.md file.
 What this script does?
