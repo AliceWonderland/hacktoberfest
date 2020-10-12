@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: Joerush
+ - Place: Pokhara, Nepal
+ - Bio: Software engineer. Studying Pokhara University.
+ - GitHub: [Joerush](https://github.com/joerush18)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
