@@ -2012,6 +2012,11 @@ Noida
 - Bio: Techie with a lot of horizontals but a low verticality :(
 - Github: [Saif Rehman Nasir](https://github.com/shyshin)
 
+#### Name: [Salman Faris](https://github.com/salfaris)
+- Place: London, UK
+- Bio: Mathematics student & iOS enthusiast
+- Github: [salfaris](https://github.com/salfaris)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
