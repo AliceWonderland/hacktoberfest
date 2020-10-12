@@ -1020,6 +1020,12 @@ to explore life. Also, Python and Django Developer
 - Bio: I love guitar!
 - GitHub: [JoeScho](https://github.com/JoeScho)
 
+#### Name: [JOÃO GUAZZELLI](https://github.com/joaoguazzelli)
+- Place: São Paulo, Brazil
+- Bio: I love drones and electronics
+- GitHub: [João Guazzelli](https://github.com/joaoguazzelli)
+
+
 #### Name: [JULIE QIU](https://github.com/julieqiu)
 - Place: New York City, NY, USA
 - Bio: Software Engineer; Loves iced coffee
