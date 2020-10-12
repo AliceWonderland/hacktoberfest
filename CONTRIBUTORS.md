@@ -370,6 +370,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Major / Web Developer
 - Github: [bennett-treptow](https://github.com/bennett-treptow)
 
+#### Name: [Preeti](https://github.com/preeti98)
+- Place: India
+- Bio: ETCE
+- Github: [preeti](https://github.com/preeti98)
+
 #### Name: [Bennie Mosher](https://github.com/benniemosher)
  - Place: Windsor, CO
  - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
