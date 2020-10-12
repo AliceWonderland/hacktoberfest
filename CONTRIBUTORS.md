@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vivek](https://github.com/vivek-alt)
+- Place: Kurukshetra, Haryana, India
+- Bio: Student
+- Github: [Vivek](https://github.com/vivek-alt)
