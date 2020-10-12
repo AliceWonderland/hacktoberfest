@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pritam Dhara](https://github.com/hDmtP)
+- Place: Kolkata, West Bengal, India
+- Bio: I love to learn new progrmming languages and there real life applications.
+- GitHub: [hDmtP](https://github.com/hDmtP)
