@@ -1,3 +1,8 @@
+#### Name: Aswin
+ - Place: Kerala, India
+ - Bio: Third year Mechatronics Engineering.
+ - GitHub: [Aswin](https://github.com/retr0-h0rse)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
