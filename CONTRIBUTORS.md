@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Rizaldi](https://github.com/mhmmdrzld/)
+- Place: Borneo, Indonesia
+- Bio: junior programmer
+- GitHub: [mhmmdrzld]()https://github.com/mhmmdrzld/
