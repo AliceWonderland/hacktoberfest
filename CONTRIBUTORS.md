@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ajay Raj](https://github.com/ajay-raj-s)
+- Place: India
+- Bio: Backend developer
+- Github: [Ajay-Raj-S](https://github.com/ajay-raj-s)
