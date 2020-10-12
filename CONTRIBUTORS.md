@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alim Abdul J](https://github.com/liimalim)
+- Place: Bekasi, Indonesia
+- Bio: Web developer (NodeJS, PHP)
+- Github: [Alim Abdul J](https://github.com/liimalim)
