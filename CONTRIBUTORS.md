@@ -1649,6 +1649,11 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [MYTHILI KARRA] (https://github.com/mythilikarra)
+- Place: California
+- Bio: Junior at UCSC interested in Full Stack Development
+- GitHub: [Nikolett Hegedüs](https://github.com/mythilikarra)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
