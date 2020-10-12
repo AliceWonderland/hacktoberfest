@@ -1,3 +1,8 @@
+#### Name: onionsh
+ - Place: Bangkok
+ - Bio: Programer
+ - GitHub: [onion.sh](https://github.com/onionsh)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
