@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deepika Juneja](https://github.com/deepsjuneja)
+- Place: Mainpuri, Uttar Pradesh, India
+- Bio: C.S.E. Undergraduate
+- GitHub: [deepsjuneja](https://github.com/deepsjuneja)
