@@ -2069,7 +2069,7 @@ Noida
 #### Name: [Pedro Vicari](https://github.com/pvicari)
 - Place: Sao Paulo, Brazil
 - Bio: Front-end developer
-- GitHub: [PVICARI](https://github.com/pvicari)
+- GitHub: [PEDRO VICARI](https://github.com/pvicari)
 
 #### Name: [Sourav Verma](https://github.com/SrGrace)
 - Place: Gwalior, Madhya Pradesh, India
