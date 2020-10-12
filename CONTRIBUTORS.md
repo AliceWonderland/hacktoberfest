@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manali Biswas](https://github.com/manali-biswas)
+- Place: New Delhi, Delhi, India
+- Bio: A pre-final year Computer Engineering student at Delhi Technological University.
+- GitHub: [Manali Biswas](https://github.com/manali-biswas)
