@@ -1,4 +1,4 @@
-#### Name: onionsh
+#### Name: onion.sh
  - Place: Bangkok
  - Bio: Programer
  - GitHub: [onion.sh](https://github.com/onionsh)
