@@ -25,5 +25,5 @@ Graduated from STMIK Bumigora Mataram, Indonesia
 
 ### Profile Link
 
-[Github](https://github.com/ebysofyan)
-[Medium](https://medium.com/@ebysofyan)
+- [Github](https://github.com/ebysofyan)
+- [Medium](https://medium.com/@ebysofyan)
