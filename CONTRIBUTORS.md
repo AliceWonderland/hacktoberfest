@@ -713,6 +713,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Studying MEng at Swansea Uni and part time SysAdmin
 - GitHub: [Raptosaur](https://github.com/raptosaur)
 
+#### Name: [Elijah Paminsan](https://github.com/elijahdaniel)
+- Place: San Jose, California, USA
+- Bio: Full Stack Web Developer, open to new opportunities.
+- GitHub: [elijahdaniel](https://github.com/elijahdaniel)
+
 #### Name: [Elliot Yun](https://github.com/Ellest)
 - Place: Madison, Wisconsin
 - Bio: SQL Developer looking for an SE role. Aspiring ML Engineer. Check out my github :)
