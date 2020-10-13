@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Syeda Fatima Shirazi](https://github.com/iamfaatima)
+- Place: Lahore, Pakistan
+- Bio: Software Engineer, Front-End developer, writer
+- Github: [iamfaatima](https://github.com/iamfaatima)
