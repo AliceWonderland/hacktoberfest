@@ -415,6 +415,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Geophysicist
 - GitHub: [Brent Scheppmann](https://github.com/bareon)
 
+### Name: [Brian Primevara](https://github.com/primoboy83)
+- Place: Glendale, Arizona
+- Bio: Mail Carrier, developer in training
+-Github: [Brian Primevara](https://github.com/primoboy83)
+
 #### Name: [BrunoSXS](https://github.com/brunosxs)
 - Brazil
 - Bio: I like turtules.
