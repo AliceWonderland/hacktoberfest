@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priskilla](https://github.com/jugosx)
+- Place: Yogyakarta, Indonesia
+- Bio: Web developer PHP and Python
+- Github: [Priskilla](https://github.com/jugosx)
