@@ -1589,10 +1589,15 @@ Noida
 - Bio: Eat , ~~Sleep~~ , Code
 - GitHub: [Mikeyny](https://github.com/mikeyny)
 
-#### Name: [Michael Rodriguez](https://github.com/vinird)
-- Place: Alajuea, Alajuela, Costa Rica
-- Bio: Web dev adn graphic designer
-- GitHub: [vinird](https://github.com/vinird)
+#### Name: [Michael Nyamande](https://github.com/mikeyny)
+- Place: Harare ,Zimbabwe
+- Bio: Eat , ~~Sleep~~ , Code
+- GitHub: [Mikeyny](https://github.com/mikeyny)
+
+#### Name: [Michael Macaulay](https://msmacaulay.com/)
+- Place: Bulls Gap, Tennessee
+- Bio: Fullstack web developer
+- GitHub: [MichaelMacaulay](https://github.com/MichaelMacaulay)
 
 #### Name: [Michael Rogers](https://github.com/widgyrogers)
 - Place: London, England
