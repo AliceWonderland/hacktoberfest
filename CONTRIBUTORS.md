@@ -63,6 +63,11 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Abubakar Khawaja](https://github.com/Abuubkar)
+- Place: Lahore, Pakistan
+- Bio: Software Engeering Student
+- GitHub: [Abubakar Khawaja](https://github.com/Abuubkar)
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
