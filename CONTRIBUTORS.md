@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kyle Harte](https://github.com/kyleharte)
+- Place: Ireland
+- Bio: Embedded developer
+- Github: [Kyle Harte](https://github.com/kyleharte)
