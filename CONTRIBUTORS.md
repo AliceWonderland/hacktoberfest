@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zohaib Munir](https://github.com/Zohaibb-m)
+- Place: Lahore, Pakistan
+- Bio: Wordpress Developer, C++ Developer
+- GitHub: [Zohaibb-m](https://github.com/Zohaibb-m)
