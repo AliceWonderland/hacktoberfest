@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [LazyNorm](https://github.com/lazynormz)
+- Place: Esbjerg, Denmark
+- Bio: Back-end developer
+- Github: [LazyNorm](https://github.com/lazynormz)
