@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adrià Casals](https://github.com/adricasi)
+- Place: Lleida,Catalunya
+- Bio: Student
+- GitHub: [adricasi](https://github.com/adricasi)
