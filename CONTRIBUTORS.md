@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Laércio Morais](https://github.com/laerciom1)
+- Place: São Paulo, SP, Brazil
+- Bio: 27y, Consultant Developer. JS (React Web, Node) - Mobile (React Native, Android, iOS)
+- GitHub: [laerciom1](https://github.com/laerciom1)
