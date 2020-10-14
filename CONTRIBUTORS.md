@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaishnav Parte](https://github.com/vaish567)
+- Place: Mumbai, India
+- Bio: Backend Developer
+- Github: [vaish567](https://github.com/vaish567)
