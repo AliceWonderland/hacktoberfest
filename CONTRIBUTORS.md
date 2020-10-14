@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanishq Soni](github.tanishqsoni.me)
+- Place: MP, India
+- Bio: I am a 16, and i am a programmer
+- GitHub: [tanishq-soni](github.tanishqsoni.me)
