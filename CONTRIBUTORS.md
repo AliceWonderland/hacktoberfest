@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Maxi Besoain](https://github.com/Maxix25)
+- Place: Santiago, Chile
+- Bio: Python Programmer
+- Github: [Maxix25](https://github.com/Maxix25)
