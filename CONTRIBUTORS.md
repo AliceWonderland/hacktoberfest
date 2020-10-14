@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alfian Jufri A](https://github.com/Enforeach)
+- Place: Malang, Indonesia
+- Bio: Web developer PHP and Javascript
+- Github: [Enforeach](https://github.com/Enforeach)
