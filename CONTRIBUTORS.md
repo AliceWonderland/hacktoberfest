@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Niruddya Sandani](https://github.com/nirudi98)
+- Place: Kadawatha, Sri Lanka
+- Bio: 3rd year software engineering student
+- GitHub: [nirudi98](https://github.com/nirudi98)
