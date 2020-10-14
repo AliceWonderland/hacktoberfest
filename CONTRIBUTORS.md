@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [SimulatedPanda] (https://github.com/SimulatedPanda)
+- Place: Christchurch, New Zealand
+- Bio: New to all of this coding, but need to get better
+- Github: [SimulatedPanda] (https://github.com/SimulatedPanda)
