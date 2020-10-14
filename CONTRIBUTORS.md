@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zahra Shahid](https://github.com/ZahraShahid)
+- Place: Lahore, Punjab, Pakistan
+- Bio: Software Engineering Student 
+- GitHub: [ZahraShahid](https://github.com/ZahraShahid)
