@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Irfan SENER](https://irfansener.com)
+- Place: Izmir, Turkey
+- Bio: Indie app maker
+- Github: [Irfan SENER](https://github.com/irfansener)
