@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aya Stead](https://github.com/AyaPK)
+- Place: London, United Kingdom
+- Bio: CompSci student, data science and python enthusiast
+- GitHub: [AyaPK](https://github.com/AyaPK)
