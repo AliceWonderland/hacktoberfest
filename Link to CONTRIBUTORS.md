@@ -1,0 +1,1 @@
+/home/shimozuki/Music/hacktoberfest/CONTRIBUTORS.md
