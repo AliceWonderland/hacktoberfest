@@ -1,3 +1,8 @@
+#### Name: Anwar Ali
+ - Place: Patiala, India
+ - Bio: Final Year Graduate Student
+ - GitHub: [Anwar4499](https://github.com/Anwar4499)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
