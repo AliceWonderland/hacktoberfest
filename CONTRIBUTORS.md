@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Slegy Sanjaya](https://github.com/slegysanjaya)
+- Place: Karawang, Jawa Barat, Indonesia
+- Bio: Node Js Developer
+- GitHub: [slegysanjaya](https://github.com/slegysanjaya)
