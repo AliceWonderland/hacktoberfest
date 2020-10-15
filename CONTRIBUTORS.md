@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+### Name: [shmoziki](https://github.com/shimozuki)
+- Place: Mataram, West Nusa Tenggara, Indonesia
+- Bio: Web devoloper php 
+- Github: [shmoziki](https://github.com/shimozuki)
