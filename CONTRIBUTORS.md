@@ -1,3 +1,8 @@
+#### Name: Uttkarsh Chaurasia
+ - Place: India
+ - Bio: CSE Student
+ - GitHub: [chaurasiauttkarsh](https://github.com/chaurasiauttkarsh)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
