@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [anaknyata](https://github.com/anaknyata)
+- Place: Ngawi, Indonesia
+- Bio: Keyboard Mechanical Enthusiastic
+- Github: [anaknyata](https://github.com/anaknyata)
