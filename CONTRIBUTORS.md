@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Oscar Leon](https://github.com/Leon-Gee)
+- Place: Culiacan,Mexico
+- Bio: Python and back end developer
+- Github: [Leon-Gee](https://github.com/Leon-Gee)
