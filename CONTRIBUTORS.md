@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nguyễn Ngọc Bảo Long](https://github.com/baolongv3)
+- Place: Ho Chi Minh, Viet Nam
+- Bio: FPT University Student, Information Assurance
+- Github: [Nguyen Ngoc Bao Long](https://github.com/baolongv3)
