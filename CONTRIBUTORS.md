@@ -1,3 +1,8 @@
+#### Name: Harshil Shah
+ - Place: Gujarat, India
+ - Bio: Student of CE at LDRP-ITR college
+ - GitHub: [iamShahHarshil](https://github.com/iamShahHarshil)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
