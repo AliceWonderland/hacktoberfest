@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [SHRADHEY PATHAK](https://github.com/Shradhey1008)
+- Place: Kanpur, India
+- Bio: Software Developer
+- GitHub: [SHRADHEY PATHAK](https://github.com/Shradhey1008)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
