@@ -2313,6 +2313,12 @@ Noida
 - Bio: Professional Geek | Developer
 - GitHub: [Vishaal Udandarao](https://github.com/vishaal27)
 
+
+#### Name: [Arpit Agarwal](https://github.com/Arpit2136)
+- Place: Hyderabad, India
+- Bio: software developer
+- Github: [Arpit2136](https://github.com/Arpit2136)
+
 #### Name: [Vishal Prakash](https://github.com/vish21)
 - Place: Mumbai, India
 - Bio: Software Developer
