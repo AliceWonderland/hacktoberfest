@@ -1040,6 +1040,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Inquisitive, Loves coding, also vegan
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
+#### Name: [James Porter](https://github.com/Trinculo54)
+- place: Tyngsboro, MA, United States
+- Bio: Webdesigner, vegetarian
+- Github [Trinculo54](https://github.com/Trinculo54)
+
 #### Name: [James Nuttall](https://github.com/JamesNuttall/)
 - Place: UK
 - Bio: Developing things. Learning Git
@@ -2427,3 +2432,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Trinculo54](https://github.com/Trinculo54)
+- place: Massachusetts
+- Bio: Scriptor, Web developer
+- Github: [Trinculo54](https://github.com/Trinculo54)
