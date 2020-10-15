@@ -1,3 +1,8 @@
+#### Name: [RUTAM PRITA MISHRA](https://github.com/21Rutam)
+- Place: India
+- Bio: A computer Science Engineer, Gadget Freak and a Full Stack Developer
+- GitHub: [21Rutam](https://github.com/21Rutam)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
