@@ -27,6 +27,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+#### Name: [Ritik](https://github.com/Carnagek)
+- Place: India
+- Bio: Student
+- Github: [Carnagek](https://github.com/Carnagek)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
