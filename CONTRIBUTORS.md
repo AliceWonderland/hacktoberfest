@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Roland Shum](https://github.com/rolandshc)
+- Place: Tartu, Estonia
+- Bio: fullstack developer react, .net, python
+- Github: [rolandshc](https://github.com/rolandshc)
