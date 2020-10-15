@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Mohan](https://github.com/yashiscool100)
+- Place: Delhi, India
+- Bio: fullstack developer reacr, python
+- Github: [yashiscool100](https://github.com/yashiscool100)
