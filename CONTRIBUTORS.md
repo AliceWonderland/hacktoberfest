@@ -275,6 +275,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CSAM, IIITD
 - GitHub: [Ankur Sharma](https://github.com/ankurs287)
 
+#### Name: [Anthony McGrath](https://github.com/anthony-kyle)
+- Place: Wellington, New Zealand
+- Bio: Web Developer looking for 127.0.0.1
+- Github: [anthony-kyle](https://github.com/anthony-kyle)
+
 #### Name: [Anthony Mineo](https://github.com/amineo)
 - Place: New Jersey, USA
 - Bio: Web Design & Development
