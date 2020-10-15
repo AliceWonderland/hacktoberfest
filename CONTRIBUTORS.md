@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Krackmayo](https://github.com/Crackmay)
+- Place: Medellín, Colombia
+- Bio: A student interested in coding
+- Github: [Krackmayo](https://github.com/Crackmay)
