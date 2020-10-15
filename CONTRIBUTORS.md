@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nhi Nguyen](https://github.com/nhi-nguyen-csis)
+- Place: San Diego, California
+- Bio: CS Student
+- Github: [nhi-nguyen-csis](https://github.com/nhi-nguyen-csis)
