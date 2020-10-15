@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parul Sahoo](https://github.com/parul5sahoo)
+- Place: Bhubaneswar, Odisha, India
+- Bio: An IT undergrad who loves developing and UI/UX designing.
+- GitHub: [Parul Sahoo](https://github.com/parul5sahoo)
