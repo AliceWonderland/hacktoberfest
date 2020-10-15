@@ -2,8 +2,9 @@
 env script
 aut Anshu Musaddi
 github https://github.com/anshucollege*/
-#include<iostream.h>
+#include<iostream>
+using namespace std;
 int main()
 {
-  cout<<" Hello World ";
+  cout<<" Hello World! ";
 }
