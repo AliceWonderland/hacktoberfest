@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [AakashPanda](https://github.com/AakashPanda)
+- Place: Mumbai, India
+- Bio: Stubent
+- Github: [AakashPanda](https://github.com/AakashPanda)
