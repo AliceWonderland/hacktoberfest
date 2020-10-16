@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajan Gautam] (https://github.com/rgautam320)
+- Place : Gandhinagar, India
+- Bio : Be what you want to be. Not what they want you to be.
+- Github : [Rajan Gautam] (https://github.com/rgautam320)
