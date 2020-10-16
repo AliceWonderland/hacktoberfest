@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Cody Siegmann](https://github.com/codysieg)
+- Place: British Columbia, Canada
+- Bio: Sr. Client Onboarding Specialist
+- Github: [Cody Siegmann](https://github.com/codysieg)
