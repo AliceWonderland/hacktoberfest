@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sejal Agarwal](https://github.com/itepifanio)
+- Place: kolkata,India
+- Bio: new to development
+- Github: [Sejal16](https://github.com/Sejal16)
