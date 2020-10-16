@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Humayoun Baig](https://github.com/humayounbaig)
+- Place: Karachi, Pakistan
+- Bio: React Developer (js / Native)
+- Github: [Humayoun Baig](https://github.com/humayounbaig)
