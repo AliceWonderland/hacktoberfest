@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 HacktoberFest 2020 Starter Project 🎃
 
 ** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
@@ -132,3 +132,4 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+Thanks 🙂
