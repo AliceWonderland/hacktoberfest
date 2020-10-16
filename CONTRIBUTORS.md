@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [richa]
+- Place: delhi,india
+- Bio: Web developer and coder
+- Github: [richa123-cool](https://github.com/richa123-cool)
