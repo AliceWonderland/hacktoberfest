@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Leandro Quiroga](http://github.com/Hydefs)
+- Place: Mendoza, Argentina
+- Bio: Python, Web developer
+- GitHub: [Hydefs](http://github.com/Hydefs)
