@@ -1,3 +1,7 @@
+#### Name: Aritra
+ - Place: Kolkata,India
+ - Bio: Web Developer. 
+ - GitHub: [aritra-sarkar99](https://aritrasarkar99.github.io/Portfolio/)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
