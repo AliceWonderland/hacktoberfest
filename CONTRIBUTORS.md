@@ -2431,4 +2431,4 @@ Noida
 #### Name: Visakh Sebastian
 - Place: India
 - Bio: Student
-- interests: Technology
+- Interest: Technology
