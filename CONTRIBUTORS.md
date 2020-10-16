@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tharindu Malshan](https://github.com/tharindumalshan1)
+- Place: Colombo Sri Lanka
+- Bio: Student/Web developer 
+- Github: [Tharindu Malshan](https://github.com/tharindumalshan1)
