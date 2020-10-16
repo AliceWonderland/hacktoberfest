@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mariana Ruddy](https://github.com/marianaruddy)
+- Place: Rio de Janeiro, Brazil
+- Bio: Frontend developer
+- Github: [Mariana Ruddy](https://github.com/marianaruddy)
