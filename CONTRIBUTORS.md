@@ -1,3 +1,8 @@
+#### Name: Rishabh Tyagi
+ - Place: gwalior, INDIA
+ - Bio: fullstack webapp developer.
+ - GitHub: [Rish7223](https://github.com/Rish7223)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
