@@ -1,3 +1,7 @@
+#### Name: OzLievano
+- Place: Miami, FL
+- Bio: Full Stack Eng in Training
+- Github: [OzLievano](https://github.com/OzLievano)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
