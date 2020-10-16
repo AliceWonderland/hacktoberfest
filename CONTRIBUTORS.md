@@ -1,3 +1,8 @@
+Name: Sheetal(https://github.com/sp1611)
+- Place: pune,maharashtra,india
+- Bio:3rd year cse student
+- GitHub: [sp1611](https://github.com/sp1611)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
