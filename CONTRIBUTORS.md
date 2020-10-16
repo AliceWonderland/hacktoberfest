@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+
+#### Name: [charan-web](https://github.com/charan-web)
+- Place: AP,India
+- Bio: Web developer front-end and server side
+- Github: [charan-web](https://github.com/charan-web)
