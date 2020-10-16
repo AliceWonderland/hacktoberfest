@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Juan_Gutierrez](https://github.com/JRaiden16)
+- Place: Ciudad de México, CDMX, mEXICO
+- Bio: I'm a DotNet Developer. I study computer engineering. I like to play the piano and play videogames
+- GitHub: [JRaiden16] (https://github.com/JRaiden16
