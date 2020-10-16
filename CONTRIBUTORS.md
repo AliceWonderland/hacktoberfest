@@ -1,3 +1,8 @@
+#### Name: [FABIO FONTANA](https://github.com/fabifont)
+ - Place: Genoa, Italy
+ - Bio: Computer Science Student
+ - GitHub: [fabifont](https://github.com/fabifont)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
