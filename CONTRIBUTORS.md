@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arnav Agrawal](https://github.com/ArnavHP18)
+- Place: Uttar Pradesh, India
+- Bio: Data Science Enthusiast, Python Programmer
+- GitHub: [GitHub account name](https://github.com/ArnavHP18)
