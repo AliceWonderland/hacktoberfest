@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [ANISHI MISHRA](https://github.com/anishimishra)
+- Place: LUCKNOW,INDIA
+- Bio: Student
+- GitHub: [ANISHI MISHRA](https://github.com/anishimishra)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
