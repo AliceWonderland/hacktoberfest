@@ -1900,6 +1900,11 @@ Noida
 - Bio: Youger software engineer
 - GitHub: [Rafael Lima](https://github.com/rafaelkalan)
 
+#### Name: [Rahul](https://github.com/Rahul23-s)
+- Place: Raipur, CG, India
+- Bio: I convert Caffeine to Code. College student, beginning to explore the Open Source world over GIT HUB. Here to Learn and Contribute!
+- GitHub: [Rahul23-s](https://github.com/rahul23-s)
+
 #### Name: [Raghu](https://github.com/FarmboyRaghu)
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
