@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Darrius Lee](https://github.com/leeyubingdarrius)
+- Place: Singapore
+- Bio: Student | Coder
+- GitHub: [Darrius Lee](https://github.com/leeyubingdarrius)
