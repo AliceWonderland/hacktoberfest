@@ -1,3 +1,8 @@
+#### Name: [PAYTON HARRISON] (https://github.com/paytonharrison)
+ - Place: Bozeman, Montana, USA
+ - Bio: First year master's student studying computer science!
+ - GitHub: [Payton Harrison](https://github.com/paytonharrison)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
