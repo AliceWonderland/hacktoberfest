@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Abhigyan Mishra](https://github.com/Abhigyan-Mishra)
+- Place: Delhi,India
+- Bio: Qiskit Advocate , Quantum Computing Enthusiast
+- GitHub: [Abhigyan-Mishra](https://github.com/Abhigyan-Mishra)
