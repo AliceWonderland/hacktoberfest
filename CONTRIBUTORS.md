@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Debargha Mukherjee](https://github.com/Debargha-arch)
+- Place: Kolkata,West Bengal,India
+- Bio: CS Engineering Student
+- GitHub: [Debargha-arch](https://github.com/Debargha-arch)
