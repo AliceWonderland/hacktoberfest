@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhishek Kumar Dey](https://github.com/abhishekdey4444)
+- Place: Jharkhand, India
+- Bio: Web developer and Python
+- Github: [Abhishek Kumar Dey](https://github.com/abhishekdey4444)
