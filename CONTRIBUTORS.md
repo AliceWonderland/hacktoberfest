@@ -2423,6 +2423,13 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+
+
+#### Name: [Yashwanth Kumar Jannaikode](https://github.com/Yashwanth-Kumar24/)
+- Place: Telangana,India
+- Bio: Android developer
+- Github: [Yashwanth-Kumar24](https://github.com/Yashwanth-Kumar24/)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
