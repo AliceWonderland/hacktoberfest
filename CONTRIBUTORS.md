@@ -1449,6 +1449,11 @@ Noida
 - Bio: Cat lover
 - GitHub: [mlouisekelley](https://github.com/mlouisekelley)
 
+### Name: [Matheus Elyasha](https://github.com/elyasha)
+- Place: Saint Mammès, Paris, France
+- Bio: Double Degree student (UnB and CentraleSupelec), Data Analyst at @gobrasa and CEO at @Coding55
+- GitHub: [elyasha](https://github.com/elyasha)
+
 #### Name: [Marieluise Merz] (https://github.com/marieluisemerz)
 - Place: Munich, Germany
 - Bio: Student in Business System Engineering
