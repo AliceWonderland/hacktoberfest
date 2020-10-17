@@ -1,3 +1,9 @@
+
+#### Name: Akshat
+ - Place: India
+ - Bio: Student.
+ - GitHub: [jrkej](https://github.com/Jrkej)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
