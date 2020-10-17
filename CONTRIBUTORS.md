@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ishan Avishka](https://github.com/I3han)
+- Place: Galle, Sri Lanka
+- Bio: Student
+- Github: [I3han](https://github.com/I3han)
