@@ -2425,7 +2425,7 @@ Noida
 
 
 
-#### Name: [Yashwanth-Kumar24](https://github.com/Yashwanth-Kumar24/)
+#### Name: [Yashwanth Kumar Jannaikode](https://github.com/Yashwanth-Kumar24/)
 - Place: Telangana,India
 - Bio: Android developer
 - Github: [Yashwanth-Kumar24](https://github.com/Yashwanth-Kumar24/)
