@@ -1,3 +1,9 @@
+#### Name: [Aarish Alam](https://github.com/RheagalFire)
+ - Place: Bilaspur, India
+ - Bio: Btech Second Year,NIT Raipur.
+ - GitHub: [RheagalFire](https://github.com/RheagalFire)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
