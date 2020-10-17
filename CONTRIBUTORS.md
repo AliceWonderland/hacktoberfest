@@ -2427,3 +2427,13 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AJMAL ALI](https://github.com/Entiz-Stdio)
+- Place: India
+- Bio: Loves Automation
+- GitHub: [Ajmal Ali](https://github.com/Entiz-Stdio)
+
+#### Name: [MASHHOOD](https://github.com/m4shhood)
+- Place: India
+- Bio: Cyber Crypto Stock Nerd
+- Github: [MASHHOOD](https://github.com/m4shhood)
