@@ -1,3 +1,8 @@
+#### Name: [Felipe da Rocha Torres](https://github.com/FelipeTorress)
+- Place: Brazil
+- Bio: Student of computer science at the Federal University of Piauí.
+- GitHub: [FelipeTorress](https://github.com/FelipeTorress)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
