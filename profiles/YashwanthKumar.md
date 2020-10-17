@@ -12,6 +12,7 @@ CVR COllege of Engineering
 
 - Basketball
 - Programming
+- Mobile App developement
 
 ### Development
 
@@ -19,7 +20,8 @@ CVR COllege of Engineering
 
 ### Projects
 
-- [COVID-19 Info App](https://github.com/Yashwanth-Kumar24/COVID-19_Mobile_Application) Dynamiccaly alerts people on entering containment zones and provides update in regular intervals
+- [COVID-19 Info App](https://github.com/Yashwanth-Kumar24/COVID-19_Mobile_Application) 
+   Dynamically alerts people on entering containment zones and provides update in regular intervals
 
 ### Profile Link
 
