@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Smarth Gnaguly](https://github.com/SmarthGuy)
+- Place: Jharkhand, India
+- Bio: C programmer and Web developer
+- Github: [Smarth Ganguly](https://github.com/SmarthGuy)
