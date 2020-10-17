@@ -1,3 +1,7 @@
+#### Name: Divyansh Kushwaha
+- Place: Kolkata, West Bengal, India
+- Bio: 3rd year computer science student
+- Github: webdesignbydivyansh(https://hithub.com/webdesignbydivyansh)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
