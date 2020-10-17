@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Muhammad Syahrur Rahmansyah moha
+- Place: Jakarta, Indonesia
+- Bio: web developer, Student AT Bina Sarana informatika Margonda Depok 
+- GitHub: [JuniorXcoder](https://github.com/JuniorXcoder)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
