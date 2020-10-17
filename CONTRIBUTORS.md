@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luana Ferreira](https://github.com/luanamarquesf)
+- Place: Minas Gerais, Brazil
+- Bio: React / React Native and Angular developer
+- Github: [luanamarquesf](https://github.com/luanamarquesf)
