@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Oratakashi Nhamako](https://github.com/oratakashi)
+- Place: Depok, Indonesian
+- Bio: Android Developer
+- Github: [Oratakashi Nhamako](https://github.com/oratakashi)
