@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raj Yadav](https://github.com/rajyadavv)
+- Place: Agra, Uttar Pradesh, India
+- Bio: A Software Developer
+- GitHub: [Raj Yadav]https://github.com/rajyadavv)
