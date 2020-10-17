@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Animesh Sinha](https://github.com/deniedhash)
+- Place: New Delhi, India
+- Bio: Android Developer and Web Developer
+- Github: [Animesh Sinha](https://github.com/deniedhash)
