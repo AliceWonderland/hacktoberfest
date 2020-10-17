@@ -1759,6 +1759,11 @@ Noida
 - Bio: I write code, and play golf!
 - GitHub: [Omar Mujahid](https://github.com/omarmjhd)
 
+#### Name: [Raghav Agarwal]
+ - Place: New Delhi, India
+ - Bio: Backend developer, studying B.Tech ECE
+ - GitHub: [Raghav Agarwal](https://github.com/agarwalraghav2012)
+
 #### Name: [Omid Nikrah](https://github.com/omidnikrah)
  - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
