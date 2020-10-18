@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Achira Isuru](https://github.com/Achiraisuru)
+- Place: Sri Lanka
+- Bio: Computer Science Undergraduate
+- GitHub: [Achiraisuru](https://github.com/Achiraisuru)
