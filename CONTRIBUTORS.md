@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Almasfiza Shaikh](https://github.com/almasfiza)
+- Place: Mumbai, India
+- Bio: Front-end web dev, Data Science Student
+- Github: [almasfiza](https://github.com/almasfiza)
