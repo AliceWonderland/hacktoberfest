@@ -1,7 +1,7 @@
 #### Name: Sonali Kalekar
 - Place: India
 - Bio: second year Computer Science Student
-- GitHub: [Vallenain](https://github.com/sonaliikalekar)
+- GitHub: [sonaliikalekar](https://github.com/sonaliikalekar)
 
 #### Name: Vallenain
  - Place: Lyon, France
