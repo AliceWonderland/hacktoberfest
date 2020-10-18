@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [KRATINJAY GUPTA](https://github.com/kratinjay)
+- Place: Kanpur, U.P, India
+- Bio: A full-time Front_end Engineer.
+- GitHub: [kratinjay gupta](https://github.com/kratinjay)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
