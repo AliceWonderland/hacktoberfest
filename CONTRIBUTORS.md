@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vincent Hong](https://github.com/vinlegend1)
+- Place: Manila, Philippines
+- Bio: Physics and Programming enthusiast
+- Github: [vinlegend1](https://github.com/vinlegend1)
