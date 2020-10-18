@@ -108,6 +108,11 @@
 - Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
 - GitHub: [darkxangel84](https://github.com/darkxangel84)
 
+#### Name: Lakshit
+ - Place: New delhi, India
+ - Bio: BCA 2nd year student.
+ - GitHub: [lakshit24](https://github.com/lakshit24)
+
 #### Name: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - Place: Gurugram, India
 - Bio: Learner, Coder,  INFJ, multipotentialite and a person who loves
