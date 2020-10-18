@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Marissa Douglass](https://github.com/mahdouglass)
+- Place: Springfield, OH, United States
+- Bio: Front end web developer trying to break into the full stack world
+- GitHub: [mahdouglass](https://github.com/mahdouglass)
