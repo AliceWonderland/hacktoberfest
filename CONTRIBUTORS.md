@@ -63,6 +63,11 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Arpit Pawar](https://github.com/JackTDC)
+- Place: India
+- Bio: I like to code
+- GitHub: [JackTDC](https://github.com/JackTDC)
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
