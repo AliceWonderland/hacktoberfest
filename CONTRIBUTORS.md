@@ -1,3 +1,7 @@
+### Name: Ming Ian
+ - Place: Singapore
+ - Bio: Student 
+ - Github: [mingiandhs](https://github.com/mingiandhs)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
