@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sai Tyada](https://github.com/styada)
+- Place: Minneapolis, United States of America
+- Bio: Computer Science Student
+- GitHub: [styada](https://github.com/styada)
