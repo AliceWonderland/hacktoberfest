@@ -28,7 +28,7 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
-#### Name: [AP PRANAV](https://github.com/pranav-cs)
+ #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Iqbal Mandiyansah](https://github.com/kode2an)
+#### Name: [Iqbal Mandiyansah](https://github.com/code2an)
 - Place: Tangerang, Indonesia
 - Bio: Web developer
-- Github: [Iqbal Mandiyansah](https://github.com/kode2an)
+- Github: [Iqbal Mandiyansah](https://github.com/code2an)
