@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Yogesh Singh Nayal](https://github.com/ysnayal17)
+- Place: India
+- Bio: Student
+- Github: [ysnayal17](https://github.com/ysnayal17)
