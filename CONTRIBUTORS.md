@@ -58,11 +58,6 @@
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
-#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
-- Place: New Delhi, India
-- Bio: Software developer, studying B.Tech CSE
-- GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
-
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
@@ -169,11 +164,6 @@ to explore life. Also, Python and Django Developer
  - Place: Athens, GA
  - Bio: Student
  - Github: [running-cool](https://github.com/running-cool)
-
-#### Name: [Alex Choi](https://github.com/running-cool)
-- Place: Athens, GA
-- Bio: Student
-- Github: [running-cool](https://github.com/running-cool)
 
 #### Name: [Alexander Miller](https://github.com/allesmi)
 - Place: Salzburg, Austria
@@ -523,8 +513,6 @@ to explore life. Also, Python and Django Developer
 - Place: Provo, UT, USA
 - Bio: I love FOXES!!! :fox:
 - GitHub: [kitsune7](https://github.com/kitsune7)
-
-#### Name: [Civitas](https://github.com/civitas07)
 
 #### Name: [Civitas](https://github.com/civitas07)
 - Place: Australia
@@ -1173,11 +1161,6 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
 
-#### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
--Place: New Haven, CT, USA
--Bio: Web Developer
--GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
-
 #### Name: [Jonas Fabisiak](https://github.com/RenCloud)
 - Place: Hanover, Germany
 - Bio: IT Student
@@ -1433,12 +1416,6 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Engineering student at Amity University
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
-#### Name: [Manas kashyap](https://github.com/Manas-kashyap)
-- Place: New Delhi, India
-- Bio: Computer Science Engineering student at Amity University
-Noida
--Github: [Manas kashyap](https://github.com/Manas-kashyap)
-
 #### Name: [Mandy Real](https://github.com/mandyreal)
  - Place: AU, SG
  - Bio: Software Engineer - mostly on mainframe
@@ -1477,11 +1454,6 @@ Noida
 #### Name: [Mark](https://github.com/Mxrk)		 
  - Place: /
  - Bio: love informatics		 
- - GitHub: [Mark](https://github.com/Mxrk)
-
-#### Name: [Mark](https://github.com/Mxrk)
- - Place: /
- - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Martns90](https://github.com/martns90)
@@ -1663,11 +1635,6 @@ Noida
 - Place: Chennai,India
 - Bio: ML developer
 - Github: [Naman Doshi] (https://github.com/warmachine0609)
-
-#### Name: [Naman Doshi] (https://github.com/warmachine0609)
--Place: Chennai,India
--Bio: ML developer
--Github: [Naman Doshi] (https://github.com/warmachine0609)
 
 #### Name: [Namish Pruthi](https://github.com/namish800)
 - Place: India
