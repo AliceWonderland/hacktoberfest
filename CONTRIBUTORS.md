@@ -1849,6 +1849,11 @@ Noida
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
 
+#### Name: [Prasetyo Yudho](https://github.com/prasetyoyudo/)
+- Place: South Jakarta, JakIndonesia
+- Bio: Front End Developer.
+- GitHub: [Prasetyo Yudho](https://github.com/https://github.com/prasetyoyudo/)
+
 #### Name: [Prateek Pandey](https://github.com/prateekpandey14)
 - Place: Bangalore, India
 - Bio: Opensource Enthusiast, Opensource Golang developer
