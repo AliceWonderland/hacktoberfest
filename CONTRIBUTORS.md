@@ -1,3 +1,8 @@
+#### Name: [BIHAN CHAKRABORTY](https://github.com/Bihan001)
+- Place: India
+- Bio: Second year BTech Computer Science Student, JS lover
+- GitHub: [Bihan001](https://github.com/Bihan001)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
