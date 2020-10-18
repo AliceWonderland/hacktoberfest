@@ -2107,6 +2107,11 @@ Noida
 - Bio: Need 1 more PR
 - GitHub: [GitHub account name](https://github.com/sjorso)
 
+#### Name: [ANVIKSHIK](https://github.com/anvikshik)
+- Place: Rajasthan, India
+- Bio: Student.
+- GitHub: [Anvikshik](https://github.com/anvikshik)
+
 #### Name: [Skyler](https://github.com/huntleyreep)
 - Place: South Carolina
 - Bio: Computer Science Student / Free Code Camper
