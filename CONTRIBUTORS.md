@@ -2358,6 +2358,11 @@ Noida
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [Thuvaragan](https://github.com/thuvan96 )
+- Place: India
+- Bio: Final year undergraduate(Software engineering)
+- GitHub: [Thuvaragan](https://github.com/thuvan96 )
+
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
