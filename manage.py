@@ -1,6 +1,6 @@
 """
 Script for managing the CONTRIBUTOR.md file.
-What this script does?
+What this script does here?
 - Remove trailing whitespaces before '####'
 - Replace every heading with '####'
 - Sort the list of contributors
