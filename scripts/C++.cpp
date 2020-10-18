@@ -2,7 +2,7 @@
 env script
 aut Anshu Musaddi
 github https://github.com/anshucollege*/
-#include<iostream.h>
+#include<bits/stdc++.h>
 int main()
 {
   cout<<" Hello World ";
