@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vodivanka Putra](https://github.com/MisticJr)
+- Place: Sragen, Indonesia
+- Bio: Wannabe Full-Stack Development
+- Github: [Vodivanka Putra](https://github.com/MisticJr)
