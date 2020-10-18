@@ -1,3 +1,8 @@
+#### Name: [SHUAIB ABBASI](https://github.com/shuaibabs)
+ - Place: Shamli, India
+ - Bio: Software engineer. Graduated from Alpine College of Education.
+ - GitHub: [shuaibabs](https://github.com/shuaibabs)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
