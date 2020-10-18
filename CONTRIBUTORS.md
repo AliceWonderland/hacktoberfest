@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [vishnu](https://github.com/vishnudk)
+- Place: Indian
+- Bio: student interested in algorithm and data structures
+- Github: [vishnudk](https://github.com/vishnudk)
