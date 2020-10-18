@@ -1,0 +1,20 @@
+!DOCTYPE HTML
+<html>
+<head>
+<title>FIRST BASIC HTML</title>
+</head>
+<body>
+<header> some header you want to add</header>
+<h1> This is a header h1 </h1>
+<h2> This is a header h2 </h2>
+<h3> This is a header h3 </h3>
+<!-- this is a comment -->
+<!-- the 4 lines below will create a list -->
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+<footer> this will create a footer</footer>
+</body>
+</html>
