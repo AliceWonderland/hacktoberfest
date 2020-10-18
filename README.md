@@ -132,3 +132,14 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
+
+#Github 
+This will give you few things you should try with git and github
+
+1 - pull request.
+2 - push with git. 
+3 - pull with git.
+4 - config with git.
+5 - fork on gitHub.
+6 - contribute on github.
