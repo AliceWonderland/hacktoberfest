@@ -130,6 +130,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
+#### Name: [Chirag Bansal](https://github.com/chiragbansal-45)
+- Place: Palanpur, India
+- Bio: undergraduate student
+- GitHub: [Chirag Bansal](https://github.com/chiragbansal-45)
+
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
