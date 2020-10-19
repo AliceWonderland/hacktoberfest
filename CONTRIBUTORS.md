@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+### Name: [Tatheer Zahra]
+- Place: Pakistan
+- Bio: A beginer who love to learn new things
+- GitHub: [tatheer135] (https://github.com/tatheer135)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
