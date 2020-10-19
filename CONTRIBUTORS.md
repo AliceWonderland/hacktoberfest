@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [skamp91] (https://github.com/skamp91)
+- Place: Germany
+- Bio: Student - IT-Specialist Software development
+- GitHub: [skamp91] (https://github.com/skamp91)
