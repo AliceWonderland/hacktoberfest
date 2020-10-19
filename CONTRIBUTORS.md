@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yasmin Braga](https://github.com/yasminbraga)
+- Place: Santarém, Brazil
+- Bio: Front-end developer 
+- Github: [Ítalo Epifânio](https://github.com/yasminbraga)
