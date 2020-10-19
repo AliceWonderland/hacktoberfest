@@ -1,3 +1,8 @@
+### Name: Karan Patel
+  - Place: Bangalore, India
+  - Bio: second year Computer Science Student, in love with technology <3
+  - GitHub: [Karan](https://github.com/karanpatel2329/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
