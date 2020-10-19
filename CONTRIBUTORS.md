@@ -571,6 +571,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Software Engineering Student/ Web Developer
  - GitHub: [davehowson](https://github.com/davehowson)
 
+ #### Name: [Gayath Chandira](https://github.com/gayathChandira)
+ - Place: Colombo, Sri Lanka
+ - Bio: Student
+ - GitHub: [gayathChandrira](https://github.com/gayathChandira)
+
 #### Name: [DENNIS ORZIKH](https://github.com/orzikhd)
 - Place: Seattle, WA, USA
 - Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
