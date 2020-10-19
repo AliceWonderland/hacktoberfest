@@ -63,6 +63,11 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Ritik Agarwal](https://github.com/ritik1999)
+- Place: Agra, India
+- Bio: Software developer, studying B.Tech ECE
+- GitHub: [Ritik Agarwal](https://github.com/ritik1999)
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
