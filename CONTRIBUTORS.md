@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: Suyash Mishra
+ - Place: Kanpur, India
+ - Bio: student, studying computer science
+ - GitHub: [Suyash](https://github.com/Its-suyash)
