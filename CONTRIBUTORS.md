@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wang Trindade](https://github.com/spao234)
+- Place: Rio de Janeiro, Brazil
+- Bio: Developer
+- Github: [spao234](https://github.com/spao234)
