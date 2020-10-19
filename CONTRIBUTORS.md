@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sanjana singh](https://github.com/sanjanasingh31)
+-Place: Patna,India
+-Bio:Developer,ML engineer,coding
+-Github:[sanjanasingh31](https://github.com/sanjanasingh31)
