@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Kalaga Poornisha](https://github.com/KalagaPoornisha)
+- Place: India
+- Bio: I like to code
+- GitHub: [Kalaga Poornisha](https://github.com/KalagaPoornisha)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
