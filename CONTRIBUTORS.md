@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Yasmin Braga](https://github.com/yasminbraga)
 - Place: Santarém, Brazil
 - Bio: Front-end developer 
-- Github: [Ítalo Epifânio](https://github.com/yasminbraga)
+- Github: [Yasmin Braga](https://github.com/yasminbraga)
