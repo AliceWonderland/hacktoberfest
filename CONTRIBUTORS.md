@@ -2156,6 +2156,11 @@ Noida
 - Bio: Learning web development to help with a career change!
 - GitHub: [Stu Wares](https://github.com/StuWares)
 
+#### Name: [Sundereshwar Kodi](https://github.com/sundereshwar)
+- Place: Gujarat, India
+- Bio: Gold Microsoft Learn Student Ambassador
+- GitHub: [Sunder Eshwar](https://github.com/sundereshwar)
+
 #### Name: [Supachai Pluemjitta](https://github.com/Galleria)
 - Place: Bangkok, Thailand
 - Bio: Developer
