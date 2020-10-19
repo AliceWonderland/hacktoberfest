@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Mariam Ayaz](https://github.com/MariamAyaz)
+- Place: Lahore, Pakistan
+- Bio: Web developer 
+- Github: [Mariam Ayaz](https://github.com/MariamAyaz)
