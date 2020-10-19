@@ -4,8 +4,11 @@
   GITHUB: https://github.com/Nethmi96
 */
 
-public class HelloJavaN {
+ class HelloJava{
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+       System.out.println("-------hacktoberfest--------");
+        for(int i=0;i<20;i++)
+        {
+        System.out.println("the no:",i+1,"Hello world! ");
     }
 }
