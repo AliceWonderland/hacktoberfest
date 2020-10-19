@@ -16681,3 +16681,42 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
+#### Name: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- Place: Bandung, Indonesia
+- Bio: Website Developer
+- Github: [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
