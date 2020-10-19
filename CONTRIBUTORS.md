@@ -1779,6 +1779,11 @@ Noida
 - Bio: Undergraduate CS student / Software Developer
 - GitHub: [PanosVl](https://github.com/PanosVl)
 
+#### Name: [Patricia Felix](https://github.com/patriciafelixx)
+- Place: São Paulo, Brazil
+- Bio: Full Stack Web Developer
+- GitHub: [patriciafelixx](https://github.com/patriciafelixx)
+
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
 - Bio: Senior Developer @ ovos media gmbh. Happily married and father of 2 awesome kids. Oh and I like games.
