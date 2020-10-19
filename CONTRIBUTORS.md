@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Akshat 
+ - Place: Paris, France
+ - Bio: Microbiology engineer. Graduated from ENS Cachan
+ - GitHub: [yashinde](https://github.com/yashinde)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
