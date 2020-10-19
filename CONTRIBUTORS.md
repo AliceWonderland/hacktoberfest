@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bimaswara Adam](https://github.com/swaraadam)
+- Place: Nganjuk, Indonesia
+- Bio: Game Developer
+- Github: [swaraadam] (https://github.com/swaraadam)
