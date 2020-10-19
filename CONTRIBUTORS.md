@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name : Isharth kumar
+-Place - India
+- Bio - Computer science fresher
+-Github : @isharthk
