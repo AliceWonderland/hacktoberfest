@@ -1,0 +1,2 @@
+echo 'skiddies'
+echo 'Hacktoberfest'
