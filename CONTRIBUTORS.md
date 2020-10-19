@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dayyan ALi](https://github.com/dayyan1341)
+- Place: Aligarh, Uttar Pradesh, India
+- Bio: Student
+- GitHub: [dayyan1341](https://github.com/dayyan1341)
