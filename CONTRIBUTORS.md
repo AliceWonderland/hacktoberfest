@@ -1589,6 +1589,11 @@ Noida
 - Bio: Eat , ~~Sleep~~ , Code
 - GitHub: [Mikeyny](https://github.com/mikeyny)
 
+#### Name: [Mikhael Hermanus](https://github.com/mikhaelhrm)
+- Place: Jakarta, Indonesa
+- Bio: Frontend Engineer
+- GitHub: [mikhaelhrm](https://github.com/mikhaelhrm)
+
 #### Name: [Michael Rodriguez](https://github.com/vinird)
 - Place: Alajuea, Alajuela, Costa Rica
 - Bio: Web dev adn graphic designer
