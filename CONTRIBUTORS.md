@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Valarie Regas](https://valarieregas.com)
+- Place: Atlanta, Georgia, USA
+- Bio: DevOps fanatic, coding bootcamp grad, Super Mom
+- GitHub: [ValarieR](https://github.com/valarier)
