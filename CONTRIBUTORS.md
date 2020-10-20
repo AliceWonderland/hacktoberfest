@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manoj singh bhandari] (https://github.com/Manojsingh929)
+- Place: kashipur, Uttarakhand, india
+- Bio: B.Tech CSE student
+- Github: [Manojsingh929] (https://github.com/Manojsingh929)
