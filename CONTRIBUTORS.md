@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Boam Idiotic](https://github.com/boamidiotic)
+- Place: X01, Planet Pluto
+- Bio: Freelancer
+- Github: [Boam Idiotic](https://github.com/boamidiotic)
