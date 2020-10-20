@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dilenon Delfino](https://github.com/devblackpower)
+- Place: Brazil
+- Bio: Data Analyst
+- GitHub: [Dilenon Delfino](https://github.com/devblackpower)
