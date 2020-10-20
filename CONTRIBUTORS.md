@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Fadillah Azmi](https://github.com/Pazmy)
+ - Place: Medan, Indonesia
+ - Bio: Web Developer
+ - GitHub: [Pazmy](https://github.com/Pazmy)
