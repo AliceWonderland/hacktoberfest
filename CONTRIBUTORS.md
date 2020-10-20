@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Appsencryptor](https://github.com/appsencryptor)
+- Place: Earth
+- Bio: Web developer, Encrypt Apps
+- Github: [Ítalo Epifânio](https://github.com/appsencryptor)
