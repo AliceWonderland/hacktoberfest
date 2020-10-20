@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luiz Ricardo](https://github.com/defaut)
+- Place: Ribeirão Preto- SP, Brazil
+- Bio: Full Stack Developer
+- Github: [Luiz Ricardo](https://github.com/defaut)
