@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Otávio Luiz](https://github.com/OtavioLMS)
+- Place: São Paulo, Brazil
+- Bio: Computer Engineer | Front-end Developer | Javascript | NODE.js
+- Github: [Otávio Luiz](https://github.com/OtavioLMS)
