@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Appsencryptor](https://github.com/appsencryptor)
 - Place: Earth
 - Bio: Web developer, Encrypt Apps
-- Github: [Ítalo Epifânio](https://github.com/appsencryptor)
+- Github: [Appsencryptor](https://github.com/appsencryptor)
