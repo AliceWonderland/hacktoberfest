@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Ronald Edsa
+ - Place: Tangerang, Indonesia
+ - Bio: Software engineer. Idn Boarding School.
+ - GitHub: [Vallenain](https://github.com/rmnxex)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
