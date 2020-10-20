@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Filipe Bernardi](https://github.com/itepifanio)
+- Place: Ribeirão Preto, Brazil
+- Bio: curious
+- Github: [filipepaulista12](https://github.com/filipepaulista12)
