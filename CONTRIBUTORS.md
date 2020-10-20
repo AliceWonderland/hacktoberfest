@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [spartanny] (https://github.com/spartanny)
+- Place: India
+- Bio: Student
+- GitHub: [spartanny] (https://github.com/spartanny)
