@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ANkur Nagila](https://github.com/ANkurNagila)
+- Place: Uttrakhand,India
+- Bio: Student learning Python and Linux
+- Github: [ANkur Nagila](https://github.com/ANkurNagila)
