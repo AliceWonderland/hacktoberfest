@@ -1767,12 +1767,12 @@ Noida
 #### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Computer Science student at Puc-Mg ,Music lover
-- GitHub: [OttoWBitt] (https://github.com/OttoWBitt)
+- GitHub: [OttoWBitt](https://github.com/OttoWBitt)
 
 #### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
 - Place: Edmond, OK, United States
 - Bio: Programmer for a high school robotics team
-- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+- Github: [ultimatezenzar](https://github.com/ultimatezenzar)
 
 #### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
 - Place: Athens, Greece
@@ -1844,7 +1844,7 @@ Noida
 - Bio: Trying to fit in coding society.
 - GitHub: [Pranav Bhasin](https://github.com/pranavbhasin96)
 
-#### Name: [Pranjal Singh] (https://github.com/pranjal44)
+#### Name: [Pranjal Singh](https://github.com/pranjal44)
 - Place: Delhi, India
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
@@ -1859,10 +1859,10 @@ Noida
 - Bio: I tell tales!
 - GitHub: [Pratyum](https://github.com/Pratyum)
 
-#### Name: [Pronomita Dey] (https://github.com/PronomitaDey)
+#### Name: [Pronomita Dey](https://github.com/PronomitaDey)
 - Place : India
 - Bio : Front End Developer. Open Source Enthusiast. Learner.
-- GitHub : [Pronomita Dey] (https://github.com/PronomitaDey)
+- GitHub : [Pronomita Dey](https://github.com/PronomitaDey)
 
 #### Name: [PureHyd](https://github.com/PureHyd)
 - Place: Evanston, IL
@@ -2080,7 +2080,7 @@ Noida
 #### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Undergrad at IIITA
-- Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
+- Github: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
@@ -2278,10 +2278,10 @@ Noida
 - Bio: Solution Architect @ Eleven-Labs
 - GitHub: [VEBERArnaud](https://github.com/VEBERArnaud)
 
-#### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
+#### Name: [VENKATESH BELLALE](http://venkateshbellale.github.io)
 - place:pune , India
 - bio : loves computer+science , student
-- github: [venketsh bellale] (http://github.com/venkateshbellale)
+- github: [venketsh bellale](http://github.com/venkateshbellale)
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -2366,7 +2366,7 @@ Noida
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
-- Github [yasminzy]((https://github.com/yasminzy)
+- Github [yasminzy](https://github.com/yasminzy)
 
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
@@ -2418,10 +2418,10 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+#### Name: [xenocideiwki](https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+- GitHub: [xenocidewiki](https://github.com/xenocidewiki)
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
