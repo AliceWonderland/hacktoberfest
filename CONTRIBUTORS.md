@@ -1,3 +1,8 @@
+#### Name: Joseph
+- Place: Los Angeles, California
+- Bio: Intrigued Learner
+- GitHub: [Joseph](https://github.com/josephsanthoshemprayil)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -17,6 +22,7 @@
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
+
 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
