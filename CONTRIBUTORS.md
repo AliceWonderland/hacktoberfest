@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adrian27045](https://github.com/Adrian27045)
+- Place: Poland
+- Bio: Machine learning, deep learning and data science enthusiast
+- Github: [Adrian27045](https://github.com/Adrian27045)
