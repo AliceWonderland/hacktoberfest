@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [M Rizki Fatihah](http://github.com/rizkifatihah)
+- Place: Medan, Sumatera Utara, Indonesia
+- Bio: Web Developer & Student at University Of Sumatera Utara
+- GitHub: [rizkifatihah](http://github.com/rizkifatihah)
