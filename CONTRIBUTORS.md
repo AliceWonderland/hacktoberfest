@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manilal Kasera](https://github.com/manilal14)
+- Place: India
+- Bio: developer
+- Github:[manilal14](https://github.com/manilal14)
