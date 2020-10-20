@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leandro F](https://github.com/leofls)
+- Place: Alagoas, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Leandro F](https://github.com/leofls)
