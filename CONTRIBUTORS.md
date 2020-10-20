@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Javariya Aamir](https://github.com/javariya)
+- Place: Copenhagen, Denmark
+- Bio: Software Engineer and Information Security enthusiast
+- GitHub: [javariya](https://github.com/javariya)
