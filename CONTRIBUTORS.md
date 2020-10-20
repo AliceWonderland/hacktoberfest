@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Greg Dillon](https://github.com/aspectspro)
+- Place: Princes Town, Trinidad and Tobago
+- Bio: C++ Software Developer
+- GitHub: [aspectspro](https://github.com/aspectspro)
