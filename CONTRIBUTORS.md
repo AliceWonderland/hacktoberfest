@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Khadija Sidhpuri](https://github.com/squarebat)
+- Place: Gujarat, India
+- Bio: Web developer and ML Enthusiast
+- Github: [Khadija Sidhpuri](https://github.com/squarebat)
