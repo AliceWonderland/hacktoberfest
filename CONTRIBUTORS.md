@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohan Rajput](https://github.com/rohan-rajput)
+- Place: Bengaluru,India
+- Bio: Web developer 
+- Github: [rohan-rajput](https://github.com/rohan-rajput)
