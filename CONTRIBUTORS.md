@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ipsita Mondal](https://github.com/11ipsita)
+- Place: India
+- Bio: Student
+- Github: [Ipsita Mondal](https://github.com/11ipsita)
