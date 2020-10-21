@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mufaro D Kaseke](https://github.com/itepifanio)
+- Place: Harare ,Zimbabwe
+- Bio: Junior Web Developer
+- Github: [MufaroDKaseke](https://github.com/MufaroDKaseke)
