@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [shruttipriya](https://github.com/shruttipriya)
+ - Place: Patna,Bihar
+ - Bio : Student
