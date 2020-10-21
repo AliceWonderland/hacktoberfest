@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Abhinav Sharma](https://github.com/abhi9249)
+- Place: Ludhiana, India
+- Bio: Business Analyst 
+- Github: [abhi9249](https://github.com/abhi9249)
