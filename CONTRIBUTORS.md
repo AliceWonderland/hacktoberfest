@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hamza Aziz](https://github.com/hamza2311)
+- Place: India
+- Bio: II Year Engineering Student (interested in Python)
+- GitHub: [hamza2311] (https://github.com/hamza2311)
