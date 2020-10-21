@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ ####  Nome: [ LUANA GABRIELLY ] (https://github.com/luanagp) 
+- Local: Natal, Natal, Brazil
+ - Biografia: Student
+- GitHub: [ LuanaGP ] (https://gitgub.com/luanagp)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
