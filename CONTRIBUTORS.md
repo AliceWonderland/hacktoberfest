@@ -2432,3 +2432,4 @@ Noida
 - Place: Minas Gerais, Brazil
 - Bio: Network Analyst
 - Github: [Igor Oliveira](https://github.com/IgorOliveira42)
+
