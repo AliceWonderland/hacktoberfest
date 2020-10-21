@@ -2432,3 +2432,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tosan Krisna](https://github.com/tosankrisna)
+- Place: Bali, Indonesia
+- Bio: Front End Web Developer
+- Github: [Tosan Krisna](https://github.com/tosankrisna)
