@@ -5828,6 +5828,13 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [GAJANAN GITTE](https://github.com/gajanangitte)
+- Place: India, Delhi
+- Bio: A CSE sophomore at IITR. I have exhausted hobbies
+- GitHub: [Gajanan Gitte](https://github.com/gajanan)
+- Projects: SpotiCots, MyCompass, CookieWala, The Untold Story of Fawkes
+- Website: [when.](https://gajanangitte.github.io/)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
