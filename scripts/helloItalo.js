@@ -1,1 +1,1 @@
-console.log("Hello World. By: Italo Alves :) <3")
+console.log("Hello World. By: Italo Alves, from Brazil!! :)");
