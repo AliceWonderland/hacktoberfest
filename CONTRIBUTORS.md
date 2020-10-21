@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aakash Garg](https://github.com/aakash01garg)
+- Place: Delhi, India
+- Bio: Web developer and ML
+- Github: [Aakash Garg](https://github.com/aakash01garg)
