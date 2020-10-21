@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifanio) 
+
+#### Name: [Rafael Rain](https://github.com/RafaelrainBR)
+- Place: Curitiba, Brazil
+- Bio: Kotlin Backend Engineer
+- Github: [Rafael Rain](https://github.com/RafaelrainBR)
