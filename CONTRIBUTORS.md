@@ -1,7 +1,12 @@
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+- GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [LUANA GABRIELLY] (https://github.com/luanagp)
+- Place: Brazil
+- Bio: Student
+- GitHub: [LuanaGP] (https://github.com/luanagp)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
