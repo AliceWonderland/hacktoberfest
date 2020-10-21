@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Maurício Eugênio](https://github.com/maurxeugenio)
+- Place: Governador Valadares, Brazil
+- Bio: Fullstack developer Python, django, js, react
+- Github: [Maurício Eugênio](https://github.com/maurxeugenio)
