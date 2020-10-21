@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Rohan Rajput
+// GITHUB: https://github.com/rohan-rajput
+
+console.log("Hello world!");
