@@ -1,3 +1,8 @@
+#### Name: Adi Fatkhurozi
+ - Place: Adi Fatkhurozi
+ - Bio: Frontend Developer
+ - GitHub: [adyfk](https://github.com/adyfk)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
