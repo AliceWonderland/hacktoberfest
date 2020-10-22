@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mika Grootenboer](https://github.com/MikaGrootenboer)
+- Place: Zuid-Holland, Netherlands
+- Bio: Starting programmer
+- Github: [MikaGrootenboer](https://github.com/MikaGrootenboer)
