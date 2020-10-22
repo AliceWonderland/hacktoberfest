@@ -925,6 +925,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
 
+#### Name: [Gabriel Chireia](https://github.com/gabrielChireia)
+- Place: Cuiabá, Mato Grosso, Brazil
+- Bio: Java Developer
+- GitHub: [gabrielChireia](https://github.com/gabrielChireia)
+
 #### Name: [Hardik Surana](https://github.com/hardiksurana)
 - Place: Bangalore, India
 - Bio: Programmer, Student
