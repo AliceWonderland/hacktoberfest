@@ -2427,3 +2427,13 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Charu Goyal](https://github.com/Charugoyal3)
+- Place: Sri ganganagar, Rajasthan, India
+- Bio: I am a Engineer 
+- GitHub: [Charugoyal3]((https://github.com/Charugoyal3)
+
+#### Name: [Charu Goyal](https://github.com/Charugoyal3)
+- Place: Sri ganganagar, Rajasthan, India
+- Bio: I am a Engineer 
+- GitHub: [Charugoyal3]((https://github.com/Charugoyal3)
