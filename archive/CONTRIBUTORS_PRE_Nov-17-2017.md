@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Thiago Dias de Oliva](https://github.com/thiagodiasoliva)
+- Place: São Paulo, Brazil
+- Bio: Profissional de TI, atuando como Analista de Suporte
+- Github: [Thiago Dias](https://github.com/thiagodiasoliva)
