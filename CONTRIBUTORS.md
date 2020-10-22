@@ -1569,6 +1569,11 @@ Noida
 - Bio: Student
 - GitHub: [mayank26saxena](https://github.com/mayank26saxena)
 
+#### Name: [Melanga Bhathiya](https://github.com/Melanga)
+- Place: Kegalle, Sri Lanka
+- Bio: Undergraduate
+- GitHub: [Melanga](https://github.com/Melanga)
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: PA, USA
 - Bio: Student
