@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### [Name: Aidan E](https://github.com/D4rk3l)
+- Place: Canada
+- Bio: Wannabe Game Developer
+- Github: [D4rk5l](https://github.com/D4rk3l)
