@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gerson Rosa Gomes Júnior](https://github.com/gerson-rjr)
+- Place: Natal, Brazil
+- Bio: Systems Analysis and Development Student
+- Github: [Gerson Rosa Gomes Júnior](https://github.com/gerson-rjr)
