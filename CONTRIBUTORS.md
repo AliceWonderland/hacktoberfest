@@ -2432,3 +2432,8 @@ Noida
 - Place: Sri ganganagar, Rajasthan, India
 - Bio: I am a Engineer 
 - GitHub: [Charugoyal3]((https://github.com/Charugoyal3)
+
+#### Name: [Charu Goyal](https://github.com/Charugoyal3)
+- Place: Sri ganganagar, Rajasthan, India
+- Bio: I am a Engineer 
+- GitHub: [Charugoyal3]((https://github.com/Charugoyal3)
