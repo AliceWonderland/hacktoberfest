@@ -1,5 +1,5 @@
-#### Name: Hardik Gupta
- -Place: India
+#### Name: Hardik Gupta(https://github.com/hardik-gupta)
+ -Place: Udaipur, Rajasthan, India
  -Bio: Second Year Electronics Student.
  -Github:[hardik-gupta](https://github.com/hardik-gupta)
 
