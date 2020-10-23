@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Rodrigues](https://github.com/lucasrc98)
+- Place: Fortaleza, Ceará, Brazil
+- Bio: Systems Analyst
+- GitHub: [lucasrc98](https://github.com/lucasrc98)
