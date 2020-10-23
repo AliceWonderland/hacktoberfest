@@ -1,3 +1,8 @@
+#### Name: Hardik Gupta
+ -Place: India
+ -Bio: Second Year Electronics Student.
+ -Github:[hardik-gupta](https://github.com/hardik-gupta)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
