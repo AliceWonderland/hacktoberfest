@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pujan Thapa](https://github.com/e911)
+- Place: Kathmandu, Nepal
+- Bio: Web developer Django/Python, Rails/Ruby, React, DevOps
+- Github: [Pujan Thapa](https://github.com/e911)
