@@ -15,7 +15,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project
+## How to contribute to this project?
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
@@ -24,23 +24,18 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-## Getting started
+## Getting started ;-)
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
-
 ```markdown
 git clone https://github.com/your-username/hacktoberfest.git
 ```
-
 * Create a branch
-
 ```markdown
 git checkout -b branch-name
 ```
-
 * Make your changes (choose from any task below)
 * Commit and push
-
 ```markdown
 git add .
 git commit -m 'Commit message'
@@ -51,7 +46,7 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-## Choose from these tasks
+## Choose from these tasks:-
 ### 1. Add your name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
@@ -93,7 +88,7 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
+### 3. Create a '`Hello, World!`' Script
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
@@ -116,7 +111,7 @@ Here is my `hello_world` example: [hello_world_alicewonderland.js](https://githu
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
 
-## Reference links
+## Reference links:-
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
@@ -130,5 +125,5 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
-## Additional references added by contributors
+## Additional references added by contributors:-
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
