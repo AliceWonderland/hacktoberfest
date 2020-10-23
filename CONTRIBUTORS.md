@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
+- Place: São Paulo, Brazil
+- Bio: Associate Degree analysis and systems development
+- GitHub: [Leonardo Bonetti](https://github.com/LeonardoBonetti)
