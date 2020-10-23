@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Eko Yusyono](https://github.com/echo2477)
+- Palce : Jakarta, Indonesia
+- Bio : dev
+- Github : [echo2477](https://github.com/echo2477)
