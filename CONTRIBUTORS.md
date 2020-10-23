@@ -2403,6 +2403,11 @@ Noida
 - Bio: CompSci from ULaval reporting in
 - GitHub: [aiglebleu](https://github.com/aiglebleu)
 
+#### Name: [Pratikshya Mahat](https://github.com/Pratikshya-Mahat)
+- Place: Kathmandu, Nepal
+- Bio: A hardworking computer science student who love always get updated with new innovation.
+- GitHub: [Pratikshya Mahat](https://github.com/Pratikshya-Mahat)
+
 #### Name: [gipsi](gipsi.github.io)
 - Place: South-East, UK
 - Bio: Student FreeCodeCamp interested in PWA's
@@ -2427,3 +2432,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Safal Mahat](https://github.com/Safal08)
+- Place: Kathmandu, Nepal
+- Bio: A hardworking computer science student who love always get updated with new innovation.
+- GitHub: [Sáfàl Máhàt](https://github.com/Safal08)
+
