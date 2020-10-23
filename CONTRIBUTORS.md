@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Himanshu Yadav
+ - Place:Lucknow, Uttar Pradesh, India
+ - Bio: B.Sc. -Cs Student
+ - GitHub: 05him
