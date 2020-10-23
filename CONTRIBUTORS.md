@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Guilherme ortiz](https://github.com/guicortiz)
+- Place: São Paulo, Brazil
+- Bio: Full stack JS
+- Github: [guicortiz](https://github.com/guicortiz)
