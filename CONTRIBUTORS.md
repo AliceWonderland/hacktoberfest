@@ -2066,6 +2066,10 @@ Noida
   - Place: Pune, Maharashtra
   - Bio: Cloud Lead @ IgluLabs
   - Website: www.shehzadshaikh.com
+  #### Name: NITHIN TA
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [Nithin47TA](https://github.com/Nithin47TA)
 
 #### Name: [Shelby Stanton](https://github.com/Minimilk93)
 - Place: Leeds, England
