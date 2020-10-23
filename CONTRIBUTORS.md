@@ -1,3 +1,8 @@
+#### Name: Aidan
+ - Place: Washington
+ - Bio: I love music
+ - GitHub: [AidanMay62](https://github.com/AidanMay62)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
