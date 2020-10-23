@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ivan Shoom](https://github.com/shoom1337)
+- Place: Saint-Petersburg, Russia
+- Bio: Full-stack web developer
+- Github: [Ivan Shoom](https://github.com/shoom1337)
