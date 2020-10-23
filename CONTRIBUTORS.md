@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhyudaya Apoorva](https://github.com/aapoorv-tf)
+- Place: Mumbai, India
+- Bio: ECE student at IIIT Pune
+- Github: [Abhyudaya Apoorva](https://github.com/aapoorv-tf)
