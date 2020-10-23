@@ -1,7 +1,7 @@
-#### Name: Hardik Gupta(https://github.com/hardik-gupta)
- -Place: Udaipur, Rajasthan, India
- -Bio: Second Year Electronics Student.
- -Github:[hardik-gupta](https://github.com/hardik-gupta)
+#### Name: Hardik Gupta(https://github.com/hardik-gupta)  
+ -Place: Udaipur, Rajasthan, India  
+ -Bio: Second Year Electronics Student.  
+ -Github:[hardik-gupta](https://github.com/hardik-gupta)  
 
 #### Name: Vallenain
  - Place: Lyon, France
