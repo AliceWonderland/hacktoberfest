@@ -2156,6 +2156,11 @@ Noida
 - Bio: Learning web development to help with a career change!
 - GitHub: [Stu Wares](https://github.com/StuWares)
 
+#### Name: [Sudam Yasodya] (https://github.com/gdsghost)
+- Place: Colombo, Sri Lanka
+- Bio: CS Student at University of Moratuwa
+-GitHub: [$udam] (https://github.com/gdsghost)
+
 #### Name: [Supachai Pluemjitta](https://github.com/Galleria)
 - Place: Bangkok, Thailand
 - Bio: Developer
