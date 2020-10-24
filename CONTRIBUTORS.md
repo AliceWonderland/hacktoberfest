@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Heitor Rapela Medeiros](https://github.com/heitorrapela)
+- Place: Recife, Brazil
+- Bio: Data Engineer (SQL, Python ...), Software Engineer (C++/Python)
+- Github: [Heitor Rapela](https://github.com/heitorrapela)
