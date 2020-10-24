@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [TANISH BAANSAL](https://github.com/tanishbaansal)
+- Place: haridwar,uttarakhand,india
+- Bio: fourth year computer science student.
+- GitHub: [tanish-baansal](https://github.com/tanishbaansal)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
