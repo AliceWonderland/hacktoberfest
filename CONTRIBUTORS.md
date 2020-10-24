@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jayshree Aishwarya](https://github.com/iamjayshree)
+- Place: Patna, India
+- Bio: Django Developer
+- Github: [Ítalo Epifânio](https://github.com/iamjayshree)
+
