@@ -1,8 +1,0 @@
-CREATE OR REPLACE PROCEDURE HELLO_WORLD AS 
-BEGIN
-	-- LANGUAGE: PL/SQL
-	-- ENV: Oracle
-	-- AUTHOR: William Mollenkopf
-	-- GITHUB: https://github.com/WilliamMollenkopfIII
-	htp.p('Hello World');
-END HELLO_WORLD;

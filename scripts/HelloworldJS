@@ -1,6 +1,0 @@
-LANGUAGE: Javascript/Angular2
-ENV: Node.js/Express
-AUTHOR: Ken
-GITHUB: https://github.com/Shikizo
-
-console.log('Hello, World!');
