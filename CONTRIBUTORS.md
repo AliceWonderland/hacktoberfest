@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriel Ferreira](https://github.com/gabrielf9)
+- Place: São Crisóvão, Sergipe, Brazil
+- Bio: Web and Mobile Developer using ReactJS, Flutter and Python
+- GitHub: [GabrielF9](https://github.com/gabrielf9)
