@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Yash Sahitya] (https://github.com/yash016)
+- Place: India
+- Bio: Machine Learning Enthusiast
+- Github: [yash016] (https://github.com/yash016)
