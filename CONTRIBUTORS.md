@@ -1,3 +1,8 @@
+#### Name: [Umar Haruna Abdullahi](https://github.com/umarbrowser)
+ - Place: Gombe State, Nigeria
+ - Bio: Machince Learning & Web Dev & Mobile Dev
+ - GitHub: [Pyc0d3r](https://github.com/umarbrowser)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
