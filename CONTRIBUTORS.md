@@ -1,3 +1,8 @@
+#### Name: Amardeep Bhagat(https://github.com/amardeep09)
+ - Place: Chhattisgarh,india
+ - Bio: Student.
+ - GitHub: [Amardeep Bhagat](https://github.com/amardeep09)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
