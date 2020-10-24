@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jin Kim](https://github.com/jinwoov)
+- Place: Austin, Texas
+- Bio: Software Engineer
+- Github: [jinwoov](https://github.com/jinwoov)
