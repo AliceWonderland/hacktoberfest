@@ -1673,6 +1673,8 @@ Noida
 - Place: India
 - Bio: Developer
 - Github: [namish800](https://github.com/namish800)
+#### Name: [Namrata] 
+- Place: Kanpur,India
 
 #### Name: [Napat Rattanawaraha](https://github.com/peam1234)
 - Place: Bangkok, Thailand
