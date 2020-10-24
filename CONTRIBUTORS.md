@@ -1,3 +1,8 @@
+#### Name: [Rachayita Giri](https://github.com/RachayitaGiri)
+ - Place: Los Angeles, California, USA
+ - Bio: Machine Learning Engineer and Environmentalist
+ - GitHub: [Rachayita Giri](https://github.com/RachayitaGiri)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
