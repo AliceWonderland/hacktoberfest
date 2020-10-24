@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Al Such](https://github.com/ajaxironside)
+- Place: Atlanta, GA. USA
+- Bio: Web and Java developer
+- GitHub: [AjaxIronside](https://github.com/ajaxironside)
