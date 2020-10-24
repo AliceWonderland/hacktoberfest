@@ -1975,6 +1975,11 @@ Noida
 - Bio: KIIT University IT student
 - GitHub: [vmcniket](https://github.com/vmcniket)
 
+Name: [Prithu Nagar](https://github.com/Prithu-Nagar)
+- Place: India
+- Bio: G L Bajaj CS student
+- GitHub: [Prithu-Nagar](https://github.com/Prithu-Nagar)
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
