@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devbrat Anuragi](https://github.com/AslanDevbrat)
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: I am a Android Developer and AI enthusiast
+- GitHub: [AslanDevbrat](https://github.com/AslanDevbrat)
