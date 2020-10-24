@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Archit Gupta](https://github.com/architg27)
+- Place: Uttar Pradesh, India
+- Bio: Third year Computer Science Student
+- Github: [Archit Gupta](https://github.com/architg27)
+
+
