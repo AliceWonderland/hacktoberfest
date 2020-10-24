@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+### Name: [Manas Asati] (https://github.com/ManasAsati)
+- Place: Varanasi, India
+- Bio: Student
+- Github: [Manas Asati] (https://github.com/ManasAsati)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
