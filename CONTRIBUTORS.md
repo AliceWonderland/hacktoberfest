@@ -1,3 +1,9 @@
+
+#### Name: Vallenain
+ - Place: Kolkata, India
+ - Bio: App Developer. I'm Red Mystic Ranger 
+ - GitHub: [Samrat-Khan](https://github.com/Samrat-Khan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
