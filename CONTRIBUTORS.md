@@ -2204,6 +2204,11 @@ Noida
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
+ 
+ #### Name: Teresa Livriero
+- Place: Foggia, Italy
+- Bio: Web Developer
+- GitHub: [teresa-livriero](https://github.com/teresa-livriero)
 
 #### Name: [Terren Peterson](https:/github.com/terrenjpeterson)
 - Place: Richmond, Virginia, United States
