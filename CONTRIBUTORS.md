@@ -2200,6 +2200,11 @@ Noida
 - Bio: Young software developer.
 - GitHub: [techtide](https://github.com/techtide/)
 
+#### Name: [HARSHVARDHAN](https://github.com/agnieszka-miszkurka)
+- Place: INDIA
+- Bio: Third year Computer Science Student, in love with NYC <3
+
+
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
