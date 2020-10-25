@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Qaasim Muhammad](https://github.com/Quwaysim)
+- Place: Ilorin, Kwara State, Nigeria
+- Bio: Android Developer, Kotlin and Java
+- GitHub: [Quwaysim](https://github.com/Quwaysim)
