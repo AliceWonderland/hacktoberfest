@@ -1519,6 +1519,11 @@ Noida
 - Bio: Software Engineer
 - Github: [Matheus Lucena](https://github.com/matehuslucena)
 
+#### Name: [Matheus Vinicius](https://github.com/xMcLOVINx)
+- Place: Brazil
+- Bio: Software Engineering
+- GitHub: [xMcLOVINx](https://github.com/xMcLOVINx)
+
 #### Name: [Mathias Pihl](https://github.com/newspaperman57)
 - Place: Aalborg, Denmark
 - Bio: Software Engineering Student
