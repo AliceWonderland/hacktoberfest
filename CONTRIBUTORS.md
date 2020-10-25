@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sarthak Tanwani](https://github.com/sarthaktanwani)
+- Place: New Delhi, New Delhi
+- Bio: Embedded Software Engineer
+- Github: [Sarthak Tanwani](https://github.com/sarthaktanwani)
