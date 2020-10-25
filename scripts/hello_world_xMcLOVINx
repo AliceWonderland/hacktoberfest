@@ -1,0 +1,11 @@
+<?php 
+
+	/** 
+	 * LANGUAGE: PHP
+	 * ENV: PHP/Apache/Nginx
+	 * AUTHOR: xMcLOVINx
+	 * GITHUB: https://github.com/xMcLOVINx
+	 */
+	echo "Hello World!";
+
+?>
