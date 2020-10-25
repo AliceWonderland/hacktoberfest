@@ -1839,6 +1839,11 @@ Noida
 - Bio: Professional Geek
 - GitHub: [Piyush Sikarwal](https://github.com/psikarwal)
 
+#### Name: [Piyusha Bhor](https://github.com/The-Kernel-Panic)
+- Place: India
+- Bio: Loves to make(and break) things.
+- GitHub: [The-Kernel-Panic](https://github.com/The-Kernel-Panic)
+
 #### Name: [Pranav Bhasin](https://github.com/pranavbhasin96)
 - Place: Hyderabad, Telangana, India
 - Bio: Trying to fit in coding society.
