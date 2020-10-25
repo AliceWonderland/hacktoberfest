@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Arush Sharma](https://github.com/arushsharma24)
+- Place: Amritsar, Punjab, India
+- Bio: Student, IIT Roorkee, India
+- Github: [Arush Sharma](https://github.com/arushsharma24)
