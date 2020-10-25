@@ -1,0 +1,6 @@
+// LANGUAGE: Python
+// ENV: Python 3
+// AUTHOR: Sandip Palit
+// GITHUB: https://github.com/SandipPalit
+
+print("Hello World")
