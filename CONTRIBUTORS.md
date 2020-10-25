@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -2046,6 +2046,11 @@ Noida
 - Place: Ukraine
 - Bio: I've Top Rated status in Upwork
 - GitHub: [Sergey Gorky](https://github.com/sergeygorky)
+
+#### Name: [setily](https://github.com/setily)
+- Place: Nuremberg, Germany
+- Bio: Software Engineer
+- GitHub: [setily](https://github.com/setily)
 
 #### Name: [Shade Ruangwan](https://github.com/sruangwan)
 - Place: Nara, Japan
