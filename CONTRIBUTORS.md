@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name :[anshuchauhan] (http://github.com/anshuc1440)
+-Place : Noida,India
+- BIO : ECE student interested in coding
+-Github: [anshuchauhan] (http://github.com/anshuc1440)
