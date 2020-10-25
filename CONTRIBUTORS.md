@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mark Jun Gersaniva](https://github.com/nujkram)
+- Place: Philippines
+- Bio: Web developer PHP and Python
+- Github: [nujkram](https://github.com/nujkram)
