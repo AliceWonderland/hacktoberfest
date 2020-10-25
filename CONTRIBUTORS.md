@@ -1,3 +1,8 @@
+#### Name: [SANDIP PALIT](https://github.com/SandipPalit)
+- Place: Kolkata, India
+- Bio: Computer Science Engineering Graduate
+- GitHub: [SANDIP PALIT](https://github.com/SandipPalit)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
