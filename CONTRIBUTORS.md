@@ -2247,7 +2247,12 @@ Noida
 #### Name: [Trevor Meadows](https://github.com/tlm04070)
 - Place: Charlotte, North Carolina.
 - Bio: UNC Charlotte coding bootcamp student.
-- GitHub: [tlm04070](https://github.com/tlm04070);
+- GitHub: [tlm04070](https://github.com/tlm04070)
+
+#### Name: [Tridib Samanta](https://github.com/tridib2003)
+- Place: Durgapur, West Bengal, India
+- Bio: Software Engineer
+- GitHub: [tridib2003](https://github.com/tridib2003)
 
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
