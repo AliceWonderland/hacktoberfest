@@ -1569,6 +1569,11 @@ Noida
 - Bio: Student
 - GitHub: [mayank26saxena](https://github.com/mayank26saxena)
 
+#### Name: [Medson Mendes](https://github.com/medson)
+- Place: Rio Grande do Norte, Brazil
+- Bio: Backend Developer
+- GitHub: [medson](https://github.com/medson)
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: PA, USA
 - Bio: Student
