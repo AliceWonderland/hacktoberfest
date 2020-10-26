@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Abhijeet Mahapatra](https://github.com/Abhi-1001)
+- Place: Maharashtra, India
+- Bio: Competitve Programmer, Technology enthusiast!
+- GitHub: [Abhijeet Mahapatra](https://github.com/Abhi-1001)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
