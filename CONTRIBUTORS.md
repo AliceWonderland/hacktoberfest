@@ -1343,6 +1343,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Just another dreamer
 - Github [LegacyGDev]
 
+#### Name: [Leila](https://github.com/leilaapsilva)
+- Place: São Paulo, Brazil 
+- Bio: Computer Engineering Student at UFSCar
+- Github [leilaapsilva](https://github.com/leilaapsilva)
+
 #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
