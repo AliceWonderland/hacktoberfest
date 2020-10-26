@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manjit Lal](https://github.com/manjitlal)
+- Place: Dhanbad, Jharkhand, India
+- Bio: Researcher in Anomaly Detection
+- GitHub: [Manjit Lal](https://github.com/manjitlal)
