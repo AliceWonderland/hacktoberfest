@@ -1,3 +1,8 @@
+#### Name: Samarth Raj
+ - Place: Delhi, India
+ - Bio: Student. 
+ - GitHub: [samarthraj11](https://github.com/samarthraj11)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
