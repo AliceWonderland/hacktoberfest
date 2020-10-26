@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanishk Saraswat](https://github.com/tanishksaraswat/)
+- Place: India
+- Bio: Student majoring in IT
+- Github: [tanishksaraswat](https://github.com/tanishksaraswat/)
