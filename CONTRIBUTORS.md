@@ -2097,6 +2097,11 @@ Noida
 - Bio: taco enthusiast
 - Github: [SierraOG](https://github.com/SierraOG/)
 
+#### Name: [Simon Bech]((https://github.com/DenSimbe)
+ - Place: Denmark
+ - Bio: Studying Computer sience at Aarhus University.
+ - GitHub: [DenSimbe](https://github.com/DenSimbe)
+
 #### Name: [Simon Volpert](https://github.com/vol-pi)
 - Place: Ulm, Germany
 - Bio: DevOps, Hiking, Photography
