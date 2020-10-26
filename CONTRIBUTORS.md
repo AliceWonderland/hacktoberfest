@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chandra Sekhar](https://github.com/devilchandra)
+- Place: Burdwan, India
+- Bio: Student, Beginner at coding. Learned C.  
+- Github: [Chandra Sekhar](https://github.com/devilchandra)
