@@ -2161,6 +2161,11 @@ Noida
 - Bio: Developer
 - GitHub: [Galleria](https://github.com/Galleria)
 
+#### Name: [Suufi](https://github.com/Suufi)
+- Place: Lawrenceville, GA
+- Bio: Student/Developer
+- GitHub: [Suufi](https://github.com/Suufi)
+
 #### Name: [Suryatej Reddy](https://github.com/suryatejreddy)
 - Place: New Delhi, India
 - Bio: CSE Student at IIITD
