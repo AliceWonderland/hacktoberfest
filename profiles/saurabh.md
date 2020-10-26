@@ -1,7 +1,20 @@
----
-name: Saurabh Singh
-institution: Amity University, Mumbai
+# Saurabh Singh
 
-quote: When you see a good move, Look for a better one.
-github: singhsaurabhss
----
+### Location
+
+Mumbai, Maharashtra, India
+
+### Academics
+
+Amity University, Mumbai
+
+### Interests
+
+- Coding and Development
+- Chess
+
+
+
+### Profile Link
+
+[Saurabh Singh](https://github.com/singhsaurabhss)
