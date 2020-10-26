@@ -551,6 +551,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Nerd
 - GitHub: [Cody Williams](https://github.com/codyw9524)
 
+#### Name: [Cole](https://github.com/polycole)
+- Place: Colorado
+- Bio: Student
+- GitHub: [Cole](https://github.com/polycole)
+
 #### Name: [Colin Zhang](http://linkedin.com/in/colinzhang95)
  - Place: Philadelphia, PA, USA
  - Bio: Entrepreneur, product manager, traveller
