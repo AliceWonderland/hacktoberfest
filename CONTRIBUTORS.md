@@ -1,3 +1,7 @@
+#### Name: [Lakshmanan L]
+ - Place: Karnataka, India
+ - Bio: student
+ - GitHub: [KarthikL1729](https://github.com/KarthikL1729)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
