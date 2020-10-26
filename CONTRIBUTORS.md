@@ -1,3 +1,8 @@
+#### Name: Kshitiz Gupta
+ - Place: Delhi, India
+ - Bio: Pursuing B.Tech(ECE)
+ - Github: [Kshitiz_Gupta](https://github.com/Kshitiz-Gupta02)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
