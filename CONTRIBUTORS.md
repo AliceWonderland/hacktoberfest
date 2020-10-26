@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Gonzalo25sfc
+ - Place: Sevilla, Spain
+ - Bio: Software student.
+ - GitHub: [Gonzalo25sfc](https://github.com/Gonzalo25sfc)
