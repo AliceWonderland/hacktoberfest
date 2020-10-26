@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Srishti Patil](https://github.com/srishtipatil19)
+- Place: Mumbai, India
+- Bio: I am a student
+- GitHub: [srishtipatil](https://github.com/srishtipatil19)
