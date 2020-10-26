@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Emrah Kalfa](https://github.com/emrahkalfaa)
+- Place: Istanbul, TURKEY
+- Bio: Android Developer
+- Github: [Emrah Kalfa](https://github.com/emrahkalfaa)
