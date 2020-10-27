@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: Bhadresh malankiya
+- Place: India
+- Bio: third year in infnormation technology
+- GitHub: [MBDevelopers](https://github.com/MB-Devlopers)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
