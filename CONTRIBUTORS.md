@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ankit Das](https://github.com/Ankit7Das)
+- Place: Assam,India
+- Bio: A student happy to code and play games.
+- GitHub: [Ankit7Das](https://github.com/Ankit7Das)
