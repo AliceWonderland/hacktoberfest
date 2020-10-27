@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [kiran](https://github.com/kiranramsingh)
+- Place: India
+- Bio: MEAN/MERN Stack
+- Github: [KiranRamSingh](https://github.com/kiranramsingh)
