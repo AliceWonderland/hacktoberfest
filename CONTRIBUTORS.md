@@ -1739,6 +1739,11 @@ Noida
 - Bio: Format atilir
 - GitHub: [Oguzcan Emegil](https://github.com/oemegil)
 
+#### Name: [Rafe Kla](https://github.com/ssynxx)
+- Place: Amuntai, South Kalimantan, Indonesia
+- Bio: Competitive IT is my passion
+- GitHub: [Rafe Kla](https://github.com/ssynxx)
+
 #### Name: [Ocean](https://github.com/ocean0212)
 - Place: Henan, China
 - Bio: Chinese food :heart_eyes:
