@@ -34,7 +34,7 @@
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
-- Place: Himachal Pradesh,India
+- Place: Himachal Pradesh ,India
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
@@ -158,11 +158,11 @@ to explore life. Also, Python and Django Developer
 #### Name: [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 - Place: London, England
 - Bio: Student, Aspiring Front-end Web Dev
-- Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
+- Github: [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 
 #### Name: [Alex Blum](https://github.com/alexblum)
  - Place: Germany
- - Bio: Webdeveloper
+ - Bio: Web developer
  - GitHub: [alexblum](https://github.com/alexblum)
 
 #### Name: [Alex Choi](https://github.com/running-cool)
@@ -303,7 +303,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Arpit Gogia](https://github.com/arpitgogia)
 - Place: Delhi, India
 - Bio: Python Developer
-- Github [Arpit Gogia](https://github.com/arpitgogia)
+- Github: [Arpit Gogia](https://github.com/arpitgogia)
 
 #### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
 - Place: India
@@ -326,9 +326,9 @@ to explore life. Also, Python and Django Developer
 - GitHub: [apcatx](https://github.com/apcatx)
 
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
-- Place:Surat,Gujarat,India.
-- Bio:In love with the WEB,from age of 5!
-- Github:[Avinash Jaiswal](https://github.com/littlestar642)
+- Place: Surat, Gujarat, India.
+- Bio: In love with the WEB, from age of 5!
+- Github: [Avinash Jaiswal](https://github.com/littlestar642)
 
 #### Name: [Ayush Agarwal](https://github.com/thisisayaush)
 - Place: Noida, India
@@ -342,7 +342,7 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Ayushman KB](https://github.com/namhsuya/)
 - Place: Calcutta, India
-- Bio: Life sciences student|Dev|Linux enthusiast
+- Bio: Life sciences student| Dev| Linux enthusiast
 - GitHub: [namhsuya](https://github.com/namhsuya/)
 
 #### Name: [Ayushverma8](https://github.com/Ayushverma8)
@@ -398,7 +398,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Branden] (https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+- GitHub: [Red BeardAZ] (https://github.com/redbeardaz)
 
 #### Name: [Brandon Fadairo](https://github.com/BFadairo)
 - Place: Columbus, Ohio
@@ -482,7 +482,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Charlie Stanton](https://github.com/shtanton)
 - Place: Southend-On-Sea, England
 - Bio: JavaScript Tinkerer, Lover of Vim
-- Github [Charlie Stanton](https://github.com/shtanton)
+- Github: [Charlie Stanton](https://github.com/shtanton)
 
 #### Name: [Chashmeet Singh](https://github.com/chashmeetsingh)
 - Place: New Delhi, India
@@ -594,7 +594,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Dalton](https://github.com/stormBandit)
  - Place: Ontario, Canada
  - Bio: Software Engineer
- - GitHun: [Dalton](https://github.com/stormBandit)
+ - Github: [Dalton](https://github.com/stormBandit)
 
 #### Name: [Damodar Lohani](https://github.com/lohanidamodar)
 - Place: Kathmandu, Nepal
@@ -987,7 +987,7 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Ipaye Alameen](https://github.com/ipaye)
 - Place: Lagos, Nigeria
-- Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
+- Bio: Computer  Engeering Undergrad | Front-end Developer | Javascript enthusiast
 - Github: [ipaye] (https://github.com/ipaye)
 
 #### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
@@ -1007,7 +1007,7 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
 - Place: Emmen, the Netherlands
-- Bio: Game design studen & Hobbyist programmer
+- Bio: Game design Student & Hobbyist programmer
 - GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
 
 #### Name: [J. Fehrman](https://github.com/jfehrman)
@@ -1038,7 +1038,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [James Henderson](https://github.com/prohunt)
 - Place: Raleigh, NC, United States
 - Bio: Inquisitive, Loves coding, also vegan
-- Github [Sravya Pullagura](https://github.com/sravya96)
+- Github: [Sravya Pullagura](https://github.com/sravya96)
 
 #### Name: [James Nuttall](https://github.com/JamesNuttall/)
 - Place: UK
@@ -1172,11 +1172,6 @@ to explore life. Also, Python and Django Developer
 - Place: New Haven, CT, USA
 - Bio: Web Developer
 - GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
-
-#### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
--Place: New Haven, CT, USA
--Bio: Web Developer
--GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
 
 #### Name: [Jonas Fabisiak](https://github.com/RenCloud)
 - Place: Hanover, Germany
@@ -1590,7 +1585,7 @@ Noida
 - GitHub: [Mikeyny](https://github.com/mikeyny)
 
 #### Name: [Michael Rodriguez](https://github.com/vinird)
-- Place: Alajuea, Alajuela, Costa Rica
+- Place: Alajuela, Alajuela, Costa Rica
 - Bio: Web dev adn graphic designer
 - GitHub: [vinird](https://github.com/vinird)
 
@@ -1792,7 +1787,7 @@ Noida
 #### Name: [Paul Schmidt](https://github.com/pschmidt88)
  - Place: Kassel, Germany
  - Bio: Software Engineer @ plentymarkets
- - Github [pschmidt88](https://github.com/pschmidt88)
+ - Github: [pschmidt88](https://github.com/pschmidt88)
 
 #### Name: [Paula Paysan](https://github.com/paulapaysan)
 - Place: Austin, TX
@@ -1887,7 +1882,7 @@ Noida
 
 #### Name: [Rafael Barbosa](https://github.com/rafaelmilanibarbosa)
 - Place: Sao Bernardo do Campo, Sao Paulo, Brazil
-- Bio: loves computer+science , Full Stack Developer
+- Bio: loves computer + science , Full Stack Developer
 - GitHub: [Ocean](https://github.com/rafaelmilanibarbosa)
 
 #### Name: [Rafael Bezerra](https://github.com/rafaelbezerra195)
@@ -1897,7 +1892,7 @@ Noida
 
 #### Name: [Rafael Lima](https://github.com/rafaelkalan)
 - Place: Belo Horizonte, Minas Gerais, Brazil
-- Bio: Youger software engineer
+- Bio: Younger software engineer
 - GitHub: [Rafael Lima](https://github.com/rafaelkalan)
 
 #### Name: [Raghu](https://github.com/FarmboyRaghu)
@@ -1911,7 +1906,7 @@ Noida
 - GitHub: [Raj Shekhar Kumar](https://github.com/rja907)
 
 #### Name: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
-- Place: Gandhinagar,Gujrat, IN
+- Place: Gandhinagar, Gujrat, IN
 - Bio: Games and music!
 - GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
@@ -1931,7 +1926,7 @@ Noida
 - GitHub: [Raymond Duckworth](https://github.com/raymondxduckworth/)
 
 #### Name: [Ren Cummings](https://github.com/nrenc027)
-- Place: Dayton,OH, USA
+- Place: Dayton, OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
 - GitHub: [Ren Cummings](https://github.com/nrenc027)
 
@@ -1941,8 +1936,8 @@ Noida
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
-- Place: New Delhi,India
-- Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
+- Place: New Delhi, India
+- Bio: Student, Open source enthusiast, GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
 
 #### Name: [Rizki Ramadhana](https://github.com/rizkiprof)
@@ -2020,7 +2015,7 @@ Noida
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
- - Github [sanjeevbitx](https://github.com/sanjeevbitx)
+ - Github: [sanjeevbitx](https://github.com/sanjeevbitx)
 
 #### Name: [Santanaraj Esguerra](https://github.com/akiyamamio16)
 - Place: San Fernando City, Pampanga, Philippines 2000
@@ -2135,7 +2130,7 @@ Noida
 #### Name: [Sravya Pullagura](https://github.com/sravya96)
 - Place: Vijayawada, Andhra Pradesh, India
 - Bio: Love learning, coding and sketching!!
-- Github [Sravya Pullagura](https://github.com/sravya96)
+- Github: [Sravya Pullagura](https://github.com/sravya96)
 
 #### Name: [Stephen Abrahim](https://github.com/lepah)
 - Place: Huntington Beach, CA
@@ -2271,7 +2266,7 @@ Noida
 
 #### Name: [V3NG](https://github.com/ianklemm)
 - Place: Germany
-- Bio: Webdeveloper, Sysadmin
+- Bio: Web developer, Sysadmin
 
 #### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
 - Place: Paris, France
@@ -2366,7 +2361,7 @@ Noida
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
-- Github [yasminzy]((https://github.com/yasminzy)
+- Github: [yasminzy]((https://github.com/yasminzy)
 
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
@@ -2427,3 +2422,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikita kumari](https://github.com/Nikita-kumari)
+     - Place: India
+     - Bio: student
+     - Github: [Nikita kumari](https://github.com/Nikita-kumari)
