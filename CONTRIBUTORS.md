@@ -1,3 +1,8 @@
+#### Name: Ashutosh Yadav
+   -Place: Aligarh, India
+   -bio: Third year B.C.A student, Galgotias University
+   -Github: [ashutosh007865](https://github.com/ashutosh007865)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
