@@ -1593,6 +1593,10 @@ Noida
 - Place: Alajuea, Alajuela, Costa Rica
 - Bio: Web dev adn graphic designer
 - GitHub: [vinird](https://github.com/vinird)
+#### Name: [Hasanga Lakdinu](https://github.com/Hasangalakdinu)
+- Place: Kegalle, Sabaragamuwa , Sri Lanka
+- Bio: I love Blogging And Coding!
+- GitHub: [Alice Chuang](https://github.com/Hasangalakdinu)
 
 #### Name: [Michael Rogers](https://github.com/widgyrogers)
 - Place: London, England
