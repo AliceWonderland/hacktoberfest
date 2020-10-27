@@ -2424,6 +2424,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Nikita kumari](https://github.com/Nikita-kumari)
-     - Place: India
-     - Bio: student
-     - Github: [Nikita kumari](https://github.com/Nikita-kumari)
+ - Place: India
+ - Bio: student
+ - Github: [Nikita kumari](https://github.com/Nikita-kumari)
