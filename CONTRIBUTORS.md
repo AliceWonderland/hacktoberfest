@@ -1,3 +1,8 @@
+### Name: Vaishnavi S
+ - Place: Bangalore, India
+ - Bio: Cs student
+ - Github: [vaishnavi-1328](https://github.com/vaishnavi-1328)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
