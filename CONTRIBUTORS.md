@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Piush Barman](https://github.com/Pijush-Beyond)
+- Place: kolkata,India
+- Bio: Web developer- Python and Javascript, React and Django
+- Github: [Piush Barman](https://github.com/Pijush-Beyond)
