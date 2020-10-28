@@ -1,3 +1,8 @@
+#### Name: Gabriel Oliveira
+ - Place: Bauru, Brazil
+ - Bio: Developer api.
+ - GitHub: [Oliveiira](https://github.com/Oliveiiraa)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
