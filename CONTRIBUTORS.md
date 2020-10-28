@@ -1,3 +1,8 @@
+#### Name: [Carly Knibutat](https://github.com/Carne6011)
+- Place: Waterloo, Ontario
+- Bio: Mechancial Engineering student from UW, Trying to learn coding :)
+- GitHub: [Carne6011](https://github.com/Carne6011)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
