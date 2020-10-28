@@ -1035,8 +1035,8 @@ to explore life. Also, Python and Django Developer
 - Bio: Student / Designer
 - GitHub: [Jakub Bačo](https://github.com/vysocina)
 
-#### Name: [JAYANT DHIRAN](https://github.com/Bazinga99-tech)
-- Place: Gujarat,India
+#### Name: [Jayant Dhiran](https://github.com/Bazinga99-tech)
+- Place: surat,Gujarat,India
 - Bio: Student / Designer
 - GitHub: [JAYANT DHIRAN](https://github.com/Bazinga99-tech)
 
