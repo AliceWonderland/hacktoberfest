@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kenan Pinto] (https://github.com/kenanspinto)
+- Place: Sri Lanka
+- Bio: Web Developer
+- Github: [Kenan Pinto] (https://github.com/kenanspinto)
