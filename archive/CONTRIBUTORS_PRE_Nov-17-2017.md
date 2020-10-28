@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Aastha Bansal](https://github.com/aastha271100)
+- Place: Delhi, India
+- Bio: Web developer and C++
+- Github: [Aastha Bansal](https://github.com/aastha271100)
+
