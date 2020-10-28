@@ -225,6 +225,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full-Stack developer, hiking, travel, art, photography
 - GitHub: [Ana Perez](https://github.com/anacperez)
 
+#### Name: [Gurkanwal Singh Kang]
+- Place: India
+- Bio: third year Computer Science Student
+- GitHub: [gurkanwal]
+
 #### Name: [Anders Jürisoo](https://github.com/ajthinking)
 - Place: Sweden
 - Bio: What happens in Git stays in Git
