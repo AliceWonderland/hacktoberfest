@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Juan Emilio Martinez](https://github.com/Juane99)
+- Place: Granada, Spain
+- Bio: Computer Engineering student 
+- Github: [Juan Emilio Martinez](https://github.com/Juane99)
