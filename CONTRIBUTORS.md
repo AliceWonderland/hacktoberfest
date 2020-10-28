@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Sairaj Kapdi] (https://github.com/SairajK19)
+- Place: India
+- Bio: CS Student and Programmer
+- Github: [SairajK19](https://github.com/SairajK19)
