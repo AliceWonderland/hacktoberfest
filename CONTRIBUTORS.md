@@ -1035,6 +1035,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student / Designer
 - GitHub: [Jakub Bačo](https://github.com/vysocina)
 
+#### Name: [JAYANT DHIRAN](https://github.com/Bazinga99-tech)
+- Place: Gujarat,India
+- Bio: Student / Designer
+- GitHub: [JAYANT DHIRAN](https://github.com/Bazinga99-tech)
+
 #### Name: [James Henderson](https://github.com/prohunt)
 - Place: Raleigh, NC, United States
 - Bio: Inquisitive, Loves coding, also vegan
