@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kashish Goel](https://github.com/kashish-goel)
+- Place: India
+- Bio: Computer Science Major and Data Science Enthusiast
+- Github: [kashish-goel](https://github.com/kashish-goel)
