@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yajush Vyas](https://github.com/geekyvyas)
+- Place: New Delhi, India
+- Bio: 1st Year B.tech Student at Chandigarh University
+- Github: [Yajush Vyas](https://github.com/geekyvyas)
