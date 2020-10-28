@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [irfi alfarez](https://github.com/irfialfarez)
+- Place: Indonesia
+- Bio: Student
+- Github: [irfi alfarez](https://github.com/irfialfarez)
