@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samir Belaroui](https://github.com/itepifanio)
+- Place: Oran, Algeria
+- Bio: Mobile developer and designer
+- Github: [Samir Belaroui](https://github.com/Samir-Belaroui)
