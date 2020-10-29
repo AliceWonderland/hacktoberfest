@@ -1,3 +1,7 @@
+#### Name: Sarthak
+ - Place: Delhi, India
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Sarthak](https://github.com/SarthakAgarwal147)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
