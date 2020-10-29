@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammed Sedef](https://github.com/muhammedsedef)
+- Place: Istanbul, Turkey
+- Bio: Computer Engineering Student
+- GitHub: [muhammedsedef](https://github.com/muhammedsedef)
