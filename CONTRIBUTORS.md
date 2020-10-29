@@ -1,3 +1,8 @@
+#### Name: Revati Singh
+ - Place: Jharkhand, India
+ - Bio: Software engineer. Graduated from BIT Sindri.
+ - GitHub: [Revati Singh](https://github.com/revatisngh588)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
