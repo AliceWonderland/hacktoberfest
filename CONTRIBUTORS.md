@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Artin Peyvasteh](https://github.com/RTeeen)
+- Place: Vancouver, Canada
+- Bio: Web developer at BCIT
+- Github: [RTeeen](https://github.com/RTeeen)
