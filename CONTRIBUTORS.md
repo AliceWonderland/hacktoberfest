@@ -63,6 +63,11 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Abhishek Raje](https://github.com/a-1043161)
+- Place: Mumbai, India
+- Bio: Computer Science student
+- GitHub: [a-1043161](https://github.com/a-1043161)
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
