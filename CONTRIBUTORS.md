@@ -1,3 +1,9 @@
+
+#### Name: [Lata Kaushik] (https://github.com/latakaushik)
+- Place: New Delhi, India
+- Bio: Engineer
+- GitHub: [latakaushik] (https://github.com/latakaushik)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
