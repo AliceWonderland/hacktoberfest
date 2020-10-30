@@ -778,6 +778,11 @@ to explore life. Also, Python and Django Developer
 - Bio: FrontEnd Developer
 - GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 
+#### Name: [Fabio Araujo](https://github.com/fabioraraujo)
+- Place: Belem, Para, Brazil
+- Bio: PhD Student at Federal University of Para
+- GitHub: [Fabio Araujo](https://github.com/fabioraraujo)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
