@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nick Ti](https://github.com/tishchenkonick)
+- Place: Vologda, Russia
+- Bio: DevOps
+- Github: [Nick Ti](https://github.com/tishchenkonick)
