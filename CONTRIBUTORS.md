@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Nikhil Wale](https://github.com/NikhilWale)
--Place: Mumbai, India
--Bio: Student
--Github:[Nikhil Wale](https://github.com/NikhilWale)
+- Place: Mumbai, India
+- Bio: Student
+- Github: [Nikhil Wale](https://github.com/NikhilWale)
