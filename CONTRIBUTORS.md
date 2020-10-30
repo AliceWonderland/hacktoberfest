@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Sneha Gavit](https://github.com/gavitsneha)
+- Place: India
+- Bio: Post Graduate student
+- GitHub: [Sneha Gavit](https://github.com/gavitsneha)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
