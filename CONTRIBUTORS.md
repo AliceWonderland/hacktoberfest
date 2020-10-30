@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanjay Raju](https://github.com/sanjjayrj)
+- Place: Kattappana, Idukki, Kerala, India
+- Bio: AI engineering student
+- Github: [sanjjayrj](https://github.com/sanjjayrj)
