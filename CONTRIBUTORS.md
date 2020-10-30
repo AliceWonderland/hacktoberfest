@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lílian Teixeira](https://github.com/lilianhteixeira)
+- Place: Paraíba, Brazil 
+- Bio: Developer Python  
+- Github: [lilianhteixeira](https://github.com/lilianhteixeira)
