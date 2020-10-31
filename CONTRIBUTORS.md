@@ -2429,7 +2429,7 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Aneeqa Rajput](https://github.com/Aneeqa-Rajput)
-- Place: Hyderabad, Pakistan
+- Place: Pakistan
 - Bio: Software Engineering Student
 - Github: [Aneeqa-Rajput](https://github.com/Aneeqa-Rajput)
 
