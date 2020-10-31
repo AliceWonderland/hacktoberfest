@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: DianaBabenko (https://github.com/DianaBabenko)
+ - Place: Cherkasy, Ukraine
+ - Bio: Software engineer. I am a student at Cherkasy State Technological University
+ - GitHub: (https://github.com/DianaBabenko)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
