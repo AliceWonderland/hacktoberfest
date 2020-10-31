@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [vrittigandhi](https://github.com/vrittigandhi)
+- Place:Delhi,India
+- Bio: Data Science Student
+- Github: [vrittigandhi](https://github.com/vrittigandhi)
+
