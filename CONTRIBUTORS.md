@@ -1719,6 +1719,11 @@ Noida
 - Bio: Web Developer
 - GitHub: [SmilesandCode](https://github.com/smilesandcode)
 
+#### Name: [Nishant Nirav](https://github.com/nnirav21)
+-Place: Arrah,India
+-Bio: Developer
+-Github: [nnirav21](https://github.com/nnirav21)
+
 #### Name: [Nishant Rai](https://github.com/iamnishantrai)
 - Place: Noida,India
 - Bio: Student
