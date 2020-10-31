@@ -1,0 +1,5 @@
+// LANGUAGE: Python
+// AUTHOR: James Kirkby
+// GITHUB: https://github.com/JamesKirkby-1
+
+print("Hello World!")
