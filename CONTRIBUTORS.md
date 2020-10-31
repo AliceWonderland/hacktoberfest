@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayush Saluja](https://github.com/ayush571995)
+- Place: India
+- Bio: Backend Developer Java, Go
+- Github: [Ayush Saluja](https://github.com/ayush571995)
