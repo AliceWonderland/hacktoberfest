@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sharan Iyer](https://github.com/sharan165)
+- Place: West Haven, CT, USA
+- Bio: Data Science Grad Student 
+- Github: [Sharan Iyer](https://github.com/sharan165)
