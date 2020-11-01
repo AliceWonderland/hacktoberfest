@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bruna Both](https://github.com/bboth)
+- Place: Lajeado, Brazil
+- Bio: Lifelong learner, IT lover
+- Github: [bboth](https://github.com/bboth)
