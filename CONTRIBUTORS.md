@@ -1,3 +1,9 @@
+#### Name: Zeeshan
+ - Place: Bridgewater NJ, USA
+ - Bio: Programmer + Artist
+ - GitHub: [Zeeshan Ali](https://github.com/zeesh-ali)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
