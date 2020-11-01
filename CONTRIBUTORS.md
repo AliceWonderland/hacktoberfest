@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ramona Saintanre](https://github.com/Ramona-Saintandre)
+- Place: Grand Rapids, Michigan 
+- Bio: SDET - Junior QA working on moving to DevOps
+- Github: [Ramona Saintandre](https://github.com/Ramona-Saintandre)
