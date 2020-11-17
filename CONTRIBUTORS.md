@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kshitij Dhawan](https://github.com/KDTEC)
+- Place: Agra, India
+- Bio: Undergrad at VIT
+- Github: [KDTEC](https://github.com/KDTEC)
