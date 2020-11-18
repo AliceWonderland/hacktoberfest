@@ -1,3 +1,7 @@
+#### Name: [Djibril NDIAYE] (https://github.com/abousalmane/)
+  - Place: Dakar, Sénégal
+  - Bio: Web Developer
+  - GitHub: [abousalmane] (https://github.com/abousalmane/)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
