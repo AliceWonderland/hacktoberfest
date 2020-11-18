@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jamil Shaikh](https://github.com/jamil-shaikh)
+ - Place: Mumbai, India
+ - Bio: Information Technology post graduate student
+ - GitHub: [jamil-shaikh](https://github.com/jamil-shaikh)
+
