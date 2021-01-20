@@ -2423,6 +2423,16 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Khotibul Umam] (https://github.com/umaams)
+- Place: Mojokerto, Indonesia
+- Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
+- GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Gökhan Gurbetoğlu](https://github.com/ggurbet)
+- Place: Ankara, Turkey
+- Bio: Developer, Open Source enthusiast, localizer, hiker, biker, and some other.
+- GitHub: [ggurbet](https://github.com/ggurbet)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
