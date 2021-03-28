@@ -14,8 +14,8 @@ Interests
   Sketching
   
  Languages
-  English
-  Hindi
+  Java
+  C
   
   Profile Link
   https://github.com/KholoodS
