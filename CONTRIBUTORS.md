@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [mudu sugal](https://github.com/mudu93)
+- place: Turkey
+- Bio: frontend developer
+- Github: [mudu sugal](https://github.com/mudu93)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
