@@ -2423,6 +2423,12 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+
+#### Name: [Adrian Zuchowski](https://github.com/Zuku271)
+- Place: Bukowno, Malopolska, Poland
+- Bio: Student
+- GitHub: [Zuku271](https://github.com/Zuku271)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
