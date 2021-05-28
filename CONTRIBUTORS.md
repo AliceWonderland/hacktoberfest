@@ -1,3 +1,8 @@
+#### Name: Yuvarajan
+- Place: Pondicherry, India
+- Bio: Sophomore CSE
+- GitHub: [Yuvi](https://github.com/yuvarajanmuralitharan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
