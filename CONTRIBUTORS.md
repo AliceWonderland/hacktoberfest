@@ -2,6 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Samprati Simran https://github.com/SampratiSimran
+- Place: Bhubaneswar, Odisha, India
+- Bio: Tech enthusiast
+- GitHub: [SampratiSimran] https://github.com/SampratiSimran
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
