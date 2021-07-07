@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Hafidz](https://github.com/ciazhar)
+- Place: Semarang, Indonesia
+- Bio: Backend Developer Java
+- Github: [ciazhar](https://github.com/ciazhar)
