@@ -1,3 +1,8 @@
+#### Name: [Johnnycus](https://github.com/Johnnycus)
+ - Place: Karaganda, Kazakhstan
+ - Bio: Full Stack JavaScript Developer
+ - GitHub: [Johnnycus](https://github.com/Johnnycus)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
