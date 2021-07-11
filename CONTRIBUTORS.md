@@ -1,3 +1,8 @@
+#### Name: [AYUSHI GUPTA](https://github.com/ayushi790)
+- Place: UP, India
+- Bio: Full stack web developer. Open source beginner
+- GitHub: [AYUSHI GUPTA](https://github.com/ayushi790)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
