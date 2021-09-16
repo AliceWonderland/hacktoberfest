@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kholood Sajid](https://github.com/KholoodS/KholoodS)
+- Place:Pune,India
+- Bio: Student intereseted in gaming and contributions
+- Github:[KholoodS]https://github.com/KholoodS/KholoodS
