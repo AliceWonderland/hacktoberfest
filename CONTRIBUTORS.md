@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Shashank Srivastava](https://github.com/shashank1503-cipher)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Full Stack Developer who loves Python
+- GitHub: [shashank1503-cipher](https://github.com/shashank1503-cipher)
