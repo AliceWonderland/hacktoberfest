@@ -1,4 +1,4 @@
-#### Name: [MIDAS](https://github.com/KiNGxMiDAS)
+#### Name: [MIDAS](https://www.linkedin.com/in/midasoden/)
  - Place: * m a r s *
  - Bio: Computer Science student, soon to be graduate (hopefully)
  - GitHub: [KiNGxMiDAS](https://github.com/KiNGxMiDAS)
