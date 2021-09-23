@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Yamini](https://github.com/Yamini09-code)
+- Place: Chandigarh, India
+- Bio: Self learner 
+- GitHub: [Yamini09-code](https://github.com/Yamini09-code)
