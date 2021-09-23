@@ -1,7 +1,7 @@
-#### Name: [MIDAS]
-  >> Place: * m a r s *
-  >> Bio: Computer Science student, soon to be graduate (hopefully)
-  >> GitHub: [KiNGxMiDAS](https://github.com/KiNGxMiDAS)
+#### Name: [MIDAS](https://github.com/KiNGxMiDAS)
+ - Place: * m a r s *
+ - Bio: Computer Science student, soon to be graduate (hopefully)
+ - GitHub: [KiNGxMiDAS](https://github.com/KiNGxMiDAS)
 
 #### Name: Vallenain
  - Place: Lyon, France
