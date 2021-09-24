@@ -1120,6 +1120,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full-Stack Development, Machine Learning and Having Fun!.
 - GitHub: [Jibin Thomas Philipose](https://github.com/JIBIN-P)
 
+#### Name: [Jitendra Kumar Mishra](https://github.com/Jitendra227)
+- Place: Bangalore, India
+- Bio: Android Developer, 3rd year CSE undergrad
+- GitHub: [Jitendra227](https://github.com/Jitendra227)
+
 #### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
 - Place: Mauritius
 - Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
