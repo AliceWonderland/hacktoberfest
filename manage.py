@@ -25,7 +25,7 @@ def format_contributor(contrib):
     contrib = contrib.replace('Name: [ ', name_str)
     contrib= '#### ' + contrib+ '\n\n'
     return contrib
-
+'''we are happy to contribute in this feast'''
 
 # Remove trailing whitespaces
 # Make the file ready for sorting
