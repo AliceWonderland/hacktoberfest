@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [Ayush Chaudhary](https://github.com/YushChaudhary)
+- Place: Agra, Uttar Pradesh, India
+- Bio: Student Developer
+- GitHub: [Ayush Chaudhary](https://github.com/YushChaudhary)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
