@@ -1,3 +1,7 @@
+#### Name: [Harmanpreet singh](https://github.com/harmanpreet7916)
+ - Place: Himachal,India 
+ - Bio: cse student at NIT Hamirpur. 
+ - GitHub: [harmanpreet7916](https://github.com/harmanpreet7916)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
