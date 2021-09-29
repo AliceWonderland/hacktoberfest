@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Khushi Shukla](https://github.com/Khushi-Shukla)
+- Place: India
+- Bio: Computer Science Engineering Student
+- GitHub: [Khushi-Shukla](https://github.com/Khushi-Shukla)
