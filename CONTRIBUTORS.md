@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Shah](https://github.com/Harsh-0986)
+- Place: Surat, Gujurat, India
+- Bio: Full stack web developer and cross platform app developer
+- GitHub: [Harsh-0986](https://github.com/Harsh-0986)
