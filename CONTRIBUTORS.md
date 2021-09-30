@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ernando Braga](https://github.com/zarathosdeath)
+- Place: Brasília, Brazil
+- Bio: Web developer and Integration Engineer
+- Github: [ZarathosDeath](https://github.com/zarathosdeath)
