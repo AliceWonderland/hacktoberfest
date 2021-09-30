@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajarshi][https://github.com/rajarshi1902]
+- Place: Guwahati, India
+- Bio: machine learning and data science
+- Github: [Rajarshi Bhattacharjee][https://github.com/rajarshi1902]
