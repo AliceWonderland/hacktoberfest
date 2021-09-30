@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ishika Agarwal](https://github.com/ishika22)
+- Place: Kolkata, India
+- Bio: Software Developer
+- Github: [Ishika Agarwal](https://github.com/ishika22)
