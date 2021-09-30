@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saloni Jain](https://github.com/Salonee-Jain)
+- Place: Mumbai, Maharashtra, India
+- Bio: Web Developer and Python Developer
+- GitHub: [Salonee-Jain](https://github.com/Salonee-Jain)
+
