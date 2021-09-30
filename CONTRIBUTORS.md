@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shravya](https://github.com/ShravyaMallya)
+- Place: India
+- Bio: Engineering Student
+- Github: [ShravyaMallya](https://github.com/ShravyaMallya)
