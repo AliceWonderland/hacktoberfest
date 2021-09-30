@@ -10,6 +10,7 @@ python3 manage.py
 
 PS: DO NOT USE PYTHON 2
 """
+#test
 import re
 
 def format_contributor(contrib):
