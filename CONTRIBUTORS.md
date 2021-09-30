@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lukas Joosten](https://github.com/Lukasjoosten)
+- Place: Balen, Belgium
+- Bio: Student Applied Computer Science
+- Github: [Lukas Joosten](https://github.com/Lukasjoosten)
