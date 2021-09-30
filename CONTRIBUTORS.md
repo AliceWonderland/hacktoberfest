@@ -1,3 +1,8 @@
+#### Name: Rudra Karmakar
+ - Place: India
+ - Bio: Software engineer.
+ - GitHub: [imrudrakarmakar](https://github.com/imrudrakarmakar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
