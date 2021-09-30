@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sumit Banwakade](https://github.com/Sumit4482)
+- Place:Maharastra,india
+- Bio:Flutter Dev
+- Github: [sumit4482](https://github.com/Sumit4482)
