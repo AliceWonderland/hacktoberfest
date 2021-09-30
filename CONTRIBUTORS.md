@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ASHU SHARMA](https://github.com/ashusharma-cs)
+- Place: Kamloops, British Columbia, Canada
+- Bio: Web developer and Ar developer
+- GitHub: [ashusharma-cs](https://github.com/ashusharma-cs)
