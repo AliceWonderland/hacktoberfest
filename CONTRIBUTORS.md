@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+    
+#### Name: [Risal Walangadi](https://github.com/izhal27)
+- Place: Gorontalo, Indonesia
+- Bio: IT Enthusiast 
+- GitHub: [izhal27](https://github.com/izhal27)
+
