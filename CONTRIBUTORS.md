@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arpit Lekhwar](https://github.com/ArpitLekhwar)
+- Place: India
+- Bio: Python Developer
+- Github: [Arpit Lekhwar](https://github.com/ArpitLekhwar)
