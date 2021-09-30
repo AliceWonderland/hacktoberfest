@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubhi Paul](https://github.com/Shubhi-Paul)
+- Place: kolkata,India
+- Bio: Undergraduate
+- Github: [Shubhi-Paul](https://github.com/Shubhi-Paul)
