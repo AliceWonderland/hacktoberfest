@@ -1,3 +1,8 @@
+#### Name: [Navas Sherif I](https://github.com/navassherif98)
+ - Place: Kerala, India
+ - Bio: Associate Software Engineer
+ - GitHub: [Navas](https://github.com/navassherif98)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
