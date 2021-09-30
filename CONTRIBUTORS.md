@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dilakshan Muniyappan](https://github.com/Dilaxn)
+- Place: Matale, Sri Lanka
+- Bio: Machine Learning Engineer intern / IT undergraduate University of Moratuwa
+- GitHub: [Dilaxn](https://github.com/Dilaxn)
