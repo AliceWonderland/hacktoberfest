@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: Vallenain
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
@@ -47,6 +52,11 @@
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
+
+#### Name: [Abhay Gawade](https://github.com/abhaygawade)
+- Place: Pune, Maharashtra, India
+- Bio: Technology enthusiastic!
+- GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
@@ -72,6 +82,13 @@
 - Place: Latur, India
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
+
+#### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
+- Place: Pune, India
+- Bio: Metalhead law student who loves hardware and code
+- GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
+
+
 
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
@@ -169,6 +186,34 @@ to explore life. Also, Python and Django Developer
  - Place: Athens, GA
  - Bio: Student
  - Github: [running-cool](https://github.com/running-cool)
+
+
+#### Name: [Aimee Tacchi](https://github.com/darkxangel84)
+- Place: England, UK
+- Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
+- GitHub: [darkxangel84](https://github.com/darkxangel84)
+
+#### Name: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
+- Place: Gurugram, India
+- Bio: Learner, Coder,  INFJ, multipotentialite and a person who loves
+to explore life. Also, Python and Django Developer
+- Github: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
+- Website: [Introverted Geek](http://introvertedgeek.com)
+
+#### Name: [Aitor Alonso](https://github.com/tairosonloa)
+- Place: Madrid, Spain
+- Bio: Computer Science and Engineering BSc student at Carlos III University of Madrid
+- GitHub: [Aitor Alonso](https://github.com/tairosonloa)
+
+#### Name: [Akani] (https://github.com/akanijade/)
+- Place: Jakarta, Indonesia
+- Bio: Student
+- GitHub: [akanijade] (https://github.com/akanijade/)
+
+#### Name: [Akash Goel] (https://github.com/akashgoel1197)
+- Place: India
+- Bio: Gamer
+- Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
 #### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
@@ -434,6 +479,27 @@ to explore life. Also, Python and Django Developer
 - Place: USA
 - Bio: Engineer
 - GitHub: [bwigianto](https://github.com/bwigianto)
+
+
+#### Name: [Alex Choi](https://github.com/running-cool)
+- Place: Athens, GA
+- Bio: Student
+- Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Alexander Miller](https://github.com/allesmi)
+- Place: Salzburg, Austria
+- Bio: Student/Web Developer
+- GitHub: [allesmi](https://github.com/allesmi)
+
+#### Name: [Alexander Pfaff](https://github.com/apfaff)
+ - Place: Cologne, Germany
+ - Bio: Web Developer
+ - GitHub: [apfaff](https://github.com/apfaff)
+
+#### Name: [Alexander Voigt](https://github.com/alexandvoigt)
+- Place: San Francisco, CA, USA
+- Bio: Software Engineer
+- GitHub: [Alexander Voigt](https://github.com/alexandvoigt)
 
 #### Name: [Bryen Vieira](https://www.linkedin.com/in/bryen95/)
 - Place: London, UK
