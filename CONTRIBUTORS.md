@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Swati Gupta](https://github.com/Swatigupta-droid)
+- Place: Jamshedpur,Jharkhand,India
+- Bio: Front end Developer
+- Github: [Swati Gupta](https://github.com/Swatigupta-droid)
+ 
