@@ -1,0 +1,6 @@
+#hello world in ruby
+#ark agrawal
+#hacktoberfest2021
+
+puts "Hello World"
+output=Hello world
