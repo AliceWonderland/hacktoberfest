@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Cody](https://github.com/cdvalley)
+- Place: California
+- Bio: Developer
+- Github: [cdvalley](https://github.com/cdvalley)
