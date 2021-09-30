@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ - 
+#### Name: Harsh Gandhi
+ - Place: Gujarat India
+ - Bio: student. Graduated from INSA Lyon.
+ - GitHub: [Harsh2801](https://github.com/Harsh2801)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
