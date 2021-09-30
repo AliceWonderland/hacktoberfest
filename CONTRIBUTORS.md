@@ -2427,7 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
+- 
 #### Name: [Divyansh Sahu](https://github.com/div-sahu55)
 - Place: Ranchi, Jharkhand, India
 - Bio: I like to solve coding problems.
