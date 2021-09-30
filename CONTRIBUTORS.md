@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kumar Rishab](https://github.com/rishab0902)
+- Place: Dhanbad,Jharkhand,Insia
+- Bio: Android Develepor and Competitive programming
+- Github: [Kumar Rishab](https://github.com/rishab0902)
