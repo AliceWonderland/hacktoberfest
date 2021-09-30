@@ -1,3 +1,8 @@
+#### Name: [Prince Roy](https://github.com/iprinceroyy)
+- Place: Bhubaneswar, Odisha, India
+- Bio: Open Source Software Contributor
+- GitHub: [Prince Roy](https://github.com/iprinceroyy)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
