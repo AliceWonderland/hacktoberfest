@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Kumar Rishab](https://github.com/rishab0902)
-- Place: Dhanbad,Jharkhand,Insia
+- Place: Dhanbad,Jharkhand,India
 - Bio: Android Develepor and Competitive programming
 - Github: [Kumar Rishab](https://github.com/rishab0902)
