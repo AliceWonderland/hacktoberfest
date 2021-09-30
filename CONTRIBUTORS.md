@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Atul Narayan](https://github.com/atulnarayan16)
+- Place: New Delhi, Delhi, India
+- Bio: Computer Science Student 
+- GitHub: [atulnarayan16](https://github.com/atulnarayan16)
