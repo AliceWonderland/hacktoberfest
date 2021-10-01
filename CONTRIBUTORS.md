@@ -1,3 +1,7 @@
+#### Name: Sanat-Jha
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [Sanat-Jha](https://github.com/Hacker-SJ-1)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
