@@ -1769,6 +1769,11 @@ Noida
 - Bio: Computer Science student at Puc-Mg ,Music lover
 - GitHub: [OttoWBitt] (https://github.com/OttoWBitt)
 
+#### Name: [ChSotiriou](https://github.com/ChSotiriou)
+- Place: Nottingham, UK
+- Bio: Electronics & Embedded Systems / Cybersecurity / CTF Player / [www.csotiriou.com](https://www.csotiriou.com)
+- GitHub: [ChSotiriou] (https://github.com/ChSotiriou)
+
 #### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
 - Place: Edmond, OK, United States
 - Bio: Programmer for a high school robotics team
