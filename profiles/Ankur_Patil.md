@@ -1,14 +1,22 @@
-<div align="center">                                          
- <h2>Hi there!, I'm <a href="http://itsankur.tech/" target="_blank">Ankur</a> <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif"></h2>
-<img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
-</div>
- 
-[![Website](https://img.shields.io/website?label=itsankur.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://itsankur.tech/)
+# Ankur Patil
 
-## I'm a Developer, Entrepreneur, Investor, Designer and Programmer!!!
-- 💬 self-taught coder
-- 📙 student at Indian Institute of Technology, BHU, Varanasi
-- 🌱 learning Django. REST API.
-- 🔭 interested in web-development, open-source, tech
-- 🖥 develops websites. back-end works.
-- 🧩 likes cycling. skateboarding. football. and webdev
+### Location
+Pune, Maharashtra, India
+
+### Academics
+2nd year Mathematics and Cumputing undergrad at IIT (BHU) Varanasi
+
+### Interests
+- Web-development
+- open-source
+- tech
+- football
+
+#### Development
+- Created REST API for managing daily todo tasks!
+
+### Projects
+- [Google-Classroom-Clone](https://github.com/ankur12-1610/Google-Classroom-Clone): Google Classroom clone made with React and Django Rest Framework.
+
+### Profile Link
+[ankur12-1610](https://github.com/ankur12-1610)
