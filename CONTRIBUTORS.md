@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name:[Sumit](https://github.com/Ammyy9908)
+- Place:Bangalore,India
+- Bio: MERN Stack Developer
+- Github:[Ammyy9908](https://github.com/Ammyy9908)
