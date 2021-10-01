@@ -1,3 +1,8 @@
+#### Name: Shubham bawankar
+ - Place: Mumbai, India
+ - Bio: Student At University Studying Computer Science
+ - GitHub: [Shubham bawankar](https://github.com/Shubham56-droid)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
