@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Siddhant Sonawane
+ - Place: Maharashtra,India
+ - Bio: Devloper(Python)
+ - GitHub: [sidson1](https://github.com/sidson1)
