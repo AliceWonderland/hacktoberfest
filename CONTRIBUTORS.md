@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rahul Biswas](https://github.com/rahulbiswas12)
+- Place: Kolkata,India
+- Bio: Web developer 
+- Github: [Rahul Biswas](https://github.com/rahulbiswas12)
