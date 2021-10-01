@@ -1,0 +1,338 @@
+* [33mf43e24f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m addition new contributors in hacktoberfest
+* [33m62c49ba[m Update README.md
+* [33mcdc6f11[m readme update
+* [33m4f2829c[m update readme
+* [33m988efb0[m FIXED CONTRIBUTORS FILE
+* [33m001cb42[m FIXED CONTRIBUTERS FILE
+* [33m1fbc4f6[m cleaning up files and folders
+[31m|[m * [33m7812e13[m[33m ([m[1;31morigin/sorted[m[33m)[m Enable travis
+[31m|[m * [33maf3cdbe[m remove warning
+[31m|[m * [33m735f835[m Sorted and added sort program from artureiji
+[31m|[m[31m/[m  
+*   [33m4237eb2[m Merge pull request #2806 from Lakshit1996/patch-1
+[33m|[m[34m\[m  
+[33m|[m * [33m0ec21f0[m Create Lak.md
+* [34m|[m   [33mb3a2ec7[m Merge pull request #2804 from Anujraval24/master
+[35m|[m[36m\[m [34m\[m  
+[35m|[m * [34m|[m [33mfb433ad[m Create Anuj_Raval.md
+* [36m|[m [34m|[m   [33m3f18387[m Merge pull request #2810 from bhardwajishan/patch-3
+[1;31m|[m[1;32m\[m [36m\[m [34m\[m  
+[1;31m|[m * [36m|[m [34m|[m [33md21efa8[m Ishan_Bhardwaj.md
+[1;31m|[m [34m|[m [36m|[m[34m/[m  
+[1;31m|[m [34m|[m[34m/[m[36m|[m   
+* [34m|[m [36m|[m   [33mbdf7217[m Merge pull request #2819 from G4dh4r/patch-2
+[1;33m|[m[1;34m\[m [34m\[m [36m\[m  
+[1;33m|[m * [34m|[m [36m|[m [33mcf9e873[m Create Claas_Tepe.md
+* [1;34m|[m [34m|[m [36m|[m   [33mb31d719[m Merge pull request #2820 from G4dh4r/patch-3
+[1;35m|[m[1;36m\[m [1;34m\[m [34m\[m [36m\[m  
+[1;35m|[m * [1;34m|[m [34m|[m [36m|[m [33md3aea64[m Create hello_world_g4dh4r.js
+[1;35m|[m[1;35m/[m [1;34m/[m [34m/[m [36m/[m  
+* [1;34m|[m [34m|[m [36m|[m   [33mafef1a8[m Merge pull request #2807 from Lakshit1996/patch-2
+[1;34m|[m[32m\[m [1;34m\[m [34m\[m [36m\[m  
+[1;34m|[m [32m|[m[1;34m/[m [34m/[m [36m/[m  
+[1;34m|[m[1;34m/[m[32m|[m [34m|[m [36m|[m   
+[1;34m|[m * [34m|[m [36m|[m [33m80bd7c9[m Update C++.cpp
+[1;34m|[m [34m|[m[34m/[m [36m/[m  
+* [34m|[m [36m|[m   [33m9e4a05b[m Merge pull request #2746 from RN0311/add-rashmi-nagpal
+[34m|[m[34m\[m [34m\[m [36m\[m  
+[34m|[m [34m|[m[34m/[m [36m/[m  
+[34m|[m[34m/[m[34m|[m [36m|[m   
+[34m|[m * [36m|[m [33mb4964cc[m My first commit to OS!
+[34m|[m * [36m|[m [33m41fb63d[m Add Rashmi Nagpal for hacktoberfest
+* [34m|[m [36m|[m   [33md3798d7[m Merge pull request #2725 from PratesM/patch-2
+[35m|[m[36m\[m [34m\[m [36m\[m  
+[35m|[m * [34m|[m [36m|[m [33mbe1f0f1[m Create Miguel Prates
+* [36m|[m [34m|[m [36m|[m   [33mda85936[m Merge pull request #2733 from jcoulter/master
+[1;31m|[m[1;32m\[m [36m\[m [34m\[m [36m\[m  
+[1;31m|[m * [36m|[m [34m|[m [36m|[m [33ma72b006[m Sample ruby script
+[1;31m|[m * [36m|[m [34m|[m [36m|[m [33meb77c83[m Adding a profile
+* [1;32m|[m [36m|[m [34m|[m [36m|[m   [33m5d18823[m Merge pull request #2735 from supermansi/master
+[1;33m|[m[1;34m\[m [1;32m\[m [36m\[m [34m\[m [36m\[m  
+[1;33m|[m * [1;32m|[m [36m|[m [34m|[m [36m|[m [33ma34ec41[m added helloworld in Borland Pascal
+[1;33m|[m [1;32m|[m[1;32m/[m [36m/[m [34m/[m [36m/[m  
+* [1;32m|[m [36m|[m [34m|[m [36m|[m   [33m8038750[m Merge pull request #2736 from willianfs/master
+[1;35m|[m[1;36m\[m [1;32m\[m [36m\[m [34m\[m [36m\[m  
+[1;35m|[m * [1;32m|[m [36m|[m [34m|[m [36m|[m [33m48a8e1b[m Add script
+[1;35m|[m [1;32m|[m[1;32m/[m [36m/[m [34m/[m [36m/[m  
+* [1;32m|[m [36m|[m [34m|[m [36m|[m   [33mf71c709[m Merge pull request #2731 from JonathanDeLeon/master
+[1;32m|[m[32m\[m [1;32m\[m [36m\[m [34m\[m [36m\[m  
+[1;32m|[m [32m|[m[1;32m/[m [36m/[m [34m/[m [36m/[m  
+[1;32m|[m[1;32m/[m[32m|[m [36m|[m [34m|[m [36m|[m   
+[1;32m|[m * [36m|[m [34m|[m [36m|[m [33m3f141c4[m Create Jonathan_DeLeon.md
+[1;32m|[m[1;32m/[m [36m/[m [34m/[m [36m/[m  
+* [36m|[m [34m|[m [36m|[m   [33m89435d5[m Merge pull request #2721 from arjunsinghy96/dupli
+[36m|[m[34m\[m [36m\[m [34m\[m [36m\[m  
+[36m|[m [34m|[m[36m/[m [34m/[m [36m/[m  
+[36m|[m[36m/[m[34m|[m [34m|[m [36m|[m   
+[36m|[m * [34m|[m [36m|[m [33mf642e02[m manage.py: More sorting optimization
+[36m|[m[36m/[m [34m/[m [36m/[m  
+* [34m|[m [36m|[m   [33me49cbea[m Merge pull request #2691 from AzzouN/HelloInC
+[35m|[m[36m\[m [34m\[m [36m\[m  
+[35m|[m * [34m|[m [36m|[m [33m46d3ed8[m printing Hello World! in c language
+* [36m|[m [34m|[m [36m|[m   [33mc010150[m Merge pull request #2700 from sahil2598/master
+[1;31m|[m[1;32m\[m [36m\[m [34m\[m [36m\[m  
+[1;31m|[m * [36m|[m [34m|[m [36m|[m [33m90ece4d[m Create SahilNagpal.md
+[1;31m|[m * [36m|[m [34m|[m [36m|[m [33mfd2467e[m Rename Hello_World_sahil2598.java to scripts/Hello_World_sahil2598.java
+[1;31m|[m * [36m|[m [34m|[m [36m|[m [33m6139d03[m Add files via upload
+* [1;32m|[m [36m|[m [34m|[m [36m|[m   [33medccc0a[m Merge pull request #2680 from arjunsinghy96/manage_script
+[1;32m|[m[1;34m\[m [1;32m\[m [36m\[m [34m\[m [36m\[m  
+[1;32m|[m [1;34m|[m[1;32m/[m [36m/[m [34m/[m [36m/[m  
+[1;32m|[m[1;32m/[m[1;34m|[m [36m|[m [34m|[m [36m|[m   
+[1;32m|[m * [36m|[m [34m|[m [36m|[m [33mf76b18c[m Add manage.py
+[1;32m|[m[1;32m/[m [36m/[m [34m/[m [36m/[m  
+* [36m|[m [34m|[m [36m|[m   [33mabbe067[m Merge pull request #2682 from djfahringer/patch-1
+[1;35m|[m[1;36m\[m [36m\[m [34m\[m [36m\[m  
+[1;35m|[m * [36m|[m [34m|[m [36m|[m [33md0e2412[m Created hello world in javascript
+[1;35m|[m [36m|[m[36m/[m [34m/[m [36m/[m  
+* [36m|[m [34m|[m [36m|[m   [33m8368075[m Merge pull request #2688 from aarushi15002/patch-1
+[31m|[m[32m\[m [36m\[m [34m\[m [36m\[m  
+[31m|[m * [36m|[m [34m|[m [36m|[m [33mbe07d75[m Hello_world python2
+[31m|[m [36m|[m[36m/[m [34m/[m [36m/[m  
+* [36m|[m [34m|[m [36m|[m   [33mb84b5f6[m Merge pull request #2672 from arjunsinghy96/arjunsinghy96/sort
+[36m|[m[34m\[m [36m\[m [34m\[m [36m\[m  
+[36m|[m [34m|[m[36m/[m [34m/[m [36m/[m  
+[36m|[m[36m/[m[34m|[m [34m|[m [36m|[m   
+[36m|[m * [34m|[m [36m|[m [33m5df414b[m Sort CONTRIBUTORS.md
+[36m|[m [34m|[m[34m/[m [36m/[m  
+* [34m|[m [36m|[m   [33m840abba[m Merge pull request #2658 from Baimaikp/patch-1
+[35m|[m[36m\[m [34m\[m [36m\[m  
+[35m|[m * [34m|[m [36m|[m [33m390af71[m Create Hello.Swift
+[35m|[m [34m|[m[34m/[m [36m/[m  
+* [34m|[m [36m|[m   [33mabaa059[m Merge pull request #607 from ElForastero/master
+[34m|[m[1;32m\[m [34m\[m [36m\[m  
+[34m|[m [1;32m|[m[34m/[m [36m/[m  
+[34m|[m[34m/[m[1;32m|[m [36m|[m   
+[34m|[m * [36m|[m [33m3ed5df9[m Update hello_world.sql
+[34m|[m * [36m|[m [33m6732fc3[m Update hello_world.sql
+[34m|[m * [36m|[m [33m37144f7[m Added hello world SQL script
+* [1;32m|[m [36m|[m   [33m150ff54[m Merge pull request #417 from suryatejreddy/ProfilePage
+[1;33m|[m[1;34m\[m [1;32m\[m [36m\[m  
+[1;33m|[m * [1;32m|[m [36m|[m [33md35ebd2[m created a profile page
+* [1;34m|[m [1;32m|[m [36m|[m   [33mef88c98[m Merge pull request #2627 from riverm4n/patch-3
+[1;35m|[m[1;36m\[m [1;34m\[m [1;32m\[m [36m\[m  
+[1;35m|[m * [1;34m|[m [1;32m|[m [36m|[m [33m2dcf081[m Create HelloWorld_riverm4n.c
+* [1;36m|[m [1;34m|[m [1;32m|[m [36m|[m   [33mf584ede[m Merge pull request #2629 from Anandinha/patch-3
+[31m|[m[32m\[m [1;36m\[m [1;34m\[m [1;32m\[m [36m\[m  
+[31m|[m * [1;36m|[m [1;34m|[m [1;32m|[m [36m|[m [33m0d190d9[m Create HelloWorldAnandinha.py
+[31m|[m [1;36m|[m[1;36m/[m [1;34m/[m [1;32m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [1;32m|[m [36m|[m   [33m8b0d641[m Merge pull request #2630 from samarthsehgal97/newb
+[1;36m|[m[34m\[m [1;36m\[m [1;34m\[m [1;32m\[m [36m\[m  
+[1;36m|[m [34m|[m[1;36m/[m [1;34m/[m [1;32m/[m [36m/[m  
+[1;36m|[m[1;36m/[m[34m|[m [1;34m|[m [1;32m|[m [36m|[m   
+[1;36m|[m * [1;34m|[m [1;32m|[m [36m|[m [33m2a447c3[m Added hello
+[1;36m|[m[1;36m/[m [1;34m/[m [1;32m/[m [36m/[m  
+* [1;34m|[m [1;32m|[m [36m|[m   [33m7038ba3[m Merge pull request #534 from tiagorlampert/master
+[35m|[m[36m\[m [1;34m\[m [1;32m\[m [36m\[m  
+[35m|[m * [1;34m\[m [1;32m\[m [36m\[m   [33m8dab22e[m Merge branch 'master' into master
+[35m|[m [1;31m|[m[35m\[m [1;34m\[m [1;32m\[m [36m\[m  
+[35m|[m [1;31m|[m[35m/[m [1;34m/[m [1;32m/[m [36m/[m  
+[35m|[m[35m/[m[1;31m|[m [1;34m|[m [1;32m|[m [36m|[m   
+* [1;31m|[m [1;34m|[m [1;32m|[m [36m|[m   [33m62292ca[m Merge pull request #584 from faibz/hacktoberfest-script
+[1;33m|[m[1;34m\[m [1;31m\[m [1;34m\[m [1;32m\[m [36m\[m  
+[1;33m|[m * [1;31m|[m [1;34m|[m [1;32m|[m [36m|[m [33md6cf74f[m Added JavaScript hello world script.
+[1;33m|[m [1;32m|[m [1;31m|[m[1;32m_[m[1;34m|[m[1;32m/[m [36m/[m  
+[1;33m|[m [1;32m|[m[1;32m/[m[1;31m|[m [1;34m|[m [36m|[m   
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33mfe7c048[m Merge pull request #585 from abhisri04/patch-1
+[1;35m|[m[1;36m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[1;35m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m4ad79c5[m Create readme.md
+[1;35m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33mb3fd63f[m Merge pull request #611 from maticzav/matic
+[31m|[m[32m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[31m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33md2d011e[m My profile
+[31m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m6ddd2fa[m Merge pull request #613 from jmr18/jmr18
+[33m|[m[34m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[33m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m564bdf6[m hello world in js
+[33m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m5a8509f[m Merge pull request #597 from madduci/patch-2
+[35m|[m[36m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[35m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33md4b8df7[m Michele Adduci
+[35m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33ma142d76[m Merge pull request #609 from VoxelBuster/master
+[1;31m|[m[1;32m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[1;31m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33mdf755ed[m Profile and Hello World Script - Galen Nare
+[1;31m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m7ba4421[m Merge pull request #595 from shaunoc09/hello-world-script
+[1;33m|[m[1;34m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[1;33m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33mcc029ad[m Added hello world script
+[1;33m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m104459d[m Merge pull request #594 from shaunoc09/shauns-profile
+[1;35m|[m[1;36m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[1;35m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m2ffa2cf[m Added Shauns profile
+[1;35m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m0720d5b[m Merge pull request #542 from stevenp322/patch-2
+[31m|[m[32m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[31m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m67a60c4[m Create Steven_Petty.md
+[31m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m6ea46f9[m Merge pull request #516 from supermomme/master
+[33m|[m[34m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[33m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m567c761[m add Momme Jürgensen profile
+[33m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m790fd23[m Merge pull request #530 from kaptajnen/kaptajnen
+[35m|[m[36m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[35m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33ma08ca12[m Added comments
+[35m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m9f5f834[m Added elm-lang hello world script
+[35m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m746c76a[m Merge pull request #499 from WouterVanmulken/master
+[1;31m|[m[1;32m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[1;31m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m5328ca0[m Added a hello world script in Fetlang
+[1;31m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33md73d586[m Merge pull request #505 from Jessi625/java-helloworld
+[1;33m|[m[1;34m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[1;33m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m68f8d35[m Add HelloWorld in Java
+[1;33m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33mf54d716[m Merge pull request #464 from qservando/master
+[1;35m|[m[1;36m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[1;35m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33me6ef110[m Update scripts
+[1;35m|[m [1;32m|[m[1;32m/[m [1;31m/[m [1;34m/[m [36m/[m  
+* [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m59dab5c[m Merge pull request #2474 from abhinavchatla/master
+[31m|[m[32m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[31m|[m * [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33m63f24c1[m Update HW.rb
+* [32m|[m [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m   [33m2bbc353[m Merge pull request #403 from dertrever/patch-1
+[33m|[m[34m\[m [32m\[m [1;32m\[m [1;31m\[m [1;34m\[m [36m\[m  
+[33m|[m * [32m|[m [1;32m|[m [1;31m|[m [1;34m|[m [36m|[m [33maa53eef[m Create dertrever.md
+[33m|[m [1;34m|[m [32m|[m[1;34m_[m[1;32m|[m[1;34m_[m[1;31m|[m[1;34m/[m [36m/[m  
+[33m|[m [1;34m|[m[1;34m/[m[32m|[m [1;32m|[m [1;31m|[m [36m|[m   
+* [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33mb352d88[m Merge pull request #2552 from tigerleapgorge/charles2
+[35m|[m[36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[35m|[m * [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33mf44ebc0[m Add my profile page
+* [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m9f1c3af[m Merge pull request #2550 from dvik1950/patch-1
+[1;31m|[m[1;32m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;31m|[m * [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33ma6c1e93[m Create my profile
+[1;31m|[m [36m|[m[36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m867a6bb[m Merge pull request #2560 from erlend-axelsson/bfhacktober
+[1;33m|[m[1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;33m|[m * [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33me6e33e4[m Added a brainfuck version of "hello world" - Erlend Axelsson
+* [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33mcd7f190[m Merge pull request #2592 from Harshk159/patch-1
+[1;35m|[m[1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;35m|[m * [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33me7eee2d[m Add my changes to the file.
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33mb2c9c96[m Merge pull request #2593 from Nethmi96/patch-3
+[31m|[m[32m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[31m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m4e18262[m Create Nethmi.md
+[31m|[m [1;36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33mf32360a[m Merge pull request #2590 from Nethmi96/patch-2
+[33m|[m[34m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[33m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m4a6ebb1[m Rename HelloJavaN to HelloJavaN.java
+[33m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m00938c0[m Create HelloJavaN
+[33m|[m [1;36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m957db7e[m Merge pull request #2595 from kartik5311/master
+[35m|[m[36m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[35m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m3935e0d[m helloworld.java
+[35m|[m [1;36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m1669da6[m Merge pull request #2562 from bobstranger23/patch-1
+[1;31m|[m[1;32m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;31m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m1dd0c18[m Rename heyyaworld.bob to heyyaworld.js
+[1;31m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33mc30a0a3[m Create heyyaworld.bob
+[1;31m|[m [1;36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33mef515bb[m Merge pull request #2602 from vhemt/vhemt
+[1;33m|[m[1;34m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;33m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m8963d28[m Hello Hacktoberfest!
+[1;33m|[m [1;36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33me991c26[m Merge pull request #2610 from mvskiren/master
+[1;35m|[m[1;36m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;35m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m8ad8b59[m Added my prfile info
+[1;35m|[m [1;36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33ma3c281c[m Merge pull request #2609 from intu1/somethingCool
+[31m|[m[32m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[31m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m6040e16[m Python script
+[31m|[m [1;36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m684edd9[m Merge pull request #2617 from CHARITH1995/patch-2
+[33m|[m[34m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[33m|[m * [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m2d73783[m charith.md
+[33m|[m[33m/[m [1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33md371e7f[m Merge pull request #2597 from darkLord19/master
+[1;36m|[m[36m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;36m|[m [36m|[m[1;36m/[m [1;34m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[1;36m|[m[1;36m/[m[36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   
+[1;36m|[m * [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33md220154[m Added profile
+* [36m|[m [1;34m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33md510ef6[m Merge pull request #2545 from dlemmond1/dlemmond1
+[36m|[m[1;32m\[m [36m\[m [1;34m\[m [36m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[36m|[m [1;32m|[m[36m_[m[36m|[m[36m_[m[1;34m|[m[36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[36m|[m[36m/[m[1;32m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   
+[36m|[m * [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m0bbf01c[m Fixed script format.
+[36m|[m * [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m8f57c45[m Added Hello World in Go
+[36m|[m[36m/[m [36m/[m [1;34m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m2ac7a15[m Merge pull request #2531 from visakhsuku/patch-2
+[1;33m|[m[1;34m\[m [36m\[m [1;34m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;33m|[m * [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33mb0a3b34[m Create hello_world_visakhsuku.kt
+* [1;34m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m0992672[m Merge pull request #2534 from PongsakornAjc/PR-template
+[1;35m|[m[1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;35m|[m * [1;34m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m6d9684a[m Create Pongsakorn Profile
+* [1;36m|[m [1;34m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m9f226f5[m Merge pull request #2537 from ggml1/master
+[1;34m|[m[32m\[m [1;36m\[m [1;34m\[m [36m\[m [1;34m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;34m|[m [32m|[m[1;34m_[m[1;36m|[m[1;34m/[m [36m/[m [1;34m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[1;34m|[m[1;34m/[m[32m|[m [1;36m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   
+[1;34m|[m * [1;36m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m01d2ca6[m Hello World in Pike!
+[1;34m|[m * [1;36m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m4c89272[m Hello World in Pike!
+[1;34m|[m[1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m0429370[m Merge pull request #2515 from Charitha96/patch-2
+[33m|[m[34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;34m\[m [32m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[33m|[m * [1;36m|[m [36m|[m [1;34m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33me58008e[m Create Charitha_Rajapakse.md
+[33m|[m [1;34m|[m [1;36m|[m[1;34m_[m[36m|[m[1;34m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[33m|[m [1;34m|[m[1;34m/[m[1;36m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m   
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33ma48c6d5[m Add Juan Milano to Profiles (#2520)
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33mbbf4fbd[m Added hello world in C (#2526)
+[1;34m|[m[1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33mdd668e1[m Adding Aswin_M_Guptha.md. Thanks to @AliceWonderland for this (#2487)
+* [1;36m|[m [36m|[m [1;34m|[m [32m|[m [1;32m|[m [1;31m|[m [36m|[m [33m27a0d42[m Added Hello world in bash (#2467)
+[32m|[m [1;36m|[m[32m_[m[36m|[m[32m_[m[1;34m|[m[32m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[32m|[m[32m/[m[1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   
+* [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m14bb682[m Merge pull request #2417 from jmexio/patch-1
+[35m|[m[36m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[35m|[m * [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33mae0dab2[m Create hello_world_jmexio.js
+* [36m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m355deae[m Merge pull request #2426 from rbelow/master
+[36m|[m[1;32m\[m [36m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[36m|[m [1;32m|[m[36m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[36m|[m[36m/[m[1;32m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   
+[36m|[m * [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m02bfb13[m #1292 Another JS hello world file
+[36m|[m[36m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33maedc8c5[m Merge pull request #2380 from h3l3n4/patch-2
+[1;33m|[m[1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;33m|[m * [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m60d72e7[m Create Helena_Tepe.md
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33meab6fd0[m Merge pull request #2400 from twiflox/patch-2
+[1;35m|[m[1;36m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;35m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33ma5bd4cc[m Create twiflox.md
+* [1;36m|[m [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m1f0d645[m Merge pull request #2402 from syoustra/syoustra
+[31m|[m[32m\[m [1;36m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[31m|[m * [1;36m|[m [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m027d937[m A couple grammar fixes to the Readme
+[31m|[m [1;36m|[m[1;36m/[m [1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;36m|[m [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m510c48b[m Merge pull request #2403 from binondord/master
+[1;36m|[m[34m\[m [1;36m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;36m|[m [34m|[m[1;36m/[m [1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[1;36m|[m[1;36m/[m[34m|[m [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   
+[1;36m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33me10e05e[m Create Randy_Binondo.md
+[1;36m|[m[1;36m/[m [1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m886d934[m Merge pull request #2394 from joeltseng/scripts/helloworld
+[35m|[m[36m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[35m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m460fb3f[m add helloworld script
+* [36m|[m [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33mab339fe[m Merge pull request #2388 from pixilala/patch-1
+[36m|[m[1;32m\[m [36m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[36m|[m [1;32m|[m[36m/[m [1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[36m|[m[36m/[m[1;32m|[m [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   
+[36m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m71141ab[m Create HW.rb
+[36m|[m[36m/[m [1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33ma9f70e3[m Merge pull request #2385 from silentDjay/silentdjay_profile
+[1;33m|[m[1;34m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;33m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m35fb949[m add my profile
+[1;33m|[m [1;34m|[m[1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m1a03930[m Merge pull request #2381 from h3l3n4/patch-3
+[1;35m|[m[1;36m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;35m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33mfb31c18[m Create HelloWorld_h3l3n4.js
+[1;35m|[m [1;34m|[m[1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33me5558b2[m Merge pull request #2383 from poojas16/master
+[31m|[m[32m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[31m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m5181978[m Update HelloWorldPooja.go
+[31m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33mdc2c3bd[m Create HelloWorldPooja.go
+[31m|[m [1;34m|[m[1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+* [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33mf787e24[m Merge pull request #2369 from avingas/avingas-patch-1
+[33m|[m[34m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[33m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33mfe06552[m Rename Hello World by avingas to Hello World by avingas.js
+[33m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33mae73044[m Updated avingas.md
+[33m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33mdc9c10e[m Create avingas profile
+[33m|[m * [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m745d7c7[m Create Hello World by avingas
+* [34m|[m [1;34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   [33m1fe9d70[m Merge pull request #2382 from vr1e/nikola
+[1;34m|[m[36m\[m [34m\[m [1;34m\[m [1;36m\[m [36m\[m [1;34m\[m [1;32m\[m [1;31m\[m [36m\[m  
+[1;34m|[m [36m|[m[1;34m_[m[34m|[m[1;34m/[m [1;36m/[m [36m/[m [1;34m/[m [1;32m/[m [1;31m/[m [36m/[m  
+[1;34m|[m[1;34m/[m[36m|[m [34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m   
+[1;34m|[m * [34m|[m [1;36m|[m [36m|[m [1;34m|[m [1;32m|[m [1;31m|[m [36m|[m [33m0c6ed06[m ES6 helloworld
+* [36m|[m [34m|
