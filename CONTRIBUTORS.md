@@ -195,10 +195,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or gamedev
 - GitHub: [AlinaWithAFace](https://github.com/AlinaWithAFace)
 
-#### Name: [Alisson Vargas](https://github.com/alisson-mich)
-- Place: Torres, RS, Brazil
-- Bio: A guy who loves IT :D
-- GitHub: [Alisson Vargas](https://github.com/alisson-mich)
+
+#### Name: [Rizki Maulana](https://github.com/rizkimaulana51)
+- Place: Bandung, Indonesian
+- Bio: junior Front-End Wen Developer
+- GitHub: [Rizki Maulana](https://github.com/rizkimaulana51)
+
 
 #### Name: [Alistair](https://github.com/aowongster)
 - Place: San Diego, CA
