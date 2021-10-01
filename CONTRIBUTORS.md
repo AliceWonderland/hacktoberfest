@@ -1,3 +1,8 @@
+#### Name: [RAHUL GOYAL](https://github.com/rahulgoy)
+- Place: India
+- Bio: Third Year Computer Science Engineer, Anime-Tennis-Basketball lover!
+- GitHub: [Rahul Goyal](https://github.com/rahulgoy)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
