@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fathan Akram](GitHub link)
+- Place: Indonesia
+- Bio: Computer Scientist, Fullstack Engineer
+- GitHub: [FathanAkram-App](https://github.com/FathanAkram-app)
