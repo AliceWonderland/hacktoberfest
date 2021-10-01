@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ved13] (https://github.com/ved13)
+- Place: India
+- Bio: Web Developer
+- GitHub: [xenocidewiki] (https://github.com/ved13)
