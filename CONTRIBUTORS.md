@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dhruval Kushwaha](https://github.com/dk1242)
+- Place: Etawah, Uttar Pradesh, India
+- Bio: Full Stack Developer, MERN stack
+- Github: [dk1242](https://github.com/dk1242)
