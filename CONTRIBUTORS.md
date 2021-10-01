@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Patricia Perez](https://github.com/delitricia)
+- Place: Jalisco, Mexico
+- Bio: Technical Writer and Go Developer
+- Github: [Patricia Perez](https://github.com/delitricia)
