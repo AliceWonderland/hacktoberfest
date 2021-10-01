@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dragan Belegišanin](https://github.com/belegisanin)
+- Place: Belgrade, Serbia
+- Bio: Full-stack Web Developer and Designer
+- Github: [Dragan Belegišanin](https://github.com/belegisanin)
