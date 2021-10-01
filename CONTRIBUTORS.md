@@ -1,3 +1,8 @@
+#### Name: [RAJDEEP DAS](https://github.com/Rajspeaks)
+ - Place: India
+ - Bio: Master of Computer Application student at Heritage Institute of Technology.
+ - GitHub: [Rajspeaks](https://github.com/Rajspeaks)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
