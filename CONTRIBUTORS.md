@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Roshini Gupta](https://github.com/roshinigupta27)
+- Place: Mumbai, India
+- Bio: Student, Intern, Web developer, exploring and learning
+- Github: [Roshini Gupta](https://github.com/roshinigupta27)
