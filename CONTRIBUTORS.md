@@ -2,6 +2,7 @@
  - Place: Hyderabad,India
  - Bio: Persuading engineering from NIT.
  - GitHub: [githubANURAG1](https://github.com/githubANURAG1)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -66,6 +67,10 @@
 - Place: New Delhi, India
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+#### Name: Anurag rai 
+ - Place: varanasi,India
+ - Bio: software developer, intern.
+ - GitHub: [githubANURAG1](https://github.com/githubANURAG1)
 
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
