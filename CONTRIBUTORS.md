@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aishanii] (https://github.com/Aishanipach)
+- Place: India
+- Bio: Front End dev and develops AR apps for fun!
+- GitHub: [Aishanipach] (https://github.com/Aishanipach)
+
