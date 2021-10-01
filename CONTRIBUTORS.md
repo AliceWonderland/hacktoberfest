@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ishan Goyal](https://github.com/ishangoyal8055)
+- Place: India 
+- Bio: Frontend developer and software developer in python
+- Github : [Ishan Goyal](https://github.com/ishangoyal8055)
