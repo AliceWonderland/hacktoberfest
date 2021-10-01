@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dhruvil Shah](https://github.com/dhruvil-shah)
+- Place: Surat, Gujarat, India
+- Bio: Web Developer(MERN Stack) and Machine Learning
+- GitHub: [dhruvil-shah](https://github.com/dhruvil-shah)
