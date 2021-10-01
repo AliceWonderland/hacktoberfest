@@ -1,5 +1,5 @@
 // LANGUAGE: Javascript
-// ENV: node.js
+// ENV: Vue.js
 // AUTHOR: Rizki Maulana
 // GITHUB: https://github.com/rizkimaulana51
 
