@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [tete2soja](https://github.com/tete2soja)
+- Place: Rennes, France
+- Bio: Linux, open-source lover, CTF hunter
+- Github: [tete2soja](https://github.com/tete2soja)
