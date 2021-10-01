@@ -1,3 +1,8 @@
+#### Name: Prabanjan Raja
+ - Place: Tamil Nadu, India
+ - Bio: Final Year CS graduate, Software Engineer, Freelance Content writer, Blogger.
+ - GitHub: [Prabanjan Raja](https://github.com/prabanjanraja)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
