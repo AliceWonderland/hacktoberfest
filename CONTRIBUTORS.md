@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zain Ahmed](https://github.com/zainahmed1713)
+- Place: Lahore,Pakistan
+- Bio: Web developer, C++
+- Github: [Zain Ahmed](https://github.com/zainahmed1713)
