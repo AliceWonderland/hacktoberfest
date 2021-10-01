@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bikram Purkait](https://github.com/IamBikramPurkait)
+- Place: Kolkata, India
+- Bio: Just love to build anything
+- Github: [Bikram Purkait](https://github.com/IamBikramPurkait)
