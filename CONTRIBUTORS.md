@@ -1771,7 +1771,7 @@ Noida
 
 #### Name: [ChSotiriou](https://github.com/ChSotiriou)
 - Place: Nottingham, UK
-- Bio: Electronics & Embedded Systems / Cybersecurity / CTF Player / [www.csotiriou.com](www.csotiriou.com)
+- Bio: Electronics & Embedded Systems / Cybersecurity / CTF Player / [www.csotiriou.com](https://www.csotiriou.com)
 - GitHub: [ChSotiriou] (https://github.com/ChSotiriou)
 
 #### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
