@@ -1719,6 +1719,11 @@ Noida
 - Bio: Web Developer
 - GitHub: [SmilesandCode](https://github.com/smilesandcode)
 
+#### Name: [Nikola Grujic](https://github.com/nikolatechie)
+- Place: Belgrade, Serbia
+- Bio: Computer Science student and an award-winning competitive programmer.
+- GitHub: [nikolatechie](https://github.com/nikolatechie)
+
 #### Name: [Nishant Rai](https://github.com/iamnishantrai)
 - Place: Noida,India
 - Bio: Student
