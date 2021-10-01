@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AmitPandharikar].(https://github.com/Amit0412)
+- Place: Indore,India
+- Bio: Web Developer and Cloud Computing Enthusiastic
+- Github: [Amit0412].(https://github.com/Amit0412)
