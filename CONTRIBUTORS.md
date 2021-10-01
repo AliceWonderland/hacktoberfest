@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nishant Garg](https://github.com/nishantgarg2002)
+- Place: Rajpura, Punjab, India
+- Bio: I am a student
+- GitHub: [nishantgarg2002](https://github.com/nishantgarg2002)
