@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akash Gupta](https://github.com/gakash2k01)
+- Place, Basti, Uttar Pradesh, India
+- Bio: College student, Competitive coder, Machine Learning enthusiast.
+- Github: [Akash Gupta](https://github.com/gakash2k01)
