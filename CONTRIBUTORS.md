@@ -1,3 +1,10 @@
+#### Name: [Ruchir Agarwal](https://github.com/RU200317)
+ - Place: Noida, India
+ - Bio: 1st year CSE student, Manipal Jaipur
+ - Github: [Ruchir](https://github.com/RU200317)
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
