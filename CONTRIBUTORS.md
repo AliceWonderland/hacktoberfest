@@ -1854,6 +1854,11 @@ Noida
 - Bio: Opensource Enthusiast, Opensource Golang developer
 - GitHub: [Prateek Pandey](https://github.com/prateekpandey14)
 
+#### Name: [Pratik Bhagat](https://github.com/pratik-2707)
+- Place: waraseoni, India
+- Bio: java developer , open source contributor , student at IIIT Sri city
+- GitHub: [Pratik Bhagat](https://github.com/pratik-2707)
+- 
 #### Name: [Pratyum Jagannath](https://github.com/Pratyum)
 - Place: Singapore
 - Bio: I tell tales!
