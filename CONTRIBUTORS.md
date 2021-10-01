@@ -904,6 +904,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Scala developer
 - GitHub: [navispeed](https://github.com/navispeed/)
 
+#### Name: [Gunjan Dhanuka](https://github.com/GunjanDhanuka)
+- Place: Bhagalpur, India.
+- Bio: Student Developer, loves learning new things
+- GitHub: [Gunjan Dhanuka](https://github.com/GunjanDhanuka)
+
 #### Name: [Gui An Lee](https://github.com/piroton)
 - Place: Singapore, Singapore
 - Bio: Student
