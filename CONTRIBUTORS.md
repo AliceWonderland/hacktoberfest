@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Irfan Farooq](https://github.com/irfan378)
+- Place: Kashmir, India
+- Bio: Web developer Nodejs
+- Github: [Irfan Farooq](https://github.com/irfan378)
