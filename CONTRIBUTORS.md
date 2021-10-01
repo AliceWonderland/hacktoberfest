@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Alves](http://github.com/lucasfdelis)
+- Place: Campina Grande, Paraíba, Brazil
+- Bio: Backend Developer
+- GitHub: [Lucas Alves](http://github.com/lucasfdelis)
