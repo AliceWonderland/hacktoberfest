@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rahul](https://github.com/dust-py)
+- Place: Delhi, India
+- Bio: A 16 year old python developer
+- GitHub: [Rahul](https://github.com/dust-py)
