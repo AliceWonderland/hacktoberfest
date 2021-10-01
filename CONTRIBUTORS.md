@@ -12,7 +12,7 @@
 - Place: India
 - Bio: 2nd year Computer Science Intg Mtech Student,In love with programming
 - GitHub: [yashjain1974](https://github.com/yashjain1974)
-- 
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
