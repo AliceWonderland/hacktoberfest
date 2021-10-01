@@ -230,6 +230,11 @@ to explore life. Also, Python and Django Developer
 - Bio: What happens in Git stays in Git
 - GitHub: [Anders Jürisoo](https://github.com/ajthinking)
 
+#### Name: [Charalambos Ioannou](https://github.com/CharalambosIoannou)
+- Place: Larnaca, Cyprus
+- Bio: Data Scientist, Tech Enthusiast
+- GitHub: [Charalambos Ioannou](https://github.com/CharalambosIoannou)
+
 #### Name: [Andin FOKUNANG](https://github.com/switchgirl95)
 - Place: Yaounde , Cameroon
 - Bio: Student - Otaku - Geek
