@@ -6,19 +6,19 @@ Haridwar,India
 
 ### Academics
 
-National Institute of Technology Hamirpur
+National Institute of Technology, Hamirpur
 
 ### Interests
 
-- listening music
+- Listening music
 
 ### Development
 
-- Inventor of my pillow
+- Inventor of the My Pillow
 
 ### Projects
 
-- I have not built any projects
+- I don't have any projects
 
 ### Profile Link
 
