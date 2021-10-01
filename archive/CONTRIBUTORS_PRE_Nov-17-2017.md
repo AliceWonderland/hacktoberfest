@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Kriti Singh](https://github.com/slayk)
+- Place: Kolkata, India
+- Bio: Student, Frontend Web Developer, Python Enthusiast
+- Github: [Kriti Singh](https://github.com/slayk)
