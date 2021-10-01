@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ravi Nagda
+ - Place: Rajasthan, India
+ - Bio: I am a Student, Developer!!
+ - GitHub: [RKNpy](https://github.com/RKNpy)
