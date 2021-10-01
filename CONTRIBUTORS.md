@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Naufal Aulia](https://github.com/auliamnaufal)
+- Place: Depok, Indonesia 
+- Bio: Junior android developer student, Frot-end Web Developer
+- Github: [auliamnaufal](https://github.com/auliamnaufal)
+
