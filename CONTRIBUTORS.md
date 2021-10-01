@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: Harsh
+- Place: Delhi, India
+ - Bio: CS UG. 
+ - GitHub: [harsh-alreja](https://github.com/harsh-alreja)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
