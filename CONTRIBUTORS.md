@@ -2408,6 +2408,11 @@ Noida
 - Bio: Student FreeCodeCamp interested in PWA's
 - Github: [gipsi](https://github.com/gipsi)
 
+#### Name: [shimozuki](https://github.com/shimozuki)
+- Place: West Nusa Tenggara, indonesia
+- Bio: Web developer PHP and Mobile Aplication Flutter
+- Github: [shimozuki](https://github.com/shimozuki)
+
 #### Name: [syamkumar](https://github.com/syam3526)
 - Place:kerala,india
 - Bio: data scientist
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
