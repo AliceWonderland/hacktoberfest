@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Juned Pothawale](https://github.com/junedwebsole)
+- Place: maharastra
+- Bio: Student
+- Github: [junedwebsole](https://github.com/junedwebsole)
+
+
