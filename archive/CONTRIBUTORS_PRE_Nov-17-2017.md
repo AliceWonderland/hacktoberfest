@@ -1,3 +1,8 @@
+#### Name: [Afzal Khan](https://github.com/afzall-khan)
+ - Place: Saharanpur, India
+ - Bio: Final Year Computer Science Student
+ - GitHub: [afzall-khan](https://github.com/afzall-khan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
