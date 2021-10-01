@@ -1,3 +1,8 @@
+#### Name: Ayush Joshi
+ - Place: India
+ - Bio: Student
+ - GitHub: [AyushJoshi2001](https://github.com/AyushJoshi2001)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
