@@ -1853,7 +1853,12 @@ Noida
 - Place: Bangalore, India
 - Bio: Opensource Enthusiast, Opensource Golang developer
 - GitHub: [Prateek Pandey](https://github.com/prateekpandey14)
-
+- 
+#### Name: [Pratik Bhagat](https://github.com/pratik-2707)
+ - Place: waraseoni, mp , india
+ - Bio: cse student at IIITS
+ - GitHub: [Pratik Bhagat](https://github.com/pratik-2707)
+ - 
 #### Name: [Pratyum Jagannath](https://github.com/Pratyum)
 - Place: Singapore
 - Bio: I tell tales!
