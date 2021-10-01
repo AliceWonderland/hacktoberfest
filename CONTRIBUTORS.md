@@ -678,6 +678,11 @@ to explore life. Also, Python and Django Developer
 - Bio: \x90\x90\x90\x90
 - GitHub: [Dvir](https://github.com/dvur12)
 
+#### Name: [Dhairy Srivastava](https://github.com/dhairy-online)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Dhairy Srivastava](https://github.com/dhairy-online)
+
 #### Name: [Dzmitry Kasinets](https://github.com/dkasinets)
 - Place: Brooklyn, NY, USA
 - Bio: CS student at Brooklyn College, and The Game of Thrones fan :3
