@@ -1,3 +1,8 @@
+#### Name: DivyanshBansal
+ - Place: India
+ - Bio: Mechatronics '24.
+ - GitHub: [Divyansh Bansal](https://github.com/idivyanshbansal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
