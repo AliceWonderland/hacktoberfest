@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Philip Schikora](https://github.com/pschik)
+- Place: Hamburg, Germany
+- Bio: Java Developer
+- Github: [Philip Schikora](https://github.com/pschik)
