@@ -340,6 +340,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist , Android Developer
 - Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
 
+#### Name: [Ayush Singla](https://github.com/Ayush-singla27)
+- Place: Punjab, India
+- Bio: college Student
+- Github: [Ayush-singla27](https://github.com/Ayush-singla27)
+
 #### Name: [Ayushman KB](https://github.com/namhsuya/)
 - Place: Calcutta, India
 - Bio: Life sciences student|Dev|Linux enthusiast
