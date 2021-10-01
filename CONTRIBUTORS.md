@@ -1,3 +1,8 @@
+#### Name: [ADITYA NAGAR](https://github.com/adityanagar10)
+- Place: Poland
+- Bio: third year Computer Science Student, in love with Development <3
+- GitHub: [agnieszka-miszkurka](https://github.com/adityanagar10)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
