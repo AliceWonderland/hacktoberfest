@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [shimozuki](https://github.com/shimozuki)
+- Place: West Nusa Tenggara, indonesia
+- Bio: Web developer PHP and Mobile Aplication Flutter
+- Github: [shimozuki](https://github.com/shimozuki)
+
