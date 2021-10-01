@@ -1,3 +1,9 @@
+### Name: Sheetal Gaur
+- Palce: India
+- Bio: Student
+- Github: [Sheetal_Gaur](https://github.com/sheetal322)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
