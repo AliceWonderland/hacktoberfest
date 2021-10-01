@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Ankur Patil](https://github.com/ankur12-1610)
+- Place: Pune, Maharashtra, India
+- Bio: 💬 self-taught coder, 📙 student at Indian Institute of Technology, BHU, Varanasi and 🔭 interested in web-development, open-source, tech.
+- Github: [ankur12-1610](https://github.com/ankur12-1610)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
