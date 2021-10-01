@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajneesh Khare](https://github.com/rajneeshk94)
+- Place: Bengaluru, India
+- Bio: RPA and Django
+- Github: [rajneeshk94](https://github.com/rajneeshk94)
