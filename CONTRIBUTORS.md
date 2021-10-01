@@ -1,3 +1,8 @@
+#### Name: [Amey Pandit](https://github.com/panditamey)
+ - Place: Mumbai, India
+ - Bio: Student , UI UX , Frontent Designer.
+ - GitHub: [Amey Pandit](https://github.com/panditamey)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
