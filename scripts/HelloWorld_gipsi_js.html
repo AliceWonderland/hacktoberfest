@@ -8,10 +8,16 @@
   <title>JavaScript Example: Functions alert() and document.write()</title>
   <script>
     alert("Hello, world!");
+    //called when button is pressed
+    function abc()
+    {
+      alert("Hello world!!!");
+    }
   </script>
 </head>
 <body>
   <h1>My first JavaScript says:</h1>
+  <input type="button" value="Add to favorites" onClick="abc()">
   <script>
     document.write("<h2><em>Hello world, again!</em></h2>");
     document.write("<p>This document was last modified on "
