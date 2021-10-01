@@ -1,3 +1,8 @@
+#### Name: [Shruti Agrawal](https://github.com/ShrutiAgrawal2232)
+- Place: Mathura , Uttar Pradesh, India
+- Bio: Student
+- GitHub: [ShrutiAgrawal2232](https://github.com/ShrutiAgrawal2232)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
