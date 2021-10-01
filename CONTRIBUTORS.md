@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shashwat Samadhiya](https://github.com/ShashwatSamadhiya)
+- Place: India
+- Bio: Student, Fullstack Developer NodeJS , competitive Programmer
+- Github: [ShashwatSamadhiya](https://github.com/ShashwatSamadhiya)
