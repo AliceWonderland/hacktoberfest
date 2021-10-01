@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Lucas de Souza
+ - Place: Recife, Brazil
+ - Bio: Computer Engineering Student
+ - GitHub: [Lucas de Souza](https://github.com/lsb4)
