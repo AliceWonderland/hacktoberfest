@@ -1,3 +1,8 @@
+#### Name: Ishani
+ - Place: India
+ - Bio: Student, software enthusiast
+ - Github: https://github.com/ishanisamanta
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
