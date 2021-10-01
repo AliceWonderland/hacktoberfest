@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhiroop](https://github.com/abhiroopwastaken)
+- Place: Agra, Uttar Pradesh, India
+- Bio: Data Science Student
+- GitHub: [abhiroopwastaken](https://github.com/abhiroopwastaken)
