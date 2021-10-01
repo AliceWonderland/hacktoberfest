@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mahesh Odedara](https://github.com/mahesh-143)
+- Place: Porbandar, Gujarat, India
+- Bio: I am Frontend Developer
+- GitHub: [mahesh-143](https://github.com/mahesh-143)
