@@ -1,3 +1,7 @@
+#### Name: Riyanshi Sahu
+ - Place:India
+ - Bio: Student 
+ - GitHub: https://github.com/Riyanshi-Sahu/
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
