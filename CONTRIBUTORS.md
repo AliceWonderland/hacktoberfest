@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: Muteen Kundangar
+ - Place: J&K, India
+ - Bio: Bachlors Student. Studying at Amity University, Greater Noida.
+ - GitHub: [Muteen K.](https://github.com/muteenk)
