@@ -1,3 +1,8 @@
+#### Name: Aryaman
+ - Place: Uttar Pradesh, India
+ - Bio: Computer Science student and an aspiring cloud architect 
+ - GitHub: [Aryaman-Pandey187](https://github.com/Aryaman-Pandey187)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
