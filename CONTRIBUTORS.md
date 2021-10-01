@@ -1,3 +1,8 @@
+#### Name: [Popstar Idhant](https://github.com/Idhant-6)
+- Place: Vadodara, Gujarat, India
+- Bio: I am a Student, In love with Singing English Songs and Seeing forward to Contribute In Hacktoberfest
+- GitHub: [Idhant-6](https://github.com/Idhant-6)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
