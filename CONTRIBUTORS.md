@@ -1,3 +1,7 @@
+#### Name: [VARSHIL SHAH](https://github.com/varshilshah-2002)
+- Place: Hyderabad, Telangana, India
+- Bio: Full Stack Developer and Freelancer
+- GitHub: [varshilshah-2002](https://github.com/varshilshah-2002)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
