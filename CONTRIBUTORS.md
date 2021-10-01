@@ -1,3 +1,8 @@
+#### Name: [ROHITDUTT PARSAI](https://github.com/rohitdutt)
+ - Place: Indore, India
+ - Bio: Final year student, Love to work on web
+ - Github: [rohitdutt](https://github.com/rohitdutt)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
