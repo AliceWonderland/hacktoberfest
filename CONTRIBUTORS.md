@@ -1849,7 +1849,6 @@ Noida
 - Bio: Computer Science Undergrad | IIITian | Android developer.
 - GitHub: [Pranav Choudharyn](https://github.com/pranavelric)
 
-
 #### Name: [Pranjal Singh] (https://github.com/pranjal44)
 - Place: Delhi, India
 - Bio: Beginner
