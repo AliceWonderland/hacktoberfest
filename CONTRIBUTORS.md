@@ -1,7 +1,7 @@
 #### Name: [ADITI](https://github.com/SavageSanta11)
 - Place: Bangalore
 - Bio: Noob COD player
-- GitHub: [agnieszka-miszkurka](https://github.com/SavageSanta11)
+- GitHub: [ADITI](https://github.com/SavageSanta11)
 
 #### Name: Vallenain
  - Place: Lyon, France
