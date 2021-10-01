@@ -1126,10 +1126,16 @@ to explore life. Also, Python and Django Developer
 - GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
 - Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
 
+
 #### Name: [Joe Hanson](https://github.com/jahanson)
 - Place: San Antonio, TX, United States
 - Bio: Front-End Developer
 - GitHub: [Joe Hanson](https://github.com/jahanson)
+
+#### Name: Rizki Maulana
+- Place: Indonesia
+- Bio: Front-End Developer
+- GitHub: [rizkimaulana51](https://github.com/rizkimaulana51)
 
 #### Name: [JoeBanks13](https://github.com/JoeBanks13)
 - Place: York, United Kingdom
