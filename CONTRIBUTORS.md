@@ -641,6 +641,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
 - GitHub: [theindianotaku](https://github.com/theindianotaku)
 
+#### Name: [Debgandhar Ghosh](https://github.com/debg48)
+- Place: Kolkata, West Bengal, India
+- Bio: Nerd
+- GitHub: [debg48](https://github.com/debg48)
+
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
 
