@@ -1992,6 +1992,11 @@ Noida
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
 - GitHub: [tilda](https://github.com/tilda)
 
+#### Name: [SARTHAK RAJPUT](https://github.com/rsarthak)
+- Place: Haridwar,India
+- Bio: A noob starting his journey in open source
+- GitHub: [Sarthak Rajput](https://github.com/rsarthak)
+
 #### Name: [SAIDEEP DICHOLKAR](https://github.com/saideepd)
 - Place: Mumbai, India
 - Bio: Computer Science Engineering Student & Tech Enthusiast
