@@ -1,3 +1,8 @@
+#### Name: [Krithika Goyal](https://github.com/krithikagoyal)
+- Place: Barnala, Punjab, India
+- Bio: CSE undergraduate, IIT Ropar
+- GitHub: [krithikagoyal](https://github.com/krithikagoyal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
