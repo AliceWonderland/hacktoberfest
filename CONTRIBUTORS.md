@@ -1,3 +1,8 @@
+#### Name: Ritesh Kumar
+ - Place: Rajasthan, India
+ - Bio: Fullstack Developer.Second year Computer Science Student .
+ - GitHub: [nyctonio](https://github.com/nyctonio)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
