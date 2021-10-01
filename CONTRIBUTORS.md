@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Savita Verma(https://github.com/vermasavita)
+- Place: Pilani, Rajasthan, India
+- Bio: Student
+- Github: [Savita Verma](https://github.com/vermasavita)
