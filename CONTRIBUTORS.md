@@ -2323,6 +2323,11 @@ Noida
 - Bio: Software developer with a knack to learn things quickly.
 - GitHub: [dainvinc](https://github.com/dainvinc)
 
+#### Name: [Visinigiri Aditya](https://visinigiri-aditya.me)
+- Place: India
+- Bio: Software developer with a knack to learn things quickly.
+- GitHub: [dainvinc](https://github.com/adityakumar48)
+
 #### Name: [Vo Tan Tho](https://github.com/kensupermen)
 - Place: Ho Chi Minh City, VietNam
 - Bio: I'm Software Engineer at Dinosys
