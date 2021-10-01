@@ -1,3 +1,8 @@
+### Name : Sarthak Nirala
+   - Place: India
+   - Bio: Fourth year Computer Science Student
+   - GitHub: [sarthak88221](https://github.com/Sarthak88221)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
