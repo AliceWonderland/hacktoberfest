@@ -1,3 +1,8 @@
+#### Name: Junaid Shah
+ - Place: Srinagar, Kashmir
+ - Bio: Software engineer. Graduated from University Of Kashmir.
+ - GitHub: [jsh854](https://github.com/jsh854)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
