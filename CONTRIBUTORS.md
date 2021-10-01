@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aman Atman](https://github.com/willtryagain)
+- Place: Delhi, India
+- Bio: Researcher
+- Github: [willtryagain](https://github.com/willtryagain)
