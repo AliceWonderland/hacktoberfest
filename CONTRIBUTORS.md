@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nitin Dixit](https://github.com/nitinajaydixit)
+- Place: Akola, Maharashtra, INDIA
+- Bio: I'm a fresher.
+- GitHub: [Nitin Dixit](https://github.com/nitinajaydixit)
