@@ -1,3 +1,9 @@
+#### Name: Shrijal Shrestha
+- Place: Biratnagar, Province 1, Nepal
+- Bio: Flutter Dev 
+- GitHub: shrijalshr (https://github.com/shrijalshr/)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
