@@ -1,3 +1,8 @@
+#### Name: Vinay Singh
+ - Place: Indore, India
+ - Bio: Third Year Computer Science Student from LPU Jalandhar
+ - GitHub: [KingVinay](https://github.com/KingVinay)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
