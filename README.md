@@ -130,5 +130,7 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
+How to make pull request in github [https://www.youtube.com/watch?v=npnfDwmHKhY](https://www.youtube.com/watch?v=npnfDwmHKhY)
+
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
