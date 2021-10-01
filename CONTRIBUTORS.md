@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John Kerama](https://github.com/BEN00262)
+- Place: Nairobi, Kenya
+- Bio: Software Engineer
+- GitHub: [BEN00262](https://github.com/BEN00262)
