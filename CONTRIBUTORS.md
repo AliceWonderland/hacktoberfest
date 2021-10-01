@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshwardhan Kumar](https://github.com/harshiitrpr)
+- Place: Ropar, India
+- Bio: Student, trying my first PR
+- Github: [Harshwardhan Kumar](https://github.com/harshiitrpr)
