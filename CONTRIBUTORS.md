@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Narendra Kumar](https://github.com/nar3n12)
+- Place: Chemnitz, Germany
+- Bio: Android Lover, AR noob
+- Github: [nar3n12](https://github.com/nar3n12)
