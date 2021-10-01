@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ABHINAV KRISHNA](https://github.com/AbhinavKrishna26)
+- Place: India
+- Bio: Student & open source contributor
+- GitHub: [AbhinavKrishna26](https://github.com/AbhinavKrishna26)
