@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bayu Firmansyah](https://github.com/BayuFirmansyaah)
+- Place: Malang, Indonesia
+- Bio: Fullstack Web Developer
+- Github: [Bayu Firmansyah](https://github.com/BayuFirmansyaah)
