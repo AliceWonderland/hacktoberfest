@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sai Rohith T](https://github.com/rohith1125)
+- Place: Hyderabad, Telangana, India
+- Bio: Computer Science Undegraduate Student
+- GitHub: [rohith1125](https://github.com/rohith1125)
