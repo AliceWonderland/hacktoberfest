@@ -1844,6 +1844,11 @@ Noida
 - Bio: Trying to fit in coding society.
 - GitHub: [Pranav Bhasin](https://github.com/pranavbhasin96)
 
+#### Name: [Pranav Choudhary](https://github.com/pranavelric)
+- Place: Jaipur, Rajasthan, India
+- Bio: Computer Science Undergrad | IIITian | Android developer.
+- GitHub: [Pranav Choudharyn](https://github.com/pranavelric)
+
 #### Name: [Pranjal Singh] (https://github.com/pranjal44)
 - Place: Delhi, India
 - Bio: Beginner
