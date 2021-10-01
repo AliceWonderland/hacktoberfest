@@ -1,3 +1,8 @@
+#### Name: Aryan 
+ - Place: Bhopal, India
+ - Bio: Full-Stack Software Developer
+ - GitHub: [Aryan Bhardwaj](https://github.com/weebo-ary)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
