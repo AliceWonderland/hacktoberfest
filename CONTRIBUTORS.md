@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshavardhan Putta](https://github.com/har5hcodes)
+- Place: Natal, Brazil
+- Bio: Frontend developer and Graphic designer
+- Github: [har5hcodes](https://github.com/har5hcodes)
