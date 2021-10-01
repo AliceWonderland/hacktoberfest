@@ -2432,3 +2432,8 @@ Noida
 - Place: Indore,India
 - Bio: Web Developer and Cloud Computing Enthusiastic
 - Github: [Amit0412].(https://github.com/Amit0412)
+
+#### Name: [AmitPandharikar].(https://github.com/amitpandharikar)
+- Place: Indore,India
+- Bio: Web Developer and Cloud Computing Enthusiastic
+- Github: [amitpandharikar].(https://github.com/amitpandharikar)
