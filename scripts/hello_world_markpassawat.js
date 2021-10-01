@@ -1,6 +1,6 @@
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Mark Passawat
+// AUTHOR: markpassawat
 // GITHUB: https://github.com/avingas
 
 console.log("Hello World") 
