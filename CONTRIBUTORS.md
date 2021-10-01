@@ -1,3 +1,9 @@
+#### Name: [Vaibhav Kumar](https://github.com/vaibhavsharma56/)
+- Place: Shamli, UP, India
+- Bio: Fullstack Web developer
+- GitHub: [vaibhavsharma56](https://github.com/vaibhavsharma56/)
+
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
