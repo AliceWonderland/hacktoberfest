@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Atul Yadav](https://github.com/AtulYadav01)
+- Place: Jaipur, India
+- Bio: Android developer and Python Developer
+- Github: [Atul Yadav](https://github.com/AtulYadav01)
