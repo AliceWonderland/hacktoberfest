@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [Anish Gandhik](https://github.com/gandhik2000)
+- Place: West Bengal,India
+- Bio: A student happy to write code and poetry.
+- GitHub: [Anish Gandhik](https://github.com/gandhik2000)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
