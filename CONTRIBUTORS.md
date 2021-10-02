@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Sawant](https://github.com/AdityaSawant21)
+- Place: Mumbai, Maharashtra, India
+- Bio: Technology Enthusiast
+- GitHub: [Aditya Sawant](https://github.com/AdityaSawant21)
