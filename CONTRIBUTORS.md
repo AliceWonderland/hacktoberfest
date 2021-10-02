@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: Parinay Panwar
+#### Name: [Parinay Panwar](https://github.com/parinay602)
  - Place: New Delhi, India
  - Bio: Future Software engineer
  - GitHub: [parinay602](https://github.com/parinay602)
