@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kindi Setiadi](https://github.com/kindise)
+- Place: Jakarta, Indonesia
+- Bio: Still newbie and low profile
+- Github: [kindise](https://github.com/kindise)
