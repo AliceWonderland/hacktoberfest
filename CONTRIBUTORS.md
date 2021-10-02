@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Salvin Antony Varghese](https://github.com/salvinanto7)
+- Place: Kerala,India
+- Bio: Python, IOT and Web developer
+- Github: [Salvin Antony Varghese](https://github.com/salvinanto7)
