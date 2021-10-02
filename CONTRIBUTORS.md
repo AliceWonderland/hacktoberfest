@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ritaban Datta](https://github.com/reetoo)
+- Place: Kolkata, India
+- Bio: Dot net developer
+- Github: [Reetoo](https://github.com/reetoo)
