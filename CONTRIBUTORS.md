@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Salvo Russo](https://github.com/salvorusso)
+- Place: Catania, Italy
+- Bio: Devops Engineer, MSc Computer Engineering student
+- GitHub: [SalvoR](https://github.com/salvorusso)
