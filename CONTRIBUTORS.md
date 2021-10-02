@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anupam Dey](https://github.com/anupamdey2001)
+- Place: West Bengal, Kolkata
+- Bio: Web developer & Designer
+- Github: [Anupam Dey](https://github.com/anupamdey2001)
