@@ -1,4 +1,4 @@
-#### Name: [MuskanTripathi](https://www.linkedin.com/in/muskan-tripathi-246410184)
+#### Name: [Muskan Tripathi](https://www.linkedin.com/in/muskan-tripathi-246410184)
  - Place: MP, India
  - Bio: Final year undergrad(BTech-CSE).
  - GitHub: [MuskanTripathi](https://github.com/MuskanTripathi)
