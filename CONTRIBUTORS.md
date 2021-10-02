@@ -2372,6 +2372,12 @@ Noida
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
  - GitHub: [yerenutku](https://github.com/yerenutku)
+ 
+#### Name: [YAMADA Nobuko](https://github.com/e99h2121)
+- Place: Tokyo, Japan
+- Bio: Software Engineer - Back-end Developer
+- GitHub: [YAMADA Nobuko](https://github.com/e99h2121)
+- Twitter: [YAMADA Nobuko](https://twitter.com/e99h2121)
 
 #### Name: [ZH2018](https://github.com/zh2018)
 - Place: USA
