@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suraj Rai](https://github.com/devsurajrai)
+- Place: Noida, India
+- Bio: Web developer Anthusiast
+- Github: [Suraj Rai](https://github.com/devsurajrai)
