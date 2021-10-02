@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alen Kuriakose](https://github.com/alen-kuriakose)
+- Place: Kerala
+- Bio: Student
+- GitHub: [alen-kuriakose](https://github.com/alen-kuriakose)
