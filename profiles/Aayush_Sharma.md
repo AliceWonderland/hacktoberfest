@@ -11,7 +11,11 @@ Indian Institute of Technology, Mandi
 ### Interests
 
 - Mathematics.
+      
 
+
+
+      
 ### Development
 
 - Restricted Boltzman Machine.
