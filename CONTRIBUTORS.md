@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jaya Srikar](https://github.com/znjs)
+- Place: Bangalore, India
+- Bio: JS developer, systems engineer
+- Github: [Jaya Srikar](https://github.com/znjs)
