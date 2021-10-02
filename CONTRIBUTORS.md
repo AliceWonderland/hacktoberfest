@@ -1015,6 +1015,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [jfehrman](https://github.com/jfehrman)
 
+#### Name: [Liam peres](https://github.com/Liam0605)
+- Place: Rittenhouse Square, Philadelphia, USA
+- Bio: Student
+- GitHub: [liam0605](https://github.com/Liam0605)
+
+
 #### Name: [JOE SCHO](https://github.com/JoeScho)
 - Place: London, UK
 - Bio: I love guitar!
