@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Omkar kulkarni](https://github.com/Omkar0114)
+- Place: Satara , Maharashtra , India
+- Bio: Student
+- Github: [Omkar0114](https://github.com/Omkar0114)
