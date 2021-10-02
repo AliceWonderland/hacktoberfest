@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [DEEPAK VERMA](https://github.com/Deepakv14)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: UG at Indian Institute of Technology (BHU) Varanasi 
+- GitHub: [Deepak Verma](https://github.com/Deepakv14)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
