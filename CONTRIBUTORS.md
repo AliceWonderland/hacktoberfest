@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wilson](https://github.com/wilson-ng)
+- Place: Jakarta, Indonesia
+- Bio: Backend Engineer
+- Github: [Wilson](https://github.com/wilson-ng)
