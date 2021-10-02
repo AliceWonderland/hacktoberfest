@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [ChandraPrakash](https://github.com/Chandra601)
+- Place:Uttar Pradesh,India
+- Bio:I am student learning web development
+- Github: [ChandraPrakash](https://github.com/Chandra601)
