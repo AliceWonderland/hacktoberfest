@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Aryan Pamwani](https://github.com/akhilpamwani)
+- Place: India
+- Bio: Web developer 
+- Github: [Aryan Pamwani](hhttps://github.com/akhilpamwani)
