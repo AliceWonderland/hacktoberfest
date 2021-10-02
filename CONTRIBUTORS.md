@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Krishnkant Pachori](https://github.com/Dcode-k)
+ - Place: Mathura,Uttar Pradesh, India
+ - Bio: I am a engineering student at the University of Panjab and enthusiasts about open source.
+ - GitHub: [Dcode-k](https://github.com/Dcode-k)
