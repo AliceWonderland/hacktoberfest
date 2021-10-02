@@ -1,3 +1,8 @@
+#### Name: [Sankalp Jangid](https://github.com/SankalpJangid)
+- Place: India
+- Bio: Student
+- GitHub: [Sankalp Jangid](https://github.com/SankalpJangid)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
