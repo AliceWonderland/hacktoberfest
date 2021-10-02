@@ -1,3 +1,8 @@
+#### Name: Sayantan
+ - Place: Chakdaha, India
+ - Bio: College Student. DOing Btech from Academy Of Technology.
+ - GitHub: [Sayantan-tech-code](https://github.com/Sayantan-tech-code)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
