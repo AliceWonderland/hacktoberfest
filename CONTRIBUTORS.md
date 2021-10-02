@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sahana L](https://github.com/sahanal-2603)
+- Place: Bangalore, India
+- Bio: Data Science and Machine Learning
+- Github: [Sahana L](https://github.com/sahanal-2603)
