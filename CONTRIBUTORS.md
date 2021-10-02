@@ -138,7 +138,7 @@ to explore life. Also, Python and Django Developer
 
  #### Name: [Anmol Vishwakarma](https://github.com/not-devil)
   - Place: Dewas, Madhya Pradesh, India
-  - Bio: I am Full stack MERN Developer
+  - Bio: I am Full stack MERN Developer and App Development
   - GitHub: [not-devil](https://github.com/not-devil)
 
 #### Name: [Akram Rameez](https://github.com/akram-rameez)
