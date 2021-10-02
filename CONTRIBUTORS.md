@@ -1,3 +1,7 @@
+#### Name: M Sajid Mansoori
+  -Place: Udaipur,India
+  -Bio: Computer Science Junior,Graduating in 2021.
+  -GitHub:[M Sajid Mansoori](https://github.com/sajidmansoori12)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
