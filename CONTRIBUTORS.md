@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Thisaru Dilshan](https://github.com/ThisaruD)
+- Place: Gampaha, Sri-Lanka
+- Bio: IT undergratuade in University of Moratuwa-SriLanka
+- Github: [ThisaruD](https://github.com/ThisaruD)
+
+
