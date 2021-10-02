@@ -1997,6 +1997,12 @@ Noida
 - Bio: Computer Science Engineering Student & Tech Enthusiast
 - GitHub: [Saideep Dicholkar](https://github.com/saideepd)
 
+#### Name: [SAKSHAM KUMAR JHA](https://github.com/SakshamKJ)
+- Place: Bhubaneswar, India
+- Bio: Computer Science and Engineering Student
+- Github: [Saksham Kumar Jha](https://github.com/SakshamKJ)
+
+
 #### Name: [SHANAKA ANURADHA](https://github.com/shanaka95)
 - Place: Sri Lanka
 - Bio: Undergraduate
