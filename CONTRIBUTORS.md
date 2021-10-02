@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Neha Singh](https://github.com/Nehasingh1300)
+- Place: Haryana, India
+- Bio: SDE, Data Science + DevOps
+- Github: [Nehasingh1300](https://github.com/Nehasingh1300)
