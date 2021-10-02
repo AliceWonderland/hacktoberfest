@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vishal Vishwakarma](https://github.com/vishalvishw10)
+- Place: Kanpur,Uttar Pradesh, India
+- Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
+- GitHub: [Vishal Vishwakarma](https://github.com/vishalvishw10)
