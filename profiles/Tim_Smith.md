@@ -25,7 +25,7 @@ Self-taught Frontend Web Developer
 
 - United States COVID-19 Data [Project Link](https://us-covid-19-data.netlify.app/) [Github Link](https://github.com/timscodebase/covid) An app made towards the beginning of the pandemic with a free API.
 - Lets Get Quizy [Project Link](https://quizy-time.netlify.app/) [Github Link](https://github.com/timscodebase/quizy) 
-A fun quiz app made with Next.js and a free quiz API
+A fun quiz app made with Next.js and a free quiz API.
 
 ### Profile Link
 
