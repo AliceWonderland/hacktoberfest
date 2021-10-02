@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikethan Rai](https://github.com/nikethanrai)
+- Place: India
+- Bio: Third year EEE Student, in love with you ;)
+- GitHub: [nikethan-rai](https://github.com/nikethanrai)
