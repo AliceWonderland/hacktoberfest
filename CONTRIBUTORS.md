@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaibhav Gautam] (https://github.com/Vaibhav-3211)
+- Place: Himachal Pradesh, India
+- Bio: CSE Student 1sy Year 
+- Github: [Vaibhav Gautam] (https://github.com/Vaibhav-3211)
