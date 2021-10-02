@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddharth Verma] (https://github.com/sidverr)
+- Place: Amritsar, India
+- Bio: Cyber Security Student
+- [Siddharth Verma] (https://github.com/sidverr)
