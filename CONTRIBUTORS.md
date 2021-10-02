@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikhil Verma](https://github.com/BasicNik)
+- Place: Dehradun, India
+- Bio: Cyber Security Enthusiast
+- Github: [Nikhil Verma](https://github.com/BasicNik)
