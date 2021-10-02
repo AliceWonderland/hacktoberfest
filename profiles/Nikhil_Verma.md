@@ -17,7 +17,7 @@ Graphic Era Deemed to be University, ClementTown
 ### Development
 
 - On project on python beautifulsoup.
-
+- Leaning to create python tools.
 ### Projects
 
 - None yet.
