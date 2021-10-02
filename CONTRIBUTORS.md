@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [A Adarsh](https://github.com/adarshgowdaa)
+- Place: India
+- Bio: Currently a Student pursuing my Bachelor's Degree in Computer Science Engineering
+- Github: [A Adarsh](https://github.com/adarshgowdaa)
