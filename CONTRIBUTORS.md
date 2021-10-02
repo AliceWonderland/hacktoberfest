@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Diya Acharya](https://github.com/diyaacharya)
+- Place: India
+- Bio: third year Computer Science Student, datascience geek
+- GitHub: [Diya Acharya](https://github.com/diyaacharya)
