@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanya Bansal](https://github.com/san-ya)
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [san-ya](https://github.com/san-ya)
