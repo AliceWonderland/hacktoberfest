@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Siddharth Tiwari
+- Place: Madhya Pradesh, India
+- Bio: MERN Stack developer
+- Github: [siddharthkt45](https://github.com/siddharthkt45)
