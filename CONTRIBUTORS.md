@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yatri](https://github.com/yatri1609)
+- Place: Chattanooga, TN, USA
+- Bio: Data Scientist 
+- GitHub: [yatri1609](https://github.com/yatri1609)
