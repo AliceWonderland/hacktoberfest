@@ -2423,7 +2423,8 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
+#### Name: [Shweta Rani](https://github.com/Shweta-Rani1)
+- Place: Daltonganj, Jharkhand, India
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Shweta Rani](https://github.com/Shweta-Rani1)
+
