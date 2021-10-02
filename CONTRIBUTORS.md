@@ -1,3 +1,8 @@
+#### Name: [Vikrant Kumar Verma](https://github.com/Vikrant616)
+- Place: Durg, Chhattisgarh, India
+- Bio: CSE freshman at SRM Kattankulathur, Chennai
+- GitHub: [Your Name](GitHub Link)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
