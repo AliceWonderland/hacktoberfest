@@ -135,6 +135,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [akmadhwa](https://github.com/akmadhwa)
 
+
+ #### Name: [Anmol Vishwakarma](https://github.com/not-devil)
+  - Place: Dewas, Madhya Pradesh, India
+  - Bio: I am Full stack MERN Developer
+  - GitHub: [not-devil](https://github.com/not-devil)
+
 #### Name: [Akram Rameez](https://github.com/akram-rameez)
 - Place: Bengaluru, India
 - Bio: I like free T-shirts and I cannot lie.
