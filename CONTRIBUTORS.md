@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Fadhlan Harits](https://github.com/fadhlanhrts)
+- Place: Indonesia
+- Bio: Interested in DevOps
+- Github: [Muhammad Fadhlan Harits](https://github.com/fadhlanhrts)
