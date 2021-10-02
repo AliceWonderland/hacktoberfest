@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Eddie R](https://github.com/eddie3145)
+- Place: Australia
+- Bio: Student
+- Github: [Eddie3145](https://github.com/eddie3145)
