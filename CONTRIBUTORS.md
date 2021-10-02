@@ -1,3 +1,7 @@
+#### Name: AJAY KEWAT
+ - Place: INDIA
+ - Bio: STUDENT And Web Developer
+ - GitHub: [Ajay Kewat](https://github.com/Aj-github-code)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
