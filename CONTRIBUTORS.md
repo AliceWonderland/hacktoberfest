@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+### Name: Sheetal Gaur
+- Place: India
+- Bio: Student
+- Github: [SheetalGaur](https://github.com/sheetal322)
+
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
