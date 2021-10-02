@@ -1,3 +1,8 @@
+#### Name: [ANDREW PATRICK de FRETES](https://github.com/andrewdef1)
+- Place: Jayapura, Indonesia
+- Bio: 100% JESUS.
+- GitHub: [ANDREW PATRICK de FRETES](https://github.com/andrewdef1)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
