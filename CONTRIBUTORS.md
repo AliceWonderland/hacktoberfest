@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abay Kappassov](https://github.com/kappassov)
+- Place: Kazakhstan 🇰🇿
+- Bio: web dev enthusiast 🕸️
+- GitHub: [kappassov](https://github.com/kappasov)
