@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### ASHUTOSH AGRAWAL
+#### Name: ASHUTOSH AGRAWAL
 - Place: Chindwara, M.P., India
 - Bio: Student, C Developer
 - Github: [ashuagr](https://github.com/ashuagr)
