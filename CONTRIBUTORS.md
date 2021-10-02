@@ -1428,6 +1428,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
 
+#### Name: [Maksym Konotop](https://github.com/kanilZ)
+- Place: Lviv, Ukraine
+- Bio: Student of bachelors degree in Computer Science. Working on .NET in GlobalLogic as back-end developer
+- GitHub: [kanilZ](https://github.com/kanilZ)
+
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
 - Bio: Computer Science Engineering student at Amity University
