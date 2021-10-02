@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ish Kapoor](https://github.com/ishkapoor2000/)
+- Place: New Delhi, Delhi, India
+- Bio: Robotics Engineer | Frontend Web Developer | AI Enthusiast
+- GitHub: [ishkapoor2000](https://github.com/ishkapoor2000/)
