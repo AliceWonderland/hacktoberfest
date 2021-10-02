@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [SWARNAVA BHATTACHARYYA](https://github.com/Rivuozil)
+- Place: Kolkata,India
+- Bio: ECE Undergrad with interets in coding and tech
+- Github: [Rivuozil](https://github.com/Rivuozil)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
