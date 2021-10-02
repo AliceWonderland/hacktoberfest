@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhi Tyagi](https://github.com/abhityagi09)
+- Place: Haryana, India
+- Bio: Web developer
+- Github: [Abhi Tyagi](https://github.com/abhityagi09)
