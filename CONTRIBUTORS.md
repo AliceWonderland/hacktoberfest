@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshit Sharma](https://github.com/harshit-sharma-gits)
+- Place: KUttar Pradesh, India
+- Bio: C++ and Web Developer
+- Github: [harshit-sharma-gits](https://github.com/harshit-sharma-gits)
