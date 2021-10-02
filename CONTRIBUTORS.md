@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mansi Sahu](https://github.com/mansi0703)
+- Place: India
+- Bio: Student Web developer 
+- Github: [mansi0703](https://github.com/mansi0703)
