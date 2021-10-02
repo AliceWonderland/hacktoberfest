@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Diganta Chaudhuri](https://github.com/DigantaChauduri06)
+- Place: West Bengal, India
+- Bio: Web developer, C++/C, JavaScript 
+- Github: [DIGANTA CHAUDHURI](https://github.com/DigantaChauduri06)
