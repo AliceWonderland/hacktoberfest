@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Krishna Kumar](https://github.com/Krishnapro)
+- Place: Motihari, Bihar, India
+- Bio: student and web developer?
+- GitHub: [Krishnapro](https://github.com/Krishnapro)
