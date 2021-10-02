@@ -149,6 +149,11 @@ to explore life. Also, Python and Django Developer
 - Place: Delhi, India
 - Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
 - GitHub: [Akshit Kharbanda](https://github.com/akshit04)
+- 
+#### Name: [ARNAV AGARWAL](https://github.com/arnav2236)
+- Place: Yamuna Nagar, Haryana, India
+- Bio: Software Developer
+- GitHub: [Arnav Agarwal](https://github.com/arnav2236)
 
 #### Name: [Aldo Cano](https://github.com/aldocano)
 - Place: Tirana, Albania
