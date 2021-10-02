@@ -1,0 +1,6 @@
+#Lang Python2
+#env Interactive as well as script
+#aut Ajay Kewat
+#github https://github.com/aj-github-code
+print "Hello World"
+print "Aay was here to Say Hello World!"
