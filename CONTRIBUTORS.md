@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yaduttam Pareek](https://github.com/Yaduttam95)
+- Place: Jaipur, Rajasthan, India
+- Bio: Student ?
+- GitHub: [Yaduttam Pareek](https://github.com/Yaduttam95)
