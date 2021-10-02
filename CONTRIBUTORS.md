@@ -1,3 +1,7 @@
+#### Name: Muskan Tripathi
+ - Place: MP, India
+ - Bio: Final year undergrad(BTech-CSE).
+ - GitHub: [MuskanTripathi](https://github.com/MuskanTripathi)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
