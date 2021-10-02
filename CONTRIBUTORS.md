@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Kumar](https://github.com/harsh2k2)
+- Place: Haryana, India
+- Bio: Web developer, 2nd year Student
+- Github: [Harsh Kumar](https://github.com/harsh2k2)
