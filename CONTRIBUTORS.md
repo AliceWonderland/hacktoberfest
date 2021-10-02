@@ -1,3 +1,8 @@
+#### Name: Ajay Chaturvedi
+ - Place: Delhi, India
+ - Bio: Student of BTECH, Amity University.
+ - GitHub: [cht-ajay](https://github.com/cht-ajay)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
