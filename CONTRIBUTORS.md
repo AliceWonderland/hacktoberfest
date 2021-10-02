@@ -1131,6 +1131,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Front-End Developer
 - GitHub: [Joe Hanson](https://github.com/jahanson)
 
+#### Name: [Anmol Vishwakarma](https://github.com/not-devil)
+- Place: Dewas, M.P, India
+- Bio: Full Stack MERN Developer
+- GitHub: [not-devil](https://github.com/not-devil)
+
 #### Name: [JoeBanks13](https://github.com/JoeBanks13)
 - Place: York, United Kingdom
 - Bio: Backend web developer
