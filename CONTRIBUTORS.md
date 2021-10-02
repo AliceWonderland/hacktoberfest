@@ -2358,6 +2358,11 @@ Noida
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [Yash Kumar Singh](https://github.com/yash-kumar-yks)
+- Place: Lucknow, India
+- Bio: Competitive Coding, Now starting Github and open-source contribution.
+- GitHub: [yash-kumar-yks](https://github.com/yash-kumar-yks)
+
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
