@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Harsh Kumar](https://github.com/harsh2k2)
 - Place: Haryana, India
-- Bio: Web developer, 2nd year Student
+- Bio: Web developer, 2nd Year Student
 - Github: [Harsh Kumar](https://github.com/harsh2k2)
