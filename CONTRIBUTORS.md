@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fecino](https://github.com/fecino)
+- Place: Malang, Indonesia
+- Bio: ERP Programmer
+- Github: [Fecino](https://github.com/fecino)
