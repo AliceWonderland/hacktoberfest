@@ -1,13 +1,11 @@
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <body>
 
 <?php
-
-echo 'Hello world!';
-
+echo "Easy PHP!";
 ?>
   
 </body>
