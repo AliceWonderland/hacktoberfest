@@ -1,3 +1,9 @@
+#### Name: Harsh Kedia	
+ - Place: Delhi, India
+ - Bio: Student Btech CSE
+ - GitHub: [Harsh](https://github.com/harshkedia17)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -732,6 +738,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+
 
 #### Name: [Eric Briese](https://github.com/Atrolantra)
 - Place: Brisbane, Australia
