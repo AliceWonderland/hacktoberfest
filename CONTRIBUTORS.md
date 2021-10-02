@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tharaka Bandara](https://github.com/Ttecs)
+- Place: Moratuwa,srilanka
+- Bio: Web developer mobile developer
+- Github: [Ttecs](https://github.com/Ttecs)
