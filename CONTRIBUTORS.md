@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [NevinSelby](https://github.com/NevinSelby)
+- Place: India
+- Bio: I like to code
+- GitHub: [AP Pranav](https://github.com/NevinSelby)
