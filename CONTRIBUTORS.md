@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name:[Manish N](https://github.com/manish-ai)
+ - Place: Bangalore, India
+ - Bio: Software engineer. Graduated from JIT.
+ - GitHub: [manish-ai](https://github.com/manish-ai)
+ - 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
