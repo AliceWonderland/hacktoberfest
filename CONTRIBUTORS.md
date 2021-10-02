@@ -673,6 +673,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer
 - GitHub: [Dustin Woods](https://github.com/dustinywoods)
 
+#### Name: [Durga Pokharel](https://iamdurga.github.io)
+- Place: Kathmandu, Nepal
+- Bio: Student Of Master In Data Science at Tribhuvan University. 
+- GitHub: [Durga Pokharel](https://github.com/iamdurga)
+
 #### Name: [Dvir](https://github.com/dvur12)
 - Place: Israel
 - Bio: \x90\x90\x90\x90
