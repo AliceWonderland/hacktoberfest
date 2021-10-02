@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sameer Kapil](https://github.com/keepcodingstar)
+- Place: Hisar, Haryana, India
+- Bio: UI/UX Developer
+- GitHub: [keepcodingstar](https://github.com/keepcodingstar)
