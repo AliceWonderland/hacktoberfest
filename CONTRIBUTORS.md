@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jmcclung3509](https://github.com/jmcclung3509)
+- Place: Pacifica, California
+- Bio: Mom and student
+- Github [jmcclung3509](https://github.com/jmcclung3509)
