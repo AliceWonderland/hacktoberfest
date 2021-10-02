@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    char a[30]={'H','e','l','l','o',' ','W','o','r','l','d','!','\0'};
+    char a[30]={'H','e','l','l','o','\n','W','o','r','l','d','!','\0'};
 
     cout<<a;
     
