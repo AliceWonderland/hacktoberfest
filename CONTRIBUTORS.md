@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+- #### Name: [Divyansh chawda](https://github.com/divyansh1110)
+- Place: Chhattisgarh,India
+- Bio: Eat Sleep Code Repeat.
+- GitHub: [Divyansh chawda](https://github.com/divyansh1110)
