@@ -1,3 +1,8 @@
+#### Name: Florent Haxhiu
+ - Place: London, United Kingdom
+ - Bio: Basketball addict
+ - Github: [Florent Haxhiu](https://github.com/florent-haxhiu)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
