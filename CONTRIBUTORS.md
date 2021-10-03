@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priyansh Tyagi](https://github.com/priyanshty19)
+- Place: New Delhi, India
+- Bio: Web Developer, Machine learning Enthusiast
+- Github: [Priyansh Tyagi](https://github.com/priyanshty19)
