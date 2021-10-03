@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohit Prasad](https://github.com/Rohitprasad83/)
+- Place: Kolkata, India
+- Bio: Web developer.
+- Github: [Rohit Prasad](https://github.com/Rohitprasad83/)
