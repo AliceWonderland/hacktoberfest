@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [S ADITYA](https://github.com/Adityadamen)
+- Place: Bhilai
+- Bio: Data Scientist
+- GitHub: [Adityadamen](https://github.com/Adityadamen)
