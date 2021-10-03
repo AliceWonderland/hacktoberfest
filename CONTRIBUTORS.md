@@ -1,3 +1,8 @@
+#### Name: [Pushpanjali Nema](https://github.com/pushpanjali-10)
+- Place: Jabalpur, M.P, India
+- Bio: Web developer.
+- GitHub: [Pushpanjali Nema](https://github.com/pushpanjali-10)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
