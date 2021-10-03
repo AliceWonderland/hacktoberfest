@@ -1,3 +1,7 @@
+#### Name: [Agni Pradhan]
+ - Place: Kaski, Nepal
+ - Bio: 1st year computer engineering student.
+ - GitHub: [agnipradhan](https://github.com/agnipradhan)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
