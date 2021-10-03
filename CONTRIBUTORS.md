@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [VInayak Gupta](https://github.com/tovinayak)
+- Place: Pune, Maharashtra, India
+- Bio: Java Developer with intrest in cybersecurity
+- GitHub: [tovinayak](https://github.com/tovinayak)
