@@ -340,6 +340,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist , Android Developer
 - Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
 
+#### Name: [Ayushman Bedi](https://github.com/ayushmanbedi/)
+- Place: Rajasthan, India
+- Bio: Robotics Enthusiast|Mechatronics UG|Computer Science enthusiast
+- GitHub: [ayushmanbedi](https://github.com/ayushmanbedi/)
+
 #### Name: [Ayushman KB](https://github.com/namhsuya/)
 - Place: Calcutta, India
 - Bio: Life sciences student|Dev|Linux enthusiast
