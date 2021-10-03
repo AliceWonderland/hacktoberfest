@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Amit Singh Rajawat
+ - Place: Madhya Pradesh, India
+ - Bio: Software developer, studying B.Tech AIR(Artificial Intelligence and Robotics) 
+ - GitHub: [Amit Singh](https://github.com/amitsingh-24)
