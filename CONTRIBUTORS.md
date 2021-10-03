@@ -1,3 +1,8 @@
+#### Name: [Aditya](https://github.com/AdityaR6)
+- Place: Mumbai, Maharashtra, India
+- Bio: Second Year IT Student 
+- GitHub: [AdityaR6](https://github.com/AdityaR6)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
