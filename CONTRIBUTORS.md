@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nakul Shahdadpuri](https://github.com/nakul-shahdadpuri)
+- Place: India
+- Bio: Deep Learning and Python
+- Github: [Nakul Shahdadpuri](https://github.com/nakul-shahdadpuri)
+
