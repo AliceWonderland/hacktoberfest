@@ -6,7 +6,7 @@
 #### Name: Rajat
  - Place: Hamirpur, India
  - Bio: Software engineer. Graduated from IIT Roorkee.
- - GitHub: [Vallenain](https://github.com/Rajat-Sharma1710)
+ - GitHub: [Rajat](https://github.com/Rajat-Sharma1710)
  
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
