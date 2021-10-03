@@ -1,3 +1,8 @@
+#### Name: [KRISHN PANCHAL](https://github.com/agnieszka-miszkurka)
+- Place: India
+- Bio: second year Computer endinnering Student (BE) and Web Developer
+- GitHub: [phovious-14](https://github.com/phovious-14)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
