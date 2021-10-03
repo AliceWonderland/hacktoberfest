@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [YugandharaP](https://github.com/YugandharaP)
+- Place: Maharashtra, India
+- Bio: Software Engineer in Accenture
+- Github: [YugandharaP](https://github.com/YugandharaP)
