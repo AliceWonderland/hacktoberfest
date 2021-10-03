@@ -11,6 +11,7 @@ Institute Technology of Sumatera
 ### Interests
 
 - AI.
+- ML.
 
 ### Profile Link
 

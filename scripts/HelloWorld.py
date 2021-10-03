@@ -2,4 +2,4 @@
 # AUTHOR: Dhifaf Athiyah Zhabiyan
 # Github: http://github.com/dhifafaz/
 
-print('Hello, world!')
+print('Hello, world! by dhifaf')
