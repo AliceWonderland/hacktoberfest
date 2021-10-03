@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nathanielle Romero](https://github.com/nathaniellers)
+- Place: MNL, Philippines
+- Bio: Software Engineer
+- Github: [Nathanielle Romero](https://github.com/nathaniellers)
