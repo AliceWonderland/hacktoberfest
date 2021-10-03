@@ -2,46 +2,46 @@
 
 
 
--Location
+Location
 
--Maharashtra/India
+- Maharashtra/India
 
 
 
 Education
 
-BE in CS
+- BE in CS
 
 
 
 Interests
 
-Movies
+- Movies
 
-Binge Watching TV Shows
+- Binge Watching TV Shows
 
-Web Development
+- Web Development
 
-Software Enginner
+- Software Enginner
 
-Travelling
+- Travelling
 
-Photography
+- Photography
 
-Development
+- Development
 
-Developed my brain to watch good movies and recommend it to others.
+- Developed my brain to watch good movies and recommend it to others.
 
 
 
 Projects
 
-Works on MacD project
+- Works on MacD project
 
-Works on AWS
+- Works on AWS
 
 
 
 Profile Link
 
-YugandharaP
+https://github.com/YugandharaP
