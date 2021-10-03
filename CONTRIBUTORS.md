@@ -1,3 +1,7 @@
+#### Name: [ROBERT HASSENMAYER](https://github.com/AcousticCh)
+ - Place: Milford, Pennsylvania, USA
+ - Bio: Back-end Developer
+ - Github: [Robert Hassenmayer](https://github.com/AcousticCh)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
