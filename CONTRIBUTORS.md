@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akash Rao](https://github.com/akash-rao-2001)
+- Place: karnataka, india
+- Bio: computer science engineer
+- GitHub: [Akash Rao](https://github.com/akash-rao-2001)
