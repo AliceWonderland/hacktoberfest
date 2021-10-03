@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rakesh](https://github.com/Destroyer11411)
+- Place:Karnataka,india
+- Bio: Computer Science Student
+- Github: [Destroyer11411](https://github.com/Destroyer11411) 
