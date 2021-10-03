@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Riya Jaiswal](https://github.com/riya1916)
+- Place: Azamgarh, Uttar Pradesh, India
+- Bio: I am student(web developer)
+- GitHub: [riya1916](https://github.com/riya1916)
+
