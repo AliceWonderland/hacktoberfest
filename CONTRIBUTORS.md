@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ankit Kumar](https://github.com/AKUMAR397800)
+- Place: Kocha Bhawar, BIET Jhansi
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/AKUMAR397800)
