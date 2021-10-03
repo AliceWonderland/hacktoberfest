@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [WildhanTri](https://github.com/WildhanTri)
+- Place: Depok, West Java, Indonesia
+- Bio: Software Developer
+- GitHub: [WildhanTri](https://github.com/WildhanTri)
