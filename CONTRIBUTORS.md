@@ -1,7 +1,7 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: ALEX
+ - Place: Patna,India
+ - Bio: web developer.
+ - GitHub: [Alex8091](https://github.com/Alex8091)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
