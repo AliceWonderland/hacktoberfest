@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikhil Dev](https://github.com/nikhildev23)
+- Place: Patna, Bihar, India
+- Bio: CSAI, IIITL
+- GitHub: [nikhildev23](https://github.com/nikhildev23)
