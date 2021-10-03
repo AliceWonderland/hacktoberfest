@@ -1,3 +1,8 @@
+#### Name: Samyak Jain
+ - Place: Delhi,India
+ - Bio: second year Computer Science Student
+ - GitHub: [SamyakJainnnn](https://github.com/SamyakJainnnn)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
