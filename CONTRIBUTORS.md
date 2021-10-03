@@ -1,6 +1,6 @@
 #### Name: Kanishk
  - Place: Bhopal, India
- - Bio: Systems Engineer, Infosys.
+ - Bio: Systems Engineer, Infosys .
  - GitHub: [kanishk0210](https://github.com/kanishk0210)
 
 #### Name: Vallenain
