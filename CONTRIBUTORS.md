@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aayush](https://github.com/ash051)
+- Place: Nashik , Maharashtra , India
+- Bio: Computer Engineering Student 
+- Github: [Aayush](https://github.com/ash051)
