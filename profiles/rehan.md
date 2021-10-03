@@ -1,1 +1,4 @@
-Hello my name is rehan and I am WEB DEVELOPER
+Mohd Rehan Qureshi
+Computer Science student at RGPV
+
+GITHUB: mohdrehanrq0
