@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Gopal Mengi
+- Place: Chandigarh, India
+- Bio: Web Developer,Data Science and ML enthusiast
+- Github: GopalMengi
