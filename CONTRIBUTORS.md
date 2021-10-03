@@ -2408,11 +2408,6 @@ Noida
 - Bio: Student FreeCodeCamp interested in PWA's
 - Github: [gipsi](https://github.com/gipsi)
 
-#### Name: [Kavisha Nethmini](https://github.com/kavisha-nethmini)
-- Place: Sri Lanka
-- Bio: Student intreseted in UI designing and data science
-- Github: [kavisha-nethmini](https://github.com/kavisha-nethmini)
-
 #### Name: [syamkumar](https://github.com/syam3526)
 - Place:kerala,india
 - Bio: data scientist
