@@ -1,0 +1,13 @@
+/*
+  LANGUAGE: JAVA
+  AUTHOR: Bhanu Pratap Singh
+  GITHUB: https://github.com/bhanupsingh10
+*/
+
+public class helloworld_jav {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+
+}
