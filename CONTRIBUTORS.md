@@ -1,3 +1,9 @@
+#### Name: Mohd Rehan Qureshi
+ - Place: MP, India
+ - Bio: Student at SVCE , Bhopal, India
+ - GitHub: [mohdrehanrq0](https://github.com/mohdrehanrq0)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
