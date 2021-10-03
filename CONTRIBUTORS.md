@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Nimit
+ - Place: Delhi, India
+ - Bio: Student 
+ - GitHub: [Nimit1705](https://github.com/Nimit1705)
