@@ -56,10 +56,10 @@ git push origin branch-name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
+#### Name: [Najeeb](https://github.com/najeebdev98/)
+- Place: Hyedrabad, Telangana, India
 - Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- GitHub: [najeebdev](https://github.com/najeebdev98/)
 ```
 
 ### 2. Add a profile page
