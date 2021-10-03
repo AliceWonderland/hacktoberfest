@@ -3,7 +3,7 @@ S ADITYA
 LOCATION:
 Bhilai,India.
 ACADEMICS:
-I’m in final year at SRM UNIVERSITY-KTR, doing majors in CS and I completed my schooling from MGM Senior secondary School.
+I’m in pre final year at SRM UNIVERSITY-KTR, doing majors in CS and I completed my schooling from MGM Senior secondary School.
 INTERESTS:
 Natural Language Processing.
 Machine learning.
