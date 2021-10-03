@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pankaj Bhattarai](https://github.com/im-endangered)
+- Place: Kathmandu, Nepal
+- Bio: Second year CS Student
+- Github: [Pankaj Bhattarai](https://github.com/im-endangered)
