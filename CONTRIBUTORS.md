@@ -2427,8 +2427,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
-#### Name: [rohan9024](https://github.com/rohan9024)
-- Place: Mumbai, India
-- Bio: Web developer, Machine learning and Python
-- Github: [rohan9024](https://github.com/rohan9024)
