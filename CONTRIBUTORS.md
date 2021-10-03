@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rakesh Roy](https://github.com/yrs-rosh)
+- Place: Patna , India
+- Bio: Web developer PHP and Python
+- Github: [yrs-rosh](https://github.com/yrs-rosh)
