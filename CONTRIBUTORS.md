@@ -1704,6 +1704,12 @@ Noida
 - Bio: Student of Software Engineering who likes puzzles.
 - GitHub: [nelsonmestevao](https://github.com/nelsonmestevao)
 
+#### Name: [Nevin Selby](https://github.com/NevinSelby)
+- Place: India
+- Bio: Student of Software Engineering who likes puzzles.
+- GitHub: [NevinSelby](https://github.com/NevinSelby)
+
+
 #### Name: [Niall Cartwright](https://github.com/Nairu)
 - Place: Birmingham, UK
 - Bio: Avid Games dev hobbyist, work for 3SDL as a software developer.
