@@ -36,7 +36,7 @@ Interests
 
 Projects
 
-- Works on MacD project
+- Works on Mcd project
 
 - Works on AWS
 
