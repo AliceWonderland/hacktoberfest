@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [AUM DAVDA](https://github.com/aumdavda)
+- Place: gujarat,India
+- Bio: Web developer and graphic designer
+- Github: [AUM DAVDA](https://github.com/aumdavda)
