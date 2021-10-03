@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ankita Kumari](https://github.com/Blankita21)
+- Place: Kolkata, India
+- Bio: Frontend Web developer 
+- Github: [Blankita21](https://github.com/Blankita21)
