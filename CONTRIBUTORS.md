@@ -18,10 +18,17 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
-#### Name: [AMIT CHAMBIAL](https://github.com/devaman)
+#### Name: [L](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+
+Yashi khandelwal
+#### Name: [Yashi khandelwal](https://github.com/Yashi201)
+- Place: Madhya Pradesh, India
+- Bio: Full Stack developer
+- GitHub: [Yashi201](https://github.com/Yashi201)
+
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
