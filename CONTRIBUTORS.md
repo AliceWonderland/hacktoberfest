@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Yaduttam Pareek](https://github.com/Yaduttam95)
 - Place: Jaipur, Rajasthan, India
-- Bio: Student ?
+- Bio: Computer Science student.
 - GitHub: [Yaduttam Pareek](https://github.com/Yaduttam95)
