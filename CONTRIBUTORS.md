@@ -310,6 +310,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Major / UI/UX Designer
 - GitHub: [ashishkrishan1995](https://github.com/ashishkrishan1995)
 
+#### Name: [Atanu Ghosh] ( https://github.com/zabuja )
+- Place: Kolkata, West Bengal, India
+- Bio: 19y/o aspiring fullstack developer
+- GitHub: [Atanu Ghosh](https://github.com/zabuja)
+
 #### Name: [Attila Blascsak](https://github.com/blascsi)
 - Place: Hungary
 - Bio: Front-end dev. Love React!
