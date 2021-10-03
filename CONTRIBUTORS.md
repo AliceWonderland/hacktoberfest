@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bhanu Pratap Singh](https://github.com/bhanupsingh10)
+- Place: Jaipur, India
+- Bio: Student LNMIIT Jaipur
+- Github: [bhanupsingh10](https://github.com/bhanupsingh10)
