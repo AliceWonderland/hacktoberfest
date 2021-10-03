@@ -1,4 +1,4 @@
-#### Name: Vallenain
+﻿#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samarth Kadam](https://github.com/SamarthKadam)
+- Place: Karwar, Karnataka, India
+- Bio: Web developer ,JS expert
+- GitHub: [Samarth Kadam](https://github.com/SamarthKadam)
