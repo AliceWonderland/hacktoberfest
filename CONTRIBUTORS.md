@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Kumar](https://github.com/shubham-singh-748)
+  - Place: Dhanbad, Jharkhand, India
+  - Bio: Computer Science Student
+  - GitHub: [Shubham Kumar](https://github.com/shubham-singh-748)
