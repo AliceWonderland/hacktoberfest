@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kevin George Dalpathadu](https://github.com/KEVIN-17745)
+- Place: Milano, Lombardy, Italy
+- Bio: Final Year Computer Science Student
+- GitHub: [KEVIN-17745](https://github.com/KEVIN-17745)
