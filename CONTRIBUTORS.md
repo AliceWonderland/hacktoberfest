@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sakshi Kashyap](https://github.com/Sakshi1019)
+- Place: Rajasthan, India
+- Bio: Programmer (Java)
+- Github: [Sakshi1019](https://github.com/Sakshi1019)
