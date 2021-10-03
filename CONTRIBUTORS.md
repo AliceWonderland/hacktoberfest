@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DeveloperAdam](https://github.com/DeveloperAdam-github)
+- Place: London, United Kingdom
+- Bio: A Junior Front End Developer
+- GitHub: [DeveloperAdam-github](https://github.com/DeveloperAdam-github)
