@@ -1,3 +1,7 @@
+#### Name: Chetan gupta
+- Place: Meerut, Uttar Pradesh, India
+- Bio: Student, Full stack developer
+- GitHub: [Chetan Gupta](https://github.com/chetan2797)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
