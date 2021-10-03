@@ -1297,6 +1297,12 @@ to explore life. Also, Python and Django Developer
 - Place: Wiener Neustadt, Austria
 - Bio: Computer Science Student
 - GitHub: [Konstantin](https://github.com/Kola50011)
+- 
+- #### Name: Naitik
+ - Place: India
+ - Bio: Student
+ - GitHub: [naitik8084](https://github.com/naitik8084)
+
 
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
