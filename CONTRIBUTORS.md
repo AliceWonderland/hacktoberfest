@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: Pushpanjali Nema
+ - Place: M.P , India
+ - Bio: Web developer.
+ - GitHub: [Pushpanjali Nema](https://github.com/pushpanjali-10)
+ 
+ #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
