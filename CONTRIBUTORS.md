@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anirudha Surve](https://github.com/Anirudha10/)
+- Place: Vadodara,India
+- Bio: Second year CS Student , VIT 
+- Github: [Anirudha10 ](https://github.com/Anirudha10/)
