@@ -1,3 +1,7 @@
+#### Name: [Abhinay Singh](https://github.com/abhinay9601)
+- Place: Shahjahanpur UttarPradesh India
+- Bio: Third year computer science student
+- GitHub: [abhinay9601](https://github.com/abhinay9601)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
