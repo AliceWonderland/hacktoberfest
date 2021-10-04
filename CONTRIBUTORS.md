@@ -1298,6 +1298,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Student
 - GitHub: [Konstantin](https://github.com/Kola50011)
 
+#### Name: [K Krishna](https://github.com/KulkarniKrishna)
+- Place: Hyderabad, Telangana State, India
+- Bio: IT student at Vasavi College of Engineering, HYD, TS
+- GitHub: [KulkarniKrishna](https://github.com/KulkarniKrishna)
+
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
 - Bio: Open Data and Open Knowledge activist
