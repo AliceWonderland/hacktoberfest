@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishav Das](https://github.com/rdofficial)
+- Place: Jamshedpur, Jharkhand, India
+- Bio: Class 12 CBSE student
+- Github: [rdofficial](https://github.com/rdofficial)
