@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Harshit
+ - Place: India
+ - Bio: Student
+ - GitHub: (https://github.com/Harshit-Pratap-Singh)
