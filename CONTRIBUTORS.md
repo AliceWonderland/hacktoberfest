@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lakshay Thakur](https://github.com/thakurlakshay2)
+- Place: Rani Bagh,New Delhi, Delhi, India
+- Bio: Software Developer
+- GitHub: [thakurlakshay2](https://github.com/thakurlakshay2)
