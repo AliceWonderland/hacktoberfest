@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [woterr ](https://github.com/woterr)
+- Place: Sydney, AUS
+- Bio: I am a UI designer
+- GitHub: [woterr](https://github.com/woterr)
