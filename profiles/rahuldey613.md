@@ -19,7 +19,7 @@ Birla Institute of Technology
 
 ### Projects
 
-- Corona DB - A site for seeing live stats of cases.
+- [Corona DB](https://github.com/rahuldey613/Corona) - A site for seeing live stats of cases.
 
 ### Profile Link
 
