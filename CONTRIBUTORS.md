@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Elridge Fernandes](https://github.com/elridge1311)
+- Place: India
+- Bio: Software Engineer
+- Github: [Elridge1311](https://github.com/elridge1311)
