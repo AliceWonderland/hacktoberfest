@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Nur Ashiddiqi](https://github.com/MuhammadNurAshiddiqi)
+- Place: Lampung, Indonesia
+- Bio: Data Scientist, Machine Learning and AI enthusiast
+- Github: [Muhammad Nur Ashiddiqi](https://github.com/MuhammadNurAshiddiqi)
