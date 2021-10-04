@@ -2077,6 +2077,12 @@ Noida
 - Bio: Student/Andriod Developer
 - GitHub: [shobhit1997](https://github.com/shobhit1997)
 
+#### Name: [Shravana Tirtha](https://github.com/shravanatirtha)
+- Place: Coimbatore, Tamilnadu, India
+- Bio: Undergrad Student, GDSC KIT Lead
+- GitHub: [Shravana Tirtha](https://github.com/shravanatirtha)
+
+
 #### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Undergrad at IIITA
