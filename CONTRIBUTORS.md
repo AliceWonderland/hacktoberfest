@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pranjul Agarwal](https://github.com/PranjulAgarwal)
+- Place: Uttarakhand, India
+- Bio: Web developer, Full Stack Developer, Competitive Programmer
+- Github: [Pranjul Agarwal](https://github.com/PranjulAgarwal)
+- Profile: [Pranjul Agarwal](https://pranjulagarwal.github.io/)
