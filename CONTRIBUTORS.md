@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Supasin Nguantad](https://github.com/supasinn)
+- Place: Bangkok, Thailand
+- Bio: Cloud Engineer in development team.
+- GitHub: [supasinn](https://github.com/supasinn)
