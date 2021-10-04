@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alexander](https://github.com/echzio) 
+- Place: Nabarezhnye Chelny, Russia 
+- Bio: Software engineer 
+- GitHub: [Echzio](https://github.com/echzio)
