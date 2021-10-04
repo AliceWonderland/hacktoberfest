@@ -930,6 +930,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer, Student
 - Github: [Hardik Surana](https://github.com/hardiksurana)
 
+#### Name: [Haris Nabeel](http://github.com/M-Haris-N)
+- Place: Lahore, Pakistan
+- Bio: Student, Web Developer, Django Developer, WordPress Developer
+- GitHub: [M. Haris Nabeel](http://github.com/M-Haris-N)
+
 #### Name: [Harshil Agrawal](https://github.com/harshil1712)
 -Place: Vadodara, India
 -Bio: Student,Web Developer
