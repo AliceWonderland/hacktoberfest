@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Susheel Kumar](https://github.com/susheel-kumar-1998)
+- Place: Hyderabad, Telangana, India
+- Bio: Working Professional
+- Github: [Susheel Kumar](https://github.com/susheel-kumar-1998)
