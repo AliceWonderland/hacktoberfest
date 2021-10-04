@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Simran Keshri](https://github.com/sims-keshri)
+- Place: Pune, India
+- Bio: Full Stack Developer
+- Github: [Simran Keshri](https://github.com/sims-keshri)
