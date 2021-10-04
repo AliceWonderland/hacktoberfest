@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adwaith S](https://github.com/SnappierSoap318)
+- Place: Kerala, India
+- Bio: Student, Game Developer
+- Github: [Adwaith S](https://github.com/SnappierSoap318)
