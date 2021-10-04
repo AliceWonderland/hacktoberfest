@@ -98,6 +98,11 @@
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
 
+#### Name: [Sumit Rana](https://github.com/Sumit67)
+- Place: Gurgaon, India
+- Bio: Computer Science Student
+- GitHub: [Sumit67](https://github.com/Sumit67)
+
 #### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
 - Place: Hyderabad, India
 - Bio: iOS Developer
