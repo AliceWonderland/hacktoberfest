@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+
+#### Name: Sachin
+ - Place: Kolkata,India 🇮🇳
+ - Bio: First Year Computer Science Student, love to code 🙂
+ - GitHub: [Sachin](https://github.com/Sachin03072002/sachin)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
