@@ -1085,6 +1085,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student studying BSc(CSIT).Currently working as a software engineer intern.
 - GitHub: [Jeevan Chapagain](https://github.com/jeevanc)
 
+#### Name: [Jefferson Ximenes](https://github.com/jeffersonximeness)
+- Place: Fortaleza, Brazil
+- Bio: CS Student
+- GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
+
 #### Name: [Jeffrey Ng](https://github.com/NgJeffrey/)
 - Place: California, United States
 - Bio: Student
