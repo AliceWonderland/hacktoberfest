@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Alex
+- Place: Milan, Italy
+- Bio: Software Engineer
+- GitHub: [xelk](https://github.com/XelK)
