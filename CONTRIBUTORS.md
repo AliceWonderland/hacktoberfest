@@ -2137,6 +2137,11 @@ Noida
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
+### Name: [Shubham Singh](https://github.com/shubham-singh-748)
+- Place: India
+- Bio: Doing B.Tech in Computer Science & Engineering
+- Github: [Shubham Singh](https://github.com/shubham-singh-748)
+
 #### Name: [Stephen Abrahim](https://github.com/lepah)
 - Place: Huntington Beach, CA
 - Bio: Games and things!
@@ -2427,8 +2432,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
-#### Name: [Shubham Kumar](https://github.com/shubham-singh-748)
-  - Place: Dhanbad, Jharkhand, India
-  - Bio: Computer Science Student
-  - GitHub: [Shubham Kumar](https://github.com/shubham-singh-748)
