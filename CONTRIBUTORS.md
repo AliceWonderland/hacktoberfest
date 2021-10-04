@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Shreya Agarwal](https://github.com/shreya0909)
+- Place: India
+- Bio: final year Computer Science Student
+- GitHub: [shreya agarwal](https://github.com/shreya0909)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
