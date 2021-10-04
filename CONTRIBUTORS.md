@@ -1,3 +1,8 @@
+#### Name: [KIADY RAJOELISOLO](https://github.com/kiady696)
+- Place: Antananarivo, Madagascar
+- Bio: Computer science student of a MSc, Web Developer, a tech Swiss knife.
+- GitHub: [kiady696](https://github.com/kiady696)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
