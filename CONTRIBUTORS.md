@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mehul Gaur](https://github.com/malignant-MG)
+- Place: New delhi, India
+- Bio: Web developer PHP and Java
+- Github: [Mehul Gaur](https://github.com/malignant-MG)
