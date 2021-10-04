@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ricardo Neftali Lazcano Calixto](https://github.com/ricnef2121)
+- Place: Coatzintla , Ver. Mexico
+- Bio: Developer Front-end
+- Github: [ricnef2121](https://github.com/ricnef2121)
