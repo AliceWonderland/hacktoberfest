@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Agung Ardiyanto](https://github.com/agungd3v)
+- Place: Banten, Indonesia
+- Bio: Web developer
+- Github: [agungd3v](https://github.com/agungd3v)
