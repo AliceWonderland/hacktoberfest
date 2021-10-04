@@ -2017,6 +2017,11 @@ Noida
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+#### Name: [Sandhya Kumari](https://github.com/Sandhya312)
+ - Place: Allahabad,Uttar Pradesh,India
+ - Bio:I am a student, currently pursuing B.Tech in CSE branch.
+ - GitHub: [Sandhya312](https://github.com/Sandhya312)
+
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
