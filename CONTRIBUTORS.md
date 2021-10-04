@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arnab Chakraborty](https://github.com/ArnabC27)
+- Place: Kolkata, West Bengal, India
+- Bio: I'm a 20 year old guy pursuing a degree in Computer Science Engineering.
+- GitHub: [ArnabC27](https://github.com/ArnabC27)
