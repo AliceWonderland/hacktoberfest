@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priya Gupta](https://github.com/pg00019)
+- Place: Jamshedpur,Jharkhand,India
+- Bio: Web developer
+- GitHub: [Priya Gupta](https://github.com/pg00019)
