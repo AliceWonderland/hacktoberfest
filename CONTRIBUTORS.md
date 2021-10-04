@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohit Choudhary](https://github.com/rohitwork/)
+- Place: India
+- Bio: Computer Science and Engineering B.Tech Student 
+- GitHub: [Rohit Choudhary](https://github.com/rohitwork)
