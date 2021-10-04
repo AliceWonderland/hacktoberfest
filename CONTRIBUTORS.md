@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Debalina Mazumder](https://github.com/lina309)
+- Place: West Bengal, India
+- Bio: Engineering Student
+- Github: [Debalina Mazumder](https://github.com/lina309)
