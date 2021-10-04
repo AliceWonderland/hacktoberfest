@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vishnu K](https://github.com/VishDroid-dev)
+- Place: Kerala, India
+- Bio: Full stack developer and CTF player
+- Github: [VishDroid-dev](https://github.com/VishDroid-dev)
