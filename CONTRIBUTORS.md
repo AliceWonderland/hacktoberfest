@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vasu]
+- Place: Punjab , India
+- Bio: Computer science Undergrad
+- Github: [VasuJoshi](https://github.com/Vasujoshi1203)
