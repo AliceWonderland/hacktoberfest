@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ronald](https://github.com/rmnxex)
+- Place: Jakarta, Indonesia
+- Bio: Gamers
+- GitHub: [Ronald](https://github.com/rmnxex)
