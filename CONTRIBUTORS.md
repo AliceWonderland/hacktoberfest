@@ -2082,6 +2082,11 @@ Noida
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
 
+### Name: [Shubham Singh](https://github.com/shubham-singh-748)
+- Place: Dhanbad, Jharkhand, India
+- Bio: Doing BTech from CSE
+- Github: [Shubham Singh](https://github.com/shubham-singh-748)
+
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
 - Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
