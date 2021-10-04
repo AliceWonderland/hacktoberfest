@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Jules Deckers](https://github.com/julesdeckers)
+- Place: Sint-Niklaas, Belgium
+- Bio: Web developer Full Stack
+- Github: [Jules Deckers](https://github.com/julesdeckers)
