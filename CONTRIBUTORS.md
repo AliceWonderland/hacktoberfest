@@ -2017,6 +2017,11 @@ Noida
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+#### Name: [Samridhi Jain](https://github.com/samridhijain27)
+ - Place: Delhi , India
+ - Bio: Programming :On a journey , eat pray love style.
+ - GitHub: [samridhijain27](https://github.com/samridhijain27) 
+
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
