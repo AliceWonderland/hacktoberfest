@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shakthi Hettiarachchi](https://github.com/shakthidilshan)
+- Place: Colombo, Sri Lanka
+- Bio: Software Developer (Java, Flutter, Native Android)
+- Github: [Shakthi Hettiarachchi](https://github.com/shakthidilshan)
