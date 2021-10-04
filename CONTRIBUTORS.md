@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [melnicolesdev](https://github.com/melnicolesdev)
+- Place: Newfoundland, Canada
+- Bio: Front-End developer
+- Github: [melnicolesdev](https://github.com/melnicolesdev)
