@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [Astitva](https://github.com/Astitva23)
+- Place: Chhattisgarh,India
+- Bio: A student and a Gaming content creator
+- GitHub: [Astitva23](https://github.com/Astitva23)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
