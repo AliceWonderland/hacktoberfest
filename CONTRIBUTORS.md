@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Raj Sinha](https://github.com/strivercoder99)
+-Place: Ranchi ,Jharkhand,India
+-Bio: CSE Sophomore,Tech-Enthusiastic,Knows C/C++ , Data-Structres , HTML and CSS, Hobbies are Traveling , Playing Video games And solving Maths.
+-GitHub: [strivercoder99](https://github.com/strivercoder99)
