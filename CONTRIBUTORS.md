@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mario Saptoro](https://github.com/mariosamaaa)
+- Place: Cilegon, Indonesia
+- Bio: Code for my life
+- Github: [mArio](https://github.com/mariosamaaa)
