@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Priya Gupta](https://github.com/pg00019)
 - Place: Jamshedpur,Jharkhand,India
-- Bio: Web developer?
+- Bio: Web developer
 - GitHub: [Priya Gupta](https://github.com/pg00019)
