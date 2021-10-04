@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Rutvij Wamanse
+ - Place: Mumbai, India
+ - Bio: Student
+ - GitHub: [rutvij-25](https://github.com/rutvij-25)
