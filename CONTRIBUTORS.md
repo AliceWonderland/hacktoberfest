@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matthew Marquise](https://matthewmarquise.com)
+- Place: Raleigh, NC, United States
+- Bio: Front End Developer and Product Designer.
+- GitHub: [MattMarquise](https://github.com/MattMarquise)
