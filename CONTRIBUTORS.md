@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Srihari S](https://github.com/Liri-s29)
+- Place: Chennai, India
+- Bio: Full stack web and app developer
+- Github: [Srihari S](https://github.com/Liri-s29)
