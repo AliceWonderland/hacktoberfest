@@ -1,5 +1,5 @@
 # K. Krishna
-K. Krishna
+
 ### Location
 
 Hyderabad, India
