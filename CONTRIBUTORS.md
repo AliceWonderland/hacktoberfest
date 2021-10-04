@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Ítalo Epifânio](https://github.com/pranavparth0104)
+#### Name: [Pranav Parth](https://github.com/pranavparth0104)
 - Place: Blr, India
 - Bio: Web developer
-- Github: [Ítalo Epifânio](https://github.com/pranavparth0104)
+- Github: [Pranav Parth](https://github.com/pranavparth0104)
