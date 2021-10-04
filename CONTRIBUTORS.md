@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [tirth](https://github.com/tirth485)
+- Place: gujrat,india
+- Bio: student
+- GitHub: [tirth485](https://github.com/tirth485)
