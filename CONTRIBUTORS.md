@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ADITYA SINGH](https://github.com/Aditya2603)
+- Place: GHAZIABAD,INDIA
+- Bio: COMPUTER GEEK
+- GitHub: [ADITYA SINGH](https://github.com/Aditya2603)
