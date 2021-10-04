@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ujjwal Aggarwal](https://github.com/aggarwal-ujjwal)
+- Place: India
+- Bio: Software Engineer
+- Github: [Ujjwal Aggarwal](https://github.com/aggarwal-ujjwal)
