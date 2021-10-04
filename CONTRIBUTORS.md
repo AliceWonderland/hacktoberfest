@@ -1869,6 +1869,11 @@ Noida
 - Bio: EECS Student \@ NorthwesternU
 - GitHub: [PureHyd](https://github.com/PureHyd)
 
+#### Name: [Bam](https://github.com/putsbam)
+- Place: Sao Paulo, Brazil
+- Bio: Web/Bot Developer
+- GitHub: [putsbam](https://github.com/putsbam)
+
 #### Name: [RAFAEL MENEZES](https://github.com/RafaelSa94)
 - Place: Boa Vista, Roraima, Brazil
 - Bio: Computer Science Major
