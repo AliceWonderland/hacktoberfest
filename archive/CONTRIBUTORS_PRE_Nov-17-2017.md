@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Khushi Mishra](https://github.com/khushi-mishra0408)
+- Place: Bhopal, India
+- Bio: Web Developer
+- Github: [Khushi Mishra](https://github.com/khushi-mishra0408)
