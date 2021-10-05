@@ -1614,6 +1614,11 @@ Noida
 - Bio: CS student aspiring to become a better coder
 - GitHub: [Michelle Uy](https://github.com/breindy/)
 
+#### Name: [Mikidoodle](https://github.com/mikidoodle)
+- Place: The Cloud
+- Bio: CS student who likes node.js and Swift,
+- GitHub: [mikidoodle](https://github.com/mikidoodle)
+- 
 #### Name: [Miltos Katifedenios] (https://github.com/miltoskat)
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
