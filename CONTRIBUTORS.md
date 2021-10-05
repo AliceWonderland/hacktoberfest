@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dicky Setiono](https://github.com/Dicky1)
+- Place: Tegal, Indonesia
+- Bio: Web developer And Security Analysis
+- Github: [Dicky Setiono](https://github.com/Dicky1)
