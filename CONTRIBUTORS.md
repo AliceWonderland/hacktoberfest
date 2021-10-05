@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [ROMY KUMARI](https://github.com/romy421kumari)
+- Place: India
+- Bio: I like to sing
+- GitHub: [ROMY KUMARIv](https://github.com/romy421kumari)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
