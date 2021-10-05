@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+### Name: [Rahul Chaudhary](https://github.com/rahulch02)
+- Place: Delhi, India
+- Bio: Second year undergraduate (electrical engineering)
+- Github: [rahulch02](https://github.com/rahulch02)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
