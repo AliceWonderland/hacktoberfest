@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rimi Das](https://github.com/rimi-here)
+- Place: kolkata , India 
+- Bio: Web developer  , python , java 
+- Github: [Rimi Das](https://github.com/rimi-here)
