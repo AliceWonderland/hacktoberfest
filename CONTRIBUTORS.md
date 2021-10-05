@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kavisha Nethmini](https://github.com/kavisha-nethmini)
+- Place: Sri Lanka
+- Bio: Student interested in data science and UI designing
+- GitHub: [kavisha-nethmini](https://github.com/kavisha-nethmini)
