@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Neh Majmudar](https://github.com/Lewy09-Tm25)
+- Place: Vadodara, Gujarat
+- Bio: ML developer and Python
+- Github: [Neh Majmudar](https://github.com/Lewy09-Tm25)
