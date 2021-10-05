@@ -1649,6 +1649,11 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [Muskan Gupta](https://github.com/muskan89)
+- Place: Gaya, Bihar, India
+- Bio: IITian, Competitive programmer, love to code , exploring web development
+- GitHub: [muskan89](https://github.com/muskan89)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
