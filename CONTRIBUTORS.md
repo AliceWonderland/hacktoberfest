@@ -1649,6 +1649,11 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [YOUR NAME](https://github.com/nabeelraza-7)
+- Place: Jhang, Punjab, Pakistan
+- Bio: A computer engineering student
+- GitHub: [GitHub account name](https://github.com/nabeelraza-7)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
