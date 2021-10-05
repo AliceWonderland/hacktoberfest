@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ishaan Shrivastava] (https://github.com/shrivastava95)
+ - Place: Chandigarh, India
+ - Bio: Sophomore. I fold paper. Learning to code.
+ - Github: [shrivastava95] (https://github.com/shrivastava95)
