@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [nuruslaily](https://github.com/nuruslaily)
+- Place: Malang, East Java, Indonesia
+- Bio: Malang State Polytechnic undergraduate engineering student
+- GitHub: [nuruslaily](https://github.com/nuruslaily)
