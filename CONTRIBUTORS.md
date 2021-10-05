@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [MOHAMMAD SHAIBAZ QAISAR](https://github.com/MOHAMMADSHAIBAZQAISAR)
+- Place: HYDERABAD, TELANGANA, INDIA
+- Bio: COMPITIVE PROGRAMMER, LEARNING SOFTWARE DEVELOPHMENT
+- GitHub: [MOHAMMADSHAIBAZQAISAR](https://github.com/MOHAMMADSHAIBAZQAISAR)
