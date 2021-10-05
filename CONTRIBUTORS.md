@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ednara
+- Place: São Luís, Brasil
+- Bio: SCompSci from UFMA.
+- GitHub: [Ednara](https://github.com/ednara)
