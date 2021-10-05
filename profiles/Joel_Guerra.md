@@ -1,29 +1,25 @@
-# Joel Guerra
+# Wildan Hanif
 
 ### Location
 
-Seattle
+Indonesia
 
 ### Academics
 
-Dev Bootcamp
+IDN Boarding School
 
 ### Interests
 
-Building cars
-Racing cars
-Collecting guns
-Competetive shooting
+Designer
 
 ### Development
 
-Free lance projects.
+-
 
 ### Projects
 
-- [Whiteboardr](http://whiteboardr.herokuapp.com) a web app for developers to practice their technical interview skills.
-- [Police Watch](http://policewatch.herokuapp.com) Visualization of all police officer involved homocides in the US from 2015-2016.
+- DashboardIslami
 
 ### Profile Link
 
-[Joel Guerra](http://joelguerra.ninja)
+[whytupan1010](https://github.com/whytupan1010)
