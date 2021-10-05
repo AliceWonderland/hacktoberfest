@@ -1,3 +1,8 @@
+#### Name: [BATHULA SAI VINAY](https://github.com/Vinay-1122)
+- Place: India
+- Bio: Second year Computer Science Student
+- GitHub: [Vinay-1122](https://github.com/Vinay-1122)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
