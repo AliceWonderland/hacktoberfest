@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Marcelo Cardozo](https://github.com/marcelogcardozo)
+- Place: Rio de Janeiro, Brazil
+- Bio: Automation Developer
+- Github: [Marcelo Cardozo](https://github.com/marcelogcardozo)
