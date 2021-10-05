@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Baruti Baruani](https://github.com/baruti-1)
+- Place: Dar es salaam, Tanzania
+- Bio: Software Developer
+- Github: [Baruti Baruani](https://github.com/baruti-1)
