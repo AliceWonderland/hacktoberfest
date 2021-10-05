@@ -1258,6 +1258,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Electronics and Communication student.
 - GitHub: [Kumar Akshay](https://github.com/kakshay21)
 
+#### Name: [Kan Jitpakdi](https://github.com/kanjitp)
+- Place: Singapore
+- Bio: Vibing the internet 
+- GitHub: [Kan Jitpakdi](https://github.com/kanjitp)
+  
 #### Name: [Karthick Thoppe](https://github.com/karthicktv)
 - Place: Dublin, Ireland
 - Bio: I am a Solution Architect and work for a large SaaS organization
