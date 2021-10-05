@@ -1,36 +1,26 @@
-# Ítalo Epifânio
+# Wildan Hanif
 
 ### Location
 
-Natal/Brazil
+Karawang, Indonesia
 
 ### Academics
 
-Bachelor student in Information Technology at UFRN (Federal University of Rio Grande do Norte)
+IDN Boarding School
 
 ### Interests
 
-- Basketball
-- Web Development / Programming
-- Guitar
-- Music
-- Drawing
-- History
+- Football
+- Design
 
 ### Development
 
-- Web Developer
+- Design
 
 ### Projects
 
-- All projects for tech study:
-
-[Crud Laravel](https://github.com/itepifanio/crudLaravel)
-[Crud Django](https://github.com/itepifanio/Crud-Django-CBV)
-[ITP Class](https://github.com/itepifanio/itpClass)
-
-
+DashboardIslami
 
 ### Profile Link
 
-[Ítalo Epifânio](https://github.com/itepifanio/)
+[whytupan1010](https://github.com/whytupan1010/)
