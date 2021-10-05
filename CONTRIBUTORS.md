@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Ruchika Suryawanshi](https://github.com/itepifanio)
+- Place: Pune, India
+- Bio: Flutter developer and Machine Learning
+- Github: [RuchikaSuryawanshi7](https://github.com/RuchikaSuryawanshi7)
