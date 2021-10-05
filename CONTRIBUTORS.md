@@ -1,7 +1,11 @@
+#### Name: [ADYASHA SAMAL](https://github.com/Adyasha28)
+- Place: Rourkela,Odisha,India
+- Bio: Second year Btech in Computer Science Student
+- GitHub: [Adyasha Samal](https://github.com/Adyasha28)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+ - GitHub: [Vallenain](https://github.com/Vallenain) 
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
