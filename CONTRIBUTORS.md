@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Preeti kumari](https://github.com/preeti999)
+- Place: Delhi
+- Bio: IT traniee
+- Github: [Ítalo Epifânio](https://github.com/preeti999)
