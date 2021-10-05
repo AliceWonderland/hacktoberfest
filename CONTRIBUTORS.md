@@ -1278,6 +1278,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Founder & Lead Engineer at Hoy Marketing Solutions. I write software for the web, mobile, and desktop.
 - GitHub: [kenhkelly](https://github.com/kenhkelly)
 
+#### Name: [Kevin Grimsley](https://github.com/kevin-grimsley)
+- Place: Westfield, MA, US
+- Bio: Programming and Web Development Instructor
+- GitHub: [kevin-grimsley](https://github.com/kevin-grimsley)
+
 #### Name: [Kevin Mora](https://github.com/kevinmora94)
 - Place: Alajuea, Alajuela, Costa Rica
 - Bio: Web dev and graphic designer
