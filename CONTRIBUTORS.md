@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Satvik Singh Rathore](https://github.com/Satviik)
+- Place: India
+- Bio: Trying different things
+- Github: [Satvik Singh Rathore](https://github.com/Satviik)
