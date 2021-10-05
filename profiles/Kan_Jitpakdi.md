@@ -14,7 +14,8 @@ NUS
 
 ### Development
 
-- Inventor of the My Pillow
+- Mobile and Web development
+- Currently learning data science and machine learning
 
 ### Projects
 
