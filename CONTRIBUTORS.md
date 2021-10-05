@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tarun Baniwal] (https://github.com/Tarunbaniwal)
+ - Place: Delhi,India
+ - Bio: Front-end Web Developer
+ - Github: [Tarun Baniwal](https://github.com/Tarunbaniwal) 
