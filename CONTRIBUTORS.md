@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manan Agarwal](https://github.com/itepifanio)
+- Place: India
+- Bio: Web developer
+- Github: [MananAg29](https://github.com/MananAg29)
