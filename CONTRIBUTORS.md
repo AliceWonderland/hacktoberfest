@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Sumit Singh Rawat](https://github.com/Sumit24-prog)
+- Place: India
+- Bio: Student 
+- GitHub: [Sumit24-prog](https://github.com/Sumit24-prog)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
