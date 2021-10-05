@@ -1,3 +1,8 @@
+#### Name: Ashish
+ - Place: Frankfurt, Germany
+ - Bio: Studennt, MSCS.
+ - GitHub: [asinha108](https://github.com/Vallenain)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
