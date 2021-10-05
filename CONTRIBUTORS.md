@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohit Patil](https://github.com/falconcode16)
+- Place: Bhopal, India
+- Bio: Computer Science Student
+- Github: [Rohit Patil](https://github.com/falconcode16)
+
