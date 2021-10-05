@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DivyanshuLohani](https://github.com/DivyanshuLohani)
+- Place: Jharkhand, India
+- Bio: Python Bakend developer
+- Github: [DivyanshuLohani](https://github.com/DivyanshuLohani)
