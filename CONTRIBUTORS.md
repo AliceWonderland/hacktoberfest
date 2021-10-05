@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Badar Maulana](https://github.com/badadarr)
+- Place: Depok, Indonesia
+- Bio: Software Developer💻👨🏽‍💻
+- Github: [Badar Maulana](https://github.com/badadarr)
