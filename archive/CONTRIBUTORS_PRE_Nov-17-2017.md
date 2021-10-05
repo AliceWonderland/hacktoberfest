@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Ruman Mulla](https://github.com/loop-infinity)
+- Place: Nottingham, United Kingdom
+- Bio: Passionate software developer.
+- GitHub: [loop-infinity](https://github.com/loop-infinity)
