@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Viswanath Akash](https://github.com/viswakash)
+- Place: Berhampur, Odisha, Inida
+- Bio: WebDev(MERN stack) , AWS
+- GitHub: [viswakash](https://github.com/viswakash)
