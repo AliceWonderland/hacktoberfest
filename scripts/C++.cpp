@@ -6,4 +6,5 @@ github https://github.com/anshucollege*/
 int main()
 {
   cout<<" Hello World ";
+  return 0;
 }
