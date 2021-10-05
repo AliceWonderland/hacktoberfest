@@ -68,6 +68,11 @@
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Ritika Malik](https://github.com/14ritika)
+- Place: Ghaziabad, India
+- Bio: Computer Science Student
+- GitHub: [Ritika Malik](https://github.com/14ritika)
+
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
