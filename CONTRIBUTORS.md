@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shweta Jha](https://github.com/shwetaj954)
+- Place: Kanpur,Uttar Pradesh, India
+- Bio: Web developer PHP and Web Designer
+- Github: [Ítalo Epifânio](https://github.com/shwetaj954)
