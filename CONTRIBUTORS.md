@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sachin Shukla](https://github.com/Sachin4219)
+- Place: New Delhi, India
+- Bio: Computer Science Student
+- Github: [Sachin Shukla](https://github.com/Sachin4219)
+- 
