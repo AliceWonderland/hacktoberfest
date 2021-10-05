@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Christopher Stocks](https://github.com/OutcastChris)
+- Place: United Kingdom
+- Bio: University Student
+- GitHub: [OutcastChris](https://github.com/OutcastChris)
