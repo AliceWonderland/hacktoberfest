@@ -1,3 +1,8 @@
+#### Name: [Ayoub Berdeddouch](https://github.com/ayoub-berdeddouch)
+- Place: Khenifra, Khenifra-Beni Mellal, Morocco
+- Bio: Data Scientist
+- GitHub: [Ayoub Berdeddouch](https://github.com/ayoub-berdeddouch)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
