@@ -11,7 +11,6 @@ Malang State Polytechnic
 ### Interests
 
 - coding
-- databases
 - music
 - nature
 - travelling
