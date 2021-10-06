@@ -2427,7 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-- #### Name: [Rohit](https://github.com/Rohit5152)
-- Place: India, Delhi
-- Bio: I am Btech Graduate Student in Electronics and Communication
-- GitHub: [Rohit](https://github.com/Rohit5152)
+#### Name: [Rohit](https://github.com/Rohit5152)
+-Place: Delhi,India
+-Bio: A Front-End Developer
+-Github: [Rohit](https://github.com/Rohit5152)
