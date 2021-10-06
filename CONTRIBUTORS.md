@@ -2363,6 +2363,11 @@ Noida
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
 - GitHub: [mittrayash](https://github.com/mittrayash)
 
+#### Name: [Yashaswini D Pai](https://github.com/yashaswinipai)
+- Place: Bangalore, Karnataka, India
+- Bio: Web Developer, Coder, Open Source Contributor
+- GitHub: [yashaswinipai](https://github.com/yashaswinipai)
+
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
