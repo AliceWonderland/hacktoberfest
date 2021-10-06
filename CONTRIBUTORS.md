@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Khairul](https://github.com/kai90s)
+- Place: Kuala Lumpur, Malaysia
+- Bio: Gamer, Student
+- Github: [kai90s](https://github.com/kai90s)
