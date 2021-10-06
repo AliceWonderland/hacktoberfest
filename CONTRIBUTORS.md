@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shahbaz Alam](https://github.com/alamshahbaz366/)
+- Place: Mumbai, Maharashtra, India
+- Bio: Junior Software Developer
+- GitHub: [Shahbaz Alam](https://github.com/alamshahbaz366/)
