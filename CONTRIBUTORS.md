@@ -1639,6 +1639,11 @@ Noida
 - Bio: Interactive Developer
 - GitHub: [Mon555](https://github.com/mon555)
 
+#### Name: [Mridul Bhandari](https://github.com/mridulrb)
+- Place: Dubai, United Arab Emirates
+- Bio: Developer Advocate
+- GitHub: [GitHub account name](https://github.com/mridulrb)
+
 #### Name: [Murilo Arruda](https://github.com/Passok11)
 - Place: Petrópolis, Rio de Janeiro, Brazil
 - Bio: Full Stack Student
