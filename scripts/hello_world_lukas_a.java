@@ -1,4 +1,4 @@
-public class HelloWorldRunner {
+public class hello_world_lukas_a {
 
     interface World {
 

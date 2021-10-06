@@ -3,8 +3,8 @@
 // AUTHOR: Sameer Khan
 // GITHUB: https://github.com/sameerkhan116
 
-public class hacktoberfest {
+public class hello_world_skhan {
 	public static void main(String[] args) {
-		System.out.println("Hello world!");
+		System.out.println("Hello, World!");
 	}
 }

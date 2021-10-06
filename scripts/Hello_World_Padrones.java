@@ -5,10 +5,10 @@
  * 
  * **/
 // this is first program everyone should start from..
-public class HelloWorldPadrones {
+public class Hello_World_Padrones {
 
 	public static void main(String[] args) {
-		
+
 		System.out.println("Hello World");
 
 	}
