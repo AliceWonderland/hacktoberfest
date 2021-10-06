@@ -12,7 +12,6 @@ Malang State Polytechnic
 
 - coding
 - music
-- nature
 - travelling
 
 ### Development

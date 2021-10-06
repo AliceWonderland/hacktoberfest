@@ -1,10 +1,9 @@
-// LANGUAGE: Php
+// LANGUAGE: PHP
 // ENV: php
 // AUTHOR: nuruslaily
 // GITHUB: https://github.com/nuruslaily
 
 
 <?php
-$h = 'Hello World';
-var_dump($h);
+echo "Hello World, Hacktoberfest!";
 ?>
