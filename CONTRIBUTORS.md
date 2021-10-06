@@ -2428,6 +2428,6 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 #### Name: [Rohit](https://github.com/Rohit5152)
-Place: Delhi,India
-Bio: Font-End Developer
-GitHub:[Rohit](https://github.com/Rohit5152)
+- Place: Delhi,India
+- Bio: Font-End Developer
+- GitHub:[Rohit](https://github.com/Rohit5152)
