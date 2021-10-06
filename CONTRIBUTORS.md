@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gustavo barbosa](https://github.com/gusbdev)
+- Place: Belo Horizonte, MG, Brazil
+- Bio: Dev, linux enthusiast, currently using Linux Mint "Uma"
+- Github: [gusbdev](https://github.com/gusbdev)
