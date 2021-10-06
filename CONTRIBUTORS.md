@@ -1,3 +1,9 @@
+
+#### Name: Shubham Mallya
+ - Place: Goa,India
+ - Bio: Student in VIT
+ - GitHub: [shubhamSM1298](https://github.com/shubhamSM1298)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
