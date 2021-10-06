@@ -6,7 +6,7 @@ Malang, East Java, Indonesia
 
 ### Academics
 
-Malang State Polytechnic
+Undergraduate in Malang State Polytechnic
 
 ### Interests
 
