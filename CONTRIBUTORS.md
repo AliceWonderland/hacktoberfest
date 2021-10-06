@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Varankar](https://github.com/shubhamvarankar)
+- Place: Mumbai, Maharashtra, India
+- Bio: ML Engineer
+- Github: [Shubham Varankar](https://github.com/shubhamvarankar)
