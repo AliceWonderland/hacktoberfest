@@ -1010,6 +1010,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Game design studen & Hobbyist programmer
 - GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
 
+#### Name: [JATIN DHALL](https://github.com/Jatin7385)
+- Place: Mumbai, Maharashtra, INDIA
+- Bio: 2nd Year CS & Engineering Student
+- GitHub: [Jatin7385](https://github.com/Jatin7385)
+
 #### Name: [J. Fehrman](https://github.com/jfehrman)
 - Place: Virginia
 - Bio: Student
