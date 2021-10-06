@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: Tanner Lund
+#### Name: Khushboo Chaddha
 - Place: Rajasthan, India
 - Bio: Web Developer
 - GitHub: khushboo288
