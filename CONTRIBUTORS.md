@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Md Sarfaraz Alam](https://github.com/mdsarfarazalam840)
+- Place: Jharkhand ,India
+- Bio: Associate Software Engineer, Web Developer
+- Github: [Md Sarfaraz Alam](https://github.com/mdsarfarazalam840)
