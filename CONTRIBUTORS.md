@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Charugulla Sai Ritvik] (https://github.com/Ritvik-2002)
+- Place: Hyderabad, India
+- Bio: Student
+-Github: [Ritvik-2002](https://github.com/Ritvik-2002)
