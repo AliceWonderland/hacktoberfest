@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajarshi Banerjee](https://github.com/GSAUC3)
+- Place: Calcutta, West Bengal, India
+- Bio: Final Year Engineering Undergrad
+- GitHub: [GSAUC3](https://github.com/GSAUC3)
