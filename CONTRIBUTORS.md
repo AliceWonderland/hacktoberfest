@@ -1594,6 +1594,11 @@ Noida
 - Bio: Web dev adn graphic designer
 - GitHub: [vinird](https://github.com/vinird)
 
+#### Name: [Bhashit Dobriyal](https://github.com/vinird)
+- Place: New Delhi,India
+- Bio: Student 
+- GitHub: [vinird](https://github.com/vinird)
+
 #### Name: [Michael Rogers](https://github.com/widgyrogers)
 - Place: London, England
 - Bio: Management Consultant
