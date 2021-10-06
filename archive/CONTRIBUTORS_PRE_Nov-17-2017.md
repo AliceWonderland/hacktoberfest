@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Joel Tito](https://github.com/notS0LD13R)
+- Place: India
+- Bio: First year Computer Science Student.
+- GitHub: [notS0LD13R](https://github.com/notS0LD13R)
