@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AADI JAIN](https://github.com/Aadi71/)
+- Place: Rishikesh, Uttarakhand, India
+- Bio: Software Developer and AI Enthusiast
+- GitHub: [AADI JAIN](https://github.com/Aadi71/)
