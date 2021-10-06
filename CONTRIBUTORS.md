@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gyovs](https://github.com/gyovs)
+- Place: Brazil
+- Bio: Student
+- Github: [Gyovs](https://github.com/gyovs)
