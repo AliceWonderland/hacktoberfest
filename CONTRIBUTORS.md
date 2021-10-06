@@ -1,3 +1,10 @@
+#### Name: [Code Chaser](https://github.com/code-chaser)
+ - Place: Rajasthan, India
+ - Bio: Passionate Coder.
+ - GitHub: [code-chaser](https://github.com/code-chaser)
+ - CodeChef: [codechaser](https://www.codechef.com/users/codechaser)
+ - Codeforces: [codechaser](https://codeforces.com/profile/codechaser)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
