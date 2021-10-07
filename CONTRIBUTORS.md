@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anima Singh Dhabal](https://github.com/Animasingh123)
+- Place: Jamshedpur, Jharkhand
+- Bio: Full Stack Developer 
+- Github: [Anima Singh Dhabal](https://github.com/Animasingh123)
