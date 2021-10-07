@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nisheet Karan](https://github.com/nisheetkaran)
+- Place: Assam, India
+- Bio: College undergrad, Someone who likes playing Football and Coding.
+- Github: [Ítalo Epifânio](https://github.com/nisheetkaran)
