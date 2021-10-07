@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Atharva Ikhar](https://github.com/iatharva)
+- Place: Maharashtra, India
+- Bio: I am FY MCA student, and open source contributor.
+- GitHub: [iatharva](https://github.com/iatharva)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
