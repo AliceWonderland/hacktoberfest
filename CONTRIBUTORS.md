@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tushar Sinha](https://github.com/TusharSinha-2908)
+- Place: Dehradun, India
+- Bio: Flutter Developer
+- Github: [Tushar Sinha](https://github.com/TusharSinha-2908)
