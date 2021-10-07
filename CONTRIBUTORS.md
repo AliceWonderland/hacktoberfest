@@ -1849,6 +1849,10 @@ Noida
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
 
+#### Name: [Prateek Kocher] (https://github.com/pkk111)
+- Place: Jaipur, India
+- Bio: [pkk111](https://github.com/pkk111)
+
 #### Name: [Prateek Pandey](https://github.com/prateekpandey14)
 - Place: Bangalore, India
 - Bio: Opensource Enthusiast, Opensource Golang developer
