@@ -120,6 +120,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science and Engineering BSc student at Carlos III University of Madrid
 - GitHub: [Aitor Alonso](https://github.com/tairosonloa)
 
+
+#### Name: [Mukund Kumar](https://github.com/PythonNex)
+- Place: Banswara, Rajasthan, India
+- Bio: Student
+- GitHub: [PythonNex](https://github.com/PythonNex)
+
 #### Name: [Akani] (https://github.com/akanijade/)
 - Place: Jakarta, Indonesia
 - Bio: Student
