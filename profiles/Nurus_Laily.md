@@ -10,9 +10,9 @@ Malang State Polytechnic
 
 ### Interests
 
-- coding
-- music
-- travelling
+- Programming
+- Music
+- Travelling
 
 ### Development
 
