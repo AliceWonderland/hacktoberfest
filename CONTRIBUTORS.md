@@ -1065,6 +1065,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Director UX & Development; music-lover; father;
 - GitHub: [Jasen Wyatt](https://github.com/jasenwyatt)
 
+#### Name: [Stuti](https://github.com/JainStuti25)
+- Place: India
+- Bio: Developer
+
 #### Name: [Jason Green](https://jason.green)
 - Place: Seattle, WA
 - Bio: Student of code, eater of sustainable sushi
