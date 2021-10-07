@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [PekayTab](https://github.com/Pekay-Tab)
+- Place: Indiana, USA
+- Bio: Discord bot dev & web developer
+- Github: [Pekay-Tab](https://github.com/Pekay-Tab)
