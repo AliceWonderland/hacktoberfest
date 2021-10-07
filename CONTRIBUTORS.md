@@ -1,7 +1,7 @@
-#### Name: [AGIL](https://github.com/agil-code)
-- Place: Singapore, Singapore
-- Bio: Student developer, defends C++ too much
-- GitHub: [agil-code](https://github.com/agil-code)
+#### Name: Agil(https://github.com/agil-code)
+ - Place: Singapore, Singapore
+ - Bio: Student dev, defends C too much
+ - GitHub: [agil-code](https://github.com/agil-code)
 
 #### Name: Vallenain
  - Place: Lyon, France
