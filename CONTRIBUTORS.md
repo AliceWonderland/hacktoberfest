@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tarun Rana](https://github.com/tarunrana1998)
+- Noida, India
+- Bio: Web developer PHP, JS , Laravel
+- Github: [Tarun Rana](https://github.com/tarunrana1998)
