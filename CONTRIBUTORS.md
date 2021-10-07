@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vivek Ranjan](https://github.com/vivekranjan4256)
+- Place:Daltonganj, Jharkhand, India
+- Bio: CSE student
+- Github: [vivekranjan4256](https://github.com/vivekranjan4256)
