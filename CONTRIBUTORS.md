@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [George](https://github.com/gogeorge)
+- Place: Thessaloniki, Greece
+- Bio: Comp Sci student
+- Github: [gogeorge](https://github.com/gogeorge)
