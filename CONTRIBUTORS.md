@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jason Sebastian Sulistyawan](https://github.com/youhane)
+- Place: West Java, Indonesia
+- Bio: Frontend Developer and Student
+- Github: [Jason Sebastian](https://github.com/youhane)
