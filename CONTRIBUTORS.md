@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sohini Joarder](https://github.com/SohinijRover)
+- Place: India
+- Bio: CSE BTech 2nd year Student
+- Github: [Sohini Joarder](https://github.com/SohinijRover)
