@@ -2180,6 +2180,11 @@ Noida
 - Place: NYC
 - Bio: Developer =]
 
+#### Name: [Tanmay Aggarwal](https://github.com/Tanmay2411)
+- Place: Delhi, India
+- Bio: studying Computer Science 
+- GitHub: [Tanmay Aggarwal](https://github.com/Tanmay2411)
+
 #### Name: [Tanner Lund](https://github.com/nylan17/)
 - Place: Seattle
 - Bio: Developer
