@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luziane Freitas](https://github.com/LuzianeFreitas)
+- Place: Minas Gerais, Brazil
+- Bio: Software developer | SpaceSquader mentor | Front-end student
+- Github: [Luziane Freitas](https://github.com/LuzianeFreitas)
