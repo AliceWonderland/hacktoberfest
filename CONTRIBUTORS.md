@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sachindra Bhattacharya](https://github.com/therealspark9)
+- Place: India
+- Bio: Software Engineer
+- Github: [Sachindra Bhattacharya](https://github.com/therealspark9)
