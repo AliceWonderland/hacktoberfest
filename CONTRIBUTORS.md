@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akhil Gupta](https://github.com/akhilgupta9170)
+- Place: Allahabad, India
+- Bio: Web developer Python and Machine Learning
+- Github: [Akhil Gupta](https://github.com/akhilgupta9170)
