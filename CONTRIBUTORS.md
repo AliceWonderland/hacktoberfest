@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Anima Singh Dhabal](https://github.com/Animasingh123)
 - Place: Jamshedpur, Jharkhand
-- Bio: Full Stack Developer
+- Bio: Full Stack Developer 
 - Github: [Anima Singh Dhabal](https://github.com/Animasingh123)
