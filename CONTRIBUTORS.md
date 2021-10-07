@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Dendi Prayogo Hidayat](https://github.com/xdendix)
+- Place: Depok, Indonesia
+- Bio: Freelancer
+- Github: [Dendi Prayogo Hidayat](https://github.com/xdendix)
