@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshit Paneri](https://github.com/harshit-paneri)
+- Place: Udaipur, Rajasthan, India
+- Bio: Web Developer, HTML, JS, PHP
+- GitHub: [Harshit Paneri](https://github.com/harshit-paneri)
