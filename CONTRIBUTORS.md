@@ -1,3 +1,8 @@
+#### Name: [Patrick Guo](https://github.com/shpatrickguo)
+ - Place: California, USA
+ - Bio: Data Scientist living with 5 cats :D
+ - GitHub: [shpatrickguo](https://github.com/shpatrickguo)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
