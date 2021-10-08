@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aryan Sharma](https://github.com/aryanharitsh123)
+- Place: NCR, India
+- Bio: Python, C++.
+- Github: [aryanharitsh](https://github.com/aryanharitsh123)
