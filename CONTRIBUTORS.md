@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nitish Menon](https://github.com/nitish-m)
+- Place: Kerala, India
+- Bio: Computer Science Student
+- GitHub: [nitish-m](https://github.com/nitish-m)
