@@ -1010,6 +1010,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Game design studen & Hobbyist programmer
 - GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
 
+#### Name: [Jay Torres](https://github.com/TowerX)
+- Place: Palm Bay, Florida
+- Bio: Learning Operations Manager
+- GitHub: [TowerX](https://github.com/TowerX)
+
 #### Name: [J. Fehrman](https://github.com/jfehrman)
 - Place: Virginia
 - Bio: Student
