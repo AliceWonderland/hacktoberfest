@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Harsha Bajaj (https://github.com/bajajharsha)
+ - Place: Gujarat, India
+ - Bio: Second year electronics and communication engineer. Undergraduate from surat India.
+ - GitHub: [bajajharsha](https://github.com/bajajharsha)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
