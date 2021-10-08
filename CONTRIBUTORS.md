@@ -1,3 +1,8 @@
+### Name: Prakriti Sharma
+ - Place: India
+ - Bio: CSE Engineer
+ - GitHub: [Prakriti Sharma](https://github.com/prakriti31)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
