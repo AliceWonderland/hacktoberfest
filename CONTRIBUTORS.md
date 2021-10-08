@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ikhsan Alfhariz](https://github.com/Ikhsaann)
+- Place: Jakarta, Indonesia
+- Bio: Student at IDN Boarding School
+- Github: [Ikhsaann](https://github.com/Ikhsaann)
