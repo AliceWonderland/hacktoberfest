@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [niwa-s](https://github.com/niwa-s)
+- Place: Japan
+- Bio: student
+- Github: [niwa-s](https://github.com/niwa-s)
