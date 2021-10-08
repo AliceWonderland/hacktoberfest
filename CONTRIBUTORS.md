@@ -1,3 +1,8 @@
+#### Name: [AvidCoder](https://github.com/AvidCoder101)
+- Place: Online
+- Bio: I'm an aspiring developer!
+- GitHub: [AvidCoder101](https://github.com/AvidCoder101)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
