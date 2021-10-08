@@ -165,6 +165,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
 
+#### Name: [Adewole Caleb](https://github.com/caleberi)
+- Place: Nigeria
+- Bio: Student
+- GitHub: [caleberi](https://github.com/caleberi)
+
 #### Name: [Alex Choi](https://github.com/running-cool)
  - Place: Athens, GA
  - Bio: Student
