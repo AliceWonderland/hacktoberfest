@@ -1,3 +1,8 @@
+#### Name: SequenceD
+- Place: KZN, South Africa
+- Bio: Fullstack Developer and Author
+- GitHub: Sequence (https://github.com/SequenceDondo)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
