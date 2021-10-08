@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Devansh Bindlish
+ - Place: Delhi, India
+ - Bio: Persuing IT from USICT, GGSIPU.
+ - GitHub: [Devansh](https://github.com/Devansh3059)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
