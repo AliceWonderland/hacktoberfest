@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Davide Gasparetto] (https://github.com/DavideGasparetto)
+- Place: Italy
+- Bio: Machine learning developer
+- Github: [DavideGasparetto] (https://github.com/DavideGasparetto)
