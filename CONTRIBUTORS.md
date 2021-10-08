@@ -2428,6 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+
 #### Name: [Aly Zakki Yaza](https://github.com/statusyaza)
 - Place: Bekasi, Jawa, Indonesia
 - Bio: UI & UX Designer
