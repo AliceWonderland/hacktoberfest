@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Davidson Assis](https://github.com/davidsonhr1)
+- Place: São Paulo, Brazil
+- Bio: Web developer Ruby, Python and Data Expert
+- Github: [davidsonhr1](https://github.com/davidsonhr1)
