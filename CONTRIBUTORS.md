@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [dzakkii](https://github.com/dzakkii9)
+- Place: Bogor, West Java, Indonesia
+- Bio: Student of IDN Boarding School
+- Github: [dzakkii9](https://github.com/dzakkii9)
