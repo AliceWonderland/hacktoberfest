@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Inderpreet Singh](https://github.com/Inderpreet02)
+- Place: PUNJAB, INDIA
+- Bio: LOVE DSA 
+- GitHub: [Inderpreet02](https://github.com/Inderpreet02)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
