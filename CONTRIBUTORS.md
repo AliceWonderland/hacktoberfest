@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anup Kumar Maurya](https://github.com/Anup-maurya)
+- Place: Kanpur,India
+- Bio: Web developer React and Python
+- Github: [Anup-maurya](https://github.com/Anup-maurya)
