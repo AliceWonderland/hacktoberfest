@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [M Rasya](https://github.com/MRasya)
+- Place: Jakarta, Indonesia
+- Bio: Web developer PHP and Python
+- Github: [MRasya](https://github.com/MRasya)
