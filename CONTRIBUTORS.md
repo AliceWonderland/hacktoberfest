@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sujal Baranwal](https://github.com/MasterChiefOp)
+- Place: West Bengal, India
+- Bio: C developer
+- Github: [MasterChiefOp](https://github.com/MasterChiefOp)
