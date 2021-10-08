@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ATUL KESHARWANI](https://github.com/atu77l)
+- Place: Gorakhpur
+- Bio: Student at MMMUT Gorakhpur
+- GitHub: [Atul kesharwani](https://github.com/atu77l)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
