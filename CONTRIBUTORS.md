@@ -1,3 +1,8 @@
+#### Name: Ahana Pal
+ - Place: Kolkata, India
+ - Bio: Undergraduate Software engineer. Graduating from MAKAUT, WB.
+ - GitHub: [ErzaTitania-2001](https://github.com/ErzaTitania-2001)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
