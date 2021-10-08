@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [HARSHIT MITTAL](https://github.com/HarshitMittal01)
+- Place: Delhi,India
+- Bio: App developer, c++
+- Github: [HarshitMittal01](https://github.com/HarshitMittal01)
