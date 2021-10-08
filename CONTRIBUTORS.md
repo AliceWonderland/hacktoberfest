@@ -2423,7 +2423,7 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Danish Olvan](https://github.com/D4N1S)
+- Place: Jakarta, Indonesia
+- Bio: Designer 
+- Github: [Danish Olvan](https://github.com/D4N1S)

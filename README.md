@@ -66,19 +66,21 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
-# Your Name
+Danish Olvan 
 
 ### Location
 
-Your City/Country
+Indonesia / Jakarta
 
 ### Academics
 
-Your School
+Idn Boarding School
 
 ### Interests
 
-- Some Things You Like
+Playing Fotball
+Playing Game
+Design Some Ui
 
 ### Development
 
@@ -86,11 +88,11 @@ Your School
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [My Project]() Short Description
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[Your Name](https://github.com/D4N1S)
 ```
 
 ### 3. Create a `Hello, World!` Script
