@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mark Odhiambo](https://github.com/MarkOdhiambo)
+- Place: Kenya
+- Bio: Electronics and computer engineer student
+- Github: [MarkOdhiambo](https://github.com/MarkOdhiambo)
