@@ -2418,7 +2418,7 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+#### Name: [xenocideiwki] (http s://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
@@ -2427,7 +2427,6 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
 
 #### Name: [Yash Chavan](https://github.com/Hunt092)
 - Place: Maharastra, India
