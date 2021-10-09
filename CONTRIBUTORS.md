@@ -1804,6 +1804,11 @@ Noida
 - Bio: Student and newbie software developer
 - GitHub: [phscherer](https://github.com/phscherer)
 
+#### Name: [Pedro Jesus do Rosário](https://github.com/pedrorosarioo)
+- Place: Salvador, Bahia, Brazil
+- Bio: Mobile developer @ ThoughtWorks, in love with React and React Native
+- GitHub: [pedrorosarioo]([GitHub link](https://github.com/pedrorosarioo))
+
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
