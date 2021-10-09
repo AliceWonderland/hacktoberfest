@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Saniya Bhargav (https://github.com/SaniyaBhargav)
+- Place: Sonipat, Haryana, India
+- Bio: Killing dreams for dreams
+- GitHub: SaniyaBhargav(https://github.com/SaniyaBhargav)
