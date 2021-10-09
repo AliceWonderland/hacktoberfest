@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prateek Chaurasia](https://github.com/prateek18801)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Student, Programmer, Designer, Developer
+- GitHub: [prateek18801](https://github.com/prateek18801)
