@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubhansu Jain](https://github.com/shubhansu31)
+- Place: Indore, India
+- Bio: Student Computer Science Engineering
+- Github: [Shubhansu Jain](https://github.com/shubhansu31)
