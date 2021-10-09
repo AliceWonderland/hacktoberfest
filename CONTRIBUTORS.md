@@ -2012,6 +2012,11 @@ Noida
 - Bio: Techie with a lot of horizontals but a low verticality :(
 - Github: [Saif Rehman Nasir](https://github.com/shyshin)
 
+#### Name: [Saksham Sharma](https://github.com/SakshamSharma09)
+- Place: Jaipur, Rajasthan, India
+- Bio: Java Programmer, Undergraduate and Open Source enthusiast
+- Github: [Saksham Sharma](https://github.com/SakshamSharma09)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
