@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kanishka Srivastava](https://github.com/kanishkasrivastava)
+- Place: Jamshedpur, India
+- Bio: Cs student
+- Github: [Kanishka Srivastava](https://github.com/kanishkasrivastava)
