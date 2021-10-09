@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Teofanis Papadopulos](https://github.com/teofanis)
+- Place: London, UK
+- Bio: Web Dev [PHP] / TALL STACK evangelist  
+- GitHub: [teofanis](https://github.com/teofanis)
