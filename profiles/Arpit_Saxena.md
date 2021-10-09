@@ -19,7 +19,7 @@ Guru Tegh Bahadur Institute of Technology
 
 ### Projects
 
-- Social Media Clone App and Zomato Clone
+- Social Media Clone App, Linkedin Clone, and Zomato Clone
 
 ### Profile Link
 
