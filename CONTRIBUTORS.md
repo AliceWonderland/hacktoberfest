@@ -1,3 +1,8 @@
+#### Name: Kyle Atienza
+ - Place: Oriental Mindoro, Philippines
+ - Bio: Second Year Information Technology Student, Web Developer Intern
+ - Github: [Kyle-Atienza](https://github.com/Kyle-Atienza)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
