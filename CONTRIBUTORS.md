@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Yash Chavan](https://github.com/Hunt092)
+- Place: Maharastra, India
+- Bio: Aspiring Full-Stack
+- Github: [Yash Chavan](https://github.com/Hunt092)
