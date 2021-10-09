@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Mohd Afzal Khan
+ - Place: Delhi, India
+ - Bio: First year Information Technology Student
+ - GitHub: [AFZL210](https://github.com/AFZL210)
