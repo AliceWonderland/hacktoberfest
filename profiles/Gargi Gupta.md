@@ -21,7 +21,7 @@ Indian Institute of Technology, Varanasi (IIT-BHU)
 
 ### Projects
 
-- [NutriBucket] (https://github.com/gargig02/NutriBucket.git)
+- [NutriBucket](https://github.com/gargig02/NutriBucket.git)
 Ongoing project- NutriBucket-a recipe portal
 It is a database driven web application using MySQL and Django.
 
