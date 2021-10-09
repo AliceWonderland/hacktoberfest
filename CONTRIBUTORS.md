@@ -2432,3 +2432,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anubhav anand](https://github.com/anubhav5095)
+- Place: Kochi, Kerala, India
+- Bio: Software Engineer, Web Developer, Entrepreneur
+- GitHub: [anubhav5095](https://github.com/anubhav5095)
+
