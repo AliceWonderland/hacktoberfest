@@ -2308,6 +2308,11 @@ Noida
 - Bio: Web developer
 - GitHub: [Veronika Tolpeeva](https://github.com/ostyq)
 
+#### Name: [Subeep ](https://github.com/sudeephiremath)
+- Place: Houston, TX, USA
+- Bio: UX Engineer, Traveler, blockchain development
+- GitHub: [Subeep](https://github.com/sudeephiremath)
+
 #### Name: [Vishaal Udandarao](https://github.com/vishaal27)
 - Place: New Delhi, India
 - Bio: Professional Geek | Developer
