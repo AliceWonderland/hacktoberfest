@@ -225,6 +225,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full-Stack developer, hiking, travel, art, photography
 - GitHub: [Ana Perez](https://github.com/anacperez)
 
+#### Name : [Anubhav anand](https://github.com/anubhav5095)
+- Place: Kochi, Kerala, India
+- Bio: Java Back End Developer, Web developer, Going places
+- Github: [Anubhav anand](https://github.com/anubhav5095)
+
 #### Name: [Anders Jürisoo](https://github.com/ajthinking)
 - Place: Sweden
 - Bio: What happens in Git stays in Git
@@ -2427,3 +2432,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anubhav anand](https://github.com/anubhav5095)
+- Place: Kochi, Kerala, India
+- Bio: Software Engineer, Web Developer, Entrepreneur
+- GitHub: [anubhav5095](https://github.com/anubhav5095)
+
