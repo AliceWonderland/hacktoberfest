@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Victor Hüni](https://github.com/VictorHueni)
+- Place: Geneva, Switzerland
+- Bio: Web Developper & Student
+- Github: [Victor Hüni](https://github.com/VictorHueni)
