@@ -1,3 +1,7 @@
+#### Name: Anurag 
+ - Place: Hyderabad,India
+ - Bio: Persuading engineering from NIT.
+ - GitHub: [githubANURAG1](https://github.com/githubANURAG1)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.

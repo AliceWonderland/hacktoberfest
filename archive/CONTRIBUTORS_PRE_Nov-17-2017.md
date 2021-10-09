@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [ANURAG RAI](https://github.com/githubANURAG1)
+- Place: Hyderabad,India
+- Bio: management system(java ,sql,netbeans), webdeveloper(html,css,javascript)
+- Github: [ANURAG RAI](https://github.com/githubANURAG1)
+
