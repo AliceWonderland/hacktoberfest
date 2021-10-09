@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hardik Agarwal](https://github.com/Harry-dotc)
+- Place: Meerut, UttarPradesh, India
+- Bio: Student,Web Developer
+- GitHub: [Harry-dotc](https://github.com/Harry-dotc)
