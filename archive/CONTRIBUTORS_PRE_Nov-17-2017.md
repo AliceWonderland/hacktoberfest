@@ -1,3 +1,8 @@
+#### Name: [Menake Panduwawala](https://github.com/menakeobhasha/hacktoberfest)
+- Place: Dekatana, Colombo, Sri Lanka
+- Bio: Software Engineer @ Sana Commerce
+- GitHub: [menakeobhasha](https://github.com/menakeobhasha)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
