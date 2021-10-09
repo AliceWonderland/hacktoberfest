@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhishek Jaiswal](https://github.com/abhishek-iiit/)
+- Place: Bhubaneswar, Odhisa, INDIA
+- Bio: AI and ML Enthusiast
+- GitHub: [abhishek-iiit](https://github.com/abhishek-iiit/)
