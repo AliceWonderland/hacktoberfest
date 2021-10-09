@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Anish Shilpakar](https://github.com/JuJu2181)
+- Place: Kathmandu, Nepal
+- Bio: Computer engineering student and web developer
+- Github: [Anish Shilpakar](https://github.com/JuJu2181)
