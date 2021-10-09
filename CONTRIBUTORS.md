@@ -395,6 +395,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Binthia Ahmed](https://github.com/theGeekGoddessofCode)
+- Place: Assam, India
+- Bio: Software Developer, Bachelors in Technology (CSE)
+- Github: [Binthia Ahmed](https://github.com/theGeekGoddessofCode)
+
 #### Name: [Branden] (https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
