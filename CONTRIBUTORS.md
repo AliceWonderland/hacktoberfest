@@ -1,3 +1,8 @@
+#### Name: Deep Shah
+ - Place: Mumbai, India
+ - Bio: Undergraduate Computer Engineering Student.
+ - GitHub: [deep-3110](https://github.com/deep-3110)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
