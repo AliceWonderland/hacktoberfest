@@ -305,6 +305,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Python Developer
 - Github [Arpit Gogia](https://github.com/arpitgogia)
 
+### Name: [Arpit Saxena](https://github.com/Arpit590)
+- Place: Noida, India
+- Bio: React/React-Native Developer
+- Github [Arpit Saxena](https://github.com/Arpit590)
+
 #### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
 - Place: India
 - Bio: Computer Science Major / UI/UX Designer
