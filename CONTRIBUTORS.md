@@ -1,3 +1,8 @@
+#### Name: [Tushar Birari](https://github.com/tusharbirari04)
+- Place: Vapi, Gujarat, India
+- Bio: Final Year Computer Science Engineering Student
+- GitHub: [tusharbirari04](https://github.com/tusharbirari04)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
