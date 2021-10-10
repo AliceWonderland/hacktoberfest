@@ -541,6 +541,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Design, Develop, Produce!
 - GitHub: [ClarkHacks](https://github.com/clarkhacks)
 
+#### Name: [coastalchief](https://github.com/coastalchief)
+- Place: Germany
+- Bio: dev
+- GitHub: [coastalchief](https://github.com/coastalchief)
+
+
 #### Name: [CodHeK](https://github.com/CodHeK)
 - Place: Mumbai, India
 - Bio: Cuber/Coder
@@ -799,6 +805,11 @@ to explore life. Also, Python and Django Developer
 - Github: [fercreek](https://github.com/fercreek)
 - Website: [Blog](https://fercontreras.com/)
 
+#### Name: [filedesless](https://hightechlowlife.info)
+- Place: Québec, Canada
+- Bio: CompSci from ULaval reporting in
+- GitHub: [aiglebleu](https://github.com/aiglebleu)
+
 #### Name: [Fran Acién](https://github.com/acien101)
 - Place: Madrid, Spain
 - Bio: Full of empty
@@ -884,6 +895,11 @@ to explore life. Also, Python and Django Developer
 - Place: Samarinda, Kalimantan Timur, Indonesia
 - Bio: Someone who's intresting about web devlopment / Programming
 - GitHub: [Ginanjar S.B | egin10](https://github.com/egin10)
+
+#### Name: [gipsi](gipsi.github.io)
+- Place: South-East, UK
+- Bio: Student FreeCodeCamp interested in PWA's
+- Github: [gipsi](https://github.com/gipsi)
 
 #### Name: [Glen J Fergo](https://github.com/gfergo)
 - Place: Long Island, New York, USA
@@ -1000,10 +1016,17 @@ to explore life. Also, Python and Django Developer
 - Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
 - Github: [Ishan Jain](https://github.com/ishanjain28)
 
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
 #### Name: [Italo Góis](https://github.com/italogois)
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Front End Developer
 - GitHub: [italogois](https://github.com/italogois)
+
 
 #### Name: [Ivo Ketelaar](https://github.com/ikstreamivo)
 - Place: Emmen, the Netherlands
@@ -1539,6 +1562,7 @@ Noida
 - Bio: Chemical Engineering student. C++ developer. I (try to) make high-performance computational programs to help with scientific research.
 - GitHub: [Snatched](https://github.com/Snatched)
 
+
 #### Name: [Matteo Testa](https://github.com/maojh)
 - Place: Milan, Italy
 - Bio: Design&Arts
@@ -1578,6 +1602,7 @@ Noida
 - Place: UT, USA
 - Bio: Web Dev Student
 - Github: [Michael Greene] (https://github.com/Greeneink4)
+
 
 #### Name: [Michael Kaiser](https://github.com/patheticpat)
 - Place: Germany
@@ -2082,6 +2107,7 @@ Noida
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
 
+
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
 - Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
@@ -2166,6 +2192,13 @@ Noida
 - Bio: CSE Student at IIITD
 - GitHub: [Suryatej Reddy](https://github.com/suryatejreddy)
 
+
+#### Name: [syamkumar](https://github.com/syam3526)
+- Place:kerala,india
+- Bio: data scientist
+- Github: [syamkumar](https://github.com/syam3526)
+
+
 #### Name: [Sylwester](https://github.com/sla)
 - Place: Poland
 - Bio: JAVA
@@ -2194,6 +2227,14 @@ Noida
 - Place: California
 - Bio: Developer
 - GitHub: [taylorlee1](https://github.com/taylorlee1/)
+
+
+#### Name: [tbdees](https://github.com/tbdees/)
+- Place: Laguna Beach, CA
+- Bio: financial software consultant
+- Github: [tbdees](https://github.com/tbdees/)
+
+
 
 #### Name: [Tech Tide](https://github.com/techtide/)
 - Place: Singapore, Singapore
@@ -2348,6 +2389,13 @@ Noida
 - Bio: A guy who wants to improve the world through AI!
 - GitHub: [Will Barker](https://github.com/billwarker)
 
+
+#### Name: [Will Massey](https://github.com/wmassey776)
+- Place: Las Vegas, Nevada
+- Bio: Python Programmer and Cybersecurity Professional 
+- GitHub: [wmassey776](https://github.com/wmassey776)
+
+
 #### Name: [Will Tan](https://github.com/twillzy)
 - Place: Sydney, Australia
 - Bio: 2/4 into getting a free Hacktoberfest T-Shirt
@@ -2373,6 +2421,13 @@ Noida
  - Bio: Software Engineer - Android Developer
  - GitHub: [yerenutku](https://github.com/yerenutku)
 
+
+#### Name: [xenocideiwki](https://github.com/xenocidewiki)
+- Place: Norway
+- Bio: Reverse Engineer
+- GitHub: [xenocidewiki](https://github.com/xenocidewiki)
+
+
 #### Name: [ZH2018](https://github.com/zh2018)
 - Place: USA
 - Bio: Newbie :D
@@ -2393,37 +2448,5 @@ Noida
 - Bio: caffeinated and curious
 - GitHub: [zkafkes](https://github.com/zkafkes)
 
-#### Name: [coastalchief](https://github.com/coastalchief)
-- Place: Germany
-- Bio: dev
-- GitHub: [coastalchief](https://github.com/coastalchief)
 
-#### Name: [filedesless](https://hightechlowlife.info)
-- Place: Québec, Canada
-- Bio: CompSci from ULaval reporting in
-- GitHub: [aiglebleu](https://github.com/aiglebleu)
 
-#### Name: [gipsi](gipsi.github.io)
-- Place: South-East, UK
-- Bio: Student FreeCodeCamp interested in PWA's
-- Github: [gipsi](https://github.com/gipsi)
-
-#### Name: [syamkumar](https://github.com/syam3526)
-- Place:kerala,india
-- Bio: data scientist
-- Github: [syamkumar](https://github.com/syam3526)
-
-#### Name: [tbdees](https://github.com/tbdees/)
-- Place: Laguna Beach, CA
-- Bio: financial software consultant
-- Github: [tbdees](https://github.com/tbdees/)
-
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
-- Place: Norway
-- Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
-
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
