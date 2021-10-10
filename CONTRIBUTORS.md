@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zheng Shen](https://github.com/zhshen)
+- Place: Beijing, China
+- Bio: C#, SQL Server
+- Github: [Zheng Shen](https://github.com/zhshen)
