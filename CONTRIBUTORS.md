@@ -1,3 +1,7 @@
+#### Name: Vatsal
+ - Place: Bengaluru, India
+ - Bio: Computer Science student
+ - GitHub: [vatsal007](https://github.com/vatsal-dhama)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
