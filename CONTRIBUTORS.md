@@ -1,3 +1,7 @@
+#### Name:Lakshay sharma
+ - Place: India
+ - Bio: Software Engineer
+ - GitHub: [lakshay0786](https://github.com/)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
