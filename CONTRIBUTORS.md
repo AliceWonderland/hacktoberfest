@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kuvam Bhardwaj](https://github.com/kuvamdazeus)
+- Place: India, New Delhi
+- Bio: MERN Stack Developer
+- Github: [@kuvamdazeus](https://github.com/kuvamdazeus)
