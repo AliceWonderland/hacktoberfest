@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ridwan Rizqi](https://github.com/RidwanRizqi)
+- Place: Kediri, East Java, Indonesia
+- Bio: Student
+- GitHub: [RidwanRizqi](https://github.com/RidwanRizqi)
