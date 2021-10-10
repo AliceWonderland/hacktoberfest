@@ -1,3 +1,9 @@
+### Name: Vallenain
+
+  - Place: Mostaganem, Algeria
+  - Bio: Software engineer. Graduated from Abdel Hamid Inb Badis mostaganem.
+  - GitHub: [yassine-youcefi](https://github.com/yassine-youcefi)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
