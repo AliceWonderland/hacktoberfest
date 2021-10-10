@@ -1,3 +1,8 @@
+#### Name: AMIT KUMAR
+ - Place: BIHAR ,INDIA
+ - Bio: 2nd Year UnderGraduate student at INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR
+ - GitHub: [ELMIKE](https://github.com/Amitkumar9199)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
