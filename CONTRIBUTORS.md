@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [KAUSTUBH](https://github.com/armada1996)
+- Place: India
+- Bio: I like to code
+- GitHub: [KAUSTUBH](https://github.com/armada1996)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
