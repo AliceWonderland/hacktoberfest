@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shiddarth Bista](https://github.com/shiddarthbista)
+- Place: Philly, USA
+- Bio: Software engineer.
+- GitHub: [Shiddarth Bista](https://github.com/shiddarthbista)
