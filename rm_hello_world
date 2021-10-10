@@ -1,0 +1,11 @@
+/* LANGUAGE: C
+ * ENV: gcc
+ * AUTHOR: Rubaani Manrai
+ * GITHUB: https://github.com/Rubaani
+ */
+#include <stdio.h>
+
+int main(void){
+  printf("Hello, World!");
+  return 0;
+}
