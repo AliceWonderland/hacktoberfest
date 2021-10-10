@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ritesh Aldak](https://github.com/RiteshAldak1302)
+- Place: Natal, Brazil
+- Bio: Student 
+- Github: [RiteshAldak1302](https://github.com/RiteshAldak1302)
