@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class{
+  public statis void main(String args[]){
+  Scanner sc = new Scanner(System.in);
+  int year;
+  String status;
+  
+  System.out.print("How  many years you learn code: ");
+  year = sc.nextInt;
+  
+  if(year <2){
+  System.out.println("your level is beginner");
+  }else{
+  System.out.println("Your level is above beginner");
+  }
+  }
+
+}
