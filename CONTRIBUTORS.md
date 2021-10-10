@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shantanu Mane](https://github.com/RndmCodeGuy20)
+- Place: Maharashtra, India
+- Bio: Student, Web Developer, C/C++ and JAVA Developer, AI and DS enthusiast.
+- Github: [Shantanu Mane](https://github.com/RndmCodeGuy20)
