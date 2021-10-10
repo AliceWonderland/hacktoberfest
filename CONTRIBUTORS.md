@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+ #### Name: [Saman Mahmood](https://github.com/SamanMahmood)
+- Place: pakistan,punjab
+- Bio: Web developer 
+- Github: [SamanMahmood](https://github.com/SamanMahmood)
