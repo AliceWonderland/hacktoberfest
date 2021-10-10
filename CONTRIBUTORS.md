@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Cameron Ball](https://github.com/cameronball)
+- Location: England
+- Bio: Software Engineer working on: [Popularis](https://github.com/popularis-project/popularis-platform)
+- Github: [Cameron Ball](https://github.com/cameronball)
