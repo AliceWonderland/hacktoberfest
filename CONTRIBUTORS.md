@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Javier Marin](https://github.com/jaym832)
+- Place: Houston, TX
+- Bio: junior fullstack developer
+- Github: [Jaym832](https://github.com/jaym832)
