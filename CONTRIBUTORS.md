@@ -1915,6 +1915,11 @@ Noida
 - Bio: Games and music!
 - GitHub: [Rajeev Kumar Singh](https://github.com/rajeeviiit)
 
+### Name: [MrsRo13ot](https://github.com/MrsRo13ot)
+- Place: Lyon, FR
+- Bio: PM
+- GitHub: [MrsRo13ot](https://github.com/MrsRo13ot)
+
 #### Name: [Ramón Didier Valdez Yocupicio](https://github.com/xDidier901)
 - Place: Hermosillo, Sonora, México
 - Bio: Software Developer / Student
