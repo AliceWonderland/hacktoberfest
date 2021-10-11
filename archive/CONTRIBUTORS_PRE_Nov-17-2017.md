@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Maria Theresa](https://github.com/MariaTheresa1)
+- Place: Piauí, Brazil
+- Bio: computer science student
+- Github: [MariaTheresa1](https://github.com/MariaTheresa1)
