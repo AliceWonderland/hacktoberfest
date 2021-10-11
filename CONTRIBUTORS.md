@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Patrick Steve Harrison V](https://github.com/itepifanio)
+- Place: Uttar Pradesh, India
+- Bio: Full Stack Web Developer, Python, Java, Ethical Hacker
+- Github: [patrick-steve](https://github.com/patrick-steve)
