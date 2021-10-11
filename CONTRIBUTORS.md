@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alexandre Insua Moreira](https://github.com/AlexandreInsua)
+- Place: Vigo, Spain
+- Bio: Web developer
+- Github: [Alexandre Insua Moreira](https://github.com/AlexandreInsua)
