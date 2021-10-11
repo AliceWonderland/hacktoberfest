@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prakhar Shukla](https://github.com/tonystark-jr)
+- Place: Agra, India
+- Bio: Software Developer, Computer Scientist
+- Github: [Prakhar Shukla](https://github.com/tonystark-jr)
