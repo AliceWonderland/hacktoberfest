@@ -2393,6 +2393,11 @@ Noida
 - Bio: caffeinated and curious
 - GitHub: [zkafkes](https://github.com/zkafkes)
 
+#### Name: [Zeeshan Ahmad](https://github.com/itexpert120)
+- Place: Multan, Pakistan
+- Bio: 18 y.o • student
+- GitHub: [itexpert120](https://github.com/itexpert120)
+
 #### Name: [coastalchief](https://github.com/coastalchief)
 - Place: Germany
 - Bio: dev
