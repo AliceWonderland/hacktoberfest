@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bonifasius Tarigan](https://github.com/bonifasiustrg)
+- Place: North Sumatera, Indonesia
+- Bio: Informatics Student of Telkom University
+- GitHub: [Bonifasius Tarigan](https://github.com/bonifasiustrg)
