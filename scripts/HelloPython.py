@@ -3,3 +3,4 @@
 // AUTHOR: Lucas Marioza
 // GITHUB: https://github.com/LucasMarioza
 print("Hello World!")
+Print("Hello Python")
