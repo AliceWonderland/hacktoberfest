@@ -939,6 +939,11 @@ to explore life. Also, Python and Django Developer
 - Place: Bida, Niger State, Nigeria
 - Bio: Web Developer at @ADPNigeria
 
+#### Name: [Hafiq Iqmal](https://github.com/afiqiqmal)
+- Place: Selangor, Malaysia
+- Bio: Lead Tech Backend Developer @Teratotech
+- Github: [Hafiq Iqmal](https://github.com/afiqiqmal)
+
 #### Name: [Henri Idrovo](https://github.com/henriguy1210)
 - Place: Chicago, Illinois, USA
 - Bio: Java Software Engineer. Illinois Institute of Technology graduate.
