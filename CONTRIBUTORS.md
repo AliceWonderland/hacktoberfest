@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bhavy Khatter](https://github.com/bhavy007)
+- Place: New Delhi, India
+- Bio: Web developer (ReactJS Developer)
+- Github: [Bhavy Khatter](https://github.com/bhavy007)
