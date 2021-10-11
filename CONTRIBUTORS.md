@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tijana] (https://github.com/TijanaSpalevic)
+- Place: Podgorica, Montenegro
+- Bio: Back End Developer
+- GitHub: [TijanaSpalevic] (https://github.com/TijanaSpalevic)
