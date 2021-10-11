@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhishek Avati](https://github.com/Abhiavati20)
+- Place: Nashik,India
+- Bio:Third Year Under Grad, Pursuing B.E. in IT, Web developer (MERN).
+- Github: [Cyrus](https://github.com/Abhiavati20)
