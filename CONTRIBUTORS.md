@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [KRITIKA SHARMA](https://github.com/kritika-sharma130)
+- Place: Born and brought up in Agra
+- Bio: The greatest enemy of knowledge is not ignorance, it is illusion of ignorance
+- GitHub: [Kritika Sharma](https://github.com/kritika-sharma130)
