@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [Ayush Khandelwal](https://github.com/ayushkwal)
+- Place: Agra, India
+- Bio: Web developer PHP and Python
+- Github: [Ayush Khandelwal](https://github.com/ayushkwal)
