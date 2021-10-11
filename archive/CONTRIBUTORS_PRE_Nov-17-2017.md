@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Shrinanda Maity] (https://github.com/ShrinandaMaity)
+- Place: Kolkata
+- Bio: Software Engineer
+- GitHub: [Shrinanda Maity] (https://github.com/ShrinandaMaity)
