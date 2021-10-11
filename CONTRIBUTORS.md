@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Muhammad Yazid Supriadi](https://github.com/yazidsupriadi)
+- Place: Jakarta, Indonesia
+- Bio: Web developer PHP and Android Developer
+- Github: [Muhammad Yazid Supriadi](https://github.com/yazidsupriadi)
