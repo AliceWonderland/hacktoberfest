@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Lathifah Dhiyaurrahmi](https://github.com/Lathifahdhiya)
+- Place: Bandung, Indonesia
+- Bio: Javascript programmer
+- Github: [Lathifah Dhiyaurrahmi](https://github.com/Lathifahdhiya)
