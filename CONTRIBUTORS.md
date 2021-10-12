@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Alexander Pulaski](https://github.com/akpulaski)
+- Place: Ohio, United States of America
+- Bio: 1st Year Computer Science Major 
+- Github: [Alexander Pulaski](https://github.com/akpulaski)
