@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayush Bisht](https://github.com/ayushbisht2001)
+- Place: India
+- Bio: An Engineer
+- Github: [ayushbisht2001](https://github.com/ayushbisht2001)
