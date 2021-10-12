@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nayragit](https://github.com/Nayragit)
+- Place:  Ranchi jharkhand, India
+- Bio: Web developer student  
+- Github: [Nayragit](https://github.com/Nayragit)
