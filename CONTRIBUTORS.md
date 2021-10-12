@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [SAHIL PATIL](https://github.com/agnieszka-miszkurka)
+- Place: India
+- Bio: third year Computer Science Student
+- GitHub: [sahil patil](https://github.com/sahil0922)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
