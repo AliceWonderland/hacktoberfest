@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratiksha Patnaik](https://github.com/itepifanio)
+- Place: Lowell, Massachusetts, USA
+- Bio: Software Engineer
+- Github: [Pratster95](https://github.com/Pratster95/)
