@@ -1,3 +1,8 @@
+#### Name: [Rohan Zanjal]
+- Place: Maharashtra, India;
+- Bio: Web development and C++
+- Github:[Rohan-Zanjal] (https://github.com/Rohan-Zanjal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
