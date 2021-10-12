@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [EDIAN IBARROLA](https://github.com/edianibarrola)
+- Place: Florida
+- Bio: Full-stack Developer
+- GitHub: [Edian Ibarrola](https://github.com/edianibarrola.com)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
