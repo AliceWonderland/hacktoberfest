@@ -10,7 +10,7 @@
 
 #### Name: [FRANCISCO SECO](https://github.com/FcoSu)
 - Place: Temuco, La Araucanía, Chile
-- Bio: Software Developer , Student.
+- Bio: Software Developer , Student. 
 - GitHub: [GitHub account name](https://github.com/FcoSu)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
