@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Alex Diego
+ - Place: Maxaranguape, Brazil
+ - Bio: Web developerJavaScript.
+ - GitHub: [Alex Diego](https://github.com/alexdiegoo)
