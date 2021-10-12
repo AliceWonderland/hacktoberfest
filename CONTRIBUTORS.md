@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [FRANCISCO SECO](https://github.com/FcoSu)
+- Place: Temuco, La Araucanía, Chile
+- Bio: Software Developer , Student.
+- GitHub: [GitHub account name](https://github.com/FcoSu)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
