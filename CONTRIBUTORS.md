@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Swarga Raj Dutta](https://github.com/Swarga-codes)
+ - Place: Jalpaiguri, West Bengal
+ - Bio: Front End Web Developer, CSE Student from SRM Institute of Science and Technology
+ - GitHub: [Swarga-codes](https://github.com/Swarga-codes)
