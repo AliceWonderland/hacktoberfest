@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [chmilan] (https://github.com/chmilan)
+- Place: Denver, CO
+- Bio: Python dev
+- Github: [chmilan] (https://github.com/chmilan)
