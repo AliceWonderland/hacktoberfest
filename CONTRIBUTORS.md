@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [ADARSH KUMAR](https://github.com/ak47adarsh01)
+- Place: Kolkata
+- Bio: COMPUTER GEEK
+- GitHub: [ADARSH KUMAR](https://github.com/ak47adarsh01)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
