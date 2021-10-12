@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Adam Ibnu](https://github.com/Adamibnualfatahh)
+- Place: Karanganyar,Central Java,Indonesia
+- Bio: Web developer PHP and go
+- Github: [Adam Ibnu](https://github.com/Adamibnualfatahh)
+
