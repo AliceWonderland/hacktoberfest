@@ -135,6 +135,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [akmadhwa](https://github.com/akmadhwa)
 
+#### Name: [Zoheb Alam](https://github.com/ali7979)
+- Place: Karnataka
+- Bio: Web Developer
+- GitHub: [ali7979](https://github.com/ali7979)
+
+
 #### Name: [Akram Rameez](https://github.com/akram-rameez)
 - Place: Bengaluru, India
 - Bio: I like free T-shirts and I cannot lie.
