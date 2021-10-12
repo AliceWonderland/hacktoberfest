@@ -1,3 +1,8 @@
+#### Name: [Adrian](https://github.com/loen1995)
+- Place: Barcelona, Spain
+- Bio: Junior cloud engineer who loves coding <3 
+- GitHub: [loen1995](https://github.com/loen1995)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
