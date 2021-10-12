@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: Alex Diego
  - Place: Maxaranguape, Brazil
- - Bio: Web developerJavaScript.
+ - Bio: Web developerJavaScript, HTML and CSS.
  - GitHub: [Alex Diego](https://github.com/alexdiegoo)
