@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Thamidu Anjana](GitHub link)
+- Place: Hingurakgoda, North Central, Sri Lanka
+- Bio: Third year Software Developer in NSBM Green University.
+- GitHub: [ThamiduAnjana](https://github.com/ThamiduAnjana)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
