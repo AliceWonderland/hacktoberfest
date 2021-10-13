@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: NEWTON MALLIOK
+ - Place: DHANBAD , INDIA
+ - Bio: Software engineer STUDENT , SUPER FINAL YEAR IIT ISM DHANBAD
+ - GitHub: [NEWTON](https://github.com/N-E-W-T-O-N)
