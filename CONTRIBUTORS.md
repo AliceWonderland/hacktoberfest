@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+
+- #### Name: {Ghazala Fatima](https://github.com/iriswest)
+- Place: Bahawalpur , Pakistan
+- Bio: Computer Science, HTML ,CSS
+- Github: [Ghazala Fatima](https://github.com/iriswest)
