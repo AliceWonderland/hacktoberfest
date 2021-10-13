@@ -16681,8 +16681,4 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Fajar Rian Setyawan](https://github.com/fajarriansss)
-- Place: Central Java, Indonesia
-- Bio: Web developer PHP and Javascript
-- Github: [Fajar Rian Setyawan](https://github.com/fajarriansss)
 
