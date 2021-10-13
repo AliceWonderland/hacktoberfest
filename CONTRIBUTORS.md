@@ -1623,3 +1623,9 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Piyu Agrawal](https://github.com/Piyu34)
+- Place: Delhi, India
+- Bio: Student, learning to open-source
+- Github: [Piyu34](https://github.com/Piyu34
+
