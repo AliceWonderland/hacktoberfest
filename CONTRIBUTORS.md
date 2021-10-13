@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Juan_Gutierrez](https://github.com/JRaiden16)
-- Place: Ciudad de México, CDMX, mEXICO
-- Bio: I'm a DotNet Developer. I study computer engineering. I like to play the piano and play videogames
+- Place: Ciudad de México, CDMX, MEXICO
+- Bio: I studied computer engineering. I'm a DotNet Fullstack Developer. 
 - GitHub: [JRaiden16] (https://github.com/JRaiden16
