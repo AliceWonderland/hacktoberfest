@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : [Vansh Kodesia](https://github.com/vkodesia21)
+-Place: Bareilly, Uttar Pradesh, India
+-Bio: Student at IIT Mandi
+-Github: [vkodesia21](https://github.com/vkodesia21)
