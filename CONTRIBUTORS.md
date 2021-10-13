@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ANANTH KRISHNA](https://github.com/AnanthaKrishnag)
+- Place: BANGALORE,INDIA
+- Bio: I make,break and test stuff
+- GitHub: [ANANTH KRISHNA](https://github.com/AnanthaKrishnag)
