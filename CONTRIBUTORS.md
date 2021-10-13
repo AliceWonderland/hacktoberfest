@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Reja Revaldy F.](https://github.com/itepifanio)
+#### Name: [Reja Revaldy F.](https://github.com/revaldy-30)
 - Place: Indonesia
 - Bio: Student, Cyber Security Enthusiast
 - Github: [revaldy-30](https://github.com/revaldy-30)
