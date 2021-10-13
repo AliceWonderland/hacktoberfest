@@ -1,3 +1,8 @@
+#### Name: [0x33c](https://github.com/0x033c)
+ - Place: Ulaanbaatar, Mongolia
+ - Bio: Information security bachelor. Graduated from MUST-SICT.
+ - GitHub: [Vallenain](https://github.com/0x033c)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
