@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ayan Chakrabortty](https://github.com/Ayanchakrabortty)
+- Place: West Bengal.India
+- Bio:C,C++,JAVA, Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/Ayanchakrabortty)
