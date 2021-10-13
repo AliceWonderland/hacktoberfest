@@ -1,0 +1,12 @@
+#!/usr/bin/env python2.7
+print "h"
+print "e"
+print "l"
+print "l"
+print "o"
+print "-"
+print "w"
+print "o"
+print "r"
+print "l"
+print "d"

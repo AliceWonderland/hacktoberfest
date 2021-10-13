@@ -14,7 +14,7 @@ Vocational High School
 
 ### Development
 
-- CTF, Cyber Security Enthusiast, Programming
+- CTF, Cyber Security, Programming
 
 ### Projects
 
