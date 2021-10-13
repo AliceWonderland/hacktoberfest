@@ -904,6 +904,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Scala developer
 - GitHub: [navispeed](https://github.com/navispeed/)
 
+
+#### Name: [Guilherme Augusto Gomes Cunha](https://github.com/CunhaGuilhermeBR)
+- Place: Belo Horizonte, Brazil
+- Bio: Student
+- Github: [Guilherme Augusto Gomes Cunha](https://github.com/CunhaGuilhermeBR)
+
 #### Name: [Gui An Lee](https://github.com/piroton)
 - Place: Singapore, Singapore
 - Bio: Student
