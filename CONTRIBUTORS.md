@@ -1623,3 +1623,7 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Patricius Luky](https://github.com/patriciusluky)
+- Place: Indonesia
+- Github: [Patricius Luky] (https://github.com/patriciusluky)
