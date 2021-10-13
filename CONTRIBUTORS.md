@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Giovani Albuquerque](https://github.com/Giovaniavs)
+- Place: Recife, Brazil
+- Bio: Web and Mobile Developer
+- Github: [Giovani Albuquerque](https://github.com/Giovaniavs)
