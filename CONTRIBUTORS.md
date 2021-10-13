@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [NIDHI KUMARI](https://github.com/NK-01)
+- Place: Chandigarh, India
+- Bio: I love to learn and try new things.
+- Github: [Nidhi Kumari](https://github.com/NK-01)
