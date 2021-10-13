@@ -1,3 +1,8 @@
+#### Name: Aurelien Saelens
+- Place: Wavre, Belgique
+- Bio: Junior Web Dev
+- Github [AurelienSaelens](https://github.com/aureliensaelens)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
