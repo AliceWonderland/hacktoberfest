@@ -1,7 +1,7 @@
-#### Name: [0x33c](https://github.com/0x033c)
+#### Name: [0x33c](https://github.com/0x33c)
  - Place: Ulaanbaatar, Mongolia
  - Bio: Information security bachelor. Graduated from MUST-SICT.
- - GitHub: [Vallenain](https://github.com/0x033c)
+ - GitHub: [Vallenain](https://github.com/0x33c)
 
 #### Name: Vallenain
  - Place: Lyon, France
