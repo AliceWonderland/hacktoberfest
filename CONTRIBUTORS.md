@@ -1,3 +1,9 @@
+#### Name: Haris Javed
+
+- Place: Lucknow, India
+- Bio: UG student. Aspiring to make a career out of switching transistors on and off.
+- GitHub: [Haris Javed](https://github.com/harisj58)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
