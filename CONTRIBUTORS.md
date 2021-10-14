@@ -1,3 +1,8 @@
+#### Name: [Kashish Mittal](https://github.com/mittal1001)
+- Place: Indore, M.P., India
+- Bio: I'm an undergraduate in the filed of Computer Science. I love learning new things.
+- GitHub: [Kashish Mittal](https://github.com/mittal1001)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
