@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [diwuracreatives](https://github.com/itepifanio)
+- Place: Lagos, Nigeria
+- Bio: Front end developer React 
+- Github: [diwuracreatives](https://github.com/diwuracreatives)
