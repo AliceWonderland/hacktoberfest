@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deepak Kumar](https://github.com/DKumar2169)
+- Place: Mohali,India
+- Bio: Beginner Web Developer
+- Github: [Deepak Kumar](https://github.com/DKumar2169)
