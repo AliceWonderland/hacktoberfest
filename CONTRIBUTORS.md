@@ -1153,6 +1153,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A nice young man who likes web programming!
 - GitHub: [Joey Marshment-Howell](https://github.com/josephkmh)
 
+#### Name: Milan
+ - Place: Mumbai,India
+ - Bio: BDA
+ - GitHub: [Doobvoob](https://github.com/doobvoob)
+
 #### Name: [John "JB" Brock](https://github.com/peppertech)
 - Place: Seattle, Washington, USA
 - Bio: Product Manager at Oracle. Owner of Oracle JavaScript Extension Toolkit(JET) open source project
