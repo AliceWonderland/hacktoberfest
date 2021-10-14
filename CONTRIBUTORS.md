@@ -1,3 +1,8 @@
+#### Name: SkyShineTH
+ - Place: Ubon, Thailand
+ - Bio: Student.
+ - GitHub: [SkyShineTH](https://github.com/SkyShineTH)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
