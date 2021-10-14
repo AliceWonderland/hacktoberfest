@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aria Li (she/her)](https://github.com/jubielub)
+- Place: Seattle, Washington
+- Bio: Senior Computer Science student @ University of Washington Bothell
+- Github: [Aria Li](https://github.com/jubielub)
