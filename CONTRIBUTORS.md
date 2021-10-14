@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+- #### Name: [Jesus Nuñez](https://github.com/Cro22/)
+- Place: Aragua, Venezuela
+- Bio: Senior Back End Developer
+- Github: [Jesus Nuñez](https://github.com/Cro22/)
