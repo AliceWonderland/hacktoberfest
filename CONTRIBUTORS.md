@@ -2,7 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+#### Name: [Raghav Agrawal](https://github.com/agraghav26)
+- Place: Jhalawar, Rajasthan, India
+- Bio: College Student
+- GitHub: [Raghav Agrawal](https://github.com/agraghav26)
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
