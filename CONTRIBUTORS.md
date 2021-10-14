@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddhesh Kanawade](https://github.com/SiddheshKanawade)
+- Place: Maharashtra, India
+- Bio: Aspiring Full Stack Web/App Developer
+- Github: [SiddheshKanawade](https://github.com/SiddheshKanawade)
