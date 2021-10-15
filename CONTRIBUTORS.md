@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Pranshu Sarthak](https://github.com/pranshusarthak)
 - Place: Delhi, India
 - Bio: Btech Cse student
-- Github: [pranshusathak](https://github.com/pranshusarthak)
+- Github: [pranshusarthak](https://github.com/pranshusarthak)
