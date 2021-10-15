@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luana Takeishi](https://github.com/Lucatake)
+- Place: Belo Horizonte, Brazil
+- Bio: Support Analyst and Computer Science student
+- Github: [Lucatake](https://github.com/Lucatake)
