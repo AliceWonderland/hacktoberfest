@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [DAKSHA AEER](https://github.c/omdaksha-aeer)
+- Place: Mumbai, Maharashtra, India
+- Bio: Student
+- GitHub: [daksha-aeer](https://github.com/daksha-aeer)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
