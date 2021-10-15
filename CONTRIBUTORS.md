@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pranshu Sarthak](https://github.com/pranshusarthak)
+- Place: Delhi, India
+- Bio: Btech Cse student
+- Github: [pranshusathak](https://github.com/pranshusarthak)
