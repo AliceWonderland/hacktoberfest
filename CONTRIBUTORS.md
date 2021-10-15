@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [David Weiss](https://github.com/davidtheweiss)
+- Place: Richmond, VA, USA
+- Bio: Founder and Developer of the startup Ayrro
+- GitHub: [davidtheweiss](https://github.com/davidtheweiss)
