@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shradheya Kumar](https://github.com/Shradheya7)
+- Place: New Delhi, India
+- Bio: Software Developement Engineer
+- Github: [Shradheya7](https://github.com/Shradheya7)
