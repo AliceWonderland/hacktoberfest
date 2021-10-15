@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayush Pattnaik](https://github.com/Ayu10x)
+- Place: Odisha, India
+- Bio: Web developer Js and Java
+- Github: [Ayu10x](https://github.com/Ayu10x)
