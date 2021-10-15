@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [vaishnavi bangar](https://github.com/vaish0903)
+- Place: Latur, Maharashtra, India
+- Bio: Student of Chemical Engineering at IIT BHU
+- Github: [vaishnavi](https://github.com/vaish0903)
