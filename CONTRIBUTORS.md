@@ -2368,6 +2368,10 @@ Noida
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
 
+#### Name: [Aarushi Gupta](https://github.com/aarushi)
+- Place: Jaipur, India
+- Bio: Freelancer
+- Github [aarushi]((https://github.com/aarushi)
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
