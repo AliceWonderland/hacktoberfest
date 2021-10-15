@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ifrah Abdi](https://github.com/i-f-r-a-h)
+- Place: London, United Kingdom
+- Bio: Creative Front end web developer
+- GitHub: [i-f-r-a-h](https://github.com/i-f-r-a-h)
