@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Souhardya Ganguly](https://github.com/Souhardya-Ganguly)
+- Place: Kolkata, India
+- Bio: Software Development, Data Analysis, Web Development
+- Github: [Souhardya Ganguly](https://github.com/Souhardya-Ganguly)
