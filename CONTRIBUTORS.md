@@ -1,3 +1,10 @@
+#### Name: JHero
+  - Place: USA
+  - Bio: Software Engineer in QA. Gamer, Aspiring YouTuber/Twitch Streamer and Actor
+  - Github: [JHeroGR](https://github.com/JHeroGR)
+  - YouTube: [JHero](https://youtube.com/JHero)
+  - Twitch: [JHeroGR](https://twitch.tv/JHeroGR)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
