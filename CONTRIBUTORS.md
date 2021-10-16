@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anindya Dey](https://github.com/andys-github)
+- Place: Nagaland, India
+- Bio: Full-stack Developer
+- Github: [andys-github](https://github.com/andys-github)
