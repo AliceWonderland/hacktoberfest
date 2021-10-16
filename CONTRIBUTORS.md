@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Palve](https://github.com/ThanoS-max)
+- Place: Mumbai, India
+- Bio: C++ dev, Full Stack
+- Github: [Aditya Palve](https://github.com/ThanoS-max)
