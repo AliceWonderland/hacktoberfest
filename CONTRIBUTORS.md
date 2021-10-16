@@ -1233,10 +1233,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
+#### Name: [Julia Pinheiro](https://github.com/JuliaPinheiro)
+- Place: SP, BR
+- Bio: Dev Junior 
+- GitHub: [Julia Pinheiro Oliveira](https://github.com/JuliaPinheiro)
+
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
-- GitHub: [Jish80] (https://github.com/Jish80)
+- GitHub: [Jish80](https://github.com/Jish80)
 
 #### Name: [Justin Oliver](https://github.com/justinoliver)
 - Place: Seattle, WA, USA, Earth!
