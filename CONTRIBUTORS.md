@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Milan Matejic](https://github.com/Mateja3m)
+ - Place: Aleksinac, Serbia
+ - Bio: Front end developer
+ - GitHub: [Milan Matejic](https://github.com/Mateja3m)
