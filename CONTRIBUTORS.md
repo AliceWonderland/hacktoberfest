@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriella Leite] (https://github.com/gabicentrismo)
+- Place: São Paulo, Brazil
+- Bio: Front-end dev
+- Github: [Gabriella Leite](https://github.com/gabicentrismo)
