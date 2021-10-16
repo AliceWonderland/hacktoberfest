@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sai Sahith](https://github.com/sai-sahith7)
+- Place: Hyderabad, Telangana, India
+- Bio: Student
+- GitHub: [sai-sahith7](https://github.com/sai-sahith7)
