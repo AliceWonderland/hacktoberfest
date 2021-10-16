@@ -1,3 +1,8 @@
+#### Name: [Shankha Bhattacharya](https://github.com/shankhabhattacharya)
+- Place: Kolkata, India
+- Bio: Fourth year undergraduate student.
+- GitHub: [shankhabhattacharya](https://github.com/shankhabhattacharya)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
