@@ -1,3 +1,7 @@
+###  Name: Agrim
+ - Place: India
+ - Bio: CSE student.
+ - GitHub: [Agrim2411](https://github.com/Agrim2411)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
