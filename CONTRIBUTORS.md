@@ -1,3 +1,8 @@
+#### Name: [Chase Phelps](https://userweb.cs.txstate.edu/~clp186/)
+ - Place: Texas, USA
+ - Bio: Ph.D. student in Computer Science
+ - GitHub: [chaseleif](https://github.com/chaseleif)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
