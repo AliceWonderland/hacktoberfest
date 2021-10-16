@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Jukta Goyari](https://github.com/JuktaGoyari)
-- Place: Guwahati, Assam, India
+- Place: Guwahati, Assam,India
 - Bio: Computer Science and Engineering Student
 - GitHub: [JuktaGoyari](https://github.com/JuktaGoyari)
