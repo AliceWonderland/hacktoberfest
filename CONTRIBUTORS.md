@@ -1,3 +1,9 @@
+#### Name: Arpit Das
+ - Place: Gorakhpur, India
+ - Bio: Software engineer. Undergraduate from Netaji Subhash Engineering College.
+ - GitHub: [DecoderRony](https://github.com/DecoderRony)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
