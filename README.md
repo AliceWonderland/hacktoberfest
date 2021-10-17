@@ -80,7 +80,7 @@ Your School
 
 - Some Things You Like
 
-### Development
+### Developments
 
 - Inventor of the My Pillow
 
