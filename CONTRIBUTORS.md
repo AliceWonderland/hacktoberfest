@@ -245,6 +245,11 @@ to explore life. Also, Python and Django Developer
 - Bio: High School Student, passionate about math, coding and open source
 - Github: [ZaninAndrea](https://github.com/ZaninAndrea)
 
+#### Name: [Andrew Cai](https://github.com/ChickenNoogit)
+- Place: Washington, USA
+- Bio: High School freshmen
+- Github: [ChickenNoogit](https://github.com/ChickenNoogit)
+
 #### Name: [Andrew Pickham](https://github.com/apickham)
 - Place: Fredericksburg, VA USA
 - Bio: Data Center Technician
