@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [seraj khan](https://github.com/its-seraj)
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: I'm a Final Year CSE student
+- Github: [SERAJ KHAN](https://github.com/its-seraj)
