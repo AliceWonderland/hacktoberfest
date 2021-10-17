@@ -1,3 +1,8 @@
+#### Name: [SAYURU](https://github.com/sayuru-akash)
+- Place: Colombo, Sri Lanka
+- Bio: Software engineer, Web & Mobile App Developer
+- GitHub: [sayuru akash](https://github.com/sayuru-akash)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
