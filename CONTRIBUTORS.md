@@ -18,6 +18,10 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [MARCOS PAULO](https://github.com/mr-soulfox)
+- Place: Rio de Janeiro, Brazil
+- Bio: A student with love for coding!
+- Github: [Marcos Paulo](https://github.com/mr-soulfox)
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
