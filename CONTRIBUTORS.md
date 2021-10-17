@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fernando Branco](https://github.com/favanso)
+- Place: Michigan, US
+- Bio: Student Dev (PHP and JAVA)
+- Github: [Fernando Branco](https://github.com/favanso)
