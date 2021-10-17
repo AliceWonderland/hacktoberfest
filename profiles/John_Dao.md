@@ -1,18 +1,18 @@
 # John Dao
 
-## Location
+### Location
 
 New Zealand
 
-## Interest
+### Interests
 
 - React
 - Javascript
 - Python
 - AI
 
-## Profile
+### Profile Links
 
-- Github: https://github.com/johndao1005
-- Linkedln: https://www.linkedin.com/in/mrjohndao/
-- Facebook: https://www.facebook.com/John.dao95
+- [Github](https://github.com/johndao1005)
+- [Linkedln](https://www.linkedin.com/in/mrjohndao/)
+- [Facebook](https://www.facebook.com/John.dao95)
