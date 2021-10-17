@@ -1,4 +1,4 @@
-// JS
+// Typescript
 // AUTHOR Uneatenbreakfast
 // https://github.com/Uneatenbreakfast
 
