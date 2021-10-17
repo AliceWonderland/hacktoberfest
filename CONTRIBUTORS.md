@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Juli Cheng](https://github.com/julicheng)
+- Place: Manchester, UK
+- Bio: Front-End Developer
+- GitHub: [julicheng](https://github.com/julicheng)
