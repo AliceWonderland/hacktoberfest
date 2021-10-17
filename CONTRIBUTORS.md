@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [s0v13tl3m0n](https://github.com/s0v13tl3m0n)
+- Place: Dublin, Ireland
+- Bio: 2nd Year Enterprise Computing Student
+- GitHub: [s0v13tl3m0n](https://github.com/s0v13tl3m0n)
