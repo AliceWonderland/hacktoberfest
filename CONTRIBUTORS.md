@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manavpreet](https://github.com/Manavpreeet)
+- Place: Bangalore, India
+- Bio: Web developer MERN and flutter developer
+- Github: [Ítalo Epifânio](https://github.com/Manavpreeet)
