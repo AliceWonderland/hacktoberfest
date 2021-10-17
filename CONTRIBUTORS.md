@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tatiane Correa](https://github.com/taticorrea)
+- Place: Rio de Janeiro, RJ, Brasil
+- Bio: Physicist and master's student in Astronomy
+- Github: [Tatiane Correa](https://github.com/taticorrea)
+
