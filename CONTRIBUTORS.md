@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Asma Tufail](https://github.com/asma1424)
+- Place: Islamabad, Pakistan
+- Bio: Java and Python Developer
+- Github: [Asma Tufail](https://github.com/asma1424)
