@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hassaan Nadeem](https://github.com/saanville)
+- Place: Islamabad, Pakistan
+- Bio: Machine Learning 
+- GitHub: [Hassaan Nadeem](https://github.com/saanville)
