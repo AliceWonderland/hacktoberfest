@@ -10,8 +10,10 @@ python3 manage.py
 
 PS: DO NOT USE PYTHON 2
 """
+# package re is importred here
 import re
 
+# function format_contributer  is defined
 def format_contributor(contrib):
     """
     Helper function to format the details properly.
