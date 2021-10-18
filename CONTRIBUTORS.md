@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Viktor Sallling](https://github.com/salling18)
+- Place: Aarhus, Denmark
+- Bio: CS student and software developer
+- Github: [Viktor Salling]](https://github.com/salling18)
