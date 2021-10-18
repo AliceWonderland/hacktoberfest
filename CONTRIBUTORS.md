@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Mahesh kumar dash](https://github.com/mahesh-sketch)
+- Place: Bhubaneswar, odisha, india
+- Bio: 2nd year CSE students at C.V Raman Global University
+- GitHub: [mahesh-sketch](https://github.com/mahesh-sketch)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
