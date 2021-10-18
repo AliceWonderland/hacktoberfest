@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Bansal](https://github.com/Yash9460)
+- Place: INDIA
+- Bio: second year Computer Science Student, in love with TECH
+- GitHub: [Yash9460](https://github.com/Yash9460)
