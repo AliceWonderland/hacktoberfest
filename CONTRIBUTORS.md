@@ -1744,6 +1744,11 @@ Noida
 - Bio: Chinese food :heart_eyes:
 - GitHub: [Ocean](https://github.com/ocean0212)
 
+#### Name: [Okorie Daberechi](https://github.com/Dahbaeraychy)
+- Place: Lagos, Nigeria
+- Bio: Computer science student and software development enthusiast 
+- GitHub: [Dahbaeraychy](https://github.com/Dahbaeraychy)
+
 #### Name: [Oleksiy Ovdiyenko](https://github.com/doubledare704)
 - Place: Kyiv, Ukraine
 - Bio: Python Dev
