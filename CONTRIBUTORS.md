@@ -1,3 +1,8 @@
+#### Name: [Maheep Kumar](https://github.com/MaheepK9)
+ - Place: Delhi, India
+ - Bio: Student, currently pursuing B.Tech. in ECE branch
+ - GitHub: [Maheep Kumar](https://github.com/MaheepK9)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
