@@ -1,3 +1,8 @@
+#### Name: Aditya Singh
+- Place : West Bengal, India
+- Bio : Computer Science undergrad
+- Github : [Aditya Singh](https://github.com/ItzMeAditya)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
