@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Meyank M](https://github.com/memeyankm)
 - Place: Odisha, India
 - Bio: Cloud computing with python
-- Github: [Ítalo Epifânio](https://github.com/memeyankm)
+- Github: [Meyank M](https://github.com/memeyankm)
