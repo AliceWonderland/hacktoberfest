@@ -1,3 +1,8 @@
+#### Name: Akshay
+ - Place: Gujarat, India
+ - Bio: Computer Science Student
+ - GitHub: [akshaypatel67](https://github.com/akshaypatel67)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
