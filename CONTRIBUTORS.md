@@ -1,3 +1,8 @@
+#### Name: DEVI APRIYANTO
+ - Place: INDONESIA, WEST BORNEO
+ - Bio: FREELANCER
+ - GitHub: [Devi Apriyanto](https://github.com/eepnasibungkos)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
