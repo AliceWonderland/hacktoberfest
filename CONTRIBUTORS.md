@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+
+#### Name: [ANKIT SINGH](https://github.com/devaman)
+- Place: Bangalore,INDIA
+- Bio: COMPUTER GEEK
+- GitHub: [Ankit Singh](https://github.com/devdaman)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
