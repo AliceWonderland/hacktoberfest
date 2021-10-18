@@ -2383,47 +2383,8 @@ Noida
 - Bio: Student
 - GitHub: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 
-#### Name: [Zaki Akhmad](https://github.com/za)
-- Place: Jakarta, Indonesia
-- Bio: Python enthusiasts
-- GitHub: [za](https://github.com/za)
+#### Name: [Meet Bhatia](https://github.com/meetb02)
+- Place: Mumbai, India
+- Bio: Gamer, Engineer
+- Github: [meetb02](https://github.com/meetb02)
 
-#### Name: [Zoe Kafkes](https://github.com/zkafkes)
-- Place: Atlanta, Georgia USA
-- Bio: caffeinated and curious
-- GitHub: [zkafkes](https://github.com/zkafkes)
-
-#### Name: [coastalchief](https://github.com/coastalchief)
-- Place: Germany
-- Bio: dev
-- GitHub: [coastalchief](https://github.com/coastalchief)
-
-#### Name: [filedesless](https://hightechlowlife.info)
-- Place: Québec, Canada
-- Bio: CompSci from ULaval reporting in
-- GitHub: [aiglebleu](https://github.com/aiglebleu)
-
-#### Name: [gipsi](gipsi.github.io)
-- Place: South-East, UK
-- Bio: Student FreeCodeCamp interested in PWA's
-- Github: [gipsi](https://github.com/gipsi)
-
-#### Name: [syamkumar](https://github.com/syam3526)
-- Place:kerala,india
-- Bio: data scientist
-- Github: [syamkumar](https://github.com/syam3526)
-
-#### Name: [tbdees](https://github.com/tbdees/)
-- Place: Laguna Beach, CA
-- Bio: financial software consultant
-- Github: [tbdees](https://github.com/tbdees/)
-
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
-- Place: Norway
-- Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
-
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
