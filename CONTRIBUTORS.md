@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [RICHA SRIVASTAVA](https://github.com/getRicha)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Student
+- Github: [Richa Srivastava](https://github.com/getRicha)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
