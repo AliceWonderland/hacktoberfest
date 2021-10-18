@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deepak kumar](https://github.com/deepak-kr-26)
+- Place: Dehradun, Uttarakhand
+- Bio: Student at NIT Jamshedpur, Tech-enthsiast,
+      A passionate learner with a creative mindset!!! 
+- GitHub: [deepak-kr-26](https://github.com/deepak-kr-26)
