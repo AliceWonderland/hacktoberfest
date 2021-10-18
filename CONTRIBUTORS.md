@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nitish Kumar](https://github.com/technitish9123)
+- Place: Bangalore, India
+- Bio: Web developer Cyber security researcher
+- Github: [technitish9123](https://github.com/technitish9123)
