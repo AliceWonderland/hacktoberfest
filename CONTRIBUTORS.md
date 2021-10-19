@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aarushi Singh](https://github.com/Aarushi1Singh)
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [Aarushi Singh](https://github.com/Aarushi1Singh)
