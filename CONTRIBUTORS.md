@@ -2017,6 +2017,11 @@ Noida
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+ #### Name: [Sam Mansch](https://github.com/sammansch)
+ - Place: Chicago, IL, USA
+ - Bio: Love my cats, video games, moves, and the sound of trains
+ - GitHub: [sammansch](https://github.com/sammansch)
+
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
