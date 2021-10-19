@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Eduarda Farias](https://github.com/EduardaFarias1)
+- Place: Campina Grande, Paraíba, Brasil
+- Bio: Entering computer science, I intend to create an immersive virtual reality
+- Github: [EduardaFarias1](https://github.com/EduardaFarias1)
