@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Aanchal Rattan](https://github.com/Aanchal-Rattan)
+ - Place: India
+ - Bio: B Tech Student.
+ - GitHub: [Aanchal-Rattan](https://github.com/Aanchal-Rattan)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
