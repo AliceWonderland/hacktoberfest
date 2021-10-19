@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Soumya Ranjan Das
+ - Place: India, Odisha,Bhubaneswar
+ - Bio: CSE student at GIFT.
+ - GitHub: [Soumya Ranjan Das](https://github.com/1-23-smy)
