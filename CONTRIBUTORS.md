@@ -1,3 +1,8 @@
+#### Name: Tanushree Sharma(https://github.com/TanuShree952838)
+ - Place: Bulandshahr, Uttar Pradesssssssh
+ - Bio: Software Engineering Student. Jaypee University Anoopshahr
+ - GitHub:TanuShree952838[https://github.com/TanuShree952838]
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
