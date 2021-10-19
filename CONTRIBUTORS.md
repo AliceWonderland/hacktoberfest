@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [isha-007](https://github.com/isha-007/)
+- Place: India, Delhi
+- Bio: CSE Student
+- Github: [isha-007](https://github.com/isha-007/)
