@@ -2418,12 +2418,18 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+#### Name: [xenocideiwki](https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+- GitHub: [xenocidewiki](https://github.com/xenocidewiki)
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshil Gupta](https://github.com/Harshil-Gupta)
+- Place: India
+- Bio: Student passionate about blockchain and web development 
+- Github: [Harshil Gupta](https://github.com/Harshil-Gupta)
+- LinkedIn: [Harshil Gupta](https://www.linkedin.com/in/harshilgupta28/)
