@@ -1,3 +1,7 @@
+#### Name: Lucky Gupta
+ - Place: Uttar Pradesh, India
+ - Bio:3rd YEAR COMPUTER SCIENCE student.
+ - GitHub: [lucky-2000](https://github.com/lucky-2000)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
