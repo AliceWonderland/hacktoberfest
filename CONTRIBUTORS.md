@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Amado](https://github.com/SylarK)
+- Place: Goias, Brazil
+- Bio: Software Developer Web developer
+- Github: [Lucas Amado](https://github.com/SylarK)
