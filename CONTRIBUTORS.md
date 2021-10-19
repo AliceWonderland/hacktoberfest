@@ -395,6 +395,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Rishaw Kumar](https://github.com/rishawsingh)
+- Place: India
+- Bio: Third year Computer Science Student, in love with coding.
+- GitHub: [Rishaw Kumar](https://github.com/rishawsingh)
+
 #### Name: [Branden] (https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
