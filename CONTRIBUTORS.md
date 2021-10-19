@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sushantkumargupta](https://github.com/sushantkumargupta)
+- Place: Katihar, Bihar, India
+- Bio: IT dept. stdent of JGEC, CP enthusiast
+- GitHub: [sushantkumargupta](https://github.com/sushantkumargupta)
