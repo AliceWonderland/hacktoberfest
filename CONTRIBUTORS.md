@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: Alexandre
+ - Place: Cotia, Brasil
+ - Bio: Computer Science Student.
+ - GitHub: [Vallenain](https://github.com/lelefolkl)
