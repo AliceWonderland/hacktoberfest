@@ -2,6 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: Zehra
+ - Place: Hyderabad, India
+ - Bio: Student. GNITS.
+ - GitHub: [Zehra](https://github.com/zehra47)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
