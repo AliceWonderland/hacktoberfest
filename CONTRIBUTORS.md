@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AccurateIsaiah] (https://github.com/accurateisaiah)
+- Place: Canada, Ontario
+- Bio: Frontend Dev and learning a bunch of other languages
+- Github: [AccurateIsaiah] (https://github.com/accurateisaiah) 
