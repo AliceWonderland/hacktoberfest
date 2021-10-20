@@ -1,3 +1,8 @@
+#### Name: [SOMYA SHARMA](https://github.com/somyasharma29)
+- Place: Mumbai, Maharashtra, India
+- Bio: Student at IIT Bombay
+- GitHub: [Somya Sharma](https://github.com/somyasharma29)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
