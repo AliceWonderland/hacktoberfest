@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Cheng Zeru](https://github.com/chengzeru)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Cheng Zeru](https://github.com/chengzeru)
