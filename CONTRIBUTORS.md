@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Emanuel Alves](https://github.com/emanuelldev)
+- Place: Brazil
+- Bio: Computer enginner and Trader, on the way to going crazy.
+- GitHub: [Emanuelldev](https://github.com/emanuelldev)
