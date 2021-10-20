@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prateek Mishra](https://github.com/Blupedude95)
+-Place: Lucknow, Uttar Pradesh, India. 
+-Bio: student at institute of engineering and technology lucknow, trying to be a web-developer.
+-Github: [Blupedude95](https://github.com/Blupedude95)
