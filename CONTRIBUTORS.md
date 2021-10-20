@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [P Sathya Narayan](https://github.com/psathyanarayan)
+- Place: Kerala, India
+- Bio: Web developer Beta Microsoft Learn Student Ambassador
+- Github: [psathyanarayan](https://github.com/psathyanarayan)
