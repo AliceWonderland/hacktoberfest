@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nandini](https://github.com/nandiniguptaz)
+- Place: Uttarakhand, India
+- Bio: Student
+- GitHub: [nandiniguptaz](https://github.com/nandiniguptaz)
