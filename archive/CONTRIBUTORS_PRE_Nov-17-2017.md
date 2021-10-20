@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Soumyadeb Basu](https://github.com/Soumyadeb-Basu)
+- Place: India
+- Bio: Loving Java since school
+- GitHub: [Soumyadeb-Basu](https://github.com/Soumyadeb-Basu)
