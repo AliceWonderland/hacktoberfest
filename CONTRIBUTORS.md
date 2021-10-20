@@ -1,3 +1,8 @@
+#### Name: Aishwarya Srivastava
+ - Place: India
+ - Bio: Computer Science Undergraduate student
+ - GitHub: [aishrii](https://github.com/aishrii)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
