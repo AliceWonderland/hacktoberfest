@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Old_Wise_Guy](https://github.com/darthm0e)
+- Place: Ocktown, Germany, World
+- Bio: just some sort of IT Guy and Nerd
+- Github: [darthm0e](https://github.com/darthm0e)
