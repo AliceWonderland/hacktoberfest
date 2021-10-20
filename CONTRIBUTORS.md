@@ -1398,6 +1398,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [Luis Alducin](https://github.com/luisalduucin)
 
+#### Name: [Luis Felipe Klaus](https://github.com/duckbox72)
+- Place: Recife, PE, Brazil
+- Bio: Software developer
+- GitHub: [Luis Felipe Klaus](https://github.com/duckbox72)
+
 #### Name: [Luiz Gustavo Mattos](https://github.com/mano0012)
 - Place: Brasil
 - Bio: Computer Science Student
