@@ -1,3 +1,8 @@
+#### Name: Shivanand
+ - Place: New Delhi, India
+ - Bio: Second Year CS, MNNIT Allahabad
+ - GitHub: [Shivanand](https://github.com/pinnalce20)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
