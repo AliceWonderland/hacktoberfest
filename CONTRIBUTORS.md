@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sc0rp10n.py](https://github.com/sc0rp10n-py)
+- Place: New Delhi, India
+- Bio: Front End Web Developer, Python, MATLAB, Graphic Designer
+- Github: [sc0rp10n-py](https://github.com/sc0rp10n-py)
