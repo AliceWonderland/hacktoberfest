@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [TaranjeetSingh](https://github.com/Taranjeet105)
+- Place: Delhi, India
+- Bio: Software Engineer
+- Github: [Taranjeet105](https://github.com/Taranjeet105)
