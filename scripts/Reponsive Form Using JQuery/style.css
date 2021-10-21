@@ -1,0 +1,110 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.bg{
+	background: #e3e3e3;
+	padding: 80px 0px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.form-wrap{
+	position: relative;
+	box-shadow: rgba(221,230,237,0.4) 0px 3px 10px 0px;
+	background-color: white;
+}
+
+#regForm{
+	padding: 50px 30px 30px 30px;
+}
+
+.form-heading{
+	position: relative;
+	width:110%;
+	left: -5%;
+	top:15px;
+	padding: 15px 0px;
+	text-align: center;
+	color: white;
+	background-color: #8e2de2;
+	background:linear-gradient(to right, #4a00e0, #8e2de2);
+}
+
+.form-heading:before{
+	position: absolute;
+	content:'';
+	left:0;
+	bottom: -20px;
+	width: 18px;
+	height: 20px;
+	background-color: #5f2bc2;
+	clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
+.form-heading:after{
+	position: absolute;
+	content:'';
+	right: 0px;
+	bottom: -20px;
+	width: 18px;
+	height: 20px;
+	background-color: #5f2bc2;
+	clip-path: polygon(0 0, 0 100% , 100% 0);
+}
+
+.form-heading h1{
+	text-transform: uppercase;
+	font-size: 22px;
+	font-weight: 700;
+	margin: 0px;
+}
+
+.form-heading p{
+	text-transform: capitalize;
+	font-size: 14px;
+	font-weight: 500;
+	padding: 0;
+	margin: 0;
+}
+
+#regForm label{
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.form-control{
+	border:none;
+	padding:0px;
+	border-bottom: 2px solid #b5b5b5;
+	border-radius: 0px;
+}
+
+.form-control:focus{
+	box-shadow: none;
+}
+
+::placeholder{
+  text-transform: capitalize;
+  font-size: 11px;
+  font-weight: 500;
+  color: #b5b5b5;
+}
+
+.btn-primary{
+	background-color: #8e2de2;
+	border:none;
+	margin:20px 0px 0px 0px;
+	text-transform: capitalize;
+	font-size: 14px;
+	font-weight: 600;
+	background:linear-gradient(to right, #4a00e0, #8e2de2);
+}
+
+#p1, #p2, #p3{
+	color: #ff0000;
+	font-size: 13px;
+	font-weight: 600;
+}
