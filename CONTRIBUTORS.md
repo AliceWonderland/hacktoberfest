@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [One Agustiranda](https://github.com/oneagustiranda)
+- Place: Batam, Indonesia
+- Bio: Junior ASP.NET Web Developer
+- Github: [One Agustiranda](https://github.com/oneagustiranda)
