@@ -2082,6 +2082,11 @@ Noida
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
 
+#### Name: [Shubham Shirke](https://github.com/Ikaros305)
+- Place: Mumbai, India
+- Bio: Fullstack Developer
+- Github: [Shubham Shirke] (https://github.com/Ikaros305)
+- 
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
 - Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
