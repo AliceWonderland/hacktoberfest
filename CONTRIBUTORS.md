@@ -2432,3 +2432,17 @@ Noida
 - Place: Bangkok, Thailand
 - Bio: Developer
 - GitHub: [TabiKaeru](https://github.com/Bcepnez)
+
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Olof Jondelius](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Architect
+- Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
