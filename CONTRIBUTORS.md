@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhinav singh negi](https://github.com/Abhinavsinghnegi)
+- Place: Mhow, India
+- Bio: Web developer Java and Python
+- Github: [Abhinav singh negi](https://github.com/Abhinavsinghnegi)
