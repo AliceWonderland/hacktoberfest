@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Smriti Srivastava](https://github.com/Smriti-netizen)
+- Place: Gorakhpur, Uttar Pradesh, India
+- Bio: Student,Front-end web developer,Android Developer and enthusatic to learn new things always
+- GitHub: [Smriti-netizen](https://github.com/Smriti-netizen)
