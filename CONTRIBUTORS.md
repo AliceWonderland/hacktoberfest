@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikunj Prajapati](https://github.com/LEO1612D)
+- Place: Goa, India
+- Bio: An artist, photographer and coder
+- GitHub: [LEO1612D](https://github.com/LEO1612D)
