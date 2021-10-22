@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hassan Yosuf](https://github.com/itepifanio)
+- Place: Lucknow, India
+- Bio: Web developer , Java Developer
+- Github: [Hassan Yosuf](https://github.com/HassanYosuf)
