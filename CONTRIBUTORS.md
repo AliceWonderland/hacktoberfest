@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Piyush Nagpal](https://github.com/zsiecr)
+- Place: Pune, Maharashtra, India
+- Bio: Flutter developer, ML/AI enthusiast
+- GitHub: [zsiecr](https://github.com/zsiecr)
+
