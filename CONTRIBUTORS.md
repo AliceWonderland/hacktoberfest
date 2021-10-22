@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sozu](https://github.com/S0ZU)
+- Place: Sl
+- Bio: Web developer and Python
+- Github: [sozu](https://github.com/S0ZU)
