@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabriel santos](https://github.com/gabriel-github)
+- Place: São Paulo, Brazil
+- Bio: Web developer JS
+- Github: [Gabriel Santos](https://github.com/gabriel-github)
