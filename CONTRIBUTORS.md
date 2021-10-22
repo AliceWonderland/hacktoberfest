@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Archit Gupta](https://github.com/garchit96)
+- Place: Kota, Rajasthan, INDIA
+- Bio: Software Engineer
+- GitHub: [Archit Gupta](https://github.com/garchit96)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
