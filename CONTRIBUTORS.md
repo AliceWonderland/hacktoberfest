@@ -1809,6 +1809,11 @@ Noida
 - Bio: Analyst/Developer Student at Fatec-Jd
 - GitHub: [Pedro Mietto Bruini](https://github.com/bruini)
 
+#### Name: [Pendyala Harshita](https://github.com/PendyalaHarshita)
+-Place: Bangalore, India
+-Bio: Student
+-Github: https://github.com/PendyalaHarshita
+
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
 - Bio: Blockchain and Fullstack Web Developer
