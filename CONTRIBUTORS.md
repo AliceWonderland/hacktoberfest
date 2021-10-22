@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [BRYAN ENDRES](https://github.com/bendres97)
+- Place: Madison, WI
+- Bio: Site Reliability Engineer
+- GitHub: [Bryan Endres](https://github.com/bendres97)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
