@@ -474,6 +474,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Technical writer, gamer, coffee lover.
 - GitHub: [cdschroeder](https://github.com/cdschroeder)
 
+#### Name: [Pendyala Harshita](https://github.com/PendyalaHarshita)
+-Place: Bangalore, India
+-Bio: Student
+-Github: https://github.com/PendyalaHarshita
+
 #### Name: [Cecy Correa](https://github.com/cecyc)
 - Place: USA
 - Bio: Software Engineer at ReturnPath
