@@ -1,3 +1,8 @@
+#### Name: [YOUR NAME](GitHub link)
+- Place: Ankara, Turkey
+- Bio: I am Neo
+- GitHub: [akykaan](https://github.com/akykaan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
