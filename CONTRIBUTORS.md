@@ -1,4 +1,4 @@
-#### Name: [YOUR NAME](GitHub link)
+#### Name: [Kaan Akyuz](https://github.com/akykaan)
 - Place: Ankara, Turkey
 - Bio: I am Neo
 - GitHub: [akykaan](https://github.com/akykaan)
