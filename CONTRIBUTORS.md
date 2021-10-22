@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanvi Naik](https://github.com/tanvinaikk)
+- Place: Mumbai, India
+- Bio: The one who loves to explore!
+- Github: [Tanvi Naik](https://github.com/tanvinaikk)
