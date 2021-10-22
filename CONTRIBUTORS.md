@@ -474,11 +474,6 @@ to explore life. Also, Python and Django Developer
 - Bio: Technical writer, gamer, coffee lover.
 - GitHub: [cdschroeder](https://github.com/cdschroeder)
 
-#### Name: [Pendyala Harshita](https://github.com/PendyalaHarshita)
--Place: Bangalore, India
--Bio: Student
--Github: https://github.com/PendyalaHarshita
-
 #### Name: [Cecy Correa](https://github.com/cecyc)
 - Place: USA
 - Bio: Software Engineer at ReturnPath
@@ -1813,6 +1808,11 @@ Noida
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
 - GitHub: [Pedro Mietto Bruini](https://github.com/bruini)
+
+#### Name: [Pendyala Harshita](https://github.com/PendyalaHarshita)
+-Place: Bangalore, India
+-Bio: Student
+-Github: https://github.com/PendyalaHarshita
 
 #### Name: [Petar Popovic](https://github.com/Petar-np)
 - Place: Nova Pazova, Serbia
