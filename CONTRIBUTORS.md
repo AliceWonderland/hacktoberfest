@@ -551,6 +551,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Nerd
 - GitHub: [Cody Williams](https://github.com/codyw9524)
 
+#### Name: [CodingHolt](https://github.com/codingholt)
+- Place: Friesland, Netherlands
+- Bio: Learning by trying
+- GitHub: [codingholt](https://github.com/codingholt)
+
+
 #### Name: [Colin Zhang](http://linkedin.com/in/colinzhang95)
  - Place: Philadelphia, PA, USA
  - Bio: Entrepreneur, product manager, traveller
