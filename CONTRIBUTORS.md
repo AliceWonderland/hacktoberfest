@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nutan  Narke](https://github.com/nutangithub)
+- Place: Pune, Maharashtra, India
+- Bio: Data Scientist
+- Github: [Nutan Narke](https://github.com/nutangithub)
