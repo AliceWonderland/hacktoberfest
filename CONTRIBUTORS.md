@@ -1,3 +1,8 @@
+#### Name: [SRIDHAR MASKERI](https://github.com/floating-dynamo)
+- Place: Goa, India
+- Bio: Final year Electronics & Telecommunication Student, a passionate Front-End Dev! :)
+- GitHub: [floating-dynamo](https://github.com/floating-dynamo)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
