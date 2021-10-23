@@ -1290,8 +1290,9 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Kishan Kumar Seth](https://github.com/kishanks412)
 - Place: India
-- Bio: CSE Engineer Student at Institute of Technology, Guru Ghasidas University, Bilaspur, Chhattisgarh 
-- GitHub: [Kkishanks412](https://github.com/kishanks412)
+- Bio: CSE Student at Institute of Technology, Guru Ghasidas University, Bilaspur, Chhattisgarh.
+- GitHub: [kishanks412](https://github.com/kishanks412)
+
 
 #### Name: [Klaudia K.](https://github.com/KalpiKK)
 - Place: Poland
