@@ -2353,6 +2353,11 @@ Noida
 - Bio: 2/4 into getting a free Hacktoberfest T-Shirt
 - GitHub: [Antonio Jesus Pelaez](https://github.com/twillzy)
 
+#### Name: [Win Temasmiko](https://github.com/Miko2x)
+- Place: Bogor, Indonesia
+- Bio: Mobile Developer
+- GitHub: [Miko2x](https://github.com/Miko2x)
+
 #### Name: [Xavier Marques](https://github.com/wolframtheta)
 - Place: Corbera de Llobregat, Barcelona, Catalonia
 - Bio: Computer Science Major
