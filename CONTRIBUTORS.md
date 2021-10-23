@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AmanJain](https://github.com/Aman-Jain1996)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a new bee in open source and learning web development and contributing to Open Source
+- GitHub: [AmanJain](https://github.com/Aman-Jain1996)
