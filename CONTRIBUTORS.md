@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhishek Yadav]
+- Place: Mumbai, India
+- Bio: Love Astronomy
+- Github: 
