@@ -1,3 +1,9 @@
+#### Name: [Maftuna Vohidjonovna](https://github.com/MaisieDev)
+- Place: Uzbekistan
+- Bio: Junior Full-Stack Developer
+- GitHub: [Merolinda](https://github.com/MaisieDev)
+- Website: [Maftuna Vohidjonovna](https://maftuna-vohidjonovna.netlify.app/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
