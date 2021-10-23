@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [URVESH RADADIYA](https://github.com/URVESH1121)
+- Place: Bharuch, Gujarat, India
+- Bio: student
+- GitHub: [URVESH1121](https://github.com/URVESH1121)
+
