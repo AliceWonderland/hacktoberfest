@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Name: Harsh Singh(https://github.com/singharsh0)
+Place: India
+Bio: Full Stack Developer
+GitHub: singharsh0(https://github.com/singharsh0)
