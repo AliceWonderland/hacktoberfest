@@ -12844,7 +12844,6 @@ Noida
 - Place: Oxford, UK
 - Bio: Kiwi dev
 - GitHub: [Ryan Smith](https://github.com/devronsoft)
-- Website: [Blog](https://devronsoft.github.io/)
 
 #### Name: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
 - Place: Sergipe, Brasil
@@ -16680,4 +16679,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name - Zeeshan Ali
+- Place: India, Kolkata
+- Bio: Ethical Hacker
+- GitHub: ZEESHANALI-7 (https://github.com/ZEESHANALI-7)
 
