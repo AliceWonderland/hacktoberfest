@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Akhmad Fauzi](https://github.com/A-fauzi)
+- Place: Bekasi, Indonesia
+- Bio: Mobile Developer
+- Github: [Akhmad Fauzi](https://github.com/A-fauzi)
