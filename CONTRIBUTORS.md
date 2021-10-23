@@ -1288,6 +1288,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
 
+#### Name: [Kishan Kumar Seth](https://github.com/kishanks412)
+- Place: India
+- Bio: CSE Student at Institute of Technology, Guru Ghasidas University, Bilaspur, Chhattisgarh.
+- GitHub: [kishanks412](https://github.com/kishanks412)
+
+
 #### Name: [Klaudia K.](https://github.com/KalpiKK)
 - Place: Poland
 - Bio: IT Student at the University of Wroclaw
