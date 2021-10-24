@@ -2288,6 +2288,7 @@ Noida
 - Bio: Open Source Lover, and trying some go :p
 - GitHub: [Victor Piolin](https://github.com/vico1993)
 
+
 #### Name: [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: A passionate programmer and a beginner in Open Source
@@ -2427,3 +2428,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akhila Balagopalan](https://github.com/akhilarb4603)
+- Place: Malappuram, Kerala, India
+- Bio: Student in Amrita Vishwa Vidyapeetham
+- Github: [akhilarb4603](https://github.com/akhilarb4603)
