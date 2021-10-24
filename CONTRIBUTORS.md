@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Himangshu Hazarika](https://github.com/thefrontendwebdeveloper)
+- Place: Assam, India
+- Bio: Frontend Developer
+- Github: [thefrontendwebdeveloper](https://github.com/thefrontendwebdeveloper)
