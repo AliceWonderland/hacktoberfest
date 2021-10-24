@@ -58,6 +58,11 @@
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
+#### Name: [supuni saradha](https://github.com/supuni96)
+- Place: Hirana,Panadura,Sri Lanka
+- Bio: Technology enthusiastic!
+- GitHub: [supuni96](https://github.com/supuni96)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
