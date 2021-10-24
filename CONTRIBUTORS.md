@@ -1,3 +1,8 @@
+#### Name: Supuni
+ - Place: Sri lanka
+ - Bio: System engineer
+ - GitHub: [supuni96](https://github.com/supuni96)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -52,6 +57,11 @@
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
+
+#### Name: [supuni saradha](https://github.com/supuni96)
+- Place: Hirana,Panadura,Sri Lanka
+- Bio: Technology enthusiastic!
+- GitHub: [supuni96](https://github.com/supuni96)
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
