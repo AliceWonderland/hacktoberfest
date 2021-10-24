@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [KDBEER](https://github.com/kdbeer)
+- Place: Sisaket, Thailand
+- Bio: Web developer
+- Github: [KDBEER](https://github.com/kdbeer)
