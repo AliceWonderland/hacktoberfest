@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [lalith Akash](https://github.com/CartoonProgrammers)
+- Place: Andhra pradesh, India
+- Bio: Learning software engineering
+- Github: [lalit Akash](https://github.com/CartoonProgrammers)
