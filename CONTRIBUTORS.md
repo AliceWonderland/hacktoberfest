@@ -1,3 +1,8 @@
+#### Name: Supuni
+ - Place: Sri lanka
+ - Bio: System engineer
+ - GitHub: [supuni96](https://github.com/supuni96)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
