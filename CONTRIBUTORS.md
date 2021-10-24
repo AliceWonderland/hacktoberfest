@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SyFizz_](https://github.com/SyFizz)
+- Place: France
+- Bio: SysAdmin and Java developer
+- Github: [SyFizz](https://github.com/SyFizz)
