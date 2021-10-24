@@ -1,3 +1,8 @@
+#### Name: [Mehul kumar]
+  -Place: chennai, India
+  -Bio: computer science enthusiast,currently in 3rd year.
+  -Github: [dark-Mehul] (https://github.com/dark-Mehul)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
