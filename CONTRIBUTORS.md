@@ -1,3 +1,8 @@
+#### Name: [Vinula Senarathne](https://github.com/vinulays)
+ - Place: Avissawella, Sri Lanka
+ - Bio: First Year Computer Science Student going toward fullstack :)
+ - GitHub: [Vallenain](https://github.com/vinulays)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
