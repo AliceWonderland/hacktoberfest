@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Onkar Nardekar](https://github.com/OmiDevProjects)
+- Place: Mumbai
+- Bio: Software Developer
+- GitHub: [OmiDevProjects](https://github.com/OmiDevProjects)
