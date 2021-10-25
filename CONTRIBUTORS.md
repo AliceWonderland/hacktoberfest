@@ -641,6 +641,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
 - GitHub: [theindianotaku](https://github.com/theindianotaku)
 
+#### Name: [Demb00](https://github.com/Demb00)
+  - Place: Rzeszów, Poland
+  - Bio: Student
+  - GitHub: [Demb00](https://github.com/Demb00)
+
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
 
