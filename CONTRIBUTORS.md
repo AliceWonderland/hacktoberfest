@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Athallah Annafis](https://github.com/athallahannafis)
+- Place: South Tangerang, Indonesia
+- Bio: Gamer, mobile engineer, front-end engineer
+- Github: [Athallah Annafis](https:github.com/athallahannafis)
