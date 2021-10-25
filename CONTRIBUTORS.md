@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lokesh Dulani](https://github.com/lucifer123A)
+- Place: Jaipur, India
+- Bio: Frontend web developer and blockchain developer
+- Github: [Lokesh Dulani](https://github.com/lucifer123A)
