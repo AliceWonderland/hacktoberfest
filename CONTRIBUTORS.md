@@ -2002,6 +2002,11 @@ Noida
 - Bio: Undergraduate
 - GitHub: [Shanaka95](https://github.com/shanaka95)
 
+#### Name: [UJJAWAL TRIPATHI](https://github.com/Ujjawal4)
+- Place: Pune, India
+- Bio: Python Developer
+- GitHub: [Ujjawal4](https://github.com/Ujjawal4)
+
 #### Name: [Sai Praneeth](https://github.com/saip009)
 - Place: Mumbai, India
 - Bio: Programmer
