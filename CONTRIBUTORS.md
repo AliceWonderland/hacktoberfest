@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ridhim Garg](GitHub link)
+- Place: Noida, Uttar Pradesh, India
+- Bio: Student currently pursuing B.Tech
+- GitHub: [Ridhim06](https://github.com/Ridhim06)
