@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Inzaghi](https://github.com/InMDev)
+- Place: Canada
+- Bio: Pythonic
+- Github: [InMDev](https://github.com/InMDev)
