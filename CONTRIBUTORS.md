@@ -1,3 +1,8 @@
+#### Name: [Nikhil Arora](https://github.com/nikhilarora068)
+- Place: U.P., India
+- Bio: Software Engineer
+- GitHub: [nikhilarora068](https://github.com/nikhilarora068)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
