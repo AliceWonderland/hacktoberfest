@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Neeraj Gupta](https://github.com/codelord09)
+- Place: Bareilly, Uttar Pradesh, INDIA
+- Bio: A sophomore from Indian Institute of Information Technology Allahabad
+- GitHub: [codelord09](https://github.com/codelord09)
