@@ -8,6 +8,7 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
@@ -129,6 +130,12 @@ to explore life. Also, Python and Django Developer
 - Place: India
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
+
+
+#### Name: [Mandara](https://github.com/omii99)
+- Place: Sri Lanka
+- Bio: Web Developer
+- GitHub: [omii99](https://github.com/omii99)
 
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
