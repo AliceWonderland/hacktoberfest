@@ -1,3 +1,8 @@
+#### Name: Jaydip
+ - Place: Gujarat, India
+ - Bio: Electronics engineer. Graduated from INSA Lyon.
+ - GitHub: [Jaydip](https://github.com/pipaliyajaydip)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
