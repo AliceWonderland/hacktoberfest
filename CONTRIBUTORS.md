@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vishal](https://github.com/vishalrock1912)
+ - Place: Delhi, India
+ - Bio: Student|I'm a Big Rock of Ideas.
+ - GitHub: [vishalrock1912](https://github.com/vishalrock1912)
