@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Prashant Kumar](https://github.com/pktherock)
+- Place: Khagaria, Bihar, India
+- Bio: Full Stack(MERN) Developer
+- GitHub: [Prashant Kumar](https://github.com/pktherock)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
