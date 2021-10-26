@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samriddhi Sivakumar] (https://github.com/Samriddhi620/hacktoberfest-1)
+- Place: Seattle, WA, USA
+- Bio: Student
+- GitHub: [Samriddhi620](https://github.com/Samriddhi620/hacktoberfest-1)
+
