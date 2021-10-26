@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Somefamousperson](https://github.com/somefamousperson)
+- Place: New Zealand
+- Bio: Just some kid doing random stuff
+- GitHub: [SomeFamousPrson](https://github.com/somefamousperson)
