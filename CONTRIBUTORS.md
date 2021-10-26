@@ -1,7 +1,7 @@
-#### Name: [TIGEROSTER](https://github.com/tigeroster)
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+#### Name: [LOCHANA DISSANAYAKE](https://github.com/tigeroster)
+- Place: Kurunegala, North Western, Sri Lanka
+- Bio: Software Engineering Undergraduate at University of Westminster
+- GitHub: [TIGEROSTER](https://github.com/tigeroster)
 
 #### Name: Vallenain
  - Place: Lyon, France
