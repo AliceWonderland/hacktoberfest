@@ -10,5 +10,3 @@ Interests
   Algorithms.
   Mathematics,
   Development
-
-
