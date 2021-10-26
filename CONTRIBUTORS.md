@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Voary Nambinina](https://github.com/nambininatsayna)
+- Place: Antananarivo, Madagascar
+- Bio: Web developer PHP and Javasript
+- Github: [nambinina PO](https://github.com/nambininaatsayna)
