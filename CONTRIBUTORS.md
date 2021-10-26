@@ -2438,4 +2438,7 @@ Noida
 - Bio: Data Scientist
 - Github: [ganga-m](https://github.com/ganga-m)
 
-
+#### Name: [abita-a](https://github.com/abita-a)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [abita-a](https://github.com/abita-a)
