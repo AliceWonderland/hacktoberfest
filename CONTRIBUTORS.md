@@ -2442,3 +2442,8 @@ Noida
 - Place: Kerala, India
 - Bio: Data Scientist
 - Github: [abita-a](https://github.com/abita-a)
+
+#### Name: [swetha-b](https://github.com/swetha-b)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [swetha-b](https://github.com/swetha-b)
