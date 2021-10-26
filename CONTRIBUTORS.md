@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: somewhere, Earth
+- Bio: Python developer
+- Github: [Johan Ramirez](https://github.com/joaramirezra)
