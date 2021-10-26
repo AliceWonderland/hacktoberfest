@@ -23,4 +23,4 @@ University Adventist Zurcher, Sambaina - Antsirabe, Madagascar
 
 ### Profile Link
 
-[Nambinina](https://github.com/nambininaatsayna)
+[NambininaPO](https://github.com/nambininaatsayna)
