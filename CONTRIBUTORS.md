@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adil Rafeek](https://github.com/adilrafeek)
+- Place: Kochi, India
+- Bio: UI/UX Designer and Frontend Developer
+- Github: [Adil Rafeek](https://github.com/adilrafeek)
