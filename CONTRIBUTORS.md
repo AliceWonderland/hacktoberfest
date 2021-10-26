@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pragya Gupta](https://github.com/pragyagupta27)
+- Place: India
+- Bio: Eating and Coding together makes me happy.
+- Github: [Pragya Gupta](https://github.com/pragyagupta27)
