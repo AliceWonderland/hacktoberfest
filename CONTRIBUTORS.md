@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sourav-s](https://github.com/sourav-s)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [sourav-s](https://github.com/sourav-s)
