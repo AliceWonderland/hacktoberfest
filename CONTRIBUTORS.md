@@ -2427,3 +2427,23 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sourav-s](https://github.com/sourav-s)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [sourav-s](https://github.com/sourav-s)
+
+#### Name: [ganga-m](https://github.com/ganga-m)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [ganga-m](https://github.com/ganga-m)
+
+#### Name: [abita-a](https://github.com/abita-a)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [abita-a](https://github.com/abita-a)
+
+#### Name: [swetha-b](https://github.com/swetha-b)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [swetha-b](https://github.com/swetha-b)
