@@ -2433,9 +2433,9 @@ Noida
 - Bio: Data Scientist
 - Github: [sourav-s](https://github.com/sourav-s)
 
-#### Name: [rajesh-g](https://github.com/rajesh-g)
+#### Name: [ganga-m](https://github.com/ganga-m)
 - Place: Kerala, India
 - Bio: Data Scientist
-- Github: [rajesh-g](https://github.com/rajesh-g)
+- Github: [ganga-m](https://github.com/ganga-m)
 
 
