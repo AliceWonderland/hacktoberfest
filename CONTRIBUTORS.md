@@ -2432,3 +2432,10 @@ Noida
 - Place: Kerala, India
 - Bio: Data Scientist
 - Github: [sourav-s](https://github.com/sourav-s)
+
+#### Name: [rajesh-g](https://github.com/rajesh-g)
+- Place: Kerala, India
+- Bio: Data Scientist
+- Github: [rajesh-g](https://github.com/rajesh-g)
+
+
