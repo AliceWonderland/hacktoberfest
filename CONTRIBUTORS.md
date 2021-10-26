@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [David Nash](https://github.com/hisownspace)
+- Place: Washington, DC, USA
+- Bio: Student Web Developer
+- Github: [hisownspace](https://github.com/hisownspace)
