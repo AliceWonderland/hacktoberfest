@@ -3,6 +3,13 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+
+### Name: Anurag
+ - Place: India
+ - Bio: CS Engineering student
+ - Github: (Anurag)(https://github.com/anuragupperwal)
+
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
