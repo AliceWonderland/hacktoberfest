@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sohail Akhtar](https://github.com/SohailAkhtar780)
+- Place: Bihar, India
+- Bio: Electronics and Communication Engineer
+- Github: [SohailAkhtar780](https://github.com/SohailAkhtar780)
