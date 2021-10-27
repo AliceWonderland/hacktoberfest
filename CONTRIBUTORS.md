@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Visha Arzare](https://github.com/visha09)
+ - Place: Indore, India
+ - Bio: Software developer, studying B.Tech CSE
+ - GitHub: [visha09](https://github.com/visha09)
