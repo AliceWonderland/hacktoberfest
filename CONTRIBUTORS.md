@@ -1,3 +1,8 @@
+#### Name: [KUSH JAGGI](https://github.com/kushjaggi)
+- Place: banglore
+- Bio: third year electronics and communication Student
+- GitHub: [kushjaggi](https://github.com/kushjaggi)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
