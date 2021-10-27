@@ -130,6 +130,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
+#### Name: [Yash Passi](https://github.com/Yash-passi)
+- Place: Delhi, india
+- Bio: Student
+- GitHub: [Yash-Pasi](https://github.com/Yash-passi)
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
