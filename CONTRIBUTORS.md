@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jatin Bajaj](https://github.com/jatin831)
+- Place: Jabalpur, India
+- Bio: MERN stack Developer
+- Github: [Jatin Bajaj](https://github.com/jatin831)
