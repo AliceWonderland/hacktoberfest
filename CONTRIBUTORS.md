@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raunak Kumar](https://github.com/Raunakkumarr)
+- Place: Janakpurdham, Nepal
+- Bio: Web Developer, Python Programmer, High School Student
+- Github: [Raunakkumarr](https://github.com/Raunakkumarr)
