@@ -1,4 +1,4 @@
-#### Name: [KUSH JAGGI](https://github.com/agnieszka-miszkurka)
+#### Name: [KUSH JAGGI](https://github.com/kushjaggi)
 - Place: banglore
 - Bio: third year electronics and communication Student
 - GitHub: [kushjaggi](https://github.com/kushjaggi)
