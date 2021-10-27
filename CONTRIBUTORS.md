@@ -220,6 +220,12 @@ to explore life. Also, Python and Django Developer
 - Bio: CS Grad Student
 - GitHub: [Amlaan Bhoi](https://github.com/amlaanb)
 
+#### Name: [Amul Rathore](https://github.com/amul-code)
+- Place: Mandi, Himachal Pradesh, India
+- Bio: Doing b. tech in information technology, at Tit Bhopal. I am in 5th Sem 
+- GitHub: [Amul Rathore](https://github.com/amul-code)
+
+
 #### Name: [Ana Perez](https://github.com/anacperez)
 - Place: King City, California, United States
 - Bio: Full-Stack developer, hiking, travel, art, photography
