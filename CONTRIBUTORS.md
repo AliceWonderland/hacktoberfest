@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [shweta tripathi](https://github.com/shweta-tripathe)
+- Place: kashipur uttarakhand, india
+- Bio: frontend developer
+- Github: [shweta  tripathi](https://github.com/shweta-tripathe)
