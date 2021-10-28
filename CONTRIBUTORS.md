@@ -1025,6 +1025,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer; Loves iced coffee
 - GitHub: [Julie Qiu](https://github.com/julieqiu)
 
+#### Name: [JUNAID ARHAM](https://github.com/jazaki)
+- Place: New Delhi, Delhi, India
+- Bio: Software Engineer.
+- GitHub: [Julie Qiu](https://github.com/jazaki)
+
 #### Name: [Jackson Isaac](https://github.com/JacksonIsaac)
 - Place: Mumbai, Maharashtra, India
 - Bio: Data Scientist by profession and student by heart.
