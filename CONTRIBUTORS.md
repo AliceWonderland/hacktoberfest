@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sahil Upadhyay](https://github.com/sahi1up)
+- Place: Hyderabad, India
+- Bio: Computer Science Student
+- Github: [sahi1up](https://github.com/sahi1up)
