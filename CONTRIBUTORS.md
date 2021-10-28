@@ -1,3 +1,8 @@
+#### Name: Scope Wow
+ - Place: Jatur, Kuwait
+ - Bio: Software Engineer
+ - GitHub: [Scope2018](https://github.com/scope2018)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
