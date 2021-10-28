@@ -1418,6 +1418,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I'm a student in Fatec Jundiaí and Web Developer.
 - GitHub: [Luís Antonio Prado Lança](https://github.com/luisslanca)
 
+#### Name: [Luna Bee](https://github.com/constbeecoding)
+- Place: USA
+- Bio: Front End Web Dev. LGBT, Witch
+- GitHub: [Constbeecoding](https://github.com/constbeecoding)
+
 #### Name: [M K]
 - Place: Ko Tao, Thailand
 - Bio: I love code, coffee and the beach
