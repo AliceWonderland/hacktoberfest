@@ -499,6 +499,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Transformer in disguise
 - GitHub: [heyjiawei](https://github.com/heyjiawei)
 
+#### Name: [Christo Todorov](https://github.com/Chroxify)
+- Place: Germany
+- Bio: Ful Stack Developer
+- GitHub: [Chroxify](https://github.com/Chroxify)
+
 #### Name: [Chris Sullivan](https://github.com/codemastermd)
 - Place: College Park, Maryland
 - Bio: Comp Sci student at the University of Maryland
