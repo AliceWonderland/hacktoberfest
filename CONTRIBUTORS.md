@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [M Fariz Wisnu Prananda](https://github.com/xvbnm48)
+- Place: Palembang, Indonesia
+- Bio: Web developer Golang dan Javascript
+- Github: [Ítalo Epifânio](https://github.com/xvbnm48)
