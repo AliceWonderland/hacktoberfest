@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Binzid](https://github.com/binz-mhd)
+- Place: Kerala,India
+- Bio: Web developer,Designer,Vfx artist,Ai
+- Github: [Binzid](https://github.com/binz-mhd)
