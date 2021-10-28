@@ -1,3 +1,8 @@
+#### Name: Scope Wow
+ - Place: Jatur, Kuwait
+ - Bio: Software Engineer
+ - GitHub: [Scope2018](https://github.com/scope2018)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2036,6 +2041,16 @@ Noida
 - Place: Delhi, India
 - Bio: ECE Undergraduate
 - GitHub: [Sarthak Bhagat](https://github.com/sarthak268)
+
+#### Name: [Scope Wow](https://github.com/scope2018)
+- Place: DC, USA
+- Bio: Software Engineer
+- GitHub: [Scope Woe](https://github.com/scope2018)
+
+#### Name: [Scope Woe](https://github.com/scope2018)
+- Place: DC, USA
+- Bio: Software Engineer
+- GitHub: [Scope Woe](https://github.com/scope2018)
 
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
