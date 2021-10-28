@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [StennisLouis](https://github.com/Stennis629)
+- Place: Patna, India
+- Bio: Student 
+- GitHub: [Stennis629](https://github.com/Stennis629)
