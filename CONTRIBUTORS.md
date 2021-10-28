@@ -954,6 +954,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love javascript! :cat:
 - GitHub: [Hoang Ha](https://github.com/halink0803)
 
+#### Name: [Hoseung Choi](https://github.com/startergate)
+- Place: Seoul, South Korea
+- Bio: Go TypeScript!
+- GitHub: [startergate](https://github.com/startergate)
+
 #### Name: [Hrafnkell Orri Sigurðsson](https://github.com/hrafnkellos)
 - Place: Hafnarfjörður, Iceland
 - Bio: Computer Scientist
