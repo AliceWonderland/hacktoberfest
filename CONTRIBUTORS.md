@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhijeet Srivastav](https://github.com/AbhijeetSrivastav)
+- Place: Lucknow, India
+- Bio: Machine Learning and Artificial Intelligence Engineer
+- Github: [Abhijeet Srivastav](https://github.com/AbhijeetSrivastav)
