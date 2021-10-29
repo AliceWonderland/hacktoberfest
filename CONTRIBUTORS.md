@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aniket Bhuwania](https://github.com/aniketbhuwania)
+- Place: Dhanbad,India
+- Bio: Engineer
+- Github: [aniketbhuwania](https://github.com/aniketbhuwania)
