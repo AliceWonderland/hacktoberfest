@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: NandanaSanthosh
+-Place:India
+-Bio:Engineering student
+-Github: [Nandanasanthosh](https://github.com/nandanasanthosh)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
