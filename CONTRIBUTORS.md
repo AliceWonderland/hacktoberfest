@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [RAJUL KOSHTA](https://github.com/rajulkoshta)
+- Place: india
+- Bio: third year Computer Science Student, in love with web development.
+- GitHub: [rajulkoshta](https://github.com/rajulkoshta)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
