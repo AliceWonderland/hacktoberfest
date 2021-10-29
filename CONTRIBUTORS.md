@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [Akash Shetgar](https://github.com/Akashshetgar)
+- Place: Mumbai, India
+- Bio: A curious computer science student
+- GitHub: [Akashshetgar](https://github.com/Akashshetgar)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
