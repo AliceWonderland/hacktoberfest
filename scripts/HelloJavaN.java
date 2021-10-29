@@ -6,6 +6,7 @@
 
 public class HelloJavaN {
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+      String s = "Hello World!;
+      System.out.println(s);
     }
 }
