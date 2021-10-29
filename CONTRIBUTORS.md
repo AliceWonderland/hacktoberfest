@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohit Garg](https://github.com/rohitgarg025)
+- Place: Jaipur,Rajasthan,India
+- Bio: Computer Science Undergrad @ BITS Pilani
+- Github: [Rohit Garg](https://github.com/rohitgarg025)
