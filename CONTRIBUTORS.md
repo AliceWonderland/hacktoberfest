@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Daksh Gupta](https://www.linkedin.com/in/daksh-gupta-496203201/)
+- Place: Haryana, India
+- Bio: PERN stack with ML
+- [Github](https://github.com/dakshgupta2002)
