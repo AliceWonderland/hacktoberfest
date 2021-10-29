@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Ron Elgazar](https://github.com/ronelgazar)
+- Place: jerusalem, Israel
+- Bio: student|Dev|self taught
+- GitHub: [Ron Elgazar] (https://github.com/ronelgazar)
