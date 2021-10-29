@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [K A R T H I K](https://github.com/karthik558)
+- Place: India, Kerala
+- Bio: Kernel Developer & Designer 
+- Github: [karthik558](https://github.com/karthik558)
