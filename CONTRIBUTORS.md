@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Umar Aslam Nawab](https://github.com/UmarAslamNawab)
+- Place: Karachi, Pakistan
+- Bio: MERN Stack Developer (React & React Native, other JS frameworks)
+- GitHub: [Umar Aslam Nawab]((https://github.com/UmarAslamNawab)
