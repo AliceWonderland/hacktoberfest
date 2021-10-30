@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Nilanjan Sarkar](https://github.com/nsbits)
+- Place: Kharagpur, WB,India
+- Bio: Software Engineer
+- Github: [N Sarkar](https://github.com/nsbits)
