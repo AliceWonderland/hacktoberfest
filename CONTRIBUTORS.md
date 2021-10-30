@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### NameL [Amarjit Singh Gaba](https://github.com/asinghgaba)
+- Place: Cardiff, United Kingdom
+- Bio: 2nd Year Mathematics Student
+- Github: [asinghgaba](https://github.com/asinghgaba)
