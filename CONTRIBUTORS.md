@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikhil Parakh](https://github.com/zindaadmi)
+- Place: Raipur, Chhattisgarh, India
+- Bio: I am a tech enthusiast, and a freelance web developer.
+- GitHub: [Zindaadmi](https://github.com/zindaadmi)
