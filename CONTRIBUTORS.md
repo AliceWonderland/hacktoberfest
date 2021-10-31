@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aaryan Singh](https://github.com/Aaryan376)
+- Place: Modinagar,Uttar Pradesh,India
+- Bio: Front End Web Developer
+- GitHub: [Aaryan376](https://github.com/Aaryan376)
