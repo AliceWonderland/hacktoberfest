@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Duete](https://github.com/lucasduete)
+- Place: João Pessoa, Brazil
+- Bio: Software Engineer using Java
+- Github: [lucasduete](https://github.com/lucasduete)
