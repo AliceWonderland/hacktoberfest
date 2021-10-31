@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [parakram rathod](https://github.com/parakrmsinhrathod)
+- Place: India
+- Bio: Web developer fullstack
+- Github: parakramsinhrathod
