@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Niklas Resch](https://resch.pw)
+- Place: Germany
+- Bio: Software Engineer
+- Github: [thatshumbug](https://github.com/thatshumbug)
