@@ -1,3 +1,8 @@
+#### Name: Shrikant
+ - Place: Noida, India
+ - Bio: Software engineer.
+ - GitHub: [Shrikant](git@github.com:skt1598/hacktoberfest.git)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
