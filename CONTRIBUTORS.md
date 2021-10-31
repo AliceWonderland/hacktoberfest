@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Ajith S](https://github.com/Ajith-S1)
+- Place: Bangalore ,India
+- Bio: Computer Science Student
+- GitHub: [Ajith S](https://github.com/Ajith-S1)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
