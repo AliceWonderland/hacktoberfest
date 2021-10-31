@@ -1,0 +1,13 @@
+/*
+  LANGUAGE: JAVA
+  AUTHOR: Lucas Duete
+  GITHUB: https://github.com/lucasduete
+*/
+
+public class HelloWorldLD {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+
+}
