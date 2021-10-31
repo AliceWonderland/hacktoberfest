@@ -1258,6 +1258,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Electronics and Communication student.
 - GitHub: [Kumar Akshay](https://github.com/kakshay21)
 
+#### Name: [Karishma Rajput](https://github.com/karishmarajput)
+- Place: Mumbai,India
+- Bio: Web Developer
+- GitHub: [Karishma Rajput](https://github.com/karishmarajput)
+
 #### Name: [Karthick Thoppe](https://github.com/karthicktv)
 - Place: Dublin, Ireland
 - Bio: I am a Solution Architect and work for a large SaaS organization
