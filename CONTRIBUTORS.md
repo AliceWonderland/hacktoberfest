@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manoela Reis](https://github.com/manoela-reis)
+- Place: Rio de Janeiro, Brazil
+- Bio: Product Manager
+- Github: [manoela-reis](https://github.com/manoela-reis)
