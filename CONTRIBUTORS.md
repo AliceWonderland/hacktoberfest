@@ -2137,6 +2137,11 @@ Noida
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
+#### Name: [Sritam Mishra](https://github.com/ENVIRYO2112VIT)
+- Place: Bhubaneshwar, Odisha, India
+- Bio: ML aspirant
+- Github [Sritam Mishra](https://github.com/ENVIRYO2112VIT)
+
 #### Name: [Stephen Abrahim](https://github.com/lepah)
 - Place: Huntington Beach, CA
 - Bio: Games and things!
