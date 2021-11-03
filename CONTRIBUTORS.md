@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aadit Bhargava] (https://github.com/Bhargava-Aadit)
+- Place: Chennai, India
+- Bio: Computer Science Engineering Student
+- Github: [Bhargava-Aadit] (https://github.com/Bhargava-Aadit)
