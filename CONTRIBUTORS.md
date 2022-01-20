@@ -2358,6 +2358,11 @@ Noida
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [Yash Aryan](https://github.com/canaryGrapher)
+- Place: Bangalore, India
+- Bio: A web developer with a huge crush on Blockchain technology
+- GitHub: [canaryGrapher](https://github.com/canaryGrapher)
+
 #### Name: [Yash Mittra](https://github.com/mittrayash)
 - Place: New Delhi, Delhi, India
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
