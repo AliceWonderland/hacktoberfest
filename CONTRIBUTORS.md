@@ -2388,6 +2388,17 @@ Noida
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
+
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Pushkar Sharma](https://linkedin.com/in/thePsguy)
+ - Place: New Delhi, India
+ - Bio: iOS Developer 
+ - GitHub: [lulabell](https://github.com/thePsguy)
+
 #### Name: [Zoe Kafkes](https://github.com/zkafkes)
 - Place: Atlanta, Georgia USA
 - Bio: caffeinated and curious
