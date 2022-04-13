@@ -27,6 +27,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+ #### Name: [AKASH](https://github.com/Akash14008)
+ - Place: Delhi, India
+ - Bio: Programmer
+ - GitHub: [Akash14008](https://github.com/Akash14008)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
