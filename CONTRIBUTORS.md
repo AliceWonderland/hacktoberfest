@@ -1,3 +1,8 @@
+#### Name: [Gugun Joefandi](https://github.com/gunjou) 
+ - Place: Indonesia
+ - Bio: Engineer Student
+ - GitHub: [gunjou](https://github.com/gunjou)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
