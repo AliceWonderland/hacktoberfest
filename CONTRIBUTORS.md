@@ -1,7 +1,8 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [C V](https://github.com/BreakfastWithMe)
+- Place: GG, CA, USA
+- Bio: Geology student
+- GitHub: [BreakfastWithMe](https://github.com/BreakfastWithMe)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
