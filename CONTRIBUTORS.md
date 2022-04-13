@@ -3,10 +3,14 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
-#### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
+#### Name: [AGNIESZKA MISZKURKA](https://github.com/)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
+#### Name: [Yash Deshpande](https://github.com/yvdyash)
+- Place: Pune
+- Bio: Third year EnTC Student PICT
+- GitHub: [yvdyash](https://github.com/yvdyash)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
