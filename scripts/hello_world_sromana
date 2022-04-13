@@ -1,0 +1,13 @@
+// LANGUAGE: Objective-C
+// AUTHOR: Sromana Mukhopadhyay
+// GITHUB: https://github.com/smukh
+
+
+#import <Foundation/Foundation.h>
+
+int main(void)
+{
+   NSLog(@"Hello, World! \n");
+   
+   return 0;
+}
