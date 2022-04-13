@@ -1699,10 +1699,16 @@ Noida
 - Bio: Gamer, developer, and open source enthusiast!
 - Github: [Nefari0uss](https://github.com/nefari0uss)
 
-#### Name: [Nelson Estevão](https://github.com/nelsonmestevao)
+#### Name: [Nelson Mestevao](https://github.com/nelsonmestevao)
 - Place: Braga, Portugal
 - Bio: Student of Software Engineering who likes puzzles.
 - GitHub: [nelsonmestevao](https://github.com/nelsonmestevao)
+
+#### Name: [Nemank Yadav](https://github.com/nemankyadav)
+- Place: Delhi, India
+- Bio: T-Shirt enthusiast.
+- GitHub: [nemankyadav](https://github.com/nemankyadav)
+
 
 #### Name: [Niall Cartwright](https://github.com/Nairu)
 - Place: Birmingham, UK
