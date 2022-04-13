@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Isuru Weeraddana
+// GITHUB: https://github.com/techn0ish
+
+console.log('Hello, World!');
