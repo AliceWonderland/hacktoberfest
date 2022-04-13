@@ -1,3 +1,8 @@
+#### Name: Sai Rahul Talluri
+ - Place: Hyderabad, India
+ - Bio: Front end Developer, Graphic Designer.
+ - GitHub: [Sai Rahul Talluri](https://github.com/SaiRahulTalluri)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
