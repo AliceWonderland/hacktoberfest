@@ -2388,6 +2388,16 @@ Noida
 - Bio: Python enthusiasts
 - GitHub: [za](https://github.com/za)
 
+#### Name: [Federico Sebastián Sassone](https://github.com/fedesassone)
+- Place: Rafael Calzada, Buenos Aires, Argentina
+- Bio: Software Developer, Student at Universidad de Buenos Aires
+- GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sukhpreet Singh](https://github.com/ssp91)
+- Place: Chandigarh, Chandigarh, INDIA
+- Bio: Beginner
+- GitHub: [ssp91](https://github.com/ssp91)
+=======
 #### Name: [Zoe Kafkes](https://github.com/zkafkes)
 - Place: Atlanta, Georgia USA
 - Bio: caffeinated and curious
