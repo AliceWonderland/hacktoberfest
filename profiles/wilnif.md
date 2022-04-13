@@ -2,7 +2,7 @@
 
 ### Location
 
-Indonesia
+Karawang, Indonesia
 
 ### Academics
 
@@ -10,16 +10,17 @@ IDN Boarding School
 
 ### Interests
 
-Designer
+- Football
+- Design
 
 ### Development
 
--
+- Design
 
 ### Projects
 
-- DashboardIslami
+DashboardIslami
 
 ### Profile Link
 
-[whytupan1010](https://github.com/whytupan1010)
+[whytupan1010](https://github.com/whytupan1010/)

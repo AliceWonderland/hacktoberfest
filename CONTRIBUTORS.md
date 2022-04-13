@@ -160,6 +160,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Aspiring Front-end Web Dev
 - Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 
+#### Name: [Wildan Hanif](https://github.com/whytupan1010)
+ - Place: Karawang, Indonesia
+ - Bio: Designer, Kotlin Language
+ - GitHub: [whytupan1010](https://github.com/whytupan1010)
+ 
 #### Name: [Alex Blum](https://github.com/alexblum)
  - Place: Germany
  - Bio: Webdeveloper
@@ -2427,3 +2432,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wildan Hanif](https://github.com/whytupan1010)
+- Place: Indonesia
+- Bio: Designer
+- GitHub: [whytupan1010](https://github.com)
