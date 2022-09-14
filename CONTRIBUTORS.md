@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gabe Cornejo](https://github.com/gccornejo441)
+- Place: Corona, CA
+- Bio: Web developer Nextjs and Wordpress
+- Github: [Gabe Cornejo](https://github.com/gccornejo441)
