@@ -1,3 +1,8 @@
+#### Name: Aarzoo
+ - Place: India, WestBengal
+ - Bio: Software engineer, Graduated from LPU university 
+ - GitHub: [Aarzoo](https://github.com/Aarzoo75)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
