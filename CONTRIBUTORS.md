@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [HarshSharma20503](https://github.com/HarshSharma20503))
+- Place: Noida, India
+- Bio: Engineering Student
+- Github: [HarshSharma20503](https://github.com/HarshSharma20503)
