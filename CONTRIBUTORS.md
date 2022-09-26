@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayush Rawat](https://github.com/Ayushrawat-cmd)
+- Place: Delhi, India
+- Bio: Web and software developer and ML/data scientist
+- Github: [Ayush Rawat](https://github.com/Ayushrawat-cmd)
