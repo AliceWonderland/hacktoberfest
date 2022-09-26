@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lokeshsri11](https://github.com/Lokeshsri11)
+- Place: Pryagraj, India
+- Bio: Web developer JavaScript and Golang
+- Github: [Lokeshsri11](https://github.com/Lokeshsri11)
