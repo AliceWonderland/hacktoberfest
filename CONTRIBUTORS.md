@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Joydeep Mallick](https://github.com/JoydeepMallick)
+- Place: West Bengal, India
+- Bio: College student and passionate learner
+- Github: [Joydeep Mallick](https://github.com/JoydeepMallick)
