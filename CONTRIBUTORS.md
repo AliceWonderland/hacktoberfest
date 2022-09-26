@@ -1,3 +1,16 @@
+#### Name: [KARTHIK BEHERA](https://github.com/Sergi0456)
+
+- Place: India
+
+- Bio: First year Computer Science Student,
+
+- GitHub: [KARTHIK BEHERA](https://github.com/Sergi0456)
+
+
+
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
