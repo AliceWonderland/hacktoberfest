@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amitrajeet Konch](https://github.com/CodingWithAmit-07)
+- Place: Chandigarh, Punjab, India
+- Bio: Front End Developer, and a Freelancer
+- GitHub: [CodingWithAmit-07](https://github.com/CodingWithAmit-07)
