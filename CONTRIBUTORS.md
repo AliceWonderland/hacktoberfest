@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Sonakshi
+ - Place: India
+ - Bio: Aspiring Software Engineer
+ - GitHub: [Sonakshi](https://github.com/sonakshi23)
