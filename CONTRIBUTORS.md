@@ -335,6 +335,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CSE Student at the Amity University
 - GitHub: [Ayush Agarwal](https://github.com/thisisayush)
 
+#### Name: [Yash Kumar Jha](https://github.com/yashkumarjha)
+- Place: Bilaspur, India
+- Bio: CSE Student.
+- Github: [Yash Kumar Jha](https://github.com/yashkumarjha)
+
 #### Name: [Ayush Aggarwal](https://github.com/aggarwal125ayush)
 - Place: Delhi, India
 - Bio: Data Scientist , Android Developer
