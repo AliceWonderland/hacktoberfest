@@ -1,3 +1,8 @@
+#### Name: [Md Najeeb](https://github.com/najeebdev98)
+- Place: Hyderabad, India, Earth!
+- Bio: Trying to learn cool new things!
+- GitHub: [Justin Oliver](https://github.com/najeebdev98)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
