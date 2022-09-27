@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yogesh Rajput](https://github.com/yogeshrajput335)
+- Place: Bangalore, Karnataka, India
+- Bio: Full Stack Developer, and a Freelancer
+- GitHub: [Yogesh Rajput](https://github.com/yogeshrajput335)
