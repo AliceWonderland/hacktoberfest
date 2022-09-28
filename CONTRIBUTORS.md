@@ -425,6 +425,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Love stuff
 - GitHub: [Bruno](https://github.com/bbarao/)
 
+#### Name: [REGATTE](https://jashokkumar.tech)
+- Place: Hyderabad, India
+- Bio: Robotics Core
+- GitHub: [REGATTE](https://github.com/REGATTE)
+
 #### Name: [Bryan Tylor](https://github.com/bryantylor)
 - Place: Cincinnati, OH, USA
 - Bio: Elixir Dev / Nuclear Engineer
