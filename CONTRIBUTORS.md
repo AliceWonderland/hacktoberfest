@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [nuclearhit22](https://github.com/nuclearhit22)
+- Place: California, USA
+- Bio: Fullstack developer
+- Github: [nuclearhit22](https://github.com/nuclearhit22)
