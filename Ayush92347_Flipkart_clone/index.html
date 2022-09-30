@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Flipkart</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="menu">
+        <img src="menu.jpg">
+      </div>
+      <div class="logo">
+        <img src="flip plus.png">
+        </div>
+        <div class="plus">
+          <img src="plus.jpg">
+        </div>
+      <div class="trolley">
+        <img src="trolley3.jpg">
+      </div>
+      <div class="login">
+        <a href="https://www.flipkart.com/login?ret=%2F&entryPage=HEADER_ACCOUNT&sourceContext=DEFAULT">Log in</a>
+      </div>
+    </div>
+    <div class="search">
+      <input type="text" name="" id="" placeholder="Search for Product, Brands and More">
+    </div>
+  </header>
+  <main>
+    <div class="offer">
+      <img src="https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100">
+      <img src="mobile.png">
+      <img src="fashion.png">
+      <img src="electronic.png">
+   <img src="home.jpg">
+   <img src="appliances.png">
+   <img src="https://rukminim1.flixcart.com/flap/128/128/image/71050627a56b4693.png?q=100">
+   <img src="toys.png">
+   </div>
+  <div class="discount">
+     <img src="discount.jpg">
+    </div>
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="slider1.jpg" style="width:100%">
+      </div>
+      <div class="mySlides fade">
+        <img src="slider2.jpg" style="width:100%">
+      </div>
+      <div class="mySlides fade">
+        <img src="slider3.jpg" style="width:100%">
+      </div>
+ <div class="mySlides fade">
+      <img src="slider4.jpeg" style="width:100%">
+      </div>
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+      </div>
+      <div class="container2">
+        <div class="ar">
+        <img src="ar.jpg">
+        <h3><b>From ₹99</b></h2>
+       <p>Save big on fashion</p> 
+        </div>
+        <div class="do">
+          <img src="https://rukminim1.flixcart.com/image/310/372/k5zn9u80/t-shirt/3/z/m/3xl-askporgff17647-allen-solly-original-imafk8s5wv5mcfm9.jpeg?q=50">
+          <h3><b>40-60% off</b></h3>
+          <p>Mens Polo Tees</p>
+        </div>
+        <div class="ss">
+          <img src="furniture.jpg">
+          <h3><b>Upto 80% off</b></h3>
+       <p> Dhamakedar offers</p>
+        </div>
+      </div>
+      <div class="banner">
+        <img src="banner.jpg">
+      </div>
+      <div>
+        
+      </div>
+    </main>
+    <footer>
+
+    </footer>
+    <script>
+      var slideIndex = 0;
+      showSlides();
+      function showSlides() {
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("dot");
+        for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) {
+          slideIndex = 1
+        }
+        for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+        } slides[slideIndex-1].style.display = "block";
+        dots[slideIndex-1].className += " active";
+        setTimeout(showSlides, 2000);
+      }
+    </script>
+  </body>
+  </html>
