@@ -83,6 +83,11 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+#### Name: [Amisha Aggarwal](https://github.com/amishaagg)
+- Place: New Delhi, India
+- Bio: Technology lover
+- GitHub: [Amisha Aggarwal](https://github.com/amishaagg)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
