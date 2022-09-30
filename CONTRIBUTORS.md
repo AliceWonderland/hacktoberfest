@@ -1,3 +1,7 @@
+### Name: Aryan Mankame
+ - Place: Bhopal, India
+ - Bio: Third year CSE Student, Full Stack Developer and an Enthusiastic learner.
+ - Github: [Aryan Mankame](https://github.com/AryanMankame)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
