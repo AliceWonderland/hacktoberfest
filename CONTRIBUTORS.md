@@ -1,3 +1,8 @@
+#### Name: [Parth Shah](https://github.com/codingis4noobs2)
+- Place: Ahmedabad, Gujarat, India
+- Bio: CS Student, ML, AI Enthusiat 
+- GitHub: [codingis4noobs2](https://github.com/codingis4noobs2)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
