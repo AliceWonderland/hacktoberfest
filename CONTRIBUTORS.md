@@ -1,3 +1,8 @@
+#### Name: Hussain 
+ - Place: Rajasthan, India
+ - Bio: CSE Undergraduate, Chandigarh University
+ - GitHub: [H9660](https://github.com/H9660)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
