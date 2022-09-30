@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [Adithyan Madhu](https://github.com/scopophobic)
+- Place: Delhi, India
+- Bio: Web developer - backend and c++ DSA
+- Github: [Adithyan Madhu](https://github.com/scopophobic)
