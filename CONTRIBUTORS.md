@@ -1,3 +1,8 @@
+#### Name: [Lerato Makhasane](https://github.com/leratomakhasane)
+- Place: Welkom, Free State, South Africa
+- Bio: Front End Developer exploring open source, web3 and cybersecurity
+- GitHub: [leratomakhasane](https://github.com/leratomakhasane)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
