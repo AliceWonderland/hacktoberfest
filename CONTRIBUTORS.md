@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Faiz Syahrullah](https://github.com/bersekerblade)
+- Place: Batu, Indonesia
+- Bio: Front end web developer
+- GitHub: [bersekerblade](https://github.com/bersekerblade)
