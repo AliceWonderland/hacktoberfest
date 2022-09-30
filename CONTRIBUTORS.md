@@ -2103,7 +2103,7 @@ Noida
 - GitHub: [vol-pi](https://github.com/vol-pi)
 
 #### Name: [Sjors](https://github.com/sjorso)
-- Place: The Netherlands
+- Place: The ![Screenshot_20211016_205715](https://user-images.githubusercontent.com/87802245/137593185-f4b99cd0-03c6-458a-ad1a-e945d38c5867.jpg)
 - Bio: Need 1 more PR
 - GitHub: [GitHub account name](https://github.com/sjorso)
 
@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- ####  Name: Ayush Kumar ( https ://github.com/Ayush92347/) 
+- Place: Jamshedpur, India
+- Bio: Student
+- Github: (Ayush92347) (https ://github.com/Ayush92347/) ; ://github.com/Ayush92347/)

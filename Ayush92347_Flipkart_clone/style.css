@@ -1,0 +1,265 @@
+:root {
+
+  --main-bg-color: #2874f0;
+
+}
+
+* {
+
+  padding: 0px;
+
+  margin: 0px;
+
+  box-sizing: border-box;
+
+}
+
+header{
+
+  background: var(--main-bg-color);
+
+}
+
+.container {
+
+  display: flex;
+
+}
+
+.menu{
+
+  margin-top: 4px;
+
+}
+
+.logo {
+
+  padding: 8px 70px 0px 15px;
+
+}
+
+.logo img {
+
+  width: 88px;
+
+  height: 6vh;
+
+}
+
+.plus{
+
+  margin: 12px 0px 0px;
+
+}
+
+.plus img{
+
+height: 4vh; 
+
+}
+
+.trolley {
+
+  margin: 8px 14px 12px 17px;
+
+}
+
+.trolley img {
+
+  width: 5vw;
+
+  height: 5vh;
+
+}
+
+.login {
+
+  width: 14vw;
+
+  height: 4vh;
+
+  margin: 15px 2px 0px 2px;
+
+  font-size: 16px;
+
+}
+
+.login a {
+
+  text-decoration: none;
+
+  color: white;
+
+}
+
+.search {
+
+  margin: 7px 10px;
+
+  padding: 0px 0px 7px 0px;
+
+}
+
+.search input {
+
+  width: 93vw;
+
+  height: 6vh;
+
+}
+
+.offer {
+
+  display: flex;
+
+  background-color:;
+
+  overflow: auto;
+
+  white-space: nowrap;
+
+}
+
+.offer img {
+
+  width: 13vw;
+
+  height: 8vh;
+
+  margin: 0vw 7px;
+
+}
+
+.discount img {
+
+  width: 100vw;
+
+}
+
+.slideshow-container img {
+
+  vertical-align: middle;
+
+}
+
+.slideshow-container {
+
+  max-width: 1000px;
+
+  position: relative;
+
+}
+
+.fade {
+
+  -webkit-animation-name: fade;
+
+  -webkit-animation-duration: 1.5s;
+
+  animation-name: fade;
+
+  animation-duration: 3s;
+
+}
+
+@-webkit-keyframes fade {
+
+  from {
+
+    opacity: .5
+
+  }
+
+  to {
+
+    opacity: 1
+
+  }
+
+}
+
+@keyframes fade {
+
+  from {
+
+    opacity: .5
+
+  }
+
+  to {
+
+    opacity: 1
+
+  }
+
+}
+
+.container2 {
+
+  display: flex;
+
+  font-size: 12px;
+
+  height: 22vh;
+
+  width: 22vw;
+
+}
+
+.container2 h3 {
+
+  font-size: 14px;
+
+}
+
+.container2 img {
+
+  width: 29vw;
+
+  height: 13vh;
+
+  border-radius: 10px 10px 0px 0px;
+
+}
+
+.ar {
+
+  margin: 3px 6px;
+
+  border-radius: 10px;
+
+  border: 1px solid grey;
+
+}
+
+.do {
+
+  margin: 3px 6px;
+
+  border-radius: 10px;
+
+  border: 1px ridge grey;
+
+}
+
+.ss {
+
+  margin: 3px 6px;
+
+  border: 1px solid black;
+
+  border-radius: 10px;
+
+}
+
+.banner img {
+
+  width: 100vw;
+
+}
+
+
+
+
+
+
