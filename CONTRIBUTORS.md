@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Akanksha6202]( https://github.com/Akanksha6202)
+- Place: India
+-Bio: EnTC engineer
+-Github:  [Akanksha6202] (https://github.com/Akanksha6202)
