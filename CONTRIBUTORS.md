@@ -165,6 +165,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Webdeveloper
  - GitHub: [alexblum](https://github.com/alexblum)
 
+#### Name: [Aman_Yadav](https://github.com/amanydv2112)
+- Place: Roorkee, Uttarakhand, India
+- Bio: Student
+- GitHub: [amanydv2112](https://github.com/amanydv2112)
+
 #### Name: [Alex Choi](https://github.com/running-cool)
  - Place: Athens, GA
  - Bio: Student
