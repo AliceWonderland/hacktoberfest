@@ -1,3 +1,8 @@
+#### Name: [TANAY KUMAR](https://github.com/Tanaykmr)
+- Place: New Delhi, India
+- Bio: First year computer science student, excited about open source
+- GitHub: [Tanaykmr] https://github.com/Tanaykmr
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
