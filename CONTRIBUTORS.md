@@ -1,3 +1,8 @@
+#### Name: [Rahan](https://github.com/ok-open-sc)
+- Place: Gujarat, India
+- Bio: Tech Enthusiast
+- GitHub: [ok-open-sc](https://github.com/ok-open-sc)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
