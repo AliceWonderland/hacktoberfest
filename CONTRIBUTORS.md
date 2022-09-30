@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bjorn Antonissen](https://github.com/bjornftw)
+- Place: Zwolle, Netherlands
+- Bio: UI Designer & Full Stack Developer
+- Github: [Bjorn Antonissen](https://github.com/bjornftw)
