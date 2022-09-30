@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samridh Srivastava](https://github.com/samridhsri)
+- Place: New Delhi, India
+- Bio: Data Scientist, ML Engineer and Web Developer
+- Github: [Samridh Srivastava](https://github.com/samridhsri)
