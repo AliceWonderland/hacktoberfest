@@ -1,3 +1,8 @@
+#### Name: [SHOBHIT BHATT](https://github.com/shobhit-bhatt-14)
+- Place: भारत(India)
+- Bio: A witness and contributor to the advancement in the field of technology.
+- GitHub: [shobhit-bhatt-14](https://github.com/shobhit-bhatt-14)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
