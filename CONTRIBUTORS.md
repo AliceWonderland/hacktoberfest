@@ -8,6 +8,12 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+ #### Name: Lakkimsetti Sai Yashwanth
+ - Place: Narsapur, west Godavari , India.
+ - Bio: Ex-Wipro, UI Developer
+ - GitHub: [YashwanthLakkimsetti](https://github.com/YashwanthLakkimsetti)
+
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
