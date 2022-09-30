@@ -1,3 +1,8 @@
+#### Name: Joscandy (https://github.com/jcandyn)
+ - Place: New Jersey, USA
+ - Bio: Front End Developer and student of Master's of Computer of science. LGBTQ+. I love steamed broccoli and video games.
+ - GitHub: [Jcandyn](https://github.com/jcandyn)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
