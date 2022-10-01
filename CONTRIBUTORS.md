@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [AbbeyIT](https://github.com/AbbeyIT)
+- Place: Metro Manila, Philippines
+- Bio: Open Source Enthusiast
+- GitHub: [AbbeyIT](https://github.com/AbbeyIT)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
