@@ -1,3 +1,8 @@
+#### Name: [Khemraj Shrestha](https://github.com/itsmekhemraj)
+ - Place: Kathmandu, Nepal
+ - Bio: Second year computer engineering student, Tech Enthusiast Learner. I love playing football
+ - GitHub: [Khemraj Shrestha](https://github.com/itsmekhemraj)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
