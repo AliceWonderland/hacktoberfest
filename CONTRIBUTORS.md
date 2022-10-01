@@ -2423,6 +2423,11 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Lekh224] (https://github.com/Lekh224)
+    Place: Bhilai, India
+    Bio: Student, Basic Python & Javascript Programmer.
+    GitHub: [Lekh224] (https://github.com/Lekh224)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
