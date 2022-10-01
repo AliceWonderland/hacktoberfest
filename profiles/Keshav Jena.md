@@ -20,7 +20,7 @@ Development:
 Projects:
 
 - Portfolio (https://github.com/Keshavjena/portfolio)
-- Udemy Clone (Almoist completed)
+- Udemy Clone (Almost completed)
 
 Github:
 
