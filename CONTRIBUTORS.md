@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Simara Conceição](https://github.com/simaraconceicao)
+- Place: São Paulo, Brazil
+- Bio: Developer helping reduce the gender and the race gap in IT in Brazil.
+- Github: [Simara Conceição](https://github.com/simaraconceicao)
