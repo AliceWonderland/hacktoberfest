@@ -1,3 +1,8 @@
+#### Name: [Unique Maharjan](https://github.com/UniqueMaharjan)
+- Place: Lalitpur, Nepal
+- Bio: Learner
+- GitHub: [UniqueMaharjan](https://github.com/UniqueMaharjan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
