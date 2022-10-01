@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kabir Deula](https://github.com/kabirdeula)
+- Place: Kathmandu, Nepal
+- Bio: Backend Web developer
+- Github: [Kabir Deula](https://github.com/kabirdeula)
