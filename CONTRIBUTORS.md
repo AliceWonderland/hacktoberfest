@@ -1110,6 +1110,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [Jerry Chong](https://github.com/zanglang)
 
+#### Name: [W. Syafiuddin](https://github.com/its0din-ai)
+- Place: Jakarta, Indonesia
+- Bio: Software Developer, Pentester
+- GitHub: [its0din-ai](https://github.com/its0din-ai)
+
 #### Name: [Jianhao Tan](https://github.com/jaanhio)
 - Place: Singapore
 - Bio: I like spending time in chlorinated water and spitting out codes.
