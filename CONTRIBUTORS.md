@@ -1,6 +1,6 @@
 #### Name: [SARTHAK RAJPUT](https://github.com/rsarthak)
 - Place: India
-- Bio: Third year Material Science Student
+- Bio: Love peace!!!
 - GitHub: [rsarthak](https://github.com/rsarthak)
 #### Name: Vallenain
  - Place: Lyon, France
