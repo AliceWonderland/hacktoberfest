@@ -1,12 +1,12 @@
-# Amit Chambial
+# athallah
 
 ### Location
 
-Punjab, India
+Punjab, Indonesia
 
 ### Academics
 
-National Institute of Technology, Hamirpur
+National Institute of Technology
 
 ### Interests
 
@@ -26,4 +26,4 @@ National Institute of Technology, Hamirpur
 
 ### Profile Link
 
-[Amit Chambial](https://github.com/devaman)
+[athallah181](https://github.com/athallah181)
