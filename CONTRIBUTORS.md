@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
+- Place: Karnataka,India
+- Bio: Software Engineer
+- Github: [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
