@@ -1,27 +1,27 @@
-# Your Name
+Name:
 Keshav Jena 
-### Location
+
 Location:
 Pune, Maharashtra
 
-### Academics
+Academics:
 
 Maharashtra Institute of Technology, Pune
 
-### Interests
+Interests:
 
 - Gaming
 - Art
 
-### Development
+Development:
 
 - Developed myself to complete work just before Deadline
 
-### Projects
+Projects:
 
 - Portfolio (https://github.com/Keshavjena/portfolio)
 - Udemy Clone (Almoist completed)
 
-### Profile Link
+Github:
 
 [Keshav Jena](https://github.com/Keshavjena)
