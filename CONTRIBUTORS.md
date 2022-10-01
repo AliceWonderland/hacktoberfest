@@ -2137,6 +2137,11 @@ Noida
 - Bio: Love learning, coding and sketching!!
 - Github [Sravya Pullagura](https://github.com/sravya96)
 
+#### Name: [Stanislaus J. Pinasthika](https://github.com/arivle)
+- Place: Jember, East Java, Indonesia
+- Bio: Junior Data Analyst, Open Source Enthusiasm, and part-time illustrator
+- Github [Stanislaus J. Pinasthika](https://github.com/arivle)
+
 #### Name: [Stephen Abrahim](https://github.com/lepah)
 - Place: Huntington Beach, CA
 - Bio: Games and things!
