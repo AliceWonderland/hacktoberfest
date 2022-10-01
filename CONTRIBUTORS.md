@@ -1,3 +1,8 @@
+#### Name: [Rupesh Dubey](https://github.com/rupeshexe)
+- Place: Mirzapur, Uttar Pradesh, India
+- Bio: Tech Geek
+- GitHub: [Rupesh Dubey](https://github.com/rupeshexe)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
