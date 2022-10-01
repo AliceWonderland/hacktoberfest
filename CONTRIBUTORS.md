@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lucas Nogueira](https://github.com/Nogueira-lucas)
+- Place: São Paulo, Brazil
+- Bio: Web Developer Full Stack, Java and JS
+- Github: [Lucas Nogueira](https://github.com/Nogueira-lucas)
