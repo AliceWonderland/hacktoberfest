@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Preetraj Haldar](https://github.com/the-threshold-frequency)
+- Place: Kolkata, West Bengal, India
+- Bio: Third year CSE Undergrad, Nothing is True everything is Permitted
+- GitHub: [the-threshold-frequency](https://github.com/the-threshold-frequency)
