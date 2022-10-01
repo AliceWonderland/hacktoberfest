@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: Anish
+ - Place: Gujarat, India
+ - Bio: Software engineer.
+ - GitHub: [Anish](https://github.com/iam-anish)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
