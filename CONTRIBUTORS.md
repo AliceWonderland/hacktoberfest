@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[HARSH SUHANE](http://github.com/HARSHSUHANE17)
+-Place:KANPUR,UTTAR PRADESH,INDIA
+-Bio: I AM A COMPUTER SCIENCE AND ENGINEERING STUDENT
+-Github:[HARSHSUHANE17](http://github.com/HARSHSUHANE17)
