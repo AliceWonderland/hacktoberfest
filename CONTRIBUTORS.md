@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Thomas Mort](https://github.com/ThomasMORTsae)
+- Place: Merseyside, UK
+- Bio: Games Programming Student, Games art & animation previously.
+- GitHub: [ThomasMORTsae](https://github.com/ThomasMORTsae)
