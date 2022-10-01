@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [AVNISH RANWA](https://github.com/avnishranwa7)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Avnish Ranwa](https://github.com/avnishranwa7)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
