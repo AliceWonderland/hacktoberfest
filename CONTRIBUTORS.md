@@ -1,3 +1,7 @@
+#### Name: [SARTHAK RAJPUT](https://github.com/rsarthak)
+- Place: India
+- Bio: Third year Material Science Student
+- GitHub: [rsarthak](https://github.com/rsarthak)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
