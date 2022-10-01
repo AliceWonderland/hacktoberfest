@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: Shubhom Srivastava
+ - Place: Delhi, India
+ - Bio: CSE student at KIIT Universiy, Bhubaneswar, Odisha.
+ - GitHub: [Shubhom](https://github.com/Shbhom)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
