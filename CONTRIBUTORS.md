@@ -1,3 +1,9 @@
+#### Name: Yawar Abass
+ - Place: Jammu & Kashmir, India
+ - Bio:  Second year Computer Science Student. 
+ - GitHub: [Yawar Abass](https://github.com/yawar-abass)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
