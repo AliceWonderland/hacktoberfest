@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chirag Arora](https://github.com/Chirag8023)
+- Place: Jodhpur, Rajasthan, India
+- Bio: I'm a second year BCA student who is interested in Open Source & Web Development
+- GitHub: [Chirag8023](https://github.com/Chirag8023)
