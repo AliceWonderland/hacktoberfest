@@ -18,7 +18,7 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
-#### Name: Anish
+#### Name: [Anish](https://github.com/iam-anish)
  - Place: Gujarat, India
  - Bio: Software engineer.
  - GitHub: [Anish](https://github.com/iam-anish)
