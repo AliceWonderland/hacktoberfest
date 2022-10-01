@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhishek](https://github.com/Abhivic000)
+- Place: Mumbai, India
+- Bio: Computer Science Under Graduate, Web developer
+- GitHub: [Abhivic](https://github.com/Abhivic000)
