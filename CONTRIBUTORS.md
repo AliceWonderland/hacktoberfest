@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shreetesh](https://github.com/shree675)
+- Place: Bangalore, India
+- Bio: Full Stack Developer and Software Engineering Enthusiast
+- Github: [shree675](https://github.com/shree675)
