@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Amit Sadanand Shanbhag](https://github.com/shanamit161998)
+- Place: Mumbai, Maharashtra, India
+- Bio: Full Stack Developer ( Skilled In : Angular , Node Js , MySQL , Redis , Kafka , MongoDB)
+- GitHub: [shanamit161998](https://github.com/shanamit161998)
