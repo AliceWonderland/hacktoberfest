@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [nazirovdev](https://github.com/nazirovdev)
+- Place: Semarang, Indonesia
+- Bio: Fullstack Javascript
+- Github: [nazirovdev](https://github.com/nazirovdev)
