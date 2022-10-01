@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mohamed Ishad](https://github.com/Ishad-M-I-M)
+- Place: Matara, Sri Lanka
+- Bio: Undergratuate | Freelancer
+- Github: [Mohamed Ishad](https://github.com/Ishad-M-I-M)
