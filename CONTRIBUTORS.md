@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shaurya Vats](https://github.com/Jatayu-u)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Jatayu-u](https://github.com/Jatayu-u)
