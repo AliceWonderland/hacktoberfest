@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Himanshu Bhenwal](https://github.com/Retr0Sushi)
+- Place: New Delhi, India
+- Bio: Computer Science Undrgrad
+- Github: [Himanshu](https://github.com/Retr0Sushi)
