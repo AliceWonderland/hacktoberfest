@@ -1,3 +1,8 @@
+#### Name: [DEV SUR](https://github.com/devsur)
+- Place: USA
+- Bio: Coddict
+- GitHub: [devsur](https://github.com/devsur)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
