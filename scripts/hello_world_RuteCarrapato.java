@@ -3,7 +3,7 @@
 // AUTHOR: Rute Carrapato
 // GITHUB: https://github.com/RuteCarrapato
 
-public class Hello {
+public class hello_world_RuteCarrapato{
 
     public static void main(String[] args) {
 
