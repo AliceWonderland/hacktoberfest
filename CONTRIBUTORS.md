@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: Arshad Ali
+ - Place: Islambad, Pakistan
+ - Bio: Computer Science Student. NUTECH.
+ - GitHub: [Arshad Ali](https://github.com/arshad32365)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
