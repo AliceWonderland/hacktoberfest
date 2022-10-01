@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Paula Isabel](https://github.com/paulaxisabel/)
+- Place: Rizal, Philippines
+- Bio: Full stack software engineer in the making.
+- GitHub: [Paula Isabel](https://github.com/paulaxisabel/)
