@@ -1,3 +1,8 @@
+#### Name: [Advik Sharma](https://github.com/advik-student-dev)
+- Place: Washington, U.S.An
+- Bio: I am a High School Sophomore and I like to learn about computers/
+- GitHub: [advik-student-dev](https://github.com/advik-student-dev)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
