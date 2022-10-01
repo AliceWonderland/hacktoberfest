@@ -360,6 +360,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A guy that loves writing bots and automation.
 - GitHub: [Ben Smith](https://github.com/ben-w-smith)
 
+#### Name: [Gabriel Moody](https://github.com/GabrielMoody)
+- Place: Manado, Indonesia
+- Bio: Student
+- Github: [Gabriel Moody](https://github.com/GabrielMoody)
+
 #### Name: [Benjamin Sanvoisin](https://github.com/Laudenlaruto)
 - Place : Paris, FR
 - Bio: Devops, Gamer and fun
