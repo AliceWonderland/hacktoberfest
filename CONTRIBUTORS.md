@@ -2161,6 +2161,12 @@ Noida
 - Bio: Developer
 - GitHub: [Galleria](https://github.com/Galleria)
 
+
+#### Name: [Steve Yonkeu](https://github.com/yokwejuste)
+- Place: Bamenda, NorthWest, Cameroon
+- Bio: If you can't code, document it
+- GitHub: [Yokwejuste](https://github.com/yokwejuste)
+
 #### Name: [Suryatej Reddy](https://github.com/suryatejreddy)
 - Place: New Delhi, India
 - Bio: CSE Student at IIITD
