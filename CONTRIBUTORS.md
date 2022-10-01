@@ -2428,7 +2428,6 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-
 #### Name: [Renan Miranda](https://github.com/renanlmiranda)
 - Place: São Paulo, Brazil
 - Bio: Web developer Javascript and Golang
