@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Ankush Kotriwal](https://github.com/ankush1024)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Ankush Kotriwal](https://github.com/ankush1024)
