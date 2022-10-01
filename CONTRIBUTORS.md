@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Umesh Singh](https://github.com/Umesh-01)
+- Place: India
+- Bio: Student
+- GitHub: [Umesh Singh](https://github.com/Umesh-01)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
