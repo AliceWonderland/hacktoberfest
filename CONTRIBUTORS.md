@@ -2077,6 +2077,11 @@ Noida
 - Bio: Student/Andriod Developer
 - GitHub: [shobhit1997](https://github.com/shobhit1997)
 
+#### Name: [Shobhit Arya](https://github.com/no-eyed)
+- Place: NEW DELHI, DELHI ,INDIA
+- Bio: Student/ML Developer
+- GitHub: [Shobhit Arya](https://github.com/no-eyed)
+
 #### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Undergrad at IIITA
