@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Daniel Lopez
+ - Place: Spain
+ - Bio: Student. Interested in Tech and Science.
+ - GitHub: [Daniellop1](https://github.com/daniellop1)
