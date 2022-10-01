@@ -1,3 +1,8 @@
+#### Name: [Harsh Jain](https://github.com/Sriver27)
+- Place: Kolkata, West Bengal, India
+- Bio: 5th semester IT Undergrad. Web development enthusiast
+- GitHub: [Sriver27](https://github.com/Sriver27)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
