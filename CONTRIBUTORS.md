@@ -1,3 +1,8 @@
+#### Name: [RISHABH SRIVASTAVA](https://github.com/RishabhSrivastava1423)
+- Place: Uttar Pradesh,India
+- Bio: Full Stack Developer and Machine Learning Engineer.
+- GitHub: [Rishabh Srivastava](https://github.com/RishabhSrivastava1423)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
