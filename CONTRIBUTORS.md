@@ -175,6 +175,13 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
 
+
+
+#### Name: [Kavita Sahu](https://github.com/kvsahu)
+- Place: Raipur, Chhattisgarh, India
+- Bio: Student/Web Developer
+- GitHub: [kvsahu](https://github.com/kvsahu)
+
 #### Name: [Alexander Miller](https://github.com/allesmi)
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
