@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Raj](https://github.com/developerHarshRaj)
+- Place: Patna, Bihar, India
+- Bio: CSE, 2nd year Undergrad in B.Tech.
+- GitHub: [developerHarshRaj](https://github.com/developerHarshRaj)
