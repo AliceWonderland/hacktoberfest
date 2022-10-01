@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Atanu Nayak](https://github.com/Nayaker)
+- Place: Kolkata, India
+- Bio: Full Stack MERN Developer | Competitive Coder
+- Github: [Nayaker](https://github.com/Nayaker)
