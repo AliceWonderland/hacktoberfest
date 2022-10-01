@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priyanshu gupta](https://github.com/Priyanshu85)
+- Place: Delhi,India
+- Bio: Web developer MERN
+- Github: [Priyanshu Gupta](https://github.com/Priyanshu85)
