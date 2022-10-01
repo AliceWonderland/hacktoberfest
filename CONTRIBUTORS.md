@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: QuratUlAin
+ - Place: Multan, Pakistan
+ - Bio: Medical Student. Studying at BakhtawarAmin Medical College.
+ - GitHub: [QuratUlAin03](https://github.com/QuratUlAin03)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
