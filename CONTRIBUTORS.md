@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yashaggarwal](https://github.com/itepifanio)
+- Place: faridabad, Haryana
+- Bio: Web 3.0 developer
+- Github: [Yashaggarwal](https://github.com/yashaggarwal0722)
