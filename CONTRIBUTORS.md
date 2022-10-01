@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Amitesh Muduli](https://github.com/MrLovebiRd)
+- Place: Kolkata, India
+- Bio: I am a beginner coderhaving knowledge in C, C++, Python and Java
+- Github: [Amitesh Muduli](https://github.com/MrLovebiRd)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
