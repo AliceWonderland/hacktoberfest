@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vanish Sharma](https://github.com/vasu604)
+
+- Place: Jalandhar, India
+- Bio: Web developer
+- Github: [Vanish Sharma](https://github.com/vasu604)
