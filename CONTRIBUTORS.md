@@ -1,3 +1,9 @@
+#### Name: [YADUTTAM PAREEK](https://github.com/Yaduttam95)
+- Place: Jaipur, Rajasthan, India
+- Bio: Third year computer science student who loves 0's and 1's.
+- GitHub: [Yaduttam95](https://github.com/Yaduttam95)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
