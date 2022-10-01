@@ -1,3 +1,9 @@
+#### Name: Khushi Panwar
+ - Place: New Delhi, India
+ - Bio: 2nd Year CS Undergrad. Web Dev Enthusiast! Wanna explore Open Source
+ - GitHub: [Khushi Panwar](https://github.com/SmileWithKhushi)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
