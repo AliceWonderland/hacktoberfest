@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: Web developer React.js Matrial UI and Node.js
+- Github: [Kush Munot](https://github.com/Kush-munot)
