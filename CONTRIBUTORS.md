@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daniel Pineda](https://github.com/dapineda)
+- Place: Seville, Spain
+- Bio: PHP Developer
+- GitHub: [Daniel Pineda](https://github.com/dapineda)
