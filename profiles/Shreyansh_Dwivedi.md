@@ -19,8 +19,8 @@ Indian Institute Of Information Technology, Allahabad
 
 ### Projects
 
-- [QA Forum](https://github.com/shreyanshdwivedi/QAforum) Django Project similar to StackOverflow
+  - [QA Forum](https://github.com/shreyanshdwivedi/QAforum) Django Project similar to StackOverflow
 
 ### Profile Link
 
-[Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
+  [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
