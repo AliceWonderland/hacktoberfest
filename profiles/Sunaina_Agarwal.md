@@ -1,4 +1,4 @@
-# Aishwarya Pradhan
+# Sunaina Agarwal
 
 ## About me:
 
