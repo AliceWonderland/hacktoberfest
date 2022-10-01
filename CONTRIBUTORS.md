@@ -13,6 +13,12 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Harsh Vardhan Singh](https://github.com/harshvardhansb)
+- Place: India
+- Bio: Web Developer
+- GitHub: [Harsh](https://github.com/harshvardhansb)
+
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
