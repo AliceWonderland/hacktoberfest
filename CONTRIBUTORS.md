@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [JIMMY TARAVIA](https://github.com/Jimmy-Taravia2001)
+- Place: India
+- Bio: Third year Information and communication technology Student. passionate TV show reviewer.
+- GitHub: [Jimmy-Taravia2001](https://github.com/Jimmy-Taravia2001)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
