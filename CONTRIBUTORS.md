@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saitama](https://github.com/saitama2812)
+- Place: Hyderabad, India
+- Bio: Web Dev, C, Python, Java
+- Github: [Saitama2812](https://github.com/saitama2812)
