@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [PRAKHAR SINHA]
+- Place: UTTAR PRADESH,INDIA
+- Bio: TECH ENTHUSIAST!
+
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
