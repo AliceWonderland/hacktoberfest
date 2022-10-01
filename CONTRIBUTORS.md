@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Vansh Goel](https://github.com/vansh-goel)
+- Place: Uttar Pradesh, India
+- Bio: Student, Web Developer
+- Github: [Vansh-Goel](https://github.com/vansh-goel)
