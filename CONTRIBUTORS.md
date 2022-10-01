@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Arshad Ahmed
+ - Place: Hyderbad, india 
+ - Bio: Software engineer. Student at JNTUH.
+ - GitHub: [lARSHADl](https://github.com/lARSHADl)
+
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
