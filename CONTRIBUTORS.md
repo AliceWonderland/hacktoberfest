@@ -1,3 +1,8 @@
+#### Name: Abinash Boruah
+ - Place: Assam, India
+ - Bio: Student.
+ - GitHub: [Abinash Boruah](https://github.com/rockkidd23)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
