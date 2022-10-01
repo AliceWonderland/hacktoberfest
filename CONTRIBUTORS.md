@@ -1,3 +1,7 @@
+#### Name: Aldiyar Y
+ - Place: Astana, Kazakhstan
+ - Bio:  Frontend Developer 
+ - GitHub: [Aldiyar Y](https://github.com/gemcave)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
