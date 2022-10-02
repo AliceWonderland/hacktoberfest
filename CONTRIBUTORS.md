@@ -68,6 +68,12 @@
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+
+#### Name: [Adithya Krishnan](https://github.com/fal3n-4ngel)
+- Place: Kerala,India
+- Bio: Student
+- Github: [fal3n 4ngel](https://github.com/fal3n-4ngel)
+- 
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
