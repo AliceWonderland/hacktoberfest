@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mridul Gupta](https://github.com/MridulGupta007)
+- Place: India
+- Bio: Full-Stack Developer Javascript and Golang
+- GitHub: [MridulGupta007](https://github.com/MridulGupta007)
