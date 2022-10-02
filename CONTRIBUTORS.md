@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aman Modi](https://github.com/amanmodiii)
+- Place: Dhanbad, India
+- Bio: B.tech Undergraduate, Aspiring Web-Developer
+- GitHub: [Aman Modi](https://github.com/amanmodiii)
