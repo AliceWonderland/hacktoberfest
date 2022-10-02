@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sneha Nautiyal](https://github.com/Klynweto)
+- Place: Delhi, India
+- Bio: Undergrad CSE Sophomore
+- Github: [Klynweto](https://github.com/Klynweto)
