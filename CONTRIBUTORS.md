@@ -1,3 +1,8 @@
+#### Name: [Kumar Bishwa Kalyan](https://github.com/sickodev)
+- Place: Rourkela,India
+- Bio: Junior Engineering Student from VSSUT Burla
+- GitHub: [sickodev](https://github.com/sickodev)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
