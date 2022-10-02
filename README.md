@@ -117,7 +117,8 @@ Here is my `hello_world` example: [hello_world_alicewonderland.js](https://githu
 * Check out some very creative ways to print out a "Hello, World!" string.
 
 ## Reference links
-Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
+Here is a great tutorial for creating your first pull request by 
+[Roshan Jossey](https://github.com/Roshanjossey):
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
 Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
