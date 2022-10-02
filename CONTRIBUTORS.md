@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sayuru Bopitiya](https://github.com/SayuruRehan/)
+- Place: Colombo, Sri Lanka
+- Bio: Software Engineer Intern
+- GitHub: [SayuruRehan](https://github.com/SayuruRehan/)
