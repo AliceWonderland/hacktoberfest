@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Sachin Choudhary](https://github.com/sachin-611)
+- Place: Pune, Maharashtra, India
+- Bio: Web developer
+- GitHub: [sachin-611](https://github.com/sachin-611)
