@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [atuikhar](https://github.com/atuikhar)
+ - Place: Delhi, India
+ - Bio: Web Developer.
+ - GitHub: [atuikhar](https://github.com/atuikhar)
