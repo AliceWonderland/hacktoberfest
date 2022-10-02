@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Skand Sharma](https://github.com/skand1110)
+- Place: Jamshedpur, India
+- Bio: ECE Undergraduate at NIT Jamshedpur
+- GitHub: [Skand Sharma](https://github.com/skand1110)
+
