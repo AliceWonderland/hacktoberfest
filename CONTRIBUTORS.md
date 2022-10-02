@@ -663,6 +663,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Front end web developer.
 - GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
 
+#### Name: [Rahul Gupta](https://github.com/Flicker-eth)
+ - Place: haryana, India
+ - Bio: I’m interested in Cloud , Devops , Blockchain , web.
+ - GitHub: [Rahul Gupta](https://github.com/Flicker-eth)
+
 #### Name: [Dushyant Rathore](https://github.com/dushyantRathore)
 - Place: New Delhi, India
 - Bio: Student
