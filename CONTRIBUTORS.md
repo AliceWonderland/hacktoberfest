@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Subodh Aryal](https://github.com/asubodh)
+- Place: Chitwan, Nepal
+- Bio: Web developer PHP and Python
+- Github: [Subodh Aryal](https://github.com/asubodh)
