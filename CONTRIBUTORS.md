@@ -190,6 +190,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [Alexander Voigt](https://github.com/alexandvoigt)
 
+#### Name: [Siddharth Bhat](https://github.com/thesid42)
+- Place: Noida, UP, India
+- Bio: Software Engineer
+- GitHub: [thesid42](https://github.com/thesid42)
+
 #### Name: [Alina Christenbury](https://github.com/AlinaWithAFace)
 - Place: Newark, DE
 - Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or gamedev
