@@ -19,7 +19,7 @@ International Institute of Information Technology, Bhubaneswar
 
 ### Projects
 
-- RollRace-A simple two-player dice game where the first player to move 10 steps wins.
+- [RollRace](https://amanmodiii.github.io/Roll-Race) -A simple two-player dice game where the first player to move 10 steps wins.
 
 ### Profile Link
 
