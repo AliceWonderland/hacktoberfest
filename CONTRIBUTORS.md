@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lubna Fathima](https://github.com/lubnafathima)
+- Place: India
+- Bio: MERN stack web developer
+- GitHub: [Lubna Fathima](https://github.com/lubnafathima)
