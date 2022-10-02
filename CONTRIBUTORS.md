@@ -130,6 +130,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
+#### Name: [Binay uchai] (https://github.com/binayuchai)
+- Place: Nepal
+- Bio: IT Student
+- Github:[Binay uchai] (https://github.com/binayuchai)
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
