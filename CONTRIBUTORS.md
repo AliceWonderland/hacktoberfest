@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devesh Mehra](https://github.com/MehraDevesh2022)
+- Place: Pithoragarh, India
+- Bio: Web developer 
+- Github: [Devesh Mehra](https://github.com/MehraDevesh2022)
