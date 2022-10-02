@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Abubakr
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Abubakrce19](https://github.com/Abubakrce19)
