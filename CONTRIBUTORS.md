@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Sanyam Jain](https://github.com/Sanyam-7)
+- Place: Alwar City, Rajasthan, India
+- Bio: Third year Computer Science Student.:
+- GitHub: [Sanyam-7](https://github.com/Sanyam-7)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
