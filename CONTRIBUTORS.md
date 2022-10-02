@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adalberto Brant](https://github.com/adalbertobrant)
+- Place: Governador Valadares, Brazil
+- Bio: Dentist, Computer Science Student UFU-MG, freecodecamp student
+- Github: [Adalberto Brant](https://github.com/adalbertobrant)
+
