@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
+- Place: Barru, South Sulawesi, Indonesia
+- Bio: I'm a student and I love programming world
+- GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
