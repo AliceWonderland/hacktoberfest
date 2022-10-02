@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manas Jayaswal](https://github.com/mjmanas54)
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Undergraduate, IIT(BHU) Varanasi
+- Github: [mjmanas54](https://github.com/mjmanas54)
