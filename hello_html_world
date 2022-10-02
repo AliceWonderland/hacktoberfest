@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> Hello World </title>
+<style>
+.title{
+background-color: #000;
+color: #fff;
+font-size: 30px;
+text-align-center;
+}
+
+</style>
+</head>
+<body>
+<center><h1 class="title'>Hello World</h1></center>
+<br>
+<h3> From AryamanSrii </h3>
+
+</body>
+</html>
+
