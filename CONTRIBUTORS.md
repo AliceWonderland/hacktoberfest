@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Duche](https://github.com/ducheharsh)
+- Place: Maharashtra, India
+- Bio: 18 | Tech enthusiast | Exploring Open Source culture and community 💻✨
+- GitHub: [ducheharsh](https://github.com/ducheharsh)
