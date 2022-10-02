@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Hanif Ali Ramdani](https://github.com/HijazP)
+- Place: West Java, Indonesia
+- Bio: Game Developer
+- GitHub: [HijazP](https://github.com/HijazP)
