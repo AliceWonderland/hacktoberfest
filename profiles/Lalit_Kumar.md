@@ -17,6 +17,10 @@ Cuttack, Odisha, India
 - Doing BS in Data Science @IITM
 - Event Management Lead [GDSC VSSUT](https://gdsc.community.dev/veer-surendra-sai-university-of-technology-vssut-burla/)
 
+### Development
+
+- Creator of Petsbook App 
+
 ### Projects
 
 - [Petsbook](https://github.com/LalitKumar-2001/Petsbook) => A flutter application for all pet related issues with emergency medical help feature
