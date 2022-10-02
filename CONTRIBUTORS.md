@@ -270,6 +270,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A high functioning geek, et cetera.
 - GitHub: [ankitrai96](https://github.com/ankitrai96)
 
+#### Name: [Ankit Rai](https://github.com/LemonDrop847)
+- Place: Bhubaneswar,Odisha,India
+- Bio: Computer Science Undergrad, plays minecraft.
+- GitHub: [LemonDrop847](https://github.com/LemonDrop847)
+
 #### Name: [Ankur Sharma](https://github.com/ankurs287)
 - Place: New Delhi, India
 - Bio: CSAM, IIITD
