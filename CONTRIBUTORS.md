@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nihar Wadhwa](https://github.com/nihar-wadhwa)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Nihar Wadhwa](https://github.com/nihar-wadhwa)
