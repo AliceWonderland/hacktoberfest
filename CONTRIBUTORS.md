@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deep Das](https://github.com/youtanimstar)
+- Place: Howrah, West Bengal, India
+- Bio: I am a B.Tech 1st-year student at Meghnad Saha Institute of technology.
+- GitHub: [youtanimstar](https://github.com/youtanimstar)
