@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Mansi Singla](https://github.com/mansi-singla-31215)
+- Place: Delhi, India
+- Bio: Student, Web developer
+- Github: [Mansi Singla](https://github.com/mansi-singla-31215)
