@@ -1,3 +1,8 @@
+#### Name: Muanra
+ - Place: Bekasi, Indonesia
+ - Bio: Undergraduate Information System Student, Junior Front End Web Dev.
+ - GitHub: [Muanra217](https://github.com/Muanra217)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
