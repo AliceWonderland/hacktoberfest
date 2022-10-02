@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: ["Ishaan Shah"](https://github.com/ishaan812)
+- Place: Mumbai,India
+- Bio: Software Developer with Go,Javascript,Python
+- Github: [ishaan812](https://github.com/ishaan812)
