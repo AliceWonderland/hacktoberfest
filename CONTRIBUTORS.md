@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Kenzie Mafazi Adam](https://github.com/kenziema)
+- Place: South Tangerang, Banten, Indonesia
+- Bio: I like to code and snoozing off
+- GitHub: [Kenzie Mafazi Adam](https://github.com/kenziema)
