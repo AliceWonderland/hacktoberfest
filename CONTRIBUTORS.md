@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lalit Kumar](https://github.com/LalitKumar-2001)
+ - Place: Bhubaneswar, India
+ - Bio: CSE Undergrad in VSSUT Burla and BS @IITM
+ - Github: [LalitKumar-2001](https://github.com/LalitKumar-2001)
