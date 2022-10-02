@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Gilang Kharisma](https://github.com/GilangKharisma)
+- Place: Lombok Timur, NTB, Indonesia
+- Bio: Love Linux, and Still Learning
+- GitHub: [Gilang Kharisma](https://github.com/GilangKharisma)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
