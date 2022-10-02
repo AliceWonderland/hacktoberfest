@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jay Pokale](https://github.com/JayPokale)
+- Place: Nagpur, Maharashtra, India
+- Bio: Web developer, Mathematician
+- Github: [Jay Pokale](https://github.com/JayPokale)
