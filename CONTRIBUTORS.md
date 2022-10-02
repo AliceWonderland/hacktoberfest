@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sagar Shah](https://github.com/sagar98cyber)
+- Place: Mumbai, India
+- Bio: 'm looking to collaborate on SECURITY OPERATIONS CENTER, MALWARE ANALYSIS projects
+- GitHub: [sagar98cyber](https://github.com/sagar98cyber)
