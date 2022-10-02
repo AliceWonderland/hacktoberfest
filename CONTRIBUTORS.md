@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ #### Name: SHANAYA
+ - Place: INDIA
+ - Bio: beginner in webd
+ - GitHub: https://github.com/shanaya17
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
