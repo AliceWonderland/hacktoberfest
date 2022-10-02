@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ishaan Kulkarni](https://github.com/ishaan49k)
+ - Place: Gurugram, Haryana, India
+ - Bio: Student
+ - GitHub: [Naman-Bhalla](https://github.com/ishaan49k)
