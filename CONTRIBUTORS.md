@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Vishal Gupta](https://github.com/guptamanu409)
+- Place: Janakpuri, New Delhi, India
+- Bio: Web Developer, Problem Solver, Likes Contributing to Open Source 
+- GitHub: [guptamanu409](https://github.com/guptamanu409)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
