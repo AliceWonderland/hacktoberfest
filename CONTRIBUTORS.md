@@ -6,7 +6,7 @@
 #### Name: Syed_Aasim
  - Place: Tamil Nadu, India
  - Bio: Software engineer/FullStack developer. 
- - GitHub: [Vallenain](https://github.com/aasim-syed)
+ - GitHub: [Syed Aasim](https://github.com/aasim-syed)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
