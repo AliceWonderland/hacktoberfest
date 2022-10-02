@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Emmanuel Hosea](https://github.com/iEmmzzyHost)
+- Place: Abuja, FCT, Nigeria
+- Bio: Frontend Developer.
+- GitHub: [Emmanuel Hosea](https://github.com/iEmmzzyHost)
