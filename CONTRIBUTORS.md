@@ -1,3 +1,8 @@
+#### Name: Satyam Koshta
+ - Place: Haridwar, India
+ - Bio: Software Engineer. Enthusiastic Programmer from India.
+ - GitHub: [Satyam Koshta](https://github.com/satyamkoshta340)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
