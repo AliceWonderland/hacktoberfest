@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prahlad Timalsina](https://github.com/prahladtimalsina)
+- Place: lalitpur Nepal
+- Bio: Sofware Engineer(Mern)
+- Github: [Prahlad Timalsina](https://github.com/prahladtimalsina)
