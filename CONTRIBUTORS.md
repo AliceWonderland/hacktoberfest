@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vinod Khadka](https://github.com/skdotv)
+- Place: Mumbai, India
+- Bio: Mobile Engineer
+- Github: [Vinod Khadka](https://github.com/skdotv)
