@@ -24,7 +24,7 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-## Getting started
+## Getting Started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
@@ -66,7 +66,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
-# Your Name
+## Your Name
 
 ### Location
 
