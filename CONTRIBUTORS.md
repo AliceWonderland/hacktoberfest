@@ -1,3 +1,8 @@
+#### Name: [Saran Pariyar](https://github.com/Saran-pariyar)
+- Place: Ilam, Nepal
+- Bio: Frontend Developer | ReactJS
+- GitHub: [Saran-pariyar](https://github.com/Saran-pariyar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
