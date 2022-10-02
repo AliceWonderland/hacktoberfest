@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Syed_Aasim
+ - Place: Tamil Nadu, India
+ - Bio: Software engineer/FullStack developer. 
+ - GitHub: [Syed Aasim](https://github.com/aasim-syed)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
