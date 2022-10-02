@@ -260,6 +260,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CSD IIITD
 - GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
 
+#### Name: [Vaibhav Pathak](https://github.com/vaibhav-zemo)
+- Place: Jhansi, U.P India
+- Bio: College student exploring open source 
+- GitHub: [vaibhav-zemo](https://github.com/vaibhav-zemo)
+
 #### Name: [Ankit Chhetri](https://github.com/ankitch)
 - Place: Kathmandu, Nepal
 - Bio: Backend Developement | Snake Charmer | Student
