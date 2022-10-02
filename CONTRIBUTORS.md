@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rui Silva](https://github.com/rpvsilva)
+- Place: Leiria, Portugal
+- Bio: Software Engineer - Fullstack
+- Github: [Rui Silva](https://github.com/rpvsilva)
