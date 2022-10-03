@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Stevanus Christian](https://github.com/Stevanus-Christian)
+- Place: Palembang, Indonesia
+- Bio: Web developer and Android Developer
+- Github: [Stevanus-Christian](https://github.com/Stevanus-Christian)
