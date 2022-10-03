@@ -10,7 +10,7 @@ Indian Institute of Technology, Mandi
 
 ### Interests
 
-- Mathematics.
+- Mathematics,Physics
 
 ### Development
 
