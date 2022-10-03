@@ -494,6 +494,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Second year undergraduate(Computer Science)
 - GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
 
+#### Name: [Chibogu Chisom](https://github.com/raeeceip)
+- Place: Ottawa , Ontario
+- Bio: Psych Major at Carleton University
+- GitHub: [raeeceip](https://github.com/raeeceip)
+
 #### Name: [Chong Jia Wei](https://github.com/heyjiawei)
 - Place: Singapore
 - Bio: Transformer in disguise
