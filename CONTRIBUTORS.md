@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sayak Rana](https://github.com/Sayak-Rana)
+- Place: Kolkata,India
+- Bio: CST Student at IIEST Shibpur
+- Github: [Sayak_Rana](https://github.com/Sayak-Rana)
