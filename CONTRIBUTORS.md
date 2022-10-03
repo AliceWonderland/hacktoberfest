@@ -63,6 +63,11 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Tharushi De Silva](https://github.com/TharushiDSilva)
+- Place: Nuwara Eliya, Sri Lanka 
+- Bio:Student
+- GitHub: [TharushiDSilva](https://github.com/TharushiDSilva)
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
