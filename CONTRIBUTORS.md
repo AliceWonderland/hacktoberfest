@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mcube728](https://github.com/Mcube728)
+- Place: India
+- Bio: Student studying computer science
+- Github: [Mcube728](https://github.com/Mcube728)
