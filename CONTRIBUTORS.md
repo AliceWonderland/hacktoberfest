@@ -1925,6 +1925,12 @@ Noida
 - Bio: Programmer Analyst
 - GitHub: [lullabies](https://github.com/lullabies)
 
+#### Name: [Raúl Gilabert Gámez](https://github.com/raulgilabert)
+- Place: Santa Coloma de Gramenet, Spain
+- Bio: Computer engineering student
+- GitHub: [raulgilabert](https://github.com/raulgilabert)
+
+
 #### Name: [Raymond Duckworth](https://github.com/raymondxduckworth/)
 - Place: California, USA
 - Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
