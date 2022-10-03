@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### NAme: [Pradyumn] (https://github.com/TechnoPradyumnID)
+- Place: orai,UP, India
+- Bio: Android developer And Student
+- Github: [TechnoPradyumnID] (https://github.com/TechnoPradyumnID)
