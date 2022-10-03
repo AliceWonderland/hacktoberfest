@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mohammed A](https://github.com/mohammed-akl)
+- Place: Trivandrum, Kerala, India
+- Bio: Mobile developer
+- GitHub: [mohammed-akl](https://github.com/mohammed-akl)
