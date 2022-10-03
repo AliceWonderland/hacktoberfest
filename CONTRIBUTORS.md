@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saulo Barros](https://github.com/DinoSaulo)
+- Place: Recife, Brazil
+- Bio: Tester and Web developer
+- Github: [Saulo Barros](https://github.com/DinoSaulo)
