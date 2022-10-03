@@ -1,3 +1,7 @@
+#### Name: Muhammad Hamid Saeed
+ - Place: Lahore, Pakistan
+ - Bio: 3rd Year Computer Science Student, Comsats Lahore.
+ - GitHub: [Muhammad Hamid Saeed](https://github.com/M-Hamid-Saeed)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
