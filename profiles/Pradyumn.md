@@ -1,13 +1,13 @@
-Pradyumn
-Location
+# Pradyumn
+# Location
 Orai, UP , India
 
-Academics
+# Academics
 Chandigarh engineering collage, jhnajeri
 
-Interests
+# Interests
 Development
-Projects
+# Projects
 Speech Translator - Language translator app
-Profile Link
-Pradyumn
+# Profile Link
+# Pradyumn
