@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+ #### Name: [KHUSHI](https://github.com/Khushii-Arora)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [Khushii-Arora](https://github.com/Khushii-Arora)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
