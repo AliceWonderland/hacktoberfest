@@ -1,0 +1,62 @@
+#include<stdio.h>
+#include<stdlib.h>
+struct node
+{
+    int data;
+    struct node *prev;
+    struct node *next;
+};
+int main()
+{
+    struct node *head,*temp,*newnode,*tail;
+    int choice,pos,i=1;
+    head=0;
+    while(choice)
+    {
+    newnode=(struct node*)malloc(sizeof(struct node));
+    printf("Enter the data: ");
+    scanf("%d",&newnode->data);
+    newnode->prev=0;
+    newnode->next=0;
+    if(head==0)
+    {
+      head=temp=tail=newnode;
+    }
+    else
+    {
+        temp->next=newnode;
+        newnode->prev=temp;
+        temp=newnode;
+        tail=newnode;
+    }
+    printf("Do you want do continue(0,1): ");
+    scanf("%d",&choice);
+    }
+
+    newnode=(struct node*)malloc(sizeof(struct node));
+    printf("Input the data: ");
+    scanf("%d",&newnode->data);
+    printf("Enter the position: ");
+    scanf("%d",&pos);
+    newnode->next=0;
+    newnode->prev=0;
+    temp=head;
+    while(i<pos)
+    {
+        temp=temp->next;
+        i++;
+    }
+    newnode->prev=temp;
+    newnode->next=temp->next;
+    temp->next=newnode;
+    newnode->next->prev=newnode;
+
+    temp=head;
+    while(temp!=0)
+    {
+        printf("%d ",temp->data);
+        temp=temp->next;
+    }
+
+
+}
