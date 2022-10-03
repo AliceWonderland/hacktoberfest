@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
+- Place: Odisha, India
+- Bio: An Engineering Pre-Final year student, CSE
+- GitHub: [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
