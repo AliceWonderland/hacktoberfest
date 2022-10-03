@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rudrajeet Chaudhuri](https://github.com/RudeDaCode)
+- Place: Vellore, India
+- Bio: Computer Science Student
+- Github: [RudeDaCode](https://github.com/RudeDaCode)
