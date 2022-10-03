@@ -6,7 +6,7 @@ Pune, India
 
 ### Academics
 
-sophomore at AISSMS College Of Engineering ,Pune
+Sophomore at AISSMS COllege of Enigineering, Pune
 
 ### Interests
 
