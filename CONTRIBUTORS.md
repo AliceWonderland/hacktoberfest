@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shivam Sinha](https://github.com/Steven4869)
+- Place: Chennai, India
+- Bio: Front end Web Developer
+- Github: [Shivam Sinha](https://github.com/Steven4869)
