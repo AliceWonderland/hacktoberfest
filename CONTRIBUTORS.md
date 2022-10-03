@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sarthak Garg](https://github.com/sarthakgarg2012)
+- Place: Delhi, India
+- Bio: Web developer
+- Github: [Sarthak Garg](https://github.com/sarthakgarg2012)
