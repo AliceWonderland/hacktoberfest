@@ -5,4 +5,4 @@
 // AUTHOR: Abhay Gawade
 // GITHUB: https://github.com/abhaygawade
 
-echo 'Hello, World!';
+echo 'Hello World!';
