@@ -1774,6 +1774,11 @@ Noida
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
 
+### Name: [P PADMAPRASAD SHENOY](https://github.com/ppadmaprasadshenoy)
+- Place: India
+- Bio: 4th year Computer Science Student, in love with everything
+- Github: [P Padmaprasad ShenOY](https://github.com/ppadmaprasadshenoy)
+
 #### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
 - Place: Athens, Greece
 - Bio: Undergraduate CS student / Software Developer
