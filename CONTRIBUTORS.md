@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anshuman Shukla](https://github.com/Anshumanshukla46)
+- Place: India
+- Bio: Android Developer
+- Github: [Anshumanshukla46](https://github.com/Anshumanshukla46)
+
