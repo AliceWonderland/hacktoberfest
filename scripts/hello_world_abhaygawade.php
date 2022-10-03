@@ -6,3 +6,4 @@
 // GITHUB: https://github.com/abhaygawade
 
 echo 'Hello World!';
+echo 'Hi'
