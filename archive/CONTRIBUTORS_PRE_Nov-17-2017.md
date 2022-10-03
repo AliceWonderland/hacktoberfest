@@ -23,6 +23,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [SHYAM PARAJULI](https://github.com/spparajuli)
+- Place: Nepal
+- Bio: second year Science Student, love to explore
+- GitHub: [shyam-parajuli](https://github.com/spparajuli)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
