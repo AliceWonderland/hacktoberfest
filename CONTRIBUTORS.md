@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vikash Jha](https://github.com/VIKASHJHA012)
+- Place: Haryana, India
+- Bio: Web developer 
+- Github: [	VIKASHJHA012](https://github.com/VIKASHJHA012)
