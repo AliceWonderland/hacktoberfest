@@ -1,3 +1,8 @@
+#### Name: [VINIT GURJAR](https://github.com/adhiramaa)
+- Place: Ujjain, Madhya Pradesh, India
+- Bio: Third year Computer Science Student, Web developer.
+- GitHub: [adhiramaa](https://github.com/adhiramaa)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
