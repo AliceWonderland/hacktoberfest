@@ -1,4 +1,4 @@
-#### Name: [Nayanika Singha Chowdhury](https://github.com/Nayanika-12)
+#### Name: [Nayanika Singha](https://github.com/Nayanika-12)
 - Place: Kolkata, India
 - Bio: An enthusiastic learner
 - GitHub: [Nayanika-12](https://github.com/Nayanika-12)
