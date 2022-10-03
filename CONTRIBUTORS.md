@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Some Random Chap](https://github.com/some-random-chap)
+- Place: Delhi, India
+- Bio: Still discovering myself
+- Github: [Some Random Chap](https://github.com/some-random-chap)
