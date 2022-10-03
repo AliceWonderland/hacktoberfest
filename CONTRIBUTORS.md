@@ -1,3 +1,8 @@
+#### Name: Sanjeev Kumar
+ - Place: Bhopal, Madhya Pradesh, India
+ - Bio: Third year Computer Science Student
+ - GitHub: [krsanjeev196](https://github.com/krsanjeev196)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
