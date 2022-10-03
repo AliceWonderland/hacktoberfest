@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Dimas Surya Prasetyo](https://github.com/diimprasetyos)
+- Place: Malang, East Java, Indonesia
+- Bio: just4fun
+- Github: [Dimas Surya Prasetyo](https://github.com/diimprasetyos)
