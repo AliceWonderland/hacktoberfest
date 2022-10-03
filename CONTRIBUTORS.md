@@ -130,6 +130,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
+#### Name: [Pratik Joshi] (https://github.com/pratcode1616)
+- Place: India
+- Bio: Developer
+- Github:[pratcode1616] (https://github.com/pratcode1616)
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
