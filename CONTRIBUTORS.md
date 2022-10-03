@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [sandeep vishwakarma](https://github.com/sv2441)
+- Place: Mumbai , India
+- Bio: Web developer ML and Python
