@@ -621,6 +621,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
+#### Name: [Danny S](https://github.com/testerslol123)
+- Place: Jakarta, Indonesia
+- Bio: Web Developer, PowerApps Developer
+- Github: [Daniel Tudares](https://github.com/testerslol123)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
