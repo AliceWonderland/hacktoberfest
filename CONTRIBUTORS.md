@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
+- Place: India
+- Bio: Web developer HTML,PHP,SQL and CSS
+- Github: [Siddhesh Dandekar]([https://github.com/itepifanio](https://github.com/Siddhesh-Dandekar))
