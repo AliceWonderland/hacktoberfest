@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Apoorv Dandavate](https://github.com/ApoorvD13)
+- Place: Maharashtra, India
+- Bio: aspiring software developement engineer
+- GitHub: [ApoorvD13](https://github.com/ApoorvD13)
