@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aadarsh Mani](https://github.com/aadarshmani)
+ - Place: Delhi, India
+ - Bio: Software engineer. Undergraduate from MRIIRS Faridabad.
+ - GitHub: [Aadarsh Mani](https://github.com/aadarshmani)
