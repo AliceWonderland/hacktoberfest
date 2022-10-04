@@ -6,15 +6,17 @@ India
 
 ### Academics
 
-University
+Electronics and Communication, Shri Ramdeobaba College of Engineering and Management, Nagpur
 
 ### Interests
 
-Coding, reading Books, etc.
+- Coding
+- reading books
+- Video games
+- VR/AR
 
 ### Development
-
-
+- Mostly University projects so far, done with some and published 
 
 ### Projects
 - Working on image forgery detction using CNN
@@ -22,5 +24,4 @@ Coding, reading Books, etc.
 - [Student-Mangement-System](https://github.com/Amey-Chaudhari/student-mangement-system)
 
 ### Profile Link
-
 [Amey-Chaudhari](https://github.com/Amey-Chaudhari)
