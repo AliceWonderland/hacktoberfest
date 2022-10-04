@@ -1,3 +1,8 @@
+
+#### Name: [PRANJAL DUBEY](https://github.com/dubey2709)
+- Place: India
+- Bio: second year Computer Science Student at IIIT Bhopal
+- GitHub: [Pranjal Dubey](https://github.com/dubey2709)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
