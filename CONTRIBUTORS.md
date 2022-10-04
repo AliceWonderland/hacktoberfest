@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hardik Sharma](https://github.com/Hardikaz)
+- Place: Dehradun,Uttarakhand,India
+- Bio: Second year BTech Computer Science and Engineering student ,MERN stack developer
+- GitHub: [Hardik Sharma](https://github.com/Hardikaz)
