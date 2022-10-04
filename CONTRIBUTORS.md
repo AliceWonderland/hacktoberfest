@@ -1,3 +1,8 @@
+#### Name: [GARIMA CHANDNA](https://github.com/garimachandna)
+- Place: Haryana, India
+- Bio: A Computer Science Student
+- Github: [GARIMA CHANDNA](https://github.com/garimachandna)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
