@@ -18,6 +18,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [Jeremiah Egemonye](https://github.com/agnieszka-miszkurka)
+- Place: Nigeria
+- Bio: second year software engineering Student, in love with NYC <3
+- GitHub: [JerryCodesAfrica](https://github.com/JerryCodesAfrica)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -16680,4 +16685,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
