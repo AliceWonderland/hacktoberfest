@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tejas Shinde](https://github.com/Tejas124)
+- Place: Maharashtra, India
+- Bio: Web developer JS and C++
+- Github: [Tejas Shinde](https://github.com/Tejas124)
