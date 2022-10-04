@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Sumit Baroniya]((https://github.com/sumitbaroniya))
+- Place: Banda, UP, India
+- Bio: Student
+- GitHub: [Sumit Baroniya](https://github.com/sumitbaroniya)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
