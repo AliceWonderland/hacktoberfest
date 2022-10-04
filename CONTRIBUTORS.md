@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sai Sindhu](https://github.com/sindhuleads)
+- Place: Hyderabad, India
+- Bio: UI/UX Designer
+- GitHub: [sindhuleads](https://github.com/sindhuleads)
