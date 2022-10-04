@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [subashshrt] (https://gitlab.com/subashshrt)
+- Place: Karlsuhe, Germany
+- Bio: Full Stack Software Engineer
+- Gitlab: [subashshrt] (https://gitlab.com/subashshrt)
+- Github: [subashshrt] (https://github.com/amanshrt)
