@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Eman Munir] (https://github.com/emanmunir)
+- Place: Lahore, Pakistan
+- Bio: learning Data Science
+- GitHub: [emanmunir] (https://github.com/emanmunir)
