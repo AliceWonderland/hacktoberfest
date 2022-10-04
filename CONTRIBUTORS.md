@@ -10,6 +10,11 @@
 - Bio: I Love Code and Design. 
 - GitHub: [Egi Nugraha](https://github.com/eginugraha)
 
+#### Name: [Lucas Verfaillie](https://github.com/AliceWonderland/hacktoberfest.git)
+- Place: Belgium
+- Bio, I love code, pizza and developing!
+- Github: [Lucas Verfaillie](https://github.com/AliceWonderland/hacktoberfest.git)
+
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
 - Bio: Fullstack Web developer, Computer Engineering Master student
