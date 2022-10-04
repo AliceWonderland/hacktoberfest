@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [blosky01](https://github.com/blosky01)
+- Place: Spain
+- Bio: Software and Web Developer from Málaga with eager to grow as a professional and achieve new challenges.
+- GitHub: [agnieszka-miszkurka](https://github.com/blosky01)
