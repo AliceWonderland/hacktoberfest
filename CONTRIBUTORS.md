@@ -415,6 +415,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Geophysicist
 - GitHub: [Brent Scheppmann](https://github.com/bareon)
 
+#### Name: [Victor Trumpet](https://github.com/victortpt)
+- Place: Spain
+- Bio: I usually play the trumpet and code
+- GitHub: [Victor Trumpet](https://github.com/victortpt)
+
 #### Name: [BrunoSXS](https://github.com/brunosxs)
 - Brazil
 - Bio: I like turtules.
