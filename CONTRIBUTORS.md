@@ -653,6 +653,11 @@ to explore life. Also, Python and Django Developer
   - Bio: Engineering Student @ IET DAVV Indore
   - Github: [deepikasunhare](https://github.com/deepikasunhare)
 
+#### Name: [Devesh Swarnkar](https://github.com/devesh-0419)
+  - Place: India
+  - Bio: Love competive coding.
+  - Github: [devesh-0419](https://github.com/devesh-0419)
+ 
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer
