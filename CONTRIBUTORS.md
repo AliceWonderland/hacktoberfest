@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Syed Mohammad Osama](https://github.com/syed-m-osama)
+- Place: India
+- Bio: Student | Flutter Developer
+- GitHub: [Syed Mohammad Osama](https://github.com/syed-m-osama)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
