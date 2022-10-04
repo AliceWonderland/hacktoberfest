@@ -1,3 +1,8 @@
+#### Name: [SHASHANK MANGAL](https://github.com/mangalshashank)
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: Third year Computer Science Student from NIT Bhopal
+- GitHub: [mangalshashank](https://github.com/mangalshashank)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
