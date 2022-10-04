@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [AmeyChaudhari](https://github.com/Amey-Chaudhari)
+#### Name: [ameychaudhari](https://github.com/Amey-Chaudhari)
 - Place: Maharashtra, India
 - Bio: ML enthusiast
-- Github: [AmeyChaudhari](https://github.com/Amey-Chaudhari)
+- Github: [ameychaudhari](https://github.com/Amey-Chaudhari)
