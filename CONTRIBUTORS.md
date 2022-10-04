@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratham Thakkar](https://github.com/pratham0809)
+- Place: Gujarat, India
+- Bio: I am JS developer from India.
+- Github: [Pratham Thakkar](https://github.com/pratham0809)
