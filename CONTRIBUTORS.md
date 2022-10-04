@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tammy Miller](https://github.com/tgmiller5)
+- Place: Washington, DC, USA
+- Bio: QA
+- GitHub: [Tammy Miller](https://github.com/tgmiller5)
