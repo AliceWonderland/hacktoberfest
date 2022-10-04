@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shuqroh](https://github.com/Shuqroh)
+- Place: Nigeria
+- Bio: UI/UX Enthusiast
+- GitHub: [Shuqroh](https://github.com/Shuqroh)
