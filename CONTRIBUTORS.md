@@ -1,3 +1,9 @@
+#### Name: [KAMYA VERMA](https://github.com/KAMYAVERMA)
+- Place: India
+- Bio: Student who love coding
+- Github: https://github.com/KAMYAVERMA
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
