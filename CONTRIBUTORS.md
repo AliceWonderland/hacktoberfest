@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: [SAMMAN SARKAR](https://github.com/SammanSarkar)
+- Place: New Delhi, India
+- Bio: Undergrad student
+- GitHub: [Samman Sarkar](https://github.com/SammanSarkar)
+
+#### Name: Vallenain  
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
