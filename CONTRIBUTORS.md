@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raktim Katiyar](https://github.com/raktim97)
+- Place: Lucknow, India
+- Bio: Coding Enthusiast
+- Github: [Raktim Katiyar](https://github.com/raktim97)
