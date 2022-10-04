@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [fiandev](https://github.com/fiandev)
+- Place: East Java, Indonesia
+- Bio: Junior Fullstack developer
+- GitHub: [fiandev](https://github.com/fiandev)
