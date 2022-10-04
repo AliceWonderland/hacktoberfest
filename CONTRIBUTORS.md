@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Owoyele Iyanu](https://github.com/iyanuowoyele)
+- Place: Lagos, Nigeria
+- Bio: Flutter Developer 
+- GitHub: [iyanuowoyele](https://github.com/mittrayash)
