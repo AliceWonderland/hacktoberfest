@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Althaaf Ridha](https://github.com/althaafridha)
+- Place: Jakarta, Indonesia
+- Bio: -
+- Github: [Althaaf Ridha](https://github.com/althaafridha)
