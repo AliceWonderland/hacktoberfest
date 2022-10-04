@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aayush More](https://github.com/aayush51)
+- Place: Nashik, India
+- Bio: Interested in frontend web development and java , c++
+- Github: [Aayush More](https://github.com/aayush51)
