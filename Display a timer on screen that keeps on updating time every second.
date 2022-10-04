@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TIMER</title>
+</head>
+<body>
+<script>
+Function waitAndshow() {
+//define a date and time variable
+Var systemdate = new Date();
+
+//display the updated time after every 4 seconds
+Document.getElementById(“clock”).innerHTML = systemdate.toLocaleTimeString();
+}
+//define time interval and call user-defined waitAndshow function
+setInterval(waitAndshow, 1000);
+</script>
+<h1> Updated time will show in every 1 seconds </h1>
+<h3> The current time on your computer is: <br>
+<span id=”clock”></span> </h3>
+</body>
+</html>
