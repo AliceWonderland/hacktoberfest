@@ -2017,6 +2017,13 @@ Noida
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
 
+#### Name: Sanjeevani Lakade
+ - Place: Pune, India
+ - Bio: CSE Sophomore @ IIITV
+ - Bio: Photography :camera_flash: Dance :dancer: Anime :shinto_shrine:	Drawing :paintbrush:
+ - GitHub: [SANJEEVANI](https://github.com/sanjeevani-25)
+
+
 #### Name: [Sanjeev Kumar](https://github.com/sanjeevbitx)
  - Place: Kolkata, India
  - Bio: Electronics Undergrad @Jadavpur University 
