@@ -2432,3 +2432,13 @@ Noida
 - Place: Lahore, Pakistan
 - Bio: learning Data Science
 - GitHub: [emanmunir] (https://github.com/emanmunir)
+
+#### Name: [Eman Munir] (https://github.com/emanmunir)
+- Place: Lahore, Pakistan
+- Bio: learning Data Science
+- GitHub: [emanmunir] (https://github.com/emanmunir)
+
+#### Name: Eman Munir (https://github.com/emanmunir)
+- Place: Lahore, Pakistan
+- Bio: learning Data Science
+- GitHub: https://github.com/emanmunir
