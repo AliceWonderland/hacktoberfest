@@ -4,4 +4,4 @@
 - Kolkata , IN
 ### Academics
 
-- Computer Engineering 
+- Computer Engineering. Software Developer
