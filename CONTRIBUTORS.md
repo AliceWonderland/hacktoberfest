@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [GreNinja143](https://github.com/Greninja143)
+- Place: Haryana, India
+- Bio: Web developer JS
+- Github: [GreNinja143](https://github.com/Greninja143)
