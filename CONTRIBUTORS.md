@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arun Gound](https://github.com/kakkarot0)
+- Place: Sagar, Madhya Pradesh, India
+- Bio: Undergraduate student
+- GitHub: [kakkarot0](https://github.com/kakkarot0)
