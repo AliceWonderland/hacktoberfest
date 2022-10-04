@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Aryan Shaw
+- Place: Kolkata, India
+- Bio: Software engineering intern
+- GitHub: [Aryan](https://github.com/aryans1319)
