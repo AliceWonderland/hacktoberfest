@@ -1,3 +1,8 @@
+#### Name: [S SREENIVASA SHENOY](https://github.com/ssreenivasashenoy)
+- Place: Mangalore, Karnataka, India
+- Bio: 4th year Computer Science and Engineering Student 
+- GitHub: [S SREENIVASA SHENOY](https://github.com/ssreenivasashenoy)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
