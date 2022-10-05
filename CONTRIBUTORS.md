@@ -1444,6 +1444,11 @@ Noida
  - Bio: Software Engineer - mostly on mainframe
  - GitHub: [mandyreal](https://github.com/mandyreal)
 
+#### Name: [Marcelo Andrade](https://github.com/MagnerSA)
+- Place: Campina Grande, Paraíba, Brazil
+- Bio: Computer Science student at Federal University of Campina Grande (UFCG).
+- GitHub: [MagnerSA](https://github.com/MagnerS)
+
 #### Name: [Margaret Kelley](https://github.com/mlouisekelley)
 - Place: USA
 - Bio: Cat lover
