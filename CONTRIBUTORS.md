@@ -2428,7 +2428,10 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+
 ### Name: [Khush Sachdeva](https://github.com/khush3211)
 -Place: Haryana, India
+
 -Bio: Computer Science Student
+
 -Github: [khush3211](https://github.com/khush3211)
