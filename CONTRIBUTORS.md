@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Danish Ul Hasssan](https://github.com/danishulhassan7)
+- Place: Karachi, Pakistan
+- Bio: Web developer
+- Github: [danishulhassan7](https://github.com/danishulhassan7)
