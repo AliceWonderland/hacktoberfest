@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hardik Gupta](https://github.com/Hardikg13)
+- Place: Pune, India
+- Bio: AWS Solutions architect
+- Github: [Hardik Gupta](https://github.com/Hardikg13)
