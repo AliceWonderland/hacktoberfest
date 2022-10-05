@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Syariful Msth](https://github.com/SyarifulMsth)
+- Place: Indonesia
+- Bio: Front-End Web Dev
+- Github: [Syariful Msth](https://github.com/SyarifulMsth)
+
