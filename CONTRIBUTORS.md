@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soromeister](https://github.com/Soromeister)
+- Place: Amsterdam Area, North Holland, Netherlands
+- Bio: Software Engineer
+- GitHub: [Soromeister](https://github.com/Soromeister)
