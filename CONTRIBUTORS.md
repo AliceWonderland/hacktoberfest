@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [ATISH SHAH](https://github.com/Atish03)
+- Place: MAHARASHTRA,INDIA
+- Bio: STUDENT
+- GitHub: [ATISH SHAH](https://github.com/Atish03)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
