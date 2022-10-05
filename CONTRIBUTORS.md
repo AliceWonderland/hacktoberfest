@@ -1,3 +1,8 @@
+#### Name: Shivesh
+ - Place: Jharkhand, India
+ - Bio: Software Engineer
+ - GitHub: [Shivesh](https://github.com/Shivesh)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
