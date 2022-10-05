@@ -1,3 +1,8 @@
+#### Name: [Demian](https://github.com/Demian143)
+- Place: São Gonçalo, Rio de Janeiro, Brasil
+- Bio: Web Developer and self-taught student.
+- GitHub: [Demian143](https://github.com/Demian143)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
