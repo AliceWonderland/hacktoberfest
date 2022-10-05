@@ -32,7 +32,10 @@
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
-
+#### Name:[Sugyani Manjari Dash](https://github.com/Sugyani31)
+   -place:Odisha,India
+   -Bio:full stack webdeveloper,competitive coder 
+   -Github:[Sugyani Manjari Dash](https://github.com/Sugyani31)
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
