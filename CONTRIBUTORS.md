@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [aditya kumar](https://github.com/aditya3340)
+- Place:chandigarh,india
+- Bio: student
+- Github: [aditya kumar](https://github.com/aditya3340)
