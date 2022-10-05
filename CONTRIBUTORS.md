@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Léo-Paul MARTIN](https://github.com/leopaul29)
+- Place: Nice, France
+- Bio: Full stack web developer
+- GitHub: [Léo-Paul MARTIN](https://github.com/leopaul29)
