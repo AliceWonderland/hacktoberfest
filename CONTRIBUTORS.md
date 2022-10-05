@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soundarya](https://github.com/SoundaryaKhanapur)
+- Place: Karnataka, India
+- Bio: Kafka and React developer
+- Github: [Soundarya](https://github.com/SoundaryaKhanapur)
