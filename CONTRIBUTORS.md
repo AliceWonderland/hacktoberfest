@@ -1774,10 +1774,15 @@ Noida
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
 
-#### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
-- Place: Athens, Greece
-- Bio: Undergraduate CS student / Software Developer
-- GitHub: [PanosVl](https://github.com/PanosVl)
+#### Name: [Owen Mitchell](https://github.com/ultimatezenzar)
+- Place: Edmond, OK, United States
+- Bio: Programmer for a high school robotics team
+- Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
+
+#### Name: [P PADMAPRASAD SHENOY](https://github.com/ppadmaprasadshenoy)
+- Place: Mangalore, India
+- Bio: 4th year CS student / Front-end Developer
+- GitHub: [P PADMAPRASAD SHENOY](https://github.com/ppadmaprasadshenoy)
 
 #### Name: [Patrick Hübl-Neschkudla](https://github.com/flipace)
 - Place: Vienna, Austria
