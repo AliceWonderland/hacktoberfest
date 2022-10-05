@@ -1,3 +1,8 @@
+#### Name: [ABHISHEK KUMAR SHARMA](https://github.com/agnieszka-miszkurka)
+- Place: Jamshedpur,India
+- Bio: second year Computer Science Student interested in competitive programing
+- GitHub: [Abhishek-Kumar-Sharma69](https://github.com/Abhishek-Kumar-Sharma69)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
