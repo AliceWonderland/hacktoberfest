@@ -1,3 +1,8 @@
+#### Name: [Jaymin Rajgor](https://github.com/ERROR-jpg)
+- Place: Mumbai, India
+- Bio: Third Year Computer Science Student
+- GitHub: [ERROR-jpg](https://github.com/ERROR-jpg)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
