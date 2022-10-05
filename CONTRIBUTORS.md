@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lauren Gayle](https://github.com/laurengayle)
+- Place: Memphis, TN
+- Bio: Computer Science Student
+- Github: [Lauren Gayke](https://github.com/laurengayle)
