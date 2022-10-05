@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Sufian Ansari](https://github.com/SufiyanAnsari30)
+- Place: Mumbai, India
+- Bio: 3rd year IT Engineering Student,love to built web and AR based projects.
+- Github: [Sufian Ansari](https://github.com/SufiyanAnsari30)
