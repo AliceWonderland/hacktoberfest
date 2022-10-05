@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manish Syal](https://github.com/Manish-Syal123)
+- Place:Ahmednagar, Maharashtra , India
+- Bio: Devops,React,Java and Open Source lover
+- Github: [Manish Syal](https://github.com/Manish-Syal123)
