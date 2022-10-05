@@ -219,7 +219,6 @@ to explore life. Also, Python and Django Developer
 - Place: IL, USA
 - Bio: CS Grad Student
 - GitHub: [Amlaan Bhoi](https://github.com/amlaanb)
-
 #### Name: [Ana Perez](https://github.com/anacperez)
 - Place: King City, California, United States
 - Bio: Full-Stack developer, hiking, travel, art, photography
@@ -777,6 +776,11 @@ to explore life. Also, Python and Django Developer
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
 - GitHub: [Ezequiel Pequeño Calvar](https://github.com/remohir)
+
+#### Name: [Aakash Vaishnav] (https://github.com/Aakash441)
+-Place: Mumbai, India
+-Bio: Computer Science Engineering Student
+-GitHub: [Aakash441] (https://github.com/Aakash441)
 
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
 - Place: Kolea, Tipaza, Algeria
