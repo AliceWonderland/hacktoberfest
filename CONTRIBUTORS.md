@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priyanshu Kumar](https://github.com/kumarpriyanshu2k2)
+- Place: Patna,Bihar
+- Bio: Web Developer(MERN),App developer(Flutter)
+- Github: [Priyanshu Kumar](https://github.com/kumarpriyanshu2k2)
+
