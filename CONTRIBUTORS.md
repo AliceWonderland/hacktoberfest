@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nabin Oli](https://github.com/olinabin2004)
+- Place: Musikot, Karnali, Nepal
+- Bio: Student
+- GitHub: [Olinabin2004](https://github.com/olinabin2004)
