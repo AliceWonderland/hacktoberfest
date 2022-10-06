@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nwabufor John](https://github.com/udemezue01)
+- Place: Lagos, Nigeria
+- Bio: Full stack Web Developer and Digital Marketing
+- GitHub: [udemezue John](https://github.com/udemezue01)
