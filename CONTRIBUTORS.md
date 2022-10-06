@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pranshav Patel](https://github.com/pranshavpatel)
+- Place: Ahmedabad, India
+- Bio: CSE Student at Nirma University
+- GitHub: [pranshavpatel](https://github.com/pranshavpatel)
