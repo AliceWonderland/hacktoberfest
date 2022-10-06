@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manaswini Voolapalli](https://github.com/Manaswini123456)
+- Place: Noida, U.P. , India
+- Bio: MERN Developer, Competitive Programmer(C,C++,Python and JAVA) and Graphic designer
+- Github: [Manaswini Voolapalli](https://github.com/Manaswini123456)
