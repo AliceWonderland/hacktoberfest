@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ojas Jaiswal](https://github.com/OjasKr)
+- Place: Dehradun, India
+- Bio: Java and Python
+- Github: [OjasKr](https://github.com/OjasKr)
