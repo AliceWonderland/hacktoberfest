@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tanmay Nath Jha](https://github.com/TanmayNathJha)
+- Place: Chandigarh, India
+- Bio: Senior high school student
+- Github: [Tanmay Nath Jha](https://github.com/TanmayNathJha)
