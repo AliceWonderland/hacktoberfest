@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zoe Blogg](https://github.com/ZoCodes)
+- Place: Leeds, UK
+- Bio: self-taught frontend dev, breaking into the world of tech
+- GitHub: [ZoCodes ](https://github.com/ZoCodes)
