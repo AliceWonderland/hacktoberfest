@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deepika Kumari](https://github.com/dips6202)
+- Place: Jamshedpur, Jharkhand, India
+- Bio: I am a student.
+- Github: [Deepika Kumari](https://github.com/dips6202)
