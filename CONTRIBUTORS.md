@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Smit Patel](https://github.com/smit30patel)
+- Place: Mahesana, India
+- Bio: Web developer and Data Science Entuastic
+- Github: [smit30patel](https://github.com/smit30patel)
