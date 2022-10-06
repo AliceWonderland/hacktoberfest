@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [ELIN SOPIAH](https://github.com/ELINSOPIAH03)
+- Place: Bogor, Indonesia
+- Bio: Mahasiswa
+- Github: [ELINSOPIAH03](https://github.com/ELINSOPIAH03)
