@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Manmohan Singh Sajwan](https://github.com/rishi-kai21)
+- Place: Dehradun,India
+- Bio: Software Devloper, Currently studying B.tech CSE
+- GitHub: [Manmohan SIngh Sajwan](https://github.com/rishi-kai21)
+
