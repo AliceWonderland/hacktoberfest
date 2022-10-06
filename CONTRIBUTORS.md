@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [AKHIL KUMAR](https://github.com/akhil9281)
+- Place: Madhya Pradesh,India
+- Bio: CSE 4th Year, learning backend and DevOps.
+- GitHub: [Akhil Kumar](https://github.com/akhil9281)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
