@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Mujeeb Rahman](https://github.com/mujeeb129)
+- Place: Kannur, Kerala, India
+- Bio: Django Dev.
+- GitHub: [Mujeeb Rahman](https://github.com/mujeeb129)
