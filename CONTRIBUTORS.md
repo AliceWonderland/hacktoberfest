@@ -2412,6 +2412,11 @@ Noida
 - Place:kerala,india
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
+ 
+ #### Name: [Bindu](https://github.com/bindu-07)
+- Place:kerala,india
+- Bio: data scientist
+- Github: [Bindu](https://github.com/bindu-07)
 
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
