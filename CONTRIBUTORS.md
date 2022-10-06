@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prasad Patil](https://github.com/prasadpatil05)
+- Place: Maharashtra,India
+- Bio: Full stack developer(mern stack),devops,data analytics,AI/Ml,API and API securities
+- Github: [Prasad Patil](https://github.com/prasadpatil05)
