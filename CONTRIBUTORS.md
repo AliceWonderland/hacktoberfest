@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [maginati0n] (https://github.com/maginati0n)
+- Place: Yogyakarta, Indonesia
+- Bio: DevOps Engineer
+- Github: [maginati0n] (https://github.com/maginati0n)
