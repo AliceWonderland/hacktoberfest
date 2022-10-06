@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Breno Santos](https://github.com/breno5g)
+- Place: Minas Gerais, Brazil
+- Bio: Backend web developer
+- Github: [Breno Santos](https://github.com/breno5g)
