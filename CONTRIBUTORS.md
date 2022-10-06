@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohit Patil](https://github.com/rohit-raje-786)
+- Place: Mumbai, India
+- Bio: Web and Blockchain Developer
+- Github: [Rohit Patil](https://github.com/rohit-raje-786)
