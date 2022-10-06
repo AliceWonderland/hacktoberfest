@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arthur Roberto](https://github.com/SparkyGuy)
+- Place: São Paulo, Brazil
+- Bio: Studing Web Development
+- Github: [SparkyGuy](https://github.com/SparkyGuy)
