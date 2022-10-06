@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Madhur Yadav](https://github.com/madhurydv)
+- Place:Bhopal,India
+- Bio: Web developer JS
+- Github: [Madhur Yadav](https://github.com/madhurydv)
