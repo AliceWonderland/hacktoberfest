@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Deniernal354](https://github.com/Deniernal354)
+- Place: New York, USA
+- Bio: Web, Javascript and Python Developer
+- Github: [Deniernal354](https://github.com/Deniernal354)
