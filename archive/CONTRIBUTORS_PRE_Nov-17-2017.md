@@ -16680,4 +16680,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
+#### Name: [Navneet Gupta](https://github.com/Nav21000)
+- Place: Mohali, India
+- Bio: Student and Machine learning enthuistic
+- GitHub: [Nav21000](https://github.com/Nav21000)
