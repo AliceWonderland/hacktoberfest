@@ -1774,6 +1774,11 @@ Noida
 - Bio: Programmer for a high school robotics team
 - Github: [ultimatezenzar] (https://github.com/ultimatezenzar)
 
+#### Name: [Pakawat Anekwiroj](https://github.com/hspotlight)
+- Place: Bangkok, Thailand
+- Bio: Software Developer
+- GitHub: [hspotlight](https://github.com/hspotlight)
+
 #### Name: [PANAGIOTIS VLACHOS](https://github.com/PanosVl)
 - Place: Athens, Greece
 - Bio: Undergraduate CS student / Software Developer
