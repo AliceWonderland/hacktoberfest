@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddak Bagga](https://github.com/siddakbagga13)
+- Place: Madhya Pradesh, India
+- Bio: Web developer Frontend, Graphic Designer, Artist
+- Github: [Siddak Bagga](https://github.com/siddakbagga13)
