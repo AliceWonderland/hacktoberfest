@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pedro Dias](https://github.com/diaspd)
+- Place: RS, Brazil
+- Bio: Web and mobile developer
+- Github: [Pedro Dias] (https://github.com/diaspd)
