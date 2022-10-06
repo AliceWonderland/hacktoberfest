@@ -1,3 +1,8 @@
+#### Name: Piyush Gour
+ - Place: India
+ - Bio: Software engineer. Pursuing Masters from VIT University.
+ - GitHub: [Piyush Gour](https://github.com/piyushg1)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
