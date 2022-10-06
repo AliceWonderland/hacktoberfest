@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [igoraza](https://github.com/Igoraza)
+- Place: Kerala , India
+- Bio: Web developer
+- Github: [igoraza](https://github.com/Igoraza)
