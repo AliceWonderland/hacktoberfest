@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jay Gupta](https://github.com/jaygupta-2k)
+- Place: Kota, Rajasthan, India
+- Bio: Machine Learning and Data Science enthusiast.
+- GitHub: [jaygupta-2k](https://github.com/jaygupta-2k)
