@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ishita Bisaria](https://github.com/IshitaBisaria)
+- Place: India
+- Bio: Student keen in learning Web Development
+- GitHub: [Ishita Bisaria](https://github.com/IshitaBisaria)
