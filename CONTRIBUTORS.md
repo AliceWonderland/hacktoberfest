@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amandeep Singh](https://github.com/amancooks08)
+- Place: Indore, India
+- Bio: Student/Developer, Singer, Pianist
+- Github: [amancooks08](https://github.com/amancooks08)
