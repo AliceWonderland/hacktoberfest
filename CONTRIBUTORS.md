@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ieinadex](https://github.com/Ieinadex)
+- Place: Charlotte, NC, USA
+- Bio: Developer of things
+- GitHub: [ieinadex](https://github.com/Ieinadex)
