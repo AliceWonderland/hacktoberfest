@@ -18,6 +18,12 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Shubham](https://github.com/ShubhamP48)
+- Place: Bokaro, Jharkhand, India
+- Bio: Aspiring MERN stack developer.
+- GitHub: [Shubhamp48](https://github.com/ShubhamP48)
+
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
