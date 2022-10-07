@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Hector Quemada](https://github.com/hdquemada)
+- Place: Kalamazoo, Michigan, USA
+- Bio: retired; learning Python and JavaScript
+- Github: [Hector Quemada](https://github.com/hdquemada)
