@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vishesh Tiwari](https://github.com/vishesh-hue)
+ - Place: kanpur, India 
+ - bio: batchlors in cs 
+ - github: [Vishesh Tiwari](https://github.com/vishesh-hue)
