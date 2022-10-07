@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bagus Rizky](https://github.com/bagusrizky15/)
+- Place: Yogyakarta, Indonesia
+- Bio: Java and Flutter
+- Github: [bagusrizky15](https://github.com/bagusrizky15/)
