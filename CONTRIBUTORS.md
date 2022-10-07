@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Verma](https://github.com/addy-301)
+- Place: India
+- Bio: Student, Front-End Developer and Problem Solving
+- Github: [addy-301](https://github.com/addy-301)
