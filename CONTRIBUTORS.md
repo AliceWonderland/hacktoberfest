@@ -1950,6 +1950,11 @@ Noida
 - Bio: Student / Front-end Developer
 - GitHub: [Rizki Ramadhana](https://github.com/rizkiprof)
 
+#### Name: [Rohan Wandre](https://github.com/rohan9024)
+- Place: Thane, Maharashtra, India
+- Bio: Full Stack Dev, App Dev 
+- GitHub: [Rohan Wandre](https://github.com/rohan9024)
+- 
 #### Name: [Rohit Mathew](https://github.com/rohitjmathew)
 - Place: Bangalore, Karnataka, India
 - Bio: Android Developer, Freelancer and Tech Enthusiast
@@ -2427,3 +2432,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [rohan9024](https://github.com/rohan9024)
+- Place: Mumbai, India
+- Bio: Web developer, Machine learning and cpp
+- Github: [rohan9024](https://github.com/rohan9024)
