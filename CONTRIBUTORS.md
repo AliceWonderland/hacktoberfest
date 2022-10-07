@@ -1,3 +1,8 @@
+### Name: Utsav Akash Naskar
+- Place: Kolkata, West Bengal, India
+- Bio: Systems Engineer. Graduated in B. Tech. Computer Science & Technology.
+- GitHub: [Utsav1999](https://github.com/Utsav1999)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
