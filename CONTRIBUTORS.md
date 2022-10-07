@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Aditya Verma](https://github.com/addy-301)
 - Place: India
 - Bio: Student, Front-End Developer and Problem Solving
-- Github: [addy-301](https://github.com/addy-301)
+- Github: [Aditya Verma](https://github.com/addy-301)
