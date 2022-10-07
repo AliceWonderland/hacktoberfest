@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Benjamin Norman](https://github.com/BenjaminN117)
+- Place: East Anglia, England
+- Bio: Cyber Security Student - Python, Linux
+- Github: [Benjamin Norman](https://github.com/BenjaminN117)
