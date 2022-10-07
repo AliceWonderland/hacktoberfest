@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Swadhin Dash](https://github.com/Swadine)
+- Place: Mumbai, Maharashtra, India
+- Bio: Student in Electrical Engineering 
+- GitHub: [Swadine](https://github.com/Swadine)
