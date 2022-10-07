@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nandkishor R](https://github.com/nandkishorr)
+- Place:Kerala,India
+- Bio: Second year Computer Science Student|Web developer.
+- GitHub: [nandkishorr](https://github.com/nandkishorr)
