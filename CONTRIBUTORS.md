@@ -1,3 +1,7 @@
+#### Name: [Abhishek Pandey](https://github.com/bird-03)
+- Place: Bengaluru, Karnataka, India
+- Bio: Software Developer at Amadeus
+- GitHub: [bird-03](https://github.com/bird-03)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
