@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Dishagoel](https://github.com/disha100)
+-Place:UP,India
+-Bio:Computer-science Student
+-Github:[disha](https://github.com/disha100)
+
