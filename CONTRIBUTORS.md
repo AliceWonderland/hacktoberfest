@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gaurav Lomte] (https://github.com/xenocidewiki)
+- Place: India
+- Bio: WebDeveloper
+- GitHub: [gaurav-lomte23] (https://github.com/gaurav-lomte23)
