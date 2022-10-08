@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: ChangHoon Jang
+// GITHUB: https://github.com/Hoon333
+
+console.log('Hello, World!');
