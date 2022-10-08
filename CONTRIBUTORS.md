@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chirag Chakraborty](https://github.com/noobchirag69)
+- Place: Kolkata, West Bengal, India
+- Bio: Full Stack Developer
+- GitHub: [noobchirag69](https://github.com/noobchirag69)
