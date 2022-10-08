@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [aditya99prakash] 
+- Place: India
+- Bio: Web Developer
+- GitHub: [aditya99prakash] (https://github.com/aditya99prakash)
