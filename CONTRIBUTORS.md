@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Gitanjali Gore](https://github.com/gitssz)
+- Place: Pune, Maharashtra, India
+- Bio: Student Developer
+- GitHub: [Gitanjali](https://github.com/gitssz)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
