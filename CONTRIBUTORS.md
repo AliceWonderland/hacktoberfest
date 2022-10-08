@@ -1,3 +1,8 @@
+#### Name: Suraj Kumar Sharma
+ - Place : Lucknow , India
+ - Bio : Web developer, Undergraduate Student 
+ - Github: (https://github.com/surajsharma14)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
