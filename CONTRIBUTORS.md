@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lakshay Chauhan](https://github.com/imlakshaychauhan)
+
+- Education: BTech, Maharaja Surajmal Institute Of Technology, New Delhi, India
+- Place: New Delhi, India
+- Bio: IT Undergrad
+- GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
