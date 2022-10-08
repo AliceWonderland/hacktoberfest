@@ -1,3 +1,8 @@
+#### Name: Dhruv Rawat 
+- Place: New Delhi, India
+- Bio: 3rd Year Information Technology Student , " Think Once, Code Twice "
+- GitHub: [yesdhruv](https://github.com/yesdhruv)
+- 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
