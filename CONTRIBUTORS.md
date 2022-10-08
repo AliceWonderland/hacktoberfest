@@ -7,7 +7,6 @@
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
-
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
@@ -2427,3 +2426,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MarioSec1337] (https://github.com/MarioSec1337)
+- Place: Bali, Indonesian
+- Bio: Cyber Security Researcher - Web Security Analysist
+- GitHub: [mariosec1337] (https://github.com/mariosec1337)
