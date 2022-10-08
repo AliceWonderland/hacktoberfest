@@ -1,3 +1,8 @@
+#### Name: [ADITYA SINGHAL](https://github.com/adityaacse)
+- Place: India
+- Bio: Software Engineer
+- GitHub: [adityaacse](https://github.com/adityaacse)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
