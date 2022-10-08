@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Kritika
+- Place: Pune,Maharashtra
+- Bio: Student
+- Github: Kritika0804(https://github.com/Kritika0804)
