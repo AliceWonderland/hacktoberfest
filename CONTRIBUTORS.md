@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Jha](https://github.com/Adityajha0808)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Aditya Jha](https://github.com/Adityajha0808)
