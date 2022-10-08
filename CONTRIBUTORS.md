@@ -1,3 +1,8 @@
+#### Name: [Shrishti Prakash](https://github.com/Shri-shti)
+- Place: Mathura, Uttar Pradesh, India
+- Bio: Btech(cs) student
+- GitHub: [Shri-shti](https://github.com/Shri-shti)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
