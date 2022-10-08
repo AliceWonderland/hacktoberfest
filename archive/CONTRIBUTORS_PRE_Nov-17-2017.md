@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [ASMA BUTT](https://github.com/AsmaIbrahimButt)
+- Place: Pakistan
+- Bio: Asmabutt cs
+- GitHub: [asma-butt](https://github.com/AsmaIbrahimButt)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -1321,6 +1326,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [Alexander Voigt](https://github.com/alexandvoigt)
 
+
+#### Name: [Asma Butt](GitHub link)
+- Place: Pakistan,Lahore
+- Bio: Student
+- GitHub: [Asmaibrahimbutt](GitHub link)
 #### Name: [Alexander Voigt](https://github.com/alexandvoigt)
 - Place: San Francisco, CA, USA
 - Bio: Software Engineer
