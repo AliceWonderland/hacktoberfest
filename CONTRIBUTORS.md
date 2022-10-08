@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Khushboo Shakya](https://github.com/khushbooshakya)
+- Place: Punjab, India
+- Bio: Web developer PHP and Python
+- Github: [Khushboo Shakya](https://github.com/khushbooshakya)
