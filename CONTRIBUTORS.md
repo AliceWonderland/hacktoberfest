@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishabh Bhardwaj](https://github.com/rbhardy)
+- Place: Delhi, India
+- Bio: PHP and Golang Software Engineer
+- Github: [Rishabh Bhardwaj](https://github.com/rbhardy)
