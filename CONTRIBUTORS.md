@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ahamed-Favas](https://github.com/Ahamed-Favas)
+- Place: Kerala, India
+- Bio: Competitive programmer
+- Github: [Ahamed-Favas](https://github.com/Ahamed-Favas)
