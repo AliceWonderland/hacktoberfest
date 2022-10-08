@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [K.Kirtana](https://github.com/30kirtana)
+- Place: Raipur,Chhattisgarh,India
+- Bio: B.Tech Student
+- GitHub: [K.Kirtana](https://github.com/30kirtana)
