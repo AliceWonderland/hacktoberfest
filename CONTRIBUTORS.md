@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shailesh Kumar Maurya](https://github.com/Shailesh326)
+- Place: Kanpur,India
+- Bio: Second Year IT Student, currently learning Web Development.
+- GitHub: [Shailesh326](https://github.com/Shailesh326)
