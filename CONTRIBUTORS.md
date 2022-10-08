@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Khuzaima Umair](https://github.com/mkhuzaima)
+- Place: Lahore, Pakistan
+- Bio: Desktop Developer in Java, C# and python
+- GitHub: [mkhuzaima](https://github.com/mkhuzaima)
