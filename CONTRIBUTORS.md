@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Anirban Chatterjee
+ - Place: Kharagpur, India
+ - Bio: Auto-didact
+ - GitHub: [Anirban](https://github.com/anirban-oss)
