@@ -1055,6 +1055,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full stack .NET developer (and .NET Core blogger)
 - GitHub: [GaProgMan](https://github.com/GaProgMan)
 
+#### Name: [Jarrian Gojar](https://github.com/godkingjay)
+- Place: Sorsogon, Philippines
+- Bio: 3rd Year Computer Science Student, Web Developer and Mobile Developer
+- GitHub: [GodkingJay](https://github.com/godkingjay)
+
 #### Name: [Jasdy Syarman](https://github.com/akutaktau)
 - Place: Malaysia
 - Bio: PHP Programmer
