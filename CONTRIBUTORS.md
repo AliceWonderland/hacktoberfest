@@ -1,3 +1,8 @@
+#### Name: Maira Usman
+ - Place: Karachi, Pakistan
+ - Bio: Software engineer. Undergrad 
+ - GitHub: [Myrausman](https://github.comMyrausman)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
