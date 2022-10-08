@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ChangHoon Jang](https://github.com/Hoon333)
+- Place: Daegu, Republic of Korea
+- Bio: Jopseeker for Backend Developer
+- Github: [ChangHoon Jang](https://github.com/Hoon333)
