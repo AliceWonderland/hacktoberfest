@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Malhar Chikhale](https://github.com/Malhar-06)
+- Place: Maharashtra, India
+- Bio: Novice | Pursuing Mechanical Engineering
+- Github: [Malhar-06](https://github.com/Malhar-06
