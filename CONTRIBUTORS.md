@@ -1,4 +1,12 @@
+#### Name: VertexAssassins
+ - Place: Meath, Ireland
+ - Bio: Computer Science undergrad, University College Dublin.
+ - GitHub: [VertexAssassins](https://github.com/VertexAssassins)
+
 #### Name: Vallenain
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
