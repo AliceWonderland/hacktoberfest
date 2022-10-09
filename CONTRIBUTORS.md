@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Thxmxs](https://github.com/Thxmxs)
+- Place: Santiago, Chile
+- Bio: Software developer
+- Github: [Thxmxs](https://github.com/Thxmxs)
