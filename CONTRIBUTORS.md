@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akash verma](https://github.com/lusifer65)
+- Place: Noida, Uttar Pradesh, India
+- Bio: MERN Developer Python and Java
+- GitHub: [Lusifer65](https://github.com/lusifer65)
