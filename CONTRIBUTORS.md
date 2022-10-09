@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Debargha Dutta](https://github.com/Debargha2001)
+- Place: Kolkata, WestBengal, India
+- Bio: Software Developer
+- GitHub: [Debargha2001](https://github.com/Debargha2001)
