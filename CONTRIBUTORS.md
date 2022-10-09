@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bhoomik Shetty](https://github.com/Bhoomik250303)
+- Place: Thane, India
+- Bio: Mobile application and Blockchain developer. 
+- Github: [Bhoomik250303](https://github.com/Bhoomik250303)
