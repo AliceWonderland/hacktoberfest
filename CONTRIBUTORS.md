@@ -1,3 +1,8 @@
+#### Name: Parth Panjwani
+ - Place: Rajkot, Gujarat, India
+ - Bio: CSE Student
+ - GitHub:[Parth Panjwani](https://github.com/Parth-Panjwani)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
