@@ -1,3 +1,8 @@
+#### Name: [ARPIT SAHU](https://github.com/Arpit-Sahu)
+- Place: Ranchi, India
+- Bio: IT Student
+- GitHub: [Arpit-Sahu](https://github.com/Arpit-Sahu)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
