@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ANIKET GAWADE](https://github.com/Aniket-gawade)
+- Place: Mumbai, India
+- Bio: Android and Web developer
+- GitHub: [Aniket Gawade](https://github.com/Aniket-gawade)
