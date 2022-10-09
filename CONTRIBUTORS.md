@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Álvaro Emanuel](https://github.com/AlvaroEmanuel20)
+- Place: Bahia, Brazil
+- Bio: Software engineer with focus in web
+- Github: [AlvaroEmanuel20](https://github.com/AlvaroEmanuel20)
