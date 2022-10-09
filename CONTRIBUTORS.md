@@ -1213,6 +1213,12 @@ to explore life. Also, Python and Django Developer
 - Bio: SW Dev
 - GitHub: [masta-bhawk](https://github.com/masta-bhawk)
 
+#### Name: [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
+- Place: New Delhi, India
+- Bio: AIML Specialist, Software Engineer, Doing B.Tech
+- GitHub: [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
+
+
 #### Name: [Joshua Dennis Blackman](https://github.com/JDBlackman)
 - Place: London, United Kingdom
 - Bio: Computer Science Student at Swansea University
