@@ -1,3 +1,6 @@
+Read in any other languegen
+<kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
+
 # 🎃 HacktoberFest Starter Project 🎃
 
 ** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
