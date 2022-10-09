@@ -1,3 +1,8 @@
+#### Name: [ANUGRAH RACHMAN RAMDANY](https://github.com/kidomega-byte/)
+- Place: INDONESIA
+- Bio: I'm a sofware engineer, i love watching movies
+- GitHub: [kidomega-byte](https://github.com/kidomega-byte/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
