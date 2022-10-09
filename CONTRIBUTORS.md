@@ -1,3 +1,7 @@
+#### Name: [Diego Perez Perez](https://github.com/CodeBreaker518)
+ - Place: Guanajuato, Mexico
+ - Bio: Future Frontend-Developer. Studying at the University of Guanajuato.
+ - GitHub: [CodeBreaker518](https://github.com/CodeBreaker518)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
