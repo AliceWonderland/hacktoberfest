@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+### NAME: [Arjava Tripathi](https://github.com/ArjavaTripathi)
+- Place: India
+- Bio: Python Developer
+- Github: [Arjava Tripathi](https://github.com/ArjavaTripathi)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
