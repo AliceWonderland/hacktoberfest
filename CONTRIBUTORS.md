@@ -32,6 +32,12 @@
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
+-
+
+#### Name: [AP aasim](https://github.com/ash07)
+- Place: India
+- Bio: I like to code
+- GitHub: [Ash](https://github.com/ash07)
 
 - Name: Ash 
 - Bio : i like to code
