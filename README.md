@@ -1,5 +1,3 @@
-Read in any other languegen
-<kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
 
 # 🎃 HacktoberFest Starter Project 🎃
 
