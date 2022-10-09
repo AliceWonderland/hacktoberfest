@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bhuvan U Kadlas](https://github.com/bhuvan2002)
+- Place: Mysore, Karnataka, India
+- Bio: Technology enthusiastic!
+- GitHub: [Bhuvan U Kadlas](https://github.com/bhuvan2002)
