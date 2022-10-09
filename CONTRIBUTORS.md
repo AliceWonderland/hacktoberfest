@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+ #### Name: [ANUGRAH RACHMAN RAMDANY](https://github.com/kidomega-byte/)
+- Place: INDONESIA
+- Bio: I'm a sofware engineer, i love watching movies
+- GitHub: [kidomega-byte](https://github.com/kidomega-byte/)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
