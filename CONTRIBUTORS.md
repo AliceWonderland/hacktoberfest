@@ -1,3 +1,8 @@
+#### Name: Rashmi Rekha
+ - Place: Uttar Pardesh , India
+ - Bio: Software engineer. Graduated from MMMUT GORAKHPUR.
+ - GitHub: [Rashmi Rekha](https://github.com/rashmirekhakumari)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
