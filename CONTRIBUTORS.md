@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ujjwal Acharya](https://github.com/ujjwalshiva)
+- Place: India
+- Bio: Web Developer, Python Programmer
+- Github: [Ujjwal Acharya](https://github.com/ujjwalshiva)
