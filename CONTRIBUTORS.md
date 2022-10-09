@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Krish Katyal]([GitHub link](https://github.com/krishkatyal))
+- Place: India
+- Bio: A uni student majoring in cs
+- GitHub: [Krish Katyal]([GitHub link](https://github.com/krishkayal))
