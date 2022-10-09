@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zareen Fatima](https://github.com/zareenf01)
+- Place: Bangalore, India
+- Bio: Student, interested in JavaScript 
+- Github: [Zareen Fatima](https://github.com/zareenf01)
+
