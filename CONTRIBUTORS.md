@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [PRIYANSH JHALORA](https://github.com/Priyansh-Breach)
+- Place: India
+- Bio: third year Computer Science student building a career in AI and Data Science.
+- GitHub: [Priyansh-Breach](https://github.com/Priyansh-Breach)
