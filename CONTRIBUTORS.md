@@ -1,3 +1,8 @@
+#### Name: Unique
+ - Place: Nepal
+ - Bio: Software engineer.
+ - GitHub:[UN1QU3-py](https://github.com/UN1QU3-py)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
