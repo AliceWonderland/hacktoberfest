@@ -1,3 +1,8 @@
+#### Name: Kyryll
+- Place: Warsaw, Poland
+- Bio: Unity/C# developer
+- GitHub: [PanDurko](https://github.com/PanDurko)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.

@@ -1,0 +1,28 @@
+// Author: PanDurko
+// Language: C#
+// Github: https://github.com/PanDurko
+
+namespace PanDurko
+{
+    public class Program 
+    {
+        public static void Main(string[] args) 
+        {
+            Author author = new Author("PanDurko", "https://github.com/PanDurko");
+
+            Console.WriteLine($"Hello World! By {author.Name}, Github: {author.GithubLink}");
+        }
+    } 
+
+    public class Author 
+    {
+        public string Name;
+        public string GithubLink; 
+
+        public Author(string name, string githubLink) 
+        {
+            Name = name; 
+            GithubLink = githubLink; 
+        }
+    }   
+}
