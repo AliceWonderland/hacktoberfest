@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nitigya Joshi] (https://github.com/nitigya-joshi)
+ - Place: Gwalior, India
+ - Bio: Third year student at IIIT Sri City. Full-Stack Web Developer.
+ - GitHub: [nitigya-joshi](https://github.com/nitigya-joshi)
