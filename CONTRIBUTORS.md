@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Noura EL ALLAM](https://github.com/nouraellm)
+- Place: Namur, Belgium
+- Bio: Software Developer
+- Github: [Ítalo Epifânio](https://github.com/nouraellm)
