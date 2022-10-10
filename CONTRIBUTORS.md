@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dev Vijay](https://github.com/DevVj-1)
+- Place: Rajasthan, India
+- Bio: Ethical Hacking enthusiast
+- Github: [Dev Vijay](https://github.com/DevVj-1)
