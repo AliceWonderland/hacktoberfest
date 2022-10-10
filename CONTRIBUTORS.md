@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vanessa Soares](https://github.com/vanessafsoares)
+- Place: São Paulo, Brazil
+- Bio: Software Development Engineer in Test • open source 💚 • she/her ela/dela • proudly 🏳️‍🌈
+- GitHub: [vanessafsoares](https://github.com/vanessafsoares)
