@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Flavio Gomes]https://github.com/skuth)
+- Place: São Paulo, Brazil
+- Bio: CTO at Burh
+- GitHub: [Flavio Gomes](https://github.com/skuth)
