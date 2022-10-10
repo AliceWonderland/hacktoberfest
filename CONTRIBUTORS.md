@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nitish Singh](https://github.com/Singh26Nitish)
+-Place: Faridabad, India
+-Bio: web developer
+-Github: [Nitish Singh](https://github.com/Singh26Nitish)
