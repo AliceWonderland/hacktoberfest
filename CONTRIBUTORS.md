@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aishani Pachauri](https://github.com/Aishanipach)
+- Place: India
+- Bio: React Developer
+- Github:  [Aishanipach](https://github.com/Aishanipach)
