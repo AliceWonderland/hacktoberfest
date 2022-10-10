@@ -1,3 +1,7 @@
+#### Name: [Ayushi Singh](https://github.com/ayushisingh73448)
+- Place: Agra, Uttar Pradesh, India
+- Bio: I am a 3rd year Computer Science student and a I love to code.
+- GitHub: [ayushisingh73448](https://github.com/ayushisingh73448)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
