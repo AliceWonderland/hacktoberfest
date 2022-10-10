@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Islam](https://github.com/ZugaikotsuOne)
+- Place: São Paulo, Brazil
+- Bio: I am currently studying Javascript/Typescript
+- Github: [Islam](https://github.com/ZugaikotsuOne)
+
+
