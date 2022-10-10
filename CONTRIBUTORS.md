@@ -1644,6 +1644,11 @@ Noida
 - Bio: Full Stack Student
 - GitHub: [Murilo Arruda](https://github.com/Passok11)
 
+#### Name: [Trilok Arya] (https://github.com/warmachine0609)
+- Place: MP,India
+- Bio: Web developer
+- Github: [] (https://github.com/warmachine0609)
+
 #### Name: [Musa Barighzaai](https://github.com/mbarighzaai)
 - Place: Toronto, Canada
 - Bio: Front End Developer
