@@ -1,3 +1,8 @@
+#### Name: Aabideen
+ - Place: Peshawar , Pakistan
+ - Bio: 3rd Year Software Engineering Student From FAST NUCES.
+ - GitHub: [GurusGeek](https://github.com/GurusGeek)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
