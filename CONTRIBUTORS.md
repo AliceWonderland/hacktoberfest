@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jbecker7](https://github.com/jbecker7)
+- Place: Los Angeles, California
+- Bio: Aspiring SWE/Web Dev
+- Github [jbecker7](https://github.com/jbecker7)
