@@ -2042,6 +2042,11 @@ Noida
 - Bio: Software Engineer
 - Github: [StegSchreck](https://github.com/StegSchreck)
 
+#### Name: [Sebastian Wu](https://github.com/sebswU)
+- Place: Atlanta, GA, USA
+- Bio: Student
+- Github: [sebswU](https://github.com/sebswU)
+
 #### Name: [Sergey Gorky](https://github.com/sergeygorky)
 - Place: Ukraine
 - Bio: I've Top Rated status in Upwork
