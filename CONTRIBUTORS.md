@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Pranav Sagar
+ - Place: Jaipur, India
+ - Bio: Data Scientist . Undergraduate .
+ - GitHub: [PranavSagar](https://github.com/PranavSagar)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
