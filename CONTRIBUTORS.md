@@ -1,3 +1,8 @@
+#### Name: Yelisetty Priya (https://github.com/kiddo2507)
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Student in third year, trying to get an internship xD.
+- GitHub: [kiddo2507](https://github.com/kiddo2507)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
