@@ -28,6 +28,14 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+
+
+#### Name: [HABEEB LATEEF](https://github.com/devhabeeblateef)
+ - Place: Lagos, Nigeria
+ - Bio: Web Developer
+ - GitHub: [devhabeeblateef](https://github.com/devhabeeblateef)
+
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
