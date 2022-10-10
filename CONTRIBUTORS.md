@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanjay Menaaria](https://github.com/itepifanio](https://github.com/sanjaymenaria03)
+- Place: Rajasthan, India
+- Bio: Web developer React and Flutter.
+- Github: [sanjaymenaria03](https://github.com/itepifanio](https://github.com/sanjaymenaria03)
