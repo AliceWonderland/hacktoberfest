@@ -1764,6 +1764,11 @@ Noida
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
 
+#### Name: [Omkar Mandal](https://github.com/codin-AWMKAR)
+ - Place: Bhubaneswar,India
+ - Bio: Beginner in Web-Dev,Pizza Lover
+ - GitHub: [codin-AWMKAR](https://github.com/codin-AWMKAR)
+
 #### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: Computer Science student at Puc-Mg ,Music lover
