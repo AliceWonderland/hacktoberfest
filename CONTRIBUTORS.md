@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [PRINCI MITTAL](https://github.com/princi2002)
+- Place: Rajasthan , India
+- Bio: Computer science undergrad
+- Github: https://github.com/princi2002
