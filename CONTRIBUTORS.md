@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Gustavo Quilante](https://github.com/quilantera)
+- Place:  Brazil
+- Bio:  Front-end developer with react.js technology
+- Github: [Gustavo Quilante](https://github.com/quilantera)
