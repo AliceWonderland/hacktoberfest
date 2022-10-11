@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nurhaq Halim](https://github.com/halimjr11)
+- Place: Tanjungpinang, Indonesia
+- Bio: Fullstack Enthusiast
+- Github: [Nurhaq Halim](https://github.com/halimjr11)
