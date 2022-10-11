@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [CHRIS TOWNSEND](https://github.com/chris-townsend)
+- Place: South West, UK
+- Bio: Junior Developer
+- GitHub: [Chris Townsend](https://github.com/chris-townsend)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
