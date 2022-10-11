@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daksh Singh](https://github.com/Daksh-964)
+- Place: Pune,Maharashtra, India
+- Bio: Web developer ||Building in Web3.0 
+- Github: [Daksh-964](https://github.com/Daksh-964)
