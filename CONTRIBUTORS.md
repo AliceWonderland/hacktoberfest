@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kshitiz Wagle](https://github.com/kshitizCodes)
+- Place: Lalitpur, Nepal
+- Bio: Student
+- Github: [kshitizCodes](https://github.com/kshitizCodes)
