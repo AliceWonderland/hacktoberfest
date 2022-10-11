@@ -1,3 +1,8 @@
+#### Name: [Anita Kahenya](https://github.com/kahenya-anita)
+- Place: Nairobi, Kenya
+- Bio: Software engineer/Technical Mentor
+- GitHub: [Kahenya-anita](https://github.com/kahenya-anita)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
