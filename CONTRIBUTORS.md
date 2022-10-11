@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayush Pandey] (https://github.com/ayushpandey830)
+- Place: India
+- Bio: Final Year Btech Student in Computer Science
+- GitHub: [ayushpandey830] (https://github.com/ayushpandey830)
