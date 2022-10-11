@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chiya Borkar](https://github.com/DedAvocado)
+- Place: India
+- Bio: Software Engineer
+- GitHub: [DedAvocado](https://github.com/DedAvocado)
