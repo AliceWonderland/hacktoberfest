@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Syed Ubaid](https://github.com/syedubaid11)
+- Place: New Delhi , India
+- Bio: Learning Development
+- GitHub: [Syed Ubaid](https://github.com/syedubaid11)
