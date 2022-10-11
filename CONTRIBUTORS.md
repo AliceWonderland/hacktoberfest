@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanjay Srivatsan S] (https://github.com/sanjaysrivatsan)
+- Place: Mysore, India
+- Bio: Learning webdev and monke enthusiast
+- Github: [sanjaysrivatsan] (https://github.com/sanjaysrivatsan)
