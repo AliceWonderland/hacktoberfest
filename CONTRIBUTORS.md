@@ -2363,6 +2363,11 @@ Noida
 - Bio: Web Developer, Coder | Entering the field of Machine Learning and Data Science
 - GitHub: [mittrayash](https://github.com/mittrayash)
 
+Name:[Akshat Jain](https://github.com/Akshat323)
+- place: jaipur,Rajasthan,India
+- Bio: cyber security
+- GitHub: [Akshat323](https://github.com/Akshat323)  
+
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
