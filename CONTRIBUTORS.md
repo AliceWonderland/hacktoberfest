@@ -1428,6 +1428,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Twitter: [Mahdi Majidzadeh](https://twitter.com/MahdiMajidzadeh/)
 
+#### Name: [Arnav Sharma](https://github.com/0b51d14n217)
+- Place: New Delhi, India
+- Bio: Computer Science Student and UI/UX designer
+- Github: [0b51d14n217](https://github.com/0b51d14n217)
+
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
 - Bio: Computer Science Engineering student at Amity University
