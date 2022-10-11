@@ -1,5 +1,5 @@
 //LANGUAGE: Javascript
 //ENV: Node.js
-//AUTHOR: Ana Perez
+//AUTHOR: Bibhu kiju
 //GITHUB: https://github.com/anacperez
 console.log("Hello, World!");
