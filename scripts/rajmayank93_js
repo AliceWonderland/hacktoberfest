@@ -1,0 +1,20 @@
+/*
+  LANGUAGE: JAVA
+  AUTHOR: rajmayank93
+  GITHUB: https://github.com/rajmayank93
+*/
+
+console.log("Hi this is my COntribution:);
+
+
+// cars Array 
+const cars = [
+  "Saab",
+  "Volvo",
+  "BMW"
+];
+
+
+//date function
+let d= new Date();
+console.log(d);
