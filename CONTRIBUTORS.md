@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tushar Kant Behera](https://github.com/tushar1723)
+- Place: Bhubaneshwar, Odisha, India
+- Bio: A passionate programmer and a beginner in Open Source
+- Github [Tushar Kant Behera](https://github.com/tushar1723)
