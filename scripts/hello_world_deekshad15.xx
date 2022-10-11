@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: deekshad15
+// GITHUB: https://github.com/AliceWonderland
+
+console.log('Hello, World!');
