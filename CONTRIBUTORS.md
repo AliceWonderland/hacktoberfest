@@ -949,6 +949,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Developer, I really like!
 - GitHub: [Henrique Duarte](https://github.com/mustorze)
 
+#### Name: [Himanshu Vishwas](https://himanshu-vishwas.github.io)
+- From: Vaishali,IN
+- Bio: WebDev, Android App Dev
+- Github: [Himanshu Vishwas](https://github.com/himanshu-vishwas)
+- SoloLearn: [MarsMan](https://www.sololearn.com/profile/8864070)
+
 #### Name: [Hoang Ha](https://github.com/halink0803)
 - Place: Hanoi, Vietnam
 - Bio: I love javascript! :cat:
