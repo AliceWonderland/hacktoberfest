@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kunal Kadam](https://github.com/kunal-kadam)
+- Place: Mumbai,, India
+- Bio:Machine Learning and Backend Developer
+- Github: [kunal-kadam](https://github.com/kunal-kadam)
