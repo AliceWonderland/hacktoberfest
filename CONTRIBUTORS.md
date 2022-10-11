@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mayank Gupta](https://github.com/rajmayank93)
+- Place: Bihar,India
+- Bio: Web and Flutter Developer
+- GitHub: [Mayank Gupta](https://github.com/rajmayank93)
