@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikhil Kumar](https://github.com/nickel-28)
+- Place: Bangalore, India
+- Bio: Web Developer, Android Developer (Kotlin)
+- Github: [Nikhil Kumar](https://github.com/nickel-28)
