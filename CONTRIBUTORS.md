@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jatin Agrawal](https://github.com/jatin41)
+- Place: Raipur, India
+- Bio: hii i am a developer
+- Github: [jatin41](https://github.com/jatin41)
