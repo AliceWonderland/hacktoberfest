@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Varshaah Shashidhar](https://github.com/varshaah2407)
+- Place: Mumbai, India
+- Bio: 3rd year engineering undergrad, Full Stack Web developer
+- Github: [Varshaah Shashidhar](https://github.com/varshaah2407)
