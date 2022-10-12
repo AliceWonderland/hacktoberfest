@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gustavo Silva]([https://github.com/itepifanio](https://github.com/gustafsilva))
+- Place: Brasília, Brazil
+- Bio: Software Engineer
+- Github: [Gusta]([https://github.com/itepifanio](https://github.com/gustafsilva))
