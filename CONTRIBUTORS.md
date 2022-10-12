@@ -1,3 +1,8 @@
+#### Name: [AKSHAY KUMAR KUSHWAHA](https://github.com/xiakshay/)
+ - Place: Chandigarh, India
+ - Bio: Problem Solver. Machine Learning Engineer.
+ - GitHub: [xiakshay](https://github.com/xiakshay/)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
