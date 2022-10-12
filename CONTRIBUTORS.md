@@ -2427,3 +2427,13 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [aseelSavvy](https://github.com/aseelSavvy)
+ - Place: kerala, India
+ - Bio: Student
+ - GitHub:  [aseelSavvy](https://github.com/aseelSavvy)
+
+#### Name: [aseelSavvy](https://github.com/aseelSavvy)
+ - Place: kerala, India
+ - Bio: Student
+ - GitHub:  [aseelSavvy](https://github.com/aseelSavvy)
