@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Shreyash Gupta
+ - Place: Jabalpur, India
+ - Bio: Data Scientist. Graduated from BITS Pilani.
+ - GitHub: [Shreyash](https://github.com/shreyash2610)
