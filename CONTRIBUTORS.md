@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anand Tharad](https://github.com/anandtharad)
+- Place: Rourkela, Odisha, India
+- Bio: Web Developer, Coder | Entering the field of Web and App development and much more to explore
+- GitHub: [anandtharad](https://github.com/anandtharad)
