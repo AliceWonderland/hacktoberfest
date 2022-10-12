@@ -125,6 +125,9 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - GitHub: [akanijade] (https://github.com/akanijade/)
 
+#### Name: [Nahyan]
+= Place: somewhere
+
 #### Name: [Akash Goel] (https://github.com/akashgoel1197)
 - Place: India
 - Bio: Gamer
