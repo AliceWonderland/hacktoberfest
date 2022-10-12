@@ -2244,6 +2244,12 @@ Noida
 - Bio: Software Engineering Intern/ Student
 - Github: [tonytran](https://github.com/tonytran)
 
+#### Name: [Swati Jindal](https://github.com/Swatijindal08)
+- Place: India
+- Bio: Software Engineering Student
+- Github: [Swatijindal08](https://github.com/Swatijindal08)
+
+
 #### Name: [Trevor Meadows](https://github.com/tlm04070)
 - Place: Charlotte, North Carolina.
 - Bio: UNC Charlotte coding bootcamp student.
