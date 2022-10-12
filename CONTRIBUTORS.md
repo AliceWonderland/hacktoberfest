@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Singhal](https://github.com/iamadisinghal)
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Competitive Programmer
+- Github: [Aditya Singhal](https://github.com/iamadisinghal)
