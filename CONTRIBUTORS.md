@@ -2430,5 +2430,5 @@ Noida
 
 ### Name: [SREERAG P](https://github.com/sreeragp69)
 -Place: India
--Bio: Computer Science Undergraduate
+-Bio: Computer Science ug student
 -GitHub: [sreeragp69](https://github.com/sreeragp69)
