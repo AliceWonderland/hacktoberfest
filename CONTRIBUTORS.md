@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harits Husnandar](https://github.com/harits-husnandar)
+- Place: Bekasi, Indonesia
+- Bio: Web developer PHP and Flutter
+- Github: [Harits Husnandar](https://github.com/harits-husnandar)
