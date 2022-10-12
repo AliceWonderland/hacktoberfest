@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Imtiaz Epu](https://github.com/ImtiazEpu)
+- Place: Dhaka, Bangladesh
+- Bio: Software Developer || Love to work with Laravel, VueJs, Tailwind CSS & WordPress | Linux Lover | Open Source 
+  Enthusiast
+- Github: [Imtiaz Epu](https://github.com/ImtiazEpu)
