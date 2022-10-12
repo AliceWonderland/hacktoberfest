@@ -16,4 +16,4 @@ BCA @ TU
 
 ### Profile Link
 
-[Joy Kaufman](https://github.com/kshitizCodes)
+[Kshitiz Wagle](https://github.com/kshitizCodes)
