@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [StrawHATDEEPAK] (https://github.com/StrawHATDEEPAK)
+- Place: Gwalior, Madhaya Pradesh
+- Bio: Flutter Developer
+- Github: [StrawHATDEEPAK](https://github.com/StrawHATDEEPAK)
