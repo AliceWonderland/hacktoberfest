@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Mirza SNR](https://github.com/MirzaSNR)
+- Place: Central Java, Indonesia
+- Bio: Front End
+- Github: [Mirza SNR](https://github.com/MirzaSNR)
+
