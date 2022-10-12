@@ -1,3 +1,8 @@
+#### Name: Aryan Panchal
+- Place: Haryana, India
+- Bio: 2nd year Computer Science Student, learning Web Development and Competitive Programming
+- Github: [Aryan-26](https://github.com/Aryan-26)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
