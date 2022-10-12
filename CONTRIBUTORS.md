@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nabiin](https://github.com/Nabiin)
+- Place: Kathmandu, Nepal
+- Bio: Full Stack web developer
+- Github: [Nabiin](https://github.com/Nabiin)
