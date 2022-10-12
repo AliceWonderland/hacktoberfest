@@ -29,7 +29,7 @@
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
-- Place: Poland
+- Place: Poland (in Europe)
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
@@ -44,7 +44,7 @@
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
-- Place: California
+- Place: California(in usa)
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
