@@ -43,11 +43,6 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
-#### Name: [Abdullateef](https://github.com/abdullateef97)
-- Place: Lagos Island, Lagos State, Nigeria
-- Bio: Student Developer
-- GitHub: [Abdullateef](https://github.com/abdullateef97)
-
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
