@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sunday Malgwi](https://github.com/malgwi)
+- Place: Abuja, Nigeria
+- Bio: Web developer and Software Project Manager
+- Github: [Sunday Malgwi](https://github.com/malgwi)
