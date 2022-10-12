@@ -641,6 +641,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Ace Pokemon Trainer with interests in web design, frontend dev, manga, anime, japanese culture and photography
 - GitHub: [theindianotaku](https://github.com/theindianotaku)
 
+#### Name: [Deborshi Chakrabarti] (https://github.com/deborshikun)
+-Place: Calcutta, West Bengal, India
+-Bio: Pursuing CSE in GCECT, Pianist, Sports guy with a sprinkle "physique", learning coding, manga and anime? been there since 2011, otaku & weeb; like photographing stuff.
+-GitHub: [Deborshi Chakrabarti] (https://github.com/deborshikun)
+
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
 
