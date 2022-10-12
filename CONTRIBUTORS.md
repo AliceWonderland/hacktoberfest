@@ -1288,6 +1288,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
 
+#### Name: [KiriNeTo] (https://github.com/KiriNeTo)
+- Place: Lecce, Italy
+- Bio: Student, 16yo
+- GitHub: [KiriNeTo](https://github.com/KiriNeTo)
+
 #### Name: [Klaudia K.](https://github.com/KalpiKK)
 - Place: Poland
 - Bio: IT Student at the University of Wroclaw
