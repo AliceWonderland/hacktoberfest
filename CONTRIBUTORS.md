@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John Marcial](https://github.com/john121904)
+- Place: Philippines
+- Bio: DevOps Engineer
+- Github: [John Marcial](https://github.com/john121904)
