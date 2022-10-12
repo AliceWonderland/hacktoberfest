@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [Igor Oliveira](https://github.com/IgorOliveira42)
+- Place: Bananal, Sao Paulo, Brazil
+- Bio: Python Developer
+- Github: [Igor Oliveira](https://github.com/IgorOliveira42)
