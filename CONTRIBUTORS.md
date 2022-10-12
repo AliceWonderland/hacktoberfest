@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [code-with-rajeev](https://github.com/code-with-rajeev)
+- Place: Dehradun, Uttrakhand, India
+- Bio: CSE Student, who loves to code.
+- GitHub: [code-with-rajeev](https://github.com/code-with-rajeev)
