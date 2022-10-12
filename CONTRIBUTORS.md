@@ -1,7 +1,8 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: [Anirudha Kurhade](https://github.com/anikurhade)
+ - Place: Pune, Maharashtra, India
+ - Bio: Third Year CS Student.
+ - GitHub: [anikurhade](https://github.com/anikurhade)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
