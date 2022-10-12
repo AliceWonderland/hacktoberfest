@@ -77,6 +77,10 @@
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
+### Name :[WARIS AMIR](https://github.com/warisamir)
+- Place :ghaziabad
+- Bio : SD intern
+- Github: [Waris Amir](https://github.com/warisamir)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
