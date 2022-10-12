@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [SOURASISH MONDAL](https://github.com/souraOP)
+- Place: Kolkata, West Bengal, India
+- Bio: Undergrad student and I love to code and play guitar
+- GitHub: [souraOP](https://github.com/souraOP)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
