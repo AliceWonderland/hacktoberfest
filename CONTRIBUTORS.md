@@ -1,3 +1,8 @@
+#### Name: PanDurko
+ - Place: Warsaw, Poland
+ - Bio: Unity GameDeveloper.
+ - GitHub: [PanDurko](https://github.com/PanDurko)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
