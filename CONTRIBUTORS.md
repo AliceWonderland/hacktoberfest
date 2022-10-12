@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Shehroz Irfan](https://github.com/ShehrozIrfan)
 - Place: Lahore, Pakistan
 - Bio: Ruby on Rails
-- Github: [Ítalo Epifânio](https://github.com/ShehrozIrfan)
+- Github: [Shehroz Irfan](https://github.com/ShehrozIrfan)
