@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shehroz Irfan](https://github.com/ShehrozIrfan)
+- Place: Lahore, Pakistan
+- Bio: Ruby on Rails
+- Github: [Ítalo Epifânio](https://github.com/ShehrozIrfan)
