@@ -1,24 +1,14 @@
 # Your Name
 
+N.Sankaranarayanan
+
 ### Location
 
-Your City/Country
-
-### Academics
-
-Your School
-
-### Interests
-
-- Some Things You Like
-
-### Development
-
-- Inventor of the My Pillow
+Hyderabad/Telangana
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [https://github.com/nsankar1987/hacktoberfest](https://github.com/nsankar1987/) Short Description
 
 ### Profile Link
 
