@@ -1,4 +1,4 @@
-# Darshan Ghorpade (https://www.linkedin.com/in/darshan-ghorpade/)
+# [Darshan Ghorpade](https://www.linkedin.com/in/darshan-ghorpade/)
 
 ### Location
 
