@@ -1,3 +1,8 @@
+#### Name: N.Sankaranarayanan
+ - Place: Hyderabad, Telangana
+ - Bio: Software engineer.
+ - GitHub: [nsankar1987](https://github.com/nsankar1987/hacktoberfest)
+  
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
