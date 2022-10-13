@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Krishna Kanta Pal](https://github.com/kkpal02)
+- Place: Kolkata, India
+- Bio: Programmer
+- Github: [Krishna Kanta Pal](https://github.com/kkpal02)
