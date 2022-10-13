@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Harsh
+ - Place: Tempe, Arizona, United States
+ - Bio: Software engineer. MS CS @ ASU
+ - GitHub: [Harsh](https://github.com/mastermindharsh)
