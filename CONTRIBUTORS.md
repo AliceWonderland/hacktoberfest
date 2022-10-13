@@ -1,3 +1,8 @@
+#### Name: [Ibrahim Michael](https://github.com/Simmedia)
+- Place: Ede, Osun, Nigeria
+- Bio: Second year Computer Science Student, Aspiring Software Engineer
+- GitHub: [Michael](https://github.com/Simmedia)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
