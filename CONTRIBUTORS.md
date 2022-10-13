@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pushpit Sahay](https://github.com/PushpitSahay)
+- Place: Haldia, West Bengal, India
+- Bio: I'm a Graphic Designer and Front-End Web Developer
+- GitHub: [PushpitSahay](https://github.com/PushpitSahay)
