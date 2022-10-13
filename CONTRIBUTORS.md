@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pulkit Garg](https://github.com/pulkitgarg784)
+- Place: Waterloo, Canada
+- Bio: Game Designer and Developer
+- Github: [Pulkit Garg](https://github.com/pulkitgarg784)
