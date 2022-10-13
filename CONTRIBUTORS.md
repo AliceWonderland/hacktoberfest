@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kushank Singh](https://github.com/itepifanio)
+- Place: Florida, USA
+- Bio: Software Developer
+- Github: [Kushank Singh](https://github.com/kushank1207)
