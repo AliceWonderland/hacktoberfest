@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [alexdruso](https://github.com/alexdruso)
+ - Place: Stuttgart, Germany
+ - Bio: Data Scientist :).
+ - GitHub: [alexdruso](https://github.com/alexdruso)
+
