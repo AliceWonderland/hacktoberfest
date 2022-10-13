@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nombasa More](https://github.com/nombasamore)
+- Place: Pretoria, South Africa
+- Bio: BSc Honors geoinformatics student at the University of Pretoria
+- Github: [Nombasa More](https://github.com/nombasamore)
