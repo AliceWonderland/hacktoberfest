@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amit Dudhankar] 
+- Place : Maharashtra, India
+- Bio: Web developer, Newbie
+- Github: [Amit Dudhankar] (https://github.com/amitdudhankar)
