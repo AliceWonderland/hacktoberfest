@@ -1,0 +1,36 @@
+#include<iostream>  									//simple-calculator by switch case
+using namespace std;
+int main()
+{
+	int a,b,k;
+	
+	cout<<"Enter A:";
+	cin>>a;
+	
+	cout<<"Enter B:";
+	cin>>b;
+	
+	cout<<"OPERATIONS: \n 1]ADDITION \n2]SUBTRACTION \n3]MULTIPLICATION \n4]DIVISION \nYour choice is :";
+	cin>>k;
+
+	switch (k)
+	{
+	case 1:
+		cout<<"Addition:"<<	a+b <<endl;
+		break;
+	case 2:
+		cout<<"Subtraction:"<<a-b<<endl;
+		break;
+	case 3:
+		cout<<"MUltiplication:"<<a*b<<endl;
+		break;
+	case 4:
+		cout<<"Division:"<<a%b;
+		break;
+	default:
+		cout<<"Enter Valid Choice;";
+		break;
+	}
+	return 0;
+}
+
