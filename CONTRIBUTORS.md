@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaibhav Dubey](https://github.com/Vaibhav-Dubey)
+- Place: Maharashtra,India
+- Bio: A MEAN stack developer.
+- GitHub: [Vaibhav Dubey](https://github.com/Vaibhav-Dubey)
