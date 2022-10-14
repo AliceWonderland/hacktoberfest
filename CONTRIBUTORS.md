@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ #### Name: Vallenain
+ - Place: Delhi ,India
+ - Bio: B.tech student at JSSATE Noida
+ - GitHub: [Abro0058T](https://github.com/Abro0058T)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
