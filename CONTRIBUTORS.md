@@ -1,3 +1,8 @@
+#### Name: [Kevin Schroeder](https://github.com/kevins0101)
+- Place: Hanover, Germany
+- Bio: Software Developer
+- GitHub: [kevins0101](https://github.com/kevins0101)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
