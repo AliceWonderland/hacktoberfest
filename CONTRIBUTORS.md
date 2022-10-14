@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ankit Adhikari](https://github.com/anky19)
+- Place: Chitwan, Nepal
+- Bio: Engineering student
+- Github: [Ankit Adhikari](https://github.com/anky19)
