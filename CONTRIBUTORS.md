@@ -1,3 +1,10 @@
+#### Name: Shannon
+ - Place: Norman, OK
+ - Bio: Newbie Coder. Graduated from the University of Oklahoma.
+ - GitHub: [ShannonNix](https://github.com/ShannonNix)
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
