@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Madushani Rodrigo](https://github.com/MadushaniR)
+- Place: Colombo, Sri Lanaka
+- Bio: Front-end developer
+- Github: [MadushaniRodrigo](https://github.com/MadushaniR)
