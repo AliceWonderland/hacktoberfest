@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Angga Widianto](https://github.com/anggawydi)
+- Place: Tangerang, Indonesia
+- Bio: Software Engineer
+- Github: [anggawydi](https://github.com/anggawydi)
