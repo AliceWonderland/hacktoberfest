@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: Shivam
+ - Place: Chennai, India
+ - Bio: Software engineer. Graduated from VIT.
+ - GitHub: [Shivam](https://github.com/shivam-akhouri)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
