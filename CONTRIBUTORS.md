@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Umair Rajput](https://github.com/Umairajput)
+- Karachi, Pakistan
+- Student
+- Github: [Umair Rajput](https://github.com/Umairajput)
