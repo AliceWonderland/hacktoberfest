@@ -13316,6 +13316,31 @@ Noida
 - Bio: Student / Front-end Developer
 - GitHub: [Rizki Ramadhana](https://github.com/rizkiprof)
 
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+- Place: Jakarta, Indonesia
+- Bio: Freelancer / Freelancer and Front-end Developer
+- GitHub: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+- Place: Jakarta, Indonesia
+- Bio: Freelancer / Freelancer and Front-end Developer
+- GitHub: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+- Place: Jakarta, Indonesia
+- Bio: Freelancer / Freelancer and Front-end Developer
+- GitHub: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+- Place: Jakarta, Indonesia
+- Bio: Freelancer / Freelancer and Front-end Developer
+- GitHub: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+- Place: Jakarta, Indonesia
+- Bio: Freelancer / Freelancer and Front-end Developer
+- GitHub: [Rizky Husain](https://github.com/mrzkyhsn8)
+
 #### Name: [Rohit Mathew](https://github.com/rohitjmathew)
 - Place: Bangalore, Karnataka, India
 - Bio: Android Developer, Freelancer and Tech Enthusiast
