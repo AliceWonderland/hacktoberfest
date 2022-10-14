@@ -1,3 +1,8 @@
+#### Name: Swana Simran Singh
+ - Place: Chennai, India
+ - Bio: Software Engineer. 
+ - GitHub: [Swana](https://github.com/swanasingh)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
