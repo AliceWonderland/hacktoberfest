@@ -2423,6 +2423,11 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Puspakirana](https://github.com/puspakirana)
+- Place: Indonesia
+- Bio: Developer
+- GitHub: [Veronika Tolpeeva](https://github.com/puspakirana)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
