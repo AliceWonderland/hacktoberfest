@@ -1,3 +1,8 @@
+#### Name: [Aditya Raj](https://github.com/Aditya2254)
+- Place: Patna, Bihar, India
+- Bio: I am a final Year comp sci student
+- GitHub: [Aditya2254](https://github.com/Aditya2254)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
