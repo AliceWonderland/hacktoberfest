@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Javascript Calculator</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="empty"></div>
+			
+			<div class="calculator">
+				<div class="display">
+					<span id="current-calc"></span>
+					<br>
+					<span id="result">0</span>
+				</div>
+				<div class="row">
+					<span data-key="Backspace" id="other">&#8592;</span>
+					<span data-key="?" id="other">&plusmn;</span>
+					<span data-key="%" id="other">&percnt;</span>
+					<span data-key="/" id="operator">&divide;</span>
+				</div>
+				<div class="row">
+					<span data-key="7" id="num">7</span>
+					<span data-key="8" id="num">8</span>
+					<span data-key="9" id="num">9</span>
+					<span data-key="*" id="operator">&times;</span>
+				</div>
+				<div class="row">
+					<span data-key="4" id="num">4</span>
+					<span data-key="5" id="num">5</span>
+					<span data-key="6" id="num">6</span>
+					<span data-key="-" id="operator">&minus;</span>
+				</div>
+				<div class="row">
+					<span data-key="1" id="num">1</span>
+					<span data-key="2" id="num">2</span>
+					<span data-key="3" id="num">3</span>
+					<span data-key="+" id="operator">&plus;</span>
+				</div>
+				<div class="row">
+					<span data-key="Delete" id="del">CE</span>
+					<span data-key="0" id="num">0</span>
+					<span data-key="." id="other">.</span>
+					<span data-key="Enter" id="equ">&equals;</span>
+				</div>
+			</div>
+			<div>
+				<div class="histo-calcul"></div>
+    				<div class="toolsbar">
+      					<button id="link" onclick="window.open('https://github.com/VydrOz/Javascript-Calculator', '_blank');">
+						<i class="fab fa-github fa-lg" aria-hidden="true"></i>
+				      	</button>
+				      	<button id="link" onclick="window.open('https://codepen.io/vydroz/pen/jOGywpO', '_blank');">
+						<i class="fab fa-codepen fa-lg"></i>
+				      	</button>
+      					<button id="theme-switch">🌞</button>
+    				</div>
+  			</div>
+		</div>
+		
+		<script src="https://kit.fontawesome.com/f28b055962.js" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="scripts/script.js"></script>
+	</body>
+</html>
