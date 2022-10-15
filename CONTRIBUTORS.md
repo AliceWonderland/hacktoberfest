@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [ANKUSH MALLICK](https://github.com/ankushmallick1100)
+- Place: Kolkata, India
+- Bio: Third Year B.tch(Computer Science and Engineering) student
+- GitHub: [ankushmallick1100](https://github.com/ankushmallick1100)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
