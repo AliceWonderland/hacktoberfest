@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shashank K V](https://github.com/Shashank-K-V)
+- Place: Bengaluru, India
+- Bio: CSE student
+- Github: [Shashank-K-V](https://github.com/Shashank-K-V)
