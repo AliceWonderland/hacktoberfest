@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Naufal Rachmandani](https://github.com/NaufalRachmandani)
+- Place: Bekasi, Indonesia
+- Bio: Mobile Developer
+- Github: [NaufalRachmandani](https://github.com/NaufalRachmandani)
