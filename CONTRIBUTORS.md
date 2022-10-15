@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Lucrécia, Brazil
+ - Bio: Software engineer. 
+ - GitHub: [Vallenain](https://github.com/bruna-luc)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
