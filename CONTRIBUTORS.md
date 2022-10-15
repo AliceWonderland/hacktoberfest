@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [KamalDeep](https://github.com/sdeep1998)
+- Place: Punjab, India
+- Bio: Android Dev, Java Programmer, AOSP Dev
+- Github: [KamalDeep](https://github.com/sdeep1998)
