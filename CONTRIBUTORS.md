@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Taimur Shahzad Gill](https://linkedin.com/taimur-shahzad-gill)
+- Place: Karachi, Pakistan
+- Bio: Aspiring Data Analyst & Python Developer
+- Github: [Ítalo Epifânio](https://github.com/taymuur)
