@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ankit Akash (https://github.com/ankit-akash)
+-Place: Bangalore,India
+- Bio: student | computer science.
+- Github: [ankit-akash](https://github.com/ankit-akash)
