@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Victor Hugo Chavez](https://github.com/VictorHugoChavez)
+- Place: CDMX, Mexico
+- Bio: Desarrollador Backend y Front end
+- Github: [Victor Hugo Chavez](https://github.com/VictorHugoChavez)
