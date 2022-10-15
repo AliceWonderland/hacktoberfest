@@ -16680,4 +16680,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ahmad Uba Ahmad](https://github.com/Ahmadubah)
+- Place: Kano, Nigeria
+- Bio: Frontend developer, UX designer
+- Github: [Dev-Ahmadubah](https://github.com/Ahmadubah)
 
