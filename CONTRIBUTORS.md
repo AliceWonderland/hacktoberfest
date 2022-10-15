@@ -2426,4 +2426,7 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)#### Name: Sajal Mandrekar (https://github.com/sajalmandrekar)
+- Place: Gurgao[D[D[Du[C[Dgao, Haryana, India
+- Bio: developer
+- GitHub: sajalmandrekar (https://github.com/sajalmandrekar)
