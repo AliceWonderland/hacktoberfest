@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yasira Fatima](https://github.com/yf151290)
+- Place: Gorakhpur,Uttar Pradesh,Gorakhpur
+- Bio: Student of Masters In Computer Application .
+- GitHub: [yf151290](https://github.com/yf151290)
