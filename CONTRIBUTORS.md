@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sayyed Nabeel Ahmad](https://github.com/sayyed-nabeel)
+ - Place: Chennai, India
+ - Bio: CSE - Data Analytics Student
+ - GitHub: [sayyed-nabeel](https://github.com/sayyed-nabeel)
