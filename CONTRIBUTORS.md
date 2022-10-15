@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name : [Haseeb Ahmed] (https://github.com/Halmoside)
+ - Place : UttarPradesh, India
+ - Bio : Competitive Programmer, Maching Learning Student, App Developer
+ - GitHub : [Halmoside] (https://github.com/Halmoside)
