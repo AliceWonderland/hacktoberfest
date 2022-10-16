@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [KUMAR ASHISH RANJAN](https://github.com/dev-AshishRanjan)
+
+- Place: India
+- Bio: second year Computer Science Student, from India.
+- GitHub: [dev-AshishRanjan](https://github.com/dev-AshishRanjan)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
