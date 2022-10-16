@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [RAHUL SINHA](https://github.com/boy-who-codes/)
+- Place: India
+- Bio: I am a machine :robot:
+- GitHub: [boy-who-codes](https://github.com/boy-who-codes/)
+
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
