@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arnaduga](https://github.com/arnaduga)
+- Place: Near Paris, France
+- Bio: Tech
+- Guthub: [Arnaduga](https://github.com/arnaduga)
