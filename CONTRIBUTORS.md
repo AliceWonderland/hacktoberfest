@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanika Ardekar](https://github.com/sanikaardekar)
+- Place: Mumbai, India
+- Bio: Frontend Web Developer, Learning ML and Data Analytics
+- Github: [Sanika Ardekar](https://github.com/sanikaardekar)
