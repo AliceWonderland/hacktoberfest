@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Abhiuday Sinha](https://github.com/Abhiuday03)
+- Place: Bhilai
+- Bio: CS Student
+- Github: [Abhiuday Sinha](https://github.com/Abhiuday03)
+
