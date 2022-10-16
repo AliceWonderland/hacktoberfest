@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Umesh Pal Singh](https://github.com/umeshpalsingh)
+- Place: Noida, India
+- Bio: Front-End Developer
+- GitHub: [umeshpalsingh](https://github.com/umeshpalsingh)
