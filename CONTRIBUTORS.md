@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fata](https://github.com/kawniy)
+- Place: Indonesia
+- Bio: Student and PHP Developer
+- Github: [Fata](https://github.com/kawniy)
