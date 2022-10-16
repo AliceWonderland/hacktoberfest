@@ -2259,6 +2259,11 @@ Noida
  - Bio: Literally gamer, geek and viking.
  - GitHub: [turkerdotpy](https://github.com/turkerdotpy)
 
+#### Name: [Udai Gupta](https://github.com/codeud)
+- Place: India
+- Bio: Student, CS Engineer
+- Github: [Udai Gupta](https://github.com/codeud)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
