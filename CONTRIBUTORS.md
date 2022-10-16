@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Uday Kharatmol](https://github.com/UdayKharatmol)
+- Place: India
+- Bio: second year Computer Science Student, in love with coading.
+- GitHub: [UdayKharatmol](https://github.com/UdayKharatmol)
