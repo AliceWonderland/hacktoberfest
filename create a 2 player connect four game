@@ -1,0 +1,154 @@
+Connect Four Main Code
+%Calls the function to create a board
+board = zeros(6,7);
+%Will record if the game is still running
+game = true;
+%tells if it is player 1 or player 2's turn
+playerturn = 0;
+turncounter = 1;
+while (game == true)
+ %Player 1's Turn
+ if playerturn == 0
+ selectedcol = input('Player 1, please select the column you want to
+play (1 -> 7)');
+ if check_location(board,selectedcol)
+ row = next_row(board,selectedcol);
+ board = place_piece(board, row, selectedcol, 1);
+ board
+ end
+
+
+
+ %Checks for horizotal win
+ for r=1:6
+ for c=1:4
+ if (board(r,c) == 1 && board(r,c+1) == 1 && board(r,c+2)
+== 1 && board(r,c+3) == 1)
+ fprintf('Player 1 Wins!!!!!!!!!!!!!!!! \n')
+ game = false;
+ end
+ end
+ end
+
+ %Checks for vertical
+
+ for r=1:3
+ for c=1:7
+ if (board(r,c) == 1 && board(r+1,c) == 1 && board(r+2,c)
+== 1 && board(r+3,c) == 1)
+ fprintf('Player 1 Wins!!!!!!!!!!!!!!!! \n')
+ game = false;
+ end
+ end
+ end
+
+ %Checks for positive diagonal (/)
+ for r=4:6
+ for c=1:4
+ if (board(r,c) == 1 && board(r-1,c+1) == 1 && board(r2,c+2) == 1 && board(r-3,c+3) == 1)
+ fprintf('Player 1 Wins!!!!!!!!!!!!!!!! \n')
+ game = false;
+ end
+ end
+ end
+
+ %Checks for negative diagonal (\)
+ for r=1:3
+ for c=1:4
+ if (board(r,c) == 1 && board(r+1,c+1) == 1 &&
+board(r+2,c+2) == 1 && board(r+3,c+3) == 1)
+ fprintf('Player 1 Wins!!!!!!!!!!!!!!!! \n')
+ game = false;
+ end
+ end
+ end
+
+ if (turncounter == 42)
+ fprintf('The game is a TIE!!!!!!!!')
+game = false;
+ end
+
+
+
+
+ turncounter = turncounter + 1;
+
+ end
+
+ if playerturn == 1
+ selectedcol = input('Player 2, please select the column you want to
+play (1 -> 7)');
+ if check_location(board,selectedcol)
+ row = next_row(board,selectedcol);
+ board = place_piece(board, row, selectedcol, 2);
+ board
+ end
+
+ % Checks Horizontal
+ for r=1:6
+ for c=1:4
+ if (board(r,c) == 2 && board(r,c+1) == 2 && board(r,c+2)
+== 2 && board(r,c+3) == 2)
+ fprintf('Player 2 Wins!!!!!!!!!!!!!!!!')
+game = false;
+ end
+ end
+ end
+
+ %Checks fo vertical
+ for r=1:3
+ for c=1:7
+ if (board(r,c) == 2 && board(r+1,c) == 2 && board(r+2,c)
+== 2 && board(r+3,c) == 2)
+ fprintf('Player 2 Wins!!!!!!!!!!!!!!!! \n')
+ game = false;
+ end
+ end
+ end
+
+ %Checks for positive diagonal (/)
+ for r=4:6
+ for c=1:4
+ if (board(r,c) == 2 && board(r-1,c+1) == 2 && board(r2,c+2) == 2 && board(r-3,c+3) == 2)
+ fprintf('Player 2 Wins!!!!!!!!!!!!!!!! \n')
+ game = false;
+ end
+ end
+ end
+
+ %Checks for negative diagonal (\)
+ for r=1:3
+ for c=1:4
+ if (board(r,c) == 2 && board(r+1,c+1) == 2 &&
+board(r+2,c+2) == 2 && board(r+3,c+3) == 2)
+ fprintf('Player 2 Wins!!!!!!!!!!!!!!!! \n')
+ game = false;
+ end
+ end
+ end
+
+ %checks for tie
+ if (turncounter == 42)
+ fprintf('The game is a TIE!!!!!!!!')
+ game = false;
+ end
+
+ turncounter = turncounter + 1;
+ end
+playerturn = playerturn +1;
+playerturn = mod(playerturn,2);
+end
+-------------------Connect Four Function- Next Location------------------
+%Check to see if the column the user selected is open
+function output = check_location(board, selectedcol)
+output = (board(1,selectedcol) == 0);
+end
+-------------------Connect Four Function- Next Row------------------------
+%Finds the next available row in the users selected column
+function row = next_row(board, selectedcol)
+for r=1:6
+ if board(r,selectedcol) == 0
+ row = r;
+ end
+end
+end
