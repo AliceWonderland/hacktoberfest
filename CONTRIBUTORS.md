@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soham Desai](https://github.com/SohamDesai1)
+- Place: Mumbai, India
+- Bio: Web developer React and Next
+- Github: [Soham Desai](https://github.com/SohamDesai1)
