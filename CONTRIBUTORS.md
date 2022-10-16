@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sahil Batra](https://github.com/infotechprogrammer)
+- Place: Punjab, India
+- Bio: Web developer PHP and JavaSCript, Database Administrator Oracle
+- Github: [Sahil Batra](https://github.com/infotechprogrammer)
