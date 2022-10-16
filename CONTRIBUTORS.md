@@ -1,3 +1,9 @@
+#### Name: Shivam Pandey
+ - Place: Noida, India
+ - Bio: Software engineer. Graduating from AKTU India.
+ - GitHub: [Shivam](https://github.com/shivvamm)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
