@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Wajahat Ali](https://github.com/DablewCodes)
+- Place: Gujrat, Punjab, Pakistan
+- Bio: CS Student, Python Developer, VA
+- GitHub: [DablewCodes](https://github.com/DablewCodes)
