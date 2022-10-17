@@ -1,3 +1,8 @@
+#### Name: Anirudh Jalan
+ - Place: Kolkata, WestBengal , India
+ - Bio: coder , developer , creator 
+ - GitHub: [AnirudhJalan](https://github.com/AnirudhJalan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
