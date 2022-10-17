@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anirudh Jalan](https://github.com/AnirudhJalan)
+- Place: Kolkata, WestBengal, India
+- Bio: coder, developer , hustler, creator 
+- Github: [Anirudh Jalan](https://github.com/AnirudhJalan)
