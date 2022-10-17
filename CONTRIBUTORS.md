@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Patriot Tech Club](https://github.com/PatriotTC)
+- Place: North Carolina, USA
+- Bio: High school techology club
+- Github: [PatriotTC](https://github.com/PatriotTC)
