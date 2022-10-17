@@ -1,3 +1,8 @@
+#### Name: Aadit Bhargava
+ - Place: Goa, India
+ - Bio: Incoming QTE Intern at D.E. Shaw
+ - Github: [Aadit Bhargava](https://github.com/Bhargava-Aadit)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
