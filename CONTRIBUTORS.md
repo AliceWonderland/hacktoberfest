@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shreyoshi] (https://github.com/Shreyoshi5000)
+- Place: Kolkata, India
+- Bio: BTech student
+- Github: [Shreyoshi] (https://github.com/Shreyoshi5000)
