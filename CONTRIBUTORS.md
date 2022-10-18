@@ -1,4 +1,9 @@
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
+- Place: N.Sankaranarayanan, India
+- Bio: Graduate
+- GitHub: [rutuke](https://github.com/nsankar1987/)
+
+#### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
 - GitHub: [rutuke](https://github.com/rutuke)
