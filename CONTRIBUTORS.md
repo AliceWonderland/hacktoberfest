@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muhammad Ahsan](https://github.com/pranav-cs)
+- Place: Pakistan
+- Bio: Love to inovate
+- GitHub: [Muhammad Ahsan](https://github.com/0ahsan1)
