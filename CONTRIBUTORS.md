@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ankita Sikdar](https://github.com/AnkitaSikdar005)
+- Place: Kolkata,West Bengal,India
+- Bio: Student
+- GitHub: [AnkitaSikdar005](https://github.com/AnkitaSikdar005)
