@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arghadip Chatterjee](https://github.com/Arghadip-Chatterjee)
+- Place: Kolkata, West Bengal, India
+- Bio: Student
+- GitHub: [Arghadip-Chatterjee](https://github.com/Arghadip-Chatterjee)
