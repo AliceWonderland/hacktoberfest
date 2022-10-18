@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parthiv Anil](https://github.com/Parthiv31)
+- Place: Natal, Brazil
+- Bio: Coder who loves to contribute
+- Github: [Parthiv Anil](https://github.com/Parthiv31)
