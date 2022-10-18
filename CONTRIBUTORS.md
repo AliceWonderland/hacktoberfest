@@ -663,6 +663,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Front end web developer.
 - GitHub: [Douglasfeuser](https://github.com/Douglasfeuser)
 
+#### Name: [Durgesh Mehar](https://github.com/durgeshmehar)
+- Place: Bhandara
+- Bio: Fronted developer ,competative coder
+- GitHub: [Durgesh Mehar](https://github.com/durgeshmehar) 
 #### Name: [Dushyant Rathore](https://github.com/dushyantRathore)
 - Place: New Delhi, India
 - Bio: Student
