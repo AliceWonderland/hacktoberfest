@@ -1,3 +1,7 @@
+#### Name: [Raunak](https://github.com/raunaksaigal)
+- Place: Kolkata, West Bengal, India
+- Bio: First Year Student in Artificial Intelligence and Machine Learning
+- GitHub: [Raunak](https://github.com/raunaksaigal)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
