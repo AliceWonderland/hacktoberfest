@@ -13,6 +13,13 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Allesandria Bargallo](https://github.com/abargallo19)
+- Place: North Carolina
+- Bio: Software Engineer 
+- GitHub:[Allesandria](https://github.com/abargallo19)
+
+
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
