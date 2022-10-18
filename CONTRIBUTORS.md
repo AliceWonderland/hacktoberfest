@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Parthiv Anil](https://github.com/Parthiv31)
 - Place: Natal, Brazil
 - Bio: Coder who loves to contribute
-- Github: [Parthiv Anil](https://github.com/Parthiv31)
+- Github: [Parthiv31](https://github.com/Parthiv31)
