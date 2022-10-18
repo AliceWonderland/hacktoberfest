@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [syed zohaib ali](https://github.com/ZohaiAli)
+- Place: Karachi , Pakistan
+- Bio: Web developer PHP and Python
+- Github: [syed zohaib ali](https://github.com/ZohaiAli)
+- 
