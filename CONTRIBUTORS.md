@@ -2,6 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&width=200&height=20&lines=Kunal+Upadhyay+...)
+- Place : India
+- Blog : [Code_With_Kunal](https://code-with-kunal.blogspot.com)
+- Github : [Kunal-Upadhyay](https://www.github.com/Kunal-Upadhyay)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
