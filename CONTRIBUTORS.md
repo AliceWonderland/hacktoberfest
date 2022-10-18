@@ -2413,6 +2413,11 @@ Noida
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
+#### Name: [tarekazzazi](https://github.com/tarekazzazi)
+- Place: Minneapolis, Minnesota, USA
+- Bio: Full Stack Engineer
+- GitHub: [tarekazzazi](https://github.com/tarekazzazi)
+
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
 - Bio: financial software consultant
