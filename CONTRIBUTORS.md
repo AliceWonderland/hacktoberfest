@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ESHAAN ANAND](https://github.com/eshaananand)
+- Place: India
+- Bio: Student
+- GitHub: [Eshaan Anand](https://github.com/eshaananand)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
