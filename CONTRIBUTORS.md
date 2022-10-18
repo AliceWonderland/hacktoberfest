@@ -2,7 +2,7 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+f
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
@@ -1421,7 +1421,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Anik Datta](https://github.com/ANIK-DATTA)
 - Place: India
 - Bio: SDE 1
-- GitHub: [Anik Datta]](https://github.com/ANIK-DATTA)
+- GitHub: [Anik Datta](https://github.com/ANIK-DATTA)
 
 #### Name: [M K]
 - Place: Ko Tao, Thailand
