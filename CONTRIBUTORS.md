@@ -1,3 +1,8 @@
+#### Name: [Farhan Dwi](https://github.com/Schutz3)
+- Place: Bogor, Indonesia
+- Bio: Backend developer
+- Github: [Schutz3](https://github.com/Schutz3)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2428,7 +2433,3 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Farhan Dwi](https://github.com/Schutz3)
-- Place: Bogor, Indonesia
-- Bio: Backend developer
-- Github: [Schutz3](https://github.com/Schutz3)
