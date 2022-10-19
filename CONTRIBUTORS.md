@@ -1,3 +1,8 @@
+#### Name: Roya Rashidi 
+- Place: Arkansas,US
+- Bio: Computer Scientist with a love for yoga and fur babies 
+- GitHub: [groovypersian97](https://github.com/groovypersian97)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
