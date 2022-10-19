@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vanshika Sikarwar](https://github.com/Vanshika-RJIT)
+- Place: Gwalior, Madhya Pradesh, India
+- Bio: Android Developer and Problem solver
+- GitHub: [Vanshika-RJIT](https://github.com/Vanshika-RJIT)
