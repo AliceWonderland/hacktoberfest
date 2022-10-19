@@ -2037,6 +2037,11 @@ Noida
 - Bio: ECE Undergraduate
 - GitHub: [Sarthak Bhagat](https://github.com/sarthak268)
 
+#### Name: [Sarthak Gupta]([GitHub link](https://github.com/sarthakgupta2000)
+- Place: New Delhi, Delhi, India
+- Bio: Coder?
+- GitHub: [GitHub account name](GitHub link)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
