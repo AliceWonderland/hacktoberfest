@@ -130,5 +130,13 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
+Also, you find some good issues if you are just starting your open-source contribution journey, these resources might be helpful to you <br>
+https://goodfirstissues.com/ <br>
+https://contributor.ninja/ <br>
+https://www.firsttimersonly.com/ <br>
+https://up-for-grabs.net/#/ <br>
+https://github.com/mungell/awesome-for-beginners <br>
+https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
+
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
