@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Avi](https://github.com/AviRajR)
+- Place: India
+- Bio: Web developer
+- Github: [AviRajR](https://github.com/AviRajR)
