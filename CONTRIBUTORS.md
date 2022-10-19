@@ -1,3 +1,8 @@
+#### Name: Thomas Anseeuw
+ - Place: Belgium
+ - Bio: Second year IT student.
+ - GitHub: [Vallenain](https://github.com/ThomasAns)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
