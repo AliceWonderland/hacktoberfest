@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tiger Tux] (https://github.com/Ordained-SubGenii)
+- Place: Catalunya, Spain  
+- Bio: Linux Crusader, Window Manager Ricer, Bash Scripter, Rust Fan, Southern California Native Transplated to Spain, and BTW I use Arch. 
+- GitHub: [Bob Frop Jr.](https://github.com/Ordained-SubGenii) 
+
