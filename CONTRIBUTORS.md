@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajdeep Banerjee](https://github.com/weirdwizard20)
+- Place: Kolkata, India
+- Bio: Cyber Security Enthusiast
+- Github: [Rajdeep Banerjee](https://github.com/weirdwizard20)
