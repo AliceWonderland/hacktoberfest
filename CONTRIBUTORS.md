@@ -1,3 +1,8 @@
+#### Name: [NAGARAJU KUSA](https://github.com/nagarajukusa24)
+- Place: Hyderabad, India
+- Bio: Appliation Developer at Thoughtworks
+- GitHub: [nagarajukusa24](https://github.com/nagarajukusa24)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
