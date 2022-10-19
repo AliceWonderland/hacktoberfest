@@ -5,7 +5,7 @@
 
 #### Name: [AkDev96]
  - Place: Colombo, Sri Lanka
- - Bio: Full Stack Developer
+ - Bio: Just a Dev
  - GitHub: [AkDev96](https://github.com/akdev96)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
