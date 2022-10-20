@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+-
+-  #### Name: Rudra
+ - Place: Canberra, Australia
+ - Bio: Network engineer. Graduated from India.
+ - GitHub: [Vallenain](https://github.com/rudra)
