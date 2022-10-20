@@ -1,5 +1,5 @@
 // LANGUAGE: Python
 // ENV: Python 3 or above
-// AUTHOR: Lucas Marioza
+// AUTHOR: Aditya wadkar
 // GITHUB: https://github.com/AdityaWadkar
 print("Hello World!")
