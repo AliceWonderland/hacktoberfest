@@ -1,3 +1,8 @@
+#### Name: [Tushar Agrawal](https://github.com/Tushar630)
+- Place: Varanasi,Uttar Pradesh, India
+- Bio: API developer
+- Github: [Tushar630](https://github.com/Tushar630)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
