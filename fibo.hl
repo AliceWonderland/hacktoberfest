@@ -1,0 +1,13 @@
+
+fib 0 = 0
+fib 1 = 1
+fib n = fib (n-1) + fib (n - 2)
+
+fibonacci n = map fib[0..n]
+
+main = 
+    do
+    putStrLn "Enter number of fibo : "
+    xin <- getLine
+    let x =read(xin)
+    print (fibonacci x)
