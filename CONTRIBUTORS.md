@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Matt Wright](https://github.com/mattwright42)
+- Place: Mesa, AZ
+- Bio: Web developer (Full Stack)
+- Github: [Matt Wright](https://github.com/mattwright42)
