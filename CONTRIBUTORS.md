@@ -1,3 +1,8 @@
+#### Name: Jordan
+ - Place: KL, MALAYSIA
+ - Bio: Software Tester. Graduated from APU.
+ - GitHub: [Jordanjun98](https://github.com/Jordanjun98)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
