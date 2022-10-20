@@ -2288,6 +2288,11 @@ Noida
 - Bio: Open Source Lover, and trying some go :p
 - GitHub: [Victor Piolin](https://github.com/vico1993)
 
+#### Name: [Ujjwal Singh](https://github.com/ujjwalsingh-17)
+- Place: Solapur, Maharashtra, India
+- Bio: Webdeveloper
+- GitHub: [ujjwalsingh-17](https://github.com/ujjwalsingh-17)
+
 #### Name: [Vaibhav Agarwal](https://github.com/vaibhavagarwal220)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: A passionate programmer and a beginner in Open Source
