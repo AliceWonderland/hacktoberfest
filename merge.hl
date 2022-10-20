@@ -1,0 +1,5 @@
+mergIst [][]z = reverse z
+mergIst (x:xs)[] z= mergIst xs [] (x:z)
+mergIst[] (y:ys) z= mergIst [] ys (y:z)
+mergIst (x:xs) (y:ys) z= if x<=y then mergIst xs (y:ys) (x:z) else mergIst (x:xs) ys (y:z)
+main = print(mergIst[1,4,8,20][-4,1,0,6,9,30][])
