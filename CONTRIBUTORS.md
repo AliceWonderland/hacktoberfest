@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ana Mendes](https://github.com/Ana138)
+- Place: Fortaleza/CE, Brazil
+- Bio: DevOps and Python student.
+- Github: [Ana138](python student)
