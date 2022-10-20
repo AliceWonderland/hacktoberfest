@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luiz Henrique Lobo](https://github.com/luizhenriquelobo1)
+- Place: Bahia, Brazil
+- Bio: Systems Analysis and Development Student
+- GitHub: [Luiz Henrique Lobo](https://github.com/luizhenriquelobo1)
