@@ -1,0 +1,51 @@
+# Soumyadeep  Chakraborty
+
+### Location
+
+Kolkata, India
+
+### Academics
+- RCC Institue of Information Technology
+
+### Interests
+
+- Mathematics,Coding,Chess
+
+### Development
+
+- WEB Development
+
+
+### Projects
+
+- SkyPeeker(A website to check weather of any location)
+
+### Profile Link
+
+[Soumyadeep Chakraborty](# Aayush Sharma
+
+### Location
+
+Mandi, Himachal Pradesh, India
+
+### Academics
+
+Indian Institute of Technology, Mandi
+
+### Interests
+
+- Mathematics.
+
+### Development
+
+- Restricted Boltzman Machine.
+- Support Vector Machine.
+
+### Projects
+
+- Aawaz - A sign language to voice convertor glove for mute people.
+
+### Profile Link
+
+[Aayush Sharma](https://github.com/aayusharma)
+)

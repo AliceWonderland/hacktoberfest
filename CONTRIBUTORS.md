@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Soumyadeep Chakrabortry](https://github.com/epicskills1/)
+- Place: Kolkata,India
+- Bio: Web Developer
+- Github: [epicskills1](https://github.com/epicskills1/)
