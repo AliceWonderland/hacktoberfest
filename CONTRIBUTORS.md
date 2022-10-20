@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [Gaurav J](https://github.com/RealGJ)
+- Place: India
+- Bio: A Engineering Graduate and CS Enthusiast
+- GitHub: [Apoorva Sharma](https://github.com/RealGJ)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
