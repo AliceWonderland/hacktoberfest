@@ -2082,6 +2082,11 @@ Noida
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
 
+#### Name: [Shubham Prajapati](https://github.com/shobhit1997)
+- Place: Agra, Uttar Pradesh, INDIA
+- Bio: Undergrad at IITM
+- GitHub: [Nova-007](https://github.com/Nova-007)
+
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
 - Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
