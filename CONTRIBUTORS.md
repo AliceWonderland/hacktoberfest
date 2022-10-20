@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bhautik Poshiya](https://github.com/bhautikposhiya)
+- Place: Rajkot, Gujarat
+- Bio: Web developer Angular
+- Github: [Bhautik Poshiya](https://github.com/bhautikposhiya)
