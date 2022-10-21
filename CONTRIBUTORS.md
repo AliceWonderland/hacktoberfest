@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [ALAIN SEYS](https://github.com/alainseys)
+- Place: Belgium, WVL, BE
+- Bio: Dot net developer
+- GitHub: [Alain Seys](https://github.com/alainseys)
+- 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
