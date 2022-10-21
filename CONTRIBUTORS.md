@@ -683,6 +683,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CS student at Brooklyn College, and The Game of Thrones fan :3
 - Github: [Dzmitry Kasinets](https://github.com/dkasinets)
 
+#### Name: [DHRUVRAJSINH_GOHIL](https://github.com/dhruvrajsinh-7)
+- Place: Bhavnagar, Gujarat,INDIA
+- Bio: CS student , Full-stack devloper
+- GitHub: [dhruvrajsinh-7](https://github.com/dhruvrajsinh-7)
+
 #### Name: [Eason Xuan ](https://github.com/timemahcine)
 - Place: City:Shao Xing, State:Zhe Jiang, Country:China
 - Bio: computer science student,front-end developer
