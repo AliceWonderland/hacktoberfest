@@ -2353,6 +2353,11 @@ Noida
 - Bio: 2/4 into getting a free Hacktoberfest T-Shirt
 - GitHub: [Antonio Jesus Pelaez](https://github.com/twillzy)
 
+#### Name: [William Ross](https://github.com/wross123)
+- Place: Bellevue, Washington
+- Bio: swimmer
+- GitHub: [wross123](https://github.com/wross123)
+
 #### Name: [Xavier Marques](https://github.com/wolframtheta)
 - Place: Corbera de Llobregat, Barcelona, Catalonia
 - Bio: Computer Science Major
