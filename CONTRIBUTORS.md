@@ -160,6 +160,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Aspiring Front-end Web Dev
 - Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 
+#### Name: [Akbar Khan](https://github.com/akbar543)
+- Place: Jaipur, Rajasthan, India
+- Bio: Student who is learning to code better!!
+- GitHub: [akbar543](https://github.com/akbar543)
+
 #### Name: [Alex Blum](https://github.com/alexblum)
  - Place: Germany
  - Bio: Webdeveloper
