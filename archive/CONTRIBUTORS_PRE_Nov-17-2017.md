@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+
+#### Name: [Oladele wonder jeremaih](https://github.com/oladelewonder)
+- Place: Badagry,Lagos,Nigeria
+- Bio: junior frontend developer
+- GitHub: [Oladelewonder](https://github.com/oladelewonder)
