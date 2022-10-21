@@ -658,6 +658,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - Github: [dhevi](https://github.com/dhevi)
 
+#### Name: [Dina Israel](https://github.com/dinaisrael)
+- Place: Israel
+- Bio: Software Engineer
+- Github: [dinaisrael](https://github.com/dinaisrael)
+
 #### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
