@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Suga7772](https://github.com/Suga7772)
+- Place: Rawalpindi pakistan
+- Bio: Java python
+- Github: [Suga7772](https://github.com/Suga7772)
