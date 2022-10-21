@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajpreet Lal Das](https://github.com/RomeoLimaDelta)
+- Place: Karnataka,India
+- Bio: Computer Science@MIT,Manipal
+- GitHub: [RomeoLimaDelta](https://github.com/RomeoLimaDelta)
