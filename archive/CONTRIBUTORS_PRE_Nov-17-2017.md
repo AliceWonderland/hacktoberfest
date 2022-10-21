@@ -12415,6 +12415,7 @@ Noida
 
 #### Name: [Phil](https://github.com/bitbrain-za)
 - Place: South Africa
+
 - Bio: Avid Tinkerer
 - GitHub: [bitbrain-za](https://github.com/bitbrain-za)
 
@@ -16680,4 +16681,11 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shruti Chhikara](https://github.com/shrutichhikara73)
+- Place: Chandigarh, India
+- Bio: Tech Enthusiast
+- Github: [shrutichhikara73](https://github.com/shrutichhikara73)
+
+
 
