@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bodhdipta Roy](https://github.com/bodhdipta-roy)
+- Place: West bengal, Kolkata
+- Bio: First Year Computer Science Undergrad
+- Github: [bodhdipta-roy](https://github.com/bodhdipta-roy)
