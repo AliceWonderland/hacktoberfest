@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [engineer-aslam-hossain](https://github.com/engineer-aslam-hossain/)
+- Place: Dhaka, Bangladesh
+- Bio: Full Stack Engineer.
+- GitHub: [engineer-aslam-hossain](https://github.com/engineer-aslam-hossain/)
