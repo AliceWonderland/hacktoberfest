@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Praful katare](https://github.com/Kpraful)
+- Place: Pune, India
+- Bio: Full stack developer Node
+- Github: [Praful Katare](https://github.com/Kpraful)
