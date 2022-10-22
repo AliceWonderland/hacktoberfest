@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Barbara Bruzon](https://github.com/barbara-bruzon/)
 - Place: São Paulo, Brazil
-- Bio: a begginer
+- Bio: loves coffee & cats
 - GitHub: [Barbara Bruzon (BR)](https://github.com/barbara-bruzon/)
