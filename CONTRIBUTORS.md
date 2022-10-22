@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Barbara Bruzon](https://github.com/barbara-bruzon/)
+- Place: São Paulo, Brazil
+- Bio: loves coffee & cats
+- GitHub: [Barbara Bruzon (BR)](https://github.com/barbara-bruzon/)
