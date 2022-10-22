@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ayushi Gorantyal](https://github.com/AyushiGtl)
+ - Place: Jalna, India
+ - Bio: CSE student
+ - Github: [AyushiGtl](https://github.com/AyushiGtl)
