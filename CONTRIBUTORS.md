@@ -919,6 +919,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Designer/Developer
 - GitHub: [Haley C Smith](https://github.com/haleycs)
 
+#### Name: [Hannah Wang](https://github.com/hqnnahwang)
+- Place: Bellevue, WA
+- Bio: High School Student
+- GitHub: [Hannah Wang](https://github.com/hqnnahwang)
+
 #### Name: [Hannah Zulueta](https://github.com/hanapotski)
 - Place: North Hollywood, CA
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
