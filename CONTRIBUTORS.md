@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priyanshu Prasad Gupta]([GitHub Link](https://github.com/priyanshu2k3))
+- Place: West Bengal,India
+- Bio: web Developer trying to learn github
+- GitHub: [Priyanshu Prasad Gupta]([GitHub Link](https://github.com/priyanshu2k3))
