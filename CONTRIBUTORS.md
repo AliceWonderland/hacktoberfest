@@ -2427,3 +2427,13 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Heeba Shaikh](GitHub Link)
+- Place: Pune, Maharashtra, India
+- Bio: Who are you?
+- GitHub: [Your Name](GitHub Link)
+
+#### Name: [Heeba Shaikh](https://github.com/ShaikhHeeba07)
+- Place: Pune, Maharashtra, India
+- Bio: BE IT 2022 Graduate, Web Developer
+- Github: [Heeba Shaikh](https://github.com/ShaikhHeeba07)
