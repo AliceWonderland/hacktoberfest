@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sohil Khan](https://github.com/sohil1234)
+- Place: India
+- Bio: Studying developement Python, C and C++
+- Github: [Sohil Khan](https://github.com/sohil1234)
