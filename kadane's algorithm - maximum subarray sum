@@ -1,0 +1,14 @@
+// C++ code for finding maximum subarray sum in an array
+long long maxSubarraySum(int a[], int n){
+      long long globalMax=LLONG_MIN,currentMax=0;
+
+      for(int i=0;i<n;++i){
+          currentMax+=a[i];
+
+          globalMax = max(globalMax,currentMax);
+
+          if(currentMax < 0)currentMax=0;
+      }
+
+      return globalMax;
+  }
