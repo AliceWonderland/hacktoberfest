@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ticketedmoon](https://github.com/Ticketedmoon)
+- Place: Dublin, Ireland 
+- Bio: Full-Stack/Backend web developer. 
+- Github: [Ticketedmoon](https://github.com/Ticketedmoon)
