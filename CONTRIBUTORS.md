@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Antareza](https://github.com/antarezaghifary)
+- Place: Tulungagung, East Java, Indonesian
+- Bio: Android Developer
+- GitHub: [Antareza Ghifary](https://github.com/antarezaghifary)
