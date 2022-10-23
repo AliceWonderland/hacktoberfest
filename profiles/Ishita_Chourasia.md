@@ -6,7 +6,7 @@ Bangalore, India
 
 ### Academics
 
-DAIICT, Gandhinagar
+DAIICT, Gandhinagar, Gujarat, 382007
 
 ### Interests
 
