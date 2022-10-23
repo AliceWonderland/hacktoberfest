@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Deepak Verma](https://github.com/Deepakv14)
+- Place: Lucknow, India
+- Bio: MERN Web developer
+- Github: [Deepak Verma](https://github.com/Deepakv14)
