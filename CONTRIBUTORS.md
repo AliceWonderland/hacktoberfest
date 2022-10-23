@@ -2343,6 +2343,11 @@ Noida
 - Bio: Engineer
 - GitHub: [Weilun](https://github.com/holah)
 
+#### Name: [Sonal Gupta](https://github.com/SonalGuptaa)
+- Place: India
+- Bio: Thirs year Computer Science Student
+- GitHub: [sonalgupta01](https://github.com/SonalGuptaa)
+
 #### Name: [Will Barker](https://github.com/billwarker)
 - Place: Toronto, Canada
 - Bio: A guy who wants to improve the world through AI!
