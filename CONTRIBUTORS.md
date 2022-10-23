@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [ANJALI](https://github.com/bansalanjali2512)
+ - Place: Punjab, India
+ - Bio: 3rd year computer scinece student
+ - GitHub: [Kakarot0723](https://github.com/Kakarot0723)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
