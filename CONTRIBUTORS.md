@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [DEEPTEJ DHAUSKAR](https://github.com/DeeptejD)
+- Place: Goa, India
+- Bio: I love coding
+- GitHub: [Deeptej Dhauskar](https://github.com/DeeptejD)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
