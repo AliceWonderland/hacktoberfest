@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Jabir b](https://github.com/jabir7699)
+- Place: Kerala, India
+- Bio: Web developer PHP SQL and Python
+- Github: [Jabir b](https://github.com/jabir7699)
