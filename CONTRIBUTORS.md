@@ -1,4 +1,4 @@
-#### Name: [MANJESH M]
+#### Name: MANJESH M
 - Place: Bangalore, India
 - Bio: 4th Year CSE Student 
 - Github: [manjesh2022](https://github.com/manjesh2022)
