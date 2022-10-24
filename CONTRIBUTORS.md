@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Akshit Gulyan](https://github.com/AkshitGulyan)
+- Place: Ghaziabad, India
+- Bio: Curious Student
+- Github: [Akshit Gulyan](https://github.com/AkshitGulyan)
