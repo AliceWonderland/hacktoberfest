@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Darshit Dudhaiya](https://github.com/darshitdudhaiya)
+- Place: Gujarat, India
+- Bio: Frontend Developer
+- Github: [drashitdudhaiya](https://github.com/darshitdudhaiya)
