@@ -2,7 +2,7 @@
 - Place: Bangalore, India
 - Bio: 4th Year CSE Student 
 - Github: [manjesh2022](https://github.com/manjesh2022)
-- 
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
