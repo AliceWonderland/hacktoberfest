@@ -829,6 +829,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Earhquake enthusiast
 - GitHub:[fushandchups] (https://github.com/fushandchups)
 
+#### Name: [Fush Chups](https://github.com/Freya-29)
+- Place: Vadodara, Gujarat, India
+- Bio: Earhquake enthusiast
+- - GitHub:[Freya-29] (https://github.com/Freya-29)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
