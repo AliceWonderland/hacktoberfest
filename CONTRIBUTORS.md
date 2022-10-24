@@ -1,3 +1,8 @@
+#### Name: Yanda
+  - Place: Gauteng, South Africa
+  - Bio: I am a Geoinformatics student at the University of Pretoria
+  -GitHub: [YandaSN] (https://github.com/YandaSN)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
