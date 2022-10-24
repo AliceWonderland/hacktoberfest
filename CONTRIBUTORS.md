@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Rafael G. Ribeiro
+ - Place: São Paulo, Brazil
+ - Bio: Software engineer. Graduated from UFF Rio de Janeiro.
+ - GitHub: [Rafael](https://github.com/rafaelmgr12)
