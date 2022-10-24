@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [SUBHAM SUBHASHIS](https://github.com/Subham85)
+- Place: Odisha,India
+- Bio: Looking for something interesting to happen in life
+- GitHub: [Subham85](https://github.com/Subham85)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
