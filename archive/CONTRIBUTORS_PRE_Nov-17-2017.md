@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: Mohd Zaid Khan
+- Place: New Delhi, India
+- Bio: Web developer and iOS Developer
+- Github: https://github.com/zeddkhan03
