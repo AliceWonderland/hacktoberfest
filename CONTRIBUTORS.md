@@ -2406,6 +2406,8 @@ Noida
 #### Name: [gipsi](gipsi.github.io)
 - Place: South-East, UK
 - Bio: Student FreeCodeCamp interested in PWA's
+
+skd
 - Github: [gipsi](https://github.com/gipsi)
 
 #### Name: [syamkumar](https://github.com/syam3526)
