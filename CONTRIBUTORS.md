@@ -1,8 +1,11 @@
-#### Name: Vallenain
+0#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+#### Name: Shikhar Mishra
+    - Place:Kanpur,India
+    -Bio: second year student
+    -Github:demonIsAlive(https://github.com/demonIsAlive)
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
