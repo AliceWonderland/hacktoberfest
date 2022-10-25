@@ -1,3 +1,8 @@
+#### Name: [PRIYANSH JAIN](https://github.com/Priyansh1203)
+- Place: India
+- Bio: second year ECE student in IIT Roorkee.
+- GitHub: [Priyansh Jain](https://github.com/Priyansh1203)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
