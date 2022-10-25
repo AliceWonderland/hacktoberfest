@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: Arya
+ - Place: Bihar, India
+ - Bio: Student
+ - GitHub: [arya-raj26](https://github.com/arya-raj26)
+ - 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
