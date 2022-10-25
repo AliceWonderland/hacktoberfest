@@ -1168,6 +1168,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - GitHub: [githubbbbbbbbbbbbb](https://github.com/githubbbbbbbbbbbbb)
 
+#### Name: [AAPSI KHAIRA](https://github.com/aapsi)
+- Place: Bangalore, India
+- Bio: Full Stack Developer
+- GitHub: [aapsi](https://github.com/aapsi)
+
 #### Name: [Jon Rinciari] (https://github.com/jonathanRinciari)
 - Place: New Haven, CT, USA
 - Bio: Web Developer
