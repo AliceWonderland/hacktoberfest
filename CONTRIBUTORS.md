@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Neeraj Shetkar](https://github.com/ineerajrajeev)
+
+- Place: Mumbai, Maharashtra, India.
+- Bio: Bachelor of Science in Data Science from IIT Madras.
+- GitHub: [ineerajrajeev](https://github.com/ineerajrajeev)
