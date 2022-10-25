@@ -1,3 +1,8 @@
+### Name: colinwaterloo
+ - Place: Bellevue, US
+ - Bio: Software engineer. 
+ - GitHub: [colinwaterloo](https://github.com/colinwaterloo)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
