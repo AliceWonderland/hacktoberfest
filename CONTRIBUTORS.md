@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [John Barry](https://github.com/johnbarry11)
+- Place: Port Harcourt, Rivers state, Nigeria
+- Bio: Frontend developer
+- GitHub: [Johnbarry11](https://github.com/johnbarry11)
