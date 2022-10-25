@@ -1069,6 +1069,11 @@ to explore life. Also, Python and Django Developer
 - Place: Seattle, WA
 - Bio: Student of code, eater of sustainable sushi
 - GitHub: [Jalence](https://github.com/jalence)
+- 
+#### Name: [Datta](https://github.com/dattap647)
+- Place: India
+- Bio: Student of codeer
+- GitHub: [Datta](https://github.com/dattap467)
 
 #### Name: [Jason Kao](https://github.com/jkao1)
 - Place: New York, NY, USA
