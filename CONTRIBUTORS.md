@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Apoorva Sunkad](https://github.com/ApoorvaSunkad)
+- Place: Dharwad, Karnataka, India
+- Bio: System Engineer, Coder
+- Github: [ApoorvaSunkad](https://github.com/ApoorvaSunkad)
