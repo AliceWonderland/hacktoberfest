@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AAPSI KHAIRA](https://github.com/aapsi)
+- Place: Bangalore, India
+- Bio: Full Stack Developer
+- GitHub: [aapsi](https://github.com/aapsi)
