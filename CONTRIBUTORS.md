@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priyanshu Nandi](https://github.com/Priyanshu-Nandi)
+- Place: Balurghat, West Bengal, India
+- Bio: A student gaining experience.
+- GitHub: [Priyanshu-Nandi](https://github.com/Priyanshu-Nandi)
