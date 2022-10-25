@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pradip Timilsina](https://github.com/sinapradip)
+- Place: Bharatpur, Nepal
+- Bio: Web Developer
+- Github: [sinapradip](https://github.com/sinapradip)
