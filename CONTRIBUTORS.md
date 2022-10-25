@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Esan Raj](https://github.com/esan-raj)
+- Place: Bilaspur Chattisgarh
+- Bio: IT Student at GGU Bilaspur
+- Github: [Esan Raj] (https://github.com/esan-raj)
