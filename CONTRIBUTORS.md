@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akanksh Sinha](https://github.com/akankshsinhaa)
+- Place: Haryana, India
+- Bio: Web & App Developer Flutter Dart
+- Github: [Akanksh Sinha](https://github.com/akankshsinhaa)
+- LinkedIn: [Akanksh Sinha](https://www.linkedin.com/in/akanksh-sinha-538192220/)
