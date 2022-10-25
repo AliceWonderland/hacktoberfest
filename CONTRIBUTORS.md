@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vasu Goel](https://github.com/vasugoel89)
+- Place: Chennai, India
+- Bio: Web developer and coder with a knack to learn things quickly.
+- Github: [Vasu Goel](https://github.com/vasugoel89)
