@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name : Vishnu Seksaria
+- Place : India
+- Bio : Student
+- Github: [vishnuseksaria](https://github.com/vishnuseksaria)
