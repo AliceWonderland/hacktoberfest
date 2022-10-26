@@ -2431,4 +2431,4 @@ Noida
 #### Name : Vishnu Seksaria
 - Place : India
 - Bio : Student
-- Github: [vishnu_seksaria](https://github.com/vishnuseksaria)
+- Github: [vishnuseksaria](https://github.com/vishnuseksaria)
