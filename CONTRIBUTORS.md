@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Victory Tuduo](https://github.com/victory-et)
+- Place: Port Harcourt, Nigeria
+- Bio: Web developer and Technical Writer
+- Github: [Victory Tuduo](https://github.com/victory-et)
