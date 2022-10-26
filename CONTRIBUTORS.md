@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [MEGA0HM](https://github.com/M3GA0HM)
+- Place: HNL, HI, USA
+- Bio: Curiosity coded the cat
+- GitHub: [M3GA0HM](https://github.com/M3GA0HM)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
