@@ -1,3 +1,8 @@
+#### Name: [Tushar](https://github.com/tush47)
+- Place: Ambala, Haryana, India
+- Bio: a software enthusiast student.
+- GitHub: [tush47](https://github.com/tush47)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
