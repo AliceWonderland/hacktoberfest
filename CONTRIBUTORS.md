@@ -504,6 +504,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
 
+#### Name: Vallenain
+ - Place: India
+ - Bio: Software engineer. Graduated from Gitam University.
+ - GitHub: [tarrun99](https://github.com/tarrun99)
+
 #### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
 - Place: Germany
 - Bio: Technology enthusiast (mostly IT)
