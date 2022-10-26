@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
+- Place: Maharashtra, India
+- Bio: CS Student
+- Github: [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
