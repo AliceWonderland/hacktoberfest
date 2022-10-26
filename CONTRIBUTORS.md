@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kristine Wiggins](https://github.com/kristinewiggins)
+- Place: Fort Collins, Colorado, USA
+- Bio: Data Science student at Colorado State University and President of Women in Cybersecurity club
+- GitHub: [kristinewiggins](https://github.com/kristinewiggins)
