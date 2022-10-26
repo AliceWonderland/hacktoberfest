@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rishabh Handoo](https://github.com/Rishabh4-2-2002)
+- Place: Chandigarh , India
+- Bio: 3rd year pursuing computer engineer 
+- GitHub: [Rishabh4-2-2002](https://github.com/Rishabh4-2-2002)
