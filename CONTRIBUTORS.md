@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshat Shah](https://github.com/akshat2203)
+- Place: Kalol, Gujarat, India 
+- Bio: Software Engineer - Python Developer ( Django, Flask )
+- Github: [akshat2203](https://github.com/akshat2203)
