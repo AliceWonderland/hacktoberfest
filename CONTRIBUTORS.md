@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tatchai Russameroj](https://github.com/tum010)
+- Place: Bangkok, Thailand
+- Bio: Software Architect
+- Github: [tum010](https://github.com/tum010)
