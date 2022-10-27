@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Pailkar](https://github.com/harshpailkar)
+- Place: Mumbai, India
+- Bio: App Developer and UI/UX Designer
+- Github: [Harsh Pailkar](https://github.com/harshpailkar)
