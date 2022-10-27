@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Manvi Yaduvanshi
+ - Place: Delhi, India
+ - Bio: Electronics engineer
+ - GitHub: [Vallenain](https://github.com/DizManvi)
