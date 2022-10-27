@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Praful John] (https://github.com/Praful-John2409) 
+- Place: Indore ,Madhya Pradesh 
+- Bio: Backend Engineer 
+- GitHub: [Praful John] (https://github.com/Praful-John2409)
