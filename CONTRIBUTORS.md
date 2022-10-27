@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Lizli05](https://github.com/Lizli05)
+- Place: Bellevue, USA
+- Bio: Avid CS Student
+- GitHub: [Lizli05](https://github.com/Lizli05)
