@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Elbasrie](https://github.com/elbasrie)
+- Place: Indonesia
+- Bio: Information System Degree College Student
+- Github: [Elbasrie](https://github.com/elbasrie)
