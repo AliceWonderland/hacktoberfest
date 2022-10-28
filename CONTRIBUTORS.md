@@ -1,3 +1,8 @@
+#### Name: Zain Ali Shah
+ - Place: Islamabad, Pakistan
+ - Bio: Computer Engineering Student at COMSATS Islamabad.
+ - GitHub: [ShawFromAttock](https://github.com/ShawFromAttock)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
