@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vansh Sardana](https://github.com/vansh15)
+- Place: Delhi,India
+- Bio: Competetive programmer
+- Github: [vansh15](https://github.com/vansh15)
