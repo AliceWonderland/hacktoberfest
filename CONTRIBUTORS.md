@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Constantine Korobov](https://github.com/ckorobov)
+- Place: Amsterdam, Netherlands
+- Bio: Just another geek
+- Github: [ckorobov](https://github.com/ckorobov)
