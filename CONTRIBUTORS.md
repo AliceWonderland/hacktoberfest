@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Doka (https://github.com/dokajuno)
+- Place: Taipei, TW
+- Bio: Web developer PHP and JS
+- Github: [Dokajuno]([https://github.com/itepifanio](https://github.com/dokajuno))
