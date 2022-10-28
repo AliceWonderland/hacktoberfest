@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ahmet KOÇAK](https://github.com/Kevogich)
+- Place: Istanbul, Turkey
+- Bio: Frontend Developer !
+- GitHub: [Ahmet Berkay Koçak](https://github.com/aberkayk)
