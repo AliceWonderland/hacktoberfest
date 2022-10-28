@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kaline Vidal](https://github.com/nyrkln)
+- Place: São Carlos, Brazil
+- Bio: student
+- Github: [Kaline Vidal](https://github.com/nyrkln)
