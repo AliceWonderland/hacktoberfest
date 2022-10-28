@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubham Devrani](https://github.com/shubham1121)
+- Place: Gwalior, Madhya Pradesh, India
+- Bio: Flutter Developer and a Competitive Programmer
+- GitHub: [shubham1121](https://github.com/shubham1121)
