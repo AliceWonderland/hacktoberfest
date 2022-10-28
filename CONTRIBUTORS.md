@@ -1874,6 +1874,11 @@ Noida
 - Bio: Computer Science Major
 - GitHub: [Rafael Sá](https://github.com/RafaelSa94)
 
+#### Name: [Rajan Agarwal](https://rajanagarwal.xyz)
+- Place: Toronto, Canada
+- Bio: Full Stack Developer
+- GitHub: [rajanwastaken](https://github.com/rajanwastaken)
+
 #### Name: [RYAN R SMITH](https://github.com/devronsoft)
 - Place: Oxford, UK
 - Bio: Kiwi dev
