@@ -1,3 +1,8 @@
+#### Name: [ANDRES RODRIGUEZ](https://github.com/AndresRodriguez27)
+- Place: Colombia
+- Bio: last semester of systems engineering
+- GitHub: [AndresRodriguez27](https://github.com/AndresRodriguez27)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
