@@ -2278,10 +2278,10 @@ Noida
 - Bio: Solution Architect @ Eleven-Labs
 - GitHub: [VEBERArnaud](https://github.com/VEBERArnaud)
 
-#### Name: [VENKATESH BELLALE] (http://venkateshbellale.github.io)
-- place:pune , India
-- bio : loves computer+science , student
-- github: [venketsh bellale] (http://github.com/venkateshbellale)
+#### Name: [VENKATESH BELLALE](http://venkateshbellale.github.io)
+- place: pune, India
+- bio : loves computer+science, student
+- github: [venketsh bellale](http://github.com/venkateshbellale)
 
 #### Name: [VICTOR PIOLIN](https://github.com/vico1993)
 - Place: FRANCE
@@ -2418,12 +2418,17 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
-#### Name: [xenocideiwki] (https://github.com/xenocidewiki)
+#### Name: [xenocideiwki](https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
-- GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
+- GitHub: [xenocidewiki](https://github.com/xenocidewiki)
 
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rahul Vijan](https://github.com/rv2442)
+- Place: Mumbai, Maharashtra, India
+- Bio: Tech Enthusiast
+- GitHub: [Rahul Vijan](https://github.com/rv2442)
