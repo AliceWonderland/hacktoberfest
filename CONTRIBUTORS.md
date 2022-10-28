@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devdutt](https://github.com/devdutt6)
+- Place: Ahmedabad, Gujarat, India
+- Bio: Web developer MERN stack, web3 dev
+- GitHub: [Devdutt](https://github.com/devdutt6)
