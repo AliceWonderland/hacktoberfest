@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nature Loave](https://github.com/natureloverofficial)
+- Place: India
+- Bio: Student
+Github: [natureloverofficial](https://github.com/natureloverofficial)
