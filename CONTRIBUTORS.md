@@ -1,3 +1,8 @@
+#### Name: Gustavo Valdez
+- Place: Monterrey, Nuevo Leon, México
+- Bio:  Software Engineering Student
+- GitHub: [Gustavo-Valdez](https://github.com/Gustavo-Valdez)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
