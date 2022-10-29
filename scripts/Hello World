@@ -1,0 +1,7 @@
+# LANGUAGE: Python
+# AUTHOR: Anant
+# GITHUB: https://github.com/Anant302
+
+a = "Hello"
+b = "World"
+print("{} {}".format(a, b))
