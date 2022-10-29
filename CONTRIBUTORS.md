@@ -1,3 +1,9 @@
+
+#### Name: [CHIRAG KHOALA](https://github.com/Chiragk26)
+ - Place: Bengaluru, India
+ - Bio: Developer and open source
+ - GitHub: [Chiragk26](https://github.com/Chiragk26)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
