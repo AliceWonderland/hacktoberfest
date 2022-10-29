@@ -305,6 +305,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Python Developer
 - Github [Arpit Gogia](https://github.com/arpitgogia)
 
+#### Name: [Arnav Agarwal](https://github.com/arnav0929)
+- Place: Patiala, India
+- Bio: C++ Developer
+- Github [Arnav Agarwal](https://github.com/arnav0929)
+
 #### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
 - Place: India
 - Bio: Computer Science Major / UI/UX Designer
