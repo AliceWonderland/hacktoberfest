@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Hisham Abdulla](GitHub link)
 - Place: Kasargod, Kerala, India
-- Bio: idek who i am, currentky finding myself
+- Bio: idek who i am, currently finding myself
 - GitHub: [XAnaXprik](https://github.com/XAnaXprik)
