@@ -1,3 +1,8 @@
+#### Name: [AYUSH YADAV](https://github.com/sysoutayush)
+- Place: India
+- Bio: Final year Computer Science Student
+- GitHub: [Ayush Yadav](https://github.com/sysoutayush)
+- 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
