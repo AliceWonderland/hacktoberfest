@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hisham Abdulla](GitHub link)
+- Place: Kasargod, Kerala, India
+- Bio: idek who i am, currentky finding myself
+- GitHub: [XAnaXprik](https://github.com/XAnaXprik)
