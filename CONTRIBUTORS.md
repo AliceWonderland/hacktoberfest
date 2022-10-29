@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddharth Puntambekar](https://github.com/siddharthaP-1696)
+- Place:Pune,india
+- Bio: Web Developer
+- Github: [Siddharth Puntambekar](hhttps://github.com/siddharthaP-1696)
