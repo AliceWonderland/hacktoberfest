@@ -1,3 +1,8 @@
+#### Name: [SANSKAR JAIN](https://github.com/SanskarJain007)
+- Place: Jobner, Rajasthan, India
+- Bio: Software developer currently studying in Amity University, Noida
+- GitHub: [SanskarJain007](https://github.com/SanskarJain007)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
