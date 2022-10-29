@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Huandrey Pontes](https://github.com/huandrey)
+- Place: Campina Grande, Brazil
+- Bio: Web/Mobile Developer 
+- Github: [huandrey](https://github.com/huandrey)
