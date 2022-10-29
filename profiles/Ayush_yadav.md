@@ -26,7 +26,7 @@
 
 - [Travel-Advice-map-app-MERN](https://github.com/sysoutayush/Travel-Advice-map-app-MERN) Web-based service that provides detailed information about geographical regions and sites around the world..
 - [Virtual-Painter](https://github.com/sysoutayush/Virtual-Painter) An simple project detect color in an video using webcam
--[availability-of-Covid-Vaccines-Java](https://github.com/sysoutayush/availability-of-Covid-Vaccines-Java-) Web scraper to know vaccine availbility.
+- [Availability-of-Covid-Vaccines-Java](https://github.com/sysoutayush/availability-of-Covid-Vaccines-Java-) Web scraper to know vaccine availbility.
 
 ### Profile Link
 
