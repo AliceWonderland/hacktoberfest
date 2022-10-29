@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kanishk Gupta](https://github.com/kanishkguptagit)
+- Place: Bangalore, Karanataka, India
+- Bio: Java Engineer
+- Github: [Kanishk Gupta](https://github.com/kanishkguptagit)
