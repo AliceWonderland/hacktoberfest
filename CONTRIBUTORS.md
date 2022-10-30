@@ -2180,6 +2180,11 @@ Noida
 - Place: NYC
 - Bio: Developer =]
 
+#### Name: [Tanitoluwa Samuel Ifegbesan](https://github.com/Tani1964)
+- Place: Nigeria
+- Bio: fullstack software Engineer
+- GitHub: [Tani1964](https://github.com/Tani1964)
+
 #### Name: [Tanner Lund](https://github.com/nylan17/)
 - Place: Seattle
 - Bio: Developer
