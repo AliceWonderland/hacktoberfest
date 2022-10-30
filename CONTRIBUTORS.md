@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Fiki alamsyah](https://github.com/Fikialamsyah)
+- Place: Jakarta, Indonesia
+- Bio: Project Manager and Mobile Developer
+- Github: [Fikialamsyah](https://github.com/Fikialamsyah)
