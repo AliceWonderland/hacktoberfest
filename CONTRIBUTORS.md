@@ -1474,9 +1474,9 @@ Noida
 - Bio: IT Student at SAIT
 - GitHub: [Mark Schultz](https://github.com/zynk)
 
-#### Name: [Mark](https://github.com/Mxrk)		 
+#### Name: [Mark](https://github.com/Mxrk)
  - Place: /
- - Bio: love informatics		 
+ - Bio: love informatics
  - GitHub: [Mark](https://github.com/Mxrk)
 
 #### Name: [Mark](https://github.com/Mxrk)
@@ -2046,6 +2046,11 @@ Noida
 - Place: Ukraine
 - Bio: I've Top Rated status in Upwork
 - GitHub: [Sergey Gorky](https://github.com/sergeygorky)
+
+#### Name: [Seymone Gugneja](https://github.com/seymoneg)
+- Place: North Carolina, United States
+- Bio: Computer Science Student
+- GitHub: [Seymone Gugneja](https://github.com/seymoneg)
 
 #### Name: [Shade Ruangwan](https://github.com/sruangwan)
 - Place: Nara, Japan
