@@ -2210,6 +2210,11 @@ Noida
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
 
+#### Name: [Chetan Verma](https:/github.com/Chetanverma93)
+- Place: Raipur, Chhattisgarh, India
+- Bio: IT Enginner
+- GitHub: [Chetan Verma](https:/github.com/Chetanverma93)
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
