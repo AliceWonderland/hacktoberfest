@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Miftahul Khoir](https://github.com/FathHaq)
+- Place: Bogor, Indonesian
+- Bio: Web developer PHP and Javascript, Mobile Dev Flutter
+- Github: [Miftahul Khoir](https://github.com/FathHaq)
