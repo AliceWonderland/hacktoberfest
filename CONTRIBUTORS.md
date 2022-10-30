@@ -13,6 +13,16 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [GrithikSai](https://github.com/grithik4U)
+- Place: india
+- Bio: digging in solidity to dive into web3.0
+- GitHub: [agnieszka-miszkurka](https://github.com/grithik4U)
+
+#### Name: [Grithik](https://github.com/grithik4U)
+- Place: Hyderabad, India
+- Bio: Digging into solidity to dive into Web3.0
+- GitHub: [Grithik4U](https://github.com/grithik4U)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
