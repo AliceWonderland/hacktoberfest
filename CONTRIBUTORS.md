@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Madavaram Laya](https://github.com/laya-2002)
+- Place: Hyderabad, Telangana, India
+- Bio: Computer Science Student
+- Github: [Madavaram Laya](https://github.com/laya-2002)
