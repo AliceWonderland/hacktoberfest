@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luz Zapata](https://github.com/LuZapata)
+- Place: Mendoza, Argentina
+- Bio: Artist, Business Manager and Student
+- Github: [Luz Zapata](https://github.com/LuZapata)
