@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Srikant Soni](https://github.com/theCR7)
+- Place: Uttar Pradesh, India
+- Bio: Full Stack Web Developer
+- Github: [Srikant Soni](https://github.com/theCR7) 
