@@ -850,6 +850,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Gabriel Obaldia](https://github.com/gobaldia)
 
+#### Name: [Gabriel Segalla](https://github.com/gabrielsegalla)
+- Place: Brazil
+- Bio: Full Stack Developer
+- GitHub: [Gabriel Segalla](https://github.com/gabrielsegalla)
+
 #### Name: [Gareth Davies](https://github.com/gareth-d85)
 - Place: UK
 - Bio: Future Developer and Free code camp local group leader
