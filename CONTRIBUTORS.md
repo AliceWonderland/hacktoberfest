@@ -839,6 +839,11 @@ to explore life. Also, Python and Django Developer
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
 - GitHub: [George Fotopoulos](https://github.com/xorz57)
+- 
+#### Name: [SACHIN DHAKAL](https://github.com/Sachin-Maxwell)
+- Place: India
+- Bio: Second year Computer Science Student
+- GitHub: [Sachin Dhakal](https://github.com/Sachin-Maxwell)
 
 #### Name: [GITHAE KEVIN](https://github.com/Kevogich)
 - Place: Torino, Italy
