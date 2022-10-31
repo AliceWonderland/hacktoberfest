@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nishank Jain](https://github.com/NishankJain03)
+- Place: Maharashtra, India
+- Bio: Student from INFORMATION TECHHNOLOGY DEPARTMENT
+- Github: [Nishank Jain](https://github.com/NishankJain03)
