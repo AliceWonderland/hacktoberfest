@@ -626,6 +626,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Engineering student
 - GitHub: [DarshNaik](https://github.com/DarshNaik)
 
+#### Name: [Darshan Sharma](https://github.com/darshansharma)
+- Place: India
+- Bio: Senior Frontend Engineer
+- GitHub: [DarshanSharma](https://github.com/darshansharma)
+
 #### Name: [David Buckle](https://github.com/met3or)
 - Place: Manchester, UK
 - Bio: Linux System Administrator
