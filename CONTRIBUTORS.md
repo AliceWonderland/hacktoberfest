@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [trubbers](https://github.com/TRUBDUBZ)
+- Place: Colorado, United States
+- Bio: Learning web development and have an interest in infosec
+- Github: [Trub](https://github.com/TRUBDUBZ)
