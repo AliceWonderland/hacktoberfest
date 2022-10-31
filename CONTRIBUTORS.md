@@ -2348,6 +2348,11 @@ Noida
 - Bio: A guy who wants to improve the world through AI!
 - GitHub: [Will Barker](https://github.com/billwarker)
 
+#### Name: Anmol Bansal
+ - Place: Meerut, India
+ - Bio: pre-final year student
+ - GitHub: [AnmolBansalDEV](https://github.com/AnmolBansalDEV)
+
 #### Name: [Will Tan](https://github.com/twillzy)
 - Place: Sydney, Australia
 - Bio: 2/4 into getting a free Hacktoberfest T-Shirt
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
