@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Anmol Bansal
+ - Place: Meerut, India
+ - Bio: pre-final year student
+ - GitHub: [AnmolBansalDEV](https://github.com/AnmolBansalDEV)
