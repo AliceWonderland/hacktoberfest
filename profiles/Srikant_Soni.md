@@ -19,7 +19,7 @@ Graphic Era Deemed to be University
 
 - Front-end apps with React/Redux.
 - Back-end apps with Node/Express.
-- Mobile apps (Android/iOs).
+- Mobile apps (Android).
 
 ### Projects
 
