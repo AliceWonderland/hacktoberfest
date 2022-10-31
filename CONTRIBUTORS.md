@@ -57,6 +57,11 @@
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
+ 
+ #### Name: [SACHIN DHAKAL](https://github.com/Sachin-Maxwell)
+ - Place: Bangalore, India
+ - Bio: Studying B.Tech CSE
+ - GitHub: [Sachin Dhakal](https://github.com/Sachin-Maxwell)
 
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
