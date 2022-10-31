@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name [Shannon Brookshire](https://github.com/SalamanderCtesiphon)
+- Place: Midland, Texas, USA
+- Bio: Student at The Odin Project
+- Github: [Shannon Brookshire](https://github.com/SalamanderCtesiphon)
