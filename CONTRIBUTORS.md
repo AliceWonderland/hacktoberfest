@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Subhashish Mahapatra](https://github.com/SubhashishMahapatra)
+- Place: Maharashtra, India
+- Bio: Student from INFORMATION TECHNOLOGY DEPARTMENT
+- Github: [SubhashishMahapatra](https://github.com/SubhashishMahapatra)
