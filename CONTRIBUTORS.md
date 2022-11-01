@@ -93,7 +93,7 @@
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
-#### Name: [Ahmad Thames](https://github.com/ahmadthames)
+#### Name: [Michael Thumb](https://github.com/ahmadthames)
 - Place: Houston, TX, USA
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
