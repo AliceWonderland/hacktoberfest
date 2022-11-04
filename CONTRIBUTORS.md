@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kisakye Moses](https://github.com/moses-kisakye)
+- Place: Kampala, Uganda
+- Bio: Founder of Typify Media, Software Developer | ICT Innovator | Systems Engineer | Mobility & App Developer | E-Commerce | Mobile Payments
+- Github: [Kisakye Moses](https://github.com/moses-kisakye)
