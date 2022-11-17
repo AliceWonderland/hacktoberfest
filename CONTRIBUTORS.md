@@ -2914,7 +2914,20 @@
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Tan Phan](https://github.com/tanphan3041)
-
 - Place: Vinh Long, Viet Nam
 - Bio:
 - Github: [tanphan3041](https://github.com/tanphan3041)
+=======
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Olof Jondelius](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Architect
+- Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
