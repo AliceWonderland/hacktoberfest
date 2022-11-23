@@ -340,6 +340,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist , Android Developer
 - Github: [Ayush Agagrwal](https://github.com/aggarwal125ayush)
 
+#### Name: [Ayush Goley](https://github.com/backlogAK)
+- Place: Greater Noida, India
+- Bio: Software Engineer, Developer, DevOps
+- Github: [backlogAK](https://github.com/backlogAK)
+
 #### Name: [Ayushman KB](https://github.com/namhsuya/)
 - Place: Calcutta, India
 - Bio: Life sciences student|Dev|Linux enthusiast
