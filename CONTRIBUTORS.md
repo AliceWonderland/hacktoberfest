@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chikanga Takudzwa](https://github.com/ChikangaTakudzwa)
+- Place: Gaborone, Bostwana
+- Bio: Web Developer
+- GitHub: [Chikanga Takudzwa](https://github.com/ChikangaTakudzwa)
