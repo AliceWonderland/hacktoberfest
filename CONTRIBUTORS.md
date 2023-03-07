@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chiamaka](https://github.com/grace2709)
+    - Place: Lagos.Nigeria
+    - Bio: Computer Science Student learning Web development and cloud
+    - Github: [Chiamaka](https://github.com/grace2709)
