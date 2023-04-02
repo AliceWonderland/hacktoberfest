@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ismail Adeshola Ogundele](https://github.com/i-slot)
+- Place: Nigeria
+- Bio: Web developer JavaScript
+- Github: [Ítalo Epifânio](https://github.com/i-slot)
