@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Ismail Adeshola Ogundele](https://github.com/i-slot)
 - Place: Nigeria
 - Bio: Web developer JavaScript
-- Github: [Ítalo Epifânio](https://github.com/i-slot)
+- Github: [Ismail Adeshola Ogundele](https://github.com/i-slot)
