@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Preetam Das-26](https://github.com/Preetam-Das26)
+- Place: Natal, Brazil
+- Bio: Programmer 
+- Github: [Preetam Das-26](https://github.com/Preetam-Das26)
