@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ayush
+ - Place: Delhi, India
+ - Bio: 2nd year student @IIITDMJ.
+ - GitHub: [Rai-Ayush](https://github.com/Rai-Ayush)
