@@ -1,3 +1,8 @@
+#### Name: [Ayush Kumar Rai](https://github.com/Rai-Ayush)
+- Place: Dhanbad, India
+- Bio: Student - Otaku - MERN
+- GitHub: [](https://github.com/Rai-Ayush)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
