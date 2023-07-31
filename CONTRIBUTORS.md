@@ -2367,6 +2367,9 @@ Noida
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
+- 
+
+
 
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
@@ -2427,3 +2430,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [Wan Wan](https://github.com/lf2com)
+- Place: Taipei, Taiwan
+- Bio: Front-end Developer
+- GitHub: [Wan Wan](https://github.com/lf2com)
