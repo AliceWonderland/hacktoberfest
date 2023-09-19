@@ -1,3 +1,9 @@
+#### Name: [RITIK RAJ](https://github.com/ritik48)
+- Place: India
+- Bio: 3rd yeard CSE student, passionate coder and open source enthusiast.
+- Github: [ritik48](https://github.com/ritik48) 
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
