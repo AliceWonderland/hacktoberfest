@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Mukul Singh](https://github.com/mukul1107)
+- Place: Jaipur, Rajasthan, INDIA
+- Bio: I'm a Student from India pursuing Bachelor's Of Computer Applications with Full Stack Web Development specialisation.
+- GitHub: [Mukul Singh](https://github.com/mukul1107)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
