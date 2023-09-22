@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [VAGARTH PANDEY](https://github.com/vagxrth)
+- Place: Bengaluru, Karnataka, India
+- Bio: A first year computer science engineering student and a technology enthusiast.
+- GitHub: [Vagarth Pandey](https://github.com/vagxrth)
+
