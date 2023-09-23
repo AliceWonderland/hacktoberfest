@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifanio) 
+
+#### Name: [Gautam Kumar Chaudhary](https://github.com/gautamkrch)
+- Place: Patna, India
+- Bio: Full Stack Enthusiast
+- Github: [gautamkrch](https://github.com/gautamkrch)
