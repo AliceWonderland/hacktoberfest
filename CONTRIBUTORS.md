@@ -1,3 +1,9 @@
+#### Name: [Tejas Mahajan](https://github.com/tejas242)
+ - Place: Aurangabad, Maharashtra, India
+ - Bio: B.Tech. Computer Science Student
+ - Github: [Tejas Mahajan](https://github.com/tejas242)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
