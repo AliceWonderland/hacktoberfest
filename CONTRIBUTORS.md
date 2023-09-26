@@ -1,3 +1,8 @@
+###Name:Mangal Gupta
+-Place:India
+-Bio: Second year Computer Science Student.
+-Github:[mangalgithub](https://github.com/mangalgithub)  
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
