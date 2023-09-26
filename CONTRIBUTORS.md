@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratham Verma](https://github.com/PrathamVerma999)
+- Place: Delhi, India
+- Bio: Python Developer
+- Github: [Pratham Verma](https://github.com/PrathamVerma999)
