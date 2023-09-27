@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Simandhar Kumar Baid](https://github.com/Simandhar14)
+- Place: Kolkata,West Bengal,India
+- Bio: CSE Student at Kiit University
+- GitHub: [Simandhar Kumar Baid](https://github.com/Simandhar14)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
