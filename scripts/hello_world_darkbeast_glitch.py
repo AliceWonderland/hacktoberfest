@@ -3,4 +3,4 @@
 # Author: Julius Boakye
 #:GitHub: https://github.com/Darkbeast-glitch
 
-print("Hello World, welcome to Julius Boakye Bossom")
+print("Hello World!")
