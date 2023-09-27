@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Julius N.A Boakye](https://github.com/Darkbeast-glitch)
+- Place: Greater-Accra, Ghana
+- Bio: GDSC Lead for Accra Technical University, Python-Django Developer, 
+- GitHub: [Darkbeast-glitch](https://github.com/Darkbeast-glitch)
