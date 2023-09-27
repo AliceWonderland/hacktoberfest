@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshat Sharma](https://github.com/AKKSHAAT)
+- Place: Uttrakhand, India
+- Bio: Backend Developer ●'◡'●
+- GitHub: [AKKSHAAT](hello_world_yourusername.xx)
