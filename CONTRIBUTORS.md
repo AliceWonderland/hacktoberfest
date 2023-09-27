@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akbar](https://github.com/Xiraj)
+- Place: Bandung, Indonesia
+- Bio: Web developer React JS
+- Github: [Xiraj](https://github.com/Xiraj)
