@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Kunal Bajaj](https://github.com/Kunal27N)
+ - Place: Punjab, India
+ - Bio: 3rd year BCA student , doing full stack web development
+ - GitHub: [Kunal27N](https://github.com/Kunal27N)
+ - 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
