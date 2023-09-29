@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Varad Prabhu](https://github.com/vaxad)
+- Place: Mumbai, Maharashtra, India
+- Bio: Full stack web developer
+- GitHub: [vaxad](https://github.com/vaxad)
