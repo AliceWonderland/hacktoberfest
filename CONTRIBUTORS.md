@@ -1,3 +1,8 @@
+#### Name: Aditya
+ - Place: Chandigarh, India
+ - Bio: Second Year Computer Science student.
+ - GitHub: [Aditya41150](https://github.com/Aditya41150)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
