@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saujanya Solanki](https://github.com/Saujanya30)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Student at IET Lucknow?
+- GitHub: [Saujanya30](https://github.com/Saujanya30)
