@@ -1,3 +1,8 @@
+#### Name: [Mansi](https://github.com/Mannxxx)
+- Place: Delhi, India
+- Bio: Final year undergraduate at IIT-DELHI
+- GitHub: [Mannxxx](https://github.com/Mannxxx)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
