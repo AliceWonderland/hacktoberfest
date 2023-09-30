@@ -1,3 +1,7 @@
+#### Name: Somesh Choyal
+ - Place: Bangalore, Bharat
+ - Bio: Ai&Ml. UG from BMSIT 2025.
+ - GitHub: [SomeshChoyal](https://github.com/SomeshChoyal)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
