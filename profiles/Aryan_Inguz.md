@@ -1,4 +1,4 @@
-# Your Name
+# Aryan Inguz
 
 ### Location
 -Chandigarh, India
