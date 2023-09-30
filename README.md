@@ -132,3 +132,5 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+## Additional details
+There is lots and lots of PR on this repo for Hacktoberfest, but that's misleading.
