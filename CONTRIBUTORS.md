@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Zachary Tecson](https://github.com/zachhh14)
+- Place: Caloocan, Philippine}
+- Bio: Full Stack Web Developer and Student
+- Github: [Zachary Tecson](https://github.com/zachhh14)
