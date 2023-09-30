@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abdul Qadir](https://github.com/0xnull007)
+- Place: Lahore, Pakistan
+- Bio: System Prohrammer, Reverse Engineer 
+- GitHub: [0xnull007](https://github.com/0xnull007)
