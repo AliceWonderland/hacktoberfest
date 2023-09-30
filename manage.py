@@ -29,7 +29,7 @@ def format_contributor(contrib):
 
 # Remove trailing whitespaces
 # Make the file ready for sorting
-with open('CONTRIBUTORS.md', 'r+') as file:
+with open('CONTRIBUTORS.md', 'w+') as file:
     new_file_data = []
     for line in file.readlines():
         line = re.sub('^#{1,3} ', '#### ', line)
@@ -44,7 +44,7 @@ with open('CONTRIBUTORS.md', 'r+') as file:
 
 # Sorts the list of contributors and saves to file
 # The real thing happens here.
-with open('CONTRIBUTORS.md', 'r+') as file:
+with open('CONTRIBUTORS.md', 'w+') as file:
     contributors = [contributor.strip() for contributor in file.read().split('####')
                                 if contributor]
     contributors = [format_contributor(contrib) for contrib in contributors]
