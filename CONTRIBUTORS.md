@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Duncan Currie](https://github.com/duncan-hub))
+- Place: London UK
+- Bio: Software Engineer - Android Developer
+- Github: [Duncan Currie](https://github.com/duncan-hub)
