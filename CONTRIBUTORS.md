@@ -658,6 +658,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - Github: [dhevi](https://github.com/dhevi)
 
+#### Name: [Domenico Tenace](https://github.com/DomeT99)
+- Place: Italy
+- Bio: Software Developer
+- Github: [Domenico Tenace](https://github.com/DomeT99)
+
 #### Name: [Douglas Feuser](https://github.com/Douglasfeuser)
 - Place: Santa Catarina, Brazil
 - Bio: Front end web developer.
