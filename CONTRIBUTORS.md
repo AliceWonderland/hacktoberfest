@@ -1,3 +1,7 @@
+#### Name: [SUYOG CHAVAN](https://github.com/suyogschavan)
+- Place: Pune, India
+- Bio: Third year computer science student, love hackathons
+- GitHub: [Suyog Chavan](https://github.com/suyogschavan)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
