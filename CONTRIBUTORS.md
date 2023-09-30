@@ -5,7 +5,7 @@
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
-- Bio: second year Computer Science Student, in love with NYC <3
+- Bio: second-year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
@@ -19,7 +19,7 @@
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
-- Place: PUNJAB,INDIA
+- Place: PUNJAB, INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
@@ -34,7 +34,7 @@
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
-- Place: Himachal Pradesh,India
+- Place: Himachal Pradesh, India
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
@@ -105,12 +105,12 @@
 
 #### Name: [Aimee Tacchi](https://github.com/darkxangel84)
 - Place: England, UK
-- Bio: Female Front-End Developer From England, UK, I love Code, Cats and Tea. Also love travelling.
+- Bio: Female Front-End Developer From England, UK, I love Code, Cats, and Tea. I also love traveling.
 - GitHub: [darkxangel84](https://github.com/darkxangel84)
 
 #### Name: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - Place: Gurugram, India
-- Bio: Learner, Coder,  INFJ, multipotentialite and a person who loves
+- Bio: Learner, Coder,  INFJ, multipotentiality, and a person who loves
 to explore life. Also, Python and Django Developer
 - Github: [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - Website: [Introverted Geek](http://introvertedgeek.com)
