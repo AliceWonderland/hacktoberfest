@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Debapriya Jha](https://github.com/DebapriyaJha)
+- Place: Odisha, India
+- Bio: Web developer, designer, content writer, student
+- Github: [DebapriyaJha](https://github.com/DebapriyaJha)
