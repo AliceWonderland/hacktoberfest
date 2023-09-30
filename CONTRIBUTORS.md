@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Ayush Keshari
+ - Place: Bhubaneswar, Odisha
+ - Bio: Full Stack Developer
+ - GitHub: [ayush2-wd](https://github.com/ayush2-wd)
