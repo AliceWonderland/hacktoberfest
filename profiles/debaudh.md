@@ -1,4 +1,4 @@
-# Your Name
+# debaudh
 
 ### Location
 
@@ -11,6 +11,10 @@ Jadavpur University
 ### Interests
 
 - Science in general.
+
+### Development
+
+- Personal.
 
 ### Profile Link
 
