@@ -2428,7 +2428,3 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [PranavBarthwal](https://github.com/PranavBarthwal)
-- Place: Delhi, India
-- Bio: Student and Aspiring Software Developer
-- Github: [PranavBarthwal](https://github.com/PranavBarthwal)
