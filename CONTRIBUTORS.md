@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Omer Jauhar](https://github.com/Omerjauhar)
+- Place: Peshawar, Pakistan
+- Bio: Backend Engineer
+- Github: [Omer Jauhar](https://github.com/Omerjauhar)
