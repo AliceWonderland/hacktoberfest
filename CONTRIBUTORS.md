@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-- #### Name: [Aryan Inguz](https://github.com/Aryainguz)
+#### Name: [Aryan Inguz](https://github.com/Aryainguz)
 - Place: Chandigarh, India
 - Bio: MERN Stack and Django developer who loves programming his ideas into reality
 - GitHub: [Aryainguz](https://github.com/Aryainguz)
