@@ -26,4 +26,4 @@ PATNA `BIHAR` / INDIA
 >
 ### Profile Link
 
-[Your Name](GitHub Link)
+Go to profile [Sharma62](https://github.com/sharma62/)
