@@ -2427,3 +2427,11 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  #### Name: [Anurag Suryawanshi](https://github.com/Anuragsurya318)
+- Place: Nagpur, Maharashtra, India
+- Bio: Frontend developer
+- GitHub: [Anurag Suryawanshi](https://github.com/Anuragsurya318)
+
+
+  
