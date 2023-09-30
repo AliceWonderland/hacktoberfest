@@ -15,4 +15,5 @@
 ### Projects
 - [EuphoriaCheck](https://github.com/Aryainguz/Euphoria-Check-PERMA-Meter-Express) A Modern Happiness Meter based on PERMA model of Happiness
 
-### Profile Link [Aryainguz](https://github.com/Aryainguz)
+### Profile Link
+[Aryainguz](https://github.com/Aryainguz)
