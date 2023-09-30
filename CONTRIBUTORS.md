@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [debaudh](https://github.com/debghs)
+- Place: Kolkata, India
+- Bio: an annoyingly curious mind.
+- GitHub: [debghs](https://github.com/debghs)
