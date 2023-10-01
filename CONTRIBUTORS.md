@@ -1987,6 +1987,11 @@ Noida
 - Bio: Recent college grad attending Flatiron School coding bootcamp
 - GitHub: [Ryan Sperzel](https://github.com/ryansperzel)
 
+#### Name: [Rudra Parmar](https://github.com/rudraparmar76)
+- Place: Mumbai, Maharashtra, India
+- Bio: Second year diploma engineering student
+- GitHub: [Rudra Parmar](https://github.com/rudraparmar76)
+
 #### Name: [S Stewart](https://github.com/tilda)
 - Place: Denton, Texas, US
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
