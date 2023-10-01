@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Uttar Pradesh, India
+ - Bio: Engineering student
+ - GitHub: [Deependra Kumar](https://github.com/Deep-1507)
+   
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
