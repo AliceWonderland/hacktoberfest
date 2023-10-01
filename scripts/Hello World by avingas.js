@@ -3,4 +3,7 @@
 // AUTHOR: Anthony Vingas
 // GITHUB: https://github.com/avingas
 
-console.log("Hello World") 
+const helloWorld = () => {
+  console.log("Hello World") 
+}
+
