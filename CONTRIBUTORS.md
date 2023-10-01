@@ -2423,7 +2423,15 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Sourakanti](https://github.com/Sonu64)
+- Place: West Bengal, India
+- Bio: MERN Stack developer and UI/UX enthusiast.
+- Github: [Sourakanti](https://github.com/Sonu64)
+
