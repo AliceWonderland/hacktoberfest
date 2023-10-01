@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [AnkanHalder](https://github.com/AnkanHalder)
-- Place: Ankan Halder
+- Place: Kolkata,WestBengal, India
 - Bio: Nerdy Introvert and Full Stack Developer
 - Github: [Ankan Halder](https://github.com/AnkanHalder)
