@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [zaxoavoki](https://github.com/zaxoavoki)
+- Place: Wrocław, Poland
+- Bio: Full-stack developer
+- Github: [zaxoavoki](https://github.com/zaxoavoki)
