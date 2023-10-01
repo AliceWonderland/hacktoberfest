@@ -1,3 +1,7 @@
+#### Name: [Jayant](https://github.com/JayantVashishtha)
+ - Place: Agra
+ - Bio: Student
+ - Github: [Jayant](https://github.com/JayantVashishtha)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
