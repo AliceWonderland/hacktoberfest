@@ -2032,6 +2032,11 @@ Noida
 - Bio: Student
 - GitHub: [sarovisk](https://github.com/sarovisk)
 
+#### Name: [Saransh Bangar](https://github.com/SaranshBangar)
+- Place: Delhi, India
+- Bio: I am an aspiring web developer!
+- GitHub: [SaranshBangar](https://github.com/SaranshBangar)
+
 #### Name: [Sarthak Bhagat](https://github.com/sarthak268)
 - Place: Delhi, India
 - Bio: ECE Undergraduate
