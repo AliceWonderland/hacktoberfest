@@ -1,3 +1,8 @@
+#### Name: [SAHIL QURAISHI](https://github.com/sahilq312)
+- Place: Kolkata, West-Bengal, India
+- Bio: self taught developer , who love to code 
+- GitHub: [Sahil](https://github.com/sahilq312)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
