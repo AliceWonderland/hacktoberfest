@@ -174,7 +174,10 @@ to explore life. Also, Python and Django Developer
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
-
+#### Name: [Ameer Jafar](https://github.com/Ameerjafar)
+- place: India, TamilNadu
+- Bio: java developer 
+- Github: [Ameer Jafar] (https://github.com/Ameerjafar)
 #### Name: [Alexander Miller](https://github.com/allesmi)
 - Place: Salzburg, Austria
 - Bio: Student/Web Developer
