@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adnan Kaisar](https://github.com/whoadnan101)
+- Place: Dehradun, India
+- Bio: Web developer
+- Github: [Adnan Kaisar](https://github.com/whoadnan101)
