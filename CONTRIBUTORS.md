@@ -1413,6 +1413,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Senior Software Engineer, child at heart
 - GitHub: [Luke Taylor](https://github.com/lmcjt37)
 
+#### Name: [Likeur](https://github.com/Likeur)
+- Place: Lubumbashi, DRC
+- Bio: Junior frontend developer, graphic designer
+- GitHub: [Likeur](https://github.com/Likeur)
+
 #### Name: [Luís Antonio Prado Lança](https://github.com/luisslanca)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: I'm a student in Fatec Jundiaí and Web Developer.
