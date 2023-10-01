@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jangyaseni Sahoo](https://github.com/Jangyaseni666)
+- Place: Bhubaneswar, Odisha, India
+- Bio: Web Developer PHP, MERN stack, Java along with Spring Boot
+- GitHub: [Jangyaseni Sahoo](https://github.com/Jangyaseni666)
