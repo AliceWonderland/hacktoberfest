@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Usman Faizyab Khan](https://github.com/USMAN-FAIZYAB-KHAN)
+- Place: Karachi, Pakistan
+- Bio: Pythonist and Web developer
+- Github: [USMAN-FAIZYAB-KHAN](https://github.com/USMAN-FAIZYAB-KHAN)
