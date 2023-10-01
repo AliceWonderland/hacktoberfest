@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sahin Mallick](https://github.com/sahinmallick)
+- Place: Kolkata, West Bengal, India
+- Bio: Web developer. Know Python,C.
+- GitHub: [iamsahin03](https://github.com/sahinmallick)
