@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mohana Krishna](https://github.com/sh1fu23)
+ - Place: India
+ - Bio: Student
+ - GitHub: [sh1fu23](https://github.com/sh1fu23)
