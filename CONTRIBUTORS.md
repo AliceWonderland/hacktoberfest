@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- Name: Prakhar
+Place: New Delhi, India
+Bio: 3rd Year Undergrad. Graduating from SRM in 2025.
+GitHub: (https://github.com/Someone-who-loves-coding)
