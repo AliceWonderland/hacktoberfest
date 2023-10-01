@@ -1,3 +1,8 @@
+#### Name: [Sushant Kumar](https://github.com/Sushant0753)
+  - Place: New Delhi, India
+  - Bio: Second Year Computer Science Student, Interested in Gaming and AI.
+  - GitHub: [Sushant0753](https://github.com/Sushant0753)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
