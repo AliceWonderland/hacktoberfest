@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AnkanHalder](https://github.com/AnkanHalder)
+- Place: Kolkata,WestBengal, India
+- Bio: Nerdy Introvert and Full Stack Developer
+- Github: [Ankan Halder](https://github.com/AnkanHalder)
