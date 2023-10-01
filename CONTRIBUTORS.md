@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: Ali Rizvi
+- Place: Gaya, India
+- Bio: CSE Undergrad
+- GitHub: [AliRizvi433](https://github.com/AliRizvi433)
+
+#### Name: Vallenain 
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
