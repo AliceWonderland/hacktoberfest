@@ -494,6 +494,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Second year undergraduate(Computer Science)
 - GitHub: [ChathuminaVimukthi](https://github.com/ChathuminaVimukthi )
 
+#### Name: [Chiara Di Sano](https://github.com/KikiDotPy)
+- Place: Rome, Italy
+- Bio: Software developer at Thoughtworks and a11y enthusiast!
+- GitHub: [KikiDotPy](https://github.com/KikiDotPy)
+
 #### Name: [Chong Jia Wei](https://github.com/heyjiawei)
 - Place: Singapore
 - Bio: Transformer in disguise
