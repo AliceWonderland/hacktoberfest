@@ -2273,6 +2273,11 @@ Noida
 - Place: Germany
 - Bio: Webdeveloper, Sysadmin
 
+#### Name: Vineet
+ - Place: India
+ - Bio: AI engineer, Student, Data enthusiast
+ - GitHub: [Vineet](https://github.com/vineetjaiss)
+   
 #### Name: [VEBER Arnaud](https://github.com/VEBERArnaud)
 - Place: Paris, France
 - Bio: Solution Architect @ Eleven-Labs
