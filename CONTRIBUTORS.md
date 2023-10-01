@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhinav Gupta](https://github.com/Abhinav232004)
+- Place: Amritsar, Punjab, India
+- Bio: B-Tech 2nd Year Student
+- GitHub: [Abhinav232004](https://github.com/Abhinav232004)
