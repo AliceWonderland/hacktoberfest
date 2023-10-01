@@ -1,3 +1,8 @@
+#### Usama Kashif
+ - Place: Karachi, Pakistan
+ - Bio: Developer, Designer
+ - GitHub: [Usama Kashif](https://github.com/UsamaKashif/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
