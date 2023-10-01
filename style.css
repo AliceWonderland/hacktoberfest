@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family:cursive;
+    font-size: xx-large;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+img{
+    height: 180px;
+
+}
+.zone{
+    background-color:#0064;
+    color:white;
+}
+.game-options-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.button {
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+}
+.button:hover{
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+    transform: translateY(-8px);
+    box-shadow: 5px 7px 14px rgba(0, 0, 0, 0.5),
+    5px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.result ,.score{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
+}
+.score{
+    background-color: rgba(14, 1, 193, 0.311);
+    text-align: center;
+}
+a:hover{
+    color: red;
+}
+
+
