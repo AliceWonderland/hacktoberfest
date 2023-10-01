@@ -1,3 +1,8 @@
+#### Name: Bharath Gaddam
+- Place: Hyderabad,Telangana
+- Bio: CSE student at RGIPT
+- GitHub: [Bharath Gaddam](https://github.com/bharathgaddam1712)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
