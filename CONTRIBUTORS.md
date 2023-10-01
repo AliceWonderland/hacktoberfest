@@ -1,3 +1,8 @@
+#### Name: Ruchir Kumar
+ - Place: Gujarat, India
+ - Bio: Second year Information Technology from Indian Institute of Information Technology Vadodara.
+ - GitHub: [Ruchir0403](https://github.com/Ruchir0403)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
