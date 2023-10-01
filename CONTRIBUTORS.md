@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dennis San Jose](https://github.com/sanjosedennis7593)
+- Place: Philippines
+- Bio: Dennis San Jose
+- GitHub: [Alex Marrujo](https://github.com/sanjosedennis7593)
