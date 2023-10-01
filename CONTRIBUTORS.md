@@ -28,6 +28,10 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [Azaba Daudiya](https://github.com/azabadaudiya)
+ - Place: Gujarat, India
+ - Bio: Pre Final Year, Computer Science student at GEC Gandhinagar
+ - GitHub: [Azaba](https://github.com/azabadaudiya)
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
