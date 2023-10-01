@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hareesh Naik](https://github.com/Hareesh061)
+- Place: Bangalore, Karnataka, India
+- Bio: Web Developer, Learner, #fresher 
+- GitHub: [Hareesh Naik](https://github.com/Hareesh061)
