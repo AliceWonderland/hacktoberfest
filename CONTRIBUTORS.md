@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mausoomi Roy](https://github.com/Mausoomi12)
+- Place: Indore, Madhya Pradesh, India
+- Bio: MERN developer?
+- GitHub: [Mausoomi12](https://github.com/Mausoomi12)
