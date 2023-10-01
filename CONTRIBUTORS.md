@@ -2418,6 +2418,11 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
+#### Name: [Vivek Kumar](https://github.com/wizvivek)
+- Place: Bengalore, Karnataka, India
+- Bio: Engineering Student
+- GitHub: [wizvivek](https://github.com/wizvivek)
+
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
