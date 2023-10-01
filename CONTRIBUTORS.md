@@ -405,6 +405,9 @@ to explore life. Also, Python and Django Developer
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
 
+#### Name : [KK](https://github.com/White-Dimension-univ-369)
+-place : India
+
 #### Name: [Brane](https://github.com/brane)
 - Place: Turkey
 - Bio: I am a caffeine based artificial life form.
