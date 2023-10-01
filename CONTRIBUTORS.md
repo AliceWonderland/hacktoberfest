@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suryansh Upadhyay](https://github.com/linneszyx)
+- Place: India
+- Bio: Full-Stack Dev and ML Enthusiast
+- GitHub: [linneszyx](https://github.com/linneszyx)
