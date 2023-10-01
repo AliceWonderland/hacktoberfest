@@ -1,3 +1,12 @@
+
+#### Name: Renu Sankhla
+ - Place: Jodhpur, Rajasthan, India
+ - Bio: 3rd year B.tech student in AI & Data Science, AI<3
+ - GitHub: https://github.com/sankhla2
+
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
