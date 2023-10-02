@@ -1,3 +1,8 @@
+#### Name: [Adarsh Addee](https://github.com/adarshaddee)
+ - Place: Ludhiana, Punjab, India
+ - Bio: I am a CSE Student (3rd year)
+ - Github: [Adarsh Addee](https://github.com/adarshaddee)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
