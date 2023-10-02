@@ -2427,3 +2427,11 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Simardeep Singh](https://github.com/SimardeepSingh-zsh)
+- Place: Calgary, Alberta
+- Bio: Cybersecurity professional focused on Cloud Security excellence.
+- Github: [SimardeepSingh-zsh](https://github.com/SimardeepSingh-zsh)
+
+
+
