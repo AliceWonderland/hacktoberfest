@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Pravisht Goel
+- Place: Uttar Pradesh , India
+- Bio: Software engineer, Graduate from AKGEC GZB, India.
+- GitHub: [Pravisht Goel](https://github.com/Pravisht)
