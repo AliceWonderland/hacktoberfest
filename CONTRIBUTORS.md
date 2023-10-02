@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prabhjot Singh](https://github.com/prabh-singh-b/)
+- Place: India
+- Bio: Software Developer
+- Github: [Prabhjot Singh](https://github.com/prabh-singh-b/)
