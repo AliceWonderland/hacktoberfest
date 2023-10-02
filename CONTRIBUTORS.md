@@ -1,3 +1,8 @@
+#### Name: [Rohit](https://github.com/Rohit-Yadavv)
+- Place: Karnal, Haryana, India
+- Bio: web developer
+- GitHub: [Rohit](https://github.com/Rohit-Yadavv)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
