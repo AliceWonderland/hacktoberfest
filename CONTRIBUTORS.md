@@ -68,6 +68,11 @@
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: Konda Srinivasa Nikhil
+ - Place: Hyderabad,India.
+ - Bio: Computer Science Student.
+ - GitHub: [nikhilks123](https://github.com/nikhilks123)
+
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
