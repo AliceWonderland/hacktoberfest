@@ -1950,6 +1950,11 @@ Noida
 - Bio: Student / Front-end Developer
 - GitHub: [Rizki Ramadhana](https://github.com/rizkiprof)
 
+#### Name: [Rohan Biswas](https://github.com/rohanpranto)
+- Place: Kolkata, West Bengal, India
+- Bio: Freelancer, Web Developer, Student.
+- GitHub: [Rohan Pranto](https://github.com/rohanpranto)
+
 #### Name: [Rohit Mathew](https://github.com/rohitjmathew)
 - Place: Bangalore, Karnataka, India
 - Bio: Android Developer, Freelancer and Tech Enthusiast
