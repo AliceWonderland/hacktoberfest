@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sahil Arora](https://github.com/TSxSAHIL)
+- Place: Bharatpur, India
+- Bio: Flutter Developer
+- Github: [TSxSAHIL](https://github.com/TSxSAHIL)
