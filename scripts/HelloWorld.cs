@@ -9,6 +9,7 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
+    // program class
     class Program
     {
         static void Main(string[] args)
