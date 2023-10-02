@@ -405,6 +405,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A guy looking to change career fields
 - GitHub: [Brandon Fadairo](https://github.com/BFadairo)
 
+#### Name: [Rohit Nayak](https://github.com/Rohitn-2312)
+- Place: New Delhi, Delhi, India
+- Bio: Front End Developer
+- GitHub: [Rohit Nayak](https://github.com/Rohitn-2312)
+
 #### Name: [Brane](https://github.com/brane)
 - Place: Turkey
 - Bio: I am a caffeine based artificial life form.
