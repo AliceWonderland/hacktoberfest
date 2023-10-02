@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Denis Bondarev](https://github.com/TheNiska)
+- Place: Voronezh, Russia
+- Bio: Listening Lana Del Rey
+- GitHub: [TheNiska](https://github.com/TheNiska)
