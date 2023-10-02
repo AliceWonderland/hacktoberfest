@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Diniranga Premanayake](https://github.com/Diniranga)
+- Place: Balangoda, Sri Lanka
+- Bio: Full Stack Developer and AI/ML Learner
+- Github: [Diniranga](https://github.com/Diniranga)
