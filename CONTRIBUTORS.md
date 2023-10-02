@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifani)
+
+#### Name: [Vaibhav](https://github.com/aex1526)
+- Place: India
+- Bio: Web developer and Python
+- Github: [Vaibhav](https://github.com/aex1526)
