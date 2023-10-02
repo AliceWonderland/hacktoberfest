@@ -2409,7 +2409,7 @@ Noida
 - Github: [gipsi](https://github.com/gipsi)
 
 #### Name: [syamkumar](https://github.com/syam3526)
-- Place:kerala,india
+- Place:Kerala,india
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanuj Dhote](https://github.com/Sanuj14)
+- Place: Bhandara, Maharastra, India
+- Bio: Student, A Tech-enthusiastic, Currently Learning Web-Development
+- GitHub: [Sanuj14](https://github.com/Sanuj14)
