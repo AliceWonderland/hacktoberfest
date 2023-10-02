@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shantanu Tiwari](https://github.com/Shantanu-Tiwari)
+- Place: Noida, India
+- Bio: Data Science Student, Web development
+- Github: [Shantanu Tiwari](https://github.com/Shantanu-Tiwari)
