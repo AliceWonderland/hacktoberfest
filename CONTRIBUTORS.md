@@ -1,3 +1,8 @@
+#### Name: [Manveer Singh](https://github.com/manveer600)
+- Place: Delhi, India
+- Bio: 3rd Year Undergrad Web developer skilled in MERN and a good problem solver in C++.
+- Github: [manveer600](https://github.com/manveer600)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
