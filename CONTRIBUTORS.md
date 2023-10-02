@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Jhoandi Ciau](https://github.com/JhonKing4)
+- Place: Cancún, QRoo, México
+- Bio: Me gusta aprender sobre tecnologias,estoy en la uni
+- GitHub: [Jhonking4](https://github.com/JhonKing4)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
