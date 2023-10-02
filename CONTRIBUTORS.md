@@ -1,3 +1,8 @@
+#### Name: [Sayantan Chakrabarty](https://github.com/Sayantan-tech-code)
+- Place: City, State, Country
+- Bio: Software enginner, Graduated from Academy of Technology
+- GitHub: [Sayantan-tech-code](https://github.com/Sayantan-tech-code)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
