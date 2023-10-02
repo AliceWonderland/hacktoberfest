@@ -2303,6 +2303,11 @@ Noida
 - Bio: Scrum Master and passionate technologist.
 - GitHub: [kashura](https://github.com/kashura)
 
+#### Name: [Ravi M Damor](https://github.com/ravithemore)
+- Place: Ahemdabad, Gujarat, India
+- Bio: ML Developer!
+- GitHub: [Ravi M Damor](https://github.com/ravithemore)
+
 #### Name: [Veronika Tolpeeva](https://github.com/ostyq)
 - Place: Moscow, Russia
 - Bio: Web developer
