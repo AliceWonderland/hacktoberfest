@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+ #### Name: Vilas
+ - Place: Banglore, Karnataka, India
+ - Bio: Software engineer. Enthusiastic web developer.
+ - GitHub: [vilasrhegde](https://github.com/vilasrhegde)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
