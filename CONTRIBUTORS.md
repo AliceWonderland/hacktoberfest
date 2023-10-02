@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sidhanth Pandey](https://github.com/sidpan2011)
+- Place: Delhi, India
+- Bio: Frontend Developer
+- Github: [sidpan2011](https://github.com/sidpan2011)
