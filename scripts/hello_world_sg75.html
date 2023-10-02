@@ -1,0 +1,57 @@
+<!-- // LANGUAGE: HTML Javascript
+// AUTHOR: Gururaj Sudhindra
+// GITHUB: https://github.com/SG75 -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hello, World!</title>
+    <style>
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      h1 {
+        font-family: "Arial", sans-serif; /* Fallback font */
+        display: inline-block;
+        font-size: 6rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="helloWorld"></h1>
+
+    <script>
+      const helloWorldCustomFont = () => {
+        const helloWorld = "Hello, World!";
+        const fontStyles = {
+          H: "font-style: italic; font-weight: bold;",
+          e: "color: blue; text-decoration: underline;",
+          l: "color: green;",
+          o: 'font-size: 200px; font-family: "Comic Sans MS", cursive;',
+          ",": "color: red;",
+          " ": "visibility: hidden;", // Hide spaces
+          W: "text-transform: uppercase; color: purple;",
+          r: "font-style: italic; color: orange;",
+          d: "font-weight: bold; text-shadow: 2px 2px 2px #888888;",
+        };
+
+        const h1Element = document.getElementById("helloWorld");
+
+        for (let i = 0; i < helloWorld.length; i++) {
+          const char = helloWorld[i];
+          const style = fontStyles[char] || ""; // Use the specified style or default to empty string
+          h1Element.innerHTML += `<span style="${style}">${char}</span>`;
+        }
+      };
+
+      helloWorldCustomFont();
+    </script>
+  </body>
+</html>
