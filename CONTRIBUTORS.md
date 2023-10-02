@@ -1,3 +1,10 @@
+#### Name: [SATYAM PATHANIA](https://github.com/Satyampathania)
+- Place: Jammu, Jammu and Kashmir , India
+- Bio: 3rd year Student with a tech passion and major computer science  
+- GitHub: [SATYAM PATHANIA](https://github.com/Satyampathania)
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
