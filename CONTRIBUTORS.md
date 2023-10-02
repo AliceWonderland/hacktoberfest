@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Aditya Sengupta](https://github.com/https://github.com/Aditya201814416)
+- Place: Kolkata,West Bengal, India
+- Bio: Machine Learning Enthusiast and Btech undergraduate
+- Github : [Aditya Sengupta](https://github.com/https://github.com/Aditya201814416)
