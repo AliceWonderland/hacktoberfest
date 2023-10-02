@@ -1,3 +1,8 @@
+#### Name: Jatin Meena
+ - Place: Bangalore , BHARAT
+ - Bio: 3rd year B.TECH student.
+ - GitHub: [Jatin1254](https://github.com/Jatin1254)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
