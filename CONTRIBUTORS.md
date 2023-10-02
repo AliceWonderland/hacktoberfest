@@ -1000,6 +1000,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love working with Images, Crypto, Networking and opengl, Work as a Backend Engineer in Go. Also, Love Rust!.
 - Github: [Ishan Jain](https://github.com/ishanjain28)
 
+#### Name: [Ishara Madusanka](https://github.com/ChillBroh)
+- Place: Galle, Srilanka
+- Bio: Computer Science Student
+- GitHub: [Acquila Santos Rocha](https://github.com/ChillBroh)
+
 #### Name: [Italo Góis](https://github.com/italogois)
 - Place: Aracaju, Sergipe, Brazil
 - Bio: Front End Developer
