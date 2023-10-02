@@ -1,3 +1,8 @@
+#### Name: Navneet Singh 
+ - Place: HARYANA , INDIA 
+ - Bio: Web Developer Skilled in React , Also well versed with problem Solving in C++ 
+ - GitHub: [navneet-Singh13](https://github.com/navneet-Singh13)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
