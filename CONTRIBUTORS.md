@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddik Aiyub Patel](https://github.com/Siddikpatel)
+- Place: Gujarat, India
+- Bio: Fresher | Full Stack Developer
+- Github: [Siddikpatel](https://github.com/Siddikpatel)
