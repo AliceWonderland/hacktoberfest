@@ -1,3 +1,7 @@
+#### Name: Aman Bind
+ - Place: Uttar Pradesh , Bharat
+ - Bio: CSE undergrad , IIIT Bhagalpur
+ - GitHub: [Vallenain](https://github.com/amanbind898)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
