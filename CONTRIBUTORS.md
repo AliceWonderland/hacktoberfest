@@ -1,8 +1,4 @@
-#### Name: [Hritik Kumar](https://github.com/hritik-6918)
 
-- Place: Kolkata,west bengal,india
-- Bio: Software development intern at Desi qna.
-- GitHub: [hritik-6918](https://github.com/hritik-6918)
 
 #### Name: Vallenain
 
