@@ -1,3 +1,8 @@
+#### Name: [Aditya Jyoti](https://github.com/aditya-jyoti)
+ - Place: Delhi, India
+ - Bio: Computer Science undergraduate
+ - Github: [Aditya-Jyoti](https://github.com/aditya-jyoti)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
