@@ -7,6 +7,7 @@
 public class Chathumina {
 
     public static void main(String[] args) {
+      // adding java println code
         System.out.println("Hello, world!");
     }
 
