@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Shuence](https://shuence.com)
+- Place: India
+- Bio: Fullstack Web developer, Always Exploring, Learning, Trying...
+- Github:[Shuence](https://github.com/shuence)
