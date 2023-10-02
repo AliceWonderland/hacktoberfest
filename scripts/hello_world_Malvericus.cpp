@@ -1,3 +1,7 @@
+// LANGUAGE: C++
+// AUTHOR: Malvika Bhadoriya
+// GITHUB: https://github.com/Malvericus
+
 #include <iostream> 
 
 using namespace std; 
