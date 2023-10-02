@@ -1464,6 +1464,11 @@ Noida
 - Bio: A sassy grad software engineer
 - Github: [MariosGeorgiou](https://github.com/MariosGeorgiou)
 
+#### Name: [Martín Martínez Arias](https://github.com/codemarti)
+- Place: Cancún, México
+- Bio: Me gusta entrenar el cuerpo y el cerebro
+- Github: [codemarti](https://github.com/codemarti)
+
 #### Name: [Mark Carlson](https://github.com/electrek)
 - Place: Chicago, IL, USA
 - Bio: Escape room maker
