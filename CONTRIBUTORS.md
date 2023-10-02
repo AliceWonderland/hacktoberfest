@@ -1,3 +1,8 @@
+#### Name: [PRAKHAR BAJPAAI](https://github.com/iprakhar25)
+- Place: Greater Noida, UttarPradesh, India
+- Bio: Engineerig grad in Information Technology
+- GitHub: [iprakhar25](https://github.com/iprakhar25)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
