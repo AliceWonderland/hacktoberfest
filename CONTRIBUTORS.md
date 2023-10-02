@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sparsh Verma](https://github.com/sparsh-18)
+- Place: India
+- Bio: Backend Web developer NestJs
+- Github: [Sparsh Verma](https://github.com/sparsh-18)
