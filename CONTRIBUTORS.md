@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Agarwal](https://github.com/yashagarwal0812)
+- Place: India
+- Bio: MERN Stack Developer
+- Github: [Yash Agarwal](https://github.com/yashagarwal0812)
