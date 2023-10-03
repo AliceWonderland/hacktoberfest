@@ -925,6 +925,11 @@ to explore life. Also, Python and Django Developer
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
 
+#### Name: [Deepak Jongra](https://github.com/deepakjongra)
+- Place: Hyderabad, India
+- Bio: Backend Dev
+- GitHub: [Deepak Jongra](https://github.com/deepakjongra)
+
 #### Name: [Hardik Surana](https://github.com/hardiksurana)
 - Place: Bangalore, India
 - Bio: Programmer, Student
