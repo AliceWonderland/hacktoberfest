@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sarthak Bajaj](https://github.com/yesar-codes)
+- Place: Karlsruhe, Baden Württemberg, Germany
+- Bio: Java Developer
+- GitHub: [yesar-codes](https://github.com/yesar-codes)
