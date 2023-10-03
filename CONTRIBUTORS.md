@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Agniva Bagchi](https://github.com/xQTREE)
+- Place: India
+- Bio: third year Computer Science Student, loves EDM!
+- GitHub: [Agniva Bagchi](https://github.com/xQTREE)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
