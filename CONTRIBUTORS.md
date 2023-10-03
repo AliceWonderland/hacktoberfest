@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [entropyMachine](https://github.com/entropyMachine)
+- Place: Calgary, Canada
+- Bio: Web developer
+- GitHub: [entropyMachine](https://github.com/entropyMachine)
