@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Raj Mandal](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Raj Mandal](https://github.com/Raj-Mandal-20)
+- Place: West Benagal, Kolkata
+- Bio: MERN stack Developer
+- Github: [Raj Mandal](https://github.com/Raj-Mandal-20)
