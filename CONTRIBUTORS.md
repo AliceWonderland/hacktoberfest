@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Utibe Udoma](https://github.com/utybe-cpu)
+- Place: Uyo, Akwa Ibom State, Nigeria
+- Bio: Web Developer, Social Media Manager and Technical Writer
+- GitHub: [Utibe Udoma](https://github.com/utybe-cpu)
