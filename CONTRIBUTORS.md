@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Raj Mandal](https://github.com/Raj-Mandal-20)
-- Place: West Benagal, Kolkata
+- Place: West Bengal, Kolkata
 - Bio: MERN stack Developer
 - Github: [Raj Mandal](https://github.com/Raj-Mandal-20)
