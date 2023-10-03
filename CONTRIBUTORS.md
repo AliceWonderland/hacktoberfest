@@ -1,3 +1,9 @@
+### Name: Aditya Khaladkar
+  - Place: Maharashtra, India
+  - Bio: Android developer - Kotlin, Jetpack compose | Java | Software Engineer
+  - GitHub: [Aditya Khaladkar](https://github.com/Aditya-Khaladkar)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
