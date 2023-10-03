@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Riyal Guha](https://github.com/riyalguha)
+- Place: Kolkata,India
+- Bio: Machine Learning Engineer
+- Github: [Riyal Guha](https://github.com/riyalguha)
