@@ -1,3 +1,8 @@
+#### Name: [SOMIL YADAV](https://github.com/somilyadav7)
+- Place: Hubli, Karnataka, India
+- Bio: Third Year Computer Science Student, I am a Web Developer
+- GitHub: [Somil Yadav](https://github.com/somilyadav7)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
