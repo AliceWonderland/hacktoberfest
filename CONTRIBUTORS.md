@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ananya Agrawal](https://github.com/ananyasgit)
+- Place: Mumbai, India
+- Bio: Aspiring data scientist
+- Github: [ananyasgit](https://github.com/ananyasgit)
