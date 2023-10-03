@@ -1,3 +1,8 @@
+#### Name: Sharad Kumar
+-Place: India
+-Bio: Second-year computer science student
+-Github: [sharadnkp](https://github.com/sharadnkp)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
