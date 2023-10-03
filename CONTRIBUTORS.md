@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chloe Zheng](https://github.com/ChloeXZheng)
+- Place: Washington State, USA
+- Bio: high school student
+- Github: [ChloeXZheng](https://github.com/ChloeXZheng)
