@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vaibhav Kumar](https://github.com/PrgVaibhav)
+- Place: Hyderabad, India
+- Bio: FrontEnd Developer
+- Github: [devXvaibhav](https://github.com/PrgVaibhav)
+
