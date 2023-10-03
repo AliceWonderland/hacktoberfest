@@ -1,3 +1,8 @@
+#### Name: Siddant
+ - Place: New Delhi, India
+ - Bio: Jr Java Developer. Graduated from MDU.
+ - GitHub: [trisid12](https://github.com/trisid12)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
