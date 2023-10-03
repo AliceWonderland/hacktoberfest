@@ -930,6 +930,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer, Student
 - Github: [Hardik Surana](https://github.com/hardiksurana)
 
+#### Name: [Sneha Agarwal](https://github.com/isyneha)
+- Place: Kanpur, India
+- Bio: Programmer, Student
+- Github: [Sneha Agarwal](https://github.com/isyneha)
+
 #### Name: [Harshil Agrawal](https://github.com/harshil1712)
 -Place: Vadodara, India
 -Bio: Student,Web Developer
