@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Logan Kwan](https://github.com/123HelloBob)
+- Place: Seattle, Washington, USA
+- Bio: HS Student
+- [123HelloBob](https://github.com/123HelloBob)
