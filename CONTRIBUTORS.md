@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhishek Thakur](https://github.com/thakurboy004)
+- Place: New Delhi, Delhi, India
+- Bio: Machine learning and python developer
+- GitHub: [thakurboy004](https://github.com/thakurboy004)
