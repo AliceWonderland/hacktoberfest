@@ -1,3 +1,8 @@
+#### Name: Mohit Sahu
+- Place : Chattisgarh, India
+- Bio : Student at IIT Patna
+- Github : [Mohit](https://github.com/Mohit-coder-droid)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
