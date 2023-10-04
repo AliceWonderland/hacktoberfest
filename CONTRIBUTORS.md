@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abdulmujeeb Sakibu](https://github.com/ayoni02)
+- Place: Ogun, Nigeria
+- Bio: Data scientist and Machine lerning engineer
+- Github: [Ayoni02](https://github.com/ayoni02)
