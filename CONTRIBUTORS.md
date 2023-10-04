@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Azka](https://github.com/Azkahr)
+- Place: Bandung, Indonesia
+- Bio: Web developer
+- Github: [Azka](https://github.com/Azkahr)
