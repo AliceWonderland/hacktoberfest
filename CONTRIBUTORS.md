@@ -1,3 +1,8 @@
+#### Name: [Meet Patel](https://github.com/meet244)
+- Place: Mumbai, Maharashtra, India
+- Bio: Computer Engineering Student, Trying out things..
+- GitHub: [Meet244](https://github.com/meet244)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
