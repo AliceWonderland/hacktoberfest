@@ -10,7 +10,7 @@ AISSMS IOIT, Pune
 
 ### Interests
 
-- Web Development.
+- Web Developmentand Problem Solving
 
 ### Profile Link
 
