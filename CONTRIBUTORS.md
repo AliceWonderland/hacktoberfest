@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Aninda Banerjee](https://github.com/Andyy-18)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Aninda Banerjee]((https://github.com/Andyy-18))
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
