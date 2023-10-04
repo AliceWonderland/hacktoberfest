@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Karan Singh](https://github.com/Karan16-prog)
+- Place: Ahmedabad, India
+- Bio: Frontend Developer
+- Github: [Karan16-prog](https://github.com/Karan16-prog)
