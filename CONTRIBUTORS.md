@@ -1,3 +1,8 @@
+#### Name: [BRIAN MUGO](https://github.com/MugoBrian)
+- Place: Nairobi, Kenya
+- Bio: Open Source Contributor, Web Accessibility Enthusiast
+- GitHub: [Brian Mugo](https://github.com/MugoBrian)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
