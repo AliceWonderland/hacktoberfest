@@ -1,3 +1,8 @@
+#### Name: [Arun Gopinathan](https://github.com/arungo)
+ - Place: Kochi, India
+ - Bio: Technical Assistant. Graduated from CUSAT.
+ - GitHub: [Vallenain](https://github.com/arungop)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
