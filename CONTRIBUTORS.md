@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [samyak1729] (https://github.com/samyak1729)
+- Place: Akola, MH, India
+- Bio: building stuff
+- Github: [samyak1729] (https://github.com/samyak1729)
+
