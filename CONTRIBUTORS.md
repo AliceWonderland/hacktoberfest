@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohit kumar ](https://github.com/Rohit112003)
+- Place:Bhubaneshwar, India
+- Bio: Full Stack and BlockChain Developer
+- Github: [Rohit kumar](https://github.com/Rohit112003)
