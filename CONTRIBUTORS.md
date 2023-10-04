@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditi](https://github.com/aditi5926)
+- Place: Delhi, India
+- Bio: Web Developer, C++ and Competitive Programming
+- Github: [Aditi](https://github.com/aditi5926)
