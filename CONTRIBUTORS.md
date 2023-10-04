@@ -1,3 +1,8 @@
+#### Name: Vaibhav Sharma
+ - Place: New Delhi, India
+ - Bio: Technical Consultant
+ - Github: [vaibhv0311](https://github.com/vaibhv0311)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
