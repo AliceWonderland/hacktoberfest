@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacktoberfest</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #24292e;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+        }
+        .main-content {
+            padding: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #0366d6;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Hacktoberfest</h1>
+        <p>Celebrate open source and make a meaningful contribution to the community!</p>
+        <a class="cta-button" href="https://hacktoberfest.digitalocean.com/">Get Started</a>
+    </header>
+    <div class="main-content">
+        <h2>What is Hacktoberfest?</h2>
+        <p>Hacktoberfest is a month-long celebration of open source software. During October, open source enthusiasts and developers from around the world come together to contribute to open source projects and earn rewards.</p>
+        <h2>How to Participate</h2>
+        <p>To participate in Hacktoberfest, you need to:</p>
+        <ul>
+            <li>Sign up on the <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest website</a></li>
+            <li>Contribute to open source projects by submitting pull requests on GitHub</li>
+            <li>Complete a minimum of 4 pull requests to earn a limited edition Hacktoberfest T-shirt</li>
+        </ul>
+        <h2>Get Involved</h2>
+        <p>Join the open source community and start contributing today!</p>
+        <a class="cta-button" href="https://hacktoberfest.digitalocean.com/">Get Started</a>
+    </div>
+</body>
+</html>
