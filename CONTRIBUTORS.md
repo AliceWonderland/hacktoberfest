@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Karuna Ketan](https://github.com/karunaket)
+- Place: Biratnagar, Koshi, Nepal
+- Bio: Game Designer and Developer
+- GitHub: [karuna ketan](https://github.com/karunaket)
