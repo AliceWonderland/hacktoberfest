@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Chandra Srivastava](https://github.com/yash985)
+- Place: Uttar Pradesh,India
+- Bio: Web developer(MERN)
+- Github: [yash985](https://github.com/yash985)
