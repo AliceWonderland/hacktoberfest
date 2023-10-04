@@ -88,6 +88,11 @@
 - Bio: Web Developer
 - GitHub: [a-m-a-z](https://github.com/a-m-a-z)
 
+#### Name: [Areeb Rafiq](https://github.com/Areebey)
+- Place: Karachi, Pakistan
+- Bio: Front-End Developer | Love to Code and Contribute in Open source.
+- GitHub: [Areebey](https://github.com/Areebey)
+
 #### Name: [Ahmad Musaddiq Mohammad](https://github.com/ahmadmusaddiq)
 - Place: Kuala Belait, Brunei Darussalam
 - Bio: Mechanical engineer
