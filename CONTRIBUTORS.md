@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Md Wasim Aslam](https://github.com/MdWasimAslam/)
+- Place: Kolkata, India
+- Bio: Full Stack Javascript Developer
+- Github: [Md Wasim Aslam](https://github.com/MdWasimAslam/)
