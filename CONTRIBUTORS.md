@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+  #### Name: [Prashasth Nair](https://github.com/prashasth-nair)
+- Place: Bangalore,INDIA
+- Bio: A Student studying computer science
+- GitHub: [Prashasth Nair](https://github.com/prashasth-nair)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
