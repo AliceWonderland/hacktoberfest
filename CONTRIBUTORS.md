@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Baikuntha](https://github.com/Baizkunthaz)
+- Place: Odisha, India
+- Bio: Just a Guy who is new to open source
+- Github: [baizkunthaz](https://github.com/Baizkunthaz)
