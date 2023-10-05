@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vasanth Kumar](https://github.com/vasanthkumar18)
+- Place: Bangalore, India
+- Bio: Embedded Software Engineer
+- Github: [Vasanth Kumar](https://github.com/vasanthkumar18)
