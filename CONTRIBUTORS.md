@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prisha Paliwal](https://github.com/pr1shaaa)
+- Place: California, USA
+- Bio: High School Student with Python Learning
+- Github: [pr1shaaa](https://github.com/pr1shaaa)
