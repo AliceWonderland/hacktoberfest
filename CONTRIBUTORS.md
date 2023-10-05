@@ -1,3 +1,8 @@
+### Name: [Kushal Srivastava](https://github.com/KushalSr)
+  - Place: Bangalore, Karnataka, India
+  - Bio: Open Source full-stack developer
+  - GitHub: [KushalSr](https://github.com/KushalSr)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
