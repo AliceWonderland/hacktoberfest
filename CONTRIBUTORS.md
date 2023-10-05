@@ -1,3 +1,8 @@
+#### Name: Muskan Pandey
+ - Place: Ayodhya
+ - Bio: Software engineer. Graduated from Dr. AITH ,kanpur
+ - GitHub: https://github.com/pandey03muskan
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
