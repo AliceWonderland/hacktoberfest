@@ -1,3 +1,8 @@
+#### Name: Bishwajeet
+ - Place: Bhubaneswar, India
+ - Bio: Student, BTech in CSE @ IIIT, SriCity
+ - GitHub: [SahooBishwajeet](https://github.com/SahooBishwajeet)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
