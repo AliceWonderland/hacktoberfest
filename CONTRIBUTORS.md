@@ -1,3 +1,8 @@
+#### Name: [SHAN HAROLD](https://github.com/shanharold)
+   -Place: Kerala, India
+   -Bio: Student, College of engineering, Trivandrum
+   -GitHub: [SHAN HAROLD](https://github.com/shanharold)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
