@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Tanay Singh](https://github.com/Tanay3484)
+- Place: Bengaluru, Karnataka, India
+- Bio: Computer Engineering Undergraduate with acumen in AI , Machine Learning, Cloud & Data Analytics at Core.
+- GitHub: [Tanay3484](https://github.com/Tanay3484)
