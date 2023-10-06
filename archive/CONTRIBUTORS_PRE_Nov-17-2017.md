@@ -16680,4 +16680,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
+#### Name: [Akansha Kumari](https://github.com/akansh30)
+- Place: Bhubaneshwar,Odisha,India
+- Bio: Computer Science Student
+- GitHub: [akansh30](https://github.com/akansh30)
