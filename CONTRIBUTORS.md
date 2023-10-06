@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Israel Batista](https://github.com/israelfer)
+- Place: Campinas - SP, Brazil
+- Bio: Frontend Developer
+- Github: [Israel Batista](https://github.com/israelfer)
