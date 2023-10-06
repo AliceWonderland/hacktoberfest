@@ -1,3 +1,8 @@
+### [ALEX MWANIKI NYAMBURA](https://github.com/lxmwaniky/)
+ - Place: Kenya
+ - Bio: 1st year Information Technology Student and Software Engineering student at ALX AFRICA
+ - Github: [lxmwaniky](https://github.com/lxmwaniky/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
