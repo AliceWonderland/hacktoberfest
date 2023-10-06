@@ -1930,6 +1930,11 @@ Noida
 - Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
 - GitHub: [Raymond Duckworth](https://github.com/raymondxduckworth/)
 
+#### Name: [Reed Pilcher](https://https://github.com/reedpilcher)
+- Place: Jacksonville, Florida, USA
+- Bio: Information Technology Student with aspirations of becoming a software developer
+- GitHub: [Reed Pilcher](https://https://github.com/reedpilcher)
+
 #### Name: [Ren Cummings](https://github.com/nrenc027)
 - Place: Dayton,OH, USA
 - Bio: I like Code :sunglasses:, Coloring :art:, and Cardio :running:
