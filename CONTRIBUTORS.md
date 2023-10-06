@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Preetha S] (https://github.com/Pree-04)
+- Place: Bengaluru, India
+- Bio: Machine Learning engineer and student developer
+- Github: [pree-04] (https://github.com/Pree-04)
