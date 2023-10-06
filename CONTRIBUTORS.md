@@ -1,3 +1,8 @@
+#### Name: [Shubham Chaudhary](https://github.com/Stellar-X)
+ - Place: Pune, India
+ - Bio: Assoc. Product Developer
+ - GitHub: [Stellar-X](https://github.com/Stellar-X)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
