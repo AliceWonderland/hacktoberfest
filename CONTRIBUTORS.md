@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Sameeksha](https://github.com/Sameeksha2323)
+-Place: Delhi, India
+-Bio: Coding Girlie
+-Github: [Sameeksha](https://github.com/Sameeksha2323)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
