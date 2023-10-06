@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [ANUP KUMAR](https://github.com/enterbrianup)
+- Place: SHEIKHPURA, BIHAR
+- Bio: GRADUATED WITH CS MAJOR IN 2023.
+- GitHub: [enterbrianup](https://github.com/enterbrianup)
