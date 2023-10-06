@@ -1,3 +1,8 @@
+#### Name: [Kunal Halder](https://github.com/kunal-halder577)
+ - Place: Kolkata, India
+ - Bio: 2nd Year Computer science and Engineering student.
+ - GitHub: [kunal-halder577](https://github.com/kunal-halder577)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
