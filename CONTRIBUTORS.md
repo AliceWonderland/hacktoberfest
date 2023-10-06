@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shriyansh Sinha](https://github.com/shriyanshsinha9)
+- Place: New Delhi, Delhi, India
+- Bio: IT Student at VIT
+- GitHub: [shriyanshsinha9](https://github.com/shriyanshsinha9)
