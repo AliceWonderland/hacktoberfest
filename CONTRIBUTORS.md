@@ -1,3 +1,8 @@
+#### Name: [Utkarsh Trivedi](https://github.com/UtkarshTrivedi2934)
+- Place: Bhubaneshwar, Odisha, INDIA
+- Bio: 3rd year UnderGrad at KIIT University
+- GitHub: [UtkarshTrivedi2934](https://github.com/UtkarshTrivedi2934)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
