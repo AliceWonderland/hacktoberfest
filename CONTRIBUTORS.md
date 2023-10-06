@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shashanka](https://github.com/Shashanka10)
+- Place: Bhaktapur, Bagmati, Nepal
+- Bio: A computer enthusiast and a traveller who loves to trek.
+- GitHub: [Shashanka10](https://github.com/Shashanka10)
