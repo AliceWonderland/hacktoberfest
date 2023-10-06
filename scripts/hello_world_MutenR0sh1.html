@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Colorful Text Animation</title>
+  <style>
+    /* Define different colors for each letter */
+    .text-animation span:nth-child(1) { color: red; }
+    .text-animation span:nth-child(2) { color: green; }
+    .text-animation span:nth-child(3) { color: blue; }
+    .text-animation span:nth-child(4) { color: orange; }
+    .text-animation span:nth-child(5) { color: purple; }
+    .text-animation span:nth-child(6) { color: teal; }
+    .text-animation span:nth-child(7) { color: pink; }
+    .text-animation span:nth-child(8) { color: brown; }
+    .text-animation span:nth-child(9) { color: gray; }
+    .text-animation span:nth-child(10) { color: navy; }
+    .text-animation span:nth-child(11) { color: rgb(218, 183, 71); }
+    .text-animation span:nth-child(12) { color: rgb(18, 138, 168); }
+    .text-animation span:nth-child(13) { color: rgb(62, 194, 35); }
+    .text-animation span:nth-child(14) { color: rgb(119, 189, 54); }
+    .text-animation span:nth-child(15) { color: rgb(206, 22, 160); }
+    .text-animation span:nth-child(16) { color: rgb(110, 27, 62); }
+    .text-animation span:nth-child(17) { color: rgb(18, 206, 219); }
+
+    /* Add animation for the letters */
+    .text-animation span {
+      display: inline-block;
+      opacity: 0;
+      transform: translateY(1em);
+      animation: revealText 1.0s forwards;
+      animation-delay: 0.5s;
+      animation-iteration-count: infinite; /* Make the animation repeat infinitely */
+    }
+    @keyframes revealText {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="text-animation">
+    <span>H</span>
+    <span>e</span>
+    <span>l</span>
+    <span>l</span>
+    <span>o</span>
+    <span> </span>
+    <span>W</span>
+    <span>o</span>
+    <span>r</span>
+    <span>l</span>
+    <span>d</span>
+    <br>
+    <span>b</span>
+    <span>y</span>
+    <span> </span>
+    <span>Muten</span>
+    <span>Roshi</span>
+  </div>
+
+    <script>
+  </script>
+</body>
+</html>
