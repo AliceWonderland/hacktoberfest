@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Meet Javiya](https://github.com/meet-javiya0)
+- Place: Gujarat, India
+- Bio: Android developer
+- GitHub: [Meet Javiya](https://github.com/meet-javiya0)
