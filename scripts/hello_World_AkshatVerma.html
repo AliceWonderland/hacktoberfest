@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello_World_Akshat_Verma</title>
+
+
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        body::before{
+            content: " ";
+            height: 100vh;
+            width: 100vw;
+            position: absolute;
+            background: rgb(2,0,36);
+            background: linear-gradient(29deg, rgba(2,0,36,1) 0%, rgba(9,125,18,1) 40%, rgba(0,212,255,1) 100%);
+            background-size: cover;
+            background-position: center;
+            opacity: .97;
+            z-index: -1;
+            top: 0;
+            left: 0;
+        }
+
+        /* .container::before{ */
+/*             
+        } */
+
+        .container{
+            display: block;
+            position: absolute;
+            align-items:center ;
+            justify-content: center;
+            text-align: center;
+            top: 40%;
+            left: 30%;
+            background: black;
+            color: rgb(15, 218, 15);
+            font-size: 2rem;
+            height: 200px;
+            width: 500px;
+            border: 12px solid white;
+            border-top-left-radius: 25px;
+            border-bottom-right-radius: 25px;
+            padding: 50px ;
+        }
+
+        .bttn{
+            text-align: center;
+            width: 100px;
+            height: auto;
+            font-size: 18px;
+            padding: 5px;
+            font-weight: 600;
+            color: white;
+            background-color: red ;
+            border-radius: 10px;
+            outline: 0;
+        }
+
+
+
+
+    </style>
+</head>
+<body>
+ <!-- Language:  JavaScript
+ ENV: Node.js
+ Author: Akshat Verma
+ GitHub: https://github.com/Akshatverma01 -->
+
+    <div class="container">
+        
+        <h1 id="h1">Hello World !</h1>
+
+        <button class="bttn" id="btn" onclick="change(this.value)" >
+            click me !
+        </button>
+
+    </div>
+
+
+
+    <script>
+
+        const btn = document.getElementById('btn')
+        const head = document.getElementById('h1')
+        
+        const change=(value)=>{
+            head.innerHTML =`Hello World <br>This is Akshat Verma.`
+            head.style.fontSize= `2rem`
+            btn.style.background = "yellow"
+            btn.style.color="red"
+            setTimeout(()=>{
+                head.innerHTML =`Hello World `
+                head.style.fontSize= `3rem`
+                btn.style.background = "red"
+                btn.style.color="yellow"
+                window.alert("Text has been Changed!");
+            },500)
+          
+        }       
+
+    </script>
+</body>
+</html>
