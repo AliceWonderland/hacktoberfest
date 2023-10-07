@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [TAIWO SAMUEL](https://github.com/Taiwosamuel8364)
+- Place: Osun, Nigeria
+- Bio: Web developer
+- GitHub: [TAIWO SAMUEL](https://github.com/Taiwosamuel8364)
