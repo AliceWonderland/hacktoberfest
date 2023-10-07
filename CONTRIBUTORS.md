@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhigyan Chakraborty](https://github.com/Abhigyan2002)
+- Place: West Bengal, India
+- Bio: CP in JAVA, Python, C
+- Github: [Abhigyan2002](https://github.com/Abhigyan2002)
