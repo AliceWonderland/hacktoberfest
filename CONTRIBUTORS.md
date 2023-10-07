@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rakshit Kumar](https://github.com/mighty-phoenix)
+- Place: New Delhi, India
+- Bio: Passionate software developer and beyond!
+- Github: [Rakshit Kumar](https://github.com/mighty-phoenix)
