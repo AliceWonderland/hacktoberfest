@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ANKIT YADAV](https://github.com/ankit5646)
+- Place: UTTAR PRADESH,INDIA
+- Bio: FRONTEND DEVELOPER
+- GitHub: [ANKIT YADAV](https://github.com/ankit5646)
