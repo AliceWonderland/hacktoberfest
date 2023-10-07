@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avikshit Chanda](https://github.com/AvikshitChanda)
+-Place: Nagpur , India
+-Bio: Web Developer , Machine Learning Enthusiast
+-Github:[Avikshit Chanda](https://github.com/AvikshitChanda)
