@@ -1,3 +1,7 @@
+#### Name: Aditya
+- PLace:  India
+- Bio: SDE
+- Github: [Aditya] (github.com/extinctsion)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
