@@ -1,3 +1,8 @@
+#### Name: [Rohan Santhosh](https://www.linkedin.com/in/rohansanthosh)
+- Place: Bengaluru, Karnataka, India
+- Bio: An undergrad passionate about the internet and music!
+- GitHub: [Rohan-San](https://github.com/Rohan-San)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
