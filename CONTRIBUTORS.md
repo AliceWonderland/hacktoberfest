@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Marcell Gibbs](https://github.com/0silverback0)
+- Place: Effot, Pennsylvania, USA
+- Bio: Meta Backend Certified Developer
+- GitHub: [0silverback0](https://github.com/0silverback0)
