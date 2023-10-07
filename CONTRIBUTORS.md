@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Akshay Pandit](https://github.com/panditakshay402)
+- Place: mumbai, india
+- Bio: app developer  and ai
+- Github: [Akshay Pandit](https://github.com/panditakshay402)
