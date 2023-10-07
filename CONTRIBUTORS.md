@@ -28,6 +28,12 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name:[Priyanshu Ranjan](https://github.com/RanjanTheDoer)
+  - Place : Chandigarh , India
+  - Bio : I am newbie to coding but coding is cool , I like it .
+  - GitHub: [RanjanTheDoer](https://github.com/RanjanTheDoer)
+ 
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
