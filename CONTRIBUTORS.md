@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shikhar Gupta](https://github.com/shikhargupta-in)
+- Place: Haryana, India
+- Bio: Back-end Developer
+- Github: [Shikhar Gupta](https://github.com/shikhargupta-in)
