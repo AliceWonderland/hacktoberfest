@@ -1,3 +1,8 @@
+#### Name:  MOHAMMED SALMAN THURAAB
+ - Place: hyderabad , TELANGANA
+ - Bio: OPNSOURCE ENTHUSIAST, YOUTUBER , EDUCATOR
+ - GitHub: [ThuraabTech] (https://github.com/Thuraabtech)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
