@@ -1,9 +1,3 @@
-#### Name: Chomba
-
-- Place: Lusaka, Zambia
-- Bio: Software engineer.
-- [Chomba](https://github.com/chombazm)
-
 #### Name: Vallenain
 
 - Place: Lyon, France
@@ -2918,3 +2912,9 @@
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Chomba](https://chomba.dev)
+
+- Place: Lusaka, Zambia
+- Bio: Software engineer.
+- Github: [Chomba](https://github.com/chombazm)
