@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ilyas dahhou](https://github.com/dahhou-ilyas)
+- Place: Rabat, Morocco
+- Bio: Web developer NextJs and Python
+- GitHub: [dahhou ilyas](https://github.com/dahhou-ilyas)
