@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dev Datir](https://github.com/DevDatir)
+- Place: Pune, Maharashtra, India
+- Bio: App Developer with a keen interest in competitive programming
+- GitHub: [DevDatir](https://github.com/DevDatir)
