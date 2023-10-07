@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Mujibullah Inami
+ - Place: Kolkata, India
+ - Bio: Full Stack Developer
+ - GitHub: [Mujib7654](https://github.com/Mujib7654?tab=repositories)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
