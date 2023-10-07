@@ -325,6 +325,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Jr Full Stack Developer making my first contribution.
 - GitHub: [apcatx](https://github.com/apcatx)
 
+#### Name: [Aavantika Singhal](https://github.com/Aavantikaaa)
+- Place: Mumbai, Maharashtra, India.
+- Bio: Hello..!! I am Aavantika!.
+- GitHub: [Aavantikaaa](https://github.com/Aavantikaaa)
+
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
 - Place:Surat,Gujarat,India.
 - Bio:In love with the WEB,from age of 5!
