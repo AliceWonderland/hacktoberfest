@@ -83,6 +83,11 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+#### Name: [Dhruva Bhattacharya](https://github.com/dhruvaop)
+- Place: Ind, IN, Bharat
+- Bio: Software Engineer 
+- GitHub: [Adiyat Mubarak](https://github.com/dhruvaop)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
