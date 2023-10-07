@@ -2269,6 +2269,11 @@ Noida
 - Bio: Android Developer, Operating Systems Enthusiast
 - GitHub: [darkLord19](https://github.com/darkLord19)
 
+#### Name: [V M Tejus](https://github.com/V-M-Tejus)
+- Place: India
+- Bio: Web and IOT Developer
+- Github: [V M Tejus](https://github.com/V-M-Tejus)
+
 #### Name: [V3NG](https://github.com/ianklemm)
 - Place: Germany
 - Bio: Webdeveloper, Sysadmin
