@@ -4,7 +4,7 @@
 // GITHUB: https://github.com/dahhou-ilyas
 
 (function() {
-    const text = "Hello, World!";
+    const text = "Hello,World!";
     let visible = true;
   
     function blink() {
