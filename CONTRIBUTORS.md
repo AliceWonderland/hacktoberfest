@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pooja Kanojia](https://github.com/Pooja123667)
+- Place: Mumbai, Maharashtra
+- Bio: DeOps Engineer
+- Github: [Pooja Kanojia](https://github.com/Pooja123667)
