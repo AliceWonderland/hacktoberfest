@@ -2431,4 +2431,4 @@ Noida
 - #### Name: [Ramiro ZS](https://github.com/Ingrzs)
 - Place:  CDMX, MEXICO
 - Bio: Web developer and Marketing
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ramiro ZS](https://github.com/Ingrzs)
