@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Manvi](https://github.com/manvibhutani)
+- Place:Haryana,India
+- Bio: Sophomore pursuing IT
+- Github: [Manvi](https://github.com/manvibhutani)
+  
