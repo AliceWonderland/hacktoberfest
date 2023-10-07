@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+  
+- #### Name: [Ramiro ZS](https://github.com/Ingrzs)
+- Place:  CDMX, MEXICO
+- Bio: Web developer and Marketing
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
