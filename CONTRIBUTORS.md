@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+   
+   #### Name: Aniketh Deb
+ - Place: Chennai,Tamil Nadu,India
+ - Bio: Tech Enthusiast. Currently pursuing BTECH CSE (1st year).
+ - GitHub: [AnikethDeb2004](https://github.com/AnikethDeb2004)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
