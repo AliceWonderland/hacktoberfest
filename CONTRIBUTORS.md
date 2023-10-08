@@ -145,6 +145,11 @@ to explore life. Also, Python and Django Developer
  - Bio: CSE Undergrad in IIIT Hyderabad
  - Github: [akshat14714](https://github.com/akshat14714/)
 
+#### Name: [Akshay Chavan](https://github.com/Akshay73c/)
+ - Place: Pune, India
+ - Bio: ENTC Undergrad at VIT, Pune
+ - Github: [Akshay Chavan](https://github.com/Akshay73c/)
+
 #### Name: [Akshit Kharbanda](https://github.com/akshit04)
 - Place: Delhi, India
 - Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
