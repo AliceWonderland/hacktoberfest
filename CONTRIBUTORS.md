@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Rajasthan
+ - Bio: Student (computer Science)
+ - GitHub: [hars008](https://github.com/hars008)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
