@@ -4,7 +4,7 @@
 
 Bangalore, India
 
-### Academics
+### AcademicsPrateek_Pandey.md
 
 Undergraduated in Computer Science.
 
