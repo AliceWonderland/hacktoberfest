@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Supratick Mondal
+ - Place: Kolkata, India
+ - Bio: Software engineer. Graduated from Jadavpur UNiversity.
+ - GitHub: [Sonustar](https://github.com/sonustar)
