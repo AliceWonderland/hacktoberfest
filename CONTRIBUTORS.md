@@ -1,3 +1,8 @@
+#### Name: Ritwika
+ - Place: Kolkata , India
+ - Bio: Second year Computer Science Student.
+ - GitHub: [Ritwika-14](https://github.com/Ritwika-14))
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
