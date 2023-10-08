@@ -673,6 +673,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer
 - GitHub: [Dustin Woods](https://github.com/dustinywoods)
 
+#### Name: [Chandrakant Kushwah](https://github.com/03brainy-clicks)
+- Place: MN, USA
+- Bio: Software Developer
+- GitHub: [Chandrakant Kushwah](https://github.com/03brainy-clicks)
+
 #### Name: [Dvir](https://github.com/dvur12)
 - Place: Israel
 - Bio: \x90\x90\x90\x90
