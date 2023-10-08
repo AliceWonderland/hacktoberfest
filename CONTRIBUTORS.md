@@ -1634,6 +1634,11 @@ Noida
 - Bio: Software developer and musician
 - GitHub: [Moisés Ñañez](https://github.com/moisesnandres)
 
+#### Name: [MokshaNirugutti](https://github.com/mokshanirugutti)
+- Place: India
+- Bio: Software Developer
+- GitHub: [mokshanirugutti](https://github.com/mokshanirugutti)
+
 #### Name: [Mon](https://github.com/mon555)
 - Place: Bangkok, Thailand
 - Bio: Interactive Developer
