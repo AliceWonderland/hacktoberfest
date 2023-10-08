@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [KENNETH CHILDS JR](https://github.com/kchilds1)
+- Place: Tulsa, OK., USA
+- Bio: Web developer JavaScript, HTML, CSS
+- GitHub: [kchilds1](https://github.com/kchilds1)
