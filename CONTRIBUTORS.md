@@ -1,3 +1,8 @@
+#### Name: [ABDUSSALAM MUSTAPHA](https://github.com/abdussalam-mustapha)
+- Place: Lagos, Nigeria
+- Bio: I am a first year computer science student and also a fullstack developer?
+- GitHub: [abdussalam-mustapha](https://github.com/abdussalam-mustapha)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
