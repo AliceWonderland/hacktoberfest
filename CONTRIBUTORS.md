@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sristi Shah](https://github.com/sristi-shah)
+- Place: Bhagalpur, Bihar, India
+- Bio: Software development Student and engineer?
+- GitHub: [sristi-shah](https://github.com/sristi-shah)
