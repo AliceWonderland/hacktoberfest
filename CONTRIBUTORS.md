@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Sneh Shah](https://github.com/Sneh16Shah)
+- Place: Ahmedabad, Gujarat, India
+- Bio: IT Undergrad at IIIT Allahabad
+- Github: [Sneh16Shah](https://github.com/Sneh16Shah)
