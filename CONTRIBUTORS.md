@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [SNEHA DESHMUKH](https://github.com/SnehaDeshmukh28)
+- Place: Mumbai, India
+- Bio: Third Year CSE Student, Passionate Fullstack Developer and a nature lover.
+- GitHub: [Sneha Deshmukh](https://github.com/SnehaDeshmukh28)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
