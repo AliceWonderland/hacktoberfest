@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratyush Agrawal](https://github.com/K-MAC27)
+- Place: Mumbai, Maharashtra, India
+- Bio: Full stack developer!
+- GitHub: [Pratyush Agrawal](https://github.com/K-MAC27)
