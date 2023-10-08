@@ -1,6 +1,6 @@
 #Lang Python2
 #env Interactive as well as script
-#aut Anshu Musaddi
-#github https://github.com/anshucollege
+#aut Rishab Bairi
+#github https://github.com/RishabB54
 print "Hello World"
-print "Kevin was here to Say Hello World!"
+print "Rishab was here to Say Hello World!"
