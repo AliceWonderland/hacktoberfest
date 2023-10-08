@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Subhashree Prusty](https://github.com/SubhashreePrusty)
+- Place: Odisha,India
+- Bio: noob developer
+- Github: [SubhashreePrusty](https://github.com/SubhashreePrusty)
