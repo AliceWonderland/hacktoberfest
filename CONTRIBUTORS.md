@@ -1,3 +1,7 @@
+#### Name: [PRASHAREET CHOUDHURY](https://github.com/prashareet)
+ - Place: Kolkata, India
+ - Bio: Second year student @HITK,just love everything about software development
+ - GitHub: [prashareet](https://github.com/prashareet)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
