@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- ### Name: [Rudra-Sankha-Sinhamahapatra] (https://github.com/Rudra-Sankha-Sinhamahapatra)
+- Place: Bhubaneswar,India
+- Bio: Computer Science Student
+- Github: [Rudra-Sankha-Sinhamahapatra] (https://github.com/Rudra-Sankha-Sinhamahapatra)
