@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+
+#### Name: [Aneket Burman](https://github.com/Aneket-Burman)
+- Place: India
+- Bio: B.Tech ECE UnderGrad
+- GitHub: [Aneket Burman](https://github.com/Aneket-Burman)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
