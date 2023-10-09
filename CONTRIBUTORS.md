@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jidhun](https://github.com/jidhxn)
+- Place: Delhi, India
+- Bio: Computer Science Student
+- GitHub: [Jidhxn](https://github.com/jidhxn)
