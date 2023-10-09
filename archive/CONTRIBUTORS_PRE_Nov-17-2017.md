@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [NotSoToxic](https://github.com/NotSoToxic)
+- Place: New Delhi, India
+- Bio: WebDev and Java
+- Github: [NotSoToxic](https://github.com/NotSoToxic)
