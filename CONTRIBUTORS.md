@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [rizkiromadoni](https://github.com/rizkiromadoni)
+- Place: Java, Indonesia
+- Bio: Backend Developer
+- Github: [rizkiromadoni](https://github.com/rizkiromadoni)
