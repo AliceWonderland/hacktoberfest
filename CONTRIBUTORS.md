@@ -1,3 +1,8 @@
+#### Name: [Kumud Verma](https://github.com/KUMUD-TECH/) 
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Second year Information Technology Student, Web Developer
+- Github: [KUMUD-TECH](https://github.com/KUMUD-TECH/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
