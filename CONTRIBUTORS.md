@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Kumar Gupta](https://github.com/YKGupta)
+- Place: Uttar Pradesh, India
+- Bio: Unity game developer, Web developer and 3D modeller
+- Github: [Yash Kumar Gupta](https://github.com/YKGupta)
