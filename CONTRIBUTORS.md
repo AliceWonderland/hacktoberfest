@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Jash Parikh](https://github.com/Jash7447)
+- Place: India
+- Bio: Software Developer, I love dogs! :dog: 
+- GitHub: [Jash Parikh](https://github.com/Jash7447)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
