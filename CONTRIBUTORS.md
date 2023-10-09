@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aishwarya Gupta](https://github.com/Aishwarya7902)
+- Place: Bihar, India 
+- Bio: Full Stack Web Developer 
+- Github: [Aishwarya7902](https://github.com/Aishwarya7902)
