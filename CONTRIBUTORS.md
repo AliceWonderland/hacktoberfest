@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Atul Sisodiya](https://github.com/AtulSisodiya)
+- Place: Jaipur, India
+- Bio: CSE student RTU Kota
+- GitHub: [Atul Sisodiya](https://github.com/AtulSisodiya)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
