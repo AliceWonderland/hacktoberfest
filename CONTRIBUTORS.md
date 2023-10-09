@@ -1,3 +1,8 @@
+#### Name: [Abed Afnan](https://github.com/abid211051)
+- Place: Feni, Chittagong, Bangladesh
+- Bio: I am Mern stack developer?
+- GitHub: [abid211051](https://github.com/abid211051)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
