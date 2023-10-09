@@ -3,12 +3,15 @@
 // AUTHOR : saikiran76
 // GITHUB : https://github.com/saikiran76
 
-// Here i'm gonna create a hello world script using
-// javascipt functions
+/* A unique asynchronous approach of printing Hello World,
+It prints hello world message in the console taking 1s of your time */
 
-var world = function(name){
-    console.log("Hello, World"+" "+"by"+" "+name);
+function print(){
+    console.log('Hello World');
 }
 
-var my_name = "kiran";
-world(my_name);
+function bringHello(){
+    setTimeout(print, 1000);
+}
+
+console.log(bringHello());
