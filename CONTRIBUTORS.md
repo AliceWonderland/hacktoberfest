@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Ryali Nitin sai srinivas](https://github.com/nitinryali)
+- Place: Visakhapatnam, India
+- Bio: Full stack Web developer and Machine learning enthusiast
+- Github: [Ryali Nitin](https://github.com/nitinryali)
