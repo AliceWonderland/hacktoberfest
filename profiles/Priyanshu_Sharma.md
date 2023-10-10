@@ -10,8 +10,7 @@ KIET Group Of Institutions, Ghaziabad
 
 ### Interests
 
-- Machine Learning
-- Artificial Intelligence
+- Android Development
 - Open Source
 - Movies
 - Travelling
