@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [anshaj](https://github.com/mangod12)
+- Place:  India
+- Bio: student 
+- GitHub: [mangod12](https://github.com/mangod12)
