@@ -2401,6 +2401,11 @@ Noida
 #### Name: [filedesless](https://hightechlowlife.info)
 - Place: Québec, Canada
 - Bio: CompSci from ULaval reporting in
+
+#### Name: [TryToLearnProgramming] (https://github.com/TryToLearnProgramming/)
+ - Place: Kolkata, India
+ - Bio: DevOps
+ - Github: [TryToLearnProgramming] (https://github.com/TryToLearnProgramming/)
 - GitHub: [aiglebleu](https://github.com/aiglebleu)
 
 #### Name: [gipsi](gipsi.github.io)
