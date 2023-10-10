@@ -1,3 +1,8 @@
+#### Name: [BHARAT PATHAK](https://github.com/Bharatpathak08)
+- Place: Delhi, India
+- Bio: Front-end Developer
+- GitHub: [Bharatpathak08](https://github.com/Bharatpathak08)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
