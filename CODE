@@ -1,0 +1,6 @@
+// LANGUAGE: Python
+// ENV: Python
+// AUTHOR: Aryan Agrawal
+// GITHUB: https://github.com/Aryanchamp
+
+print("HELLO WORLD")
