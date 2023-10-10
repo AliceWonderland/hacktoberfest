@@ -1,3 +1,7 @@
+#### Name: Shashank Raj (https://github.com/Codesmasher619)
+- Place: Patna, Bihar, India
+- Bio: Student at National Institute of technology,Surat(Web developer)
+- GitHub: codesmasher619 (https://github.com/Codesmasher619)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
