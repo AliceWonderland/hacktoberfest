@@ -1,3 +1,7 @@
+#### Name: [Abhishek Paul P](https://github.com/AbhishekPaul08)
+- Place: Bengaluru, Karnataka, India
+- Bio: Third year computer science from Bengaluru
+- GitHub: [AbhishekPaul08](https://github.com/AbhishekPaul08)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
