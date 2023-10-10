@@ -43,6 +43,12 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [Prakhar Jain](https://github.com/XSageOfSixPathsX)
+- Place: Delhi, India
+- Bio: NSUTian
+- GitHub: [Prakhar Jain](https://github.com/XSageOfSixPathsX)
+
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
