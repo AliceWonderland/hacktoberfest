@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jon Eledia](https://github.com/joneledia)
+- Place: Manila, Philippines
+- Bio: Software Developer
+- Github: [Jon Eledia](https://github.com/joneledia)
