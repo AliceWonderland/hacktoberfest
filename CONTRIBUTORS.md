@@ -2185,6 +2185,11 @@ Noida
 - Bio: Developer
 - GitHub: [Nylan17](https://github.com/nylan17/)
 
+#### Name: [T Aryan Raju](https://github.com/tarce09)
+- Place: India
+- Bio: Cloud engineer at ZS
+- GitHub: [tarce09](https://github.com/tarce09)
+
 #### Name: [Taylor Hudson](https://github.com/AllenCompSci)
 - Place: Allen, Texas, USA
 - Bio: Computer Scientist , C++ Developer, Java Developer, NodeJS, High School Computer Science Teacher, Math Teacher, Mathematicain
