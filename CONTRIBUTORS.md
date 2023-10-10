@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Z3R0-1337](https://github.com/Z3R0-1337)
+- Place: Natal, Brazil
+- Bio: Web developer PHP and Python
+- Github: [Z3R0-1337][https://github.com/Z3R0-1337]
