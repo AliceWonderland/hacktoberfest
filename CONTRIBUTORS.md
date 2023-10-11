@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prabin Kumar Shrestha](https://github.com/prabinKshrestha)
+- Place: St. John's, NL, Canada
+- Bio: Software Development Engineer | Full Stack | AI & Tech Enthusiast | Coding for innovation
+- GitHub: [Prabin Kumar Shrestha](https://github.com/prabinKshrestha)
