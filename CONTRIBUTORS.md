@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tushar Sonwane](https://github.com/tusharsonwane27)
+- Place:Maharashtra, India
+- Bio:Full Stack Java Developer
+- GitHub: [tusharsonwane27](https://github.com/tusharsonwane27)
