@@ -53,6 +53,11 @@
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
+#### Name: [Hammad Hassan](https://github.com/hmadhsan)
+- Place: Frankfurt, Germany
+- Bio: Software Developer!
+- GitHub: [Hammad Hassan](https://github.com/hmadhsan)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
