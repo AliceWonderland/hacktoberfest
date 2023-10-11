@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MANISH](https://github.com/acidus101)
+ - Place: Delhi, India
+ - Bio: Student
+ - GitHub: [acidus101](https://github.com/acidus101)
