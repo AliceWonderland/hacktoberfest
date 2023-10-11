@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rizqi Muhammad Khatami Sandi](https://github.com/mksdesuyo/)
+- Place: Garut, Jawa Barat, Indonesia
+- Bio: Some guy who likes learning different languages
+- [mksdesuyo](https://github.com/mksdesuyo/)
