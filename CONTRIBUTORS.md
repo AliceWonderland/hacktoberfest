@@ -1,3 +1,8 @@
+#### Name: [Priyank Panchal](https://github.com/Priyank911)
+- Place: India, Gujarat
+- Bio: 2nd Year Computer Science Student, Deep Passion in Web Development and Android Development.
+- GitHub: [Priyank-Panchal](https://github.com/Priyank911)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
