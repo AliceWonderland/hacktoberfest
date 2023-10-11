@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Ubuntu:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Black Ops One', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+.cont{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cont ul{
+    
+    display: flex;
+    align-items: center;
+    padding: 40px;
+
+}
+.cont ul a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 20px;
+    font-size: 18px;
+    padding: 15px;
+    transition: 1s;
+
+
+}
+.cont ul a li{
+    list-style: none;
+}
+.navf{
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    justify-content: center;
+    column-gap: 10px;
+}
+.navf #search{
+    width: 230px;
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.navf #submit{
+    padding: 7px 20px;
+    font-size: 20px;
+    background-color:goldenrod ;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+    transition: 1s;
+}
+.cont ul a:hover{
+    /* background-color: goldenrod; */
+    color: black;
+    }
+    .navf #submit:hover{
+        background-color: rgb(97, 71, 5);
+        opacity: 0.7;
+    
+    }
+    .cont ul a li:hover{
+    list-style: none;
+    color: goldenrod;
+    }
