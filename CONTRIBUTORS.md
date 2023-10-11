@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jigme Lodey](https://jigmeloday.com)
+- Place: Bhutan 🇧🇹
+- Bio: Developer
+- GitHub: [jigmeloday](https://github.com/jigmeloday)
