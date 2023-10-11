@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [voraguns](https://github.com/voraguns)
+- Place: Bangkok, Thailand
+- Bio: Live more, worry less
+- Github: [voraguns](https://github.com/voraguns)
