@@ -63,6 +63,11 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Tanmay Agarwal](https://github.com/TanmayAgarwal123)
+- Place: New Delhi, India
+- Bio: Software developer, studying B.Tech CSE
+- GitHub: [Tanmay Agarwal](https://github.com/TanmayAgarwal123)
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
