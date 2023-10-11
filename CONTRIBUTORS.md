@@ -1,3 +1,7 @@
+#### Name : Tushar Sinha
+    - place : Chandigarh, India
+    - Bio : A third year computer science student, Chandigarh University, India
+    -Github : https://github.com/Tushar-212
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
