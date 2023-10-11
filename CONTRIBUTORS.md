@@ -1,3 +1,8 @@
+#### Name: AmitYadav
+ - Place: Bhubaneshwar,India
+ - Bio: Web Developer an CSE undergrad
+ - GitHub: [yadav-amit11](https://github.com/yadav-amit11)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
