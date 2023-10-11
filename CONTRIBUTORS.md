@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Priyank Panchal
+ - Place: India, Gujarat
+ - Bio: 2nd Year Computer Science Student, Deep Passion in Web Development and Android App Development.
+ - GitHub: [Priyank-Panchal](https://github.com/Priyank911)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
