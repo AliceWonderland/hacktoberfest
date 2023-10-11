@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raunak Mishra](https://github.com/Raunakkumarr)
+- Place: Kathmandu, Bagmati, Nepal
+- Bio: First year Electrical Engineering Student, Techy Guy and Software Enthusiast
+- GitHub: [Raunakkumarr](https://github.com/Raunakkumarr)
