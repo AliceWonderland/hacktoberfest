@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Menu</title>
+    <style>
+        
+        
+        nav{background-color:rgb(60, 88, 8); display:grid; place-items:center;}
+nav ul{list-style-type: none;}
+
+nav ul a{display:inline-block; padding:20px; text-decoration:none; color:#e2e0e0; transition:0.5s ease-in; font-size:18px;}
+nav ul a:hover{background-color:green; color:white;}
+
+body {
+    background-color:#DAE2F8;
+    font-family: Arial, sans-serif;
+}
+
+#frm {
+    background-color: #fff;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: grid;
+    gap: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.food-menu {
+            display: flex;
+            justify-content: flex-start;
+            padding: 10px;
+            
+        }
+        
+        .menu-box {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+        }
+        
+        .food-card {
+            flex-shrink: 0;
+            width: 300px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+            padding: 50px;
+            margin: 20px;
+        }
+        
+        .food-name {
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .food-image {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        
+        .food-price {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .ingredients {
+            font-style: italic;
+            line-height: 1.4;
+        }
+        
+.footer ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  color: #e9eeee;
+
+}
+
+.footer ul li{
+  padding: 12.5px;
+
+
+  font-size: 15px;
+  font-weight: 600;
+
+}
+
+.footer ul li a{
+  text-decoration: none;
+
+  color: #5fcfc9;
+}
+      
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center; color:orange; padding:10px">
+    
+FOODIE
+</h1>
+
+</i>	
+<nav>
+	<ul>
+		<a href=""><li>Home</li></a>
+		<a href="About.html"><li>About</li></a>
+		<a href="contact us.html"><li>Contact Us</li></a>
+        
+	</ul>
+</nav>
+<section class="food-menu">
+    <div class="container">
+        <h2 class="text-center">Food Menu</h2>
+        <div class="menu-box">
+            <div class="food-card">
+                <h4 class="food-name">Pizza</h4>
+                <img class="food-image" src="pizza.jpg" alt="Pizza">
+                <p class="food-price">Price: $12.99</p>
+                <p class="ingredients">
+                    <strong>Ingredients:</strong><br>
+                    Tomato sauce, Cheese, Pepperoni, Mushrooms, Onions, Olives
+                </p>
+            </div>
+    
+    <div class="food-card">
+        <h4 class="food-name">Chicken Rice</h4>
+        <img class="food-image" src="chicken.jpg" alt="Burger">
+        <p class="food-price">Price: $9.99</p>
+        <p class="ingredients">
+            <strong>Ingredients:</strong><br>
+            Chicken (cooked and shredded or sliced),
+Rice (cooked in chicken broth),
+Chicken broth,
+Garlic,
+Ginger,
+Soy sauce,
+Sesame oil,
+Salt,
+White pepper,
+Cucumber (sliced),
+Green onions (chopped),
+Coriander (chopped),
+        </p>
+    </div>
+    
+    <div class="food-card">
+        <h4 class="food-name">Vegitable Rice</h4>
+        <img class="food-image" src="veg.jpg" alt="Pasta">
+        <p class="food-price">Price: $10.99</p>
+        <p class="ingredients">
+            <strong>Ingredients:</strong><br>
+            Pasta noodles, Tomato sauce, Garlic, Onions, Italian herbs, Parmesan cheese
+        </p>
+    </div>
+    </div>
+ 
+    <div class="menu-box">
+        <div class="food-card">
+            <h4 class="food-name">Burger Bun</h4>
+            <img class="food-image" src="burger.jpg" alt="Pizza">
+            <p class="food-price">Price: $19.99</p>
+            <p class="ingredients">
+                <strong>Ingredients:</strong><br>
+                Ground Beef,Salt,Sauteed Mushrooms and Onions,Mayonnaise
+            </p>
+        </div>
+
+<div class="food-card">
+    <h4 class="food-name">Egg Hoppers</h4>
+    <img class="food-image" src="egg.jpg" alt="Burger">
+    <p class="food-price">Price: $8.99</p>
+    <p class="ingredients">
+        <strong>Ingredients:</strong><br>
+        Vegetable Oil or Coconut Oil (for frying),
+        Sliced Onions (optional),
+        Chopped Green Chilies (optional),
+        Fresh Curry Leaves (optional)
+    </p>
+</div>
+
+<div class="food-card">
+    <h4 class="food-name">Noodles</h4>
+    <img class="food-image" src="nood.jpg" alt="Pasta">
+    <p class="food-price">Price: $15.99</p>
+    <p class="ingredients">
+        <strong>Ingredients:</strong><br>
+        Pasta noodles, Tomato sauce, Garlic, Onions, Italian herbs, Parmesan cheese
+    </p>
+</div>
+</div>
+    </div>
+    </section>
+    
+      
+  <div class="footer"
+  style="width: 100%;
+  background-color: #0b0c0c;
+  flex-wrap: wrap;">
+
+    <ul>
+      <li> &copy; Foodie Sri Lanka   </li>
+      <li> <a target="_blank" href="">  facebook  </a> </li>
+      <li> <a target="_blank" href="">  instagram  </a> </li>
+      <li> <a target="_blank" href="">  twitter </a> </li>
+
+    </ul>
+
+
+
+  </div>
+
+  
+</body>
+</html>
