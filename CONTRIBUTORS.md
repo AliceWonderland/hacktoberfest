@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ALEX MARRUJO](https://github.com/Nitin-Pilkhwal)
+- Place: India
+- Bio: AI/ML Learner
+- GitHub: [Alex Marrujo](https://github.com/Nitin-Pilkhwal)
