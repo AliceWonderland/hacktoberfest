@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Jacinto Muambumba](https://github.com/Jacintomuambumba)
+- Place: Natal, Angola
+- Bio: Web developer C, Javascript, PHP and Python
+- Github: [Jacinto Muambumba](https://github.com/Jacintomuambumba)
+
