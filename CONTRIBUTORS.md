@@ -1,3 +1,9 @@
+#### Name: [Urveesh Mathur](GitHub link)
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Front-end Developer, Third year Computer Science Student.
+- GitHub: [urveesh28](https://github.com/urveesh28)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
