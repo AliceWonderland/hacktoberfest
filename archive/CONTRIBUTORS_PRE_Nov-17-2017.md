@@ -6523,6 +6523,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer, Student
 - Github: [Hardik Surana](https://github.com/hardiksurana)
 
+#### Name: [Harsh Yadav](https://github.com/harsxhh)
+- Place: Una, Himachal Pradesh, India
+- Bio: Programmer, Student
+- GitHub: [Harsh Yadav](https://github.com/harsxhh)
+
 #### Name: [Harshil Agrawal](https://github.com/harshil1712)
 -Place: Vadodara, India
 -Bio: Student,Web Developer
