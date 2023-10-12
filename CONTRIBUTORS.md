@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ashutosh Maharana] (https://github.com/triad7)
+- Place: India, Odisha
+- Bio: Web Developer ReactJS and NodeJS
+- Github: [Ashutosh Maharana] (https://github.com/triad7)
