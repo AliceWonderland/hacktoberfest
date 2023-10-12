@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shruti Singh](https://github.com/ShrutiSingh04503)
+- Place: Lucknow, Uttar Pradesh
+- Bio: Web developer 
+- Github: [Shruti Singh](https://github.com/ShrutiSingh04503)
