@@ -1,3 +1,8 @@
+#### Name: Vansh
+ - Place: Punjab, India
+ - Bio: FullStack Developer. 3rd Year Computer Science Student.
+ - GitHub: [Vallenain](https://github.com/vansh1190)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
