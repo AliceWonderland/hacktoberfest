@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vandana Pandey](https://github.com/VandanaPandey-VP)
+- Place: Delhi, India
+- Bio: java devloper, Full stack devloper
+- Github: [Vandana Pandey](https://github.com/VandanaPandey-VP)
