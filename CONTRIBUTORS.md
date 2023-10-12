@@ -10,7 +10,7 @@
 
 #### Name: [AKASH MANE](https://github.com/akashmane17)
 - Place: India
-- Bio: Software Engineer
+- Bio: Software Developer
 - GitHub: [Akash Mane](https://github.com/akashmane17)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
