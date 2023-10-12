@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jagannath Maity](https://github.com/Jagannathmaity110)
+- Place: Kolkata, West Bengal, India
+- Bio: I am a student.
+- GitHub: [Jagannath Maity](https://github.com/Jagannathmaity110)
