@@ -2077,6 +2077,11 @@ Noida
 - Bio: Student/Andriod Developer
 - GitHub: [shobhit1997](https://github.com/shobhit1997)
 
+#### Name: [Shreya Srikant](https://github.com/shreyyy12)
+- Place: Bangalore,Karnataka, India
+- Bio: Computer science 2nd year at PES University
+- GitHub: [shreyyy12](https://github.com/shreyyy12)
+
 #### Name: [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Undergrad at IIITA
