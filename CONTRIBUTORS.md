@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [AKASH MANE](https://github.com/akashmane17)
+- Place: India
+- Bio: Software Engineer
+- GitHub: [Akash Mane](https://github.com/akashmane17)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
