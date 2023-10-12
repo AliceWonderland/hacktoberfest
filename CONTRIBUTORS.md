@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Felipe Boss](https://github.com/felipebossolani)
+- Place: Sao Paulo, Brazil
+- Bio: .net developer
+- Github: [Felipe Boss](https://github.com/felipebossolani)
