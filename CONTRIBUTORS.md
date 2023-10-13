@@ -1940,6 +1940,11 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+#### Name: [Rishabh Parmar](https://github.com/Rishabh3243)
+- Place: Gujarat, India
+- Bio: Student,Open source enthusiast,Hacktoberfest top 40,000 contributor, Google Solutions
+- GitHub: [Rishabh3243](https://github.com/Rishabh3243)
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
