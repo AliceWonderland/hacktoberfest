@@ -3,7 +3,7 @@ Ahmed Misbahuddin
 
 ### Location
 
-Hydrabad, India 
+Hydrabad,India 
 
 ### Academics
 
