@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Surya MU](https://github.com/surya-mu)
+- Place: Chennai,India
+- Bio: Web Developer and Python Developer
+- Github: [surya-mu](https://github.com/surya-mu)
