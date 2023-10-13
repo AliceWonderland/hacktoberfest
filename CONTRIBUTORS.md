@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kunal Agrawal](https://github.com/its-kunal)
+- Place: India
+- Bio: Full-Stack Developer
+- GitHub: [its-kunal](https://github.com/its-kunal)
