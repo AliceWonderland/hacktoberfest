@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ketan Jain](https://github.com/ketanjain113)
+- Place: India
+- Bio: Student
+- GitHub: [Ketan Jain](https://github.com/ketanjain113)
