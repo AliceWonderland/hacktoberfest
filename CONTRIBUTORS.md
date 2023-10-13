@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shivam Rai](https://github.com/imshivamrai282)
+- Place: South West Delhi, Delhi, India
+- Bio: Undergrad Student
+- GitHub: [imshivamrai282](https://github.com/imshivamrai282)
