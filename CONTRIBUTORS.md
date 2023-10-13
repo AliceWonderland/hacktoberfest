@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  #### Name: [Dhruv Sachdev](https://github.com/dhruvvsachdev)
+- Place: New Delhi, India
+- Bio: Frontend Developer
+- Github: [dhruvvsachdev](https://github.com/dhruvvsachdev)
