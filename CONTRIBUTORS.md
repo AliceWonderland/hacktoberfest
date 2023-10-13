@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shubhankar Ranjan](https://github.com/Shubhankar-Ranjan)
+- Place: Jaipur, Rajasthan, India
+- Bio: College Student who is willing to learn about development and open source.
+- GitHub: [Shubhankar-Ranjan](https://github.com/Shubhankar-Ranjan)
