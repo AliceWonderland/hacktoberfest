@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Omit.Kr] (https://github.com/OmitK1302)
+- Place: Bihar, India
+- Bio: CS Student
+- Github: [Omit.Kr](https://github.com/OmitK1302)
