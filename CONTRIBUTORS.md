@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shrishail Gharat](https://github.com/shrigharat)
+- Place: Navi Mumbai, Maharashtra, India
+- Bio: Software Developer, specializing in frontend development.
+- GitHub: [Shrishail Gharat ](https://github.com/shrigharat)
