@@ -18,6 +18,7 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
@@ -2327,6 +2328,11 @@ Noida
 - Place: Ho Chi Minh City, VietNam
 - Bio: I'm Software Engineer at Dinosys
 - GitHub: [Ken Supermen](https://github.com/kensupermen)
+
+#### Name: [Vamsi](https://github.com/vamsieth)
+- Place: Nellore, Andhra Pradesh, India
+- Bio: tech enthusiat, I love building cool stuff with tech
+- GitHub: [Vamsieth](https://github.com/vamsieth)
 
 #### Name: [Wan Wan](https://github.com/lf2com)
 - Place: Taipei, Taiwan
