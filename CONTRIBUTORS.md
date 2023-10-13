@@ -1,3 +1,8 @@
+ #### Name:Misba
+  - Place: Hydrabad, Telengana, India
+  - Bio: second year Computer Science Student
+  - GitHub: [misba](https://github.com/Misba9)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
