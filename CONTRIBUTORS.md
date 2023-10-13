@@ -1010,6 +1010,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Game design studen & Hobbyist programmer
 - GitHub: [IKStreamIvo](https://github.com/ikstreamivo)
 
+#### Name: [Izuchukwu Obi](https://github.com/izustic)
+- Place: Lagos, Nigeria
+- Bio: Full stack software engineer
+- GitHub: [izustic](https://github.com/izustic)
+
 #### Name: [J. Fehrman](https://github.com/jfehrman)
 - Place: Virginia
 - Bio: Student
