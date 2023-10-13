@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Gwhiz](https://github.com/softcreations01)
+- Place: Lagos, Nigeria
+- Bio: Cloud DevOps Engineer | Software Consultant  | Project Manager | Python
+- Github: [Gwhiz](https://github.com/softcreations01)
