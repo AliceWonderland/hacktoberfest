@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soumya Pandey](https://github.com/100mya)
+- Place: Bhilai, Chhattisgarh, India
+- Bio: Student
+- GitHub: [100mya](https://github.com/100mya)
