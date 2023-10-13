@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Anjali Soni](https://github.com/anjalisoni12)
+- Place: Rajasthan, India
+- Bio: Computer Science Engineer
+- Github: [Anjali Soni](https://github.com/anjalisoni12)
