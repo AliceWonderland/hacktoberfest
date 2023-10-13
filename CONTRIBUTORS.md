@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Yash Ankush Doke](https://github.com/22Yash)
+- place : Mumbai,India
+- Bio : Frontend developer , 2nd yr IT engineering student
+- Github : [22Yash](https://github.com/22Yash)
