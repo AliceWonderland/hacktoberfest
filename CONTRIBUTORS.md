@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Olorunfemi Elias Oyewole](https://github.com/kingelias-1)
+- Place: Accra, Ghana
+- Bio: Software Developer | Android and Web
+- Github: [kingElias-1](https://github.com/kingelias-1)
