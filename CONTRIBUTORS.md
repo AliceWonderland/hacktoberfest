@@ -1,3 +1,8 @@
+#### Name: [PRAGADEESH NEHRU](https://github.com/pragadeeshnehru)
+ - Place: Tamil Nadu, India
+ - Bio: CS student
+ - GitHub: [prgadeeshnehru](https://github.com/pragadeeshnehru)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
