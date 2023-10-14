@@ -1,3 +1,8 @@
+ #### Name: [Ruchira Naskar](https://github.com/RuchNas-Pottah)
+- Place: Kolkata, West Bengal, India
+- Bio: Undergraduate in Computer Science and Engineering
+- GitHub: [Ruchira Naskar](https://github.com/RuchNas-Pottah)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
