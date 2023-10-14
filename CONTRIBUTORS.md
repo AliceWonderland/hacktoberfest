@@ -2082,6 +2082,11 @@ Noida
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
 
+#### Name: [Shubham Kumar](https://github.com/shubham13k)
+- Place: New Delhi, India
+- Bio: Senior at DTU.
+- GitHub: [Shubham13k](Shubham13k)
+
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
 - Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
