@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soumyaraj Roy] (https://github.com/Soumyaraj321)
+ - Place: Agartala, India
+ - Bio: Software engineer. Graduated from VIT Vellore.
+ - GitHub: [Soumyaraj321](https://github.com/Soumyaraj321)
