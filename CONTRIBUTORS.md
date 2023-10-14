@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Argha Ghosh](https://github.com/argha7417)
+- Place:  India
+- Bio: Beginner Web Developer
+- GitHub: [argha7417](https://github.com/argha7417)
