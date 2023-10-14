@@ -3,6 +3,12 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+
+ #### Name: [YOUR NAME](GitHub link)
+- Place: Rourkela, Odisha, India
+- Bio: Fresher, Frontend Developer
+- GitHub: [alinasoy](https://github.com/alinasoy)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
