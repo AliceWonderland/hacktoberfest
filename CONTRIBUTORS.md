@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Neha Reddy](https://github.com/nehareddies)
+- Place: Karanataka, India
+- Bio: HTML, CSS, Python, Beginner
+- Github: [Neha Reddy](https://github.com/nehareddies)
