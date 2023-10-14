@@ -1,0 +1,27 @@
+public class PrimeNumber {
+
+    // Function to check if a number is prime
+    public static boolean isPrime(int number) {
+        if (number <= 1) {
+            return false; // 0 and 1 are not prime
+        }
+
+        // Check from 2 to the square root of the number
+        for (int i = 2; i * i <= number; i++) {
+            if (number % i == 0) {
+                return false; // It has a divisor other than 1 and itself
+            }
+        }
+        return true; // It's prime
+    }
+
+    public static void main(String[] args) {
+        int num = 17; // Change this to the number you want to check
+
+        if (isPrime(num)) {
+            System.out.println(num + " is a prime number.");
+        } else {
+            System.out.println(num + " is not a prime number.");
+        }
+    }
+}
