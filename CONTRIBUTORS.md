@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [yesbhautik](https://github.com/yesbhautik)
+- Place: Gujarat, India
+- Bio: Technologist | Founder & CEO of YesbhautikX/Solutions | Full Stack Developer | Cloud Engineer
+- Github: [yesbhautik](https://github.com/yesbhautik)
