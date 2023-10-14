@@ -4,7 +4,7 @@
   GITHUB: https://github.com/dertrever
 */
 
-public class hello_world {
+public class hello_world_dertrever {
 
     public static void main(String[] args) {
     
