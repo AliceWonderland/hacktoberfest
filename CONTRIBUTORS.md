@@ -1,3 +1,8 @@
+#### Name: Shikhar Srivastava
+ - Place: Varanasi, Uttar Pradesh, India
+ - Bio: Final year B.Tech CSE student. React Developer
+ - GitHub: [CsBatch](https://github.com/CsBatch)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
