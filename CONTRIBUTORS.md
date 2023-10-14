@@ -2423,6 +2423,11 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Kamalesh D](https://github.com/Kamalesh-Seervi)
+- Place: TamilNadu, India
+- Bio: Devops and Cloud Engineering
+- Github: [Ítalo Epifânio](https://github.com/Kamalesh-Seervi)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
