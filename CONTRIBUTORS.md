@@ -1,3 +1,8 @@
+#### Name: [Aditya Kapse](https://github.com/Aditya9764)
+- Place: Pune, India 
+- Bio: Graduate From GCOEJ
+- GitHub: [Aditya9764]([GitHub link](https://github.com/Aditya9764))
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
