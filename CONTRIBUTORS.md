@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mandip Giri](https://github.com/MandipGiri)
+- Place: Kathmandy, Nepal
+- Bio: Full stack developer with enthusiasm for React / React Native
+- Github: [Mandip Giri](https://github.com/MandipGiri)
