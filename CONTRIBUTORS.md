@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kent Coleman](https://github.com/Kent-Coleman)
+- Place: Asheville, NC
+- Bio: Software Engineer
+- Github: [Kent Coleman](https://github.com/Kent-Coleman)
