@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [MOHAMMAD SHAHNAWAZ](https://github.com/Mshahnawaz1)
+- Place: Patna, Bihar, India
+- Bio: Second year student , Electronics and communication Engeeniering
+- GitHub: [Mohammad Shahnawaz](https://github.com/Mshahnawaz1)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
