@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aman Upadhyay](https://github.com/amanxupadhyay)
+- Place: India
+- Bio: Web developer PHP and Python
+- Github: [Ítalo Epifânio](https://github.com/amanxupadhyay)
