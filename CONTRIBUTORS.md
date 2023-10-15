@@ -1,3 +1,7 @@
+#### Name: Shiraj Shrestha
+ - Place: Sanepa Lalitpur, Nepal
+ - Bio: Student studying Bsc. CSIT
+ - GitHub: [Vallenain](https://github.com/ShirajShrestha)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
