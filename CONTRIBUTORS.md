@@ -1920,6 +1920,11 @@ Noida
 - Bio: Software Developer / Student
 - GitHub: [Didier Valdez](https://github.com/xDidier901)
 
+#### Name: [Rashmi Gupta](https://github.com/rashmi-dgp)
+- Place: Delhi, India
+- Bio: Engineering student
+- GitHub: [rashmi-dgp](https://github.com/rashmi-dgp)
+
 #### Name: [Ratchapol Tengrumpong](https://github.com/lullabies)
 - Place: Bangkok, Thailand
 - Bio: Programmer Analyst
