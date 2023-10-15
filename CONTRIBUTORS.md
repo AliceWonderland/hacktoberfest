@@ -1,3 +1,7 @@
+#### Name: Sanskar
+-Place: India
+-Bio: Tech Geek, interested in programming logic
+-GitHub: (https://github.com/Sanskar-letsget)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
