@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  
+#### Name: [Akshata Salve](https://github.com/AkshataS07) 
+- Place: Nashik,Maharashtra,India 
+- Bio: Im a Web developer and AI student 
+- GitHub: [Akshata Salve](https://github.com/AkshataS07)
