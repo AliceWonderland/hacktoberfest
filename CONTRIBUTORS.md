@@ -1,3 +1,8 @@
+#### Name: [SAYANUR RAHMAN](https://github.com/eternalconflict)
+ - Place: Bangalore, India
+ - Bio: Studying information science. Will graduate in 2025.
+ - GitHub: [eternalconflict](https://github.com/eternalconflict)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
