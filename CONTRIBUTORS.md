@@ -1,3 +1,8 @@
+#### Name :Asraful
+ - Place:Assam, India
+ - Bio: 3rd year cse ug, loves to go to gym.
+ - GitHub: [thisisjackboi](https://github.com/thisisjackboi)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
