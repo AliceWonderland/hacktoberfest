@@ -1,0 +1,41 @@
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class BlueDotApp {
+    public static void main(String[] args) {
+        JFrame frame = new JFrame("Blue Dot App");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setLayout(new FlowLayout());
+
+        JLabel label = new JLabel("Enter a number:");
+        JTextField textField = new JTextField(10);
+        JPanel dotPanel = new JPanel() {
+            @Override
+            protected void paintComponent(Graphics g) {
+                super.paintComponent(g);
+                g.setColor(Color.BLUE);
+                g.fillOval(50, 50, 50, 50);
+            }
+        };
+
+        textField.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                String input = textField.getText();
+                try {
+                    Double.parseDouble(input);
+                    dotPanel.setBackground(Color.BLUE);
+                } catch (NumberFormatException ex) {
+                    dotPanel.setBackground(Color.YELLOW);
+                }
+            }
+        });
+
+        frame.add(label);
+        frame.add(textField);
+        frame.add(dotPanel);
+        frame.setSize(200, 200);
+        frame.setVisible(true);
+    }
+}
