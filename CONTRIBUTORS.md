@@ -1,3 +1,8 @@
+#### Name: Arun Santhosh R A
+ - Place: VIT Chennai
+ - Bio: Front end enthusiast.
+ - GitHub: [arun-dot-com](https://github.com/arun-dot-com)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
