@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abdul Musavir Chukkan](https://github.com/musavirchukkan)
+- Place: Malappuram, Kerala, India
+- Bio: Fullstack developer
+- GitHub: [ Abdul Musavir Chukkan ](https://github.com/musavirchukkan)
+```
