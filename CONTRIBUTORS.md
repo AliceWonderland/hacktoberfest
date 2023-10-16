@@ -1,3 +1,8 @@
+#### Name: [AVEEK BHATTACHARYYA](https://github.com/AveekBhatt)
+- Place: KOLKATA,INDIA
+- Bio: I am a Computer Science Engineering student from Guru Nanak Institute Of Technology , West Bengal and I am a Full Stack Developer
+- Github: [AVEEK BHATTACHARYYA](https://github.com/AveekBhatt)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
