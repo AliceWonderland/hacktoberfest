@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kadali Venkat Amar](https://github.com/kvenkatamar)
+- Place: Hyderabad, India
+- Bio: Full Stack Web Developer
+- Github: [kvenkatamar](https://github.com/kvenkatamar)
