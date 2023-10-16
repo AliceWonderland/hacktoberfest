@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Jakarta, Indonesia
+ - Bio: Backend-Web Developer
+ - GitHub: [arizkinewbie](https://github.com/arizkinewbie)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
