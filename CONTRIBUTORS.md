@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [YOUR NAME](GitHub link)
+- Place: Gaya,Bihar,India
+- Bio: Student persuing Btech at NIT Rourkela.
+- GitHub: [Rajnikant1021](https://github.com/RAJNIKANT1021)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
