@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JohnRuben717](https://github.com/JohnRuben717)
+- Place: India
+- Bio: Web developer ASP dotNET and Python
+- Github: [Ítalo Epifânio](https://github.com/JohnRuben717)
