@@ -1,3 +1,8 @@
+#### Name: [Arizki Putra Rahman](https://github.com/arizkinewbie)
+ - Place: Jakarta, Indonesia
+ - Bio: Backend-Web Developer
+ - GitHub: [arizkinewbie](https://github.com/arizkinewbie)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
