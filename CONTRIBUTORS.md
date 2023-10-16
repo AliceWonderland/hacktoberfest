@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Mohta](https://github.com/YashM211)
+- Place: Kolkata, India
+- Bio: Web developer MERN stack.
+- Github: [YashM211](https://github.com/YashM211)
