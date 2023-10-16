@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rodney Guillen](https://github.com/infrony)
+- Place: Panama, Panama
+- Bio: Full Stak Backend Developer
+- Github: [Rodney Guillen](https://github.com/infrony)
