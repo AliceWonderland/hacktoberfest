@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nenye](https://github.com/Birdie13-stack)
+- Place: Isolo, Lagos, Nigeria
+- Bio: Frontend Developer
+- GitHub: [Chinenye](https://github.com/Birdie13-stack)
