@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amen Divine Ikamba](https://github.com/amen-ikamba))
+- Place: Claremont, California, United States
+- Bio: frontend developer and data scientist
+- GitHub: [amen-ikamba](https://github.com/amen-ikamba)
+  
