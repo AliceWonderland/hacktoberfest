@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Train Compartment Linked List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        #header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        #container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        #train-container {
+            width: 600px;
+            height: 400px;
+            margin: 0 auto;
+            overflow: hidden;
+            position: relative;
+        }
+        #train-images {
+            position: absolute;
+        }
+        .compartment-image {
+            float: left;
+            width: 600px;
+            height: 400px;
+        }
+        #nav-buttons {
+            margin-top: 20px;
+            text-align: center;
+        }
+        #compartment-list {
+            margin-top: 20px;
+            text-align: center;
+        }
+        #compartment-name {
+            width: 200px;
+            padding: 5px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #555;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
+            font-size: 18px;
+        }
+        /* Responsive Styles */
+        @media screen and (max-width: 768px) {
+            .compartment-image {
+                max-width: 80%;
+            }
+            #compartment-name {
+                font-size: 20px;
+                padding: 10px;
+                margin-bottom: 10px;
+            }
+            button {
+                padding: 10px 15px;
+                font-size: 16px;
+            }
+            li {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Train Compartment Linked List</h1>
+    </div>
+    <div id="container">
+        <div id="train-container">
+            <div id="train-images">
+                <img class="compartment-image" src="Engine.png" alt="Engine">
+                <!-- Initial compartment (Head of Linked List) -->
+            </div>
+        </div>
+        <div id="nav-buttons">
+            <button onclick="moveBackward()">&lt; Back</button>
+            <button onclick="moveForward()">Next &gt;</button>
+        </div>
+        <div id="compartment-list">
+            <h2>Train Compartments (Linked List):</h2>
+            <ul id="compartments">
+                <li>Engine (Head)</li>
+            </ul>
+            <input type="text" id="compartment-name" placeholder="Enter Compartment Name">
+            <button onclick="addCompartment()">Insert Compartment</button>
+            <button onclick="deleteCompartment()">Delete Compartment</button>
+            <p id="instruction">Enter a compartment name and click "Insert Compartment" to add a new compartment. Example: write like train1, train2, train3 ... up to train10. Delete compartment will only delete the compartments from the end.</p>
+        </div>
+    </div>
+
+    <script>
+        let currentIndex = 0;
+        const compartments = ["Engine"]; // Initial compartment (Head of Linked List)
+
+        function moveBackward() {
+            if (currentIndex > 0) {
+                currentIndex--;
+            } else {
+                currentIndex = compartments.length - 1;
+            }
+            updateSlider();
+        }
+
+        function moveForward() {
+            if (currentIndex < compartments.length - 1) {
+                currentIndex++;
+            } else {
+                currentIndex = 0;
+            }
+            updateSlider();
+        }
+
+        function updateSlider() {
+            const trainImages = document.getElementById("train-images");
+            const imageWidth = 600; // Width of each image
+            const offset = -currentIndex * imageWidth;
+            trainImages.style.left = offset + "px";
+        }
+
+        function addCompartment() {
+            const compartmentName = document.getElementById("compartment-name").value.trim().toLowerCase(); // Convert to lowercase
+            if (compartmentName !== "") {
+                currentIndex = compartments.length; // Move to the end of the list
+                compartments.push(compartmentName); // Add to the end of the list
+                addImage(compartmentName);
+                updateCompartmentList();
+                document.getElementById("compartment-name").value = ""; // Reset the text box
+                updateSlider(); // Update the slider position
+            }
+        }
+
+        function deleteCompartment() {
+            if (compartments.length > 1) {
+                const removedCompartment = compartments.pop(); // Remove the last compartment
+                updateCompartmentList();
+                deleteImage(removedCompartment);
+                currentIndex = compartments.length - 1; // Move to the new last compartment
+                updateSlider(); // Update the slider position
+            }
+        }
+
+        function addImage(compartmentName) {
+            const trainImages = document.getElementById("train-images");
+            const newImage = document.createElement("img");
+            newImage.className = "compartment-image";
+            newImage.src = `${compartmentName}.png`; // Assuming image filenames match compartment names
+            newImage.alt = compartmentName;
+            trainImages.appendChild(newImage);
+        }
+
+        function deleteImage(compartmentName) {
+            const trainImages = document.getElementById("train-images");
+            const images = trainImages.querySelectorAll(".compartment-image");
+            for (const image of images) {
+                if (image.alt === compartmentName) {
+                    trainImages.removeChild(image);
+                    break;
+                }
+            }
+        }
+
+        function updateCompartmentList() {
+            const compartmentList = document.getElementById("compartments");
+            compartmentList.innerHTML = "";
+            for (const compartment of compartments) {
+                const listItem = document.createElement("li");
+                listItem.textContent = compartment;
+                compartmentList.appendChild(listItem);
+            }
+        }
+
+        // Initialize the slider
+        updateSlider();
+    </script>
+</body>
+</html>
