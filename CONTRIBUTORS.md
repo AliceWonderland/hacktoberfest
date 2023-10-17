@@ -130,6 +130,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
+
+#### Name: [Abhishek Kumar Verma] (https://github.com/abhishek0732)
+- Place: India
+- Bio: Developer
+- Github:[Abhishek Kumar Verma] (https://github.com/abhishek0732)
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
