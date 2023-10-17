@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Under Maintenance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #282c35;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        h1 {
+            font-size: 3rem;
+        }
+
+        p {
+            font-size: 1.5rem;
+            margin-top: 20px;
+        }
+
+        /* Add your cool animations here */
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .spinner {
+            animation: rotate 2s linear infinite;
+            border: 6px solid #fff;
+            border-top: 6px solid #3498db;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Site Under Maintenance</h1>
+        <div class="spinner"></div>
+        <p>We are working hard to improve your experience.</p>
+    </div>
+</body>
+</html>
