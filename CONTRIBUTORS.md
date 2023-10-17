@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Spandan Bhattacharya](https://github.com/Spandan-Bhattacharya)
+- Place: Kolkata, West Bengal, India
+- Bio: A Computer Science and Engineering Student dabbling in Hacktoberfest for the first time.
+- GitHub: [Spandan-Bhattacharya](https://github.com/Spandan-Bhattacharya)
