@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [12AnshulAgarwal](https://github.com/12AnshulAgarwal))
+- Place: Lucknow, India
+- Bio: Engineer
+- Github: [12AnshulAgarwal](https://github.com/12AnshulAgarwal))
+- 
