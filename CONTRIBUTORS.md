@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MOHD ABBAS HAIDAR](https://github.com/the-hdr)
+- Place: India
+- Bio: Computer science student, web developer, into machine learning!
+- GitHub: [the-hdr](https://github.com/the-hdr)
