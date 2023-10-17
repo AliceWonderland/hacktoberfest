@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Rajnikant
+ - Place: Bihar, India
+ - Bio: A learner at NIT rourkela
+ - GitHub: [Rajnikant](https://github.com/RAJNIKANT1021)
