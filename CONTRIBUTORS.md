@@ -2416,7 +2416,12 @@ Noida
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
 - Bio: financial software consultant
-- Github: [tbdees](https://github.com/tbdees/)
+
+- #### Name: [Kishan Yadav](https://github.com/Kishan101101)
+- Place:Kanpur,UP,INDIA
+- Bio: B.Tech(C.S.E) Student
+- Github: [Kishan101101](https://github.com/Kishan101101)
+
 
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
