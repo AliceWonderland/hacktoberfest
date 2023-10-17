@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sashank](https://github.com/SashankKantamsetti)
+- Place: Vizianagaram, Andhra Pradesh, India
+- Bio: Full Stack Web Developer and a Web3 enthusiast
+- GitHub: [SashankKantamsetti](https://github.com/SashankKantamsetti)
