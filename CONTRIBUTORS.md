@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vansh Garg](https://github.com/VanshGarg06)
+- Place: New Delhi, India
+- Bio: Full Stack Web Developer
+- Github: [Vansh Garg](https://github.com/VanshGarg06)
