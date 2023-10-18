@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prateek Pathak](https://github.com/prateek2pathak)
+- Place: Hyderabad, India
+- Bio: Web developer and C++
+- Github: [prateek2pathak](https://github.com/prateek2pathak)
