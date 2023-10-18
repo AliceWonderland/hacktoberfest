@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Navya Pai](https://github.com/Nowyapie)
+- Place: Austin
+- Bio: Graduate Student
+- GitHub: [Nowyapie](https://github.com/Nowyapie)
