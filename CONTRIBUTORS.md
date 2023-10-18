@@ -1,3 +1,8 @@
+#### name: [Josh Goers](https://github.com/jgoers64)
+- Place: Round Lake Beach, IL, USA
+- Bio: Student
+- GitHub: [jgoers64](https://github.com/jgoers64)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
