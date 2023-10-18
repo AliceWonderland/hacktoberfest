@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Ruhi Jain](https://github.com/Ruhi14)
+- Place: India
+- Bio: I like to Learn
+- GitHub: [Ruhi Jain](https://github.com/Ruhi14)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
