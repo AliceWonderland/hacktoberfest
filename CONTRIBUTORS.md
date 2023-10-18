@@ -1297,6 +1297,11 @@ to explore life. Also, Python and Django Developer
 - Place: Wiener Neustadt, Austria
 - Bio: Computer Science Student
 - GitHub: [Konstantin](https://github.com/Kola50011)
+  
+#### Name: [Kshitj Singh Rawat](https://github.com/masterchief117k)
+- Place: Bhuneshwar, Odisa, India
+- Bio: Computer Science student 
+- GitHub: [Kshitij Singh Rawat](https://github.com/masterchief117k)
 
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
