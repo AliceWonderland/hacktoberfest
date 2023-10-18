@@ -2423,7 +2423,8 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ishan Chaskar](https://github.com/ishanchaskar)
+- Place: coimbatore , india
+- Bio: Web developer 
+- Github: [ishanchaskar](https://github.com/ishanchaskar)
