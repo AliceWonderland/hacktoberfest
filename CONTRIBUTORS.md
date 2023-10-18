@@ -1,7 +1,7 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+ #### Name: Vallenain
+  - Place: Lyon, France
+  - Bio: Software engineer. Graduated from INSA Lyon.
+  - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Livia Buriti
+ - Place: CG, Brazil
+ - Bio: Computer Science Student at UFCG.
+ - GitHub: [Livia Buriti](https://github.com/buritizinhw)
