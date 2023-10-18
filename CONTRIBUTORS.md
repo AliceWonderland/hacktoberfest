@@ -2423,6 +2423,11 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Pieta](https://github.com/pieta9221)
+- Place: Awka, Nigeria
+- Bio: Web Developer
+- Github: [Pieta9221](https://github.com/pieta9221)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
