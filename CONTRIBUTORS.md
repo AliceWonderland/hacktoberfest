@@ -1,3 +1,8 @@
+#### Name: [Om Shah](https://github.com/Omm2005)
+- Place: India
+- Bio: 18 years old Web developer
+- GitHub: [Om Shah](https://github.com/Omm2005)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
