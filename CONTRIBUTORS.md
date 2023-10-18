@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [SHIVA PARIHAR](https://github.com/shivaparihar6119)
+- Place: India
+- Bio: Third year Computer Science Student, in love with NYC <3
+- GitHub: [Shiva Parihar](https://github.com/shivaparihar6119)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
