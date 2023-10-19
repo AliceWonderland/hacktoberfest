@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  #### Name: Ahmed raza
+- Place: Karachi, Pakistan
+- Bio: Frond-end Developer
+- Github: [Ahmed raza](https://github.com/ahmedrazabaloch)
