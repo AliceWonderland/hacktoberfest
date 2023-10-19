@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [H E N D R A](https://github.com/ContentCaptain)
+- Place: Lampung, Indonesia
+- Bio: Content Writer
+- Github: [H E N D R A](https://github.com/ContentCaptain)
