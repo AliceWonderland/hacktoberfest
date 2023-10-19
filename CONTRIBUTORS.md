@@ -1,3 +1,8 @@
+#### Name: Hasti
+ - Place: Mumbai, India.
+ - Bio: Student
+ - GitHub: [hshah27](https://github.com/hshah27)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
