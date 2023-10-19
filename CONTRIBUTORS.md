@@ -2427,7 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-- 
+  
 #### Name: [Shreyash Mishra](https://github.com/Shreyash-cyber)
 - Place: Noida, India
 - Bio: Django Developer
