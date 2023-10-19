@@ -2042,6 +2042,12 @@ Noida
 - Bio: Software Engineer
 - Github: [StegSchreck](https://github.com/StegSchreck)
 
+#### Name: [SEIKH NABAB UDDIN](https://github.com/nababuddin)
+- Place: Burdwan, West Bengal, India
+- Bio: XR Developer
+- GitHub: [nababuddin](https://github.com/nababuddin)
+
+
 #### Name: [Sergey Gorky](https://github.com/sergeygorky)
 - Place: Ukraine
 - Bio: I've Top Rated status in Upwork
