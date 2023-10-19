@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vedant Heda](https://github.com/vedantheda)
+- Place: Mumbai, India
+- Bio: App Developer with Flutter
+- Github: [vedantheda](https://github.com/vedantheda)
