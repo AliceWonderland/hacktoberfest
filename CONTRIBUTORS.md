@@ -67,6 +67,10 @@
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+- #### Name: [UNIQUE SHRESTHA ](https://github.com/unique-py)
+- Place: New York City, NY, USA
+- Bio: I love Opensource! :OPensource :
+- GitHub:[UNIQUE SHRESTHA ](https://github.com/unique-py)
 
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
