@@ -1,0 +1,28 @@
+#include <iostream>
+//printing 10 primes(first)
+bool isPrime(int n, int divisor = 2) {
+    if (n <= 2) return (n == 2);
+    if (n % divisor == 0) return false;
+    if (divisor * divisor > n) return true;
+
+    return isPrime(n, divisor + 1);
+}
+
+void printPrimes(int n, int current = 2) {
+    if (n == 0) {
+        return;
+    }
+    
+    if (isPrime(current)) {
+        std::cout << current << " ";
+        printPrimes(n - 1, current + 1);
+    } else {
+        printPrimes(n, current + 1);
+    }
+}
+
+int main() {
+    printPrimes(10);
+    std::cout << std::endl;
+    return 0;
+}
