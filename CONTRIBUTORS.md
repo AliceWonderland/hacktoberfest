@@ -2012,6 +2012,11 @@ Noida
 - Bio: Techie with a lot of horizontals but a low verticality :(
 - Github: [Saif Rehman Nasir](https://github.com/shyshin)
 
+#### Name: [YOUR NAME](GitHub link)
+- Place: Pune, Maharashtra, India
+- Bio: A Full-stack developer with a love for problem-solving.
+- GitHub: [borkarSahil](https://github.com/borkarSahil)
+
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
