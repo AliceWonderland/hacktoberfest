@@ -295,6 +295,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, System Administrator
 - GitHub: [TummanapallyAnuraag](https://github.com/TummanapallyAnuraag)
 
+#### Name: [Anjal Niraula](https://github.com/anjal244)
+- Place: Ilam, Kosi, Nepal
+- Bio: Student
+- GitHub: [Anjal Niraula](https://github.com/anjal244)
+
 #### Name: [Arie Kurniawan](https://github.com/arkwrn)
 - Place: Jakarta, Indonesia
 - Bio: IT Student at Universiy of Muhammadiyah Jakarta
