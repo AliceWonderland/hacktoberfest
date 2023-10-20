@@ -73,6 +73,12 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Aditya Kumar](https://github.com/ToyYard)
+
+- Place: Bharat
+- Bio: Student
+- Github: [ToyYard](https://github.com/ToyYard)
+  
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
