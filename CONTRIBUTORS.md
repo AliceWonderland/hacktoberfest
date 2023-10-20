@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [S.M.T Kanchana](https://github.com/kanchana66)
+- Place: Welimada, Sri lanka
+- Bio: data scientist student
+- GitHub: [S.M.T Kanchana](https://github.com/kanchana66)
