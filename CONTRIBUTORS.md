@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Syariful Mujaddiq](https://github.com/syarifulmujaddiq)
+- Place: Indonesia
+- Bio: Newbie dev
+- Github: [Syariful Mujaddiq](https://github.com/syarifulmujaddiq)
