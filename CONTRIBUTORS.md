@@ -2426,4 +2426,13 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
+<<<<<<< HEAD
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+=======
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Niranjan Hebli](https://github.com/NiranjanHebli)
+- Place: India
+- Bio: Software Developer
+- Github: [Niranjan Hebli](https://github.com/NiranjanHebli)
+>>>>>>> 8d44167 (add/Security/algo)
