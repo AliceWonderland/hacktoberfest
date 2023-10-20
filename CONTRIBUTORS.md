@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Huzaifa Ghori](https://github.com/huzaifa1910)
+- Place: Karachi, Pakistan
+- Bio: WEB DEVELOPER, PYTHON DEVELOPER, DATA ENGINEER
+- GitHub: [huzaifa1910](https://github.com/huzaifa1910)
