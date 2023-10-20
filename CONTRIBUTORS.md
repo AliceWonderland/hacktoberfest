@@ -2031,6 +2031,11 @@ Noida
 - Place: Sao Paulo/ Brazil
 - Bio: Student
 - GitHub: [sarovisk](https://github.com/sarovisk)
+  
+#### Name: [Sarthak Khandelwal](https://github.com/sarthakforwet)
+- Place: Boston, United States
+- Bio: Graduate Student pursuing Master's in Data Science from Northeastern University
+- GitHub: [Sarthak Khandelwal](https://github.com/sarthakforwet)
 
 #### Name: [Sarthak Bhagat](https://github.com/sarthak268)
 - Place: Delhi, India
