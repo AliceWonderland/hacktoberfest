@@ -23,6 +23,12 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Aditya Kumar](https://github.com/ToyYard)
+
+- Place: Bharat
+- Bio: Student
+- Github: [ToyYard](https://github.com/ToyYard)
+  
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
