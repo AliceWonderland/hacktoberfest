@@ -23,6 +23,7 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
@@ -2427,3 +2428,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshath P](https://github.com/AKSHATH99)
+- Place: INDIA
+- Bio: Am pursuing bachelors of computer application and currently in 2nd year
+- GitHub: [Akshath99](https://github.com/AKSHATH99)
