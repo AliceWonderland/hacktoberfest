@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [William Moreno Reyes](https://github.com/williamjmorenor)
+- Place: Managua, Nicaragua
+- Bio: Web and Python
+- Github: [William Moreno reyes](https://github.com/williamjmorenor)
