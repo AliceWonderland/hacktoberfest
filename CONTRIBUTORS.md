@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [ALISHA PARVEEN](https://github.com/Alisha-786)
+- Place: Kolkata, India
+- Bio: 2nd year Computer Science Student
+- GitHub: [alisha-parveen](https://github.com/Alisha-786)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
