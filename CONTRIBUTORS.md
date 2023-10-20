@@ -479,6 +479,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer at ReturnPath
 - Github: [cecyc](https://github.com/cecyc)
 
+#### Name: [Chandrakanth A](https://github.com/chandrakanth137)
+- Place: Chennai, Tamil Nadu, India
+- Bio: AI & ML Student at Rajalakshmi Engineering College
+- Github [Chandrakanth A](https://github.com/chandrakanth137)
+
 #### Name: [Charlie Stanton](https://github.com/shtanton)
 - Place: Southend-On-Sea, England
 - Bio: JavaScript Tinkerer, Lover of Vim
