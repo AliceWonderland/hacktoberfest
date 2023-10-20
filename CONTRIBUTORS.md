@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [EJIRO OSIEPHRI](https://github.com/EjiroOsiephri)
+- Place: LAGOS City,NIGERIA
+- Bio: I love ANIMES!
+- GitHub: [EJIRO OSIEPHRI](https://github.com/EjiroOsiephri)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
