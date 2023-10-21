@@ -1,3 +1,8 @@
+#### Name: [Mohammed Aman](https://github.com/beastaman)
+- Place: India
+- Bio: Software Developer (Frontend)
+- GitHub: [beastaman](https://github.com/beastaman)
+- 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
