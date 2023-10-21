@@ -1940,6 +1940,12 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+  #### Name: [Vidit Upreti](https://github.com/ViditUpreti)
+- Place: India
+- Bio: Hello
+- GitHub: [Vidit Upreti](https://github.com/ViditUpreti)
+  
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
