@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+   #### Name: Ashel
+ - Place: Karnataka
+ - Bio: second year Computer Science Student
+ - GitHub: https://github.com/ashel111?tab=overview&from=2023-10-01&to=2023-10-21
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
