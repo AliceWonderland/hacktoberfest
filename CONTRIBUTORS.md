@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abigail Foteh] (https://github.com/deabby)
+- Place: Cameroon 
+- Bio: Web Developer 
+- GitHub: [De Abby] (https://github.com/deabby)
