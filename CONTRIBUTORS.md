@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [IamAayush2080](https://github.com/IamAayush2080)
+- Place: Butwal, Nepal
+- Bio: Intermediate programmer
+- Github: [IamAayush2080](https://github.com/IamAayush2080)
