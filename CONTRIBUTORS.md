@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [KundanSolanki](https://github.com/KUNDAN1334)
+- Place: Jaipur,India
+- Bio:Web developer and java developer
+- Github:  [KundanSolanki](https://github.com/KUNDAN1334)
