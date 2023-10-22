@@ -1,3 +1,8 @@
+#### Name: [zakaria](https://github.com/akzize)
+- Place: Ouarzazate, Morocco
+- Bio: Current full stack developper (lamp stack) 
+- GitHub: [zakaria](https://github.com/akzize)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2428,7 +2433,3 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [YOUR NAME](GitHub link)
-- Place: Ouarzazate, Morocco
-- Bio: Current full stack developper (lamp stack) 
-- GitHub: [zakaria](https://github.com/akzize)
