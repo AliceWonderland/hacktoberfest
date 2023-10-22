@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shreyan Shukla](https://github.com/shreyan01)
+- Place: India
+- Bio: Web developer, entrepreneur and AI enthusiast
+- Github: [Shreyan Shukla](https://github.com/shreyan01)
