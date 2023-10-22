@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- 
+#### Name: [kai z](https://github.com/kai-z99)
+- Place: BC, Canada
+- Bio: Comp Sci student, UVIC
+- Github: [kai z](https://github.com/kai-z99)
