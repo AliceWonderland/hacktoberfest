@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Sapate Vaibhav](https://github.com/sapatevaibhav)
+- Place: Pune, Maharashtra, India
+- Bio: Web developer, Flutter developer
+- Github: [Sapate Vaibhav](https://github.com/sapatevaibhav)
