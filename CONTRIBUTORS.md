@@ -2408,6 +2408,10 @@ Noida
 - Bio: Student FreeCodeCamp interested in PWA's
 - Github: [gipsi](https://github.com/gipsi)
 
+ ### Name :[hemshu shivhare(https://github.com/hemshugdsc)]
+ -Place :Jhansi
+ -Github: https://github.com/hemshugdsc
+
 #### Name: [syamkumar](https://github.com/syam3526)
 - Place:kerala,india
 - Bio: data scientist
