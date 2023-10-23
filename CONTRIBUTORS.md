@@ -2427,3 +2427,6 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- #### Name: [Shashank Kumar Dubey](https://github.com/shashankk6241)
+- Place Uttar Pradesh, India
+- Bio: Python, C, java,UE5
