@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: Sahil Balia
-- Place: Dombivli, India
+#### Name: [Sahil Balia](https://github.com/sahilbalia)
+- Place: Dombivli, Maharashtra, India
 - Bio: Student
-- GitHub: [Sahil Balia](https://github.com/sahilbalia)
+- GitHub: [sahilbalia](https://github.com/sahilbalia)
