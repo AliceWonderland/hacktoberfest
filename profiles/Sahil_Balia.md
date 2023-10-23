@@ -2,25 +2,25 @@
 
 ### Location
 
-Dombivli, India
+Dombivli
 
 ### Academics
 
-Sardar Patel College Of Engineering
+University Of Mumbai
 
 ### Interests
 
-- Problem solving
-- Programming
+- Programming in html
+- PLaying football
 
 ### Development
 
-- Html, css
+- Terminal generator
 
 ### Projects
 
-- Terminal generator
+- [terminal-generator][((https://github.com/hannansatopay/devstar](https://github.com/hannansatopay/devstar/tree/main/src/routes/(tools)/terminal-generator)https://github.com/hannansatopay/devstar/tree/main/src/routes/(tools)/terminal-generator)] Terminal generator can take photos of code.
 
 ### Profile Link
 
-[Sahil Balia](https://github.com/sahilbalia)
+[Sahil Balia][((https://github.com/sahilbalia)https://github.com/sahilbalia)]
