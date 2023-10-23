@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Srivatsa Davuluri](https://github.com/srivatsadavuluriiii)
+- Place: Vellore, Tamil Nadu
+- Bio: UI/Ux and Go
+- Github: [srivatsadavuluriiii](https://github.com/srivatsadavuluriiii)
+- 
