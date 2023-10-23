@@ -1970,6 +1970,11 @@ Noida
 - Bio: A Coder!!
 - GitHub: [codealtgeek](https://github.com/codealtgeek)
 
+#### Name: [Roopa Dharshini](https://github.com/Rupa-Rd)
+- Place: Chennai, India
+- Bio: SRM Student who is exploring OpenSource 
+- GitHub: [Rupa-Rd](https://github.com/Rupa-Rd)
+
 #### Name: [Rupesh Kumar](https://github.com/vmcniket)
 - Place: India
 - Bio: KIIT University IT student
