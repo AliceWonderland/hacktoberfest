@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: Sahil Balia
 - Place: Dombivli, India
-- Bio: Student.
+- Bio: Student
 - GitHub: [Sahil Balia](https://github.com/sahilbalia)
