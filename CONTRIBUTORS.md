@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Tejeshwar](https://github.com/Tejeshwar-SM)
+- Place: Nagpur, India
+- Bio: Web developer Java and JavaScript
+- Github: [Tejeshwar](https://github.com/Tejeshwar-SM)
