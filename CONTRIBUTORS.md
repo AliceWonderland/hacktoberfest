@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Salik Ashraf](https://github.com/Salik147)
+- Place: Karachi, Pakistan
+- Bio: I am open to learn all new techs
+- Github: [Salik Ashraf](https://github.com/Salik147)
