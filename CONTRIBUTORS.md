@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rupayan Dirghangi](https://github.com/Rupayan13)
+- Place: West Bengal, India.
+- Bio: Web developer and trying to be a problem solver.
+- Github: [Rupayan13](https://github.com/Rupayan13).
