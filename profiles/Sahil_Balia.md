@@ -11,7 +11,7 @@ University Of Mumbai
 ### Interests
 
 - Programming in html
-- PLaying football
+- Problem solving
 
 ### Development
 
