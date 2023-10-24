@@ -1198,6 +1198,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Developer
 - GitHub: [castro732](https://github.com/castro732)
 
+#### Name: [George Mwangi](https://github.com/maina68)
+- Place: Nairobi, Kenya
+- Bio: Software engineer
+- Github: [George Mwangi](https://github.com/maina68)
+  
 #### Name: [Joseph Musembi](https://github.com/musemby)
 - Place: Nairobi, Kenya
 - Bio: Software engineer
