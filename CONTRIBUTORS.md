@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name:[Aryan Sharma](https://github.com/Aryan741x)
+#### Name:[Aryan741x](https://github.com/Aryan741x)                                                                                                           
 - Place: Delhi, India
 - Bio: Student interested in Web Development
 - Github: [Aryan741x](https://github.com/Aryan741x)
