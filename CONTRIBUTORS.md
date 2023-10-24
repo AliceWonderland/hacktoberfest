@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SHREYA DWIVEDI](https://github.com/dwivedishrey)
+- Place: ALLAHABAD,INDIA
+- Bio: DEVELOPER
+- GitHub: [SHREYA DWIVEDI](https://github.com/dwivedishrey)
