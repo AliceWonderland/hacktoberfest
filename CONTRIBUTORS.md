@@ -1,3 +1,8 @@
+#### Name: Miten
+ - Place: MH, India
+ - Bio: Software engineer
+ - GitHub: [MitenTallewar](https://github.com/MitenTallewar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
