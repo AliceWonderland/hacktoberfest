@@ -1,3 +1,8 @@
+#### Name: [Anushthan Saxena](https://github.com/AnushthanS)
+- Place: Agra, India
+- Bio: 3rd year student at Indian Institute of Information Technology, Sri City. Debugger and problem solver, product related or otherwise.
+- GitHub: [AnushthanS](https://github.com/AnushthanS)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
