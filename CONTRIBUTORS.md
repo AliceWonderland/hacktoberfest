@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aman Yadav](https://github.com/AmanYadav1419)
+- Place: Natal, Brazil
+- Bio: Web developer Student and Python
+- Github: [Aman Yadav](https://github.com/AmanYadav1419)
