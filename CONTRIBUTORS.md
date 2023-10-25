@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nikhil Kumar](https://github.com/WhiteSnek)
+- Place: New Delhi, India
+- Bio: Web developer and Python
+- Github: [WhiteSnek](https://github.com/WhiteSnek)
