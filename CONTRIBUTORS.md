@@ -130,6 +130,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Gamer
 - Github:[Akash Goel ] (https://github.com/akashgoel1197)
 
+- #### Name: [Akash Jambulkar](https://github.com/Akash-Jambulkar)
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: I am Akash Jambulkar?
+- GitHub: [Akash-Jambulkar](https://github.com/Akash-Jambulkar)
+
 #### Name: [Akma Adhwa](https://github.com/akmadhwa)
 - Place: Malaysia
 - Bio: Web Developer
