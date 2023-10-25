@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harshita Gupta](https://github.com/harshita-2003)
+- Place: Delhi , India
+- Bio: Full Stack Developer 
+- Github: [Harshita Gupta](https://github.com/harshita-2003)
