@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Harsh Mahajan](https://github.com/HarshMN2345)
+- Place:  New Delhi, India
+- Bio: a Full-Stack web developer
+- GitHub: [HarshMN2345](https://github.com/HarshMN2345)
