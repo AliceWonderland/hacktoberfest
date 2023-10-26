@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [TUSHANT AKAR](https://github.com/tushant-akar)
+- Place: Gandhinagar, Gujarat, India
+- Bio: Android Developer, ML/AI
+- GitHub: [Tushant Akar](https://github.com/tushant-akar)
