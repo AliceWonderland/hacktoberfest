@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ABDELMAJID ELOUSSE](https://github.com/mjidelouss)
+- Place: Morocco
+- Bio: second year Computer Science Student, in lYouCode <3
+- GitHub: [Abdelmajid Elousse](https://github.com/mjidelouss)
