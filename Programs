@@ -7,3 +7,10 @@ int main() {
    return 0;  
 }  
 
+Java Program Example
+
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
