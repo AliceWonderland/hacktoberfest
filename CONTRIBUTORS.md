@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Kartik ](https://github.com/Karik07)
+- Place: Haryana,India
+- Bio: Python
+- Github: [Kartik ](https://github.com/Karik07)
