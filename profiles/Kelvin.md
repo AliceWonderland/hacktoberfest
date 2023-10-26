@@ -14,7 +14,7 @@ Majoring Communication && Information Technology , expected to graduate in 2024.
 - Onion rings
 - Music
 - Raining noise
-- Sleep
+- Sleeping
 
 ### Development
 
