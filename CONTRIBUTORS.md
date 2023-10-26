@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:   Palak Pardeshi
+ - 	 Place:  Pune, Maharashtra, India
+ - 	 Bio:    A third year student pursuing B.Tech in Computer Engineering who loves to code and write.
+ - 	 GitHub: [palak-463](https://github.com/palak-463)
