@@ -1,3 +1,8 @@
+#### Name: [VISHWA RAHULAN](https://github.com/VRahulan)
+- Place: Kattuwa, Negombo, Sri Lanka
+- Bio: Undergraduate, Computer Science, Gamer
+- GitHub: [VRahulan](https://github.com/VRahulan)
+  
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
