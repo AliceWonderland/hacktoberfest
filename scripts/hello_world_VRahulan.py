@@ -1,6 +1,6 @@
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+// LANGUAGE: Python
+// ENV: Python
+// AUTHOR: Vishwa Rahulan
+// GITHUB: https://github.com/VRahulan
 
-console.log('Hello, World!');
+print("Hello, World")
