@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya](https://github.com/AdityaAtoZ)
+- Place: Dehradun, Uttrakhand, India
+- Bio: Software Engineering
+- GitHub: [AdityaAtoZ](https://github.com/AdityaAtoZ)
