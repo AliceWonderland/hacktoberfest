@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rahuf khan](https://github.com/Rahufkhan)
+- Place: Bidar, Karnataka, India
+- Bio: MERN STACK Developer
+- GitHub: [Rahuf khan](https://github.com/Rahufkhan)
