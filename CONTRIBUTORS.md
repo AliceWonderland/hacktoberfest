@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Rishi Das
+- Place: Kolkata, India
+- Bio: Web developer, Engineer
+- GitHub: Rishi2003Das (https://github.com/Rishi2003Das)
