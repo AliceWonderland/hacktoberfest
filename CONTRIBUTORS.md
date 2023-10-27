@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akshat Rai](https://github.com/Akshat-Raii)
+- Place: Dehradun, India
+- Bio: Student
+- GitHub: [Akshat-Raii](https://github.com/Akshat-Raii)
