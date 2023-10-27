@@ -1,3 +1,8 @@
+#### Name: Muskan Pandey
+ - Place: Mumbai, India
+ - Bio: Computer Science Engineering,VIT.
+ - GitHub: https://github.com/Muskan-1003
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
