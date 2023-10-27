@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sander Sonck](https://github.com/soncksander)
+- Place: Aalst, Belgium
+- Bio: 2nd year student applied IT
+- Github: [Sander Sonck](https://github.com/soncksander)
