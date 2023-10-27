@@ -1318,6 +1318,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Business Student/Entrepreneur/Self-taught Developer
 - Github: [KyleLawson16](https://github.com/KyleLawson16/)
 
+#### Name: [Kelvin L.](https://github.com/vintech05)
+- Place: Bekasi, Indonesia
+- Bio: Student && Self-taught Developer
+- Github: [Kelvin L.](https://github.com/vintech05)
+
 #### Name: [Lakston](https://github.com/Lakston)
 - Place: Toulouse, France
 - Bio: Front-End Dev
