@@ -2249,6 +2249,11 @@ Noida
 - Bio: UNC Charlotte coding bootcamp student.
 - GitHub: [tlm04070](https://github.com/tlm04070);
 
+#### Name: [Tushar](https://github.com/Tushar2002Dalal)
+- Place: Bahadurgarh, Haryana, India
+- Bio: Computer Geek
+- GitHub: [Tushar](https://github.com/Tushar2002Dalal);
+
 #### Name: [Tyler Williams](https://github.com/Tyler-Williams)
 - Place: Henderson, NV, USA
 - Bio: Front-end Developer
