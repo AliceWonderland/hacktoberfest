@@ -369,7 +369,13 @@ to explore life. Also, Python and Django Developer
 - Place: Milwaukee, WI, USA
 - Bio: Computer Science Major / Web Developer
 - Github: [bennett-treptow](https://github.com/bennett-treptow)
+  
 
+#### Name: [Mayank Agrawal](https://github.com/Mayank534)
+- Place: Mumbai, Maharashtra, India
+- Bio: College Student @ IITK
+- GitHub: [Mayank534](https://github.com/Mayank534)
+  
 #### Name: [Bennie Mosher](https://github.com/benniemosher)
  - Place: Windsor, CO
  - Bio: CTO of NOMO FOMO, Inc. && Software Engineer at NBC Universal
