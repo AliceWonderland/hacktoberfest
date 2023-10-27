@@ -1649,6 +1649,11 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [Chetan Yadav](https://github.com/cheta-nyadav)
+- Place: Delhi, India
+- Bio: Machine Learning enthusiast
+- GitHub: [cheta-nyadav](https://github.com/cheta-nyadav)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
