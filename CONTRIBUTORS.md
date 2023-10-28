@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+- #### Name: [Wayne J Rasmussen](https://github.com/waynejr2)
+- Place: Los Angeles, CA
+- Bio: CS Major at CSUN
+- Github: [waynejr2](https://github.com/waynejr2)
