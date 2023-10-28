@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priya Pathak](https://github.com/Priya-Pathak)
+- Place: Karnataka, India
+- Bio: Student | Software Developer 
+- Github: [Priya Pathak](https://github.com/Priya-Pathak)
