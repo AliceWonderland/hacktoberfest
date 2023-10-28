@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: Rishi Das
 - Place: Kolkata, India
-- Bio: Web developer, Engineer
-- GitHub: Rishi2003Das (https://github.com/Rishi2003Das)
+- Bio: Web developer and Engineer
+- GitHub: Rishi2003Das(https://github.com/Rishi2003Das)
