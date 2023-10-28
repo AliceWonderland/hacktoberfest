@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Prabal Pratap Singh Rathore](https://github.com/itepifanio)
+- Place: Jabalpur , India
+- Bio: Machine learning enthusiast
+- Github: [BNNARAJ](github.com/BNNARAJ)
