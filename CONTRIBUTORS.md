@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manav S](https://github.com/Manav3340)
+- Place: Bengaluru, Karnataka, India
+- Bio: 4th year BTECH student pursuing Computer Science.
+- GitHub: [Manav3340](https://github.com/Manav3340)
