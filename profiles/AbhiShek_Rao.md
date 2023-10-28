@@ -1,8 +1,3 @@
-#### Name: [AbhiShek Rao](https://github.com/abhishekraoas)
-- Place: Gorakhpur, Uttar Pradesh, India
-- Bio: 👨‍💻 Blogger || ▶️ Youtuber || 🎬 Digital Marketer || 💻 Software Developer & 🌍 Web Developer
-- GitHub: [AbhiShek Rao](https://github.com/abhishekraoas)
-
 # AbhiShek Rao
 
 ### Location
@@ -11,8 +6,8 @@ Gorakhpur, Uttar Pradesh, India
 
 ### Academics
 
-I have completed My BCA (Bachelor Of Computer Application) from Deen Dayal Upadhaya Gorakhpur University, Gorakhpur and
-Currently Pursuing My MCA (Master Of Computer Application) from Madan Mohan Malaviya University Of Technology, Gorakhpur.
+I have completed My BCA ( Bachelor Of Computer Application ) from Deen Dayal Upadhaya Gorakhpur University, Gorakhpur and
+Currently Pursuing My MCA ( Master Of Computer Application ) from Madan Mohan Malaviya University Of Technology, Gorakhpur.
 
 ### Interests
 

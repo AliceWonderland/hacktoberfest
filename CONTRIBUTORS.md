@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [AbhiShek Rao](https://github.com/abhishekraoas)
+- Place: Gorakhpur, Uttar Pradesh, India
+- Bio: 👨‍💻 Blogger || ▶️ Youtuber || 🎬 Digital Marketer || 💻 Software Developer & 🌍 Web Developer
+- GitHub: [AbhiShek Rao](https://github.com/abhishekraoas)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
