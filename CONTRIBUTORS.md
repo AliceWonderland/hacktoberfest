@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abdimalik](https://github.com/abdimalik2004)
+- Place: Mogadisho, Somalia
+- Bio: Senior Web developer html css 
+- GitHub: [Abdimalik Abdirahman](https://github.com/abdimalik2004)
