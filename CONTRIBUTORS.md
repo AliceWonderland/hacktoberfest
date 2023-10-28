@@ -1,3 +1,8 @@
+#### Name: [Praggya Pandey](https://github.com/Praggya17)
+- Place: Hyderabad
+- Bio: software developer
+- GitHub: [Praggya_17]((https://github.com/Praggya17)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
