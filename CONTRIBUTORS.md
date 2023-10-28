@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Just another developer
+- GitHub: [c0derdx](https://github.com/c0derdx)
