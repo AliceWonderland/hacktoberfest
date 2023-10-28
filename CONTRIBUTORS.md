@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [kaif](https://github.com/Kaif-Imteyaz)
+- Place: India
+- Bio: Web Developer
+- GitHub: [Kaif-Imteyaz](https://github.com/Kaif-Imteyaz)
