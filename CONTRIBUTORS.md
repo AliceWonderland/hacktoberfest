@@ -1,3 +1,9 @@
+#### Name: [Upendra Nayanajith](https://github.com/upendranayanajith)
+- Place: Gampaha, Sri Lanka
+- Bio: Undergraduate IT student
+- GitHub: [upendranayanajith](https://github.com/upendranayanajith)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
