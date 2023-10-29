@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vinayak Sharma](https://github.com/vinayak19-alt)
+- Place: Uttar Pradesh, India
+- Bio: Mobile Application Developer
+- Github: [vinayak19-alt](https://github.com/vinayak19-alt)
