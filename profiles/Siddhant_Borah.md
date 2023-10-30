@@ -17,8 +17,8 @@ Procrastinates until the limit and still doesn't mess up stuff.
 
 I generally put meme references over my work as a sign of existence. 
 
-### Interests <img align=right src='https://media.tenor.com/AGB-hxBtr1QAAAAi/moriya-suwako.gif' width=150>
-- Messing with computers 
+### Interests 
+- Messing with computers <img align=right src='https://media.tenor.com/AGB-hxBtr1QAAAAi/moriya-suwako.gif' width=150>
 - Blowing up operating systems 
 - Ricing machines 
 - Landscape photography 
