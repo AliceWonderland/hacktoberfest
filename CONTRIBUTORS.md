@@ -1,3 +1,8 @@
+#### Name: [ELVIS NYEMBO](https://github.com/elvisraymond)
+- Place: Nicosia(Lefkoşa), Nicosia, Cyprus
+- Bio: second year Software Engineering Student
+- GitHub: [Elvis Raymond](https://github.com/elvisraymond)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2423,7 +2428,4 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
