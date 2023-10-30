@@ -1,3 +1,8 @@
+#### Name: [ELVIS NYEMBO](https://github.com/elvisraymond)
+- Place: Nicosia(Lefkoşa), Nicosia, Cyprus
+- Bio: second year Software Engineering Student
+- GitHub: [Elvis Raymond](https://github.com/elvisraymond)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
