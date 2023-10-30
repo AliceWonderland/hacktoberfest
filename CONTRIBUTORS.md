@@ -2082,6 +2082,11 @@ Noida
 - Bio: Undergrad at IIITA
 - Github: [Shreyansh Dwivedi] (https://github.com/shreyanshdwivedi)
 
+#### [Siddhant Borah](https://github.com/sidonthetroll)
+- Place: Tinsukia, Assam, India 
+- Bio: Biology student as well as Computer enthusiast. "GUI is the lazy finger's workout"
+- Github: [SidonTheTroll](https://github.com/sidonthetroll)
+
 #### Name: [Siddhant Verma](https://github.com/siddver007)
 - Place: Delhi, India
 - Bio: Information Assurance and Cybersecurity Master's Student at Northeastern University
