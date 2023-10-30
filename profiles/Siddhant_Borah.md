@@ -26,7 +26,7 @@ I generally put meme references over my work as a sign of existence.
 
 ## My word to live by
 
-*CLI is like sex, you `git gid` in it over time.*
+*CLI is like sex, you `git gud` in it over time.*
 
 <div align=center>
 
