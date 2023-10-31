@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mruthunjay](https://github.com/idk-mr4tyunjay)
+- Place: MP, India
+- Bio: i'm a student
+- GitHub: [idk-mr4tyunjay](https://github.com/idk-mr4tyunjay)
