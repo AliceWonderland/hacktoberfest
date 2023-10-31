@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Newton Fernandis](https://github.com/NewtonFernandis)
+- Place: India
+- Bio: Frontend Engineer
+- GitHub: [NewtonFernandis](https://github.com/NewtonFernandis)
