@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: DIANA BABENKO
+- Place: Cherkasy, Ukraine
+- Bio: Bachelor Degree in Software Engineer.
+- GitHub: [DianaBabenko](https://github.com/DianaBabenko)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
