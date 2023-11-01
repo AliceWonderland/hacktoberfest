@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sanchit Jain](https://github.com/Undiluted7027)
+- Place: Coquitlam, Canada
+- Bio: Student developer in Python and C++
+- Github: [Sanchit Jain](https://github.com/Undiluted7027)
