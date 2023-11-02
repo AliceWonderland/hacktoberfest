@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratham A Kadekar](https://github.com/pratham-ak2004)
+- Place: Udupi, Karnataka, India
+- Bio: A Machine Learning student at NMAM Institute of Technology aspiring to be a web developer
+- Github: [pratham-ak2004](https://github.com/pratham-ak2004)
