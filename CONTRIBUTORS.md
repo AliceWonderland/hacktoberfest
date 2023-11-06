@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [JESÚS ZÚÑIGA TREJO](https://github.com/zutjmx)
+- Place: México
+- Bio: Software Developer, Actuary, Faculty of Sciences, UNAM
+- GitHub: [JESÚS ZÚÑIGA TREJO](https://github.com/zutjmx)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
