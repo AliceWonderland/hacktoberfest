@@ -1,3 +1,7 @@
+#### Name: [Satyam Kumar Singh](https://github.com/isatyamks)
+- Place: Delhi,India
+- Bio: I believe in Murphy's Law
+- GitHub: [Satyam Kumar Singh](https://github.com/isatyamks)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
