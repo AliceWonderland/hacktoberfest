@@ -37,7 +37,10 @@
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
-
+#### Name: [mungsec](https://github.com/mungsec)
+- Place: Kolkata, India
+- Bio: Bug Bounty Hunter
+- Github: [mungsec](https://github.com/mungsec)
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
