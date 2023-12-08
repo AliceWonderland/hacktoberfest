@@ -1,3 +1,8 @@
+### Name: Kaung Min Htet
+  - Place: Yangon, Myanmar
+  - Bio: Who loves system design and architecture
+  - GitHub: [kgk-dev](https://github.com/kgk-dev)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
