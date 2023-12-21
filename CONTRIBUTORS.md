@@ -1804,6 +1804,11 @@ Noida
 - Bio: Student and newbie software developer
 - GitHub: [phscherer](https://github.com/phscherer)
 
+#### Name: [Pawan Kumar ](https://github.com/pk85399691)
+- Place: India
+- Bio: Software developer
+- GitHub: [Pawan](https://github.com/pk85399691)
+
 #### Name: [Pedro Mietto Bruini](https://github.com/bruini)
 - Place: Jundiaí, São Paulo, Brazil
 - Bio: Analyst/Developer Student at Fatec-Jd
