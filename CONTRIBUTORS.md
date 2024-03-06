@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ali Darcan](https://www.alidarcan.com/)
+- Place: Skopje, North Macedonia
+- Bio: Web Developer JS, Node, Express, EJS, JQuery
+- Github: [Ali Darcan](https://github.com/alidarcan)
