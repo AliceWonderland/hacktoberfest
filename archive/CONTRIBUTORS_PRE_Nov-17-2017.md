@@ -1,3 +1,8 @@
+#### Name: M. Muizzuddin RIfqi
+ - Place: East Java, Indonesian
+ - Bio: Informatics Engineering Student, Malang State Polytechnic
+ - GitHub: [MuizzuddinRifqi](https://github.com/MuizzuddinRifqi)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16680,4 +16685,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
