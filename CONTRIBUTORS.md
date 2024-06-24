@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rolins Macwan](https://github.com/rolinsmacwan)
+- Place: Gujarat, India
+- Bio: Web developer
+- Github: [Rolins Macwan](https://github.com/rolinsmacwan)
