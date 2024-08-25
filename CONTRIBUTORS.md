@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Arya](https://github.com/FrankOHara43)
+- Place: India
+- Bio:  backend developer 
+- Github: [Arya](https://github.com/FrankOHara43)
