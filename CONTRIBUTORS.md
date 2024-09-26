@@ -1,3 +1,8 @@
+#### Name: KARIM MIRZAGULIYEV
+ - Place: Baku, Azerbaijan
+ - Bio: Software engineer. I am pythonista.
+ - GitHub: [Karim Mirzaguliyev](https://github.com/k4rimDev)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
