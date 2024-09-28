@@ -2,7 +2,7 @@
 
 ### Location
 
-Mandi, Himachal Pradesh, India
+Mandi, Himachal Pradesh, India,
 
 ### Academics
 
