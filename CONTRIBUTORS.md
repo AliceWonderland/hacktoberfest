@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Niccolò Mai](https://github.com/nocchino)
+- Place: Italy
+- Bio: I think i'm brainrotted
+- GitHub: [nocchino](https://github.com/nocchino)
