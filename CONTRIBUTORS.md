@@ -2141,6 +2141,7 @@ Noida
 - Place: Huntington Beach, CA
 - Bio: Games and things!
 - GitHub: [Stephen Abrahim](https://github.com/lepah)
+#### Name: [Devika S Kumar
 
 #### Name: [Stephen Dzialo](https://github.com/dzials)
 - Place: USA
@@ -2427,3 +2428,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Devika S Kumar](https://github.com/devika-dudo)
+- Place: Kerala, India
+- Bio: Web developer, Data Analyst, Ideator
+- Github: .[devika-dudo](https://github.com/devika-dudo)
