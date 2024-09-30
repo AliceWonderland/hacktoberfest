@@ -1,16 +1,5 @@
-"""
-Script for managing the CONTRIBUTOR.md file.
-What this script does?
-- Remove trailing whitespaces before '####'
-- Replace every heading with '####'
-- Sort the list of contributors
-
-Running the script -
-python3 manage.py
-
-PS: DO NOT USE PYTHON 2
-"""
 import re
+import os
 
 def format_contributor(contrib):
     """
@@ -23,9 +12,8 @@ def format_contributor(contrib):
     contrib = contrib.replace('Name : [', name_str)
     contrib = contrib.replace('Name :[', name_str)
     contrib = contrib.replace('Name: [ ', name_str)
-    contrib= '#### ' + contrib+ '\n\n'
+    contrib = '#### ' + contrib + '\n\n'
     return contrib
-
 
 # Remove trailing whitespaces
 # Make the file ready for sorting
@@ -41,14 +29,17 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     file.truncate()
     file.writelines(new_file_data)
 
-
 # Sorts the list of contributors and saves to file
 # The real thing happens here.
 with open('CONTRIBUTORS.md', 'r+') as file:
     contributors = [contributor.strip() for contributor in file.read().split('####')
-                                if contributor]
+                    if contributor]
     contributors = [format_contributor(contrib) for contrib in contributors]
     contributors = sorted(contributors)
     file.seek(0)
     file.truncate()
     file.writelines(contributors)
+
+# Git operations
+os.system('git add CONTRIBUTORS.md')
+os.system('git commit -m "Update CONTRIBUTORS.md formatting and sorting"')
