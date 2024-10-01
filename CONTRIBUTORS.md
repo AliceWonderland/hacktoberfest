@@ -160,6 +160,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student, Aspiring Front-end Web Dev
 - Github [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 
+- #### Name: [Tejesh Yewale](https://github.com/Tejeshyewale)
+- Place: pune, maharashtra, india
+- Bio: Data Science Ethunsiates and Bachlor's Student in computer Engineering
+- GitHub: [Tejesh Yewale](https://github.com/Tejeshyewale)
+
 #### Name: [Alex Blum](https://github.com/alexblum)
  - Place: Germany
  - Bio: Webdeveloper
