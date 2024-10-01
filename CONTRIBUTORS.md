@@ -2122,6 +2122,12 @@ Noida
 - Bio: Machine Learning Enthusiast, Information Technology Undergraduate-18
 - GitHub: [SrGrace](https://github.com/SrGrace)
 
+- #### Name: [Tejesh Yewale]()
+- Place: pune, maharashtra, India
+- Bio: Data Science Enthusiast , computer engineering undergraduate 
+- GitHub: [GitHub account name](GitHub link)
+
+
 #### Name: [Sparsh Garg](https://github.com/sparsh789)
 - Place: Hyderabad, Telangana, India
 - Bio: Student@IIIT,Hyderabad
@@ -2427,3 +2433,41 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Tejesh Yewale](https://github.com/tejeshyewale)
+- Place: pune, Maharashtra, India
+- Bio: Data Science Ethunsiates , computer Engineering student
+- GitHub: [Tejesh Yewale](https://github.com/tejeshyewale)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- k)
