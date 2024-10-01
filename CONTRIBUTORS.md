@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sayan Kundu](https://github.com/electro-coder)
+- Place: Andhra Pradesh, India
+- Bio: Student, Software Developer
+- Github: [electro-coder](https://github.com/electro-coder)
