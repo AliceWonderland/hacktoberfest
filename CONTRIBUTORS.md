@@ -1,3 +1,8 @@
+#### Name: Bhavya Gupta
+ - Place: New Delhi, India
+ - Bio: Final-year student at IIITD majoring in Computer Science and Mathematics.
+ - GitHub: [bhavya2021245](https://github.com/bhavya2021245)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
