@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Gupta](https://github.com/Aditxgupta)
+- Place: Bengaluru, India
+- Bio: Python Programmer
+- Github: [Aditya Gupta](https://github.com/Aditxgupta)
