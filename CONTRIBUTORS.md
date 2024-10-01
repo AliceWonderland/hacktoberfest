@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Sujay Jawarkar (https://github.com/SujayJawarkar)
+- Place: Pune, Maharashtra, India
+- Bio: Students
+- GitHub: [SujayJawarkar](https://github.com/SujayJawarkar)
