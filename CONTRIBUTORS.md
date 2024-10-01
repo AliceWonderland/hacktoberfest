@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Himanshu Jasani](https://github.com/himasnhuJasani)
+ - Place: Bangalore, India
+ - Bio: Software Developer.
+ - GitHub: [Himanshu Jasani](https://github.com/himasnhuJasani)
