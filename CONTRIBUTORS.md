@@ -1,3 +1,8 @@
+#### Name: [Shivansh Srivastava](https://github.com/Shivansh-0403)
+- Place: Sehore, Madhya Pradesh, India
+- Bio: Final Year Undergrad pursuing B.Tech in Computer Science and Engineering from VIT Bhopal.
+- GitHub: [Shivansh-0403](https://github.com/Shivansh-0403)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
