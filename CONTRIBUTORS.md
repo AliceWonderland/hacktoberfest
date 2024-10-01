@@ -2259,6 +2259,11 @@ Noida
  - Bio: Literally gamer, geek and viking.
  - GitHub: [turkerdotpy](https://github.com/turkerdotpy)
 
+#### Name: [Anugya Gupta](https://github.com/Anugya43)
+ - Place: Delhi, India
+ - Bio: Literally nerd
+ - GitHub: [Anugya43](https://github.com/Anugya43)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: New Delhi, India
 - Bio: Programmer
