@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ravikant Prajapati](https://github.com/ravee360)
+- Place: Lucknow,India
+- Bio: Data science enthusiast
+- Github: [Ítalo Epifânio](https://github.com/ravee360)
