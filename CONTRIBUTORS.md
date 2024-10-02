@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [GH-Preethi](https://github.com/GH-Preethi)
+- Place: Chennai, Tamilnadu, India
+- Bio: Enthusiast of Programming, Cybersecurity and artificial intelligence
+- GitHub: [GH-Preethi](https://github.com/GH-Preethi)
