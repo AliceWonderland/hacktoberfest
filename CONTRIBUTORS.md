@@ -1,3 +1,8 @@
+#### Name: [Adhiraj Pawar](https://github.com/adhirajpawar)
+- Place: Pune, Maharashtra, India
+- Bio: Final Year Information Technology student, Computer Geek <3
+- GitHub: [adhirajpawar](https://github.com/adhirajpawar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
