@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shashwata Halder](https://github.com/shashwatahalder01)
+- Place: Dhaka, Bangladesh
+- Bio: QA Specialist and Automation Engineer
+- GitHub: [Shashwatahalder01](https://github.com/shashwatahalder01)
