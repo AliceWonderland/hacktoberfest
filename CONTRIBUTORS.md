@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suryansh Shukla](https://github.com/suryanshshukla011)
+- Place: India
+- Bio: Java and software developer
+- Github: [suryanshshukla011](https://github.com/suryanshshukla011)
