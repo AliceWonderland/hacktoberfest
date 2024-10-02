@@ -1,3 +1,8 @@
+#### Name: [K Abhiram](https://github.com/kanduru-abhiram)
+- Place: Bengaluru, Karnataka, India
+- Bio: App Developer, Graduating from BITS Pilani
+- GitHub: [kanduru-abhiram](https://github.com/kanduru-abhiram)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
