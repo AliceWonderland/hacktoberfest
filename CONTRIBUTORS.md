@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saloni](https://github.com/Salonisaroha)
+- Place: Yamunanagr, Haryana, India
+- Bio: I am enhusiastic programmer.
+- GitHub: [Saloni](https://github.com/Salonisaroha)
