@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shlok Agarwal](https://github.com/Shlok-Agarwal-7)
+- Place: Hyderbad,India
+- Bio: Web developer and Python
+- Github: [Shlok Agarwal](https://github.com/Shlok-Agarwal-7)
