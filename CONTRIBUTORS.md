@@ -1,3 +1,7 @@
+#### Name: [G.Hemanth Tigga](https://github.com/HemanthTigga)
+- Place: Punjab,  India
+- Bio: Final Year Student at Chitkara University, Punjab, India
+- GitHub: [G.Hemanth Tigga](https://github.com/HemanthTigga)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
