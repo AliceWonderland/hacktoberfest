@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Ayush Wattamwar](https://github.com/AshWatts)
+- Place: Pune, India
+- Bio: Student plus Much more
+- GitHub: [Abdullateef](https://github.com/AshWatts)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
