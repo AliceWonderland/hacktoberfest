@@ -1,3 +1,8 @@
+#### Name: Aditi
+ - Place- Chhattisgarh,India
+ - Bio- 2nd year Computer Science Student
+ - GitHub: adiatgithub [https://github.com/adiatgithub]
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
