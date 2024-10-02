@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ana Rose](https://github.com/Rajathaaa)
+- Place: India
+- Bio: C enthusiast
+- Github: [Ana Rose](https://github.com/Rajathaaa)
