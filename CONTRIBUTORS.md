@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Ayesha Quazi](https://github.com/ayesha-quazi)
+- Place: Maharashtra, India
+- Bio: Frontend Developer
+- Github: [Ayesha Quazi](https://github.com/ayesha-quazi)
