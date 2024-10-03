@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hitoro Tsujii](https://github.com/HirotoTsujii)
+- Place: Tokyo, Japan
+- Bio: Web Developer
+- Github: [Hitoro Tsujii](https://github.com/HirotoTsujii)
