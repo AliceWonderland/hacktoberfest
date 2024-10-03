@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priyanshu Singh](https://github.com/spriyanshucoder)
+- Place: Bangalore, Karnataka, India
+- Bio: Full Stack Developer | Python Developer | Web3 Enthusiast | Learning DevOps | Problem Solver 
+- GitHub: [spriyanshucoder](https://github.com/spriyanshucodedr)
