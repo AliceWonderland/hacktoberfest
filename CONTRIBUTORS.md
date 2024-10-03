@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [gourav bambhore](https://github.com/gouravbambhore)
+- Place: Banglore, Karnataka, India
+- Bio: Frontend Developer | Coder | AIML Engineering Student | Building Web & AI Projects
+- Github: [gouravbambhore](https://github.com/gouravbambhore)
