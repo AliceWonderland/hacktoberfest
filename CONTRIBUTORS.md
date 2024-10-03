@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Saransh] (https://github.com/Saransh1524)
+- Place: India
+- Bio: Full Stack Developer
+- GitHub: [Saransh] (https://github.com/Saransh1524)
+
