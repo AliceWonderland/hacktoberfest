@@ -1,3 +1,8 @@
+#### Name: Ojaswi Bhardwaj
+- Place: Lyon, France
+- Bio: Second Year Computer Science Student, Aspiring Full Stack Developer
+- GitHub: [Ojaswi](https://github.com/ojaswi1234)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
