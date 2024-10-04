@@ -1,3 +1,8 @@
+#### Name: Lakshmi prasanna
+ - Place: India
+ - Bio: Btech..
+ - GitHub: [prasanna](https://github.com/plp940)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
