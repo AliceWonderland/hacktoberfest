@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Raulanthropos](https://github.com/Raulanthropos)
+- Place: Athens, Greece
+- Bio: Fullstack MERN developer
+- GitHub: [Raulanthropos](https://github.com/Raulanthropos)
