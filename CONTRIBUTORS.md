@@ -930,6 +930,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Programmer, Student
 - Github: [Hardik Surana](https://github.com/hardiksurana)
 
+#### Name: [Hareesh G R](https://github.com/Hareesh0-inf)
+- Place: India
+- Bio: A Tech Enthusiast, Developer and a Lifelong Learner
+- Github: [Hareesh0-inf](https://github.com/Hareesh0-inf)
+
 #### Name: [Harshil Agrawal](https://github.com/harshil1712)
 -Place: Vadodara, India
 -Bio: Student,Web Developer
