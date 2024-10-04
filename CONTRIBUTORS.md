@@ -1,3 +1,8 @@
+#### Name: [Kushal Rastogi](https://github.com/KushalRastogi20)
+ - Place: Delhi ,India
+ - Bio: Software Developer
+ - GitHub: [KushalRastogi20](https://github.com/KushalRastogi20)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
