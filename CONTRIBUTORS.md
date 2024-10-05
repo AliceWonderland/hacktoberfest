@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: Bhavya
+ - Place: Gujarat, India
+ - Bio: Student,currently in 3rd year Pursing B.Tech.
+ - GitHub: [bhavyaexe1412](https://github.com/bhavyaexe1412)
