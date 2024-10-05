@@ -1,3 +1,8 @@
+#### Name: Shamil
+- Place: India
+- Bio: Software Engineer
+- GitHub: [shamilthomas8](https://github.com/shamilthomas8)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
