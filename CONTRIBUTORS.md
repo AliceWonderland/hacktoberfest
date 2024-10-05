@@ -254,7 +254,12 @@ to explore life. Also, Python and Django Developer
 - Place: New Delhi, India
 - Bio: Computer Science Under Graduate, Open Source Lover
 - GitHub: [Aniket](https://github.com/AniketRoy)
-
+- 
+#### Name: [Mohd Fuzail Haider](https://github.com/MohdFuzailHaider)
+- Place: Uttar Pradesh,India
+- Bio: Data Science student
+- GitHub: [Mohd Fuzail Haider](https://github.com/MohdFuzailHaider)
+  
 #### Name: [Anish Bhardwaj](https://github.com/bhardwajanish)
 - Place: New Delhi, India
 - Bio: CSD IIITD
