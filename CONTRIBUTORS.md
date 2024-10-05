@@ -2418,6 +2418,11 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
+#### Name: [Vikraman](https://github.com/vikramanDesinghu)
+- Place: Tamil Nadu, IN
+- Bio: interested in Coding, Javascript, Angular,React, TypeScript, ML, IOT, Sclupting
+- Github: [vikramanDesinghu](https://github.com/vikramanDesinghu)
+
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
