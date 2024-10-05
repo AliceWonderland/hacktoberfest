@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Vashishth](https://github.com/Yash-Vashishth)
+-Place: New Delhi, India
+-Bio- Active web developer, and basic HTML, CSS
+-GitHub: [Yash Vashishth](https://github.com/Yash-Vashishth)
