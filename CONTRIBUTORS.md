@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Yash Pathak](https://github.com/yash0409)
+- Place: Vellore,India
+- Bio: Engeering Student
+- Github: [yash0409](https://github.com/yash0409)
