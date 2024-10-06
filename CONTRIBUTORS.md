@@ -1890,6 +1890,11 @@ Noida
 - Bio: loves computer+science , Full Stack Developer
 - GitHub: [Ocean](https://github.com/rafaelmilanibarbosa)
 
+ #### Name: [Kusum Kharayat](https://github.com/KusumKr)
+ - Place: New Delhi,India
+ - Bio: loves reading novels, Tech Enthusiast, Full Stack Web Developer
+ - Github: [KusumKr](https://github.com/KusumKr)
+
 #### Name: [Rafael Bezerra](https://github.com/rafaelbezerra195)
 - Place: Fortaleza, Brazil
 - Bio: Software Developer
