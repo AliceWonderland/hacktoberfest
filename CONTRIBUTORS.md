@@ -1,3 +1,9 @@
+#### Name: Subin
+ - Place: Nepal
+ - Bio: Computer Science Student
+ - GitHub: [Subin](https://github.com/subin-shk)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
