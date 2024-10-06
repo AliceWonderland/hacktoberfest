@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [negativenagesh](https://github.com/negativenagesh)
+- Place: Bengaluru, India
+- Bio: Data Science Student
+- Github: [negativenagesh](https://github.com/negativenagesh)
