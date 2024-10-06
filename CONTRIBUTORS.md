@@ -1,3 +1,8 @@
+#### Name: Kumar Aryan
+ - Place: Bihar, India
+ - Bio: IT Student,  Noida Institute Of Engineering And Technology.
+ - GitHub: [Kumar-Aryan-NIET](https://github.com/Kumar-Aryan-NIET)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
