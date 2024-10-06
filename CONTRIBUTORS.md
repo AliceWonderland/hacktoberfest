@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Kusum Kharayat](https://github.com/KusumKr)
+- Place: New Delhi, India
+- Bio: Full Stack Web Developer
+- Github: [KusumKr](https://github.com/KusumKr)
