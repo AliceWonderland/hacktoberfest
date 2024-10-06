@@ -1,3 +1,8 @@
+#### Name   : Vanshika Bundela (https://github.com/Vanshika-Bundela)
+   - Place  : India
+   - Bio    : Software Engineer
+   - GitHub : https://github.com/Vanshika-Bundela
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
