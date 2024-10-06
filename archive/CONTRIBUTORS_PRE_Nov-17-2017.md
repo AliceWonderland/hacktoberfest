@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+### Name: [Maithri Muralikrishna](https://github.com/playing-god)
+- Place: Karnataka, India
+- Bio: Exploring the CS world
+- Github: [playing-god](https://github.com/playing-god)
