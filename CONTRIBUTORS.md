@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Kanan](https://github.com/kanan-pm07)
+- Place: Odisha,India
+- Bio: Student
+- Github: [Kanan](https://github.com/kanan-pm07) 
