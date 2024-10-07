@@ -1,0 +1,108 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  color-scheme: light dark;
+}
+body {
+  height: 100vh;
+  width: 100%;
+  background: url(https://images7.alphacoders.com/115/1152297.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border-bottom: 1px solid white;
+}
+nav{
+  padding: 1rem;
+}
+nav ul{
+  list-style: none;
+  padding: 0;
+}
+nav ul li{
+  display: inline;
+  padding: 15px;
+}
+nav ul li:hover{
+  cursor: pointer;
+  color: red;
+}
+.dropdown-menu{
+  position: relative;
+}
+.submenu-1{
+  display: none;
+}
+.submenu-1 ul li{
+  color: #000000;
+  display: block;
+  padding: .8rem;
+  border-bottom: 1px solid #000000;
+}
+.submenu-1 ul li:hover{
+  color: rgb(192, 40, 40);
+}
+.submenu-1 ul li:last-child{
+  border-bottom: none;
+}
+.dropdown-menu:hover .submenu-1{
+  display: block;
+  position: absolute;
+  top: 40px;
+  right: 0;
+  background: rgb(255, 255, 255);
+}
+.submenu-2{
+  display: none;
+}
+.submenu-2 ul li{
+  color: rgb(255, 255, 255);
+  border-bottom: none;
+  padding: .7rem;
+  
+}
+
+.dropdown-menu-2:hover .submenu-2{
+  display: block;
+  position: absolute;
+  top: 0px;
+  margin-left: 90px;
+  background: #000000;
+} 
+
+#right-nav ul li {
+  margin-left: 0;
+  margin-right: 2rem;
+}
+#sign-in {
+  font-size: 1.1rem;
+  background: #ec0019;
+  padding: 0.6rem 1.3rem;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+#sign-in:hover {
+  background: #b60e1e;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: aliceblue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
