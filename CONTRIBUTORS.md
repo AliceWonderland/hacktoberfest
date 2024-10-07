@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kumar Shaswat](https://github.com/Shaswat098)
+- Place: Chennai,TamilNadu
+- Bio: Student
+- Github: [Kumar Shaswat](https://github.com/Shaswat098)
