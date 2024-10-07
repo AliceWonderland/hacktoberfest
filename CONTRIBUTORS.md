@@ -98,6 +98,11 @@
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
 
+#### Name: [Mahesh R](https://github.com/MaheshR03)
+- Place: Karnataaka, India
+- Bio: CSE undergrad
+- GitHub: [Mahesh R](https://github.com/MaheshR03)
+
 #### Name: [Aiman Abdullah Anees](https://github.com/aimananees)
 - Place: Hyderabad, India
 - Bio: iOS Developer
