@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: hetvi 
+ - Place: Birmingham, USA
+ - Bio: Cloud engineer
+ - Github: [hetvi20](https://github.com/hetvi20)
+
+#### Name: Vallenai
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
