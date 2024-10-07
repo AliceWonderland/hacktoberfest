@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shakirth Anisha](https://github.com/shakirth-anisha)
+- Place: Banglore, Karnataka, India
+- Bio: Web dev and App dev enthusiaist. 
+- GitHub: [Shakirth Anisha](https://github.com/shakirth-anisha)
