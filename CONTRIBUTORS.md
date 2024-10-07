@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohit N](https://github.com/natunator)
+- Place: Bangalore, India
+- Bio: Systems Engineer, MATLAB and Python
+- Github: [Rohit N](https://github.com/natunator)
