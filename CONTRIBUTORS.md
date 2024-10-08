@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Miguel Núñez](https://github.com/miguelnunez15)
+- Place: Barcelona, Spain
+- Bio: Full Stack Developer and Automation Enthusiast. 
+- Github: [miguelnunez15](https://github.com/miguelnunez15)
