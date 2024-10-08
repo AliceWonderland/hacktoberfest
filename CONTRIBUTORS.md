@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [abbyw2028](https://github.com/abbyw2028)
+- Place: Seattle, United States
+- Bio: Student
+- Github: [abbyw2028](https://github.com/abbyw2028)
