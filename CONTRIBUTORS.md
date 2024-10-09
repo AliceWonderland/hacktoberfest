@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dandi Darmawan](https://github.com/mddarmawan)
+- Place: Indonesia
+- Bio: Software Engineer
+- Github: [mddarmawan](https://github.com/mddarmawan)
