@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Gurpreet Kaur] (https://github.com/Gurpreet0022)
+- Place : India
+- Bio : Turning Data into Decisions 
+- Github:[Gurpreet Kaur] (https://github.com/Gurpreet0022)
