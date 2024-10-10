@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Koushik Reddy](https://github.com/Koushik-1729)
+- Place: Hyderabad, India
+- Bio: Student
+- GitHub: [Koushik Reddy](https://github.com/Koushik-1729)
