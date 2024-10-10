@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [DHL](https://github.com/DHL0818)
+- Place: Seattle, WA, USA
+- Bio: Student, new to coding, complete a school project
+- GitHub: [DHL](https://github.com/DHL0818)
