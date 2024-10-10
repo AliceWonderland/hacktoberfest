@@ -24,6 +24,7 @@ def format_contributor(contrib):
     contrib = contrib.replace('Name :[', name_str)
     contrib = contrib.replace('Name: [ ', name_str)
     contrib= '#### ' + contrib+ '\n\n'
+
     return contrib
 
 
