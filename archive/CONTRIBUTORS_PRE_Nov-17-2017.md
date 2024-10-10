@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Mradul](https://github.com/mradul-001)
+- Place: India
+- Bio: Second year Computer Science Student at IITB, India
+- GitHub: [Mradul](https://github.com/mradul-001)
