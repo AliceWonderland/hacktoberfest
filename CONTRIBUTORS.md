@@ -1,3 +1,8 @@
+#### Name: Rushi Kardani
+ - Place: Gujarat, India
+ - Bio: Student, CHARUSAT.
+ - GitHub: [rushikardani 05](https://github.com/rushikardani05)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
