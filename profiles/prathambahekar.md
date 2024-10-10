@@ -12,8 +12,8 @@ DIT Pune
 
 ### Interests
 
-Coding
-Cricket
+Coding,
+Cricket,
 Watching Movies
 
 ### Development
