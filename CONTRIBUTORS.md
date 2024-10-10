@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jathniel Argueza](https://github.com/jathniel)
+- Place: Cavite, Philippines
+- Bio: Full Stack Developer
+- Github: [Jathniel Argueza](https://github.com/jathniel)
