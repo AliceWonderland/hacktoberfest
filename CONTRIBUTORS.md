@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: Sukhreet Kaur
+ - Place: Punjab, India
+ - Bio: Aspiring Data Scientist currently persuing Btech in Lovely Professional University Phawara.
+ - GitHub: [Sukhreet-kaur]((https://github.com/Sukhreet-kaur))
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
