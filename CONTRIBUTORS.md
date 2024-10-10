@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-- #### Name: [Pratham Bahekar](https://github.com/prathambahekar)
-- Place: Pune, India
-- Bio: Student
-- Github: [prathambahekar](https://github.com/prathambahekar)
+- #### Name: Pratham Bahekar
+ - Place: Pune, India
+ - Bio: Student.
+ - GitHub: [prathambahekar](https://github.com/prathambahekar)
