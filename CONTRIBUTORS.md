@@ -1422,9 +1422,10 @@ to explore life. Also, Python and Django Developer
 - Place: Ko Tao, Thailand
 - Bio: I love code, coffee and the beach
 
-#### Name: [Mahak Pathak](https://github.com/MahakPathak/)
-- Place: Ghaziabad,Uttar Pradesh, India
-- Bio: I have interest in Coding and Web development.
+#### Name: [Mahak Pathak](https://github.com/MahakPathak)
+- Place: Ghaziabad , Uttar Pradesh , India
+- Bio: interested in web development and coding in C++
+- GitHub: [Mahak Pathak](https://github.com/MahakPathak)
 
 #### Name: [Mahdi Majidzadeh](https://github.com/MahdiMajidzadeh/)
 - Place: Qom, Qom, Iran
