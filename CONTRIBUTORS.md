@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sakshi Kiran](https://github.com/Sakshi-kiran)
+- Place: Bangalore, Karnataka, India
+- Bio: A DevOps learner interested in automation and cloud technologies.
+- GitHub: [Sakshi Kiran](https://github.com/Sakshi-kiran)
