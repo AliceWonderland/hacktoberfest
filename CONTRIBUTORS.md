@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vansh Pandey](https://github.com/vp007-dev)
+- Place: Agra, UP, India
+- Bio: A Backend developer, Game developer, C, C++, C#, assembly, Python, Web developer
+- GitHub: [vp007-dev](https://github.com/vp007-dev)
