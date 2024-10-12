@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Bilal Lodhi](https://github.com/Bilallodhi00)
+- Place: Islamabad, Pakistan
+- Bio: A confused individual who wants to be a Game Dev but is a Web Developer
+- Github: [Bilal Lodhi](https://github.com/Bilallodhi00)
