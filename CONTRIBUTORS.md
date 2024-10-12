@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arun Balaji B](https://github.com/ArunBalaji-20)
+- Place:Tamil Nadu,india
+- Bio: CTF player,Cybersecurity,Developer
+- Github: [Arun Balaji](https://github.com/ArunBalaji-20)
