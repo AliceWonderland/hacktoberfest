@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Swagat Sahu](https://github.com/crocodilelurker)
+- Place: Odisha ,India
+- Bio: Python and AI Intern
+- Github: [Swagat Sahu](https://github.com/crocodilelurker)
