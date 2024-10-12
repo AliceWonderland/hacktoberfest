@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aldy Naufal Alyyafi](https://github.com/aldinaufal21)
+- Place: Jakarta, Indonesia
+- Bio: Backend Developer
+- GitHub: [Aldy Naufal Alyyafi](https://github.com/aldinaufal21)
