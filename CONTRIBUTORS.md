@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Aditya Kukade] (https://github.com/adityakukade32)
+- Place: India,Nashik
+- Bio: Web developer
+- GitHub: [Aditya Kukade] (https://github.com/adityakukade32)
+
