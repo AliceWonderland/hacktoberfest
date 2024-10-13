@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anubhav Singh](https://github.com/AnubhavSingh99)
+- Place: Delhi, India
+- Bio: student
+- Github: [Anubhav](https://github.com/AnubhavSingh99)
