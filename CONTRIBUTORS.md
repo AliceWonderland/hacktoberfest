@@ -215,6 +215,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Lead Mobile Developer
 - Github: [Alvin Abia](https://github.com/twist295)
 
+#### Name: [Utkarsh Yadav](https://github.com/uky222)
+- Place: Delhi, India
+- Bio: Bachelor CSE Student
+- Github: [Utkarsh Yadav](https://github.com/uky222)
+
 #### Name: [Amlaan Bhoi](https://github.com/amlaanb)
 - Place: IL, USA
 - Bio: CS Grad Student
