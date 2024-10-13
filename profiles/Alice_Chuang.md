@@ -2,11 +2,13 @@
 
 ### Location
 
-New York City, NY, USA
+New York City, NY, USA, India
 
 ### Academics
 
 Undergraduate in B.A. (Management Information Systems) from Babson College
+Postgraduate in Mathematics
+
 
 ### Interests
 
@@ -16,7 +18,9 @@ Undergraduate in B.A. (Management Information Systems) from Babson College
 - Sockets
 - Memes
 - I LOVE DOGS
+- I LOVE VLOGGING
 
+  
 ### Development
 
 - Frontend UI Engineer, Fullstack Software Engineer
