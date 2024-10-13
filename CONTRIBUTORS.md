@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name:[Yubraj Khatri](https://www.yubrajkhatri.com.np/)
+- place: Brockport New York Usa
+- Bio: Web and mobile js and java developer
+- Github: [Yubraj977](https://github.com/Yubraj977)
