@@ -1,3 +1,9 @@
+### Name: Sanidhya Sharma
+ - Place: Rajasthan, India
+ - Bio: Student
+ - GitHub-[Sanidhya-Sharma01](https://github.com/Sanidhya-Sharma01)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
