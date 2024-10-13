@@ -1418,6 +1418,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I'm a student in Fatec Jundiaí and Web Developer.
 - GitHub: [Luís Antonio Prado Lança](https://github.com/luisslanca)
 
+#### Name: [Anurag E Prasad](https://github.com/anurag2506)
+- Place: Indore, MP
+- Bio: Bachelors of Tech in IITI
+- Github-username: anurag2506
+
 #### Name: [M K]
 - Place: Ko Tao, Thailand
 - Bio: I love code, coffee and the beach
