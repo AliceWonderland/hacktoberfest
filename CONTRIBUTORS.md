@@ -1,3 +1,8 @@
+#### Name: [DIVYAM PRABHU DESSAI](https://github.com/divyamprabhudessai)
+- Place: Pune, Maharastra, India
+- Bio: Second Year Computer Science Student, from Pune Maharastra.
+- GitHub: [divyamprabhudessai](https://github.com/divyamprabhudessai)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
