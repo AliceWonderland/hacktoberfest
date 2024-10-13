@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sandipan3](https://github.com/Sandipan3)
+- Place: Kolkata, West Bengal, India
+- Bio: Student at University of Engineering and Management, Kolkata
+- GitHub: [Sandipan3](https://github.com/Sandipan3)
