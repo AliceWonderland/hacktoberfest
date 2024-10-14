@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soham Mondal](https://github.com/Soham1411)
+- Place: Kolkata, West Bengal, India
+- Bio: Student, Learning Web Development
+- GitHub: [Soham1411](https://github.com/Soham1411)
