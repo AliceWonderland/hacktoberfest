@@ -1,10 +1,10 @@
-#### Name: Vallenain
- - Place: Lyon, France
+#### Name: Hamza
+ - Place: Pakistan
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
-- Place: Poland
+- Place: Argentina
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
