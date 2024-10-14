@@ -1,3 +1,7 @@
+#### Name: Hrishav
+ - Place: Kishanganj, Bihar
+ - Bio: Third-Year Undergrad at NIT Manipur . Learning Computer Science
+ - GitHub: [Hriiishav](https://github.com/Hriiishav)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
