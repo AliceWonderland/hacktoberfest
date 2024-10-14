@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Charan Romi](https://github.com/charan2r)
+- Place: Matara, Sri Lanka
+- Bio: Full-stack Developer
+- Github: [charan2r](https://github.com/charan2r) 
