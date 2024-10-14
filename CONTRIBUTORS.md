@@ -1095,6 +1095,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Foodnatic | Code Enthusiast | Perfectionista Obsessed
 - GitHub: [JQuinnie](https://github.com/jquinnie)
 
+#### Name: [stephen ugege](https://github.com/oddlycoder)
+- Place: Jos, Plateau, Nigeria
+- Bio: love basketball | Code Enthusiast | Perfectionista Obsessed | chess player
+- GitHub: [oddlycoder](https://github.com/oddlycoder)
+
 #### Name: [Jeppe Ernst](https://github.com/Ern-st)
 - Place: 🇩🇰
 - Bio: fullstack/devops/security unicorn 🦄
