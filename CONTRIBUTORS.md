@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DeepKumar Parmar](https://github.com/DEEP-666)
+-Place:banglore,India
+-Bio: Student | Entering in the field of AI/Ml
+-Github: [DEEP-666](https://github.com/DEEP-666) 
