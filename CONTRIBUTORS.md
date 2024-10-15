@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Soumyaditya Batabyal](https://github.com/Soumyaditya1924)
+- Place: Habra, West Bengal, India
+- Bio: Student of B.Tech in Computer Science and Engineering (AI/ML)
+- Github: [Soumyaditya Batabyal](https://github.com/Soumyaditya1924)
