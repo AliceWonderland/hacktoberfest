@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pranilash Reddy](https://github.com/pranilash)
+- Place: Warangal, Telangana, India
+- Bio: Student doing CP/DSA and does Open Source for fun
+- Github: [pranilash](https://github.com/pranilash)
