@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avinash Kumar](https://github.com/AvinashKumar0923)
+- Place: Jamshedpur, Jharkhand, India
+- Bio: Full Stack Web Developer
+- GitHub: [AvinashKumar0923](https://github.com/AvinashKumar0923)
