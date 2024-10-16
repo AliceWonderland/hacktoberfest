@@ -1,3 +1,9 @@
+#### Name: Lavya Goel
+- Place: India
+- Bio: Software Engineer ,  third year computer science student
+- GitHub: [Lavya Goel]((https://github.com/dashboard))
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
