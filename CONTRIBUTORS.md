@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Chaudhary](https://github.com/AdiCh0603)
+ - Place: Goa, India
+ - Bio: Tech Enthusiast,Studying B.Tech CSE
+ - GitHub: [Aditya Chaudhary](https://github.com/AdiCh0603)
