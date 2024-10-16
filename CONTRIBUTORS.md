@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+  
+#### Name: [Jyoti Maurya](https://github.com/Jyoti404)
+- Place: Gorakhpur,Uttar Pradesh, India
+- Bio: B.Tech 3rd year student 
+- GitHub: [Jyoti404](https://github.com/Jyoti404)
