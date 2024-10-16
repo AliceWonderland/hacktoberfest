@@ -8,6 +8,10 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [VANSHIKA RATHOD](https://github.com/vanshikaaaaaaaa)
+- Place: Bhopal, Madhya Pradesh , India
+- Bio: A Techie, traveller, and nature enthusiast
+- GitHub: [vanshikaaaaaaaa](https://github.com/vanshikaaaaaaaa) 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
