@@ -67,7 +67,12 @@
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
-
+- 
+#### Name: Kunal
+ - Place: Delhi, Inida
+ - Bio: Student MERN STACK DEVELOPER . Btech AI.
+ - GitHub: [Kunal](https://github.com/NayaKunal30)
+ - 
 #### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
