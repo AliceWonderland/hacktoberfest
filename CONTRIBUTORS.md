@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parthraj Singh Bhati](https://github.com/parthrajsinghbhati)
+- Place: Sonipat, Haryana
+- Bio: Web developer and Python
+- Github: [parthrajsinghbhati](https://github.com/parthrajsinghbhati)
