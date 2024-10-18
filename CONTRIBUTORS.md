@@ -1,3 +1,9 @@
+#### Name: [Shishir](https://github.com/Shishir-Hegde)
+- Place: Bengaluru, India
+- Bio: IT sophomore at NITK surathkal.
+- GitHub: [Shishir-Hegde](https://github.com/Shishir-Hegde)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
