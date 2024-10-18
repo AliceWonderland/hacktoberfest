@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sahil Agarwal](https://github.com/itssahilhere)
+ - Place: INDIA
+- Bio: Web developer and Competitive Coding 
+- Github: [itssahilhere](https://github.com/itssahilhere)
