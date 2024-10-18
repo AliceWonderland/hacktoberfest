@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sattwik Dhara](https://github.com/Sattwik-8)
+ - Place: Kolkata, India
+ - Bio: Student, Passsionate About Robotics And Game Development
+ - GitHub: [Sattwik-8](https://github.com/Sattwik-8)
