@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+- #### Name: [ASTHA JAISWAL](https://github.com/asthajaiswal312)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a student.
+- GitHub: [Astha Jaiswal](https://github.com/asthajaiswal312)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
