@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Navya Jain](https://github.com/navyaajainnn)
+- Place: New Delhi, India 
+- Bio: Student 
+- GitHub: [navyaajainnn](https://github.com/navyaajainnn)
