@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Penumala Nani](https://github.com/nani67)
+- Place: Hyderabad, India
+- Bio: Pursuing M.Tech in NIT Agartala in Data Science specialization.
+- Github: [nani67](https://github.com/nani67)
