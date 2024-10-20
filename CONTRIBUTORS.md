@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rasel Parvez Sanny](https://github.com/im-sanny)
+- Place: Bangladesh
+- Bio: Junior Frontend Developer
+- Github: [Rasel Parvez Sanny](https://github.com/im-sanny)
