@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [Suhani Sinha](https://github.com/Suhani-s)
+- Place: New Delhi, Delhi, India
+- Bio: CompSci Engineer
+- GitHub: [Suhani-s](https://github.com/Suhani-s)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
