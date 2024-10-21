@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [K Harini](https://github.com/RelentlessTechVoyager)
+- Place: Hyderabad, Telangana, India
+- Bio: Tech Enthusiast, Open-sources enthusiast, Bibliographer
+- GitHub: [RelentlessTechVoyager](https://github.com/RelentlessTechVoyager)
