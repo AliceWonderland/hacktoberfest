@@ -1763,6 +1763,12 @@ Noida
  - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
+   
+#### Name: [Jayati Gupta](https://github.com/jayati10)
+ - Place: Delhi, India
+ - Bio: Full Stack Developer
+ - GitHub: [jayati10](https://github.com/jayati10)
+
 
 #### Name: [Otto Bittencourt](https://github.com/OttoWBitt)
 - Place: Belo Horizonte, Minas Gerais, Brazil
