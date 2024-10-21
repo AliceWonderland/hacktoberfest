@@ -1,0 +1,13 @@
+/*
+  LANGUAGE: JAVA
+  AUTHOR: Punya Jain
+  GITHUB: https://github.com/punyajain312
+*/
+
+public class Hello {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+
+}
