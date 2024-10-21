@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aryan Jaiswal](https://github.com/WiZzArD07)
+- Place: Lucknow, India
+- Bio: Web developer, Java, Docker
+- Github: [WiZzArD07](https://github.com/WiZzArD07)
