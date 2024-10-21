@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Basset Gaëtan](https://github.com/gbasset)
+- Place: Paris, France
+- Bio: Web developer React and Javascript
+- GitHub: [Basset Gaëtan](https://github.com/gbasset)
