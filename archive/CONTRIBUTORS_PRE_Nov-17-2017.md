@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Arunava Mondal](https://github.com/arunava-12)
+- Place: West Bengal, India
+- Bio: Web developer, Machine Learning, C , C++
+- Github: [Arunava Mondal](https://github.com/arunava-12)
