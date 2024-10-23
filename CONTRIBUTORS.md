@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Vinícius Bezerra](https://github.com/viniciuseneas)
+- Place: João Pessoa, Paraíba, Brasil
+- Bio: Web Developer PHP, NODE and KOTLIN
+- GitHub: [GitHub account name](https://github.com/viniciuseneas)
