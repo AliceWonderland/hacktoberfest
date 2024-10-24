@@ -2366,7 +2366,7 @@ Noida
 #### Name: [Yasmin Zulfati Yusrina](https://github.com/yasminzy)
 - Place: Samarinda, Indonesia
 - Bio: Freelancer
-- Github [yasminzy]((https://github.com/yasminzy)
+- Github [yasminzy](https://github.com/yasminzy)
 
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yadah Ngolo](https://github.com/n-yadah)
+- Place: Ottawa, Ontario, Canada
+- Bio: Electrical Engineering and Computer Science Student / 2x SWE Intern (@Solace & @Microsoft)
+- Github: [Yadah Ngolo](https://github.com/n-yadah)
