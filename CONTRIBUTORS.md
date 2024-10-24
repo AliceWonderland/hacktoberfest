@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sayan Karmakar](https://github.com/Sayan-dev731)
+- Place: Chhatishgarh, India
+- Bio: Game Dev & Web Backend
+- Github: [Sayan Kamakar](https://github.com/Sayan-dev731)
