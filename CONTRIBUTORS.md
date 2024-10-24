@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sneha P Pratap](https://github.com/snehaapratap)
+- Place: Bengaluru , India
+- Bio: Aspiring data scientist
+- GitHub: [snehaapratap](https://github.com/snehaapratap)
