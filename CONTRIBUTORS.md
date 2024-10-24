@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Samik Chakraborty](https://github.com/Samik072)
+- Place: Kolkata, West Bengal, India
+- Bio: Software Engineer
+- GitHub: [Samik072](https://github.com/Samik072)
