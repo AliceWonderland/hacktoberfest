@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [HarshTiwari1710](https://github.com/HarshTiwari1710)
+- Place: Guelph, Canada
+- Bio: Data Scientist
+- GitHub: [HarshTiwari1710](https://github.com/HarshTiwari1710)
