@@ -1,3 +1,8 @@
+#### Name: [NEBIYU MUSBAH](https://github.com/neba378)
+- Place: Addis Ababa, Ethiopa
+- Bio: 4th year Computer Science and Engineering student
+- GitHub: [neba378](https://github.com/neba378)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
