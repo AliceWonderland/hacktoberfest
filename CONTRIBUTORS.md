@@ -2328,6 +2328,11 @@ Noida
 - Bio: I'm Software Engineer at Dinosys
 - GitHub: [Ken Supermen](https://github.com/kensupermen)
 
+#### Name: [Wali Ahmad](https://github.com/mwaliahmad)
+- Place: Lahore, Pakistan
+- Bio: Software Engineer
+- GitHub: [Wali Ahmad](https://github.com/mwaliahmad)
+
 #### Name: [Wan Wan](https://github.com/lf2com)
 - Place: Taipei, Taiwan
 - Bio: Front-end Developer
