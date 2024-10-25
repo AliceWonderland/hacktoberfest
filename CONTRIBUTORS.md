@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ankesh Kumar](https://github.com/Ampplex)
+- Place: Pune, Maharashtra, India
+- Bio: Full Stack Developer
+- GitHub: [Ankesh Kumar](https://github.com/Ampplex)
