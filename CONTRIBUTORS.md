@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yashal Ali](https://github.com/yashal-ali)
+- Place: Karachi, Sindh, Pakistan
+- Bio: Computer Systems Engineering student, Frontend Developer with experience in Next.js, React, and Redux.
+- GitHub: [yashal-ali](https://github.com/yashal-ali)
