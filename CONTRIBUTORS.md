@@ -1,3 +1,8 @@
+### Name: [Nishchal Chandel](https://github.com/NISH-CHAN-21)
+ - Place: Lucknow, India
+ - Bio: Student at IIITL
+ - GitHub: [Nishchal Chandel](https://github.com/NISH-CHAN-21)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
