@@ -1,3 +1,8 @@
+#### Name: [Karan Nagure](https://github.com/Karan-Nagure)
+- Place: Ichalkaranji, Maharashtra, Nagure
+- Bio: Third year Computer Science Student, in love to spend time with friends and Family. 
+- GitHub: [Karan Nagure](https://github.com/Karan-Nagure)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
