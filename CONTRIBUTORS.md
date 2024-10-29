@@ -1,3 +1,8 @@
+#### Name: [Kuldeep Singh Shekhawat](https://github.com/Kuldeep-022)
+- Place: Indore, Madhya Pradesh, India
+- Bio: 3rd year cse B.Tech student from VIT
+- GitHub: [Kuldeep-022](https://github.com/Kuldeep-022)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
