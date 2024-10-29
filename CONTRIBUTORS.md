@@ -1,3 +1,8 @@
+#### Name: Aditya Kumar
+ - Place: Chennai,Tamil Nadu
+ - Bio: Student at Shiv Nadar University
+ - GitHub: [Aditya Kumar](https://github.com/AdityaKumar3594)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
