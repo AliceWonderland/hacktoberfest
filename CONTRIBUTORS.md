@@ -120,6 +120,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science and Engineering BSc student at Carlos III University of Madrid
 - GitHub: [Aitor Alonso](https://github.com/tairosonloa)
 
+#### Name: [Hasnain Memon](https://linkedin.com/in/workwithHasnain)
+- Place: Sukkur, Pakistan
+- Bio: Computer Science student at Sukkur IBA University
+- GitHub: [Hasnain Memon](https://github.com/workwithhasnain)
+
 #### Name: [Akani] (https://github.com/akanijade/)
 - Place: Jakarta, Indonesia
 - Bio: Student
