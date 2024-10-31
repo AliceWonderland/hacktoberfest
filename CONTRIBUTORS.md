@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shajal Kumar Chaudhary](https://github.com/Shajal-Kumar)
+- Place: Delhi, India
+- Bio: Software Engineering Undergrad
+- Github: [Shajal-Kumar](https://github.com/Shajal-Kumar)
