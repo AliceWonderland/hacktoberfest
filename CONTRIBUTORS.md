@@ -1,3 +1,8 @@
+#### Name: [Aakash Kumar] (https://github.com/itsAakashz)
+- Place: Noida,India
+- Bio: Web developer
+- Github: [Aakash Kumar] (https://github.com/itsAakashz)
+  
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
