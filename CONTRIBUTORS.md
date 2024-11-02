@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [aayushker](https://github.com/aayushker)
+- Place: India
+- Bio: Web Developer
+- Github: [aayushker](https://github.com/aayushker)
