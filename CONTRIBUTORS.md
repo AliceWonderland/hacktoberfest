@@ -83,6 +83,11 @@
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
 
+#### Name: [Aditya Ojha](https://github.com/gitit4x7)
+- Place: India, Telangana
+- Bio: Tech Support
+- Github: [Aditya Ojha](https://github.com/gitit4x7)
+
 #### Name: [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - Place: Abuja, Nigeria
 - Bio: Web Developer
