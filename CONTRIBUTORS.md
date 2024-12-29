@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Guru prashanth](https://github.com/guruprashanth2004)
+- Place: India
+- Bio: Machine learning
+- Github: [Guru prashanth](https://github.com/guruprashanth2004)
