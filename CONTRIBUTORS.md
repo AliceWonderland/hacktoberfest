@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prashasti Singh](https://github.com/prashasti1005)
+- Place: Kanpur, UP
+- Bio:Python
+- Github: [Prashasti Singh](https://github.com/prashasti1005)
