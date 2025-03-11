@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Chambora](https://github.com/chambora1312)
+- Place: Germany
+- Bio: Software developer and consultant
+- GitHub: [Chambora](https://github.com/chambora1312)
