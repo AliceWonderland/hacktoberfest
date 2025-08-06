@@ -1992,6 +1992,11 @@ Noida
 - Bio: Dude trying to become a IT guy somewhere. Also reads [The Register](https://www.theregister.co.uk).
 - GitHub: [tilda](https://github.com/tilda)
 
+#### Name: [Sanyum Manhas](https://github.com/SanyumManhas)
+- Place: Jalandhar, Punjab, India
+- Bio: Software Engineer, Who loves Engineering in general.
+- GitHub: [SanyumManhas](https://github.com/SanyumManhas)
+
 #### Name: [SAIDEEP DICHOLKAR](https://github.com/saideepd)
 - Place: Mumbai, India
 - Bio: Computer Science Engineering Student & Tech Enthusiast
