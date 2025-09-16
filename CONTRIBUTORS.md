@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [chawinccmkforlearn](https://github.com/chawinccmkforlearn)
+- Place: Bangkok, Thailand
+- Bio: Data Engineer and Python
+- Github: [chawinccmkforlearn](https://github.com/chawinccmkforlearn)
