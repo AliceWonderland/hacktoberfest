@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sukanya Ghodh](https://github.com/sukanyaghosh74)
+- Place: India
+- Bio: Civil Engineering Sophmore | Web & App Developer | Coding Enthusiast
+- GitHub: [sukanyaghosh74](https://github.com/sukanyaghosh74))
