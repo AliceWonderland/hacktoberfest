@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sandesh Neyong Limbu](https://github.com/Neyolim)
+- Place: Kathmandu, Nepal
+- Bio: MERN-stack dev and tinkerer
+- Github: [Neyool](https://github.com/Neyolim)
+
+
