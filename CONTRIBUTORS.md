@@ -1,3 +1,8 @@
+#### Name: Jeet Pandya
+ - Place: Gujarat, India 
+ - Bio: Aspiring developer, Debugging miscommunications.
+ - GitHub: [JEET090806](https://github.com/JEET090806)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
