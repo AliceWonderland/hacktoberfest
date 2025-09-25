@@ -220,6 +220,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CS Grad Student
 - GitHub: [Amlaan Bhoi](https://github.com/amlaanb)
 
+#### Name: [Amel Mohammedi](https://github.com/AmelMhdi)
+- Place: Paris, France
+- Bio: Full-stack developer, currently silksonging
+- GitHub: [Amel Mohammedi](https://github.com/AmelMhdi)
+
 #### Name: [Ana Perez](https://github.com/anacperez)
 - Place: King City, California, United States
 - Bio: Full-Stack developer, hiking, travel, art, photography
