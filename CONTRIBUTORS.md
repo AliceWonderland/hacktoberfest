@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alvin Sanchez](https://github.com/alvinsanchez93)
+- Place: Tijuana, Mexico
+- Bio: Beginner developer eager to learn JavaScript, Node.js, and Express
+- GitHub: [alvinsanchez93](https://github.com/alvinsanchez93)
