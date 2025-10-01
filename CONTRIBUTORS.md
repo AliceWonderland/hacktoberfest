@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parth Dhall](https://github.com/DarkGamer7890)
+- Place: Haryana, India
+- Bio: MERN stack developer, Python and C++
+- Github: [DarkGamer7890](https://github.com/DarkGamer7890)
