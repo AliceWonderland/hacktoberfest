@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hasobi](https://github.com/hasobi)
+- Place: Jakarta, Indonesia
+- Bio: DevOps
+- Github: [Hasobi](https://github.com/hasobi)
