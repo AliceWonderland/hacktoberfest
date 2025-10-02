@@ -1,3 +1,10 @@
+
+#### Name: Radha Agarwal
+ - Place: Uttra Pradesh,India
+ - Bio: 3rd Computer Science Student, Graduated from VIT,Bhopal.
+ - GitHub: [Radha-Agarwal](https://github.com/ravine27)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
