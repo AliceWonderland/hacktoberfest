@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [spyder7oo](https://github.com/spyder7oo)
+- Place: Bihar, India
+- Bio: Python developer
+- Github: [spyder7oo](https://github.com/spyder7oo)
