@@ -28,6 +28,8 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
+--> To fork the Repository, go back to our repository main/home page.
+
 ```markdown
 git clone https://github.com/your-username/hacktoberfest.git
 ```
