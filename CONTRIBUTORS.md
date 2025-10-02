@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+ 
+#### Name: [Anshu](https://github.com/codingNightmare22)
+- Place: Pune, India
+- Bio: Fullstack Web developer Java and Javascript
+- Github: [Anshu](https://github.com/codingNightmare22)
