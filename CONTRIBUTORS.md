@@ -1,3 +1,8 @@
+#### Name: [Radha Agarwal](https://github.com/ravine27)
+- Place: City, State, Country
+- Bio: 3rd-year Computer Science student, anf like to do sketching !!<3
+- GitHub: [Radha Agarwal](https://github.com/ravine27)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
