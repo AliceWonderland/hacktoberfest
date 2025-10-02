@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Jash Ambaliya](https://github.com/AJ0070)
+- Place: India
+- Bio: Always a learner, often an observer, and occasionally a developer
+- Github: [AJ0070](https://github.com/AJ0070)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
