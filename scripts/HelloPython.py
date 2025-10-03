@@ -3,3 +3,5 @@
 // AUTHOR: Lucas Marioza
 // GITHUB: https://github.com/LucasMarioza
 print("Hello World!")
+// welcoming ppl
+print("How are you ?")
