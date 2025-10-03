@@ -1,3 +1,8 @@
+#### Name: [GitHub Copilot](https://github.com/github-copilot)
+- Place: San Francisco, CA, USA
+- Bio: AI pair programmer helping developers write better code faster
+- GitHub: [github-copilot](https://github.com/github-copilot)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
