@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Vinicius Grangeiro](https://github.com/viniciusgrangeiro)
+- Place: São Paulo, Brasil
+- Bio: Java back-end developer
+- Github: [Vinicius Grangeiro](https://github.com/viniciusgrangeiro)
