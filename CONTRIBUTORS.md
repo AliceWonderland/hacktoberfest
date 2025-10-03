@@ -1143,6 +1143,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Engineer, sports fan, car builder, gamer
 - GitHub: [joel-g](https://github.com/joel-g)
 
+#### Name: [Rahul Dutta] (http://github.com/RahulDutta7)
+- Place: Jamshedpur,Jharkhand,India
+- Bio : Frontend Developer, Football Fan, Gymmer
+- Github : [Rahul Dutta](https://github.com/RahulDutta7)
+
 #### Name: [Joel Vilanilam Zachariah](https://github.com/JoelVZachariah)
 - Place: Ernakulam, Kerala, India
 - Bio: Sophomore CS undergraduate, MUNner,  programmer
