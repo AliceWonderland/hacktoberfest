@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mohsin Khan](https://github.com/mohsin-codes)
+- Place: Lucknow, India
+- Bio: .Net Developer
+- Github: [Mohsin Khan](https://github.com/mohsin-codes)
