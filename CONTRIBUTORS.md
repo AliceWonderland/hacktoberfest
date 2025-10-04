@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jayesh RL](https://github.com/Aspect022)
+- Place: Bangalore,Karnataka
+- Bio: Full Stack Java Developer
+- Github: [Jayesh RL](https://github.com/Aspect022)
