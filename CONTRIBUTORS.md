@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Gupta](https://github/com/harshgupta2125)
+- Place: Greater Noida, Khurja
+- Bio: Web Developer, Python
+- Github: [Harsh Gupta](https://github/com/harshgupta2125)
