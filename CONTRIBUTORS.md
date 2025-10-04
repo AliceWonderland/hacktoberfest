@@ -48,6 +48,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [Gopi Sri Krishna](https://github.com/gopisrikrishna)
+- Place: Texas, United States
+- Bio: Full Stack Engineer
+- GitHub: [Gopi Sri Krishna](https://github.com/gopisrikrishna)
+
 #### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
