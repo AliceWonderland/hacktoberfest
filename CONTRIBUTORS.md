@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aya Alharazin](https://github.com/Aya-Nabil11)
+- Place: Gaza 🇵🇸
+- Bio: Free Palestine
+- GitHub: [Aya Alharazin](https://github.com/Aya-Nabil11)
