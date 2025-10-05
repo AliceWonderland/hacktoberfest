@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hemant](https://github.com/hk2166)
+- Place: India
+- Bio: Full-Stack Developer
+- Github: [hk2166](https://github.com/hk2166)
