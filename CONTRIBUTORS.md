@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Ikshwak] (https://github.com/KingReapermax)
+- Place: Hyderabad, India
+- Bio: Nothing much, a student (¯\\(ツ)/¯)
+- GitHub: [KingReapermax](https://github.com/KingReapermax)
