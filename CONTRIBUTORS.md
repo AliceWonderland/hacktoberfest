@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Furqon Nugroho](https://github.com/furqonn01)
+- Place: Semarang, Indonesia
+- Bio: Web developer PHP
+- Github: [Furqon Nugroho](https://github.com/furqonn01)
