@@ -1,14 +1,12 @@
 
-/* 
-  Language: C++
-  GitHub: https://github.com/hk2166/
-*/
+// LANGUAGE: C++
+// ENV: GCC/G++
+// AUTHOR: Hemant Yadav
+// GITHUB: https://github.com/hk2166/
 
 #include <iostream>
-using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
-

@@ -1,6 +1,11 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 Hacktoberfest Starter Project 🎃
 
-** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-orange.svg)](https://hacktoberfest.digitalocean.com/)
+[![Contributors](https://img.shields.io/badge/Contributors-500+-green.svg)](CONTRIBUTORS.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue.svg)](https://alicewonderland.github.io/hacktoberfest/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+**🚀 Now with a modern web interface!** Check out our new responsive website at [https://alicewonderland.github.io/hacktoberfest/](https://alicewonderland.github.io/hacktoberfest/)
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
@@ -8,7 +13,13 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[https://alicewonderland.github.io/hacktoberfest/](https://alicewonderland.github.io/hacktoberfest/)
+## ✨ New Features
+
+- **Modern Web Interface**: Beautiful, responsive website built with HTML5, CSS3, and JavaScript
+- **Enhanced Management Script**: Improved Python script with better error handling and validation
+- **Mobile-First Design**: Fully responsive design that works on all devices
+- **Interactive Elements**: Dynamic contributor loading and smooth animations
+- **Better Organization**: Cleaner file structure and improved documentation
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -110,6 +121,36 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
 Here is my `hello_world` example: [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+
+## 🛠️ Enhanced Management Tools
+
+This project now includes an enhanced Python script for managing the CONTRIBUTORS.md file:
+
+### Features:
+- **Automatic formatting** and validation of contributor entries
+- **Backup creation** before making changes
+- **Error handling** with detailed logging
+- **Sorting** contributors alphabetically
+- **Validation** of required fields (Name, Place, Bio, GitHub)
+
+### Usage:
+```bash
+# Basic usage
+python3 manage.py
+
+# Create backup before processing
+python3 manage.py --backup
+
+# Only validate entries without modifying
+python3 manage.py --validate-only
+
+# Show help
+python3 manage.py --help
+```
+
+### Requirements:
+- Python 3.6 or higher
+- No additional dependencies required
 
 ## BONUS!
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
