@@ -1,3 +1,7 @@
+#### Name : Shivanshu Sharma
+- Place : India
+- Bio : Student
+- Github : [Shivanshu](https://github.com/shivanshusharma384)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
