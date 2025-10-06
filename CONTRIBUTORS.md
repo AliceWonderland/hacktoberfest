@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anuradha Herath](https://github.com/Anuradha-Herath)
+- Place: Moratuwa, Sri Lanka
+- Bio: Newbie to open-source, excited to learn!
+- GitHub: [Anuradha-Herath](https://github.com/Anuradha-Herath)
