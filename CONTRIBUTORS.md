@@ -1433,6 +1433,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Computer Science Engineering student at Amity University
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
+#### Name: [Manaswi Rane](https://github.com/ManaswibRane)
+- Place: Mumbai, India
+- Bio: Computer Science Engineering student at VJTI
+-Github: [Manaswi Rane](https://github.com/ManaswibRane)
+
 #### Name: [Manas kashyap](https://github.com/Manas-kashyap)
 - Place: New Delhi, India
 - Bio: Computer Science Engineering student at Amity University
