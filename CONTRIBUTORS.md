@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [Emerson Braun](https://github.com/EmersonBraun)
+- Place: Curitiba, Brazil
+- Bio: Software Architect
+- Github: [Emerson Braun](https://github.com/EmersonBraun)
