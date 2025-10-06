@@ -1,3 +1,8 @@
+#### Name: [Sameel Kazi](https://github.com/sameelkazi)
+- Place: Mumbai, Maharashtra, India
+- Bio: Full Stack Developer passionate about cloud-native technologies, open source contributions, and helping developers worldwide through quality code
+- GitHub: [sameelkazi](https://github.com/sameelkazi)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
