@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎃 Hacktoberfest Starter Project</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <i class="fas fa-code"></i>
+                <span>Hacktoberfest</span>
+            </div>
+            <div class="nav-menu">
+                <a href="#home" class="nav-link">Home</a>
+                <a href="#about" class="nav-link">About</a>
+                <a href="#contribute" class="nav-link">Contribute</a>
+                <a href="#contributors" class="nav-link">Contributors</a>
+            </div>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-container">
+                <div class="hero-content">
+                    <h1 class="hero-title">
+                        🎃 Welcome to <span class="gradient-text">Hacktoberfest</span>
+                    </h1>
+                    <p class="hero-subtitle">
+                        Make your first contribution to open source and celebrate the spirit of collaboration!
+                    </p>
+                    <div class="hero-buttons">
+                        <a href="#contribute" class="btn btn-primary">
+                            <i class="fas fa-rocket"></i>
+                            Start Contributing
+                        </a>
+                        <a href="https://github.com/AliceWonderland/hacktoberfest" target="_blank" class="btn btn-secondary">
+                            <i class="fab fa-github"></i>
+                            View on GitHub
+                        </a>
+                    </div>
+                </div>
+                <div class="hero-visual">
+                    <div class="floating-card">
+                        <div class="code-snippet">
+                            <div class="code-header">
+                                <div class="code-dots">
+                                    <span class="dot red"></span>
+                                    <span class="dot yellow"></span>
+                                    <span class="dot green"></span>
+                                </div>
+                                <span class="code-title">hello_world.js</span>
+                            </div>
+                            <div class="code-content">
+                                <span class="comment">// Your first contribution!</span><br>
+                                <span class="keyword">console</span>.<span class="method">log</span>(<span class="string">'Hello, World!'</span>);
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">What is Hacktoberfest?</h2>
+                    <p class="section-subtitle">
+                        A month-long celebration of open source software run by DigitalOcean
+                    </p>
+                </div>
+                <div class="about-grid">
+                    <div class="about-card">
+                        <div class="card-icon">
+                            <i class="fas fa-calendar-alt"></i>
+                        </div>
+                        <h3>October 1-31</h3>
+                        <p>Participate throughout the entire month of October and make meaningful contributions to open source projects.</p>
+                    </div>
+                    <div class="about-card">
+                        <div class="card-icon">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <h3>Global Community</h3>
+                        <p>Join thousands of developers worldwide in contributing to open source and learning together.</p>
+                    </div>
+                    <div class="about-card">
+                        <div class="card-icon">
+                            <i class="fas fa-gift"></i>
+                        </div>
+                        <h3>Earn Rewards</h3>
+                        <p>Complete 4 pull requests and earn exclusive Hacktoberfest swag and digital rewards.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contribute" class="contribute">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">How to Contribute</h2>
+                    <p class="section-subtitle">
+                        Choose from these simple tasks to make your first contribution
+                    </p>
+                </div>
+                <div class="contribute-grid">
+                    <div class="contribute-card">
+                        <div class="card-number">01</div>
+                        <div class="card-content">
+                            <h3>Add Your Name</h3>
+                            <p>Add your name to the CONTRIBUTORS.md file using the provided template format.</p>
+                            <div class="card-tags">
+                                <span class="tag">Beginner</span>
+                                <span class="tag">Markdown</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contribute-card">
+                        <div class="card-number">02</div>
+                        <div class="card-content">
+                            <h3>Create a Profile</h3>
+                            <p>Add a profile page to the profiles directory showcasing your skills and interests.</p>
+                            <div class="card-tags">
+                                <span class="tag">Easy</span>
+                                <span class="tag">Profile</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contribute-card">
+                        <div class="card-number">03</div>
+                        <div class="card-content">
+                            <h3>Hello World Script</h3>
+                            <p>Create a "Hello, World!" script in your favorite programming language.</p>
+                            <div class="card-tags">
+                                <span class="tag">Code</span>
+                                <span class="tag">Any Language</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="getting-started">
+                    <h3>Getting Started</h3>
+                    <div class="steps">
+                        <div class="step">
+                            <div class="step-icon">
+                                <i class="fas fa-code-branch"></i>
+                            </div>
+                            <div class="step-content">
+                                <h4>Fork the Repository</h4>
+                                <p>Click the Fork button to create your own copy of the project</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">
+                                <i class="fas fa-download"></i>
+                            </div>
+                            <div class="step-content">
+                                <h4>Clone Locally</h4>
+                                <p>Clone your fork to your local machine to start making changes</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">
+                                <i class="fas fa-edit"></i>
+                            </div>
+                            <div class="step-content">
+                                <h4>Make Changes</h4>
+                                <p>Add your contributions following the project guidelines</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">
+                                <i class="fas fa-paper-plane"></i>
+                            </div>
+                            <div class="step-content">
+                                <h4>Submit PR</h4>
+                                <p>Create a pull request to merge your changes back to the main project</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contributors" class="contributors">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Our Amazing Contributors</h2>
+                    <p class="section-subtitle">
+                        Meet the developers from around the globe who have contributed to this project
+                    </p>
+                </div>
+                <div class="contributors-stats">
+                    <div class="stat-card">
+                        <div class="stat-number" id="contributor-count">500+</div>
+                        <div class="stat-label">Contributors</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="country-count">50+</div>
+                        <div class="stat-label">Countries</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="language-count">25+</div>
+                        <div class="stat-label">Languages</div>
+                    </div>
+                </div>
+                <div class="contributors-grid" id="contributors-grid">
+                    <!-- Contributors will be loaded dynamically -->
+                </div>
+                <div class="view-all">
+                    <a href="CONTRIBUTORS.md" class="btn btn-outline">
+                        <i class="fas fa-list"></i>
+                        View All Contributors
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Hacktoberfest</h3>
+                    <p>A beginner-friendly project to get you started with open source contributions.</p>
+                    <div class="social-links">
+                        <a href="https://github.com/AliceWonderland/hacktoberfest" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
+                            <i class="fas fa-external-link-alt"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#contribute">Contribute</a></li>
+                        <li><a href="#contributors">Contributors</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="https://hacktoberfest.digitalocean.com/" target="_blank">Official Hacktoberfest</a></li>
+                        <li><a href="https://github.com/Roshanjossey/first-contributions" target="_blank">First Contributions</a></li>
+                        <li><a href="https://help.github.com/articles/fork-a-repo/" target="_blank">Fork a Repo Guide</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Hacktoberfest Starter Project. Made with ❤️ for the open source community.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

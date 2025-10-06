@@ -1,2 +1,9 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
+title: " Hacktoberfest Starter Project"
+description: "A beginner-friendly project to get you started with open source contributions during Hacktoberfest"
+show_downloads: true
+google_analytics: 
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 encoding: UTF-8
