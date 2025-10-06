@@ -260,6 +260,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CSD IIITD
 - GitHub: [Anish Bhardwaj](https://github.com/bhardwajanish)
 
+#### Name: [Nidhish Zala](https://github.com/ZalaNidhish)
+- Place: Vadodara, India
+- Bio: Full stack development
+- GitHub: [Zala Nidhish](https://github.com/ZalaNidhish)
+
 #### Name: [Ankit Chhetri](https://github.com/ankitch)
 - Place: Kathmandu, Nepal
 - Bio: Backend Developement | Snake Charmer | Student
