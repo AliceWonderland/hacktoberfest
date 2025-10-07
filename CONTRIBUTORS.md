@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Utkarsh Bhola](https://github.com/utkarshbhola)
 - Place: Noida, India
-- Bio: full stack Web developer
+- Bio: Full stack web developer
 - Github: [Utkarsh Bhola](https://github.com/utkarshbhola)
