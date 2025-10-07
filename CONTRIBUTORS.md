@@ -1940,6 +1940,11 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+#### Name: [Rio Perkasa](https://github.com/Rishabh42)
+- Place: Trenggalek, ID, Indonesia
+- Bio: Just Data Engineer
+- GitHub: [riodpp](https://github.com/riodpp)
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
