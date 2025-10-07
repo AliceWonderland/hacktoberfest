@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Akash Dhar Dubey](https://github.com/AKASHDHARDUBEY)
+- Place: Pune, Maharashtra, India
+- Bio: B.Tech CSE (AI & ML) student, web and Python developer
+- Github: [Akash Dhar Dubey](https://github.com/AKASHDHARDUBEY)
