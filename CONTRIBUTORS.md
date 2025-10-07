@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Utkarsh Bhola](https://github.com/utkarshbhola)
+- Place: Noida, India
+- Bio: full stack Web developer
+- Github: [Utkarsh Bhola](https://github.com/utkarshbhola)
