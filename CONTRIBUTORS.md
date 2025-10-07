@@ -1,3 +1,8 @@
+#### Name: [Prachi Joshi](https://github.com/Prachi0629)
+- Place: Amravati, Maharashtra, India
+- Bio: Full stack web Developer, Pursuing 3rd B.Tech degree from GCOEA, Maharashra
+- Github: [Prachi0629](https://github.com/Prachi0629)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
