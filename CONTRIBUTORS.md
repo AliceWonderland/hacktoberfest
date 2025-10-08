@@ -1564,6 +1564,11 @@ Noida
 - Bio: React Dev
 - Github: [maximus12793](https://github.com/maximus12793)
 
+#### Name: [Max Chacon](https://github.com/Monochrome-debug)
+- Place: FL, USA
+- Bio: New Developer
+- Github: [Monochrome-debug](https://github.com/Monochrome-debug)
+
 #### Name: [Mayank Saxena](https://github.com/mayank26saxena)
 - Place: New Delhi, India
 - Bio: Student
