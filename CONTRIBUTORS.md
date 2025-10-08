@@ -1,3 +1,8 @@
+#### Name: Utkrisht Thakur(https://github.com/UtkrishtThakur)
+- Place: Jaipur, Rajasthan, India
+- Bio: A first year CSE student from India.Trying to make a difference.
+- GitHub: [UtkrishtThakur](https://github.com/UtkrishtThakur)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
