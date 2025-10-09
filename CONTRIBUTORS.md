@@ -2,7 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+#### Name: [Aditya Tiwari](https://github.com/adityatiwari12)
+- Place: Indore, India
+- Bio: Pre-final YEar Computer Science Engineer.
+- GitHub: [adityatiwari12](https://github.com/adityatiwari12)
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
