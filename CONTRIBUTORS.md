@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ripunjay Roshan](https://github.com/krish29-RJ)
+- Place: Bengaluru,India
+- Bio: 1st year computer science student
+- GitHub: [krish29_RJ](https://github.com/krish29-RJ)
