@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [AshutoshMore](https://github.com/AshutoshMore142k4)
+- Place: Pune, Maharashtra, India
+- Bio: Full Stack Developer & Open Source Enthusiast
+- GitHub: [AshutoshMore142k4](https://github.com/AshutoshMore142k4)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
@@ -2427,3 +2432,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [AshutoshMore](https://github.com/AshutoshMore142k4)
+- Place: Pune, Maharashtra, India
+- Bio: Who are you?
+- GitHub: [AshutoshMore142k4](https://github.com/AshutoshMore142k4)
+- 
