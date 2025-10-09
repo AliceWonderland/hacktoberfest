@@ -1,3 +1,8 @@
+#### Name: Abhra Jaiswal
+ - Place: Delhi, India
+ - Bio: First year CS & AI undergrad. Skills - Frontend in react.js, python, data analyst, learning dsa.
+ - GitHub: [Abhra Jaiswal](https://github.com/Abhra0404)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
