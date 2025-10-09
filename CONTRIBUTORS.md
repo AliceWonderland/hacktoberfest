@@ -1,3 +1,8 @@
+#### Name: Rahul Raj
+ - Place: Bhopal, India
+ - Bio: Software engineer. Graduating from IIIT Bhopal.
+ - GitHub: [Rahul Raj](https://github.com/rjrahulraj/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
