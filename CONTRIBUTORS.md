@@ -1311,7 +1311,7 @@ to explore life. Also, Python and Django Developer
 #### Name: [Ktej](https://github.com/ktej721)
 - Place: City:Bangalore, State:Karnataka, Country:India
 - Bio: computer science student, full stack dev
-- GitHub: [ Kiran Tej](https://github.com/ktej721)
+- GitHub: [ Kiran Tej ](https://github.com/ktej721)
 
 #### Name: [Kyle Johnson] (https://github.com/johnson90512)
 - Place: United States
