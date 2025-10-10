@@ -683,6 +683,11 @@ to explore life. Also, Python and Django Developer
 - Bio: CS student at Brooklyn College, and The Game of Thrones fan :3
 - Github: [Dzmitry Kasinets](https://github.com/dkasinets)
 
+#### Name: [DracoMal] (https://github.com/dracok721)
+- Place: Bangalore, Karnataka, India
+- Bio: CS Student, full-stack dev
+- GitHub: [Renshuro](https://github.com/dracok721)
+
 #### Name: [Eason Xuan ](https://github.com/timemahcine)
 - Place: City:Shao Xing, State:Zhe Jiang, Country:China
 - Bio: computer science student,front-end developer
