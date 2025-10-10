@@ -9,9 +9,9 @@
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 Name: VED SUNIL NALAVADE
-Place: India
-Bio: second year Artificial Intelligence and Data Science Student, in love with Mumbai city <3
-GitHub: https://github.com/Ved-S-N
+- Place: India
+- Bio: second year Artificial Intelligence and Data Science Student, in love with Mumbai city <3
+- GitHub: https://github.com/Ved-S-N
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
