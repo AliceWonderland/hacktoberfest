@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prathamesh Yewale](hhtps://github.com/CrimsonArrow26)
+- Place: Maharashtra, India
+- Bio: Full Stack Developer and Kotlin
+- Github: [CrimsonArrow26](https://github.com/CrimsonArrow26)
