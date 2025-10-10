@@ -683,11 +683,6 @@ to explore life. Also, Python and Django Developer
 - Bio: CS student at Brooklyn College, and The Game of Thrones fan :3
 - Github: [Dzmitry Kasinets](https://github.com/dkasinets)
 
-#### Name: [DracoMal] (https://github.com/dracok721)
-- Place: Bangalore, Karnataka, India
-- Bio: CS Student, full-stack dev
-- GitHub: [Renshuro](https://github.com/dracok721)
-
 #### Name: [Eason Xuan ](https://github.com/timemahcine)
 - Place: City:Shao Xing, State:Zhe Jiang, Country:China
 - Bio: computer science student,front-end developer
@@ -1312,6 +1307,11 @@ to explore life. Also, Python and Django Developer
 - Place: Madrid, Spain
 - Bio: Software Student
 - Github: [Kutsoragi] (https://github.com/Kutsoragi)
+
+#### Name: [Ktej](https://github.com/ktej721)
+- Place: City:Bangalore, State:Karnataka, Country:India
+- Bio: computer science student, full stack dev
+- GitHub: [ Kiran Tej](https://github.com/ktej721)
 
 #### Name: [Kyle Johnson] (https://github.com/johnson90512)
 - Place: United States
