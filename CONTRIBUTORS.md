@@ -1,3 +1,8 @@
+## 👋 Tarunya Ksh  
+**AI/ML Engineer · 1st Year UG**  
+📍 Delhi, India  
+🔗 [GitHub: Tarunya](https://github.com/TarunyaProgrammer)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
