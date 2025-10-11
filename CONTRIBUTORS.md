@@ -1,3 +1,8 @@
+#### Name: [ASHESH KARMAKAR](https://github.com/Asheshz)
+- Place: India
+- Bio: Masters student
+- GitHub: [Asheshz](https://github.com/Asheshz)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
