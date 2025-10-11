@@ -1,4 +1,4 @@
-## 👋 Tarunya Ksh  
+####Tarunya Ksh  
 **AI/ML Engineer · 1st Year UG**  
 📍 Delhi, India  
 🔗 [GitHub: Tarunya](https://github.com/TarunyaProgrammer)
