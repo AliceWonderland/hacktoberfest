@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Jyotiraditya Singh](https://github.com/kode0x)
+- Place: Rajasthan, India
+- Bio: AI Engineer And Full-Stack Web Developer
+- GitHub: [kode0x](https://github.com/kode0x)
