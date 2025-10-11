@@ -170,6 +170,11 @@ to explore life. Also, Python and Django Developer
  - Bio: Student
  - Github: [running-cool](https://github.com/running-cool)
 
+#### Name: [Aritra](https://github.com/yellowobelisk)
+ - Place: Kolkata, India
+ - Bio: Developer
+ - Github: [yellowobelisk](https://github.com/yellowobelisk)
+
 #### Name: [Alex Choi](https://github.com/running-cool)
 - Place: Athens, GA
 - Bio: Student
