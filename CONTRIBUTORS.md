@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [san](https://github.com/iamsan06)
+- Place: India
+- Bio: Web Developer
+- GitHub: [iamsan06](https://github.com/iamsan06)
