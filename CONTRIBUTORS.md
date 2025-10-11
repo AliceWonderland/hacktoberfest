@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  #### Name: [Akanksha Patnaik](https://github.com/Akanksha-Patnaik)
+- Place: Hyderabad, Telangana, India 
+- Bio: Aspiring tech enthusiast learning open source and web development
+- GitHub: [Akanksha-Patnaik](https://github.com/Akanksha-Patnaik)
