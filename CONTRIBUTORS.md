@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Priyanka More](https://github.com/001Priyanka)
+- Place: Kolhapur, Maharastra, India
+- Bio: student
+- GitHub: [001Priyanka](https://github.com/001Priyanka)
