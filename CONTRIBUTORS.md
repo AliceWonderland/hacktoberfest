@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [YOUR NAME](GitHub link)
+- Place: Pratibha, India
+- Bio: Learning web dev and open source
+- GitHub: [pratibha-hansda](https://github.com/pratibha-hansda)
