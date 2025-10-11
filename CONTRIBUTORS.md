@@ -1,7 +1,7 @@
 #### Name: Tarunya Ksh  
-**AI/ML Engineer · 1st Year UG**  
-📍 Delhi, India  
-🔗 [GitHub: Tarunya](https://github.com/TarunyaProgrammer)
+- Bio: AI/ML Engineer · 1st Year UG
+- Place: Delhi, India  
+- GitHub: [Tarunya](https://github.com/TarunyaProgrammer)
 
 #### Name: Vallenain
  - Place: Lyon, France
@@ -24,7 +24,7 @@
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
-- Place: PUNJAB,INDIA
+- Place: PUNJAB, INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
