@@ -8,6 +8,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [Kaylin Yang](https://github.com/kyangOrange)
+- Place: Seattle
+- Bio: high school cs student
+- GitHub: [kyangOrange](https://github.com/kyangOrange)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
