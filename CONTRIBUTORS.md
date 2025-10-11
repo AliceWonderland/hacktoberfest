@@ -135,6 +135,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer
 - GitHub: [akmadhwa](https://github.com/akmadhwa)
 
+
+#### Name: [Aritra](https://github.com/yellowobelisk)
+- Place: India
+- Bio: Developer
+- GitHub: [yellowobelisk](https://github.com/yellowobelisk)
+- 
 #### Name: [Akram Rameez](https://github.com/akram-rameez)
 - Place: Bengaluru, India
 - Bio: I like free T-shirts and I cannot lie.
