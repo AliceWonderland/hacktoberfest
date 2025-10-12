@@ -2430,6 +2430,6 @@ Noida
 
 #### Name: [Thuta Tun](https://github.com/ThutaCodes)
 - Place: Yangon, Myanmar
-- Bio: Backend Engineer with 4 years of experience in Node.js, Golang, and Java Spring. Builds the engines behind user experiences. Delivers impactful solutions across freelance and contract projects, turning real-world challenges into clear, reliable results. Specializes in APIs, databases, system design, integrations, and performance tuning. Makes data move fast, stay consistent, and scale under load. Open to technically interesting collaborations.
+- Bio: Backend Engineer with 4 years of experience in backend development, utilizing NodeJs, Golang, and Java Spring. Builds the engines behind user experiences. Delivers impactful solutions across freelance and contract projects, turning real-world challenges into clear, reliable results. Specializes in APIs, databases, system design, integrations, and performance tuning. Makes data move fast, stay consistent, and scale under load. Open to technically interesting collaborations.
 - Skills: JavaScript, TypeScript, Python, Java, Go, R, Node.js, Express.js, NestJS, React, Vue, Next.js, Spring Boot, Fastify, Laravel, Tailwind CSS, Bootstrap, MongoDB, MySQL, PostgreSQL, SQL, Redis, gRPC, Prisma, Docker, Git, GitHub, Postman, GraphQL, Stripe, Kafka, Nginx, Cloudflare, DigitalOcean, GCP, Azure, Firebase, and others.
 - GitHub: [ThutaCodes](https://github.com/ThutaCodes)
