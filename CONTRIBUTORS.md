@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Vishnu Kothakapu](https://github.com/vishnukothakapu)
+- Place: Nirmal, India
+- Bio: Web Developer
+- Github: [Vishnu Kothakapu](https://github.com/vishnukothakapu)
+  
