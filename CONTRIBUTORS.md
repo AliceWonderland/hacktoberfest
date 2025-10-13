@@ -1,3 +1,8 @@
+#### Name: [ASHESH KARMAKAR](https://github.com/Asheshz)
+- Place: India
+- Bio: Masters student
+- GitHub: [Asheshz](https://github.com/Asheshz)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -2423,7 +2428,9 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ítalo Epifânio](https://github.com/tbdees/)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/tbdees/)
+
+
