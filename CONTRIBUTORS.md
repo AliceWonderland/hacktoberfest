@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luqman Booso](https://github.com/luqmanbooso)
+- Place: Sri Lanka
+- Bio: Software Engineer JAVA | Eager to Contribute
+- Github: [Luqman Booso](https://github.com/luqmanbooso)
