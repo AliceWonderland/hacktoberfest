@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  #### Name: [Bhumi Shah](https://github.com/bhumishah2411)
+- Place: Gujarat, India
+- Bio: Student
+- Github: [Bhumi Shah](https://github.com/bhumishah2411)  
