@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [William Tsou](https://github.com/WilliamTsou)
+- Place: Taiwan, Taipei
+- Bio: A CS student who wants to contribute to open source
+- Github: [William Tsou](https://github.com/WilliamTsou)
