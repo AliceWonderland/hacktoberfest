@@ -1110,6 +1110,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [Jerry Chong](https://github.com/zanglang)
 
+#### Name: [Jessica Cechin](https://www.jessicacechin.com)
+- Place: Nomad, Brazil
+- Bio: Software developer with 7 years of experience
+- GitHub: [Jessica Cechin](https://github.com/cechinjessica)
+
 #### Name: [Jianhao Tan](https://github.com/jaanhio)
 - Place: Singapore
 - Bio: I like spending time in chlorinated water and spitting out codes.
