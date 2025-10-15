@@ -7878,6 +7878,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Family guy, geek, entrepreneur, software craftsman: Microsoft MVP Visual Studio, C#, Xamarin, SQL Server, VFP, MySQL, Linux consultant, conference speaker
 - GitHub: [jochenkirstaetter](https://github.com/jochenkirstaetter)
 - Website: [Get Blogged by JoKi](https://jochen.kirstaetter.name/)
+#### Name: [Shraddha Singh](https://github.com/shraddha09107)
+- place: Mathura
+- Bio: 2nd year AIML student,mysql,html,csss,js,java,python,microsoft azzure certified
+- GitHub: [shraddha0901](https://github.com/shraddha09107)
+  
 
 #### Name: [Jochen Kirstätter](https://github.com/jochenkirstaetter)
 - Place: Mauritius
