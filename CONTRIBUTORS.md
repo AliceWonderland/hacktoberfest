@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [MANOGNA SAMAYAM](https://github.com/manogna7s)
+- Place: India
+- Bio: Digital Nomad
+- GitHub: [Manogna Samayam](https://github.com/manogna7s)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
