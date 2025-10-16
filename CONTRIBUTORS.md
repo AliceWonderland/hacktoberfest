@@ -2210,6 +2210,11 @@ Noida
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
 
+#### Name: [Tharun Kumar](https://github.com/Tharun007-TK)
+- Place: Coimbatore, Tamil Nadu, India
+- Bio: Student, CSE(AI&ML) 
+- GitHub: [Tharun007-TK]([GitHub link](https://github.com/Tharun007-TK))
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
