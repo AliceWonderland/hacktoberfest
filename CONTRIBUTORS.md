@@ -2413,6 +2413,11 @@ Noida
 - Bio: data scientist
 - Github: [syamkumar](https://github.com/syam3526)
 
+#### Name: [Divyansh Shrivastav](https://github.com/DIVYANSH-SHRIVASTAV)
+- Place:uttar pradesh,india
+- Bio: Full Stack Developer
+- Github: [Divyansh Shrivastav](https://github.com/DIVYANSH-SHRIVASTAV)
+
 #### Name: [tbdees](https://github.com/tbdees/)
 - Place: Laguna Beach, CA
 - Bio: financial software consultant
