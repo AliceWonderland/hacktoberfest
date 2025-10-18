@@ -1,3 +1,8 @@
+#### Name: KATHERINE PARK
+ - Place: Bellevue, Washington, USA
+ - Bio: Student, Newport High School.
+ - GitHub: [katapplebanana](https://github.com/katapplebanana)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
