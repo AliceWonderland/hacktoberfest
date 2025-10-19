@@ -519,6 +519,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I'm a german developer who loves to create things :)
 - GitHub: [iamchrishckns](https://github.com/iamchrishckns)
 
+#### Name: [Suraj Joshi](https://github.com/surajoshi0)
+- Place: India
+- Bio: Proficient in the Frontend :)
+- Github: [Suraj Joshi](https://github.com/surajoshi0)
+
 #### Name: [Christopher Bradshaw](https://github.com/kitsune7)
 - Place: Provo, UT, USA
 - Bio: I love FOXES!!! :fox:
