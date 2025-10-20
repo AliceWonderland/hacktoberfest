@@ -1,3 +1,8 @@
+#### Name: Pranjal Mann
+ - Place: Rohtak, Haryana
+ - Bio: 3rd year student at DELHI TECHNOLOGICAL UNIVERSITY.
+ - GitHub: [Pranjal mann](https://github.com/Pranjalmann10)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
