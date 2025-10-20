@@ -1925,6 +1925,11 @@ Noida
 - Bio: Programmer Analyst
 - GitHub: [lullabies](https://github.com/lullabies)
 
+#### Name: [Raul Gonzalez](https://github.com/rgonz166)
+- Place: California, USA
+- Bio: Software Engineer
+- GitHub: [Raul Gonzalez](https://github.com/rgonz166)
+
 #### Name: [Raymond Duckworth](https://github.com/raymondxduckworth/)
 - Place: California, USA
 - Bio: Aspiring full-stack web developer/software engineer. Interested in IoT, AI, & Tech Business.
