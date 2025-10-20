@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mazurie07](https://github.com/Mazurie07)
+- Place: Lomé, TOGO
+- Bio: software engeneern student
+- GitHub: [Mazurie07] (https://github.com/Mazurie07)
