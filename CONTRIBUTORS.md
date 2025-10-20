@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aayush Agrawal](https://github.com/aayushcode04)
+- Place: (Your City, India)  *(example: Mumbai, India — change to your city)*
+- Bio: Aspiring AI & Web Developer | Learning C++, JS & React | ML developer
+
