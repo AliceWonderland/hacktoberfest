@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [vishwajeet deshmane](https://github.com/o000SAI000o)
+- Place: Pune, Maharashtra
+- Bio: Software dev, AI/ML and Devops enthusiast
+- Github: [vishwajeet deshmane](https://github.com/o000SAI000o)
