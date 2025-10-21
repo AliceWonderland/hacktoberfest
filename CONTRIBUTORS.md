@@ -763,6 +763,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Entrepreneur, AI/Robotics Engineer
 - GitHub: [Eric](https://github.com/valleyceo)
 
+#### Name: [Ansh Mehram](https://github.com/AnshMeshram)
+- Place: Maharastra, India
+- Bio: Learning new Technologies, Studying at COEP TECH, Web Developer 
+- GitHub: [Eric](https://github.com/AnshMeshram)
+
 #### Name: [Ermolaev Gleb](https://github.com/ermolaeff/)
 - Place: Moscow, Russia
 - Bio: Student-developer, fond of JAva, Web etc.
