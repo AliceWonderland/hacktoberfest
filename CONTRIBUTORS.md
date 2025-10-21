@@ -1,3 +1,8 @@
+#### Name: Aditya Bhattacharyya
+ - Place: Bellevue, United states of America
+ - Bio: Freshman in Highschool
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
