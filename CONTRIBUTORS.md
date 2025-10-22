@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aparajita K. Singh](https://github.com/aparajitaks)
+- Place: Pune, India
+- Bio: Student at Newton School of Technology | Aspiring AI Engineer
+- GitHub: [aparajitaks](https://github.com/aparajitaks)
