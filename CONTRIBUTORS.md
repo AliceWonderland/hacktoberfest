@@ -1,12 +1,10 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+#### Name: [MUHAMMAD FARHAN SALEEM ](https://github.com/farhann-saleem)
+- Place: Lahore, Pakistan
+- Bio: Machine Learning Engineer | Working on Transformers & Deep Learning Models
+- GitHub: [Farhan Saleem](https://github.com/farhann-saleem)
+- LinkedIn: [Muhammad Farhan Saleem](https://www.linkedin.com/in/chaudary-farhan)
 
-#### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
-- Place: Poland
-- Bio: second year Computer Science Student, in love with NYC <3
-- GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
