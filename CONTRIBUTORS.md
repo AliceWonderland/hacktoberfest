@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Divya Avanigadda](https://github.com/Divya-A10)
+- Place: Hyderabad, India
+- Bio: AI/ML student passionate about open-source and building cool tech projects
+- GitHub: [Divya-A10](https://github.com/Divya-A10)
