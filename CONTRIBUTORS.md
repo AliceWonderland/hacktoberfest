@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- ## Name: [Debdut Nandy]
+- Place: India
+- Bio: Data Analyst and Frontend developer
+- Github: [Debdut Nandy](https://github.com/Deb124-source)
