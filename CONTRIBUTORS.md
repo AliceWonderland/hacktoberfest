@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ÍMowazzem Uddin Ahmed](https://github.com/Rony-2004)
+- Place: West Bengal, India
+- Bio: SDE - (Full Stack)
+- Github: [Rony-2004](https://github.com/Rony-2004)
