@@ -1,0 +1,14 @@
+ 2. Best Time to Buy and Sell Stock (Easy)
+
+Problem: Max profit from one buy-sell transaction.
+
+class Solution {
+    public int maxProfit(int[] prices) {
+        int min = prices[0], profit = 0;
+        for (int p : prices) {
+            min = Math.min(min, p);
+            profit = Math.max(profit, p - min);
+        }
+        return profit;
+    }
+}
