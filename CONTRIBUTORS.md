@@ -1,3 +1,7 @@
+#### Name: Ankit Dey (https://github.com/nonsense3)
+- Place: Kolkata, WB, India
+- Bio: 1st year computer science student , Intermidiate 3D desinger 
+- GitHub: nonsense3 (https://github.com/nonsense3)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
