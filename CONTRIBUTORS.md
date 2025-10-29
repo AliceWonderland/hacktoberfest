@@ -1,3 +1,8 @@
+#### Name: Muhammad Shahmeer
+ - Place: Abu Dhabi, United Arab Emirates
+ - Bio: AI Systems Architect and Visionary.
+ - GitHub: [shahmeer-zx](https://github.com/shahmeer-zx)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.

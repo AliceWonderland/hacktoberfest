@@ -1,0 +1,22 @@
+// LANGUAGE: JavaScript
+// ENV: Node.js
+// AUTHOR: Muhammad Shahmeer
+// GITHUB: https://github.com/shahmeer-zx
+
+
+import random
+
+messages = [
+    "🎃 Happy Hacktoberfest, code warrior!",
+    "👾 You just earned +100 open-source karma!",
+    "🧠 Keep hacking, keep learning, keep growing!",
+    "🚀 One commit closer to glory!",
+    "💻 May your PRs be merged and your bugs be few!"
+]
+
+def greet():
+    name = input("What's your name, hacker? ")
+    print(f"\nHey {name}! {random.choice(messages)}\n")
+
+if __name__ == "__main__":
+    greet()
