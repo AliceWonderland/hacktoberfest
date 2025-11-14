@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pramodh](https://github.com/pramodh7860)
+- Place: Srikakulam, Andhra pradesh, INDIA
+- Bio: Web developer using Java and Block chain enthusiast
+- GitHub: [pramodh7860](https://github.com/pramodh7860)
