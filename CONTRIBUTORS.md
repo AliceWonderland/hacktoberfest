@@ -1,3 +1,8 @@
+#### Name: [Vineet Yadav](https://github.com/vineet3458)
+- Place: New Delhi, India
+- Bio: Student, Currently pursuing BTech CS-IT
+- GitHub: [Vineet Yadav](https://github.com/vineet3458)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
