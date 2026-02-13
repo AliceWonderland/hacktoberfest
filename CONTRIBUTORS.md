@@ -2427,3 +2427,14 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Abhi Ram](https://github.com/cruiz24)
+- Place: Kerala,India
+- Bio: Cryptos,Stocks,Coding.
+- GitHub: [Abhi](https://github.com/cruiz24)
+
+#### Name: [Abhiram](https://github.com/sphinxcastor)
+- Place: Kerala,India
+- Bio: Memes,Nature,Coding.
+- GitHub: [Abhiram](https://github.com/sphinxcastor)
