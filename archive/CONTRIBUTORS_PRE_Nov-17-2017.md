@@ -258,6 +258,11 @@
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
+#### Name: [BadraAfroz](https://github.com/AfrozBadra)
+- Place: INDIA
+- Bio: Engineer who enjoys coding, learning new technologies, and chilling.
+- GitHub: [AfrozBadra](https://github.com/AfrozBadra)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
