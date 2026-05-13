@@ -1178,6 +1178,11 @@ to explore life. Also, Python and Django Developer
 -Bio: Web Developer
 -GitHub: [Jon Rinciari] (https://github.com/jonathanRinciari)
 
+#### Name: [Jesse Mwangi](https://github.com/gitdajesse)
+- Place: Nairobi, Kenya
+- Bio: Software Engineer
+- GitHub: [gitdajesse](https://github.com/gitdajesse)
+
 #### Name: [Jonas Fabisiak](https://github.com/RenCloud)
 - Place: Hanover, Germany
 - Bio: IT Student
