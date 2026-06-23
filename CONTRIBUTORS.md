@@ -1,3 +1,7 @@
+#### Name: Tania Shishodia
+- Place: Uttar Pradesh, India
+- Bio: Student(Btech CSE)
+- GitHub: [Tania-shishodia01](https://github.com/Tania-shishodia01)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
