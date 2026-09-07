@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Parth Mahajan](https://github.com/ParthMahajan1020)
+- Place: Pune, Maharashtra
+- Bio: Full-Stack Web developer, Strong Problem Solving Skill
+- Github: [ParthMahajan1020](https://github.com/ParthMahajan.com)

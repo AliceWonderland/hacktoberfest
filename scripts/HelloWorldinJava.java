@@ -2,8 +2,8 @@
 // GitHub: https://github.com/tboyle621
 // Language: Java
 
-public class HelloWorldJava {
-  public static void main() {
+public class HelloWorldinJava {
+  public static void main(String[] args) {
     System.out.println("Hello world!");
   }
 }
