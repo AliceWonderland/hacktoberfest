@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Alejandro Rudas](https://github.com/EmCeeBroo)
+- Place: Bogotá, Colombia
+- Bio: Buen dia estimados. Soy Alejandro Rudas, Deesarrollador de Software, 
+amante de los Shooters, libros y el anime 😎
+- GitHub: [EmCeeBroo - EmCeeCode](https://github.com/EmCeeBroo) 
