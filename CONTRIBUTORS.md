@@ -2176,6 +2176,12 @@ Noida
 - Bio: Currently studying computerscience at Aarhus University
 - Github: [Søren Eriksen](https://github.com/soer7022)
 
+#### Name: [Sumit Kumar Rajak](https://github.com/krsumitkr02)
+- Place: India
+- Bio: Currently studying Mechanical Engineering at NIT Jamshedpur
+- Github: [Sumit](https://github.com/krsumitkr02)
+
+
 #### Name: [Taf Meister](https://github.com/tashrafy)
 - Place: NYC
 - Bio: Developer =]
